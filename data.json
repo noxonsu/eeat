@@ -1,45 +1,18 @@
 {
-    "www.togggle.io": {
-        "url": "https://www.togggle.io/blog/which-is-the-best-kyc-solution-in-2023",
-        "nature": "single product"
-    },
-    "sourceforge.net": {
-        "url": "https://sourceforge.net/software/kyc/"
-    },
-    "www.quora.com": {
-        "url": "https://www.quora.com/What-is-the-best-API-driven-solution-for-KYC-compliance"
-    },
-    "candices.medium.com": {
-        "url": "https://candices.medium.com/top-10-kyc-aml-service-providers-d8bee5744904"
-    },
-    "justcoded.com": {
-        "url": "https://justcoded.com/blog/leveraging-technology-for-customer-onboarding-overview-of-online-kyc-providers/"
-    },
-    "sumsub.com": {
-        "url": "https://sumsub.com/kyc-compliance/"
-    },
-    "mambu.com": {
-        "url": "https://mambu.com/insights/articles/what-is-kyc-in-financial-services"
-    },
-    "www.swiftdil.com": {
-        "url": "https://www.swiftdil.com/"
-    },
-    "ekata.com": {
-        "url": "https://ekata.com/kyc-compliance-account-opening-api-lp/"
-    },
-    "ondato.com": {
-        "url": "https://ondato.com/"
-    },
     "smartkyc.com": {
-        "url": "https://smartkyc.com/"
+        "url": "https://smartkyc.com/",
+        "nature": "list of products"
     },
     "www.zignsec.com": {
-        "url": "https://www.zignsec.com/blog/the-benefits-of-saas-solutions-for-streamlining-identity-verification-in-your-online-business"
+        "url": "https://www.zignsec.com/blog/the-benefits-of-saas-solutions-for-streamlining-identity-verification-in-your-online-business",
+        "nature": "single product"
     },
     "www.amlrightsource.com": {
-        "url": "https://www.amlrightsource.com/news/7-ways-apis-are-revolutionizing-kyc-aml/"
+        "url": "https://www.amlrightsource.com/news/7-ways-apis-are-revolutionizing-kyc-aml/",
+        "nature": "single product"
     },
     "www.fenergo.com": {
-        "url": "https://www.fenergo.com/know-your-customer-kyc-solution"
+        "url": "https://www.fenergo.com/know-your-customer-kyc-solution",
+        "nature": "list of products"
     }
 }
