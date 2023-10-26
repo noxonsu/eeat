@@ -1,0 +1,10 @@
+openai 
+langchain 
+playwright 
+beautifulsoup4
+html2text
+tiktoken
+pyrogram
+Web3
+serpapi
+google-search-results
