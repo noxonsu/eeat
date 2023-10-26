@@ -35,7 +35,7 @@ def extract_content(site):
 def is_product_or_list(summary,company_products):
     chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k-0613")
     messages = [
-        SystemMessage(content="We are looking for KYC providers SaaS or API. Determine if the provided summary describes either multiple products (services, projects) from different companies or a few products from the same company. If it's a list of products from different companies, extract the names mentioned in the summary in the format 'Company_name: product_name' or just 'product_name'. Then, return a 'list of products' with each product numbered and the company name (if applicable) mentioned next to each product's name, with one product per line. If the summary does not describe a single product or a list of products from different companies, return 'Invalid' and provide a brief explanation as to why."),
+        SystemMessage(content="We are looking for KYC providers SaaS or API. Determine if the provided summary describes either multiple products (services, projects) from different companies or a few products from the same company. If it's a list of products from different companies, extract the names mentioned in the summary in the format 'Company_name: product_name' or just 'product_name'. Then, return a 'list of products' with each product numbered and the company name (if applicable) mentioned next to each product's name, with one product per line. Don't return 'List of products' if all of them from one company. If the summary does not describe a single product or a list of products from different companies, return 'Invalid' and provide a brief explanation as to why."),
         HumanMessage(content=summary)
     ]
 
