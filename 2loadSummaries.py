@@ -35,7 +35,7 @@ def extract_content(site):
 def is_product_or_list(summary,company_products):
     chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
     messages = [
-        SystemMessage(content="Given a text input (Skip 'Cookie' section), identify the products, services, or solutions of companies mentioned in the text. If the products or services is associated with the one company, provide the output as 'All products/services mentioned belong to [Company_name]'. If All products/services mentioned belong to the respective companies mentioned in the text, extract the company-product pairs in the format 'Company_name: product_name' each project at new line with number and provide output as 'List of projects:'. In the list skip projects without company name. Exclude any duplicates or redundancies."),
+        SystemMessage(content="Given a text input, identify the products, services, or solutions of companies mentioned in the text. If the products or services is associated with the one company, provide the output as 'All products/services mentioned belong to [Company_name]'. IF there a list of products services or projects are from different companies in the text say 'Yes, this list of products belongs to different companies.'"),
         HumanMessage(content=summary)
     ]
 
@@ -43,18 +43,25 @@ def is_product_or_list(summary,company_products):
         response = chat(messages)
         gpt_response = response.content
 
-        response2 = chat(messages = [
-            SystemMessage(content="is this list of products of the one company and which name of this company? "),
-            HumanMessage(content=gpt_response)
-        ])
-
-        if "Yes" in response2.content:
+        if "belongs to different companies" in gpt_response:
+            response2 = chat(messages = [
+                SystemMessage(content="Extract the company-product pairs in the format 'Company_name: product_name' each project at new line with number and provide output as 'List of projects:'. Exclude any duplicates or redundancies. Exclude projects which not in category 'KYC API SaaS'"),
+                HumanMessage(content=gpt_response)
+            ])
             gpt_response = response2.content
+        else:
+            response2 = chat(messages = [
+                SystemMessage(content="is this list of products of the one company and which name of this company? "),
+                HumanMessage(content=gpt_response)
+            ])
+
+            if "Yes" in response2.content:
+                gpt_response = response2.content
         
         # Check if it's a list of products
         if "invalid" in gpt_response:
             return "invalid", []
-        elif "List of project" in gpt_response:
+        elif "List of projects" in gpt_response:
             # Extract company-product pairs from the response
             product_lines = gpt_response.split("\n")
 
@@ -64,7 +71,7 @@ def is_product_or_list(summary,company_products):
                     company_name, product_name = parts[0], parts[1]
                     company_products.append(f"{company_name}: {product_name}")
 
-            return "list of project", company_products
+            return "list of projects", company_products
         else:
             return "single project", []
 
@@ -105,11 +112,14 @@ def main():
         # Save the nature into the data dictionary for that domain
         data[domain]["nature"] = nature
 
-        if nature == "list of project":
+        if nature == "list of projects":
             print("list of companies saved")
             # Check if the company already exists
             for company_product in extracted_links:
+                company_product = re.sub(r'^\d+\.\s*', '', company_product)
                 company_name = company_product.split(":")[0].strip()
+                company_name = re.sub(r'^\d+\.\s*', '', company_name)
+
                 if company_name not in companies:
                     companies.add(company_name)
                     company_products.add(company_product)
