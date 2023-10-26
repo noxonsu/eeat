@@ -33,9 +33,9 @@ def extract_content(site):
 
 
 def is_product_or_list(summary,company_products):
-    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k-0613")
+    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
     messages = [
-        SystemMessage(content="We are looking for KYC providers SaaS or API. Determine if the provided summary describes either multiple products (services, projects) from different companies or a few products from the same company. If it's a list of products from different companies, extract the names mentioned in the summary in the format 'Company_name: product_name' or just 'product_name'. Then, return a 'list of products' with each product numbered and the company name (if applicable) mentioned next to each product's name, with one product per line. Don't return 'List of products' if all of them from one company. If the summary does not describe a single product or a list of products from different companies, return 'Invalid' and provide a brief explanation as to why."),
+        SystemMessage(content="Given a text input (Skip 'Cookie' section), identify the products, services, or solutions of companies mentioned in the text. If the products or services is associated with the one company, provide the output as 'All products/services mentioned belong to [Company_name]'. If All products/services mentioned belong to the respective companies mentioned in the text, extract the company-product pairs in the format 'Company_name: product_name' each project at new line with number and provide output as 'List of projects:'. In the list skip projects without company name. Exclude any duplicates or redundancies."),
         HumanMessage(content=summary)
     ]
 
@@ -43,10 +43,18 @@ def is_product_or_list(summary,company_products):
         response = chat(messages)
         gpt_response = response.content
 
+        response2 = chat(messages = [
+            SystemMessage(content="is this list of products of the one company and which name of this company? "),
+            HumanMessage(content=gpt_response)
+        ])
+
+        if "Yes" in response2.content:
+            gpt_response = response2.content
+        
         # Check if it's a list of products
         if "invalid" in gpt_response:
             return "invalid", []
-        elif "List of products" in gpt_response:
+        elif "List of project" in gpt_response:
             # Extract company-product pairs from the response
             product_lines = gpt_response.split("\n")
 
@@ -56,64 +64,99 @@ def is_product_or_list(summary,company_products):
                     company_name, product_name = parts[0], parts[1]
                     company_products.append(f"{company_name}: {product_name}")
 
-            return "list of products", company_products
+            return "list of project", company_products
         else:
-            return "single product", []
+            return "single project", []
 
     except Exception as e:
         print(f"An error occurred: {e}")
         return "unknown", []
 
 
-
-def extract_links_from_summary(summary):
-    soup = BeautifulSoup(summary, 'html.parser')
-    links = [a['href'] for a in soup.find_all('a', href=True)]
-    return links
-
-
 def main():
     # Load data
     data = load_data_without_nature("data.json")
 
-    # Initialize company_products as an empty list
-    
+    # Initialize company_products as an empty set and companies as an empty set
+    company_products = set()
+    companies = set()
 
     try:
         # Load company_products from "products.json" if it exists
         with open("products.json", "r") as f:
-            company_products = json.load(f)
+            company_products = set(json.load(f))
+    except FileNotFoundError:
+        pass
+
+    try:
+        # Load companies from "companies.json" if it exists
+        with open("companies.json", "r") as f:
+            companies = set(json.load(f))
     except FileNotFoundError:
         pass
 
     # Iterate through the data dictionary
     for domain, domain_data in data.items():
-        company_products = load_products("products.json")
         url = domain_data["url"]
         summary = extract_content(url)
 
-        nature, extracted_links = is_product_or_list(summary,company_products)
+        nature, extracted_links = is_product_or_list(summary, list(company_products))
 
         # Save the nature into the data dictionary for that domain
         data[domain]["nature"] = nature
 
-        if nature == "list of products":
+        if nature == "list of project":
             print("list of companies saved")
-            # Append the new company products to the existing list
-            company_products.extend(extracted_links)
-        elif nature == "single product":
+            # Check if the company already exists
+            for company_product in extracted_links:
+                company_name = company_product.split(":")[0].strip()
+                if company_name not in companies:
+                    companies.add(company_name)
+                    company_products.add(company_product)
+        elif nature == "single project":
             # Save the site's summary to an individual JSON file in the 'data/' directory
             file_path = os.path.join("data", f"{domain}.json")
             with open(file_path, "w") as file:
                 json.dump({'summary': summary}, file, indent=4)
+            # Add the domain (which presumably is the company name) to the companies set
+            companies.add(domain)
 
-        # Save modified data.json file after processing all items
+
+        # Load the current content of data.json
+        with open("data.json", "r") as f:
+            current_data = json.load(f)
+
+        # Update the current_data with new information
+        current_data[domain] = data[domain]
+
+        # Save the updated data back to data.json
         with open("data.json", "w") as f:
-            json.dump(data, f, indent=4)
+            json.dump(current_data, f, indent=4)
 
-        # Save the updated company_products back to "products.json"
+
+        # Load the current content of products.json
+        with open("products.json", "r") as f:
+            current_products = set(json.load(f))
+
+        # Update the current_products with new products
+        current_products.update(company_products)
+
+        # Save the updated products back to products.json
         with open("products.json", "w") as f:
-            json.dump(company_products, f, indent=4)
+            json.dump(list(current_products), f, indent=4)
+
+
+        # Load the current content of companies.json
+        with open("companies.json", "r") as f:
+            current_companies = set(json.load(f))
+
+        # Update the current_companies with new companies
+        current_companies.update(companies)
+
+        # Save the updated companies back to companies.json
+        with open("companies.json", "w") as f:
+            json.dump(list(current_companies), f, indent=4)
+
 
 if __name__ == "__main__":
     main()
