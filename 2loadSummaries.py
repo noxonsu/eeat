@@ -35,7 +35,7 @@ def extract_content(site):
 def is_product_or_list(summary,company_products):
     chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
     messages = [
-        SystemMessage(content="Given a text input, identify the products, services, or solutions of companies mentioned in the text. If the products or services is associated with the one company, provide the output as 'All products/services mentioned belong to [Company_name]'. IF there a list of products services or projects are from different companies in the text say 'Yes, this list of products belongs to different companies.'"),
+        SystemMessage(content="Given a text input, identify the products, services, or solutions of companies mentioned in the text. If the products or services is associated with the one company, provide the output as 'All products/services mentioned belong to the one company [Company_name]'. IF there a list of products services or projects are from different companies in the text say 'Yes, this list of products belongs to different companies.'"),
         HumanMessage(content=summary)
     ]
 
@@ -43,10 +43,10 @@ def is_product_or_list(summary,company_products):
         response = chat(messages)
         gpt_response = response.content
 
-        if "belongs to different companies" in gpt_response:
+        if "belongs to different companies" in gpt_response or "belong to the respective companies" in gpt_response:
             response2 = chat(messages = [
-                SystemMessage(content="Extract the company-product pairs in the format 'Company_name: product_name' each project at new line with number and provide output as 'List of projects:'. Exclude any duplicates or redundancies. Exclude projects which not in category 'KYC API SaaS'"),
-                HumanMessage(content=gpt_response)
+                SystemMessage(content="Extract the company-product pairs in the format 'Company_name: product_name' each project at new line and provide output as 'List of projects:'. Exclude any duplicates or redundancies. Exclude projects which not in category 'KYC API SaaS'"),
+                HumanMessage(content=gpt_response+summary)
             ])
             gpt_response = response2.content
         else:
@@ -113,7 +113,7 @@ def main():
         data[domain]["nature"] = nature
 
         if nature == "list of projects":
-            print("list of companies saved")
+            print("list of companies to be saved")
             # Check if the company already exists
             for company_product in extracted_links:
                 company_product = re.sub(r'^\d+\.\s*', '', company_product)
