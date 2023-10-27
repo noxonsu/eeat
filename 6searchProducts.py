@@ -13,13 +13,12 @@ if not SERPAPI_KEY:
     print("Please set the SERPAPI_KEY environment variable.")
     exit()
 
-
 def findOfficialDomain(serp, project_name):
     
     chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-0613")
     messages = [
-        SystemMessage(content="Analyse SERP and Identify company-specific domains based on a given Google search query. '"+project_name+"'. we are only looking for a commercial sites, not 'top 10' articles or News or information portals, qurey answer and other information. Return only list of urls if found. Return only urls without quotes etc."),
-        HumanMessage(content=f" {serp} \n\n The urls list: ")
+        SystemMessage(content="Analyse SERP and find the official domain URL of the project named '"+project_name+"'. Return only one URL if found starts with https://. Return only URL without quotes etc."),
+        HumanMessage(content=f" {serp} \n\n The official domain is: ")
     ]
 
     try:
@@ -57,7 +56,6 @@ def search_google(nameOfProject):
         print(results)  # This will print the structure of results to inspect it
         return []
 
-
 def extract_domain_from_url(url):
     """Extract the domain from a given URL."""
     parsed_uri = urlparse(url)
@@ -82,34 +80,44 @@ def save_to_json_file(data):
     with open('data.json', 'w') as file:
         json.dump(existing_data, file, indent=4)
 
+def is_valid_domain(domain):
+    # A simple regex to validate domain names
+    pattern = re.compile(r"^(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z0-9][a-z0-9-]{0,61}[a-z0-9]$")
+    return bool(pattern.match(domain))
+
 def main():
-    
-    name_project = "KYC providers SaaS or API"
-    print(name_project+"\n")
-    organic_results = search_google(name_project)
-    print(organic_results)
-            
-    serp=""
-    for result in organic_results:
-        if "snippet" not in result:
-            result["snippet"] = ""
-        serp += (str(result["position"]) +". " + result["link"]+" "+result["title"]+" "+result["snippet"])
-            
-    urls=findOfficialDomain(serp,name_project)
+    # Try to load existing data from 'data.json'
+    try:
+        with open('data.json', 'r') as file:
+            data = json.load(file)
+    except (FileNotFoundError, json.JSONDecodeError):
+        data = {}
 
-    # Assuming the returned URLs are separated by commas or spaces
-    url_list = re.split(r'[,\s]+', urls)
+    with open('products.json', 'r') as products_file:
+        product_names = json.load(products_file)
 
-    # Create a dictionary where the domain name is the key
-    data = {}
-    for url in url_list:
+    for name_project in product_names:
+        print(name_project + "\n")
+        organic_results = search_google(name_project)
+        print(organic_results)
+
+        serp = ""
+        for result in organic_results:
+            if "snippet" not in result:
+                result["snippet"] = ""
+            serp += (str(result["position"]) + ". " + result["link"] + "\n" + result["title"] + "\n" + result["snippet"] + "\n\n")
+
+        url = findOfficialDomain(serp, name_project)
+
         domain = extract_domain_from_url(url)
-        if domain:  # Ensuring domain is not empty
-            data[domain] = {'url':url}
 
-    # Save the data to data.json
-    save_to_json_file(data)
-    print("Data saved to data.json")
+        if domain != "not found" and is_valid_domain(domain) and domain not in data:  # Check if domain is not already in data
+            data[domain] = {'url': url}
+
+        # Save the data to data.json
+        save_to_json_file(data)
+        print("Data saved to data.json")
 
 if __name__ == '__main__':
     main()
+

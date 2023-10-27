@@ -78,5 +78,89 @@
     "www.fenergo.com": {
         "url": "https://www.fenergo.com/know-your-customer-kyc-solution",
         "nature": "single project"
+    },
+    "www.identitymindglobal.com": {
+        "url": "https://www.identitymindglobal.com/"
+    },
+    "www.transunion.com": {
+        "url": "https://www.transunion.com/"
+    },
+    "www.acuant.com": {
+        "url": "https://www.acuant.com/"
+    },
+    "4stop.com": {
+        "url": "https://4stop.com/"
+    },
+    "www.refinitiv.com": {
+        "url": "https://www.refinitiv.com/"
+    },
+    "www.experian.com": {
+        "url": "https://www.experian.com"
+    },
+    "www.id.me": {
+        "url": "https://www.id.me/"
+    },
+    "kyc-chain.com": {
+        "url": "https://kyc-chain.com/"
+    },
+    "www.au10tix.com": {
+        "url": "https://www.au10tix.com/"
+    },
+    "shuftipro.com": {
+        "url": "https://shuftipro.com/"
+    },
+    "cognitohq.com": {
+        "url": "https://cognitohq.com/"
+    },
+    "risk.lexisnexis.com": {
+        "url": "https://risk.lexisnexis.com/"
+    },
+    "www.idmerit.com": {
+        "url": "https://www.idmerit.com/"
+    },
+    "www.jumio.com": {
+        "url": "https://www.jumio.com/"
+    },
+    "www.gbgplc.com": {
+        "url": "https://www.gbgplc.com/"
+    },
+    "www.veriff.com": {
+        "url": "https://www.veriff.com/"
+    },
+    "www.trulioo.com": {
+        "url": "https://www.trulioo.com/"
+    },
+    "www.socure.com": {
+        "url": "https://www.socure.com/"
+    },
+    "www.miteksystems.com": {
+        "url": "https://www.miteksystems.com/"
+    },
+    "www.thalesgroup.com": {
+        "url": "https://www.thalesgroup.com/"
+    },
+    "www.equifax.com": {
+        "url": "https://www.equifax.com/"
+    },
+    "www.idology.com": {
+        "url": "https://www.idology.com/"
+    },
+    "onfido.com": {
+        "url": "https://onfido.com/"
+    },
+    "riskmanagement.lexisnexis.com": {
+        "url": "https://riskmanagement.lexisnexis.com/"
+    },
+    "complyadvantage.com": {
+        "url": "https://complyadvantage.com/"
+    },
+    "web.fractal.id": {
+        "url": "https://web.fractal.id/"
+    },
+    "www.idnow.io": {
+        "url": "https://www.idnow.io/"
+    },
+    "withpersona.com": {
+        "url": "https://withpersona.com/"
     }
 }
