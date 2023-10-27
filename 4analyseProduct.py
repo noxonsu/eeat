@@ -9,9 +9,18 @@ import os
 from langchain.chat_models import ChatOpenAI
 from bs4 import BeautifulSoup
 import re
-
+from langchain.chains.conversation.memory import ConversationBufferWindowMemory
+from langchain.chains import ConversationChain
 import json
-
+from langchain.prompts import (
+    ChatPromptTemplate,
+    MessagesPlaceholder,
+    SystemMessagePromptTemplate,
+    HumanMessagePromptTemplate,
+)
+from langchain.chains import LLMChain
+from langchain.chains.conversation.memory import ConversationBufferMemory
+from langchain.memory import ConversationSummaryBufferMemory
 
 import os
 
@@ -28,22 +37,69 @@ def load_summaries_from_data_folder(folder_path="data"):
                     summaries[domain_name] = content["summary"]
     return summaries
 
+
+llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
+
+# Create the ChatPromptTemplate
+prompt = ChatPromptTemplate(
+    messages=[
+        SystemMessagePromptTemplate.from_template("""Instructions for Assistant to Analyze KYC API Service Providers
+
+Objective: To determine the critical characteristics or features of the chosen KYC API service providers that may be important to consumers.
+
+Preparation:
+
+Familiarize yourself with the content from the main pages of the 10 companies provided.
+Get a broad understanding of KYC (Know Your Customer) and its implications in the industry.
+
+Use the provided content and conduct additional research if necessary.
+Collate findings in a structured manner. For each provider, list down how they fare in each of the criteria.
+Use ChatGPT for assistance in understanding technical jargon or for any questions related to the topic.
+Presentation:
+
+Summarize your findings in a concise manner.
+Create a comparison chart or table to visually represent how each service provider measures up against the set criteria.
+Final Note: Always ensure unbiased analysis. The goal is to provide an objective view of each KYC API service provider's offerings, highlighting both strengths and potential areas for improvement.  Provide the results in JSON format."""
+                                                  ),
+        MessagesPlaceholder(variable_name="history"),
+        HumanMessagePromptTemplate.from_template("{input}")
+    ]
+)
+
+# Initialize the ConversationBufferMemory and LLMChain
+memory = ConversationSummaryBufferMemory(llm=llm, max_token_limit=5000, return_messages=True)
+
+conversation = ConversationChain(llm=llm, prompt=prompt, memory=memory)
+
+
 def get_company_details(summary):
-    """Extract details of the company using ChatOpenAI."""
-    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
+    """Extract details of the company using the LLMChain."""
+    
+    question_content = summary
 
-    response = chat(messages=[
-        SystemMessage(content="Extract a list of services provided by the company, their prices, and the features they're proud of. Also, check if they have an API. Provide the results in JSON format."),
-        HumanMessage(content=summary)
-    ])
-
-    gpt_response = response.content
+    response = conversation({ "input": question_content})
+    
+    gpt_response = response['response']
     try:
-        # Try to convert the response to a JSON object
         return json.loads(gpt_response)
     except json.JSONDecodeError:
         print(f"Failed to decode JSON for response: {gpt_response}")
         return None
+    
+def create_comparison_table():
+    """Creates a comparative table for companies using the LLMChain."""
+    
+    with open('company_details.json', 'r') as f:
+        company_details = json.load(f)
+
+    request_content = json.dumps(company_details, indent=4)
+    response = conversation({"question": request_content})
+
+    gpt_response = response.content
+    with open('comparison_table.md', 'w', encoding='utf-8') as f:
+        f.write(gpt_response)
+
+    return gpt_response
 
 def load_existing_company_details(filename="company_details.json"):
     """Loads existing company details from the specified JSON file."""
@@ -51,29 +107,7 @@ def load_existing_company_details(filename="company_details.json"):
         with open(filename, "r") as f:
             return json.load(f)
     return {}
-def create_comparison_table():
-    """Creates a comparative table for companies using ChatOpenAI."""
-    
-    # Load the company details
-    with open('company_details.json', 'r') as f:
-        company_details = json.load(f)
 
-    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
-
-    # Create the request to get a comparative table
-    request_content = json.dumps(company_details, indent=4)
-    response = chat(messages=[
-        SystemMessage(content="make a feature comparison table (features one per letter, companies are columns). Return markdown"),
-        HumanMessage(content=request_content)
-    ])
-
-    gpt_response = response.content
-
-    # Save or process the response as needed, for instance, saving to a new file:
-    with open('comparison_table.md', 'w', encoding='utf-8') as f:
-        f.write(gpt_response)
-
-    return gpt_response
 
 def main():
     # Load the summaries from the /data folder
@@ -95,7 +129,6 @@ def main():
     with open('company_details.json', 'w') as f:
         json.dump(company_details, f, indent=4)
 
-    print(create_comparison_table())
 if __name__ == "__main__":
     main()
 

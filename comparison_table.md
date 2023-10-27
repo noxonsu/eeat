@@ -1,85 +1,313 @@
-| Feature                      | ekata.com | justcoded.com | mambu.com | sdk.finance | smartkyc.com | sourceforge.net | sumsub.com | amlrightsource.com | complycube.com | fenergo.com | swiftdil.com | techmagic.c | togggle.i | zignsec.com |
-|------------------------------|-----------|---------------|-----------|-------------|--------------|-----------------|------------|--------------------|----------------|-------------|--------------|-------------|------------|
-| Account Opening API          | ✔️         |               |           |             |              |                 |            |                    |                |             |              |             |            |
-| Pro Insight                  | ✔️         |               |           |             |              |                 |            |                    |                |             |              |             |            |
-| Transaction Risk API         | ✔️         |               |           |             |              |                 |            |                    |                |             |              |             |            |
-| Address Risk API             | ✔️         |               |           |             |              |                 |            |                    |                |             |              |             |            |
-| Phone Intelligence API       | ✔️         |               |           |             |              |                 |            |                    |                |             |              |             |            |
-| Digital product development  |           | ✔️             |           |             |              |                 |            |                    |                |             |              |             |            |
-| Business analysis            |           | ✔️             |           |             |              |                 |            |                    |                |             |              |             |            |
-| UI/UX Design                 |           | ✔️             |           |             |              |                 |            |                    |                |             |              |             |            |
-| Support                      |           | ✔️             |           |             |              |                 |            |                    |                |             |              |             |            |
-| LenderKit                    |           | ✔️             |           |             |              |                 |            |                    |                |             |              |             |            |
-| CrowdSpace                   |           | ✔️             |           |             |              |                 |            |                    |                |             |              |             |            |
-| Crowdfunding                 |           | ✔️             |           |             |              |                 |            |                    |                |             |              |             |            |
-| Online investment            |           | ✔️             |           |             |              |                 |            |                    |                |             |              |             |            |
-| P2P lending                  |           | ✔️             |           |             |              |                 |            |                    |                |             |              |             |            |
-| Impact investing             |           | ✔️             |           |             |              |                 |            |                    |                |             |              |             |            |
-| Industry insights            |           | ✔️             |           |             |              |                 |            |                    |                |             |              |             |            |
-| Enablement                   |           |               | ✔️         |             |              |                 |            |                    |                |             |              |             |            |
-| Advisory                     |           |               | ✔️         |             |              |                 |            |                    |                |             |              |             |            |
-| Ecosystem                    |           |               | ✔️         |             |              |                 |            |                    |                |             |              |             |            |
-| Lending                      |           |               | ✔️         |             |              |                 |            |                    |                |             |              |             |            |
-| Daily banking solutions      |           |               | ✔️         |             |              |                 |            |                    |                |             |              |             |            |
-| Embedded finance             |           |               | ✔️         |             |              |                 |            |                    |                |             |              |             |            |
-| Banking-as-a-Service         |           |               | ✔️         |             |              |                 |            |                    |                |             |              |             |            |
-| Fintech software development |           |               |           | ✔️           |              |                 |            |                    |                |             |              |             |            |
-| Ewallet development          |           |               |           | ✔️           |              |                 |            |                    |                |             |              |             |            |
-| P2P payment app development  |           |               |           | ✔️           |              |                 |            |                    |                |             |              |             |            |
-| Dedicated development team   |           |               |           | ✔️           |              |                 |            |                    |                |             |              |             |            |
-| Private Banking & Wealth Management |           |               |           |             | ✔️            |                 |            |                    |                |             |              |             |            |
-| Corporate & Investment Banking |           |               |           |             | ✔️            |                 |            |                    |                |             |              |             |            |
-| Retail Banking               |           |               |           |             | ✔️            |                 |            |                    |                |             |              |             |            |
-| Compliance Advisory & Support Services |           |               |           |             | ✔️            |                 |            |                    |                |             |              |             |            |
-| Multinationals               |           |               |           |             | ✔️            |                 |            |                    |                |             |              |             |            |
-| Adverse Media                |           |               |           |             | ✔️            |                 |            |                    |                |             |              |             |            |
-| Periodic Refresh             |           |               |           |             | ✔️            |                 |            |                    |                |             |              |             |            |
-| Perpetual KYC                |           |               |           |             | ✔️            |                 |            |                    |                |             |              |             |            |
-| Batch Remediation            |           |               |           |             | ✔️            |                 |            |                    |                |             |              |             |            |
-| List Screening & Entity Resolution |           |               |           |             | ✔️            |                 |            |                    |                |             |              |             |            |
-| Source of Wealth             |           |               |           |             | ✔️            |                 |            |                    |                |             |              |             |            |
-| Network Mapping & Relationship Risk |           |               |           |             | ✔️            |                 |            |                    |                |             |              |             |            |
-| Robo Onboarding              |           |               |           |             | ✔️            |                 |            |                    |                |             |              |             |            |
-| ESG Risk Intelligence        |           |               |           |             | ✔️            |                 |            |                    |                |             |              |             |            |
-| Lead Generation & Target Profiling |           |               |           |             | ✔️            |                 |            |                    |                |             |              |             |            |
-| smartEYE for Banks           |           |               |           |             | ✔️            |                 |            |                    |                |             |              |             |            |
-| smartEYE for Corporates      |           |               |           |             | ✔️            |                 |            |                    |                |             |              |             |            |
-| Source Code Management       |           |               |           |             |              | ✔️               |            |                    |                |             |              |             |            |
-| Project Hosting              |           |               |           |             |              | ✔️               |            |                    |                |             |              |             |            |
-| Software Development         |           |               |           |             |              | ✔️               |            |                    |                |             |              |             |            |
-| File Hosting                 |           |               |           |             |              | ✔️               |            |                    |                |             |              |             |            |
-| User Verification            |           |               |           |             |              |                 | ✔️          |                    |                |             |              |             |            |
-| Business Verification        |           |               |           |             |              |                 | ✔️          |                    |                |             |              |             |            |
-| Transaction Monitoring       |           |               |           |             |              |                 | ✔️          |                    |                |             |              |             |            |
-| ID Verification              |           |               |           |             |              |                 | ✔️          |                    |                |             |              |             |            |
-| Address Verification         |           |               |           |             |              |                 | ✔️          |                    |                |             |              |             |            |
-| Video Identification         |           |               |           |             |              |                 | ✔️          |                    |                |             |              |             |            |
-| AML Screening                |           |               |           |             |              |                 | ✔️          |                    |                |             |              |             |            |
-| Workflow Builder             |           |               |           |             |              |                 | ✔️          |                    |                |             |              |             |            |
-| Non-Doc Verification         |           |               |           |             |              |                 | ✔️          |                    |                |             |              |             |            |
-| Managed Services             |           |               |           |             |              |                 |            | ✔️                  |                |             |              |             |            |
-| Advisory Services            |           |               |           |             |              |                 |            | ✔️                  |                |             |              |             |            |
-| Adverse Media Monitoring     |           |               |           |             |              |                 |            | ✔️                  |                |             |              |             |            |
-| AI Auto Due Diligence        |           |               |           |             |              |                 |            | ✔️                  |                |             |              |             |            |
-| AI Auto Investigator         |           |               |           |             |              |                 |            | ✔️                  |                |             |              |             |            |
-| Entity Enrichment & Monitoring |           |               |           |             |              |                 |            | ✔️                  |                |             |              |             |            |
-| Guided Due Diligence         |           |               |           |             |              |                 |            | ✔️                  |                |             |              |             |            |
-| Risk & Watchlist Monitoring  |           |               |           |             |              |                 |            | ✔️                  |                |             |              |             |            |
-| Third-Party Due Diligence    |           |               |           |             |              |                 |            | ✔️                  |                |             |              |             |            |
-| Third-Party Media Monitoring |           |               |           |             |              |                 |            | ✔️                  |                |             |              |             |            |
-| Third-Party Onboarding       |           |               |           |             |              |                 |            | ✔️                  |                |             |              |             |            |
-| Third-Party Risk Monitoring  |           |               |           |             |              |                 |            | ✔️                  |                |             |              |             |            |
-| Know Your Customer (KYC)     |           |               |           |             |              |                 |            |                    | ✔️              |             |              |             |            |
-| Client Onboarding            |           |               |           |             |              |                 |            |                    | ✔️              |             |              |             |            |
-| Transaction Monitoring       |           |               |           |             |              |                 |            |                    | ✔️              |             |              |             |            |
-| Account Opening              |           |               |           |             |              |                 |            |                    | ✔️              |             |              |             |            |
-| ESG Compliance               |           |               |           |             |              |                 |            |                    | ✔️              |             |              |             |            |
-| Book a Demo                  |           |               |           |             |              |                 |            |                    |                |             |              |             | ✔️          |
-| Identity Verification Solution |           |               |           |             |              |                 |            |                    |                |             |              |             | ✔️          |
-| AML Screening                |           |               |           |             |              |                 |            |                    |                |             |              |             | ✔️          |
-| Biometric Authentication     |           |               |           |             |              |                 |            |                    |                |             |              |             | ✔️          |
-| Distributed PII Storage      |           |               |           |             |              |                 |            |                    |                |             |              |             | ✔️          |
-| One-Click KYC Workflows      |           |               |           |             |              |                 |            |                    |                |             |              |             | ✔️          |
-| ID Verification Software     |           |               |           |             |              |                 |            |                    |                |             |              |             | ✔️          |
-| Re-useable Credentials       |           |               |           |             |              |                 |            |                    |                |             |              |             | ✔️          |
-| KYB - Business Verification  |           |               |           |             |              |                 |            |                    |                |             |              |             | ✔️          |
+Here is a summary of the information provided for each KYC provider:
+
+1. Ekata (ekata.com):
+   - Provider: Ekata
+   - Price: Not mentioned
+   - Performance Speed: Not mentioned
+   - User Interface (UI): Not mentioned
+   - Security: Robust security protocols
+   - Customer Service Quality: Not mentioned
+   - Flexibility: Not mentioned
+   - Scalability: Not mentioned
+   - Accuracy: High accuracy in verifying and authenticating customer identities
+   - Global Reach: Not mentioned
+   - Compliance: Assists in KYC compliance and regulatory checks
+
+2. JustCoded (justcoded.com):
+   - Providers: LemonWay, IDnow, Shufti Pro, IDology, Ondato, Seamfix, SigninFlow
+   - Price: Not specified for each provider
+   - Performance Speed: Varies for each provider
+   - User Interface (UI): Varies for each provider
+   - Security: Not specified for each provider
+   - Customer Service Quality: Not specified for each provider
+   - Flexibility: Varies for each provider
+   - Scalability: Not specified for each provider
+   - Accuracy: Not specified for each provider
+   - Global Reach: Varies for each provider
+   - Compliance: Not specified for each provider
+
+3. Mambu (mambu.com):
+   - Providers: Onfido, IDnow, Jumio, Fourthline
+   - Price: Subscription-based pricing for each provider
+   - Performance Speed: Fast processing speed for each provider
+   - User Interface (UI): Developer-friendly documentation and SDKs for each provider
+   - Security: Strong data encryption and compliance with data protection regulations for each provider
+   - Customer Service Quality: Responsive customer support and resources available for each provider
+   - Flexibility: Handles multiple types of KYC checks for each provider
+   - Scalability: Can handle increased loads or users for each provider
+   - Accuracy: Provides accurate KYC checks for each provider
+   - Global Reach: Covers multiple countries for each provider
+   - Compliance: Adheres to industry and regional compliance standards for each provider
+
+4. SDK.finance (sdk.finance):
+   - Company Name: SDK.finance
+   - Use Cases: Ewallet, Mobile wallet, Money transfer, Neobank, Payment acceptance, Currency exchange, Business ledger
+   - Services: Fintech software development, Ewallet development, P2P payment app development, Dedicated development team
+   - Who We Serve: Startups, Enterprises, Developers
+   - Case Studies: Payment Solution Provider (MENA), Digital wallet for MPAY, Mobile money processing for Paywell
+   - Resources: Knowledge base, Blog
+   - Pricing: Available
+   - Integrations: Available
+   - About Us: Available
+   - Contact Us: Available
+
+5. SmartKYC (smartkyc.com):
+   - Provider: SmartKYC
+   - Price: Not mentioned
+   - Performance Speed: Not mentioned
+   - User Interface (UI): Not mentioned
+   - Security: Robust security protocols, data encryption, compliance with data protection regulations
+   - Customer Service Quality: Not mentioned
+   - Flexibility: Offers a range of solutions for different industries and use cases
+   - Scalability: Highly scalable
+   - Accuracy: Not mentioned
+   - Global Reach: Not mentioned
+   - Compliance: Compliant with regulatory requirements
+   - Website: [smartkyc.com](https://www.smartkyc.com/)
+
+6. SourceForge (sourceforge.net):
+   - Provider: SourceForge
+   - Price: N/A
+   - Performance Speed: N/A
+   - User Interface (UI): N/A
+   - Security: N/A
+   - Customer Service Quality: N/A
+   - Flexibility: N/A
+   - Scalability: N/A
+   - Accuracy: N/A
+   - Global Reach: N/A
+   - Compliance: N/A
+
+7. Sumsub (sumsub.com):
+   - Provider: Sumsub
+   - Price: Subscription-based pricing with volume-based packages
+   - Performance Speed: Claims to verify users worldwide in under 30 seconds
+   - User Interface (UI): Offers Web SDK, Mobile SDK, and RESTful API for easy integration
+   - Security: Supports 256-bit TLS encryption and complies with data protection regulations
+   - Customer Service Quality: Provides advanced inspection tools, KPI assessment, and collaboration tools for efficient case management
+   - Flexibility: Offers flexible workflow builder to create unique verification flows
+   - Scalability: No information provided
+   - Accuracy: Claims to have high pass rates for ID verification
+   - Global Reach: Supports 220+ countries and territories
+   - Compliance: Compliant with local and global compliance standards
+
+8. AML RightSource (amlrightsource.com):
+   - Company Name: AML RightSource
+   - Price: Not mentioned
+   - Performance Speed: Not mentioned
+   - User Interface (UI): Not mentioned
+   - Security: Not mentioned
+   - Customer Service Quality: Not mentioned
+   - Flexibility: Not mentioned
+   - Scalability: Not mentioned
+   - Accuracy: Not mentioned
+   - Global Reach: Not mentioned
+   - Compliance: Not mentioned
+
+9. ComplyCube (complycube.com):
+   - Provider: ComplyCube
+   - Price: Not mentioned on the website
+   - Performance Speed: Not mentioned on the website
+   - User Interface (UI): Provides documentation and guides for integration
+   - Security: Not mentioned on the website
+   - Customer Service Quality: Provides a help center and FAQs
+
+10. Fenergo (fenergo.com):
+    - Provider: Fenergo
+    - Price: Not specified
+    - Performance Speed: Not specified
+    - User Interface (UI): Integration with Fenergo's API-first, SaaS solution
+    - Security: Continuous risk monitoring, compliance with KYC regulations
+    - Customer Service Quality: Not specified
+    - Flexibility: Not specified
+    - Scalability: Not specified
+    - Accuracy: Continuous risk monitoring, dynamic response to client profile changes
+    - Global Reach: Not specified
+    - Compliance: Compliance with KYC regulations
+    - Website: [fenergo.com](https://www.fenergo.com/solutions/know-your-customer-kyc/)
+
+11. SwiftDil (swiftdil.com):
+    - Company Name: SwiftDil
+    - Price: Starter - $39/month (billed annually), Professional - $79/month (billed annually), Premium - $159/month (billed annually or quarterly)
+    - Performance Speed: Not specified
+    - User Interface (UI): API Reference and User Guide available
+    - Security: Data encryption and compliance with regulations
+    - Customer Service Quality: Customer support, responsiveness, FAQs available
+    - Flexibility: Not specified
+    - Scalability: Available
+    - Accuracy: Available
+    - Global Reach: Not specified
+    - Compliance: Available
+
+12. TechMagic (techmagic.c):
+    - KYC-Chain:
+      - Price: Not specified
+      - Performance Speed: Scans over 10,000+ data points from sources in 240 countries within 30 seconds
+      - User Interface (UI): Not specified
+      - Security: Blockchain-based with bank-grade compliance toolkit
+      - Customer Service Quality: Not specified
+      - Flexibility: Not specified
+      - Scalability: Not specified
+      - Accuracy: Not specified
+      - Global Reach: 240 countries
+      - Compliance: Not specified
+    - Onfido:
+      - Price: Not specified
+      - Performance Speed: Not specified
+      - User Interface (UI): Uses AI and machine learning for identity verification
+      - Security: Not specified
+      - Customer Service Quality: Not specified
+      - Flexibility: Not specified
+      - Scalability: Not specified
+      - Accuracy: Not specified
+      - Global Reach: Not specified
+      - Compliance: Not specified
+    - LemonWay:
+      - Price: Not specified
+      - Performance Speed: Not specified
+      - User Interface (UI): Offers instant KYC for individual accounts and conventional solution for corporate accounts
+      - Security: Not specified
+      - Customer Service Quality: Not specified
+      - Flexibility: Not specified
+      - Scalability: Not specified
+      - Accuracy: Not specified
+      - Global Reach: Not specified
+      - Compliance: Not specified
+    - Shufti Pro:
+      - Price: Not specified
+      - Performance Speed: Offers services in over 200 countries
+      - User Interface (UI): Provides comprehensive digital identity verification
+      - Security: Utilizes AI technology and maintains a vast database
+      - Customer Service Quality: Not specified
+      - Flexibility: Not specified
+      - Scalability: Not specified
+      - Accuracy: Not specified
+      - Global Reach: 200 countries
+      - Compliance: Not specified
+    - Ondato:
+      - Price: Not specified
+      - Performance Speed: Not specified
+      - User Interface (UI): Offers modular operating system for end-to-end KYC management
+      - Security: Supports video ID verification, facial biometrics, e-signatures, NFC verification, and more
+      - Customer Service Quality: Not specified
+      - Flexibility: Not specified
+      - Scalability: Not specified
+      - Accuracy: Not specified
+      - Global Reach: Not specified
+      - Compliance: Not specified
+    - Trulioo:
+      - Price: Not specified
+      - Performance Speed: Offers ID document verification and AML compliance checks
+      - User Interface (UI): Supports over 11,800 document types
+      - Security: Not specified
+      - Customer Service Quality: Not specified
+      - Flexibility: Not specified
+      - Scalability: Not specified
+      - Accuracy: Not specified
+      - Global Reach: 195 countries
+      - Compliance: Not specified
+    - Veriff:
+      - Price: Not specified
+      - Performance Speed: Not specified
+      - User Interface (UI): Integrates AI functionality for advanced facial recognition and image capture
+      - Security: Not specified
+      - Customer Service Quality: Not specified
+      - Flexibility: Not specified
+      - Scalability: Not specified
+      - Accuracy: Not specified
+      - Global Reach: Not specified
+      - Compliance: Not specified
+
+13. Togggle (togggle.i):
+    - Togggle:
+      - Price: Not specified
+      - Performance Speed: Efficient and fast
+      - User Interface (UI): Intuitive and customizable workflow
+      - Security: Decentralized infrastructure, data privacy, and security
+      - Customer Service Quality: Not specified
+      - Flexibility: Comprehensive suite of identity verification services
+      - Scalability: Not specified
+      - Accuracy: Advanced AI and machine learning algorithms
+      - Global Reach: Not specified
+      - Compliance: Continuous improvement and adaptation to industry standards
+    - SEON:
+      - Price: Not specified
+      - Performance Speed: Not specified
+      - User Interface (UI): Not specified
+      - Security: Not specified
+      - Customer Service Quality: Not specified
+      - Flexibility: Focused on fraud detection
+      - Scalability: Not specified
+      - Accuracy: Not specified
+      - Global Reach: Not specified
+      - Compliance: Not specified
+    - Trulioo:
+      - Price: Not specified
+      - Performance Speed: Not specified
+      - User Interface (UI): Not specified
+      - Security: Not specified
+      - Customer Service Quality: Not specified
+      - Flexibility: Global coverage and multiple verification methods
+      - Scalability: Not specified
+      - Accuracy: Not specified
+      - Global Reach: Global coverage
+      - Compliance: Not specified
+    - Onfido:
+      - Price: Not specified
+      - Performance Speed: Not specified
+      - User Interface (UI): Intuitive interface and customizable workflow
+      - Security: Centralized architecture
+      - Customer Service Quality: Not specified
+      - Flexibility: AI and machine learning-based verification
+      - Scalability: Not specified
+      - Accuracy: Reliable and efficient technology
+      - Global Reach: Not specified
+      - Compliance: Not specified
+    - Veriff:
+      - Price: Not specified
+      - Performance Speed: Not specified
+      - User Interface (UI): Not specified
+      - Security: Centralized architecture
+      - Customer Service Quality: Not specified
+      - Flexibility: Document scanning, facial recognition, and video interviews
+      - Scalability: Not specified
+      - Accuracy: Dependable and secure technology
+      - Global Reach: Not specified
+      - Compliance: Not specified
+    - KYC-Chain:
+      - Price: Not specified
+      - Performance Speed: Not specified
+      - User Interface (UI): Not specified
+      - Security: Decentralized approach using blockchain technology
+      - Customer Service Quality: Not specified
+      - Flexibility: Efficient customer verification processes
+      - Scalability: Not specified
+      - Accuracy: Not specified
+      - Global Reach: Not specified
+      - Compliance: Not specified
+    - Refinitiv:
+      - Price: Not specified
+      - Performance Speed: Not specified
+      - User Interface (UI): Not specified
+      - Security: Not specified
+      - Customer Service Quality: Not specified
+      - Flexibility: Range of KYC solutions for businesses
+      - Scalability: Not specified
+      - Accuracy: Not specified
+      - Global Reach: Not specified
+      - Compliance: AML and CTF regulations compliance
+
+14. ZignSec (zignsec.com):
+    - ZignSec:
+      - Price: Not mentioned
+      - Performance Speed: Not mentioned
+      - User Interface (UI): Not mentioned
+      - Security: Not mentioned
+      - Customer Service Quality: Not mentioned
+      - Flexibility: Offers both KYC and KYB tools
+      - Scalability: Not mentioned
+      - Accuracy: Not mentioned
+      - Global Reach: Not mentioned
+      - Compliance: Not mentioned
+
+Please note that the information provided is based on the available data and may not be exhaustive or up to date. It is recommended to visit the respective websites or contact the providers directly for more detailed and accurate information.
