@@ -1,0 +1,853 @@
+{
+    "ekata.com": {
+        "services": [
+            {
+                "name": "Account Opening API",
+                "price": "Contact Ekata for pricing",
+                "features": [
+                    "Onboard more customers with higher confidence and lower friction",
+                    "Enhances KYC process by pinpointing high-risk applicants",
+                    "Uses a probabilistic approach to understand digital identity elements",
+                    "Reduces the monetary cost of KYC compliance for businesses",
+                    "Customizable workflow for low-risk and high-risk applicants"
+                ]
+            },
+            {
+                "name": "Pro Insight",
+                "price": "Contact Ekata for pricing",
+                "features": [
+                    "Assess identity risk, approve good transactions, and investigate fraud on a global scale"
+                ]
+            },
+            {
+                "name": "Transaction Risk API",
+                "price": "Contact Ekata for pricing",
+                "features": [
+                    "Maximize approval rates and fight payment fraud in every transaction"
+                ]
+            },
+            {
+                "name": "Address Risk API",
+                "price": "Contact Ekata for pricing",
+                "features": [
+                    "Validate and evaluate the risk of any address in the world, in fractions of a second"
+                ]
+            },
+            {
+                "name": "Phone Intelligence API",
+                "price": "Contact Ekata for pricing",
+                "features": [
+                    "Verify the risk of a customer with phone metadata and associated locations, personas, and businesses"
+                ]
+            }
+        ],
+        "api": true
+    },
+    "justcoded.com": {
+        "services": [
+            {
+                "name": "Digital product development",
+                "price": "Contact for pricing",
+                "features": [
+                    "Customized development of digital products",
+                    "Expertise in various technologies and platforms",
+                    "Agile development process"
+                ]
+            },
+            {
+                "name": "Business analysis",
+                "price": "Contact for pricing",
+                "features": [
+                    "In-depth analysis of business processes and requirements",
+                    "Identification of areas for improvement and optimization",
+                    "Recommendations for technology solutions"
+                ]
+            },
+            {
+                "name": "UI/UX Design",
+                "price": "Contact for pricing",
+                "features": [
+                    "User-centered design approach",
+                    "Creation of intuitive and visually appealing interfaces",
+                    "Wireframing and prototyping"
+                ]
+            },
+            {
+                "name": "Support",
+                "price": "Contact for pricing",
+                "features": [
+                    "24/7 technical support",
+                    "Bug fixing and troubleshooting",
+                    "Regular updates and maintenance"
+                ]
+            }
+        ],
+        "products": [
+            {
+                "name": "LenderKit",
+                "price": "Contact for pricing",
+                "features": [
+                    "Crowdfunding software",
+                    "Integrated due diligence checks",
+                    "Smooth investor and borrower onboarding"
+                ]
+            },
+            {
+                "name": "CrowdSpace",
+                "price": "Contact for pricing",
+                "features": [
+                    "Platform for crowdfunding and real estate investing",
+                    "Flexible and customizable",
+                    "Integration with KYC providers"
+                ]
+            }
+        ],
+        "fintech": [
+            {
+                "name": "Crowdfunding",
+                "features": [
+                    "Fundraising for projects and ventures",
+                    "Engagement of a large number of investors",
+                    "Platform for showcasing and promoting ideas"
+                ]
+            },
+            {
+                "name": "Online investment",
+                "features": [
+                    "Opportunity to invest in various assets online",
+                    "Diversification of investment portfolio",
+                    "Access to global investment opportunities"
+                ]
+            },
+            {
+                "name": "P2P lending",
+                "features": [
+                    "Direct lending between individuals or businesses",
+                    "Higher returns for lenders",
+                    "Access to credit for borrowers"
+                ]
+            },
+            {
+                "name": "Impact investing",
+                "features": [
+                    "Investing in companies or projects with social or environmental impact",
+                    "Combining financial returns with positive social or environmental outcomes",
+                    "Alignment of investments with personal values"
+                ]
+            },
+            {
+                "name": "Industry insights",
+                "features": [
+                    "Research and analysis of the fintech industry",
+                    "Trends and developments in the market",
+                    "Insights for decision-making and strategy"
+                ]
+            }
+        ],
+        "api": false
+    },
+    "mambu.com": {
+        "services": [
+            {
+                "name": "Enablement",
+                "price": "Contact for pricing",
+                "features": [
+                    "Helps customers build, change, or scale their financial solutions",
+                    "Provides a composable platform and ready-made product catalogue"
+                ]
+            },
+            {
+                "name": "Advisory",
+                "price": "Contact for pricing",
+                "features": [
+                    "Offers advisory services to guide customers in their financial projects"
+                ]
+            },
+            {
+                "name": "Ecosystem",
+                "price": "Contact for pricing",
+                "features": [
+                    "Supports developers and partners in leveraging the composable platform",
+                    "Promotes collaboration and innovation"
+                ]
+            },
+            {
+                "name": "Lending",
+                "price": "Contact for pricing",
+                "features": [
+                    "Configurable lending solutions",
+                    "Helps customers change their financial lives",
+                    "Includes SME lending, mortgages, personal lending, Buy Now Pay Later, and purchase finance"
+                ]
+            },
+            {
+                "name": "Daily banking solutions",
+                "price": "Contact for pricing",
+                "features": [
+                    "Modern financial experiences for daily banking needs",
+                    "Includes deposits, stored value accounts, business banking & deposits, and personal banking & deposits"
+                ]
+            },
+            {
+                "name": "Embedded finance",
+                "price": "Contact for pricing",
+                "features": [
+                    "Offer complete business solutions with the composable platform",
+                    "Ready-made product catalogue"
+                ]
+            },
+            {
+                "name": "Banking-as-a-Service",
+                "price": "Contact for pricing",
+                "features": [
+                    "Provides banking services as a service",
+                    "Enables partners to offer banking solutions to their customers"
+                ]
+            }
+        ],
+        "api": false
+    },
+    "sdk.finance": {
+        "services": [
+            {
+                "name": "Fintech software development",
+                "price": "Contact company for pricing",
+                "features": "Customized software development for fintech solutions"
+            },
+            {
+                "name": "Ewallet development",
+                "price": "Contact company for pricing",
+                "features": "Development of ewallet applications"
+            },
+            {
+                "name": "P2P payment app development",
+                "price": "Contact company for pricing",
+                "features": "Development of peer-to-peer payment applications"
+            },
+            {
+                "name": "Dedicated development team",
+                "price": "Contact company for pricing",
+                "features": "Provision of dedicated development teams"
+            }
+        ],
+        "api": false
+    },
+    "smartkyc.com": {
+        "services": [
+            {
+                "name": "Private Banking & Wealth Management",
+                "price": "Contact company for pricing",
+                "features": "N/A"
+            },
+            {
+                "name": "Corporate & Investment Banking",
+                "price": "Contact company for pricing",
+                "features": "N/A"
+            },
+            {
+                "name": "Retail Banking",
+                "price": "Contact company for pricing",
+                "features": "N/A"
+            },
+            {
+                "name": "Compliance Advisory & Support Services",
+                "price": "Contact company for pricing",
+                "features": "N/A"
+            },
+            {
+                "name": "Multinationals",
+                "price": "Contact company for pricing",
+                "features": "N/A"
+            },
+            {
+                "name": "Adverse Media",
+                "price": "Contact company for pricing",
+                "features": "N/A"
+            },
+            {
+                "name": "Periodic Refresh",
+                "price": "Contact company for pricing",
+                "features": "N/A"
+            },
+            {
+                "name": "Perpetual KYC",
+                "price": "Contact company for pricing",
+                "features": "N/A"
+            },
+            {
+                "name": "Batch Remediation",
+                "price": "Contact company for pricing",
+                "features": "N/A"
+            },
+            {
+                "name": "List Screening & Entity Resolution",
+                "price": "Contact company for pricing",
+                "features": "N/A"
+            },
+            {
+                "name": "Source of Wealth",
+                "price": "Contact company for pricing",
+                "features": "N/A"
+            },
+            {
+                "name": "Network Mapping & Relationship Risk",
+                "price": "Contact company for pricing",
+                "features": "N/A"
+            },
+            {
+                "name": "Robo Onboarding",
+                "price": "Contact company for pricing",
+                "features": "N/A"
+            },
+            {
+                "name": "ESG Risk Intelligence",
+                "price": "Contact company for pricing",
+                "features": "N/A"
+            },
+            {
+                "name": "Lead Generation & Target Profiling",
+                "price": "Contact company for pricing",
+                "features": "N/A"
+            },
+            {
+                "name": "smartEYE for Banks",
+                "price": "Contact company for pricing",
+                "features": "N/A"
+            },
+            {
+                "name": "smartEYE for Corporates",
+                "price": "Contact company for pricing",
+                "features": "N/A"
+            }
+        ],
+        "api": true
+    },
+    "sourceforge.net": {
+        "services": [
+            {
+                "name": "Source Code Management",
+                "price": "Free",
+                "features": [
+                    "Version control",
+                    "Collaboration tools",
+                    "Code review",
+                    "Issue tracking"
+                ]
+            },
+            {
+                "name": "Project Hosting",
+                "price": "Free",
+                "features": [
+                    "Version control",
+                    "Collaboration tools",
+                    "Issue tracking",
+                    "Wiki"
+                ]
+            },
+            {
+                "name": "Software Development",
+                "price": "Free",
+                "features": [
+                    "Version control",
+                    "Collaboration tools",
+                    "Code review",
+                    "Issue tracking",
+                    "Wiki",
+                    "Continuous integration"
+                ]
+            },
+            {
+                "name": "File Hosting",
+                "price": "Free",
+                "features": [
+                    "File storage",
+                    "File sharing",
+                    "Download statistics"
+                ]
+            }
+        ],
+        "api": false
+    },
+    "sumsub.com": {
+        "services": [
+            {
+                "name": "User Verification",
+                "price": "Contact for pricing",
+                "features": [
+                    "Flexible user verification",
+                    "Proof of address checks",
+                    "AML screening",
+                    "Custom questionnaires"
+                ]
+            },
+            {
+                "name": "Business Verification",
+                "price": "Contact for pricing",
+                "features": [
+                    "Flexible user verification",
+                    "Proof of address checks",
+                    "AML screening",
+                    "Custom questionnaires"
+                ]
+            },
+            {
+                "name": "Transaction Monitoring",
+                "price": "Contact for pricing",
+                "features": [
+                    "Flexible user verification",
+                    "Proof of address checks",
+                    "AML screening",
+                    "Custom questionnaires"
+                ]
+            },
+            {
+                "name": "ID Verification",
+                "price": "Contact for pricing",
+                "features": [
+                    "Verify 14,000+ documents from 220+ countries and territories",
+                    "Proof of address checks",
+                    "Custom questionnaires"
+                ]
+            },
+            {
+                "name": "Address Verification",
+                "price": "Contact for pricing",
+                "features": [
+                    "Precise proof of address checks",
+                    "Instant geolocation device checks"
+                ]
+            },
+            {
+                "name": "Video Identification",
+                "price": "Contact for pricing",
+                "features": [
+                    "Perform liveness and Face Match verification",
+                    "Match ID photo to live snapshot of facial features"
+                ]
+            },
+            {
+                "name": "AML Screening",
+                "price": "Contact for pricing",
+                "features": [
+                    "Flexible user verification",
+                    "Proof of address checks",
+                    "AML screening",
+                    "Custom questionnaires"
+                ]
+            },
+            {
+                "name": "Workflow Builder",
+                "price": "Contact for pricing",
+                "features": [
+                    "Build unique verification flows",
+                    "Automate decision-making process",
+                    "No coding skills required"
+                ]
+            },
+            {
+                "name": "Non-Doc Verification",
+                "price": "Contact for pricing",
+                "features": [
+                    "Perform seamless non-documentary checks via government databases",
+                    "Validate provided documents as fraud prevention measure"
+                ]
+            }
+        ],
+        "api": true
+    },
+    "www.amlrightsource.com": {
+        "services": [
+            {
+                "name": "Managed Services",
+                "price": "N/A",
+                "features": "N/A"
+            },
+            {
+                "name": "Advisory Services",
+                "price": "N/A",
+                "features": "N/A"
+            },
+            {
+                "name": "Adverse Media Monitoring",
+                "price": "N/A",
+                "features": "N/A"
+            },
+            {
+                "name": "AI Auto Due Diligence",
+                "price": "N/A",
+                "features": "N/A"
+            },
+            {
+                "name": "AI Auto Investigator",
+                "price": "N/A",
+                "features": "N/A"
+            },
+            {
+                "name": "Entity Enrichment & Monitoring",
+                "price": "N/A",
+                "features": "N/A"
+            },
+            {
+                "name": "Guided Due Diligence",
+                "price": "N/A",
+                "features": "N/A"
+            },
+            {
+                "name": "Risk & Watchlist Monitoring",
+                "price": "N/A",
+                "features": "N/A"
+            },
+            {
+                "name": "Third-Party Due Diligence",
+                "price": "N/A",
+                "features": "N/A"
+            },
+            {
+                "name": "Third-Party Media Monitoring",
+                "price": "N/A",
+                "features": "N/A"
+            },
+            {
+                "name": "Third-Party Onboarding",
+                "price": "N/A",
+                "features": "N/A"
+            },
+            {
+                "name": "Third-Party Risk Monitoring",
+                "price": "N/A",
+                "features": "N/A"
+            }
+        ],
+        "api": false
+    },
+    "www.complycube.com": {
+        "services": [
+            {
+                "name": "AML screening",
+                "price": "Contact company for pricing",
+                "features": [
+                    "Sanctions & PEP screening",
+                    "Adverse media checks",
+                    "Watchlist screening",
+                    "Continuous monitoring"
+                ]
+            },
+            {
+                "name": "Identity assurance",
+                "price": "Contact company for pricing",
+                "features": [
+                    "Document verification",
+                    "Biometric verification",
+                    "Age Estimation",
+                    "Address verification",
+                    "Multi-bureau checks"
+                ]
+            },
+            {
+                "name": "Due diligence",
+                "price": "Contact company for pricing",
+                "features": [
+                    "Know your customer",
+                    "Customer due diligence",
+                    "Risk scoring",
+                    "Anti-money laundering",
+                    "Case management"
+                ]
+            }
+        ],
+        "api": true
+    },
+    "www.fenergo.com": {
+        "services": [
+            {
+                "name": "Know Your Customer (KYC)",
+                "price": "Contact for pricing",
+                "features": [
+                    "An API-first, SaaS solution",
+                    "Enables financial institutions to efficiently manage local and global KYC due diligence requirements",
+                    "Includes continuous risk monitoring for ongoing compliance",
+                    "Reduces risk and improves operational efficiencies",
+                    "Reduces total cost of ownership",
+                    "Transforms client experience",
+                    "Unlocks revenue potential"
+                ],
+                "api": true
+            },
+            {
+                "name": "Client Onboarding",
+                "price": "Contact for pricing",
+                "features": [
+                    "Streamlines the onboarding process with automation and straight-through processing",
+                    "Reduces manual rekeying of data and operational costs",
+                    "Improves operational efficiencies",
+                    "Enhances client experience"
+                ],
+                "api": false
+            },
+            {
+                "name": "Transaction Monitoring",
+                "price": "Contact for pricing",
+                "features": [
+                    "Enables financial institutions to monitor transactions for potential risks",
+                    "Automates the monitoring process",
+                    "Reduces manual effort and operational costs",
+                    "Enhances compliance with regulatory requirements"
+                ],
+                "api": false
+            },
+            {
+                "name": "Account Opening",
+                "price": "Contact for pricing",
+                "features": [
+                    "Streamlines the account opening process",
+                    "Reduces manual effort and operational costs",
+                    "Improves operational efficiencies",
+                    "Enhances client experience"
+                ],
+                "api": false
+            },
+            {
+                "name": "ESG Compliance",
+                "price": "Contact for pricing",
+                "features": [
+                    "Helps financial institutions comply with environmental, social, and governance (ESG) regulations",
+                    "Provides tools for monitoring and reporting on ESG performance",
+                    "Enhances sustainability and responsible investing practices"
+                ],
+                "api": false
+            }
+        ]
+    },
+    "www.swiftdil.com": {
+        "services": [
+            {
+                "name": "Customer Screening",
+                "price": "Available",
+                "features": "Screen individuals and companies against our global sanctions, watchlists, adverse, and politically exposed persons (PEPs) database."
+            },
+            {
+                "name": "Document Verification",
+                "price": "Available",
+                "features": "Instantly verify various types of documents, such as passports and driving licenses, from a growing list of over 208 countries."
+            },
+            {
+                "name": "Continuous Monitoring",
+                "price": "Available",
+                "features": "Keep on top of Ongoing Customer Due Diligence (ODD) commitments using our real-time notifications should a customer's status change."
+            },
+            {
+                "name": "Risk Profiling",
+                "price": "Available",
+                "features": "We apply proprietary algorithms to appraise your customers risk profile and presents you with a simple low, medium or high score."
+            },
+            {
+                "name": "Identity Verification",
+                "price": "Available",
+                "features": "Take advantage of our advanced facial recognition algorithms to ensure that your customer's selfie matches their ID photo."
+            },
+            {
+                "name": "Company Insight",
+                "price": "Coming Soon",
+                "features": "Acquire rich information on companies from over 100 jurisdictions around the world, and the people who run them."
+            }
+        ],
+        "api": true
+    },
+    "www.techmagic.c": {
+        "services": [
+            {
+                "name": "Discovery Phase UX/UI Design",
+                "price": "Contact for pricing",
+                "features": [
+                    "Efficiently manage customer verification",
+                    "Identify advanced fraud attacks",
+                    "Leverage fraud prevention and blockchain KYC and AML capabilities"
+                ]
+            },
+            {
+                "name": "Web Development",
+                "price": "Contact for pricing",
+                "features": []
+            },
+            {
+                "name": "Mobile Development",
+                "price": "Contact for pricing",
+                "features": []
+            },
+            {
+                "name": "Test Automation",
+                "price": "Contact for pricing",
+                "features": []
+            },
+            {
+                "name": "Data Engineering",
+                "price": "Contact for pricing",
+                "features": []
+            },
+            {
+                "name": "Cloud Services",
+                "price": "Contact for pricing",
+                "features": []
+            },
+            {
+                "name": "Salesforce",
+                "price": "Contact for pricing",
+                "features": []
+            },
+            {
+                "name": "Security",
+                "price": "Contact for pricing",
+                "features": []
+            },
+            {
+                "name": "CTO-as-a-Service",
+                "price": "Contact for pricing",
+                "features": []
+            },
+            {
+                "name": "Backend",
+                "price": "Contact for pricing",
+                "features": [
+                    "Node.js Development",
+                    "Nest.js Development",
+                    "PHP Development",
+                    "Java Development",
+                    ".Net Development",
+                    "Python"
+                ]
+            },
+            {
+                "name": "Frontend",
+                "price": "Contact for pricing",
+                "features": [
+                    "Vue.js Development",
+                    "React Development",
+                    "Angular Development",
+                    "Next.js Development",
+                    "JavaScript Development"
+                ]
+            },
+            {
+                "name": "Cloud Services",
+                "price": "Contact for pricing",
+                "features": [
+                    "AWS",
+                    "AWS Serverless Consulting",
+                    "AWS Migration Consulting",
+                    "Managed DevOps",
+                    "AWS Infrastructure Audit",
+                    "Microsoft Azure",
+                    "Google Cloud Platform"
+                ]
+            },
+            {
+                "name": "Security Testing",
+                "price": "Contact for pricing",
+                "features": [
+                    "Penetration testing",
+                    "Managed Security",
+                    "ISO 27001 implementation",
+                    "SOC 2 Consulting & Readiness"
+                ]
+            }
+        ],
+        "api": false
+    },
+    "www.togggle.i": {
+        "services": [
+            {
+                "name": "Book a Demo",
+                "price": "N/A",
+                "features": [
+                    "Find out how they can help your business"
+                ]
+            },
+            {
+                "name": "Identity Verification Solution",
+                "price": "N/A",
+                "features": []
+            },
+            {
+                "name": "AML Screening",
+                "price": "N/A",
+                "features": []
+            },
+            {
+                "name": "Biometric Authentication",
+                "price": "N/A",
+                "features": []
+            },
+            {
+                "name": "Distributed PII Storage",
+                "price": "N/A",
+                "features": []
+            },
+            {
+                "name": "One-Click KYC Workflows",
+                "price": "N/A",
+                "features": []
+            },
+            {
+                "name": "ID Verification Software",
+                "price": "N/A",
+                "features": []
+            },
+            {
+                "name": "Re-useable Credentials",
+                "price": "N/A",
+                "features": []
+            },
+            {
+                "name": "KYB - Business Verification",
+                "price": "N/A",
+                "features": []
+            }
+        ],
+        "api": false
+    },
+    "www.zignsec.com": {
+        "services": [
+            {
+                "name": "ZignSec Portal",
+                "price": "Contact for pricing",
+                "features": [
+                    "Compliance orchestration platform",
+                    "Access to all KYC/KYB tools"
+                ]
+            },
+            {
+                "name": "Know your customer (KYC)",
+                "price": "Contact for pricing",
+                "features": [
+                    "Online identity verification",
+                    "Complete identification flow for individuals",
+                    "Document forensics with AI technology",
+                    "Identity data verification with official registry data",
+                    "Electronic identity hub with national eIDs"
+                ]
+            },
+            {
+                "name": "Know your customer (KYC)",
+                "price": "Contact for pricing",
+                "features": [
+                    "Identity document validation",
+                    "Automatic reading of ID documents",
+                    "Biometric checks for individuals",
+                    "PEP & sanctions checks for individuals",
+                    "Phone number validation for two-factor authentication"
+                ]
+            },
+            {
+                "name": "Know your business (KYB)",
+                "price": "Contact for pricing",
+                "features": [
+                    "Business register checks with official company registries",
+                    "Corporate document authentication with AI technology",
+                    "Sanctions checks for entities",
+                    "Officer, director & owner identification"
+                ]
+            }
+        ],
+        "api": false
+    }
+}

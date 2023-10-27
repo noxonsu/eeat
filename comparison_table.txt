@@ -1,0 +1,61 @@
+Here are comparative summary tables for the listed companies:
+
+1. Ekata.com:
+   - Services: Account Opening API, Pro Insight, Transaction Risk API, Address Risk API, Phone Intelligence API
+   - API: Yes
+
+2. Justcoded.com:
+   - Services: Digital product development, Business analysis, UI/UX Design, Support
+   - Products: LenderKit, CrowdSpace
+   - Fintech: Crowdfunding, Online investment, P2P lending, Impact investing, Industry insights
+   - API: No
+
+3. Mambu.com:
+   - Services: Enablement, Advisory, Ecosystem, Lending, Daily banking solutions, Embedded finance, Banking-as-a-Service
+   - API: No
+
+4. Sdk.finance:
+   - Services: Fintech software development, Ewallet development, P2P payment app development, Dedicated development team
+   - API: No
+
+5. Smartkyc.com:
+   - Services: Private Banking & Wealth Management, Corporate & Investment Banking, Retail Banking, Compliance Advisory & Support Services, Multinationals, Adverse Media, Periodic Refresh, Perpetual KYC, Batch Remediation, List Screening & Entity Resolution, Source of Wealth, Network Mapping & Relationship Risk, Robo Onboarding, ESG Risk Intelligence, Lead Generation & Target Profiling, smartEYE for Banks, smartEYE for Corporates
+   - API: Yes
+
+6. Sourceforge.net:
+   - Services: Source Code Management, Project Hosting, Software Development, File Hosting
+   - API: No
+
+7. Sumsub.com:
+   - Services: User Verification, Business Verification, Transaction Monitoring, ID Verification, Address Verification, Video Identification, AML Screening, Workflow Builder, Non-Doc Verification
+   - API: Yes
+
+8. Amlrightsource.com:
+   - Services: Managed Services, Advisory Services, Adverse Media Monitoring, AI Auto Due Diligence, AI Auto Investigator, Entity Enrichment & Monitoring, Guided Due Diligence, Risk & Watchlist Monitoring, Third-Party Due Diligence, Third-Party Media Monitoring, Third-Party Onboarding, Third-Party Risk Monitoring
+   - API: No
+
+9. Complycube.com:
+   - Services: AML screening, Identity assurance, Due diligence
+   - API: Yes
+
+10. Fenergo.com:
+    - Services: Know Your Customer (KYC), Client Onboarding, Transaction Monitoring, Account Opening, ESG Compliance
+    - API: Varies
+
+11. Swiftdil.com:
+    - Services: Customer Screening, Document Verification, Continuous Monitoring, Risk Profiling, Identity Verification, Company Insight
+    - API: Yes
+
+12. Techmagic.com:
+    - Services: Discovery Phase UX/UI Design, Web Development, Mobile Development, Test Automation, Data Engineering, Cloud Services, Salesforce, Security, CTO-as-a-Service, Backend, Frontend, Cloud Services, Security Testing
+    - API: No
+
+13. Togggle.com:
+    - Services: Book a Demo, Identity Verification Solution, AML Screening, Biometric Authentication, Distributed PII Storage, One-Click KYC Workflows, ID Verification Software, Re-useable Credentials, KYB - Business Verification
+    - API: No
+
+14. Zignsec.com:
+    - Services: ZignSec Portal, Know your customer (KYC), Know your business (KYB)
+    - API: No
+
+Please note that the pricing information is not provided for some companies.
