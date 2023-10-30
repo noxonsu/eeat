@@ -1,0 +1,53 @@
+{
+    "www.pinecone.io": {
+        "url": "https://www.pinecone.io/learn/vector-database/"
+    },
+    "learn.microsoft.com": {
+        "url": "https://learn.microsoft.com/en-us/semantic-kernel/memories/vector-db"
+    },
+    "aws.amazon.com": {
+        "url": "https://aws.amazon.com/what-is/vector-databases/"
+    },
+    "www.elastic.co": {
+        "url": "https://www.elastic.co/what-is/vector-database"
+    },
+    "www.datacamp.com": {
+        "url": "https://www.datacamp.com/blog/the-top-5-vector-databases"
+    },
+    "www.cloudflare.com": {
+        "url": "https://www.cloudflare.com/learning/ai/what-is-vector-database/"
+    },
+    "weaviate.io": {
+        "url": "https://weaviate.io/blog/what-is-a-vector-database"
+    },
+    "zilliz.com": {
+        "url": "https://zilliz.com/learn/what-is-vector-database"
+    },
+    "dev.to": {
+        "url": "https://dev.to/pavanbelagatti/wtf-is-a-vector-database-a-beginners-guide-16p"
+    },
+    "milvus.io": {
+        "url": "https://milvus.io/"
+    },
+    "towardsdatascience.com": {
+        "url": "https://towardsdatascience.com/explaining-vector-databases-in-3-levels-of-difficulty-fc392e48ab78"
+    },
+    "www.ibm.com": {
+        "url": "https://www.ibm.com/topics/vector-database"
+    },
+    "decube.io": {
+        "url": "https://decube.io/post/vector-database-concept"
+    },
+    "en.wikipedia.org": {
+        "url": "https://en.wikipedia.org/wiki/Vector_database"
+    },
+    "byby.dev": {
+        "url": "https://byby.dev/vector-databases"
+    },
+    "medium.com": {
+        "url": "https://medium.com/google-cloud/vector-databases-are-all-the-rage-872c888fa348"
+    },
+    "vercel.com": {
+        "url": "https://vercel.com/guides/vector-databases"
+    }
+}

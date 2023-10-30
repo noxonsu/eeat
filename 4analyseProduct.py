@@ -48,19 +48,20 @@ prompt = ChatPromptTemplate(
 Objective: To determine the critical characteristics or features of the chosen KYC API service providers that may be important to consumers.
 
 Preparation:
-
-Familiarize yourself with the content from the main pages of the 10 companies provided.
+Familiarize yourself with the content from the main pages of the companies provided.
 Get a broad understanding of KYC (Know Your Customer) and its implications in the industry.
 
-Use the provided content and conduct additional research if necessary.
 Collate findings in a structured manner. For each provider, list down how they fare in each of the criteria.
-Use ChatGPT for assistance in understanding technical jargon or for any questions related to the topic.
-Presentation:
 
-Summarize your findings in a concise manner.
-Create a comparison chart or table to visually represent how each service provider measures up against the set criteria.
-Final Note: Always ensure unbiased analysis. The goal is to provide an objective view of each KYC API service provider's offerings, highlighting both strengths and potential areas for improvement.  Provide the results in JSON format."""
-                                                  ),
+In additional detrmine such information
+1. Call to action - talk to a manager like 'book a demo', 'talk to team', sign up etc.
+2. Determine their business model and prices
+3. Their usecases (use the same name for similar suecases of all companies)  
+4. Their solutions (use the same name for similar solutions of all companies)
+5. Key features
+                                                                
+Summarize your findings in a concise manner. The goal is to provide an objective view of each KYC API service provider's offerings, highlighting both strengths and potential areas for improvement. Provide the results in JSON format. Add filed isthisKYCprovider to json."""
+),
         MessagesPlaceholder(variable_name="history"),
         HumanMessagePromptTemplate.from_template("{input}")
     ]
@@ -125,9 +126,9 @@ def main():
             if details:
                 company_details[company] = details
 
-    # Save the updated company details to the JSON file
-    with open('company_details.json', 'w') as f:
-        json.dump(company_details, f, indent=4)
+                # Save the updated company details to the JSON file immediately
+                with open('company_details.json', 'w') as f:
+                    json.dump(company_details, f, indent=4)
 
 if __name__ == "__main__":
     main()

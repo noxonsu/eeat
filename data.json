@@ -80,87 +80,115 @@
         "nature": "single project"
     },
     "www.identitymindglobal.com": {
-        "url": "https://www.identitymindglobal.com/"
+        "url": "https://www.identitymindglobal.com/",
+        "nature": "single project"
     },
     "www.transunion.com": {
-        "url": "https://www.transunion.com/"
+        "url": "https://www.transunion.com/",
+        "nature": "single project"
     },
     "www.acuant.com": {
-        "url": "https://www.acuant.com/"
+        "url": "https://www.acuant.com/",
+        "nature": "single project"
     },
     "4stop.com": {
-        "url": "https://4stop.com/"
+        "url": "https://4stop.com/",
+        "nature": "list of projects"
     },
     "www.refinitiv.com": {
-        "url": "https://www.refinitiv.com/"
+        "url": "https://www.refinitiv.com/",
+        "nature": "single project"
     },
     "www.experian.com": {
-        "url": "https://www.experian.com"
+        "url": "https://www.experian.com",
+        "nature": "single project"
     },
     "www.id.me": {
-        "url": "https://www.id.me/"
+        "url": "https://www.id.me/",
+        "nature": "single project"
     },
     "kyc-chain.com": {
-        "url": "https://kyc-chain.com/"
+        "url": "https://kyc-chain.com/",
+        "nature": "single project"
     },
     "www.au10tix.com": {
-        "url": "https://www.au10tix.com/"
+        "url": "https://www.au10tix.com/",
+        "nature": "single project"
     },
     "shuftipro.com": {
-        "url": "https://shuftipro.com/"
+        "url": "https://shuftipro.com/",
+        "nature": "single project"
     },
     "cognitohq.com": {
-        "url": "https://cognitohq.com/"
+        "url": "https://cognitohq.com/",
+        "nature": "list of projects"
     },
     "risk.lexisnexis.com": {
-        "url": "https://risk.lexisnexis.com/"
+        "url": "https://risk.lexisnexis.com/",
+        "nature": "single project"
     },
     "www.idmerit.com": {
-        "url": "https://www.idmerit.com/"
+        "url": "https://www.idmerit.com/",
+        "nature": "single project"
     },
     "www.jumio.com": {
-        "url": "https://www.jumio.com/"
+        "url": "https://www.jumio.com/",
+        "nature": "single project"
     },
     "www.gbgplc.com": {
-        "url": "https://www.gbgplc.com/"
+        "url": "https://www.gbgplc.com/",
+        "nature": "single project"
     },
     "www.veriff.com": {
-        "url": "https://www.veriff.com/"
+        "url": "https://www.veriff.com/",
+        "nature": "single project"
     },
     "www.trulioo.com": {
-        "url": "https://www.trulioo.com/"
+        "url": "https://www.trulioo.com/",
+        "nature": "single project"
     },
     "www.socure.com": {
-        "url": "https://www.socure.com/"
+        "url": "https://www.socure.com/",
+        "nature": "single project"
     },
     "www.miteksystems.com": {
-        "url": "https://www.miteksystems.com/"
+        "url": "https://www.miteksystems.com/",
+        "nature": "single project"
     },
     "www.thalesgroup.com": {
-        "url": "https://www.thalesgroup.com/"
+        "url": "https://www.thalesgroup.com/",
+        "nature": "single project"
     },
     "www.equifax.com": {
-        "url": "https://www.equifax.com/"
+        "url": "https://www.equifax.com/",
+        "nature": "single project"
     },
     "www.idology.com": {
-        "url": "https://www.idology.com/"
+        "url": "https://www.idology.com/",
+        "nature": "single project"
     },
     "onfido.com": {
-        "url": "https://onfido.com/"
+        "url": "https://onfido.com/",
+        "nature": "single project"
     },
     "riskmanagement.lexisnexis.com": {
-        "url": "https://riskmanagement.lexisnexis.com/"
+        "url": "https://riskmanagement.lexisnexis.com/",
+        "nature": "single project"
     },
     "complyadvantage.com": {
-        "url": "https://complyadvantage.com/"
+        "url": "https://complyadvantage.com/",
+        "nature": "single project"
     },
     "web.fractal.id": {
-        "url": "https://web.fractal.id/"
+        "url": "https://web.fractal.id/",
+        "nature": "single project"
     },
     "www.idnow.io": {
-        "url": "https://www.idnow.io/"
+        "url": "https://www.idnow.io/",
+        "nature": "single project"
     },
     "withpersona.com": {
-        "url": "https://withpersona.com/"
+        "url": "https://withpersona.com/",
+        "nature": "single project"
     }
 }

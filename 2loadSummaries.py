@@ -45,7 +45,7 @@ def is_product_or_list(summary,company_products):
 
         if "belongs to different companies" in gpt_response or "belong to the respective companies" in gpt_response:
             response2 = chat(messages = [
-                SystemMessage(content="Extract the company-product pairs in the format 'Company_name: product_name' each project at new line and provide output as 'List of projects:'. Exclude any duplicates or redundancies. Exclude projects which not in category 'KYC API SaaS'"),
+                SystemMessage(content="Extract the company-product pairs in the format 'Company_name: product_name' each project at new line and provide output as 'List of projects:'. Exclude any duplicates or redundancies. Ignore projects which are not 'KYC API provider'. "),
                 HumanMessage(content=gpt_response+summary)
             ])
             gpt_response = response2.content
