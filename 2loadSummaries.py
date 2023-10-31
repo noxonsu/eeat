@@ -1,6 +1,6 @@
 import json
-from langchain.document_loaders import AsyncChromiumLoader
-from langchain.document_transformers import Html2TextTransformer
+
+
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains import create_extraction_chain
 from langchain.schema import SystemMessage, HumanMessage
@@ -12,6 +12,7 @@ from utils import *
 
 
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
+
 data_folder = f"data/{INDUSTRY_KEYWORD}"
 companies_file = "1companies.json"
 products_file = "2products.json"
@@ -23,39 +24,7 @@ def load_data_without_nature(filename):
 def load_products(filename):
     return load_from_json_file(filename)
 
-def extract_content(site):
-    loader = AsyncChromiumLoader([site])
-    docs = loader.load()
-    
-    # Проверка на наличие документов
-    if not docs:
-        return {
-            "error": f"Failed to load the site {site}",
-            "text_content": None,
-            "html_content": None
-        }
 
-    # Извлечение HTML содержимого
-    
-
-    html_content = docs[0].page_content
-
-    # Преобразование HTML в текст
-    html2text = Html2TextTransformer({'ignore_links': False})
-    text_content = html2text.transform_documents(docs)
-
-    if not text_content:
-        return {
-            "error": f"Failed to extract content for site {site}",
-            "text_content": None,
-            "html_content": html_content
-        }
-
-    return {
-        "error": None,
-        "text_content": text_content[0].page_content,
-        "html_content": html_content
-    }
 
 def is_product_or_list(summary, company_products):
     chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
@@ -111,13 +80,17 @@ def main():
     
     # Load data
     data = load_data_without_nature(companies_file)
+    total = len(data)
     company_products = set(load_from_json_file(products_file,data_folder))
     companies = set(load_from_json_file(companies_names_file,data_folder))
 
     # Iterate through the data dictionary
+    i=0
     for domain, domain_data in data.items():
+        i=i+1
         url = domain_data["url"]
-        print ("Harvest "+domain)
+        print(i/total*100)
+        print ("\n\nHarvest "+domain)
         summary = extract_content(url)
         print ("Analyse "+domain)
         nature, extracted_links = is_product_or_list(summary['text_content'], list(company_products))
@@ -137,7 +110,7 @@ def main():
         elif nature == "single project":
             # Save the site's summary to an individual JSON file in the 'data/' directory
             # To use:
-            internal_links = extract_links_from_html(summary['html_content'],url)
+            internal_links = extract_links_with_text_from_html(summary['html_content'],url)
 
             save_to_json_file({'summary': summary['text_content'],'links':internal_links}, f"{domain}.json", data_folder)
             # Add the domain (which presumably is the company name) to the companies set

@@ -3,6 +3,10 @@ import os
 import re
 import json
 from bs4 import BeautifulSoup
+from langchain.document_loaders import AsyncChromiumLoader
+from langchain.document_transformers import Html2TextTransformer
+from urllib.parse import urljoin
+
 def extract_domain_from_url(url):
     """Extract the domain from a given URL."""
     parsed_uri = urlparse(url)
@@ -111,26 +115,58 @@ def extract_links_with_text_from_html(html_content, base_url):
         if base_url in link:
             links_with_text.add(f"{link}:{text}")
         elif link.startswith('/'):
-            links_with_text.add(f"{base_url + link}:{text}")
+            full_url = urljoin(base_url, link)
+            links_with_text.add(f"{full_url}:{text}")
 
     return list(links_with_text)
 
-
-def scrape_website(base_url):
-    """Scrape the given website for all its internal links and 
-    compile the contents of all the pages into a single JSON document."""
-
-    # Get the main page content
-    response = requests.get(base_url)
-    html_content = response.text
-
-    # Extract links from the main page
-    internal_links = extract_links_from_html(html_content, base_url)
-
-    # Compile all contents into a dictionary
-    all_contents = {}
+def correct_url(url):
+    """Corrects a URL that has double slashes by using the domain as the base URL."""
+    parsed_url = urlparse(url)
     
-    json_content = json.load(internal_links)
-    print(json_content)
-    return json_content
+    # If '//' is found in the path, correct it
+    if '//' in parsed_url.path:
+        # Extract the part after the '//' 
+        corrected_path = parsed_url.path.split('//')[-1]
+        
+        # Construct the corrected URL using the domain as the base
+        corrected_url = f"{parsed_url.scheme}://{parsed_url.netloc}/{corrected_path}"
+    else:
+        # If no '//' in the path, return the original URL
+        corrected_url = url
+    
+    return corrected_url
 
+def extract_content(site):
+    loader = AsyncChromiumLoader([site])
+    docs = loader.load()
+    
+    # Проверка на наличие документов
+    if not docs:
+        return {
+            "error": f"Failed to load the site {site}",
+            "text_content": None,
+            "html_content": None
+        }
+
+    # Извлечение HTML содержимого
+    
+
+    html_content = docs[0].page_content
+
+    # Преобразование HTML в текст
+    html2text = Html2TextTransformer({'ignore_links': False})
+    text_content = html2text.transform_documents(docs)
+
+    if not text_content:
+        return {
+            "error": f"Failed to extract content for site {site}",
+            "text_content": None,
+            "html_content": html_content
+        }
+
+    return {
+        "error": None,
+        "text_content": text_content[0].page_content,
+        "html_content": html_content
+    }

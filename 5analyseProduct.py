@@ -27,7 +27,27 @@ import os
 from utils import *
 
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
+WHOISJSONAPI= os.environ.get('WHOISJSONAPI')
+analyseprompt = """Instructions for Assistant to Analyze [INDUSTRY_KEYWORD]
 
+Objective: To determine the critical characteristics or features of the chosen [INDUSTRY_KEYWORD] that may be important to consumers.
+
+Preparation:
+Familiarize yourself with the content from the main pages of the companies provided.
+Get a broad understanding of [INDUSTRY_KEYWORD] and its implications in the industry.
+
+Collate findings in a structured manner. For each service, list down how they fare in each of the criteria.
+
+In additional detrmine such information
+1. Call to action - 'talk to a manager', 'book a demo', 'talk to team', sign up etc.
+2. Determine their business model (how they earn) and prices
+3. Their usecases (use the same name for similar suecases of all companies)  
+4. Their solutions (use the same name for similar solutions of all companies)
+5. Key features
+6. Brief summary 2-3 sentencies
+7. Is this project realy one of the [INDUSTRY_KEYWORD]?
+                                                                
+Summarize your findings in a concise manner. The goal is to provide an objective view of each [INDUSTRY_KEYWORD] offerings, highlighting both strengths and potential areas for improvement. Provide the results in JSON format."""
 
 def load_summaries_from_data_folder(folder_path="data"):
     """Loads summaries from all JSON files in the specified folder."""
@@ -48,27 +68,7 @@ llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
 # Create the ChatPromptTemplate
 prompt = ChatPromptTemplate(
     messages=[
-        SystemMessagePromptTemplate.from_template("""Instructions for Assistant to Analyze [INDUSTRY_KEYWORD]
-
-Objective: To determine the critical characteristics or features of the chosen [INDUSTRY_KEYWORD] that may be important to consumers.
-
-Preparation:
-Familiarize yourself with the content from the main pages of the companies provided.
-Get a broad understanding of [INDUSTRY_KEYWORD] and its implications in the industry.
-
-Collate findings in a structured manner. For each service, list down how they fare in each of the criteria.
-
-In additional detrmine such information
-1. Call to action - talk to a manager like 'book a demo', 'talk to team', sign up etc.
-2. Determine their business model (how they earn) and prices
-3. Their usecases (use the same name for similar suecases of all companies)  
-4. Their solutions (use the same name for similar solutions of all companies)
-5. Key features
-6. Brief summary 2-3 sentencies
-7. Is this project realy one of the [INDUSTRY_KEYWORD]?
-                                                                
-Summarize your findings in a concise manner. The goal is to provide an objective view of each [INDUSTRY_KEYWORD] offerings, highlighting both strengths and potential areas for improvement. Provide the results in JSON format."""
-),
+        SystemMessagePromptTemplate.from_template(analyseprompt),
         MessagesPlaceholder(variable_name="history"),
         HumanMessagePromptTemplate.from_template("{input}")
     ]

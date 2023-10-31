@@ -1,0 +1,12 @@
+{
+    "summary": "#  Hexo\n\nDocsAPI v3BaaSDevelopersFAQReleases __\n\n__\n\n__English English \u7b80\u4f53\u4e2d\u6587\n\n## Metaverse Documentations\n\ngit clone https://github.com/mvs-org/metaverse __\n\nStar Fork Follow @mvs_org\n\n  * __\n\n### Blazing Fast Transfering\n\nThe Metaverse blockchain brings you incredible transfering speed.\n\n  * __\n\n### User Friendly Tokens\n\nMetaverse Smart Token brings you safty convenient token mechanism.\n\n  *  __\n\n### Sovereign Digital Identities\n\nConnect your asset and your identity with Metaverse Avatar.\n\n  *  __\n\n### MST Exchange\n\nAn open MST on-chain exchange protocol, enjoy trading anytime.\n\n  * mvsd\n  * mvs-cli getnewaccount <account> <passwd>\n  * mvs-cli getnewaddress <account> <passwd>\n  * mvs-cli send <account> <passwd> <receiver_address> <ETP_bits>\n  * mvs-cli gettransaction <tx_id>\n  * mvs-cli issue <account> <passwd> <token_symbol>\n  * mvs-cli listassets\n\nGet started\n\n\u00a9 2020 MVS Core Developers  \nDocumentation licensed under CC BY 4.0.\n\n____\n\nDocsAPI v3BaaSDevelopersFAQReleases\n\n  * GitHub\n\n__English English \u7b80\u4f53\u4e2d\u6587\n\n",
+    "links": [
+        "https://docs.mvs.org//developers/:Developers",
+        "https://docs.mvs.org//:Hexo",
+        "https://docs.mvs.org//docs/:Docs",
+        "https://docs.mvs.org//faq/:FAQ",
+        "https://docs.mvs.org//news/:Releases",
+        "https://docs.mvs.org//baas/:BaaS",
+        "https://docs.mvs.org//api_v3/:API v3"
+    ]
+}

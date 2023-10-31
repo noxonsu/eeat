@@ -110,7 +110,7 @@ def main():
 
         # Save the data to data.json
         save_to_json_file(companies,"1companies.json",data_folder)
-        print("Data saved to companies.json. Run 5..py")
+        print("Data saved to companies.json. Run 2..py")
 
 if __name__ == '__main__':
     main()
