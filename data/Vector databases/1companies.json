@@ -1,0 +1,127 @@
+{
+    "www.pinecone.io": {
+        "url": "https://www.pinecone.io/learn/vector-database/",
+        "nature": "single project"
+    },
+    "www.datacamp.com": {
+        "url": "https://www.datacamp.com/blog/the-top-5-vector-databases",
+        "nature": "invalid"
+    },
+    "learn.microsoft.com": {
+        "url": "https://learn.microsoft.com/en-us/semantic-kernel/memories/vector-db",
+        "nature": "single project"
+    },
+    "aws.amazon.com": {
+        "url": "https://aws.amazon.com/what-is/vector-databases/",
+        "nature": "single project"
+    },
+    "www.datastax.com": {
+        "url": "https://www.datastax.com/guides/what-is-a-vector-database",
+        "nature": "invalid"
+    },
+    "www.elastic.co": {
+        "url": "https://www.elastic.co/what-is/vector-database",
+        "nature": "invalid"
+    },
+    "weaviate.io": {
+        "url": "https://weaviate.io/blog/what-is-a-vector-database",
+        "nature": "single project"
+    },
+    "www.cloudflare.com": {
+        "url": "https://www.cloudflare.com/learning/ai/what-is-vector-database/",
+        "nature": "single project"
+    },
+    "towardsdatascience.com": {
+        "url": "https://towardsdatascience.com/explaining-vector-databases-in-3-levels-of-difficulty-fc392e48ab78",
+        "nature": "invalid"
+    },
+    "dev.to": {
+        "url": "https://dev.to/pavanbelagatti/wtf-is-a-vector-database-a-beginners-guide-16p",
+        "nature": "single project"
+    },
+    "milvus.io": {
+        "url": "https://milvus.io/",
+        "nature": "single project"
+    },
+    "www.forbes.com": {
+        "url": "https://www.forbes.com/sites/adrianbridgwater/2023/05/19/the-rise-of-vector-databases/",
+        "nature": "invalid"
+    },
+    "zilliz.com": {
+        "url": "https://zilliz.com/learn/what-is-vector-database",
+        "nature": "single project"
+    },
+    "byby.dev": {
+        "url": "https://byby.dev/vector-databases",
+        "nature": "list of projects"
+    },
+    "decube.io": {
+        "url": "https://decube.io/post/vector-database-concept",
+        "nature": "single project"
+    },
+    "www.youtube.com": {
+        "url": "https://www.youtube.com/watch?v=klTvEwg3oJ4",
+        "nature": "invalid"
+    },
+    "medium.com": {
+        "url": "https://medium.com/google-cloud/vector-databases-are-all-the-rage-872c888fa348",
+        "nature": "invalid"
+    },
+    "vercel.com": {
+        "url": "https://vercel.com/guides/vector-databases",
+        "nature": "list of projects"
+    },
+    "www.ibm.com": {
+        "url": "https://www.ibm.com/topics/vector-database",
+        "nature": "single project"
+    },
+    "airbyte.com": {
+        "url": "https://airbyte.com/data-engineering-resources/vector-databases",
+        "nature": "single project"
+    },
+    "supabase.com": {
+        "url": "https://supabase.com/",
+        "sourcekeyword": "Supabase:  Vector database for developing AI applications",
+        "nature": "single project"
+    },
+    "lancedb.com": {
+        "url": "https://lancedb.com/",
+        "sourcekeyword": "LanceDB:  vector-search built with persistent storage",
+        "nature": "single project"
+    },
+    "www.projects.ed.ac.uk": {
+        "url": "https://www.projects.ed.ac.uk",
+        "sourcekeyword": "List of projects: ",
+        "nature": "single project"
+    },
+    "qdrant.tech": {
+        "url": "https://qdrant.tech/",
+        "sourcekeyword": "Qdrant:  vector similarity search engine and vector database",
+        "nature": "invalid"
+    },
+    "opensearch.org": {
+        "url": "https://opensearch.org/",
+        "sourcekeyword": "OpenSearch:  community-driven, open source fork of Elasticsearch and Kibana with vector database functionality",
+        "nature": "single project"
+    },
+    "www.trychroma.com": {
+        "url": "https://www.trychroma.com/",
+        "sourcekeyword": "Chroma:  AI-native open-source embedding database",
+        "nature": "single project"
+    },
+    "github.com": {
+        "url": "https://github.com/facebookresearch/faiss",
+        "sourcekeyword": "Faiss:  similarity search and clustering of dense vectors",
+        "nature": "single project"
+    },
+    "vald.vdaas.org": {
+        "url": "https://vald.vdaas.org/",
+        "sourcekeyword": "Vald:  distributed fast approximate nearest neighbor dense vector search engine",
+        "nature": "single project"
+    },
+    "vespa.ai": {
+        "url": "https://vespa.ai/",
+        "sourcekeyword": "Vespa:  search engine and vector database",
+        "nature": "single project"
+    }
+}

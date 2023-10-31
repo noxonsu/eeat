@@ -1,0 +1,536 @@
+{
+    "www.pinecone.io": {
+        "call_to_action": "Sign Up Free",
+        "business_model": "Pinecone offers a free plan with limited features and usage. They also have paid plans based on usage and additional features.",
+        "usecases": [
+            "Semantic information retrieval",
+            "Long-term memory",
+            "AI applications in NLP, computer vision, and other fields"
+        ],
+        "solutions": [
+            "Efficient data processing for applications involving large language models, generative AI, and semantic search",
+            "Optimized storage and querying capabilities for vector embeddings",
+            "Advanced features for AI models"
+        ],
+        "key_features": [
+            "Fast and easy to use at any scale",
+            "Well-known and easy-to-use data storage features",
+            "Metadata storage and filtering",
+            "Scalability with growing data volumes and user demands",
+            "Real-time data updates",
+            "Backups and collections",
+            "Integration with other components of a data processing ecosystem",
+            "Built-in data security features and access control mechanisms"
+        ],
+        "summary": "Pinecone is a vector database designed specifically for handling vector embeddings. It offers optimized storage and querying capabilities for embeddings, along with advanced features for AI models. Pinecone provides scalability, real-time updates, backups, and integration with other data processing tools. It also offers data security features and access control mechanisms.",
+        "is_industry_keyword": true
+    },
+    "learn.microsoft.com": {
+        "call_to_action": "Register for Microsoft Ignite",
+        "business_model": "Microsoft Semantic Kernel is a part of Microsoft's suite of AI tools and services. It is not explicitly mentioned whether it has a separate pricing or business model.",
+        "usecases": [
+            "Semantic information retrieval",
+            "AI applications in NLP, computer vision, recommendation systems, and other areas"
+        ],
+        "solutions": [
+            "Storing and retrieving information for large language models",
+            "Generating relevant and coherent text based on AI plugins",
+            "Overcoming challenges faced by large language models"
+        ],
+        "key_features": [
+            "Storing data as high-dimensional vectors",
+            "Fast and accurate similarity search and retrieval",
+            "Querying based on semantic or contextual meaning",
+            "Support for various similarity measures",
+            "Use cases in NLP, computer vision, recommendation systems, and more",
+            "Integration with other Microsoft tools and services"
+        ],
+        "summary": "Microsoft Semantic Kernel is a vector database that stores data as high-dimensional vectors and enables fast and accurate similarity search and retrieval. It has use cases in NLP, computer vision, recommendation systems, and other areas. It offers integration with other Microsoft tools and services.",
+        "is_industry_keyword": true
+    },
+    "weaviate.io": {
+        "companies": [
+            {
+                "name": "Weaviate",
+                "call_to_action": "Try Now",
+                "business_model": "Subscription-based",
+                "prices": "Pricing details available on the website",
+                "usecases": [
+                    "Efficient similarity search and retrieval of data based on vector distance or similarity"
+                ],
+                "solutions": [
+                    "Search and retrieval of structured or unstructured data",
+                    "Enhancement of large language models",
+                    "Recommender systems"
+                ],
+                "key_features": [
+                    "Vector indexing",
+                    "Vector search",
+                    "Vector embeddings",
+                    "Approximate nearest neighbor approach"
+                ],
+                "summary": "Weaviate is a vector database that enables efficient similarity search and retrieval of structured or unstructured data based on vector distance or similarity. It offers vector indexing, vector search, and vector embeddings, making it suitable for applications such as enhancing large language models and building recommender systems."
+            }
+        ],
+        "is_industry_keyword": true
+    },
+    "dev.to": {
+        "companies": [
+            {
+                "name": "SingleStore",
+                "call_to_action": "Learn more",
+                "business_model": "Subscription-based",
+                "prices": "Pricing details available on the website",
+                "usecases": [
+                    "Efficient similarity search",
+                    "High-dimensional data handling",
+                    "Machine learning and AI",
+                    "Real-time applications",
+                    "Personalization and user profiling",
+                    "Spatial and geographic data",
+                    "Healthcare and life sciences",
+                    "Data fusion and integration",
+                    "Multilingual search",
+                    "Graph data"
+                ],
+                "solutions": [
+                    "Efficient similarity search",
+                    "High-dimensional data handling",
+                    "Machine learning and AI",
+                    "Real-time applications",
+                    "Personalization and user profiling",
+                    "Spatial and geographic data",
+                    "Healthcare and life sciences",
+                    "Data fusion and integration",
+                    "Multilingual search",
+                    "Graph data"
+                ],
+                "key_features": [
+                    "Efficient similarity search",
+                    "High-dimensional data handling",
+                    "Machine learning and AI support",
+                    "Real-time or near-real-time querying",
+                    "Personalization and user profiling",
+                    "Spatial and geographic data handling",
+                    "Healthcare and life sciences applications",
+                    "Data fusion and integration",
+                    "Multilingual search",
+                    "Graph data processing"
+                ],
+                "summary": "SingleStore is a vector database that offers efficient similarity search, high-dimensional data handling, machine learning and AI support, real-time or near-real-time querying, personalization and user profiling, spatial and geographic data handling, healthcare and life sciences applications, data fusion and integration, multilingual search, and graph data processing."
+            }
+        ],
+        "is_industry_keyword": true
+    },
+    "milvus.io": {
+        "companies": [
+            {
+                "name": "Milvus",
+                "call_to_action": "Try Managed Milvus",
+                "business_model": "Open-source with managed service option",
+                "prices": "Pricing details available on the website",
+                "usecases": [
+                    "Scalable similarity search",
+                    "Machine learning deployment",
+                    "Storing and managing embedding vectors",
+                    "Deep neural networks",
+                    "Other machine learning models"
+                ],
+                "solutions": [
+                    "Scalable similarity search",
+                    "Machine learning deployment",
+                    "Storing and managing embedding vectors",
+                    "Deep neural networks",
+                    "Other machine learning models"
+                ],
+                "key_features": [
+                    "Easy to use",
+                    "Blazing fast retrieval speed",
+                    "Highly available",
+                    "Highly scalable",
+                    "Cloud-native",
+                    "Feature-rich",
+                    "Support for various data types",
+                    "Enhanced vector search with attribute filtering",
+                    "UDF support",
+                    "Configurable consistency level",
+                    "Time travel"
+                ],
+                "summary": "Milvus is an open-source vector database built for scalable similarity search. It is highly scalable, blazing fast, and suitable for storing and managing massive embedding vectors generated by deep neural networks and other machine learning models. Milvus is easy to use, highly available, cloud-native, and feature-rich, with support for various data types and advanced vector search capabilities."
+            }
+        ],
+        "is_industry_keyword": true
+    },
+    "zilliz.com": {
+        "companies": [
+            {
+                "name": "Zilliz",
+                "call_to_action": "Start Free Trial",
+                "business_model": "Managed service",
+                "prices": "Pricing details available on the website",
+                "usecases": [
+                    "Speed, scale, and high performance",
+                    "Billion-scale vector similarity search",
+                    "Retrieval augmented generation",
+                    "Duplicate video removal",
+                    "Unstructured data processing",
+                    "Semantic search",
+                    "Computer security",
+                    "Pharmaceuticals",
+                    "E-commerce solutions",
+                    "Recommendation systems"
+                ],
+                "solutions": [
+                    "Speed, scale, and high performance",
+                    "Billion-scale vector similarity search",
+                    "Retrieval augmented generation",
+                    "Duplicate video removal",
+                    "Unstructured data processing",
+                    "Semantic search",
+                    "Computer security",
+                    "Pharmaceuticals",
+                    "E-commerce solutions",
+                    "Recommendation systems"
+                ],
+                "key_features": [
+                    "Fully-managed vector database service",
+                    "Designed for speed, scale, and high performance",
+                    "Open-source vector database",
+                    "Built for billion-scale vector similarity search",
+                    "Flexible pricing options",
+                    "Estimate cost with pricing calculator",
+                    "Support for various use cases",
+                    "Free tier available",
+                    "Documentation and community resources",
+                    "Developer hub",
+                    "Blog, whitepapers, webinars, and trainings"
+                ],
+                "summary": "Zilliz offers Zilliz Cloud, a fully-managed vector database service designed for speed, scale, and high performance. It is also the company behind Milvus, an open-source vector database built for billion-scale vector similarity search. Zilliz provides flexible pricing options, a free tier, and extensive documentation and community resources. It caters to various use cases, including retrieval augmented generation, duplicate video removal, unstructured data processing, semantic search, computer security, pharmaceuticals, e-commerce solutions, and recommendation systems."
+            }
+        ],
+        "is_industry_keyword": true
+    },
+    "decube.io": {
+        "companies": [
+            {
+                "name": "Decube Data",
+                "call_to_action": "Get Started",
+                "business_model": "Unified platform for modern data stack",
+                "prices": "Pricing details available on the website",
+                "usecases": [
+                    "Data governance",
+                    "Data observability",
+                    "Recommendation systems",
+                    "Semantic search",
+                    "Anomaly detection",
+                    "Personalized marketing",
+                    "Image recognition",
+                    "Bioinformatics"
+                ],
+                "solutions": [
+                    "Data governance",
+                    "Data observability",
+                    "Recommendation systems",
+                    "Semantic search",
+                    "Anomaly detection",
+                    "Personalized marketing",
+                    "Image recognition",
+                    "Bioinformatics"
+                ],
+                "key_features": [
+                    "Comprehensive and centralized solution",
+                    "Unified platform for modern data stack",
+                    "30-day free trial",
+                    "No credit card required",
+                    "Vector database concepts and examples",
+                    "Efficient handling of complex, high-dimensional data",
+                    "Unique data indexing and query techniques",
+                    "High-speed similarity searches",
+                    "Handling of multidimensional vectors",
+                    "Applications in recommendation systems, semantic search, anomaly detection, personalized marketing, image recognition, and bioinformatics",
+                    "Sample code using Milvus"
+                ],
+                "summary": "Decube Data offers a unified platform for the modern data stack, providing comprehensive and centralized solutions for data governance and data observability. Their platform enables efficient handling of complex, high-dimensional data through unique data indexing and query techniques, allowing for high-speed similarity searches. Decube Data's vector database concepts and examples showcase the applications of vector databases in recommendation systems, semantic search, anomaly detection, personalized marketing, image recognition, and bioinformatics. They also provide sample code using Milvus, an open-source vector database."
+            }
+        ],
+        "is_industry_keyword": true
+    },
+    "www.ibm.com": {
+        "companies": [
+            {
+                "name": "IBM",
+                "call_to_action": "Learn more",
+                "business_model": "AI and data platform",
+                "prices": "Pricing details available on the website",
+                "usecases": [
+                    "Semantic search",
+                    "Similarity search and applications",
+                    "Recommendation engines",
+                    "Conversational AI"
+                ],
+                "solutions": [
+                    "Semantic search",
+                    "Similarity search and applications",
+                    "Recommendation engines",
+                    "Conversational AI"
+                ],
+                "key_features": [
+                    "AI and data platform",
+                    "Vector database capabilities",
+                    "Integration with data ecosystem",
+                    "Speed and performance",
+                    "Scalability",
+                    "Cost of ownership",
+                    "Flexibility",
+                    "Long term memory of LLMs",
+                    "Data management components",
+                    "Vector database vs graph database",
+                    "Vector embeddings and vector databases",
+                    "Advantages of vector databases",
+                    "Considerations for vector databases and data strategy",
+                    "Use cases of vector databases",
+                    "Vector database capabilities",
+                    "Resources"
+                ],
+                "summary": "IBM offers an AI and data platform with vector database capabilities. Their platform provides speed, scalability, and flexibility for applications such as semantic search, similarity search, recommendation engines, and conversational AI. IBM's vector databases enable efficient indexing, storage, and retrieval of high-dimensional vectors, supporting retrieval augmented generation (RAG) and other generative AI workflows. They also provide resources and integration with their broader data and AI ecosystem."
+            }
+        ],
+        "is_industry_keyword": true
+    },
+    "airbyte.com": {
+        "companies": [
+            {
+                "name": "Airbyte",
+                "call_to_action": "Learn more",
+                "business_model": "Open-source data integration engine",
+                "prices": "Pricing details available on the website",
+                "usecases": [
+                    "Database replication",
+                    "Artificial intelligence",
+                    "Analytics",
+                    "Embed Connectors"
+                ],
+                "solutions": [
+                    "Database replication",
+                    "Artificial intelligence",
+                    "Analytics",
+                    "Embed Connectors"
+                ],
+                "key_features": [
+                    "Open-source data integration engine",
+                    "Support for high-volume DBs with low latency",
+                    "Make sense of unstructured data with LLMs",
+                    "Marketing, sales, product, finance, eng & more analytics",
+                    "Easily collect credentials from end-users",
+                    "Used by 40k+ companies",
+                    "Reliable database and API replication at any scale",
+                    "Build a new connector in 10 min",
+                    "Embeddings from unstructured sources"
+                ],
+                "summary": "Airbyte is an open-source data integration engine that provides solutions for database replication, artificial intelligence, analytics, and embed connectors. It offers support for high-volume databases with low latency, enables the analysis of unstructured data with LLMs, and provides analytics for various business functions. Airbyte is used by over 40,000 companies and offers features such as reliable database and API replication, connector building, and embeddings from unstructured sources."
+            }
+        ],
+        "is_industry_keyword": true
+    },
+    "supabase.com": {
+        "company": "Supabase",
+        "call_to_action": "Start your project",
+        "business_model": "Supabase offers a range of services including Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings. They earn revenue through subscription plans based on usage and features.",
+        "prices": "Pricing information is not provided on the website. Users are encouraged to contact the company for more details.",
+        "usecases": [
+            "Building applications with real-time data synchronization",
+            "Storing, indexing, and searching vector embeddings",
+            "Creating multiplayer experiences",
+            "Managing user sign ups and logins with row level security",
+            "Storing and serving large files"
+        ],
+        "solutions": [
+            "Postgres database",
+            "Authentication",
+            "Instant APIs",
+            "Edge Functions",
+            "Realtime subscriptions",
+            "Storage",
+            "Vector embeddings"
+        ],
+        "key_features": [
+            "100% portable Postgres database",
+            "Built-in authentication with row level security",
+            "Easy to extend with custom code using Edge Functions",
+            "Storage for organizing and serving large files",
+            "Realtime data synchronization for multiplayer experiences",
+            "Integration with ML-models for storing, indexing, and searching vector embeddings"
+        ],
+        "summary": "Supabase is an open source alternative to Firebase that offers a range of services including a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings. They provide a seamless experience with popular frameworks and have received positive feedback from developers. Supabase is suitable for building applications with real-time data synchronization, storing and searching vector embeddings, creating multiplayer experiences, and managing user sign ups and logins with row level security.",
+        "is_industry_related": true
+    },
+    "lancedb.com": {
+        "company": "LanceDB",
+        "call_to_action": "Try LanceDB Cloud",
+        "business_model": "LanceDB offers a vector database solution that is lightweight, scalable, and cost-effective. They provide an open-source version of their database, as well as a cloud service with additional features and management capabilities. They earn revenue through subscription plans for their cloud service.",
+        "prices": "Pricing information for LanceDB Cloud is not provided on the website. Users are encouraged to sign up for the live beta to get more details.",
+        "usecases": [
+            "Storing and querying vector embeddings",
+            "Performing vector, full text, and SQL searches",
+            "Managing large datasets and complex tasks",
+            "Building AI applications"
+        ],
+        "solutions": [
+            "Vector database",
+            "Flexible and powerful search",
+            "On-disk storage",
+            "Serverless deployment"
+        ],
+        "key_features": [
+            "Combination of vector, full text, and SQL search",
+            "Scalability from gigabytes to petabytes",
+            "Embedded deployment with no separate servers",
+            "Integration with Python and JavaScript ecosystem",
+            "Trusted by innovative companies in various industries"
+        ],
+        "summary": "LanceDB is a vector database solution that is lightweight, scalable, and cost-effective. It offers flexible and powerful search capabilities, on-disk storage for efficient querying, and serverless deployment. LanceDB is trusted by developers in various industries and is suitable for storing and querying vector embeddings, performing advanced searches, managing large datasets, and building AI applications.",
+        "is_industry_related": true
+    },
+    "www.projects.ed.ac.uk": {
+        "company": "University of Edinburgh",
+        "call_to_action": "Continue",
+        "business_model": "The University of Edinburgh is an educational institution and does not operate as a commercial business with a specific business model.",
+        "prices": "N/A",
+        "usecases": [],
+        "solutions": [],
+        "key_features": [],
+        "summary": "The University of Edinburgh is an educational institution that offers project management programs and support. They provide a platform for viewing and requesting projects, as well as reporting and planning tools. The website also includes news updates and information about the university. However, there is no specific information related to vector databases or the industry keyword.",
+        "is_industry_related": false
+    },
+    "opensearch.org": {
+        "company": "OpenSearch",
+        "call_to_action": "Download OpenSearch",
+        "business_model": "OpenSearch is an open-source project that provides a flexible and scalable solution for building data-intensive applications. They do not operate as a commercial business with a specific business model.",
+        "prices": "N/A",
+        "usecases": [
+            "Building search solutions",
+            "Enabling observability and issue identification",
+            "Detecting and revealing security threats",
+            "Exploring, enriching, and visualizing data"
+        ],
+        "solutions": [
+            "Search",
+            "Observability",
+            "Security Analytics",
+            "Vector Database"
+        ],
+        "key_features": [
+            "Flexible and scalable search capabilities",
+            "Observability tools for issue identification",
+            "Security analytics for threat detection",
+            "Integration with machine learning and data processing",
+            "Open-source and community-driven development"
+        ],
+        "summary": "OpenSearch is an open-source project that provides a flexible and scalable solution for building data-intensive applications. It offers a range of solutions including search, observability, security analytics, and a vector database. OpenSearch is built on open-source tools and is supported by a community of contributors. It is suitable for various use cases such as building search solutions, enabling observability, detecting security threats, and exploring and visualizing data.",
+        "is_industry_related": true
+    },
+    "www.trychroma.com": {
+        "company": "Chroma",
+        "call_to_action": "Getting Started",
+        "business_model": "Chroma is an AI-native open-source embedding database. They offer a hosted product and are supported by a seed round of funding. Their business model may include revenue from the hosted product, potential partnerships, and community support.",
+        "prices": "Free and open source",
+        "usecases": [
+            "Using embeddings for search and filtering",
+            "Integrating with other platforms and tools",
+            "Building AI applications"
+        ],
+        "solutions": [
+            "Embedding database"
+        ],
+        "key_features": [
+            "Easy installation and usage",
+            "Search and filtering capabilities",
+            "Integration with LangChain, LlamaIndex, OpenAI, and others",
+            "JavaScript client available",
+            "Free and open source"
+        ],
+        "summary": "Chroma is an AI-native open-source embedding database. It provides tools for using embeddings, with features like search, filtering, and integration with other platforms. Chroma is easy to install and use, and it is free and open source. It is suitable for various use cases such as using embeddings for search and filtering, integrating with other tools, and building AI applications.",
+        "is_industry_related": true
+    },
+    "github.com": {
+        "company": "Faiss",
+        "call_to_action": "Explore Documentation",
+        "business_model": "Faiss is an open-source library for efficient similarity search and clustering of dense vectors. They do not operate as a commercial business with a specific business model.",
+        "prices": "N/A",
+        "usecases": [
+            "Similarity search",
+            "Clustering of dense vectors"
+        ],
+        "solutions": [
+            "Efficient similarity search",
+            "Clustering"
+        ],
+        "key_features": [
+            "Support for L2 distance and dot product vector comparison",
+            "Methods for binary vectors and compact quantization codes",
+            "Indexing structures for efficient searching",
+            "GPU implementation for faster search",
+            "Support for single and multi-GPU usage"
+        ],
+        "summary": "Faiss is an open-source library for efficient similarity search and clustering of dense vectors. It provides methods for searching and clustering vectors, with support for L2 distance and dot product vector comparison. Faiss offers various indexing structures and a GPU implementation for faster search. It is suitable for use cases such as similarity search and clustering of dense vectors.",
+        "is_industry_related": true
+    },
+    "vald.vdaas.org": {
+        "company": "Vald",
+        "call_to_action": "Get Started",
+        "business_model": "Vald is a highly scalable distributed fast approximate nearest neighbor dense vector search engine. They do not operate as a commercial business with a specific business model.",
+        "prices": "N/A",
+        "usecases": [
+            "Approximate nearest neighbor search",
+            "Dense vector search"
+        ],
+        "solutions": [
+            "Distributed vector search engine"
+        ],
+        "key_features": [
+            "Asynchronous auto indexing",
+            "Customizable ingress/egress filtering",
+            "Cloud-native architecture",
+            "Auto indexing backup",
+            "Distributed indexing",
+            "Index replication",
+            "Easy installation and usage",
+            "Highly customizable",
+            "Multi-language support"
+        ],
+        "summary": "Vald is a highly scalable distributed fast approximate nearest neighbor dense vector search engine. It offers features such as asynchronous auto indexing, customizable ingress/egress filtering, cloud-native architecture, auto indexing backup, distributed indexing, and index replication. Vald is easy to use, highly customizable, and supports multiple programming languages. It is suitable for use cases that require approximate nearest neighbor search and dense vector search.",
+        "is_industry_related": true
+    },
+    "vespa.ai": {
+        "company": "Vespa",
+        "call_to_action": "Get Started",
+        "business_model": "Vespa offers an open-source search engine and vector database. They also provide a cloud service for users who prefer a hosted solution. Their business model may include revenue from cloud service subscriptions, support services, and potential partnerships.",
+        "prices": "Open-source (free) or cloud service (pricing available)",
+        "usecases": [
+            "Search engine",
+            "Vector database",
+            "Recommendation and personalization",
+            "Conversational AI",
+            "Semi-structured navigation"
+        ],
+        "solutions": [
+            "Search engine",
+            "Vector database",
+            "Recommendation and personalization",
+            "Conversational AI",
+            "Semi-structured navigation"
+        ],
+        "key_features": [
+            "Support for vector search (ANN), lexical search, and search in structured data",
+            "Integrated machine-learned model inference",
+            "Scalability and high availability",
+            "Fast performance",
+            "Support for machine learning models",
+            "Auto-elastic data management",
+            "Built on a C++ core for hardware-near optimizations",
+            "Community support and resources"
+        ],
+        "summary": "Vespa is an open-source search engine and vector database that offers features such as vector search, lexical search, search in structured data, and integrated machine-learned model inference. It is designed for scalability, high availability, and fast performance. Vespa is suitable for various use cases including search, recommendation and personalization, conversational AI, and semi-structured navigation. It provides support for machine learning models and offers both self-hosted and cloud service options.",
+        "is_industry_related": true
+    }
+}

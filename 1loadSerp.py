@@ -9,7 +9,8 @@ from utils import *
 
 SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
-INDUSTRY_KEYWORD = "Vector database"
+INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
+KEYWORD_FOR_SERP = os.environ.get('INDUSTRY_KEYWORD')
 
 if not SERPAPI_KEY:
     print("Please set the SERPAPI_KEY environment variable.")
@@ -17,9 +18,9 @@ if not SERPAPI_KEY:
 
 def extract_company_urls_from_serp(serp_content, industry_query):
     
-    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-0613")
+    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
     messages = [
-        SystemMessage(content="Analyse SERP and Identify company-specific domains based on a given Google search query. '"+industry_query+"'. Return only list of urls if found. Return only urls without quotes etc."),
+        SystemMessage(content="Analyse SERP and Identify sites based on a given Google search query. '"+industry_query+"'. Return only list of urls if found. Return only urls without quotes etc."),
         HumanMessage(content=f" {serp_content} \n\n The urls list: ")
     ]
 
@@ -44,7 +45,7 @@ def search_companies_on_google(industry_query):
         "q": industry_query,
         'gl': 'us',
         'hl': 'en',
-        'num': 20,
+        'num': 100,
         "api_key": SERPAPI_KEY,
     }
     search = GoogleSearch(params)
@@ -60,12 +61,12 @@ def search_companies_on_google(industry_query):
 
 def main():
     industry_query = INDUSTRY_KEYWORD
-    print(industry_query + "\n")
-    organic_results = search_companies_on_google(industry_query)
+    
+    organic_results = search_companies_on_google(KEYWORD_FOR_SERP)
     print(organic_results)
     
     # Setting the folder based on the industry keyword
-    directory_name = os.path.join('data', INDUSTRY_KEYWORD)
+   
     
     serp_content = ""
     for result in organic_results:
@@ -83,9 +84,9 @@ def main():
         domain = extract_domain_from_url(url)
         if domain:  # Ensuring domain is not empty
             company_domains[domain] = {'url': url}
-
-    save_to_json_file(company_domains, 'companies.json', directory_name)
-    print(f"Company data saved to {directory_name}/companies.json")
+    directory_name = os.path.join('data', INDUSTRY_KEYWORD)
+    save_to_json_file(company_domains, '1companies.json', directory_name)
+    print(f"Company data saved to {directory_name}/1companies.json")
 
 if __name__ == '__main__':
     main()

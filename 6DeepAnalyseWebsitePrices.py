@@ -46,13 +46,9 @@ def scrape_website(base_url):
 
     # Compile all contents into a dictionary
     all_contents = {}
-    for link in internal_links:
-        content = extract_content(link)
-        all_contents[link] = content
-
-    # Convert dictionary to JSON
-    json_content = json.dumps(all_contents)
-
+    
+    json_content = json.load(internal_links)
+    print(json_content)
     return json_content
 
 # To use:

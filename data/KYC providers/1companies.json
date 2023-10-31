@@ -1,0 +1,498 @@
+{
+    "b2broker.com": {
+        "url": "https://b2broker.com/news/top-10-kyc-providers-2023/",
+        "nature": "list of projects"
+    },
+    "seon.io": {
+        "url": "https://seon.io/",
+        "nature": "invalid",
+        "sourcekeyword": "SEON:  Fraud detection software"
+    },
+    "sumsub.com": {
+        "url": "https://sumsub.com/",
+        "nature": "single project",
+        "sourcekeyword": "Sumsub:  remote user verification, KYC, KYT checks, AML screening, and customer data storage"
+    },
+    "www.togggle.io": {
+        "url": "https://www.togggle.io/blog/which-is-the-best-kyc-solution-in-2023",
+        "nature": "invalid"
+    },
+    "liquidity-provider.com": {
+        "url": "https://liquidity-provider.com/articles/top-5-most-reliable-kyc-technology-providers/",
+        "nature": "single project"
+    },
+    "www.blockdata.tech": {
+        "url": "https://www.blockdata.tech/profiles/amlt-network",
+        "nature": "list of projects",
+        "sourcekeyword": "AMLT Network:  system for reporting and protecting against nefarious cryptocurrency addresses"
+    },
+    "sdk.finance": {
+        "url": "https://sdk.finance/how-to-choose-a-kyc-provider-part-2/",
+        "nature": "Invalid: DDOS protection screen"
+    },
+    "sourceforge.net": {
+        "url": "https://sourceforge.net/software/kyc/",
+        "nature": "Invalid: DDOS protection screen"
+    },
+    "fully-verified.com": {
+        "url": "https://fully-verified.com/kyc-service-provider-company/",
+        "nature": "Invalid: DDOS protection screen"
+    },
+    "www.capterra.com": {
+        "url": "https://www.capterra.com/kyc-software/",
+        "nature": "Invalid: DDOS protection screen"
+    },
+    "salv.com": {
+        "url": "https://salv.com/blog/best-kyc-software-and-tools/",
+        "nature": "single project"
+    },
+    "microblink.com": {
+        "url": "microblink.com",
+        "nature": "Invalid: Timeout error occurred while trying to access the webpage.",
+        "sourcekeyword": "IC Insights:  KYC Solution Providers"
+    },
+    "www.ventureradar.com": {
+        "url": "https://www.ventureradar.com/keyword/KYC",
+        "nature": "single project"
+    },
+    "www.moodys.com": {
+        "url": "https://www.moodys.com/web/en/us/kyc.html",
+        "nature": "Invalid: DDOS protection screen"
+    },
+    "www.linkedin.com": {
+        "url": "https://www.linkedin.com/pulse/kyc-compliance-software-how-choose-top-providers-techmagic?trk=public_post_main-feed-card_feed-article-content",
+        "nature": "Invalid: Timeout error occurred while trying to access the provided URL."
+    },
+    "www.idmerit.com": {
+        "url": "https://www.idmerit.com/idmkyc/",
+        "nature": "Invalid: DDOS protection screen"
+    },
+    "codeandpepper.com": {
+        "url": "https://codeandpepper.com/what-are-top-kyc-solutions-and-who-does-it-best-in-2022/",
+        "nature": "single project"
+    },
+    "candices.medium.com": {
+        "url": "https://candices.medium.com/top-10-kyc-aml-service-providers-d8bee5744904",
+        "nature": "Invalid: Timeout error occurred while trying to access the webpage."
+    },
+    "grcoutlook.com": {
+        "url": "https://grcoutlook.com/top-10-kyc-solution-providers-2022/",
+        "nature": "single project"
+    },
+    "justcoded.com": {
+        "url": "https://justcoded.com/blog/leveraging-technology-for-customer-onboarding-overview-of-online-kyc-providers/",
+        "nature": "Invalid: This input is a timeout error message and not a valid text input."
+    },
+    "datarade.ai": {
+        "url": "https://datarade.ai/top-lists/best-data-providers-for-kyc",
+        "nature": "single project"
+    },
+    "ondato.com": {
+        "url": "https://ondato.com/",
+        "nature": "single project",
+        "sourcekeyword": "Ondato:  high-precision OCR technology for identity verification"
+    },
+    "www.refinitiv.com": {
+        "url": "https://www.refinitiv.com/",
+        "nature": "Invalid: DDOS protection screen",
+        "sourcekeyword": "Refinitiv:  global financial market data and infrastructure provider offering KYC solutions"
+    },
+    "www.quora.com": {
+        "url": "https://www.quora.com/Who-are-the-KYC-software-service-providers",
+        "nature": "Invalid: The input is a timeout error message from a web page and does not contain any relevant text to identify products, services, or companies."
+    },
+    "www.transunion.com": {
+        "url": "https://www.transunion.com/blog/know-your-KYC-provider-what-to-look-for-in-a-partner",
+        "nature": "Invalid: DDOS protection screen"
+    },
+    "www.pwc.com": {
+        "url": "https://www.pwc.com/gx/en/news-room/assets/analyst-citations/chartis-kyc-2022.pdf",
+        "nature": "Invalid: The input appears to be an error message from a web browser."
+    },
+    "tracxn.com": {
+        "url": "https://tracxn.com/d/trending-themes/startups-in-kyc-solutions/__HqBj3doxC53wJi4bBJjKyMsOMNzd1-naYLbrz6dKYcA",
+        "nature": "single project"
+    },
+    "slashdot.org": {
+        "url": "https://slashdot.org/software/kyc/",
+        "nature": "single project"
+    },
+    "themobilereality.com": {
+        "url": "https://themobilereality.com/blog/top-10-kyc-and-aml-software-companies-in-2023",
+        "nature": "list of projects"
+    },
+    "grcviewpoint.com": {
+        "url": "https://grcviewpoint.com/clear-view-systems/",
+        "nature": "list of projects",
+        "sourcekeyword": "CLEAR VIEW SYSTEMS:  solutions for small businesses to meet regulatory requirements"
+    },
+    "lenderkit.com": {
+        "url": "https://lenderkit.com/integrations/kyc-aml-providers/",
+        "nature": "single project"
+    },
+    "fintech-market.com": {
+        "url": "https://fintech-market.com/blog/kyc-providers-and-tools-for-your-lending-company",
+        "nature": "single project"
+    },
+    "www.pxl-vision.com": {
+        "url": "https://www.pxl-vision.com/kyc/service-provider",
+        "nature": "single project"
+    },
+    "medium.datadriveninvestor.com": {
+        "url": "https://medium.datadriveninvestor.com/top-online-kyc-solution-providers-to-watch-out-in-2020-b0ed471aa542",
+        "nature": "list of projects"
+    },
+    "deepinspire.com": {
+        "url": "https://deepinspire.com/blog/how-to-choose-the-right-kyc-service-provide/",
+        "nature": "single project"
+    },
+    "www.blockpass.org": {
+        "url": "https://www.blockpass.org/",
+        "nature": "single project",
+        "sourcekeyword": "Blockpass:  KYC & AML software-as-a-service"
+    },
+    "www.idnow.io": {
+        "url": "https://www.idnow.io/",
+        "nature": "Invalid: This text is about cookies and does not mention any specific products, services, or solutions of companies.",
+        "sourcekeyword": "IDNOW:  flexible platform for identity verification"
+    },
+    "www.signicat.com": {
+        "url": "https://www.signicat.com/use-cases/kyc-aml",
+        "nature": "single project"
+    },
+    "cryptoadventure.com": {
+        "url": "https://cryptoadventure.com/top-5-kyc-solutions-for-crypto-or-nft-projects/",
+        "nature": "Invalid: This is a DDOS protection screen."
+    },
+    "internationalsales.lexisnexis.com": {
+        "url": "https://internationalsales.lexisnexis.com/glossary/compliance/kyc-know-your-customer",
+        "nature": "single project"
+    },
+    "iconoutlook.com": {
+        "url": "https://iconoutlook.com/top-20-kyc-solution-providers-2022/",
+        "nature": "list of projects"
+    },
+    "www.mineraltree.com": {
+        "url": "https://www.mineraltree.com/blog/how-kyc-compliance-benefits-payment-providers-and-their-customers/",
+        "nature": "single project"
+    },
+    "onfido.com": {
+        "url": "https://onfido.com/",
+        "nature": "single project",
+        "sourcekeyword": "Onfido:  online user identification service using facial biometrics"
+    },
+    "www.numeracle.com": {
+        "url": "https://www.numeracle.com/download-kyc-fundamentals-guide",
+        "nature": "single project"
+    },
+    "www.marqeta.com": {
+        "url": "https://www.marqeta.com/docs/core-api/kyc-verification",
+        "nature": "Invalid: Explanation article/blog"
+    },
+    "www.encompasscorporation.com": {
+        "url": "https://www.encompasscorporation.com/encompass-customers/kyc-data-providers/",
+        "nature": "single project"
+    },
+    "www.swift.com": {
+        "url": "https://www.swift.com/your-needs/financial-crime-cyber-security/know-your-customer-kyc/kyc-process",
+        "nature": "single project"
+    },
+    "www.velmie.com": {
+        "url": "https://www.velmie.com/top-kyc-solutions",
+        "nature": "list of projects"
+    },
+    "knowyourcustomer.com": {
+        "url": "knowyourcustomer.com",
+        "nature": "single project",
+        "sourcekeyword": "Know Your Customer:  Regulatory technology (RegTech) company, digital onboarding, AML and KYC/KYB solutions, compliance with regulatory requirements, financial ecosystem trust"
+    },
+    "kyc.bankingciooutlook.com": {
+        "url": "https://kyc.bankingciooutlook.com/vendors/top-kyc-solution-companies.html",
+        "nature": "list of projects"
+    },
+    "authbridge.com": {
+        "url": "https://authbridge.com/solutions/kyc-know-your-customer/",
+        "nature": "single project"
+    },
+    "www.kyckr.com": {
+        "url": "https://www.kyckr.com/",
+        "nature": "single project"
+    },
+    "www.celent.com": {
+        "url": "https://www.celent.com/vendormatch/types/know-your-customer-systems-kyc",
+        "nature": "single project"
+    },
+    "www.spglobal.com": {
+        "url": "https://www.spglobal.com/marketintelligence/en/mi/products/kyc-services.html",
+        "nature": "Invalid: DDOS protection screen"
+    },
+    "www.trulioo.com": {
+        "url": "https://www.trulioo.com/",
+        "nature": "single project",
+        "sourcekeyword": "TRULIOO:  identity verification services"
+    },
+    "www.idology.com": {
+        "url": "https://www.idology.com/",
+        "sourcekeyword": "IDology, Inc:  Identity verification and fraud prevention solutions"
+    },
+    "www.soliduslabs.com": {
+        "url": "https://www.soliduslabs.com/",
+        "sourcekeyword": "Solidus Labs:  market integrity solutions for crypto trading"
+    },
+    "www.vialink.fr": {
+        "url": "https://www.vialink.fr/",
+        "sourcekeyword": "VIALINK KYC:  Customer digital and automated KYC solutions"
+    },
+    "www.coincover.com": {
+        "url": "https://www.coincover.com/",
+        "sourcekeyword": "CoinCover:  insurance and security service for digital currency"
+    },
+    "kyc-chain.com": {
+        "url": "https://kyc-chain.com/",
+        "sourcekeyword": "KYC-Chain:  platform for managing client data and digital identities using distributed ledger technology"
+    },
+    "www.jumio.com": {
+        "url": "https://www.jumio.com/",
+        "sourcekeyword": "Jumio:  AI-powered identity verification services for online businesses"
+    },
+    "www.telesign.com": {
+        "url": "https://www.telesign.com/",
+        "sourcekeyword": "TELESIGN:  programmable communications APIs and digital identification"
+    },
+    "www.synaps.io": {
+        "url": "https://www.synaps.io/",
+        "sourcekeyword": "Synapse:  KYC Solution Providers"
+    },
+    "www.listingsproject.com": {
+        "url": "https://www.listingsproject.com/",
+        "sourcekeyword": "List of projects: "
+    },
+    "www.mtpelerin.com": {
+        "url": "https://www.mtpelerin.com/",
+        "sourcekeyword": "Mt Pelerin:  fintech expert in asset tokenization and digital compliance"
+    },
+    "mangopay.com": {
+        "url": "https://mangopay.com/",
+        "sourcekeyword": "MANGOPAY:  payment solutions"
+    },
+    "www.shocard.com": {
+        "url": "https://www.shocard.com/",
+        "sourcekeyword": "ShoCard:  mobile optimized digital identity solution"
+    },
+    "uqudo.com": {
+        "url": "https://uqudo.com/",
+        "sourcekeyword": "Uqudo:  KYC Solution Providers"
+    },
+    "www.miteksystems.com": {
+        "url": "https://www.miteksystems.com/",
+        "sourcekeyword": "Mitek:  Digital access and identity verification technologies"
+    },
+    "alt36.com": {
+        "url": "https://alt36.com/",
+        "sourcekeyword": "Alt Thirty Six:  digital payments and compliance platform for cannabis industry"
+    },
+    "www.trmlabs.com": {
+        "url": "https://www.trmlabs.com/",
+        "sourcekeyword": "TRM Labs:  blockchain intelligence solutions"
+    },
+    "www.veriff.com": {
+        "url": "https://www.veriff.com/",
+        "sourcekeyword": "Veriff:  Global identity verification service"
+    },
+    "www.acuitykp.com": {
+        "url": "https://www.acuitykp.com/",
+        "sourcekeyword": "Accuity:  Due diligence solutions including customer screening and risk portfolio management"
+    },
+    "www.beamsolutions.com": {
+        "url": "https://www.beamsolutions.com/",
+        "sourcekeyword": "Beam Solutions:  AML and KYC compliance solutions"
+    },
+    "diro.io": {
+        "url": "https://diro.io/",
+        "sourcekeyword": "SEND:  DIRO"
+    },
+    "www.civic.com": {
+        "url": "https://www.civic.com/",
+        "sourcekeyword": "Civic:  blockchain-based identity verification ecosystem"
+    },
+    "www.smartsearch.com": {
+        "url": "https://www.smartsearch.com/",
+        "sourcekeyword": "SmartSearch:  KYC Solution Providers"
+    },
+    "shuftipro.com": {
+        "url": "https://shuftipro.com/",
+        "sourcekeyword": "Shufti Pro:  KYC and AML screening solutions"
+    },
+    "digishares.io": {
+        "url": "https://digishares.io/",
+        "sourcekeyword": "DigiShares:  white-label software for securities issuance and management"
+    },
+    "fraud.net": {
+        "url": "https://fraud.net/",
+        "sourcekeyword": "Fraud.net:  Fraud.net"
+    },
+    "www.aegiscustody.com": {
+        "url": "https://www.aegiscustody.com/",
+        "sourcekeyword": "Aegis Custody:  regulated digital asset custodian prime service provider"
+    },
+    "www.niceactimize.com": {
+        "url": "https://www.niceactimize.com/",
+        "sourcekeyword": "NICE ACTIMIZE:  entity-centric AML solutions"
+    },
+    "bitfury.com": {
+        "url": "https://bitfury.com/",
+        "sourcekeyword": "BitFury:  blockchain technology solutions"
+    },
+    "www.complycube.com": {
+        "url": "https://www.complycube.com/en/",
+        "sourcekeyword": "ComplyCube:  Identity Verification (IDV), AML, and KYC compliance, omnichannel integration, Low/No-Code solutions, API integrations, mobile and web SDKs, CRM integrations"
+    },
+    "www.vertalo.com": {
+        "url": "https://www.vertalo.com/",
+        "sourcekeyword": "Vertalo:  blockchain platform for digital assets and investor relations services"
+    },
+    "www.idenfy.com": {
+        "url": "https://www.idenfy.com/",
+        "sourcekeyword": "iDenfy:  Identity verification and fraud prevention platform, AI and selfie biometrics, customizable design and ID verification workflow, compatibility with over 2,000+ applications"
+    },
+    "beosin.com": {
+        "url": "https://beosin.com/",
+        "sourcekeyword": "Beosin:  blockchain security company"
+    },
+    "www.vikartech.com": {
+        "url": "https://www.vikartech.com/",
+        "sourcekeyword": "Vikar Technologies, Inc:  KYC Solution Providers"
+    },
+    "icomplyis.com": {
+        "url": "https://icomplyis.com/",
+        "sourcekeyword": "iComply:  regulatory technology for digital finance"
+    },
+    "complyadvantage.com": {
+        "url": "https://complyadvantage.com/",
+        "sourcekeyword": "ComplyAdvantage:  KYB, KYC, and AML instruments for dealing with financial crime risks and technologies for their detection"
+    },
+    "creditro.com": {
+        "url": "https://creditro.com/",
+        "sourcekeyword": "Creditro:  KYC Solution Providers"
+    },
+    "www.identitymindglobal.com": {
+        "url": "https://www.identitymindglobal.com/",
+        "sourcekeyword": "IDENTITY MIND GLOBAL:  AML procedures and KYC measures"
+    },
+    "agreementexpress.com": {
+        "url": "https://agreementexpress.com/",
+        "sourcekeyword": "AGREEMENT EXPRESS:  unconventional KYC solutions"
+    },
+    "www.scorechain.com": {
+        "url": "https://www.scorechain.com/",
+        "sourcekeyword": "Scorechain:  risk-AML software for cryptocurrencies and digital assets"
+    },
+    "selfkey.org": {
+        "url": "https://selfkey.org/",
+        "sourcekeyword": "SelfKey:  self-sovereign identity provider using blockchain technology"
+    },
+    "withpersona.com": {
+        "url": "https://withpersona.com/",
+        "sourcekeyword": "Persona:  identity management solution with data protection"
+    },
+    "pliance.io": {
+        "url": "https://pliance.io/",
+        "sourcekeyword": "Pliance:  API-first service for automating Anti-Money Laundering processes, seamless workflows, optimization of efficiency, proactive detection and prevention of financial crimes"
+    },
+    "blockchain-helix.com": {
+        "url": "https://blockchain-helix.com/",
+        "sourcekeyword": "Blockchain Helix:  digital identity and home service"
+    },
+    "fugu-it.com": {
+        "url": "https://fugu-it.com/",
+        "sourcekeyword": "FUGU:  Payment fraud solutions, post-checkout verification system, advanced technology and data-driven insights, protection against fraudulent transactions and false declines"
+    },
+    "pipl.com": {
+        "url": "https://pipl.com/",
+        "sourcekeyword": "Pipl:  People"
+    },
+    "www.socure.com": {
+        "url": "https://www.socure.com/",
+        "sourcekeyword": "SOCURE:  graph-defined identity verification platform"
+    },
+    "www.quantifind.com": {
+        "url": "https://www.quantifind.com/",
+        "sourcekeyword": "Quantifind:  Data science technology company, AI platform, risk detection and fraud prevention, strategic partnerships with financial institutions, innovative solutions for identifying patterns and suspicious activities"
+    },
+    "www.1account.net": {
+        "url": "https://www.1account.net/",
+        "sourcekeyword": "1Account:  KYC Solution Providers"
+    },
+    "norbloc.com": {
+        "url": "https://norbloc.com/",
+        "sourcekeyword": "Norbloc:  KYC Solution Providers"
+    },
+    "www.genpact.com": {
+        "url": "https://www.genpact.com/",
+        "sourcekeyword": "Genpact:  Genpact"
+    },
+    "www.identitymind.com": {
+        "url": "https://www.identitymind.com/",
+        "sourcekeyword": "IdentityMind:  KYC and AML solutions"
+    },
+    "docs.mvs.org": {
+        "url": "https://docs.mvs.org/",
+        "sourcekeyword": "Metaverse:  open-source public blockchain for digital assets and identities"
+    },
+    "kwiktrust.com": {
+        "url": "https://kwiktrust.com/",
+        "sourcekeyword": "Kwiktrust:  KYC Solution Providers"
+    },
+    "www.elliptic.co": {
+        "url": "https://www.elliptic.co/",
+        "sourcekeyword": "Elliptic:  blockchain analytics for compliance"
+    },
+    "www.solarisgroup.com": {
+        "url": "https://www.solarisgroup.com/",
+        "sourcekeyword": "Solaris Digital Assets:  digital asset product development"
+    },
+    "vital4.net": {
+        "url": "https://vital4.net/",
+        "sourcekeyword": "Vital4:  KYC Solution Providers"
+    },
+    "blockstation.com": {
+        "url": "https://blockstation.com/",
+        "sourcekeyword": "Blockstation:  trading and settlement solution for digital assets"
+    },
+    "www.chainalysis.com": {
+        "url": "https://www.chainalysis.com/",
+        "sourcekeyword": "Chainalysis:  anti-money laundering software"
+    },
+    "bakkt.com": {
+        "url": "https://bakkt.com/",
+        "sourcekeyword": "Bakkt:  digital asset trading platform"
+    },
+    "www.ugrconsulting.com": {
+        "url": "https://www.ugrconsulting.com/",
+        "sourcekeyword": "UGR:  KYC Solution Providers"
+    },
+    "www.acuant.com": {
+        "url": "https://www.acuant.com/",
+        "sourcekeyword": "Acuant (Prev IdentityMind):  identity verification and compliance services"
+    },
+    "truststamp.ai": {
+        "url": "https://truststamp.ai/",
+        "sourcekeyword": "TRUST STAMP:  KYC and biometric identity"
+    },
+    "web.fractal.id": {
+        "url": "https://web.fractal.id/",
+        "sourcekeyword": "Fractal ID:  KYC/AML service platform"
+    },
+    "www.unit21.ai": {
+        "url": "https://www.unit21.ai/",
+        "sourcekeyword": "Unit21:  Risk detection and fraud prevention, proactive capabilities, AI-powered platform, advanced tools for risk management"
+    },
+    "ciphertrace.com": {
+        "url": "ciphertrace.com",
+        "sourcekeyword": "CipherTrace:  fraud protection and financial crime prevention"
+    },
+    "mysinglesource.io": {
+        "url": "mysinglesource.io",
+        "sourcekeyword": "SingleSource:  decentralized risk scoring platform"
+    }
+}

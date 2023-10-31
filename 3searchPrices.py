@@ -5,7 +5,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains import create_extraction_chain
 from langchain.schema import SystemMessage, HumanMessage
 from langchain.chat_models import ChatOpenAI
-
+from bs4 import BeautifulSoup
 import re
 
 from utils import *
@@ -13,12 +13,9 @@ from utils import *
 
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 data_folder = f"data/{INDUSTRY_KEYWORD}"
-companies_file = "1companies.json"
-products_file = "2products.json"
-companies_names_file = "companies_names.json"
 
-def load_data_without_nature(filename):
-    return {domain: info for domain, info in load_from_json_file(filename,data_folder).items() if "nature" not in info}
+def load_data_without_prices(filename):
+    return {domain: info for domain, info in load_from_json_file(filename,data_folder).items() if "prices" not in info}
 
 def load_products(filename):
     return load_from_json_file(filename)
@@ -26,41 +23,16 @@ def load_products(filename):
 def extract_content(site):
     loader = AsyncChromiumLoader([site])
     docs = loader.load()
-    
-    # Проверка на наличие документов
-    if not docs:
-        return {
-            "error": f"Failed to load the site {site}",
-            "text_content": None,
-            "html_content": None
-        }
-
-    # Извлечение HTML содержимого
-    
-
-    html_content = docs[0].page_content
-
-    # Преобразование HTML в текст
     html2text = Html2TextTransformer({'ignore_links': False})
     text_content = html2text.transform_documents(docs)
-
     if not text_content:
-        return {
-            "error": f"Failed to extract content for site {site}",
-            "text_content": None,
-            "html_content": html_content
-        }
-
-    return {
-        "error": None,
-        "text_content": text_content[0].page_content,
-        "html_content": html_content
-    }
+        return f"Failed to extract content for site {site}"
+    return text_content[0].page_content
 
 def is_product_or_list(summary, company_products):
     chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
     messages = [
-        SystemMessage(content="Given a text input, identify the products, services, or solutions of companies mentioned in the text. If the products or services is associated with the one company, provide the output as 'All products/services mentioned belong to the one company [Company_name]'. If there a list of products services or projects are from different companies (or it's a 'TOP') in the text say 'Yes, this list of products belongs to different companies.'. If input looks like invalid or DDOS protection screen or explain article/blog return 'Invalid:[reason]'"),
+        SystemMessage(content="Given a text input, identify the products, services, or solutions of companies mentioned in the text. If the products or services is associated with the one company, provide the output as 'All products/services mentioned belong to the one company [Company_name]'. IF there a list of products services or projects are from different companies in the text say 'Yes, this list of products belongs to different companies.'. If input looks like invalid or DDOS protection screen return 'Invalid'"),
         HumanMessage(content=summary)
     ]
 
@@ -85,7 +57,7 @@ def is_product_or_list(summary, company_products):
         
         # Check if it's a list of products
         if "nvalid" in gpt_response:
-            return gpt_response, []
+            return "invalid", []
         elif "List of projects" in gpt_response:
             # Extract company-product pairs from the response
             product_lines = gpt_response.split("\n")
@@ -107,20 +79,21 @@ def is_product_or_list(summary, company_products):
 def main():
     # Define paths and filenames
     
-    
+    companies_file = "companies.json"
+    products_file = "products.json"
+    companies_names_file = "companies_names.json"
     
     # Load data
-    data = load_data_without_nature(companies_file)
+    data = load_data_without_nature("companies.json")
     company_products = set(load_from_json_file(products_file,data_folder))
     companies = set(load_from_json_file(companies_names_file,data_folder))
 
     # Iterate through the data dictionary
     for domain, domain_data in data.items():
         url = domain_data["url"]
-        print ("Harvest "+domain)
         summary = extract_content(url)
-        print ("Analyse "+domain)
-        nature, extracted_links = is_product_or_list(summary['text_content'], list(company_products))
+
+        nature, extracted_links = is_product_or_list(summary, list(company_products))
         data[domain]["nature"] = nature
 
         if nature == "list of projects":
@@ -136,19 +109,14 @@ def main():
                     company_products.add(company_product)
         elif nature == "single project":
             # Save the site's summary to an individual JSON file in the 'data/' directory
-            # To use:
-            internal_links = extract_links_from_html(summary['html_content'],url)
 
-            save_to_json_file({'summary': summary['text_content'],'links':internal_links}, f"{domain}.json", data_folder)
+            save_to_json_file({'summary': summary}, f"{domain}.json", data_folder)
             # Add the domain (which presumably is the company name) to the companies set
             companies.add(domain)
-            
 
-        print(nature)
         save_to_json_file(data, companies_file,data_folder)
         if company_products is not None: save_to_json_file(list(company_products), products_file, data_folder)
         save_to_json_file(list(companies), companies_names_file, data_folder)
 
 if __name__ == "__main__":
     main()
-    print("next: 4searchProducts.py ")

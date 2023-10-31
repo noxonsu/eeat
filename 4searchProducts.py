@@ -6,8 +6,12 @@ from langchain.chat_models import ChatOpenAI
 from langchain.schema import SystemMessage, HumanMessage
 from urllib.parse import urlparse
 
+from utils import *
+
 SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
+INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
+data_folder = f"data/{INDUSTRY_KEYWORD}"
 
 if not SERPAPI_KEY:
     print("Please set the SERPAPI_KEY environment variable.")
@@ -62,23 +66,7 @@ def extract_domain_from_url(url):
     domain = '{uri.netloc}'.format(uri=parsed_uri)
     return domain
 
-def save_to_json_file(data):
-    """Save the data to data.json."""
-    try:
-        # Read existing data from the file
-        with open('data.json', 'r') as file:
-            existing_data = json.load(file)
-    except (FileNotFoundError, json.JSONDecodeError):
-        existing_data = {}
 
-    # Update the data without overriding
-    for key, value in data.items():
-        if key not in existing_data:
-            existing_data[key] = value
-
-    # Save the updated data back to the file
-    with open('data.json', 'w') as file:
-        json.dump(existing_data, file, indent=4)
 
 def is_valid_domain(domain):
     # A simple regex to validate domain names
@@ -87,17 +75,16 @@ def is_valid_domain(domain):
 
 def main():
     # Try to load existing data from 'data.json'
-    try:
-        with open('data.json', 'r') as file:
-            data = json.load(file)
-    except (FileNotFoundError, json.JSONDecodeError):
-        data = {}
-
-    with open('products.json', 'r') as products_file:
-        product_names = json.load(products_file)
-
+    companies = load_from_json_file("1companies.json",data_folder)
+    product_names = load_from_json_file("2products.json",data_folder)
+    
     for name_project in product_names:
-        print(name_project + "\n")
+        print(name_project)
+
+        if any(company_data.get('sourcekeyword') == name_project for company_data in companies.values()):
+            print('exists. ')
+            continue
+
         organic_results = search_google(name_project)
         print(organic_results)
 
@@ -106,17 +93,24 @@ def main():
             if "snippet" not in result:
                 result["snippet"] = ""
             serp += (str(result["position"]) + ". " + result["link"] + "\n" + result["title"] + "\n" + result["snippet"] + "\n\n")
-
+        
         url = findOfficialDomain(serp, name_project)
 
-        domain = extract_domain_from_url(url)
+        if (is_valid_domain(url)):
+            domain = url
+        else:
+            domain = extract_domain_from_url(url)
 
-        if domain != "not found" and is_valid_domain(domain) and domain not in data:  # Check if domain is not already in data
-            data[domain] = {'url': url}
+        if domain != "not found" and is_valid_domain(domain):
+            if domain not in companies:  # Check if domain is not already in data
+                companies[domain] = {'url': url,'sourcekeyword': name_project}
+            else:
+                companies[domain]['url'] = url
+                companies[domain]['sourcekeyword'] = name_project
 
         # Save the data to data.json
-        save_to_json_file(data)
-        print("Data saved to data.json")
+        save_to_json_file(companies,"1companies.json",data_folder)
+        print("Data saved to companies.json. Run 5..py")
 
 if __name__ == '__main__':
     main()

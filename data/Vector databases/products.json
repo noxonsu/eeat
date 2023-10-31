@@ -1,0 +1,23 @@
+[
+    "Vald:  distributed fast approximate nearest neighbor dense vector search engine",
+    "LanceDB:  vector-search built with persistent storage",
+    "pgvector:  extension for PostgreSQL for storing and querying vector embeddings",
+    "List of projects: ",
+    "Elasticsearch:  vector fields",
+    "OpenSearch:  community-driven, open source fork of Elasticsearch and Kibana with vector database functionality",
+    "Faiss:  similarity search and clustering of dense vectors",
+    "ScaNN:  library for efficient vector similarity search",
+    "Qdrant:  vector similarity search engine and vector database",
+    "Apache Cassandra:  NoSQL distributed database with upcoming vector search feature",
+    "Pinecone:  high-performance AI applications",
+    "Pinecone:  vector database designed for machine learning applications",
+    "Chroma:  AI-native open-source embedding database",
+    "Supabase:  Vector database for developing AI applications",
+    "Vercel Postgres:  serverless SQL database designed to integrate with Vercel Functions and frontend framework",
+    "Milvus:  embedding similarity search and AI applications",
+    "Weaviate:  open-source vector database",
+    "Chroma:  LLM apps by making knowledge, facts, and skills pluggable for LLMs",
+    "Milvus:  vector database",
+    "Weaviate:  ML-models and scale into billions of data objects",
+    "Vespa:  search engine and vector database"
+]
