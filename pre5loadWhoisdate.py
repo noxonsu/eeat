@@ -14,7 +14,7 @@ from utils import *
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 WHOISJSONAPI= os.environ.get('WHOISJSONAPI')
 data_folder = f"data/{INDUSTRY_KEYWORD}"
-companies_file = "1company.json"
+companies_file = "1companies.json"
 
 targetField="domainRegDate"
 

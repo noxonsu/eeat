@@ -57,5 +57,6 @@
         "https://www.trmlabs.com//defi:DeFi protocols",
         "https://www.trmlabs.com//certified-investigator:",
         "https://www.trmlabs.com//post/trm-labs-appoints-georgetown-law-professor-chris-brummer-as-a-senior-advisor-copy:"
-    ]
+    ],
+    "priceAndPlans": "Error: Timeout 30000ms exceeded. =========================== logs\n=========================== navigating to\n\"https://www.trmlabs.com/products/transaction-monitoring\", waiting until\n\"load\" ============================================================\n\n"
 }

@@ -27,7 +27,7 @@ import os
 from utils import *
 
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
-WHOISJSONAPI= os.environ.get('WHOISJSONAPI')
+
 analyseprompt = """Instructions for Assistant to Analyze [INDUSTRY_KEYWORD]
 
 Objective: To determine the critical characteristics or features of the chosen [INDUSTRY_KEYWORD] that may be important to consumers.

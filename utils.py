@@ -104,38 +104,52 @@ def generate_html_from_json(json_data):
 from bs4 import BeautifulSoup
 
 def extract_links_with_text_from_html(html_content, base_url):
-    """Extract all internal links with their text from the given HTML content."""
+    """Extract all internal links with their text from the given HTML content and return as JSON."""
     soup = BeautifulSoup(html_content, 'html.parser')
-    links_with_text = set()
+    links_with_text = []
 
     for a_tag in soup.find_all('a', href=True):
         link = a_tag['href']
         text = a_tag.string if a_tag.string else ""
-        # Only add internal links to the set
+        # Only add internal links to the list
         if base_url in link:
-            links_with_text.add(f"{link}:{text}")
+            links_with_text.append({"link": link, "text": text})
         elif link.startswith('/'):
             full_url = urljoin(base_url, link)
-            links_with_text.add(f"{full_url}:{text}")
+            links_with_text.append({"link": full_url, "text": text})
 
-    return list(links_with_text)
+    return json.dumps(links_with_text, ensure_ascii=False)
+
 
 def correct_url(url):
-    """Corrects a URL that has double slashes by using the domain as the base URL."""
+    """Corrects a URL that has double slashes by using the domain as the base URL and trims everything after ':' (excluding the 'https://' or 'http://')."""
     parsed_url = urlparse(url)
     
-    # If '//' is found in the path, correct it
-    if '//' in parsed_url.path:
+    # Combine path and params to get the full path
+    full_path = parsed_url.path
+    if parsed_url.params:
+        full_path += f":{parsed_url.params}"
+    
+    # If '//' is found in the full path, correct it
+    if '//' in full_path:
         # Extract the part after the '//' 
-        corrected_path = parsed_url.path.split('//')[-1]
+        corrected_path = full_path.split('//')[-1]
         
         # Construct the corrected URL using the domain as the base
         corrected_url = f"{parsed_url.scheme}://{parsed_url.netloc}/{corrected_path}"
     else:
-        # If no '//' in the path, return the original URL
+        # If no '//' in the full path, return the original URL
         corrected_url = url
     
+    # Trim everything after ':' (excluding the 'https://' or 'http://')
+    if "://" in corrected_url:
+        scheme, rest_of_url = corrected_url.split("://", 1)
+        rest_of_url = rest_of_url.split(":", 1)[0]
+        corrected_url = f"{scheme}://{rest_of_url}"
+    
     return corrected_url
+
+
 
 def extract_content(site):
     loader = AsyncChromiumLoader([site])

@@ -23,10 +23,12 @@ def load_data_without(filename):
 
 
 def finde_link_toplans(links):
+    data = ''.join(links)
+    data = data[:4000]
     chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
     messages = [
-        SystemMessage(content="Find the link to page with prices and plans. Return only url starts with 'https://' or 'Not found'"),
-        HumanMessage(content=''.join(links))
+        SystemMessage(content="Find the link to page with prices and plans. Return only one url starts with 'https://' or 'Not found'"),
+        HumanMessage(content=data)
     ]
 
     try:
@@ -53,21 +55,27 @@ def main():
         if ("links" not in data): 
             print("no links in file "+data_folder+"/"+domain+".json")
             continue
-        if ("{targetField}" in data):
+        if ("priceAndPlans" in data):
             print("prices crawled. skip ")
             continue
 
         print("searching link to prices")
-        plans_url = finde_link_toplans(data['links'])
-        
+
+        if (len(data['links'])>2):
+            plans_url = finde_link_toplans(data['links'])
+        else:
+            plans_url = "Not found"
+        print(plans_url)
         if "Not found" in plans_url:
             data[targetField] = 'Not found'
         elif "https://" in plans_url:
-            print ("Crawl "+plans_url)
+            
             plans_url=correct_url(plans_url)
+            print ("Crawl "+plans_url)
             summary = extract_content(plans_url)
-
-        data[targetField] = summary['text_content']
+            
+            data[targetField] = summary['text_content']
+        
         save_to_json_file(data, domain+".json",data_folder)
         
 

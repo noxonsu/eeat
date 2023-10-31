@@ -33,5 +33,6 @@
         "https://truststamp.ai//:",
         "https://truststamp.ai//Identify.html:Document Validation",
         "https://truststamp.ai//CCPAForm.html:California Residents CCPA Request"
-    ]
+    ],
+    "priceAndPlans": "Error: Timeout 30000ms exceeded. =========================== logs\n=========================== navigating to\n\"https://truststamp.ai/FullSuiteOfIdentityTools.html\", waiting until \"load\"\n============================================================\n\n"
 }

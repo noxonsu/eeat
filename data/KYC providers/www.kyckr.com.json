@@ -35,5 +35,6 @@
         "https://www.kyckr.com//page/data-controller-faqs",
         "https://www.kyckr.com//page/terms-conditions",
         "https://www.kyckr.com//resources?type=In+The+News"
-    ]
+    ],
+    "priceAndPlans": "Error: Timeout 30000ms exceeded. =========================== logs\n=========================== navigating to\n\"https://www.kyckr.com/products/overview\", waiting until \"load\"\n============================================================\n\n"
 }
