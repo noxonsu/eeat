@@ -349,7 +349,8 @@
         "url": "https://www.listingsproject.com/",
         "sourcekeyword": "List of projects: ",
         "nature": "single project",
-        "domainRegDate": "2009-01-23T03:32:30Z"
+        "domainRegDate": "2009-01-23T03:32:30Z",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.mtpelerin.com": {
         "url": "https://www.mtpelerin.com/",
@@ -367,7 +368,8 @@
         "url": "https://www.shocard.com/",
         "sourcekeyword": "ShoCard:  mobile optimized digital identity solution",
         "nature": "single project",
-        "domainRegDate": "2015-03-12T23:40:35Z"
+        "domainRegDate": "2015-03-12T23:40:35Z",
+        "priceAndPlansCrawled": "Not found"
     },
     "uqudo.com": {
         "url": "https://uqudo.com/",
@@ -486,7 +488,9 @@
         "url": "https://www.vikartech.com/",
         "sourcekeyword": "Vikar Technologies, Inc:  KYC Solution Providers",
         "nature": "single project",
-        "domainRegDate": "2017-08-23T19:09:13Z"
+        "domainRegDate": "2017-08-23T19:09:13Z",
+        "priceAndPlansCrawled": "https://www.vikartech.com/onevikar",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:aqRbEAELVdAJ:https://www.vikartech.com/onevikar&hl=en&gl=us"
     },
     "icomplyis.com": {
         "url": "https://icomplyis.com/",
@@ -590,13 +594,15 @@
         "url": "https://docs.mvs.org/",
         "sourcekeyword": "Metaverse:  open-source public blockchain for digital assets and identities",
         "nature": "single project",
-        "domainRegDate": "1998-02-12T05:00:00Z"
+        "domainRegDate": "1998-02-12T05:00:00Z",
+        "priceAndPlansCrawled": "Not found"
     },
     "kwiktrust.com": {
         "url": "https://kwiktrust.com/",
         "sourcekeyword": "Kwiktrust:  KYC Solution Providers",
         "nature": "single project",
-        "domainRegDate": "2018-04-26T09:30:23Z"
+        "domainRegDate": "2018-04-26T09:30:23Z",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.elliptic.co": {
         "url": "https://www.elliptic.co/",
