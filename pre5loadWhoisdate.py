@@ -19,7 +19,7 @@ companies_file = "1companies.json"
 targetField="domainRegDate"
 
 def load_data_without_regdate(filename):
-    return {domain: info for domain, info in load_from_json_file(filename,data_folder).items() if "{targetField}" not in info}
+    return {domain: info for domain, info in load_from_json_file(filename,data_folder).items() if "domainRegDate" not in info and "nature" in info and info["nature"] == "single project"}
 
 
 def main():
@@ -33,6 +33,7 @@ def main():
     # Iterate through the data dictionary
     for domain, domain_data in data.items():
         
+        print(domain)
 
         # Define the endpoint and headers
         url = 'https://whoisjsonapi.com/v1/'+domain

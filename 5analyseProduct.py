@@ -82,8 +82,8 @@ conversation = ConversationChain(llm=llm, prompt=prompt,memory=memory)
 def get_company_details(company):
     """Extract details of the company using the LLMChain."""
     summary=load_from_json_file(company+".json","data/"+INDUSTRY_KEYWORD)
-    question_content = 'INDUSTRY_KEYWORD: '+INDUSTRY_KEYWORD+"\n\n"+summary['summary']
-    question_content = question_content[:50000]
+    question_content = 'INDUSTRY_KEYWORD: '+INDUSTRY_KEYWORD+"\n\n"+json.dumps(summary)
+    question_content = question_content[:40000]
     response = conversation({ "input": question_content })
     
     gpt_response = response['response']
@@ -96,17 +96,22 @@ def get_company_details(company):
 
 def main():
     
-    summaries = load_from_json_file("companies.json", "data/" + INDUSTRY_KEYWORD)
+    summaries = load_from_json_file("1companies.json", "data/" + INDUSTRY_KEYWORD)
     
     # Filter the summaries to get only those with nature "single project"
     filtered_summaries = {k: v for k, v in summaries.items() if v.get('nature') == "single project"}
-   
+    total=len(filtered_summaries)
+    print (total)
     # Load existing company details
     existing_company_details = load_from_json_file("companies_details.json", "data/" + INDUSTRY_KEYWORD)
     company_details = existing_company_details.copy()  # Start with existing details
     
     # Iterate through the filtered summaries to get details for each company
+    i=0
     for company, compdata in filtered_summaries.items():
+        i=i+1
+        print(i/total*100)
+        print(company)
         if company not in existing_company_details:  # Only fetch details if not already present
             print(f"Fetching details for company: {company}")
             details = get_company_details(company)

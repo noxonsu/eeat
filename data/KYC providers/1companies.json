@@ -7,70 +7,86 @@
     "seon.io": {
         "url": "https://seon.io/",
         "nature": "invalid",
-        "sourcekeyword": "SEON:  Fraud detection software"
+        "sourcekeyword": "SEON:  Fraud detection software",
+        "domainRegDate": "2015-03-20T12:42:37Z"
     },
     "sumsub.com": {
         "url": "https://sumsub.com/",
         "nature": "single project",
-        "sourcekeyword": "Sumsub:  remote user verification, KYC, KYT checks, AML screening, and customer data storage"
+        "sourcekeyword": "Sumsub:  remote user verification, KYC, KYT checks, AML screening, and customer data storage",
+        "domainRegDate": "2015-05-01T10:51:56Z"
     },
     "www.togggle.io": {
         "url": "https://www.togggle.io/blog/which-is-the-best-kyc-solution-in-2023",
-        "nature": "invalid"
+        "nature": "invalid",
+        "domainRegDate": "2021-02-10T13:26:38Z"
     },
     "liquidity-provider.com": {
         "url": "https://liquidity-provider.com/articles/top-5-most-reliable-kyc-technology-providers/",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2017-05-19T16:39:28Z"
     },
     "www.blockdata.tech": {
         "url": "https://www.blockdata.tech/profiles/amlt-network",
         "nature": "list of projects",
-        "sourcekeyword": "AMLT Network:  system for reporting and protecting against nefarious cryptocurrency addresses"
+        "sourcekeyword": "AMLT Network:  system for reporting and protecting against nefarious cryptocurrency addresses",
+        "domainRegDate": "2017-11-14T09:47:51.0Z"
     },
     "sdk.finance": {
         "url": "https://sdk.finance/how-to-choose-a-kyc-provider-part-2/",
-        "nature": "Invalid: DDOS protection screen"
+        "nature": "Invalid: DDOS protection screen",
+        "domainRegDate": "2014-11-29T20:04:47Z"
     },
     "sourceforge.net": {
         "url": "https://sourceforge.net/software/kyc/",
-        "nature": "Invalid: DDOS protection screen"
+        "nature": "Invalid: This is not a valid text input.",
+        "domainRegDate": "1999-08-08T04:48:02Z"
     },
     "fully-verified.com": {
         "url": "https://fully-verified.com/kyc-service-provider-company/",
-        "nature": "Invalid: DDOS protection screen"
+        "nature": "Invalid: DDOS protection screen",
+        "domainRegDate": "2017-04-08T15:15:41Z"
     },
     "www.capterra.com": {
         "url": "https://www.capterra.com/kyc-software/",
-        "nature": "Invalid: DDOS protection screen"
+        "nature": "Invalid: DDOS protection screen",
+        "domainRegDate": "1999-10-15T21:16:13Z"
     },
     "salv.com": {
         "url": "https://salv.com/blog/best-kyc-software-and-tools/",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "1996-07-05T04:00:00Z"
     },
     "microblink.com": {
         "url": "microblink.com",
         "nature": "Invalid: Timeout error occurred while trying to access the webpage.",
-        "sourcekeyword": "IC Insights:  KYC Solution Providers"
+        "sourcekeyword": "IC Insights:  KYC Solution Providers",
+        "domainRegDate": "2014-07-22T18:19:52Z"
     },
     "www.ventureradar.com": {
         "url": "https://www.ventureradar.com/keyword/KYC",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2011-02-09T22:18:57Z"
     },
     "www.moodys.com": {
         "url": "https://www.moodys.com/web/en/us/kyc.html",
-        "nature": "Invalid: DDOS protection screen"
+        "nature": "single project",
+        "domainRegDate": "1992-08-26T04:00:00Z"
     },
     "www.linkedin.com": {
         "url": "https://www.linkedin.com/pulse/kyc-compliance-software-how-choose-top-providers-techmagic?trk=public_post_main-feed-card_feed-article-content",
-        "nature": "Invalid: Timeout error occurred while trying to access the provided URL."
+        "nature": "Invalid: Timeout error occurred while trying to access the provided URL.",
+        "domainRegDate": "2002-11-02T15:38:11Z"
     },
     "www.idmerit.com": {
         "url": "https://www.idmerit.com/idmkyc/",
-        "nature": "Invalid: DDOS protection screen"
+        "nature": "Invalid: DDOS protection screen",
+        "domainRegDate": "2015-09-14T10:12:50Z"
     },
     "codeandpepper.com": {
         "url": "https://codeandpepper.com/what-are-top-kyc-solutions-and-who-does-it-best-in-2022/",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2014-03-26T08:32:31Z"
     },
     "candices.medium.com": {
         "url": "https://candices.medium.com/top-10-kyc-aml-service-providers-d8bee5744904",
@@ -78,7 +94,8 @@
     },
     "grcoutlook.com": {
         "url": "https://grcoutlook.com/top-10-kyc-solution-providers-2022/",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2021-01-23T11:02:05Z"
     },
     "justcoded.com": {
         "url": "https://justcoded.com/blog/leveraging-technology-for-customer-onboarding-overview-of-online-kyc-providers/",
@@ -86,12 +103,14 @@
     },
     "datarade.ai": {
         "url": "https://datarade.ai/top-lists/best-data-providers-for-kyc",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "1995-02-16"
     },
     "ondato.com": {
         "url": "https://ondato.com/",
         "nature": "single project",
-        "sourcekeyword": "Ondato:  high-precision OCR technology for identity verification"
+        "sourcekeyword": "Ondato:  high-precision OCR technology for identity verification",
+        "domainRegDate": "2018-04-10T19:08:02Z"
     },
     "www.refinitiv.com": {
         "url": "https://www.refinitiv.com/",
@@ -112,11 +131,13 @@
     },
     "tracxn.com": {
         "url": "https://tracxn.com/d/trending-themes/startups-in-kyc-solutions/__HqBj3doxC53wJi4bBJjKyMsOMNzd1-naYLbrz6dKYcA",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2012-02-11T07:58:03Z"
     },
     "slashdot.org": {
         "url": "https://slashdot.org/software/kyc/",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "1997-10-05T04:00:00Z"
     },
     "themobilereality.com": {
         "url": "https://themobilereality.com/blog/top-10-kyc-and-aml-software-companies-in-2023",
@@ -129,15 +150,18 @@
     },
     "lenderkit.com": {
         "url": "https://lenderkit.com/integrations/kyc-aml-providers/",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2018-04-25T14:51:57Z"
     },
     "fintech-market.com": {
         "url": "https://fintech-market.com/blog/kyc-providers-and-tools-for-your-lending-company",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2017-09-24T14:36:38Z"
     },
     "www.pxl-vision.com": {
         "url": "https://www.pxl-vision.com/kyc/service-provider",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2017-01-21T11:07:20Z"
     },
     "medium.datadriveninvestor.com": {
         "url": "https://medium.datadriveninvestor.com/top-online-kyc-solution-providers-to-watch-out-in-2020-b0ed471aa542",
@@ -145,12 +169,14 @@
     },
     "deepinspire.com": {
         "url": "https://deepinspire.com/blog/how-to-choose-the-right-kyc-service-provide/",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2010-09-16T16:09:57Z"
     },
     "www.blockpass.org": {
         "url": "https://www.blockpass.org/",
         "nature": "single project",
-        "sourcekeyword": "Blockpass:  KYC & AML software-as-a-service"
+        "sourcekeyword": "Blockpass:  KYC & AML software-as-a-service",
+        "domainRegDate": "2017-03-03T07:55:50Z"
     },
     "www.idnow.io": {
         "url": "https://www.idnow.io/",
@@ -159,7 +185,8 @@
     },
     "www.signicat.com": {
         "url": "https://www.signicat.com/use-cases/kyc-aml",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2007-06-14T20:56:57Z"
     },
     "cryptoadventure.com": {
         "url": "https://cryptoadventure.com/top-5-kyc-solutions-for-crypto-or-nft-projects/",
@@ -167,7 +194,8 @@
     },
     "internationalsales.lexisnexis.com": {
         "url": "https://internationalsales.lexisnexis.com/glossary/compliance/kyc-know-your-customer",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "1997-06-26T04:00:00Z"
     },
     "iconoutlook.com": {
         "url": "https://iconoutlook.com/top-20-kyc-solution-providers-2022/",
@@ -175,16 +203,19 @@
     },
     "www.mineraltree.com": {
         "url": "https://www.mineraltree.com/blog/how-kyc-compliance-benefits-payment-providers-and-their-customers/",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2010-07-10T19:40:24Z"
     },
     "onfido.com": {
         "url": "https://onfido.com/",
         "nature": "single project",
-        "sourcekeyword": "Onfido:  online user identification service using facial biometrics"
+        "sourcekeyword": "Onfido:  online user identification service using facial biometrics",
+        "domainRegDate": "2013-02-22T19:19:38Z"
     },
     "www.numeracle.com": {
         "url": "https://www.numeracle.com/download-kyc-fundamentals-guide",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2017-10-20T18:38:49Z"
     },
     "www.marqeta.com": {
         "url": "https://www.marqeta.com/docs/core-api/kyc-verification",
@@ -192,11 +223,13 @@
     },
     "www.encompasscorporation.com": {
         "url": "https://www.encompasscorporation.com/encompass-customers/kyc-data-providers/",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2012-10-26T00:59:16Z"
     },
     "www.swift.com": {
         "url": "https://www.swift.com/your-needs/financial-crime-cyber-security/know-your-customer-kyc/kyc-process",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "1994-02-21T05:00:00Z"
     },
     "www.velmie.com": {
         "url": "https://www.velmie.com/top-kyc-solutions",
@@ -205,7 +238,8 @@
     "knowyourcustomer.com": {
         "url": "knowyourcustomer.com",
         "nature": "single project",
-        "sourcekeyword": "Know Your Customer:  Regulatory technology (RegTech) company, digital onboarding, AML and KYC/KYB solutions, compliance with regulatory requirements, financial ecosystem trust"
+        "sourcekeyword": "Know Your Customer:  Regulatory technology (RegTech) company, digital onboarding, AML and KYC/KYB solutions, compliance with regulatory requirements, financial ecosystem trust",
+        "domainRegDate": "1998-11-18T05:00:00Z"
     },
     "kyc.bankingciooutlook.com": {
         "url": "https://kyc.bankingciooutlook.com/vendors/top-kyc-solution-companies.html",
@@ -213,15 +247,18 @@
     },
     "authbridge.com": {
         "url": "https://authbridge.com/solutions/kyc-know-your-customer/",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2005-07-15T15:20:57Z"
     },
     "www.kyckr.com": {
         "url": "https://www.kyckr.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2015-11-11T11:36:08Z"
     },
     "www.celent.com": {
         "url": "https://www.celent.com/vendormatch/types/know-your-customer-systems-kyc",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "1999-11-16T19:16:34Z"
     },
     "www.spglobal.com": {
         "url": "https://www.spglobal.com/marketintelligence/en/mi/products/kyc-services.html",
@@ -230,12 +267,14 @@
     "www.trulioo.com": {
         "url": "https://www.trulioo.com/",
         "nature": "single project",
-        "sourcekeyword": "TRULIOO:  identity verification services"
+        "sourcekeyword": "TRULIOO:  identity verification services",
+        "domainRegDate": "2009-06-19T16:12:16Z"
     },
     "www.idology.com": {
         "url": "https://www.idology.com/",
         "sourcekeyword": "IDology, Inc:  Identity verification and fraud prevention solutions",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2003-08-13T18:10:44Z"
     },
     "www.soliduslabs.com": {
         "url": "https://www.soliduslabs.com/",
@@ -250,12 +289,14 @@
     "www.coincover.com": {
         "url": "https://www.coincover.com/",
         "sourcekeyword": "CoinCover:  insurance and security service for digital currency",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2013-07-14T18:32:41Z"
     },
     "kyc-chain.com": {
         "url": "https://kyc-chain.com/",
         "sourcekeyword": "KYC-Chain:  platform for managing client data and digital identities using distributed ledger technology",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2015-11-29T09:00:47Z"
     },
     "www.jumio.com": {
         "url": "https://www.jumio.com/",
@@ -270,27 +311,32 @@
     "www.synaps.io": {
         "url": "https://www.synaps.io/",
         "sourcekeyword": "Synapse:  KYC Solution Providers",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2014-02-19T08:33:38Z"
     },
     "www.listingsproject.com": {
         "url": "https://www.listingsproject.com/",
         "sourcekeyword": "List of projects: ",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2009-01-23T03:32:30Z"
     },
     "www.mtpelerin.com": {
         "url": "https://www.mtpelerin.com/",
         "sourcekeyword": "Mt Pelerin:  fintech expert in asset tokenization and digital compliance",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2017-09-30T11:34:27Z"
     },
     "mangopay.com": {
         "url": "https://mangopay.com/",
         "sourcekeyword": "MANGOPAY:  payment solutions",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2013-03-20T18:15:18Z"
     },
     "www.shocard.com": {
         "url": "https://www.shocard.com/",
         "sourcekeyword": "ShoCard:  mobile optimized digital identity solution",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2015-03-12T23:40:35Z"
     },
     "uqudo.com": {
         "url": "https://uqudo.com/",
@@ -310,17 +356,20 @@
     "www.trmlabs.com": {
         "url": "https://www.trmlabs.com/",
         "sourcekeyword": "TRM Labs:  blockchain intelligence solutions",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2018-06-26T19:57:29Z"
     },
     "www.veriff.com": {
         "url": "https://www.veriff.com/",
         "sourcekeyword": "Veriff:  Global identity verification service",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2006-04-12T17:11:04Z"
     },
     "www.acuitykp.com": {
         "url": "https://www.acuitykp.com/",
         "sourcekeyword": "Accuity:  Due diligence solutions including customer screening and risk portfolio management",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2019-06-20T08:41:42Z"
     },
     "www.beamsolutions.com": {
         "url": "https://www.beamsolutions.com/",
@@ -345,12 +394,14 @@
     "shuftipro.com": {
         "url": "https://shuftipro.com/",
         "sourcekeyword": "Shufti Pro:  KYC and AML screening solutions",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2016-06-28T19:20:19Z"
     },
     "digishares.io": {
         "url": "https://digishares.io/",
         "sourcekeyword": "DigiShares:  white-label software for securities issuance and management",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2018-11-22T10:01:04Z"
     },
     "fraud.net": {
         "url": "https://fraud.net/",
@@ -360,7 +411,8 @@
     "www.aegiscustody.com": {
         "url": "https://www.aegiscustody.com/",
         "sourcekeyword": "Aegis Custody:  regulated digital asset custodian prime service provider",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2018-08-23T00:38:56Z"
     },
     "www.niceactimize.com": {
         "url": "https://www.niceactimize.com/",
@@ -370,32 +422,38 @@
     "bitfury.com": {
         "url": "https://bitfury.com/",
         "sourcekeyword": "BitFury:  blockchain technology solutions",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2004-09-21T15:27:38Z"
     },
     "www.complycube.com": {
         "url": "https://www.complycube.com/en/",
         "sourcekeyword": "ComplyCube:  Identity Verification (IDV), AML, and KYC compliance, omnichannel integration, Low/No-Code solutions, API integrations, mobile and web SDKs, CRM integrations",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2018-05-24T10:55:01Z"
     },
     "www.vertalo.com": {
         "url": "https://www.vertalo.com/",
         "sourcekeyword": "Vertalo:  blockchain platform for digital assets and investor relations services",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2012-03-20T18:37:58Z"
     },
     "www.idenfy.com": {
         "url": "https://www.idenfy.com/",
         "sourcekeyword": "iDenfy:  Identity verification and fraud prevention platform, AI and selfie biometrics, customizable design and ID verification workflow, compatibility with over 2,000+ applications",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2017-09-08T12:19:34Z"
     },
     "beosin.com": {
         "url": "https://beosin.com/",
         "sourcekeyword": "Beosin:  blockchain security company",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2018-10-11T01:15:30Z"
     },
     "www.vikartech.com": {
         "url": "https://www.vikartech.com/",
         "sourcekeyword": "Vikar Technologies, Inc:  KYC Solution Providers",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2017-08-23T19:09:13Z"
     },
     "icomplyis.com": {
         "url": "https://icomplyis.com/",
@@ -405,12 +463,14 @@
     "complyadvantage.com": {
         "url": "https://complyadvantage.com/",
         "sourcekeyword": "ComplyAdvantage:  KYB, KYC, and AML instruments for dealing with financial crime risks and technologies for their detection",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2014-07-05T10:44:47Z"
     },
     "creditro.com": {
         "url": "https://creditro.com/",
         "sourcekeyword": "Creditro:  KYC Solution Providers",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2016-03-31T20:10:53Z"
     },
     "www.identitymindglobal.com": {
         "url": "https://www.identitymindglobal.com/",
@@ -420,7 +480,8 @@
     "agreementexpress.com": {
         "url": "https://agreementexpress.com/",
         "sourcekeyword": "AGREEMENT EXPRESS:  unconventional KYC solutions",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2008-05-23T01:28:01Z"
     },
     "www.scorechain.com": {
         "url": "https://www.scorechain.com/",
@@ -430,7 +491,8 @@
     "selfkey.org": {
         "url": "https://selfkey.org/",
         "sourcekeyword": "SelfKey:  self-sovereign identity provider using blockchain technology",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2017-05-28T09:38:38Z"
     },
     "withpersona.com": {
         "url": "https://withpersona.com/",
@@ -445,7 +507,8 @@
     "blockchain-helix.com": {
         "url": "https://blockchain-helix.com/",
         "sourcekeyword": "Blockchain Helix:  digital identity and home service",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2016-03-20T00:55:20Z"
     },
     "fugu-it.com": {
         "url": "https://fugu-it.com/",
@@ -465,7 +528,8 @@
     "www.quantifind.com": {
         "url": "https://www.quantifind.com/",
         "sourcekeyword": "Quantifind:  Data science technology company, AI platform, risk detection and fraud prevention, strategic partnerships with financial institutions, innovative solutions for identifying patterns and suspicious activities",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2009-09-09T05:50:10Z"
     },
     "www.1account.net": {
         "url": "https://www.1account.net/",
@@ -475,12 +539,14 @@
     "norbloc.com": {
         "url": "https://norbloc.com/",
         "sourcekeyword": "Norbloc:  KYC Solution Providers",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2016-04-11T07:33:55Z"
     },
     "www.genpact.com": {
         "url": "https://www.genpact.com/",
         "sourcekeyword": "Genpact:  Genpact",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2005-03-03T20:15:32Z"
     },
     "www.identitymind.com": {
         "url": "https://www.identitymind.com/",
@@ -490,12 +556,14 @@
     "docs.mvs.org": {
         "url": "https://docs.mvs.org/",
         "sourcekeyword": "Metaverse:  open-source public blockchain for digital assets and identities",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "1998-02-12T05:00:00Z"
     },
     "kwiktrust.com": {
         "url": "https://kwiktrust.com/",
         "sourcekeyword": "Kwiktrust:  KYC Solution Providers",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2018-04-26T09:30:23Z"
     },
     "www.elliptic.co": {
         "url": "https://www.elliptic.co/",
@@ -505,7 +573,8 @@
     "www.solarisgroup.com": {
         "url": "https://www.solarisgroup.com/",
         "sourcekeyword": "Solaris Digital Assets:  digital asset product development",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "1998-12-11T05:00:00Z"
     },
     "vital4.net": {
         "url": "https://vital4.net/",
@@ -525,12 +594,14 @@
     "bakkt.com": {
         "url": "https://bakkt.com/",
         "sourcekeyword": "Bakkt:  digital asset trading platform",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2018-07-06T17:44:32Z"
     },
     "www.ugrconsulting.com": {
         "url": "https://www.ugrconsulting.com/",
         "sourcekeyword": "UGR:  KYC Solution Providers",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2017-10-07T00:21:47Z"
     },
     "www.acuant.com": {
         "url": "https://www.acuant.com/",
@@ -540,12 +611,14 @@
     "truststamp.ai": {
         "url": "https://truststamp.ai/",
         "sourcekeyword": "TRUST STAMP:  KYC and biometric identity",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "1995-02-16"
     },
     "web.fractal.id": {
         "url": "https://web.fractal.id/",
         "sourcekeyword": "Fractal ID:  KYC/AML service platform",
-        "nature": "single project"
+        "nature": "single project",
+        "domainRegDate": "2018-11-21 07:09:11"
     },
     "www.unit21.ai": {
         "url": "https://www.unit21.ai/",

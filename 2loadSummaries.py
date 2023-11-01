@@ -19,7 +19,7 @@ products_file = "2products.json"
 companies_names_file = "companies_names.json"
 
 def load_data_without_nature(filename):
-    return {domain: info for domain, info in load_from_json_file(filename,data_folder).items() if "nature" not in info}
+    return {domain: info for domain, info in load_from_json_file(filename,data_folder).items() if ("nature" not in info or "DDOS" in info['nature'])}
 
 def load_products(filename):
     return load_from_json_file(filename)
