@@ -1,7 +1,7 @@
 import os
 import re
 import json
-from serpapi import GoogleSearch
+
 from langchain.chat_models import ChatOpenAI
 from langchain.schema import SystemMessage, HumanMessage
 
@@ -10,7 +10,7 @@ from utils import *
 SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
-KEYWORD_FOR_SERP = os.environ.get('INDUSTRY_KEYWORD')
+
 
 if not SERPAPI_KEY:
     print("Please set the SERPAPI_KEY environment variable.")
@@ -39,30 +39,12 @@ def extract_company_urls_from_serp(serp_content, industry_query):
     
     return gpttitle
 
-def search_companies_on_google(industry_query):
-    params = {
-        "engine": "google",
-        "q": industry_query,
-        'gl': 'us',
-        'hl': 'en',
-        'num': 100,
-        "api_key": SERPAPI_KEY,
-    }
-    search = GoogleSearch(params)
-    results = search.get_dict()
 
-    # Error handling for missing key
-    if "organic_results" in results:
-        return results["organic_results"]
-    else:
-        print("Error: 'organic_results' not found in the results!")
-        print(results)  # This will print the structure of results to inspect it
-        return []
 
 def main():
     industry_query = INDUSTRY_KEYWORD
     
-    organic_results = search_companies_on_google(KEYWORD_FOR_SERP)
+    organic_results = search_companies_on_google(KEYWORD_FOR_SERP,40)
     print(organic_results)
     
     # Setting the folder based on the industry keyword

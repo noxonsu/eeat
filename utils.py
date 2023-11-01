@@ -2,10 +2,12 @@ from urllib.parse import urlparse
 import os
 import re
 import json
+from serpapi import GoogleSearch
 from bs4 import BeautifulSoup
 from langchain.document_loaders import AsyncChromiumLoader
 from langchain.document_transformers import Html2TextTransformer
 from urllib.parse import urljoin
+from bs4 import BeautifulSoup
 
 def extract_domain_from_url(url):
     """Extract the domain from a given URL."""
@@ -101,7 +103,7 @@ def generate_html_from_json(json_data):
     
     return html_content
 
-from bs4 import BeautifulSoup
+
 
 def extract_links_with_text_from_html(html_content, base_url):
     """Extract all internal links with their text from the given HTML content and return as JSON."""
@@ -184,3 +186,24 @@ def extract_content(site):
         "text_content": text_content[0].page_content,
         "html_content": html_content
     }
+
+def search_companies_on_google(industry_query,limt):
+    SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
+    params = {
+        "engine": "google",
+        "q": industry_query,
+        'gl': 'us',
+        'hl': 'en',
+        'num': limt,
+        "api_key": SERPAPI_KEY,
+    }
+    search = GoogleSearch(params)
+    results = search.get_dict()
+
+    # Error handling for missing key
+    if "organic_results" in results:
+        return results["organic_results"]
+    else:
+        print("Error: 'organic_results' not found in the results!")
+        print(results)  # This will print the structure of results to inspect it
+        return []
