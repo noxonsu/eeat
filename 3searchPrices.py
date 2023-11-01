@@ -45,33 +45,29 @@ def main():
     
     
     # Load data
-<<<<<<< HEAD
+
     data = load_from_json_file("1companies.json","data/"+INDUSTRY_KEYWORD)
     #filter only data with nature=single project
     data = {k:v for k,v in data.items() if v['nature']=='single project'}
 
-=======
-    data = load_from_json_file("1companies.json")
->>>>>>> 32bb33df4cd1baec08e90c9ee47f27f4dc034dcd
+
     print(len(data))
     # Iterate through the data dictionary
     for domain, domain_data in data.items():
         
         data = load_from_json_file(domain+".json",data_folder)
         print("\n\n"+domain)
-<<<<<<< HEAD
+
         
         intitle:("pricing" or "price & plans" or "prices")
 
-        continue
-=======
         if ("links" not in data): 
             print("no links in file "+data_folder+"/"+domain+".json")
             continue
         if ("priceAndPlans2" in data):
             print("prices crawled. skip ")
             continue
->>>>>>> 32bb33df4cd1baec08e90c9ee47f27f4dc034dcd
+
 
         print("searching link to prices")
 
