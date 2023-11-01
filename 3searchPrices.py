@@ -14,7 +14,7 @@ from utils import *
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 WHOISJSONAPI= os.environ.get('WHOISJSONAPI')
 data_folder = f"data/{INDUSTRY_KEYWORD}"
-companies_file = "1companies.json"
+
 
 targetField="priceAndPlans"
 
@@ -45,19 +45,20 @@ def main():
     
     
     # Load data
-    data = load_data_without(companies_file)
+    data = load_from_json_file("1companies.json","data/"+INDUSTRY_KEYWORD)
+    #filter only data with nature=single project
+    data = {k:v for k,v in data.items() if v['nature']=='single project'}
+
     print(len(data))
     # Iterate through the data dictionary
     for domain, domain_data in data.items():
         
         data = load_from_json_file(domain+".json",data_folder)
         print("\n\n"+domain)
-        if ("links" not in data): 
-            print("no links in file "+data_folder+"/"+domain+".json")
-            continue
-        if ("priceAndPlans" in data):
-            print("prices crawled. skip ")
-            continue
+        
+        intitle:("pricing" or "price & plans" or "prices")
+
+        continue
 
         print("searching link to prices")
 
