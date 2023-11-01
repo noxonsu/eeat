@@ -54,10 +54,11 @@ def main():
     print(len(data))
     # Iterate through the data dictionary
     for domain, domain_data in data.items():
-        
+         
         data = load_from_json_file(domain+".json",data_folder)
         print("\n\n"+domain)
 
+        search_companies_on_google("site:"+domain+" " ,10)
         
         intitle:("pricing" or "price & plans" or "prices")
 
