@@ -103,7 +103,7 @@ def main():
     total=len(filtered_summaries)
     print (total)
     # Load existing company details
-    existing_company_details = load_from_json_file("companies_details.json", "data/" + INDUSTRY_KEYWORD)
+    existing_company_details = load_from_json_file("5companies_details.json", "data/" + INDUSTRY_KEYWORD)
     company_details = existing_company_details.copy()  # Start with existing details
     
     # Iterate through the filtered summaries to get details for each company
@@ -117,7 +117,7 @@ def main():
             details = get_company_details(company)
             if details:
                 company_details[company] = details
-                save_to_json_file(company_details, "companies_details.json", "data/" + INDUSTRY_KEYWORD)
+                save_to_json_file(company_details, "5companies_details.json", "data/" + INDUSTRY_KEYWORD)
 
 if __name__ == "__main__":
     main()
