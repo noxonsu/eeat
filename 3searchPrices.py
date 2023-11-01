@@ -15,6 +15,13 @@ INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 WHOISJSONAPI= os.environ.get('WHOISJSONAPI')
 
 COMPAREPRICES= os.environ.get('COMPAREPRICES')
+SEPR_PRICES_EXT = os.environ.get('SEPR_PRICES_EXT')
+
+#SERP_PRICES_EXT Check if this exists or exit with debug message
+if SEPR_PRICES_EXT is None:
+    print("SEPR_PRICES_EXT is not defined. Please define it in .env file if you want to use this script")
+    exit()
+    
 
 data_folder = f"data/{INDUSTRY_KEYWORD}"
 
@@ -49,7 +56,7 @@ def main():
 
     data = load_from_json_file("1companies.json","data/"+INDUSTRY_KEYWORD)
     #filter only data with nature=single project
-    data = {k:v for k,v in data.items() if v['nature']=='single project' and 'priceAndPlansCrawled' not in v and k == 'www.complycube.com'}
+    data = {k:v for k,v in data.items() if v['nature']=='single project' and 'priceAndPlansCrawled' not in v}
 
 
     print(len(data))
@@ -58,7 +65,7 @@ def main():
          
         print("\n\n"+domain)
 
-        organic_results = search_companies_on_google("site:"+domain+' intitle:(pricing or price & plans or prices) ', 10)
+        organic_results = search_companies_on_google("site:"+domain+' '+SEPR_PRICES_EXT, 10)
         
         serp_content = ""
         for result in organic_results:
@@ -70,7 +77,7 @@ def main():
             plans_url = organic_results[0]['link']
             plans_url_cached = organic_results[0]['cached_page_link']
         elif (len(organic_results) > 1):
-            plans_url = finde_link_toplans(serp_content)
+            plans_url = 'Many links'
         else:
             plans_url = 'Not found'
         
