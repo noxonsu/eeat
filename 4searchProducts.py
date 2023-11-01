@@ -21,7 +21,7 @@ def findOfficialDomain(serp, project_name):
     
     chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-0613")
     messages = [
-        SystemMessage(content="Analyse SERP and find the official domain URL of the project named '"+project_name+"'. Return only one URL if found starts with https://. Return only URL without quotes etc."),
+        SystemMessage(content="Analyse SERP and find the official domain URL of the project named '"+project_name+"' and link to Plan & Pricing (if they have). Return only one URL if found starts with https://. Return only URL without quotes etc."),
         HumanMessage(content=f" {serp} \n\n The official domain is: ")
     ]
 
