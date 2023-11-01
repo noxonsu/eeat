@@ -192,8 +192,6 @@ def search_companies_on_google(industry_query,limt):
     params = {
         "engine": "google",
         "q": industry_query,
-        'gl': 'us',
-        'hl': 'en',
         'num': limt,
         "api_key": SERPAPI_KEY,
     }
