@@ -19,7 +19,7 @@ products_file = "2products.json"
 companies_names_file = "companies_names.json"
 
 def load_data_without_nature(filename):
-    return {domain: info for domain, info in load_from_json_file(filename,data_folder).items() if ("nature" not in info or "DDOS" in info['nature'])}
+    return {domain: info for domain, info in load_from_json_file(filename,data_folder).items() if ("nature" not in info)}
 
 def load_products(filename):
     return load_from_json_file(filename)
@@ -88,7 +88,7 @@ def main():
     i=0
     for domain, domain_data in data.items():
         i=i+1
-        url = domain_data["url"]
+        url = domain_data["cached_url"]
         print(i/total*100)
         print ("\n\nHarvest "+domain)
         summary = extract_content(url)

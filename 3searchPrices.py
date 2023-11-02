@@ -15,11 +15,11 @@ INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 WHOISJSONAPI= os.environ.get('WHOISJSONAPI')
 
 COMPAREPRICES= os.environ.get('COMPAREPRICES')
-SEPR_PRICES_EXT = os.environ.get('SEPR_PRICES_EXT')
+SERP_PRICES_EXT = os.environ.get('SERP_PRICES_EXT')
 
 #SERP_PRICES_EXT Check if this exists or exit with debug message
-if SEPR_PRICES_EXT is None:
-    print("SEPR_PRICES_EXT is not defined. Please define it in .env file if you want to use this script")
+if SERP_PRICES_EXT is None:
+    print("SERP_PRICES_EXT is not defined. Please define it in .env file if you want to use this script")
     exit()
     
 
@@ -65,7 +65,7 @@ def main():
          
         print("\n\n"+domain)
 
-        organic_results = search_companies_on_google("site:"+domain+' '+SEPR_PRICES_EXT, 10)
+        organic_results = search_companies_on_google("site:"+domain+' '+SERP_PRICES_EXT, 10)
         
         serp_content = ""
         for result in organic_results:

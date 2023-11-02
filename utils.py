@@ -205,3 +205,4 @@ def search_companies_on_google(industry_query,limt):
         print("Error: 'organic_results' not found in the results!")
         print(results)  # This will print the structure of results to inspect it
         return []
+    

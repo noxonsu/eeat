@@ -22,7 +22,7 @@ def findOfficialDomain(serp, project_name):
     
     chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
     messages = [
-        SystemMessage(content="Analyse SERP and find the official domain URL (frontpoage only) of the project named '"+project_name+"'. Return only url starts with https://. If not found return 'Not found'"),
+        SystemMessage(content="Analyse SERP and find the official domain URL (frontpoage only) of the project named '"+project_name+"'. Return only url starts with https://. If not found or or is not frontpage return 'Not found' or 'Not frontpage''"),
         HumanMessage(content=f" {serp} \n\n The official url is: ")
     ]
 
@@ -88,7 +88,7 @@ def main():
         
         #split by : and take first
         name_project1 = name_project.split(":")[0]
-        search_q=name_project
+        search_q=name_project1
         organic_results = search_google(search_q)
 
 
@@ -119,7 +119,8 @@ def main():
                 if (companies[domain]['sourcekeyword'] != name_project):
                     companies[domain]['sourcekeyword'] = companies[domain]['sourcekeyword'] + ", " + name_project
                     print("multiple sourcekeyword")
-                companies[domain]['sourcekeyword'] = name_project
+                else:
+                    companies[domain]['sourcekeyword'] = name_project
         else:
             print("Not found")
             # remove from products
