@@ -67,13 +67,13 @@ Collate findings in a structured manner. For each service, list down how they fa
 
 In additional detrmine such information
 1. Call to action - 'talk to a manager', 'book a demo', 'talk to team', sign up etc.
-2. Determine their business model (how they earn) and prices
-3. Their usecases (use the same name for similar suecases of all companies)  
-4. Their solutions (use the same name for similar solutions of all companies)
+2. Determine their business model (how they earn) and prices and plans
+3. Their usecases  
+4. Their solutions
 5. """+clusterized_features_list_f+""""
 
 
-6. Brief summary 2-3 sentencies
+6. Brief summary what's the difference between other companies and this one
 7. Is this project realy related to """+INDUSTRY_KEYWORD+"""?
                                                                 
 Summarize your findings in a concise manner. The goal is to provide an objective view of each product offerings, highlighting both strengths and potential areas for improvement. Provide the results in JSON format."""
@@ -129,7 +129,7 @@ def main():
     for company, compdata in filtered_summaries.items():
         i=i+1
         print(i/total*100)
-        print(company)
+es        print(company)
         if company != "skip":  # Only fetch details if not already present
             print(f"Analysing details for company: {company}")
             details = get_company_details(company)

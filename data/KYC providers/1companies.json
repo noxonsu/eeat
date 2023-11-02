@@ -84,40 +84,11 @@
         "domainRegDate": "1992-08-26T04:00:00Z",
         "priceAndPlansCrawled": "Not found"
     },
-    "www.linkedin.com": {
-        "url": "https://www.linkedin.com/pulse/kyc-compliance-software-how-choose-top-providers-techmagic?trk=public_post_main-feed-card_feed-article-content",
-        "domainRegDate": "2002-11-02T15:38:11Z",
-        "nature": "invalid no sourcekeyword"
-    },
-    "www.idmerit.com": {
-        "url": "https://www.idmerit.com/idmkyc/",
-        "domainRegDate": "2015-09-14T10:12:50Z",
-        "nature": "invalid no sourcekeyword"
-    },
     "codeandpepper.com": {
         "url": "https://codeandpepper.com/what-are-top-kyc-solutions-and-who-does-it-best-in-2022/",
         "nature": "single project",
         "domainRegDate": "2014-03-26T08:32:31Z",
         "priceAndPlansCrawled": "Not found"
-    },
-    "candices.medium.com": {
-        "url": "https://candices.medium.com/top-10-kyc-aml-service-providers-d8bee5744904",
-        "nature": "invalid no sourcekeyword"
-    },
-    "grcoutlook.com": {
-        "url": "https://grcoutlook.com/top-10-kyc-solution-providers-2022/",
-        "nature": "single project",
-        "domainRegDate": "2021-01-23T11:02:05Z",
-        "priceAndPlansCrawled": "Not found"
-    },
-    "justcoded.com": {
-        "url": "https://justcoded.com/blog/leveraging-technology-for-customer-onboarding-overview-of-online-kyc-providers/",
-        "nature": "invalid no sourcekeyword"
-    },
-    "datarade.ai": {
-        "url": "https://datarade.ai/top-lists/best-data-providers-for-kyc",
-        "nature": "single project",
-        "domainRegDate": "1995-02-16"
     },
     "ondato.com": {
         "url": "https://ondato.com/",
@@ -125,33 +96,6 @@
         "sourcekeyword": "Ondato:  high-precision OCR technology for identity verification",
         "domainRegDate": "2018-04-10T19:08:02Z",
         "priceAndPlansCrawled": "Not found"
-    },
-    "www.refinitiv.com": {
-        "url": "https://www.refinitiv.com/",
-        "sourcekeyword": "Refinitiv:  global financial market data and infrastructure provider offering KYC solutions",
-        "nature": "single project"
-    },
-    "www.quora.com": {
-        "url": "https://www.quora.com/Who-are-the-KYC-software-service-providers",
-        "nature": "invalid no sourcekeyword"
-    },
-    "www.transunion.com": {
-        "url": "https://www.transunion.com/blog/know-your-KYC-provider-what-to-look-for-in-a-partner",
-        "nature": "invalid no sourcekeyword"
-    },
-    "www.pwc.com": {
-        "url": "https://www.pwc.com/gx/en/news-room/assets/analyst-citations/chartis-kyc-2022.pdf",
-        "nature": "invalid no sourcekeyword"
-    },
-    "tracxn.com": {
-        "url": "https://tracxn.com/d/trending-themes/startups-in-kyc-solutions/__HqBj3doxC53wJi4bBJjKyMsOMNzd1-naYLbrz6dKYcA",
-        "nature": "single project",
-        "domainRegDate": "2012-02-11T07:58:03Z"
-    },
-    "slashdot.org": {
-        "url": "https://slashdot.org/software/kyc/",
-        "nature": "single project",
-        "domainRegDate": "1997-10-05T04:00:00Z"
     },
     "themobilereality.com": {
         "url": "https://themobilereality.com/blog/top-10-kyc-and-aml-software-companies-in-2023",
@@ -200,7 +144,8 @@
     "www.idnow.io": {
         "url": "https://www.idnow.io/",
         "sourcekeyword": "IDNOW:  flexible platform for identity verification",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.signicat.com": {
         "url": "https://www.signicat.com/use-cases/kyc-aml",
@@ -313,40 +258,51 @@
     "www.soliduslabs.com": {
         "url": "https://www.soliduslabs.com/",
         "sourcekeyword": "Solidus Labs:  market integrity solutions for crypto trading",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.vialink.fr": {
         "url": "https://www.vialink.fr/",
         "sourcekeyword": "VIALINK KYC:  Customer digital and automated KYC solutions",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.coincover.com": {
         "url": "https://www.coincover.com/",
         "sourcekeyword": "CoinCover:  insurance and security service for digital currency",
         "nature": "single project",
-        "domainRegDate": "2013-07-14T18:32:41Z"
+        "domainRegDate": "2013-07-14T18:32:41Z",
+        "priceAndPlansCrawled": "https://www.coincover.com/pricing",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:DbFkjm8Di8cJ:https://www.coincover.com/pricing&hl=en&gl=us"
     },
     "kyc-chain.com": {
         "url": "https://kyc-chain.com/",
         "sourcekeyword": "KYC-Chain:  platform for managing client data and digital identities using distributed ledger technology",
         "nature": "single project",
-        "domainRegDate": "2015-11-29T09:00:47Z"
+        "domainRegDate": "2015-11-29T09:00:47Z",
+        "priceAndPlansCrawled": "https://kyc-chain.com/industries/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:Du9GVtNobHQJ:https://kyc-chain.com/industries/&hl=en&gl=us"
     },
     "www.jumio.com": {
         "url": "https://www.jumio.com/",
         "sourcekeyword": "Jumio:  AI-powered identity verification services for online businesses",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.jumio.com/calculate-tco/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:8PYJemFr4owJ:https://www.jumio.com/calculate-tco/&hl=en&gl=us"
     },
     "www.telesign.com": {
         "url": "https://www.telesign.com/",
         "sourcekeyword": "TELESIGN:  programmable communications APIs and digital identification",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.telesign.com/pricing/sms-and-voice",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:vwWbgx7qyIYJ:https://www.telesign.com/pricing/sms-and-voice&hl=en&gl=us"
     },
     "www.synaps.io": {
         "url": "https://www.synaps.io/",
         "sourcekeyword": "Synapse:  KYC Solution Providers",
         "nature": "single project",
-        "domainRegDate": "2014-02-19T08:33:38Z"
+        "domainRegDate": "2014-02-19T08:33:38Z",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.listingsproject.com": {
         "url": "https://www.listingsproject.com/",
@@ -359,13 +315,17 @@
         "url": "https://www.mtpelerin.com/",
         "sourcekeyword": "Mt Pelerin:  fintech expert in asset tokenization and digital compliance",
         "nature": "single project",
-        "domainRegDate": "2017-09-30T11:34:27Z"
+        "domainRegDate": "2017-09-30T11:34:27Z",
+        "priceAndPlansCrawled": "https://www.mtpelerin.com/pricing",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:WlfHikF7_dsJ:https://www.mtpelerin.com/pricing&hl=en&gl=us"
     },
     "mangopay.com": {
         "url": "https://mangopay.com/",
         "sourcekeyword": "MANGOPAY:  payment solutions",
         "nature": "single project",
-        "domainRegDate": "2013-03-20T18:15:18Z"
+        "domainRegDate": "2013-03-20T18:15:18Z",
+        "priceAndPlansCrawled": "https://mangopay.com/pricing",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:bqg_ZFvfWpIJ:https://mangopay.com/pricing&hl=en&gl=us"
     },
     "www.shocard.com": {
         "url": "https://www.shocard.com/",
@@ -377,12 +337,16 @@
     "uqudo.com": {
         "url": "https://uqudo.com/",
         "sourcekeyword": "Uqudo:  KYC Solution Providers",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://uqudo.com/faq/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:zfAA0OTc2y4J:https://uqudo.com/faq/&hl=en&gl=us"
     },
     "www.miteksystems.com": {
         "url": "https://www.miteksystems.com/",
         "sourcekeyword": "Mitek:  Digital access and identity verification technologies",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.miteksystems.com/blog/how-much-does-it-cost-to-know-your-customers",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:wRSocG0_CVYJ:https://www.miteksystems.com/blog/how-much-does-it-cost-to-know-your-customers&hl=en&gl=us"
     },
     "alt36.com": {
         "url": "https://alt36.com/",
@@ -393,19 +357,25 @@
         "url": "https://www.trmlabs.com/",
         "sourcekeyword": "TRM Labs:  blockchain intelligence solutions",
         "nature": "single project",
-        "domainRegDate": "2018-06-26T19:57:29Z"
+        "domainRegDate": "2018-06-26T19:57:29Z",
+        "priceAndPlansCrawled": "https://www.trmlabs.com/products/forensics",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:6bfc_-7ObSIJ:https://www.trmlabs.com/products/forensics&hl=en&gl=us"
     },
     "www.veriff.com": {
         "url": "https://www.veriff.com/",
         "sourcekeyword": "Veriff:  Global identity verification service",
         "nature": "single project",
-        "domainRegDate": "2006-04-12T17:11:04Z"
+        "domainRegDate": "2006-04-12T17:11:04Z",
+        "priceAndPlansCrawled": "https://www.veriff.com/plans/enterprise",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:dI0S4T7D5IIJ:https://www.veriff.com/plans/enterprise&hl=en&gl=us"
     },
     "www.acuitykp.com": {
         "url": "https://www.acuitykp.com/",
         "sourcekeyword": "Accuity:  Due diligence solutions including customer screening and risk portfolio management",
         "nature": "single project",
-        "domainRegDate": "2019-06-20T08:41:42Z"
+        "domainRegDate": "2019-06-20T08:41:42Z",
+        "priceAndPlansCrawled": "https://www.acuitykp.com/solutions/fund-accounting-services/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:aYsFcWdr0akJ:https://www.acuitykp.com/solutions/fund-accounting-services/&hl=en&gl=us"
     },
     "www.beamsolutions.com": {
         "url": "https://www.beamsolutions.com/",
@@ -415,52 +385,69 @@
     "diro.io": {
         "url": "https://diro.io/",
         "sourcekeyword": "SEND:  DIRO",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://diro.io/pricing/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:wtsy_D4SIAIJ:https://diro.io/pricing/&hl=en&gl=us"
     },
     "www.civic.com": {
         "url": "https://www.civic.com/",
         "sourcekeyword": "Civic:  blockchain-based identity verification ecosystem",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.civic.com/pricing/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:8i4IdjBRsB0J:https://www.civic.com/pricing/&hl=en&gl=us"
     },
     "www.smartsearch.com": {
         "url": "https://www.smartsearch.com/",
         "sourcekeyword": "SmartSearch:  KYC Solution Providers",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.smartsearch.com/us/product/pricing",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:tk_IO40VDpQJ:https://www.smartsearch.com/us/product/pricing&hl=en&gl=us"
     },
     "shuftipro.com": {
         "url": "https://shuftipro.com/",
         "sourcekeyword": "Shufti Pro:  KYC and AML screening solutions, ShuftiPro:  AI-powered SaaS product for identity theft protection, KYC and AML compliance, and business verification",
         "nature": "single project",
         "domainRegDate": "2016-06-28T19:20:19Z",
-        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:6CpWA7DUWLoJ:https://shuftipro.com/&hl=en&gl=us"
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:6CpWA7DUWLoJ:https://shuftipro.com/&hl=en&gl=us",
+        "priceAndPlansCrawled": "https://shuftipro.com/pricing/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:QKmBahMG7_MJ:https://shuftipro.com/pricing/&hl=en&gl=us"
     },
     "digishares.io": {
         "url": "https://digishares.io/",
         "sourcekeyword": "DigiShares:  white-label software for securities issuance and management",
         "nature": "single project",
-        "domainRegDate": "2018-11-22T10:01:04Z"
+        "domainRegDate": "2018-11-22T10:01:04Z",
+        "priceAndPlansCrawled": "https://digishares.io/products",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:r9Xo1K7TclUJ:https://digishares.io/products&hl=en&gl=us"
     },
     "fraud.net": {
         "url": "https://fraud.net/",
         "sourcekeyword": "Fraud.net:  Fraud.net",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://fraud.net/d/prices-and-plans/",
+        "priceAndPlansCached": "Not found"
     },
     "www.aegiscustody.com": {
         "url": "https://www.aegiscustody.com/",
         "sourcekeyword": "Aegis Custody:  regulated digital asset custodian prime service provider",
         "nature": "single project",
-        "domainRegDate": "2018-08-23T00:38:56Z"
+        "domainRegDate": "2018-08-23T00:38:56Z",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.niceactimize.com": {
         "url": "https://www.niceactimize.com/",
         "sourcekeyword": "NICE ACTIMIZE:  entity-centric AML solutions",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.niceactimize.com/engage/pricing.html",
+        "priceAndPlansCached": ""
     },
     "bitfury.com": {
         "url": "https://bitfury.com/",
         "sourcekeyword": "BitFury:  blockchain technology solutions",
         "nature": "single project",
-        "domainRegDate": "2004-09-21T15:27:38Z"
+        "domainRegDate": "2004-09-21T15:27:38Z",
+        "priceAndPlansCrawled": "https://bitfury.com/crypto-infrastructure/oldtardis",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:04OtxPsMKa8J:https://bitfury.com/crypto-infrastructure/oldtardis&hl=en&gl=us"
     },
     "www.complycube.com": {
         "url": "https://www.complycube.com/en/",
@@ -474,19 +461,24 @@
         "url": "https://www.vertalo.com/",
         "sourcekeyword": "Vertalo:  blockchain platform for digital assets and investor relations services",
         "nature": "single project",
-        "domainRegDate": "2012-03-20T18:37:58Z"
+        "domainRegDate": "2012-03-20T18:37:58Z",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.idenfy.com": {
         "url": "https://www.idenfy.com/",
         "sourcekeyword": "iDenfy:  Identity verification and fraud prevention platform, AI and selfie biometrics, customizable design and ID verification workflow, compatibility with over 2,000+ applications",
         "nature": "single project",
-        "domainRegDate": "2017-09-08T12:19:34Z"
+        "domainRegDate": "2017-09-08T12:19:34Z",
+        "priceAndPlansCrawled": "https://www.idenfy.com/identity-verification-price/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:3-fttrvGaBAJ:https://www.idenfy.com/identity-verification-price/&hl=en&gl=us"
     },
     "beosin.com": {
         "url": "https://beosin.com/",
         "sourcekeyword": "Beosin:  blockchain security company",
         "nature": "single project",
-        "domainRegDate": "2018-10-11T01:15:30Z"
+        "domainRegDate": "2018-10-11T01:15:30Z",
+        "priceAndPlansCrawled": "https://beosin.com/resources/?type=3",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:jUqaOGozOhUJ:https://beosin.com/resources/%3Ftype%3D3&hl=en&gl=us"
     },
     "www.vikartech.com": {
         "url": "https://www.vikartech.com/",
@@ -500,41 +492,54 @@
         "url": "https://icomplyis.com/",
         "sourcekeyword": "iComplyKYC:  iComplyKYC, IComply:  KYC Solution Providers, iComply:  regulatory technology for digital finance",
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:Ot6LZ89aEsUJ:https://icomplyis.com/&hl=en&gl=us",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://icomplyis.com/pricing/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:co1-QrKz_ukJ:https://icomplyis.com/pricing/&hl=en&gl=us"
     },
     "complyadvantage.com": {
         "url": "https://complyadvantage.com/",
         "sourcekeyword": "ComplyAdvantage:  KYB, KYC, and AML instruments for dealing with financial crime risks and technologies for their detection",
         "nature": "single project",
-        "domainRegDate": "2014-07-05T10:44:47Z"
+        "domainRegDate": "2014-07-05T10:44:47Z",
+        "priceAndPlansCrawled": "https://complyadvantage.com/aml-solutions/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:i2z2mNwoLWIJ:https://complyadvantage.com/aml-solutions/&hl=en&gl=us"
     },
     "creditro.com": {
         "url": "https://creditro.com/",
         "sourcekeyword": "Creditro:  KYC Solution Providers",
         "nature": "single project",
-        "domainRegDate": "2016-03-31T20:10:53Z"
+        "domainRegDate": "2016-03-31T20:10:53Z",
+        "priceAndPlansCrawled": "https://creditro.com/pricing",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:Jh7762XhW4UJ:https://creditro.com/pricing&hl=en&gl=us"
     },
     "www.identitymindglobal.com": {
         "url": "https://www.identitymindglobal.com/",
         "sourcekeyword": "IDENTITY MIND GLOBAL:  AML procedures and KYC measures",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "agreementexpress.com": {
         "url": "https://agreementexpress.com/",
         "sourcekeyword": "AGREEMENT EXPRESS:  unconventional KYC solutions",
         "nature": "single project",
-        "domainRegDate": "2008-05-23T01:28:01Z"
+        "domainRegDate": "2008-05-23T01:28:01Z",
+        "priceAndPlansCrawled": "https://agreementexpress.com/merchant-software/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:Zj4zObNW8tkJ:https://agreementexpress.com/merchant-software/&hl=en&gl=us"
     },
     "www.scorechain.com": {
         "url": "https://www.scorechain.com/",
         "sourcekeyword": "Scorechain:  risk-AML software for cryptocurrencies and digital assets",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.scorechain.com/resources/academy",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:_83p6ZR5G2wJ:https://www.scorechain.com/resources/academy&hl=en&gl=us"
     },
     "selfkey.org": {
         "url": "https://selfkey.org/",
         "sourcekeyword": "SelfKey:  self-sovereign identity provider using blockchain technology",
         "nature": "single project",
-        "domainRegDate": "2017-05-28T09:38:38Z"
+        "domainRegDate": "2017-05-28T09:38:38Z",
+        "priceAndPlansCrawled": "https://selfkey.org/the-selfkey-exchanges-marketplace/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:34x9_UIWL5wJ:https://selfkey.org/the-selfkey-exchanges-marketplace/&hl=en&gl=us"
     },
     "withpersona.com": {
         "url": "https://withpersona.com/",
@@ -544,56 +549,65 @@
     "pliance.io": {
         "url": "https://pliance.io/",
         "sourcekeyword": "Pliance:  API-first service for automating Anti-Money Laundering processes, seamless workflows, optimization of efficiency, proactive detection and prevention of financial crimes",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://pliance.io/pricing",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:fbZyJSphL4YJ:https://pliance.io/pricing&hl=en&gl=us"
     },
     "blockchain-helix.com": {
         "url": "https://blockchain-helix.com/",
         "sourcekeyword": "Blockchain Helix:  digital identity and home service",
         "nature": "single project",
-        "domainRegDate": "2016-03-20T00:55:20Z"
+        "domainRegDate": "2016-03-20T00:55:20Z",
+        "priceAndPlansCrawled": "Not found"
     },
     "fugu-it.com": {
         "url": "https://fugu-it.com/",
         "sourcekeyword": "FUGU:  Payment fraud solutions, post-checkout verification system, advanced technology and data-driven insights, protection against fraudulent transactions and false declines",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "pipl.com": {
         "url": "https://pipl.com/",
         "sourcekeyword": "Pipl:  People",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://pipl.com/product/search-api-pricing",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:Zt9XCSd2ZyUJ:https://pipl.com/product/search-api-pricing&hl=en&gl=us"
     },
     "www.socure.com": {
         "url": "https://www.socure.com/",
         "sourcekeyword": "SOCURE:  graph-defined identity verification platform",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.socure.com/products/identity-verification",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:aJjQme4nh-kJ:https://www.socure.com/products/identity-verification&hl=en&gl=us"
     },
     "www.quantifind.com": {
         "url": "https://www.quantifind.com/",
         "sourcekeyword": "Quantifind:  Data science technology company, AI platform, risk detection and fraud prevention, strategic partnerships with financial institutions, innovative solutions for identifying patterns and suspicious activities",
         "nature": "single project",
-        "domainRegDate": "2009-09-09T05:50:10Z"
+        "domainRegDate": "2009-09-09T05:50:10Z",
+        "priceAndPlansCrawled": "https://www.quantifind.com/wp-content/uploads/2023/02/DIU_Annual_Report_FY22_Final_0131.pdf",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:TOuHMomR9xYJ:https://www.quantifind.com/wp-content/uploads/2023/02/DIU_Annual_Report_FY22_Final_0131.pdf&hl=en&gl=us"
     },
     "www.1account.net": {
         "url": "https://www.1account.net/",
         "sourcekeyword": "1Account:  KYC Solution Providers",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.1account.net/redirect.html?url=https%3A%2F%2Fwww.vapourcore.com%2Fiqos.html&isRelatedApps=1",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:tqf1ZN0QtcIJ:https://www.1account.net/redirect.html%3Furl%3Dhttps%253A%252F%252Fwww.vapourcore.com%252Fiqos.html%26isRelatedApps%3D1&hl=en&gl=us"
     },
     "norbloc.com": {
         "url": "https://norbloc.com/",
         "sourcekeyword": "Norbloc:  KYC Solution Providers",
         "nature": "single project",
-        "domainRegDate": "2016-04-11T07:33:55Z"
-    },
-    "www.genpact.com": {
-        "url": "https://www.genpact.com/",
-        "sourcekeyword": "Genpact:  Genpact",
-        "nature": "single project",
-        "domainRegDate": "2005-03-03T20:15:32Z"
+        "domainRegDate": "2016-04-11T07:33:55Z",
+        "priceAndPlansCrawled": "https://norbloc.com/terms/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:i0Ox37T-oxcJ:https://norbloc.com/terms/&hl=en&gl=us"
     },
     "www.identitymind.com": {
         "url": "https://www.identitymind.com/",
         "sourcekeyword": "IdentityMind:  KYC and AML solutions",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "docs.mvs.org": {
         "url": "https://docs.mvs.org/",
@@ -612,62 +626,75 @@
     "www.elliptic.co": {
         "url": "https://www.elliptic.co/",
         "sourcekeyword": "Elliptic:  blockchain analytics for compliance",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.elliptic.co/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:dfT9hNEFM3kJ:https://www.elliptic.co/&hl=en&gl=us"
     },
     "www.solarisgroup.com": {
         "url": "https://www.solarisgroup.com/",
         "sourcekeyword": "Solaris Digital Assets:  digital asset product development",
         "nature": "single project",
-        "domainRegDate": "1998-12-11T05:00:00Z"
+        "domainRegDate": "1998-12-11T05:00:00Z",
+        "priceAndPlansCrawled": "https://www.solarisgroup.com/en/services/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:EgAKYixuoQUJ:https://www.solarisgroup.com/en/services/&hl=en&gl=us"
     },
     "vital4.net": {
         "url": "https://vital4.net/",
         "sourcekeyword": "Vital4:  KYC Solution Providers",
-        "nature": "single project"
-    },
-    "blockstation.com": {
-        "url": "https://blockstation.com/",
-        "sourcekeyword": "Blockstation:  trading and settlement solution for digital assets",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://vital4.net/solutions/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:09ljc1GQAG0J:https://vital4.net/solutions/&hl=en&gl=us"
     },
     "www.chainalysis.com": {
         "url": "https://www.chainalysis.com/",
         "sourcekeyword": "Chainalysis:  anti-money laundering software",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.chainalysis.com/pricing/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:bsaDrZbjS2sJ:https://www.chainalysis.com/pricing/&hl=en&gl=us"
     },
     "bakkt.com": {
         "url": "https://bakkt.com/",
         "sourcekeyword": "Bakkt:  digital asset trading platform",
         "nature": "single project",
-        "domainRegDate": "2018-07-06T17:44:32Z"
+        "domainRegDate": "2018-07-06T17:44:32Z",
+        "priceAndPlansCrawled": "https://bakkt.com/promotional-terms",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:rsloC6oL5TUJ:https://bakkt.com/promotional-terms&hl=en&gl=us"
     },
     "www.ugrconsulting.com": {
         "url": "https://www.ugrconsulting.com/",
         "sourcekeyword": "UGR:  KYC Solution Providers",
         "nature": "single project",
-        "domainRegDate": "2017-10-07T00:21:47Z"
+        "domainRegDate": "2017-10-07T00:21:47Z",
+        "priceAndPlansCrawled": "https://www.ugrconsulting.com/caas",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:5k-lOmQlxI4J:https://www.ugrconsulting.com/services&hl=en&gl=us"
     },
     "www.acuant.com": {
         "url": "https://www.acuant.com/",
         "sourcekeyword": "Acuant (Prev IdentityMind):  identity verification and compliance services",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "truststamp.ai": {
         "url": "https://truststamp.ai/",
         "sourcekeyword": "TRUST STAMP:  KYC and biometric identity",
         "nature": "single project",
-        "domainRegDate": "1995-02-16"
+        "domainRegDate": "1995-02-16",
+        "priceAndPlansCrawled": "Not found"
     },
     "web.fractal.id": {
         "url": "https://web.fractal.id/",
         "sourcekeyword": "Fractal ID:  KYC/AML service platform",
         "nature": "single project",
-        "domainRegDate": "2018-11-21 07:09:11"
+        "domainRegDate": "2018-11-21 07:09:11",
+        "priceAndPlansCrawled": "https://web.fractal.id/fractal-id-in-dialogue-with-crowdswap-securing-the-future-of-dexs-with-decentralized-identity/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:e0iKYmSY6ZEJ:https://web.fractal.id/fractal-id-in-dialogue-with-crowdswap-securing-the-future-of-dexs-with-decentralized-identity/&hl=en&gl=us"
     },
     "www.unit21.ai": {
         "url": "https://www.unit21.ai/",
         "sourcekeyword": "Unit21:  Risk detection and fraud prevention, proactive capabilities, AI-powered platform, advanced tools for risk management",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.unit21.ai/pricing-plans",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:6ZGxmp0jz7MJ:https://www.unit21.ai/pricing-plans&hl=en&gl=us"
     },
     "ciphertrace.com": {
         "url": "ciphertrace.com",
@@ -683,7 +710,9 @@
         "url": "https://www.waveapps.com/",
         "url_c": "https://www.waveapps.com/",
         "sourcekeyword": "Waved",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.waveapps.com/pricing",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:6tZ_LlCMPcsJ:https://www.waveapps.com/pricing&hl=en&gl=us"
     },
     "online.trusti.org": {
         "url": "https://online.trusti.org/",
@@ -695,7 +724,9 @@
         "url": "https://seon.io/",
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:bq2Hdo5HUpAJ:https://seon.io/&hl=en&gl=us",
         "sourcekeyword": "Seon:  KYC technology for preventing money laundering, SEON Fraud Fighters:  Fraud prevention SaaS, modular APIs, advanced device fingerprinting technology, machine-learning algorithm, digital footprint analysis",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://seon.io/pricing/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:IbBK7KEf3PcJ:https://seon.io/pricing/&hl=en&gl=us"
     },
     "www.theledger.com": {
         "nature": "invalid: no kyc keyword",
@@ -707,6 +738,8 @@
         "url": "https://www.clearviewsys.com/",
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:DO4xAEZ9cDwJ:https://www.clearviewsys.com/&hl=en&gl=us",
         "sourcekeyword": "CLEAR VIEW SYSTEMS:  solutions for small businesses to meet regulatory requirements",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.clearviewsys.com/brochures/CurrencyXchanger-Currency-Exchange-Brochure-1Page-CXR4.pdf",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:oyG1GtQPzK8J:https://www.clearviewsys.com/brochures/CurrencyXchanger-Currency-Exchange-Brochure-1Page-CXR4.pdf&hl=en&gl=us"
     }
 }

@@ -67,5 +67,5 @@
         "https://www.quantifind.com//resources/an-introduction-to-name-science/:Learn about Name Science",
         "https://www.quantifind.com/resources/adverse-media-screening-report/:"
     ],
-    "priceAndPlans": "Not found"
+    "priceAndPlans": "Error: net::ERR_ABORTED at https://www.quantifind.com/wp-\ncontent/uploads/2023/02/DIU_Annual_Report_FY22_Final_0131.pdf\n=========================== logs =========================== navigating to\n\"https://www.quantifind.com/wp-\ncontent/uploads/2023/02/DIU_Annual_Report_FY22_Final_0131.pdf\", waiting until\n\"load\" ============================================================\n\n"
 }

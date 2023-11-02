@@ -35,7 +35,7 @@ def finde_link_toplans(serp):
 
     chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
     messages = [
-        SystemMessage(content="Find the link to page with prices and plans. Return only one url starts with 'https://' or 'Not found'"),
+        SystemMessage(content="Find the link to page with prices and plans. Return JSON with link and cached_page_link. Or 'Not found' if not found"),
         HumanMessage(content=serp)
     ]
 
@@ -64,26 +64,34 @@ def main():
     for domain, domain_data in data.items():
          
         print("\n\n"+domain)
-
-        organic_results = search_companies_on_google("site:"+domain+' '+SERP_PRICES_EXT, 10)
+        q="site:"+domain+' '+SERP_PRICES_EXT
+        organic_results = search_companies_on_google(q, 10)
         
         serp_content = ""
         for result in organic_results:
             if "snippet" not in result:
                 result["snippet"] = ""
-            serp_content += (str(result["position"]) + ". link: " +  result["link"]+ " , text: " + result["title"] + " " + result["snippet"])
+            if "cached_page_link" not in result:
+                result["cached_page_link"] = ""    
+            serp_content += (str(result["position"]) + ". link: " +  result["link"]+ " , text: " + result["title"] + ", cached_page_link " +result['cached_page_link']+" , snipptet: "+ result["snippet"])
         
         if (len(organic_results) == 1):
             plans_url = organic_results[0]['link']
             plans_url_cached = organic_results[0]['cached_page_link']
         elif (len(organic_results) > 1):
-            plans_url = 'Many links'
+            #ask gpt
+            plans_url_json = finde_link_toplans(serp_content)
+            if plans_url_json != 'Not found':
+                plans_url = json.loads(plans_url_json)['link']
+                plans_url_cached = json.loads(plans_url_json)['cached_page_link']
+            else:
+                plans_url = 'Not found'
+                plans_url_cached = 'Not found'
         else:
             plans_url = 'Not found'
         
-        if "Not found" in plans_url:
-            data[domain]["priceAndPlansCrawled"] = 'Not found'
-        elif "https://" in plans_url:
+        
+        if plans_url != 'Not found':
             
             plans_url=correct_url(plans_url)
             data[domain]["priceAndPlansCrawled"] = plans_url
@@ -93,7 +101,8 @@ def main():
             details = load_from_json_file(domain+".json",data_folder)
             details["priceAndPlans"] = summary['text_content']
             save_to_json_file(details, domain+".json",data_folder)
-        
+        else:
+            data[domain]["priceAndPlansCrawled"] = plans_url
         save_to_json_file(data, "1companies.json",data_folder)
 
         
