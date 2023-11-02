@@ -11,6 +11,7 @@ from utils import *
 SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
+SERP_PRICES_EXT = os.environ.get('SERP_PRICES_EXT')
 data_folder = f"data/{INDUSTRY_KEYWORD}"
 
 if not SERPAPI_KEY:
@@ -19,10 +20,10 @@ if not SERPAPI_KEY:
 
 def findOfficialDomain(serp, project_name):
     
-    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-0613")
+    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
     messages = [
-        SystemMessage(content="Analyse SERP and find the official domain URL of the project named '"+project_name+"' and link to Plan & Pricing (if they have). Return only one URL if found starts with https://. Return only URL without quotes etc."),
-        HumanMessage(content=f" {serp} \n\n The official domain is: ")
+        SystemMessage(content="Analyse SERP and find the official domain URL (frontpoage only) of the project named '"+project_name+"'. Return only url starts with https://. If not found return 'Not found'"),
+        HumanMessage(content=f" {serp} \n\n The official url is: ")
     ]
 
     try:
@@ -80,22 +81,30 @@ def main():
     
     for name_project in product_names:
         print(name_project)
-
-        if any(company_data.get('sourcekeyword') == name_project for company_data in companies.values()):
+        
+        if any(company_data.get('sourcekeyword') and name_project in company_data.get('sourcekeyword') for company_data in companies.values()):
             print('exists. ')
             continue
+        
+        #split by : and take first
+        name_project1 = name_project.split(":")[0]
+        search_q=name_project
+        organic_results = search_google(search_q)
 
-        organic_results = search_google(name_project)
-        print(organic_results)
 
         serp = ""
-        for result in organic_results:
-            if "snippet" not in result:
-                result["snippet"] = ""
-            serp += (str(result["position"]) + ". " + result["link"] + "\n" + result["title"] + "\n" + result["snippet"] + "\n\n")
+        
+        if "snippet" not in organic_results[0]:
+            organic_results[0]["snippet"] = ""
+        cashed=organic_results[0].get('cached_page_link') 
+        if cashed is None:
+            cashed = "not found"
+            
+        serp = "link:" + organic_results[0]["link"] + "\n" + organic_results[0]["title"] + "\n" + organic_results[0]["snippet"] + "\n\n"
         
         url = findOfficialDomain(serp, name_project)
-
+        #url_position to int
+  
         if (is_valid_domain(url)):
             domain = url
         else:
@@ -103,13 +112,27 @@ def main():
 
         if domain != "not found" and is_valid_domain(domain):
             if domain not in companies:  # Check if domain is not already in data
-                companies[domain] = {'url': url,'sourcekeyword': name_project}
+                companies[domain] = {'url': url,'cached_url':cashed,'sourcekeyword': name_project}
             else:
                 companies[domain]['url'] = url
+                companies[domain]['cached_url'] = cashed
+                if (companies[domain]['sourcekeyword'] != name_project):
+                    companies[domain]['sourcekeyword'] = companies[domain]['sourcekeyword'] + ", " + name_project
+                    print("multiple sourcekeyword")
                 companies[domain]['sourcekeyword'] = name_project
-
+        else:
+            print("Not found")
+            # remove from products
+            product_names.remove(name_project)
+            # save to products.json
+            save_to_json_file(product_names,"2products.json",data_folder)
+            # append to notfound2products.txt
+            with open(data_folder+"/notfound2products.txt", "a") as myfile:
+                myfile.write(name_project+" -> "+search_q+"\n")
+        
         # Save the data to data.json
         save_to_json_file(companies,"1companies.json",data_folder)
+        #save to notfound
         print("Data saved to companies.json. Run 2..py")
 
 if __name__ == '__main__':

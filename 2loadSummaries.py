@@ -93,6 +93,11 @@ def main():
         print ("\n\nHarvest "+domain)
         summary = extract_content(url)
         print ("Analyse "+domain)
+
+        # save to tmp.html
+        with open("tmp.html", "w") as f:
+           f.write(summary['text_content'])
+            
         nature, extracted_links = is_product_or_list(summary['text_content'], list(company_products))
         data[domain]["nature"] = nature
 

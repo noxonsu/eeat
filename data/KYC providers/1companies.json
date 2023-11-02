@@ -4,9 +4,8 @@
         "nature": "list of projects",
         "domainRegDate": "2011-04-07T14:31:01Z"
     },
-    "seon.io": {
+    "seon1.io": {
         "url": "https://seon.io/",
-        "nature": "invalid",
         "sourcekeyword": "SEON:  Fraud detection software",
         "domainRegDate": "2015-03-20T12:42:37Z"
     },
@@ -20,8 +19,8 @@
     },
     "www.togggle.io": {
         "url": "https://www.togggle.io/blog/which-is-the-best-kyc-solution-in-2023",
-        "nature": "invalid",
-        "domainRegDate": "2021-02-10T13:26:38Z"
+        "domainRegDate": "2021-02-10T13:26:38Z",
+        "nature": "invalid no sourcekeyword"
     },
     "liquidity-provider.com": {
         "url": "https://liquidity-provider.com/articles/top-5-most-reliable-kyc-technology-providers/",
@@ -38,23 +37,23 @@
     },
     "sdk.finance": {
         "url": "https://sdk.finance/how-to-choose-a-kyc-provider-part-2/",
-        "nature": "Invalid: DDOS protection screen",
-        "domainRegDate": "2014-11-29T20:04:47Z"
+        "domainRegDate": "2014-11-29T20:04:47Z",
+        "nature": "invalid no sourcekeyword"
     },
     "sourceforge.net": {
         "url": "https://sourceforge.net/software/kyc/",
-        "nature": "Invalid: This is not a valid text input.",
-        "domainRegDate": "1999-08-08T04:48:02Z"
+        "domainRegDate": "1999-08-08T04:48:02Z",
+        "nature": "invalid no sourcekeyword"
     },
     "fully-verified.com": {
         "url": "https://fully-verified.com/kyc-service-provider-company/",
-        "nature": "Invalid: DDOS protection screen",
-        "domainRegDate": "2017-04-08T15:15:41Z"
+        "domainRegDate": "2017-04-08T15:15:41Z",
+        "nature": "invalid no sourcekeyword"
     },
     "www.capterra.com": {
         "url": "https://www.capterra.com/kyc-software/",
-        "nature": "Invalid: DDOS protection screen",
-        "domainRegDate": "1999-10-15T21:16:13Z"
+        "domainRegDate": "1999-10-15T21:16:13Z",
+        "nature": "invalid no sourcekeyword"
     },
     "salv.com": {
         "url": "https://salv.com/blog/best-kyc-software-and-tools/",
@@ -65,7 +64,6 @@
     },
     "microblink.com": {
         "url": "microblink.com",
-        "nature": "Invalid: Timeout error occurred while trying to access the webpage.",
         "sourcekeyword": "IC Insights:  KYC Solution Providers",
         "domainRegDate": "2014-07-22T18:19:52Z"
     },
@@ -84,13 +82,13 @@
     },
     "www.linkedin.com": {
         "url": "https://www.linkedin.com/pulse/kyc-compliance-software-how-choose-top-providers-techmagic?trk=public_post_main-feed-card_feed-article-content",
-        "nature": "Invalid: Timeout error occurred while trying to access the provided URL.",
-        "domainRegDate": "2002-11-02T15:38:11Z"
+        "domainRegDate": "2002-11-02T15:38:11Z",
+        "nature": "invalid no sourcekeyword"
     },
     "www.idmerit.com": {
         "url": "https://www.idmerit.com/idmkyc/",
-        "nature": "Invalid: DDOS protection screen",
-        "domainRegDate": "2015-09-14T10:12:50Z"
+        "domainRegDate": "2015-09-14T10:12:50Z",
+        "nature": "invalid no sourcekeyword"
     },
     "codeandpepper.com": {
         "url": "https://codeandpepper.com/what-are-top-kyc-solutions-and-who-does-it-best-in-2022/",
@@ -100,7 +98,7 @@
     },
     "candices.medium.com": {
         "url": "https://candices.medium.com/top-10-kyc-aml-service-providers-d8bee5744904",
-        "nature": "Invalid: Timeout error occurred while trying to access the webpage."
+        "nature": "invalid no sourcekeyword"
     },
     "grcoutlook.com": {
         "url": "https://grcoutlook.com/top-10-kyc-solution-providers-2022/",
@@ -110,7 +108,7 @@
     },
     "justcoded.com": {
         "url": "https://justcoded.com/blog/leveraging-technology-for-customer-onboarding-overview-of-online-kyc-providers/",
-        "nature": "Invalid: This input is a timeout error message and not a valid text input."
+        "nature": "invalid no sourcekeyword"
     },
     "datarade.ai": {
         "url": "https://datarade.ai/top-lists/best-data-providers-for-kyc",
@@ -126,20 +124,19 @@
     },
     "www.refinitiv.com": {
         "url": "https://www.refinitiv.com/",
-        "nature": "Invalid: DDOS protection screen",
         "sourcekeyword": "Refinitiv:  global financial market data and infrastructure provider offering KYC solutions"
     },
     "www.quora.com": {
         "url": "https://www.quora.com/Who-are-the-KYC-software-service-providers",
-        "nature": "Invalid: The input is a timeout error message from a web page and does not contain any relevant text to identify products, services, or companies."
+        "nature": "invalid no sourcekeyword"
     },
     "www.transunion.com": {
         "url": "https://www.transunion.com/blog/know-your-KYC-provider-what-to-look-for-in-a-partner",
-        "nature": "Invalid: DDOS protection screen"
+        "nature": "invalid no sourcekeyword"
     },
     "www.pwc.com": {
         "url": "https://www.pwc.com/gx/en/news-room/assets/analyst-citations/chartis-kyc-2022.pdf",
-        "nature": "Invalid: The input appears to be an error message from a web browser."
+        "nature": "invalid no sourcekeyword"
     },
     "tracxn.com": {
         "url": "https://tracxn.com/d/trending-themes/startups-in-kyc-solutions/__HqBj3doxC53wJi4bBJjKyMsOMNzd1-naYLbrz6dKYcA",
@@ -156,9 +153,9 @@
         "nature": "list of projects"
     },
     "grcviewpoint.com": {
-        "url": "https://grcviewpoint.com/clear-view-systems/",
+        "url": "https://grcviewpoint.com/securitytalk/",
         "nature": "list of projects",
-        "sourcekeyword": "CLEAR VIEW SYSTEMS:  solutions for small businesses to meet regulatory requirements"
+        "sourcekeyword": "GRC Viewpoint:  SecurityTalk"
     },
     "lenderkit.com": {
         "url": "https://lenderkit.com/integrations/kyc-aml-providers/",
@@ -197,7 +194,6 @@
     },
     "www.idnow.io": {
         "url": "https://www.idnow.io/",
-        "nature": "Invalid: This text is about cookies and does not mention any specific products, services, or solutions of companies.",
         "sourcekeyword": "IDNOW:  flexible platform for identity verification"
     },
     "www.signicat.com": {
@@ -209,7 +205,7 @@
     },
     "cryptoadventure.com": {
         "url": "https://cryptoadventure.com/top-5-kyc-solutions-for-crypto-or-nft-projects/",
-        "nature": "Invalid: This is a DDOS protection screen."
+        "nature": "invalid no sourcekeyword"
     },
     "internationalsales.lexisnexis.com": {
         "url": "https://internationalsales.lexisnexis.com/glossary/compliance/kyc-know-your-customer",
@@ -242,7 +238,7 @@
     },
     "www.marqeta.com": {
         "url": "https://www.marqeta.com/docs/core-api/kyc-verification",
-        "nature": "Invalid: Explanation article/blog"
+        "nature": "invalid no sourcekeyword"
     },
     "www.encompasscorporation.com": {
         "url": "https://www.encompasscorporation.com/encompass-customers/kyc-data-providers/",
@@ -291,7 +287,7 @@
     },
     "www.spglobal.com": {
         "url": "https://www.spglobal.com/marketintelligence/en/mi/products/kyc-services.html",
-        "nature": "Invalid: DDOS protection screen"
+        "nature": "invalid no sourcekeyword"
     },
     "www.trulioo.com": {
         "url": "https://www.trulioo.com/",
@@ -309,13 +305,11 @@
     },
     "www.soliduslabs.com": {
         "url": "https://www.soliduslabs.com/",
-        "sourcekeyword": "Solidus Labs:  market integrity solutions for crypto trading",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "Solidus Labs:  market integrity solutions for crypto trading"
     },
     "www.vialink.fr": {
         "url": "https://www.vialink.fr/",
-        "sourcekeyword": "VIALINK KYC:  Customer digital and automated KYC solutions",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "VIALINK KYC:  Customer digital and automated KYC solutions"
     },
     "www.coincover.com": {
         "url": "https://www.coincover.com/",
@@ -331,13 +325,11 @@
     },
     "www.jumio.com": {
         "url": "https://www.jumio.com/",
-        "sourcekeyword": "Jumio:  AI-powered identity verification services for online businesses",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "Jumio:  AI-powered identity verification services for online businesses"
     },
     "www.telesign.com": {
         "url": "https://www.telesign.com/",
-        "sourcekeyword": "TELESIGN:  programmable communications APIs and digital identification",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "TELESIGN:  programmable communications APIs and digital identification"
     },
     "www.synaps.io": {
         "url": "https://www.synaps.io/",
@@ -373,18 +365,15 @@
     },
     "uqudo.com": {
         "url": "https://uqudo.com/",
-        "sourcekeyword": "Uqudo:  KYC Solution Providers",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "Uqudo:  KYC Solution Providers"
     },
     "www.miteksystems.com": {
         "url": "https://www.miteksystems.com/",
-        "sourcekeyword": "Mitek:  Digital access and identity verification technologies",
-        "nature": "Invalid: This error message indicates a programming error and is not related to the task of identifying products, services, or solutions of companies mentioned in a text."
+        "sourcekeyword": "Mitek:  Digital access and identity verification technologies"
     },
     "alt36.com": {
         "url": "https://alt36.com/",
-        "sourcekeyword": "Alt Thirty Six:  digital payments and compliance platform for cannabis industry",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "Alt Thirty Six:  digital payments and compliance platform for cannabis industry"
     },
     "www.trmlabs.com": {
         "url": "https://www.trmlabs.com/",
@@ -406,23 +395,19 @@
     },
     "www.beamsolutions.com": {
         "url": "https://www.beamsolutions.com/",
-        "sourcekeyword": "Beam Solutions:  AML and KYC compliance solutions",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "Beam Solutions:  AML and KYC compliance solutions"
     },
     "diro.io": {
         "url": "https://diro.io/",
-        "sourcekeyword": "SEND:  DIRO",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "SEND:  DIRO"
     },
     "www.civic.com": {
         "url": "https://www.civic.com/",
-        "sourcekeyword": "Civic:  blockchain-based identity verification ecosystem",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "Civic:  blockchain-based identity verification ecosystem"
     },
     "www.smartsearch.com": {
         "url": "https://www.smartsearch.com/",
-        "sourcekeyword": "SmartSearch:  KYC Solution Providers",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "SmartSearch:  KYC Solution Providers"
     },
     "shuftipro.com": {
         "url": "https://shuftipro.com/",
@@ -438,8 +423,7 @@
     },
     "fraud.net": {
         "url": "https://fraud.net/",
-        "sourcekeyword": "Fraud.net:  Fraud.net",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "Fraud.net:  Fraud.net"
     },
     "www.aegiscustody.com": {
         "url": "https://www.aegiscustody.com/",
@@ -449,8 +433,7 @@
     },
     "www.niceactimize.com": {
         "url": "https://www.niceactimize.com/",
-        "sourcekeyword": "NICE ACTIMIZE:  entity-centric AML solutions",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "NICE ACTIMIZE:  entity-centric AML solutions"
     },
     "bitfury.com": {
         "url": "https://bitfury.com/",
@@ -494,8 +477,8 @@
     },
     "icomplyis.com": {
         "url": "https://icomplyis.com/",
-        "sourcekeyword": "iComply:  regulatory technology for digital finance",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "IComply:  KYC Solution Providers",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:Ot6LZ89aEsUJ:https://icomplyis.com/&hl=en&gl=us"
     },
     "complyadvantage.com": {
         "url": "https://complyadvantage.com/",
@@ -511,8 +494,7 @@
     },
     "www.identitymindglobal.com": {
         "url": "https://www.identitymindglobal.com/",
-        "sourcekeyword": "IDENTITY MIND GLOBAL:  AML procedures and KYC measures",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "IDENTITY MIND GLOBAL:  AML procedures and KYC measures"
     },
     "agreementexpress.com": {
         "url": "https://agreementexpress.com/",
@@ -522,8 +504,7 @@
     },
     "www.scorechain.com": {
         "url": "https://www.scorechain.com/",
-        "sourcekeyword": "Scorechain:  risk-AML software for cryptocurrencies and digital assets",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "Scorechain:  risk-AML software for cryptocurrencies and digital assets"
     },
     "selfkey.org": {
         "url": "https://selfkey.org/",
@@ -533,13 +514,11 @@
     },
     "withpersona.com": {
         "url": "https://withpersona.com/",
-        "sourcekeyword": "Persona:  identity management solution with data protection",
-        "nature": "Invalid: This is a DDOS protection screen."
+        "sourcekeyword": "Persona:  identity management solution with data protection"
     },
     "pliance.io": {
         "url": "https://pliance.io/",
-        "sourcekeyword": "Pliance:  API-first service for automating Anti-Money Laundering processes, seamless workflows, optimization of efficiency, proactive detection and prevention of financial crimes",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "Pliance:  API-first service for automating Anti-Money Laundering processes, seamless workflows, optimization of efficiency, proactive detection and prevention of financial crimes"
     },
     "blockchain-helix.com": {
         "url": "https://blockchain-helix.com/",
@@ -549,18 +528,15 @@
     },
     "fugu-it.com": {
         "url": "https://fugu-it.com/",
-        "sourcekeyword": "FUGU:  Payment fraud solutions, post-checkout verification system, advanced technology and data-driven insights, protection against fraudulent transactions and false declines",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "FUGU:  Payment fraud solutions, post-checkout verification system, advanced technology and data-driven insights, protection against fraudulent transactions and false declines"
     },
     "pipl.com": {
         "url": "https://pipl.com/",
-        "sourcekeyword": "Pipl:  People",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "Pipl:  People"
     },
     "www.socure.com": {
         "url": "https://www.socure.com/",
-        "sourcekeyword": "SOCURE:  graph-defined identity verification platform",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "SOCURE:  graph-defined identity verification platform"
     },
     "www.quantifind.com": {
         "url": "https://www.quantifind.com/",
@@ -570,8 +546,7 @@
     },
     "www.1account.net": {
         "url": "https://www.1account.net/",
-        "sourcekeyword": "1Account:  KYC Solution Providers",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "1Account:  KYC Solution Providers"
     },
     "norbloc.com": {
         "url": "https://norbloc.com/",
@@ -587,8 +562,7 @@
     },
     "www.identitymind.com": {
         "url": "https://www.identitymind.com/",
-        "sourcekeyword": "IdentityMind:  KYC and AML solutions",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "IdentityMind:  KYC and AML solutions"
     },
     "docs.mvs.org": {
         "url": "https://docs.mvs.org/",
@@ -606,8 +580,7 @@
     },
     "www.elliptic.co": {
         "url": "https://www.elliptic.co/",
-        "sourcekeyword": "Elliptic:  blockchain analytics for compliance",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "Elliptic:  blockchain analytics for compliance"
     },
     "www.solarisgroup.com": {
         "url": "https://www.solarisgroup.com/",
@@ -617,18 +590,15 @@
     },
     "vital4.net": {
         "url": "https://vital4.net/",
-        "sourcekeyword": "Vital4:  KYC Solution Providers",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "Vital4:  KYC Solution Providers"
     },
     "blockstation.com": {
         "url": "https://blockstation.com/",
-        "sourcekeyword": "Blockstation:  trading and settlement solution for digital assets",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "Blockstation:  trading and settlement solution for digital assets"
     },
     "www.chainalysis.com": {
         "url": "https://www.chainalysis.com/",
-        "sourcekeyword": "Chainalysis:  anti-money laundering software",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "Chainalysis:  anti-money laundering software"
     },
     "bakkt.com": {
         "url": "https://bakkt.com/",
@@ -644,8 +614,7 @@
     },
     "www.acuant.com": {
         "url": "https://www.acuant.com/",
-        "sourcekeyword": "Acuant (Prev IdentityMind):  identity verification and compliance services",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "Acuant (Prev IdentityMind):  identity verification and compliance services"
     },
     "truststamp.ai": {
         "url": "https://truststamp.ai/",
@@ -661,17 +630,19 @@
     },
     "www.unit21.ai": {
         "url": "https://www.unit21.ai/",
-        "sourcekeyword": "Unit21:  Risk detection and fraud prevention, proactive capabilities, AI-powered platform, advanced tools for risk management",
-        "nature": "Invalid: DDOS protection screen"
+        "sourcekeyword": "Unit21:  Risk detection and fraud prevention, proactive capabilities, AI-powered platform, advanced tools for risk management"
     },
     "ciphertrace.com": {
         "url": "ciphertrace.com",
-        "sourcekeyword": "CipherTrace:  fraud protection and financial crime prevention",
-        "nature": "Invalid: Protocol error (Page.navigate): Cannot navigate to invalid URL"
+        "sourcekeyword": "CipherTrace:  fraud protection and financial crime prevention"
     },
     "mysinglesource.io": {
         "url": "mysinglesource.io",
-        "sourcekeyword": "SingleSource:  decentralized risk scoring platform",
-        "nature": "Invalid: Protocol error (Page.navigate): Cannot navigate to invalid URL"
+        "sourcekeyword": "SingleSource:  decentralized risk scoring platform"
+    },
+    "www.waveapps.com": {
+        "url": "https://www.waveapps.com/",
+        "url_c": "https://www.waveapps.com/",
+        "sourcekeyword": "Waved"
     }
 }
