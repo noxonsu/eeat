@@ -64,11 +64,10 @@ For each service, list down how they fare in each of the criteria.
 
 In additional detrmine such information
 1. Call to action - 'talk to a manager', 'book a demo', 'talk to team', sign up etc.
-2. Determine their business model (how they earn)
-3. Their usecases  
-4. Their solutions
-5. """+clusterized_features_list_f+""""
-7. Is this project realy related to """+INDUSTRY_KEYWORD+"""?
+2. Their usecases  
+3. Their solutions
+4. """+clusterized_features_list_f+""""
+5. Is this project realy related to """+INDUSTRY_KEYWORD+"""?
                                                                 
 The goal is to provide an objective view of each product offerings, highlighting both strengths and potential areas for improvement. Provide the results in JSON format."""
 
@@ -95,32 +94,49 @@ def get_company_details(company):
         HumanMessage(content=question_content)
     ]
     start = time.time()
-    response = chat(messages)
-    gpt_response = response.content
+    try:
+        chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
+        response = chat(messages)
+        json1 = json.loads(response.content)
+        print("3.5 4k")
+    except:
+        chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
+        response = chat(messages)
+        json1 = json.loads(response.content)
+        print(".16k")
+    
     end = time.time()
     print("Time to get response1: "+str(end - start))
 
     gpt_response2 = "{}"
     # comeercial preparation
     messages = [
-        SystemMessage(content="Find plans and prices and determin business model. Return JSON"),
+        SystemMessage(content="Find plans and prices and determin business model. status 'Not found' if not found or error. Return JSON with status and priceAndPlans."),
         HumanMessage(content=json.dumps(summary['priceAndPlans']))
     ]
     start = time.time()
-    response = chat(messages)
-    gpt_response2 = response.content
+    try:
+        chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
+        response = chat(messages)
+        json2 = json.loads(response.content)
+        print("3.5 4k")
+    except:
+        chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
+        response = chat(messages)
+        json2 = json.loads(response.content)
+        print(".16k")
+
     end = time.time()
     print("Time to get response2: "+str(end - start))
 
 
     try:
-        json1 = json.loads(gpt_response)
+        
         #add prices and plans
-        json2 = json.loads(gpt_response2)
-        json1['priceAndPlans'] = json2
+        json1['pricesAndPlans'] = json2
         return json1
-    except json.JSONDecodeError:
-        print(f"Failed to decode JSON for response: {gpt_response}")
+    except Exception as e:
+        print(f"Failed to decode JSON for response: {e}")
         return None
     
 
@@ -129,7 +145,7 @@ def main():
     summaries = load_from_json_file("1companies.json", "data/" + INDUSTRY_KEYWORD)
     
     # Filter the summaries to get only those with nature "single project"
-    filtered_summaries = {k: v for k, v in summaries.items() if v.get('nature') == "single project" and v.get('5prompt_Hash') != prompt_hash and v.get('priceAndPlansCrawled') == 'https://seon.io/pricing/'}
+    filtered_summaries = {k: v for k, v in summaries.items() if v.get('nature') == "single project" and v.get('5prompt_Hash') != prompt_hash and v.get('priceAndPlansCrawled') != 'Not found'}
     total=len(filtered_summaries)
     print (total)
     # Load existing company details
