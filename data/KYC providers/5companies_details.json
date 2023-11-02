@@ -6135,5 +6135,493 @@
             "status": "Not found",
             "priceAndPlans": null
         }
+    },
+    "www.waveapps.com": {
+        "KYC Provider 1": {
+            "Call to action": "Talk to a manager",
+            "Usecases": [
+                "Identity verification",
+                "Compliance and risk management",
+                "Data management and security",
+                "Integration and automation",
+                "Global coverage and support"
+            ],
+            "Solutions": [
+                "Identity proofing",
+                "AML screening",
+                "Data enrichment",
+                "Powerful APIs and applications",
+                "Support for 13,000+ document types"
+            ],
+            "Key features": {
+                "Identity Verification": [
+                    "Identity proofing",
+                    "Flexible user verification",
+                    "AI-powered identity verification",
+                    "Phone number-based identity verification",
+                    "ID document verification",
+                    "Biometrics and data protection",
+                    "OCR technology for document reading and comparison",
+                    "Liveness and Face Match verification",
+                    "Manual identity verification",
+                    "Secure identity verification through bank transfer",
+                    "Video KYC",
+                    "Digital identity creation and verification",
+                    "Assisted identity verification",
+                    "Instant KYC for individual and corporate accounts",
+                    "Electronic KYC",
+                    "E-signature authentication",
+                    "Face verification",
+                    "Document authorization",
+                    "Verification of travel documents",
+                    "Secure verification of identity",
+                    "3D liveness detection"
+                ],
+                "Compliance and Risk Management": [
+                    "Boosting sanctions compliance",
+                    "Compliance management",
+                    "Compliance with regulatory requirements",
+                    "AML screening",
+                    "RegTech solutions for AML programs and compliance",
+                    "AML and transaction monitoring",
+                    "Fraud detection with AI",
+                    "Fraud prevention",
+                    "Risk transactions identification",
+                    "Risk and compliance services",
+                    "Enhanced due diligence",
+                    "Customizable compliance solutions",
+                    "Continuous compliance",
+                    "Risk assessments based on intelligent data",
+                    "Geo-location and IP assessment",
+                    "Enhanced risk management",
+                    "Sanctions screening and monitoring",
+                    "PEP, sanctions, and adverse media screening",
+                    "Always-on risk monitoring",
+                    "Risk assessment",
+                    "Targeting risk typologies",
+                    "Configurable rules for screening and monitoring",
+                    "Risk-based approach",
+                    "Fraud management with proprietary machine learning and human oversight",
+                    "Automated identity verification and compliance",
+                    "24/7 human supervision",
+                    "KYC / AML / Accreditation Check",
+                    "Non-documentary checks via government databases",
+                    "Compliance with regulations",
+                    "Automatic credit assessment and bankruptcy notification",
+                    "Reduced dependencies on platform operators",
+                    "Anti-money laundering (AML) measures",
+                    "Cloud migration and modernization",
+                    "Security sentiment analysis"
+                ],
+                "Data Management and Security": [
+                    "Customers retain full control of their private data",
+                    "Maintain a secure paper trail of all documents",
+                    "Data enrichment",
+                    "Secure data management",
+                    "Secure and private identity",
+                    "Secure storage and management of digital identity",
+                    "Data security",
+                    "Patented data management",
+                    "Centralized investment management",
+                    "Secure remote meetings",
+                    "Protection against hackers, fraud, and human error",
+                    "Rigorous security policies and procedures",
+                    "Blockchain security audit",
+                    "DSGVO compliant",
+                    "Efficiency, speed, and privacy",
+                    "24/7 human supervision"
+                ],
+                "Integration and Automation": [
+                    "Powerful APIs and applications",
+                    "Flexible workflow builder",
+                    "Cloud and AI-based KYC and AML compliance solutions",
+                    "Integration with existing infrastructure",
+                    "Integration via Web SDK, Mobile SDK, or RESTful API",
+                    "Integration with other systems",
+                    "Modular design",
+                    "Easy integration",
+                    "Interfaces and integration",
+                    "Customizable workflows",
+                    "Access to top compliance experts",
+                    "Automation and machine process automation",
+                    "Automation",
+                    "Efficiency and performance improvements",
+                    "Time-saving automation",
+                    "Cloud migration and modernization",
+                    "Integrations with existing systems"
+                ],
+                "Global Coverage and Support": [
+                    "Support for 13,000+ document types",
+                    "Strong presence in Europe",
+                    "Trusted by 300+ partners worldwide",
+                    "Access to over 300+ corporate registries across 100 countries",
+                    "Extensive global coverage with billions of data records",
+                    "Coverage of 195 countries",
+                    "Trusted by top banks, payment providers, legal firms, and consultancies",
+                    "Engaged community in multiple countries"
+                ]
+            },
+            "Is this project related to KYC providers?": true
+        },
+        "KYC Provider 2": {
+            "Call to action": "Book a demo",
+            "Usecases": [
+                "Identity verification",
+                "Compliance and risk management",
+                "Data management and security",
+                "Integration and automation",
+                "Global coverage and support"
+            ],
+            "Solutions": [
+                "Flexible user verification",
+                "AML and transaction monitoring",
+                "Secure storage and management of digital identity",
+                "Integration with existing infrastructure",
+                "Access to over 300+ corporate registries across 100 countries"
+            ],
+            "Key features": {
+                "Identity Verification": [
+                    "Flexible user verification",
+                    "AI-powered identity verification",
+                    "Phone number-based identity verification",
+                    "ID document verification",
+                    "Biometrics and data protection",
+                    "OCR technology for document reading and comparison",
+                    "Liveness and Face Match verification",
+                    "Manual identity verification",
+                    "Secure identity verification through bank transfer",
+                    "Video KYC",
+                    "Digital identity creation and verification",
+                    "Assisted identity verification",
+                    "Instant KYC for individual and corporate accounts",
+                    "Electronic KYC",
+                    "E-signature authentication",
+                    "Face verification",
+                    "Document authorization",
+                    "Verification of travel documents",
+                    "Secure verification of identity",
+                    "3D liveness detection"
+                ],
+                "Compliance and Risk Management": [
+                    "AML screening",
+                    "RegTech solutions for AML programs and compliance",
+                    "AML and transaction monitoring",
+                    "Fraud detection with AI",
+                    "Fraud prevention",
+                    "Risk transactions identification",
+                    "Risk and compliance services",
+                    "Enhanced due diligence",
+                    "Customizable compliance solutions",
+                    "Continuous compliance",
+                    "Risk assessments based on intelligent data",
+                    "Geo-location and IP assessment",
+                    "Enhanced risk management",
+                    "Sanctions screening and monitoring",
+                    "PEP, sanctions, and adverse media screening",
+                    "Always-on risk monitoring",
+                    "Risk assessment",
+                    "Targeting risk typologies",
+                    "Configurable rules for screening and monitoring",
+                    "Risk-based approach",
+                    "Fraud management with proprietary machine learning and human oversight",
+                    "Automated identity verification and compliance",
+                    "24/7 human supervision",
+                    "KYC / AML / Accreditation Check",
+                    "Non-documentary checks via government databases",
+                    "Compliance with regulations",
+                    "Automatic credit assessment and bankruptcy notification",
+                    "Reduced dependencies on platform operators",
+                    "Anti-money laundering (AML) measures",
+                    "Cloud migration and modernization",
+                    "Security sentiment analysis"
+                ],
+                "Data Management and Security": [
+                    "Secure storage and management of digital identity",
+                    "Data security",
+                    "Centralized investment management",
+                    "Secure remote meetings",
+                    "Protection against hackers, fraud, and human error",
+                    "Rigorous security policies and procedures",
+                    "Blockchain security audit",
+                    "DSGVO compliant",
+                    "Efficiency, speed, and privacy",
+                    "24/7 human supervision"
+                ],
+                "Integration and Automation": [
+                    "Integration with existing infrastructure",
+                    "Integration via Web SDK, Mobile SDK, or RESTful API",
+                    "Integration with other systems",
+                    "Modular design",
+                    "Easy integration",
+                    "Interfaces and integration",
+                    "Customizable workflows",
+                    "Access to top compliance experts",
+                    "Automation and machine process automation",
+                    "Automation",
+                    "Efficiency and performance improvements",
+                    "Time-saving automation",
+                    "Cloud migration and modernization",
+                    "Integrations with existing systems"
+                ],
+                "Global Coverage and Support": [
+                    "Access to over 300+ corporate registries across 100 countries"
+                ]
+            },
+            "Is this project related to KYC providers?": true
+        },
+        "KYC Provider 3": {
+            "Call to action": "Talk to team",
+            "Usecases": [
+                "Identity verification",
+                "Compliance and risk management",
+                "Data management and security",
+                "Integration and automation",
+                "Global coverage and support"
+            ],
+            "Solutions": [
+                "AI-powered identity verification",
+                "AML screening",
+                "Secure data management",
+                "Cloud and AI-based KYC and AML compliance solutions",
+                "Trusted by top banks, payment providers, legal firms, and consultancies"
+            ],
+            "Key features": {
+                "Identity Verification": [
+                    "AI-powered identity verification",
+                    "Phone number-based identity verification",
+                    "ID document verification",
+                    "Biometrics and data protection",
+                    "OCR technology for document reading and comparison",
+                    "Liveness and Face Match verification",
+                    "Manual identity verification",
+                    "Secure identity verification through bank transfer",
+                    "Video KYC",
+                    "Digital identity creation and verification",
+                    "Assisted identity verification",
+                    "Instant KYC for individual and corporate accounts",
+                    "Electronic KYC",
+                    "E-signature authentication",
+                    "Face verification",
+                    "Document authorization",
+                    "Verification of travel documents",
+                    "Secure verification of identity",
+                    "3D liveness detection"
+                ],
+                "Compliance and Risk Management": [
+                    "AML screening",
+                    "RegTech solutions for AML programs and compliance",
+                    "AML and transaction monitoring",
+                    "Fraud detection with AI",
+                    "Fraud prevention",
+                    "Risk transactions identification",
+                    "Risk and compliance services",
+                    "Enhanced due diligence",
+                    "Customizable compliance solutions",
+                    "Continuous compliance",
+                    "Risk assessments based on intelligent data",
+                    "Geo-location and IP assessment",
+                    "Enhanced risk management",
+                    "Sanctions screening and monitoring",
+                    "PEP, sanctions, and adverse media screening",
+                    "Always-on risk monitoring",
+                    "Risk assessment",
+                    "Targeting risk typologies",
+                    "Configurable rules for screening and monitoring",
+                    "Risk-based approach",
+                    "Fraud management with proprietary machine learning and human oversight",
+                    "Automated identity verification and compliance",
+                    "24/7 human supervision",
+                    "KYC / AML / Accreditation Check",
+                    "Non-documentary checks via government databases",
+                    "Compliance with regulations",
+                    "Automatic credit assessment and bankruptcy notification",
+                    "Reduced dependencies on platform operators",
+                    "Anti-money laundering (AML) measures",
+                    "Cloud migration and modernization",
+                    "Security sentiment analysis"
+                ],
+                "Data Management and Security": [
+                    "Secure data management",
+                    "Data security",
+                    "Efficiency, speed, and privacy",
+                    "24/7 human supervision"
+                ],
+                "Integration and Automation": [
+                    "Cloud and AI-based KYC and AML compliance solutions",
+                    "Integration with existing infrastructure",
+                    "Integration via Web SDK, Mobile SDK, or RESTful API",
+                    "Integration with other systems",
+                    "Modular design",
+                    "Easy integration",
+                    "Interfaces and integration",
+                    "Customizable workflows",
+                    "Access to top compliance experts",
+                    "Automation and machine process automation",
+                    "Automation",
+                    "Efficiency and performance improvements",
+                    "Time-saving automation",
+                    "Cloud migration and modernization",
+                    "Integrations with existing systems"
+                ],
+                "Global Coverage and Support": [
+                    "Trusted by top banks, payment providers, legal firms, and consultancies"
+                ]
+            },
+            "Is this project related to KYC providers?": true
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": [
+                {
+                    "name": "Invoicing",
+                    "price": "$0",
+                    "description": "Look like a pro",
+                    "features": [
+                        "Look professional even when you\u2019re in your sweat pants.",
+                        "Create customized invoices that reflect your brand.",
+                        "Send automated payment reminders so you can be good cop (we\u2019ll be bad cop).",
+                        "Accept credit card, bank payments and Apple Pay directly from your invoices."
+                    ]
+                },
+                {
+                    "name": "Accounting",
+                    "price": "$0",
+                    "description": "Always be organized",
+                    "features": [
+                        "Get unlimited income and expense tracking.",
+                        "Make unlimited bank and credit card connections.",
+                        "Access helpful reports like Overdue Invoices & Bills and Profit & Loss.",
+                        "Add unlimited partners, collaborators or accountants.",
+                        "Know if you should charge clients more just by glancing at your dashboard."
+                    ]
+                },
+                {
+                    "name": "Banking",
+                    "price": "$0",
+                    "description": "Ditch fees, and bookkeeping",
+                    "features": [
+                        "Keep business and personal expenses separated.",
+                        "Wave debit card purchases automatically get logged and categorized in our accounting software.",
+                        "Instant Payouts for free.",
+                        "Deposit checks and track your income with our mobile app."
+                    ]
+                },
+                {
+                    "name": "Payments",
+                    "price": "Per-USE",
+                    "description": "Get paid faster",
+                    "features": [
+                        "Give clients the flexibility of paying you via bank deposit, credit card, and Apple Pay.",
+                        "Wave invoice payments automatically sync to your accounting dashboard.",
+                        "Get your money in as fast as 1 business day (Canada) or 2 business days (US).",
+                        "Set up recurring billing and payments for retainer clients."
+                    ]
+                },
+                {
+                    "name": "Mobile receipts",
+                    "price": "monthly or yearly",
+                    "description": "Ditch the shoebox",
+                    "features": [
+                        "Unlimited receipt scanning and import.",
+                        "Access your expense information digitally in one convenient place.",
+                        "Receipts are backed up in the cloud.",
+                        "Track your business spending without manual bookkeeping.",
+                        "Make tax prep quick and painless with accurate books and reports."
+                    ]
+                },
+                {
+                    "name": "Payroll",
+                    "price": "Monthly",
+                    "description": "Pay staff in minutes",
+                    "features": [
+                        "Pay employees and contractors with ease.",
+                        "Deposit payments into employee's bank accounts in one click.",
+                        "Employee portal access to paystubs and tax forms.",
+                        "Easy access to important tax forms and documents.",
+                        "Accuracy guaranteed for compliance."
+                    ]
+                },
+                {
+                    "name": "Advisors",
+                    "price": "Pick A pLan",
+                    "description": "Access experts, any time",
+                    "features": [
+                        "Get coaching or support from bookkeeping, accounting, and payroll experts.",
+                        "Perfect for accounting newbies and those who want to become Wave power users.",
+                        "Tailored advice for your business goals.",
+                        "Year-round access to Advisors."
+                    ]
+                }
+            ]
+        }
+    },
+    "www.clearviewsys.com": {
+        "provider_name": "Clear View Systems Ltd.",
+        "call_to_action": "Book a Demo",
+        "usecases": [
+            "Money Service Businesses (MSB)",
+            "Financial Institutions",
+            "Travel Agencies & Airport Kiosks",
+            "Casinos & Gaming Industry",
+            "Hospitality & Tourism Industry"
+        ],
+        "solutions": [
+            "CurrencyXchanger Pro - Currency Exchange Software",
+            "CXR-POS - Multi-currency Point of Sale",
+            "CXR-BE - Multi-Currency Accounting Software",
+            "CXR-Pro - Compliant Record Keeping for Remittance Company",
+            "CRM - Customer Relationship Management",
+            "Tellerproof system for End of Day cash control",
+            "Currency Tracking by Denominations",
+            "Connectivity to live Currency & Precious Metal",
+            "Audit Trail Module with multi-level Undo/Revert",
+            "One-click export to Microsoft Excel, CSV or XML",
+            "Exception Report Log for tracking down anomalies",
+            "Optional LCD Currency Rate Display board",
+            "Adjust shortages and overages the accounting way",
+            "Record FOREX tradings, Bookings, Future Contracts, and Deliveries",
+            "Rule-based Fee module for automatic fee calculation",
+            "Check Cashing Software",
+            "Rule-based AML & ATF policy declaration module",
+            "Print ready-made KYC Form",
+            "Compliant with PCMLTFA",
+            "Compliant with CIP under the Bank Secrecy Act (BSA) and USA Patriot Act",
+            "Screening against 12 major sanction lists and PEP list",
+            "AML Audit tool to easily respond to bank and auditor's request",
+            "Adjustable warning threshold for LCT, EFT, and STR monitoring",
+            "eWire Remote Payment Orders",
+            "Multi-branch capability",
+            "Deploy in Decentralized Network Environments using our Proprietary Cloud Sync Technology",
+            "Deploy in Cloud or other Centralized Network environments using Terminal Services",
+            "Approved by Swedish Tax Authority Skatteverket and Financeinspektionen",
+            "Batch Reporting for FINTRAC, AUSTRAC, NZ POLICE, FIJI FIU"
+        ],
+        "features": {
+            "Identity Verification": [
+                "Compliant with PCMLTFA",
+                "Compliant with CIP under the Bank Secrecy Act (BSA) and USA Patriot Act",
+                "Screening against 12 major sanction lists and PEP list",
+                "Print ready-made KYC Form"
+            ],
+            "Compliance and Risk Management": [
+                "AML Audit tool to easily respond to bank and auditor's request",
+                "Adjustable warning threshold for LCT, EFT, and STR monitoring"
+            ],
+            "Data Management and Security": [
+                "Adjustable warning threshold for LCT, EFT, and STR monitoring"
+            ],
+            "Integration and Automation": [
+                "Deploy in Decentralized Network Environments using our Proprietary Cloud Sync Technology",
+                "Deploy in Cloud or other Centralized Network environments using Terminal Services"
+            ],
+            "Global Coverage and Support": [
+                "Batch Reporting for FINTRAC, AUSTRAC, NZ POLICE, FIJI FIU"
+            ]
+        },
+        "is_related_to_kyc_providers": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
     }
 }
