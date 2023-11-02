@@ -446,44 +446,6 @@
             "Standardized and global organization identifier",
             "Powerful and simple solutions for businesses"
         ],
-        "summary": "KYC solution providers offer innovative and secure identity verification, anti-money laundering (AML), and know your customer (KYC) compliance solutions. They leverage technologies such as artificial intelligence, biometrics, and trusted data sources to provide powerful yet simple solutions for businesses across various sectors. Some top KYC solution providers include Agreement Express, ComplyCube, Compulynx, Jumio, Socure, TeleSign, and Ubisecure.",
-        "is_relevant": true
-    },
-    "datarade.ai": {
-        "call_to_action": "Contact Us",
-        "business_model": "The listed data providers offer comprehensive data solutions for KYC (Know Your Customer) processes and risk assessment. They provide identity data, financial history, demographic information, and contact details to ensure the legitimacy of prospects. These data providers specialize in different regions and industries, offering global or localized data for KYC purposes.",
-        "prices": "Not found",
-        "usecases": [
-            "KYC (Know Your Customer)",
-            "Risk assessment",
-            "Identity verification",
-            "AML (Anti-Money Laundering) compliance"
-        ],
-        "solutions": [
-            "Techsalerator",
-            "Interfax",
-            "Trulioo",
-            "Bureau van Dijk (A Moody's Analytics Company)",
-            "DueDil",
-            "Dun & Bradstreet (D&B)",
-            "Creditsafe",
-            "Accuity",
-            "LexisNexis",
-            "SME Screener"
-        ],
-        "key_features": [
-            "Watertight identity data",
-            "Cross-checking identity data points",
-            "Global identity verification",
-            "Company profiles and financial intelligence",
-            "Business information and insights",
-            "Commercial company database",
-            "Online commercial credit and financial information",
-            "Up-to-date financial data",
-            "Financial crime risk data",
-            "Firmographic and company data"
-        ],
-        "summary": "These data providers offer comprehensive data solutions for KYC (Know Your Customer) processes and risk assessment. They provide identity data, financial history, demographic information, and contact details to ensure the legitimacy of prospects. Some of the top data providers for KYC include Techsalerator, Interfax, Trulioo, Bureau van Dijk, DueDil, Dun & Bradstreet, Creditsafe, Accuity, LexisNexis, and SME Screener.",
         "is_relevant": true
     },
     "ondato.com": {
@@ -568,154 +530,6 @@
         "summary": "The KYC providers listed offer a range of solutions for customer identification, KYC verification, and AML compliance. They provide services such as customer onboarding, document authorization, fraud prevention, candidate background verification, real-time credit-decisioning, identity verification, and more. These solutions cater to various industries including eCommerce, retail, financial institutions, healthcare, transport, online gaming, and more.",
         "is_relevant": true
     },
-    "slashdot.org": {
-        "call_to_action": "See Software",
-        "business_model": "The KYC software providers listed offer a range of solutions to help businesses comply with regulatory requirements and mitigate money laundering risks. They provide tools for customer onboarding, identity verification, document capture, data validation, risk assessment, compliance management, and more. These solutions cater to various industries including finance, compliance, operations management, IT security, crypto, and eCommerce.",
-        "prices": "The pricing for KYC software can vary depending on the features and capabilities needed. Generally, pricing is based on the number of users, type of functionality, and deployment options. The cost can range from under $500 per month for basic features to tens of thousands of dollars per month for larger deployments with custom integrations.",
-        "usecases": [
-            "Compliance with regulatory requirements",
-            "Risk assessment",
-            "Fraud prevention",
-            "Customer onboarding",
-            "Identity verification",
-            "Data validation"
-        ],
-        "solutions": [
-            "Udentify",
-            "iDenfy",
-            "ComplyCube",
-            "SEON",
-            "Ondato",
-            "Verify 365",
-            "Sumsub",
-            "IDMERIT",
-            "FUGU",
-            "ID.me",
-            "HyperVerge Identity Verification Platform",
-            "Sila",
-            "Thirdfort",
-            "Shufti Pro",
-            "Trulioo",
-            "FullCircl",
-            "NameScan",
-            "IDWise",
-            "Trustmatic",
-            "Checkboard",
-            "MemberCheck",
-            "Clear View KYC",
-            "RiskScreen",
-            "Veriff",
-            "TruNarrative"
-        ],
-        "key_features": [
-            "Automated verification",
-            "Document capture",
-            "Data validation",
-            "Risk assessment",
-            "Compliance management",
-            "Fraud prevention",
-            "Identity verification",
-            "Biometric authentication",
-            "Integration with identity management systems",
-            "Document verification",
-            "Statistical fraud detection",
-            "Real-time monitoring",
-            "Enhanced image recognition",
-            "Watchlist screening",
-            "API integration",
-            "Data intelligence",
-            "KYC automation",
-            "AML compliance",
-            "Customer due diligence",
-            "Identity proofing"
-        ],
-        "summary": "KYC software is a set of tools designed to assist companies in identifying and verifying the identities of their customers. It helps businesses comply with regulatory requirements, enhance efficiency, improve security, and provide a better customer experience. The software offers features such as automated verification, document capture, data validation, risk assessment, compliance management, and fraud prevention. The pricing for KYC software varies based on the features and capabilities needed.",
-        "is_relevant": true
-    },
-    "lenderkit.com": {
-        "call_to_action": "Schedule a live demo",
-        "business_model": "The KYC/AML providers listed offer solutions to help crowdfunding platforms achieve regulatory compliance and reduce the time to onboard new investors. They provide automatic KYC checks, support different risk profiles and compliance requirements, and offer services such as identity verification, fraud elimination, KYC & KYB checks, AML verification, and more. These solutions cater to crowdfunding platforms, P2P lending, banks, and other financial institutions.",
-        "prices": "Pricing information for the KYC/AML providers is not available.",
-        "usecases": [
-            "Identity verification",
-            "Anti-money laundering",
-            "Investor onboarding",
-            "Company due diligence",
-            "AML screening"
-        ],
-        "solutions": [
-            "Vix Verify",
-            "Jumio",
-            "Shufti Pro",
-            "Mob.id"
-        ],
-        "key_features": [
-            "Automatic KYC checks",
-            "Multiple data source integration",
-            "Risk profile support",
-            "Compliance with regulatory requirements",
-            "Identity and corporate fraud prevention",
-            "Global KYC & KYB screening",
-            "AML screening",
-            "Identity verification with high accuracy",
-            "Secure MFA for recurring clients",
-            "GDPR-compliant solution",
-            "CDD workflow support",
-            "AML monitoring",
-            "Identity proofing",
-            "Onboarding clients in under one minute"
-        ],
-        "summary": "KYC/AML providers for crowdfunding platforms offer solutions to help achieve regulatory compliance and streamline investor onboarding processes. These providers offer features such as automatic KYC checks, identity verification, fraud prevention, and AML screening. The pricing information for these providers is not available.",
-        "is_relevant": true
-    },
-    "fintech-market.com": {
-        "call_to_action": "Book a demo",
-        "business_model": "The KYC providers listed offer solutions to help lending companies meet KYC compliance requirements and ensure the integrity of their financial operations. These solutions provide features such as identity verification, fraud prevention, AML screening, risk analysis, and more. They cater to various lending sectors including consumer lending, SME lending, credit line, purchase financing, car leasing, deposits, and e-wallets.",
-        "prices": "Pricing information for the KYC providers is not available.",
-        "usecases": [
-            "KYC compliance",
-            "Fraud prevention",
-            "Risk analysis",
-            "Identity verification",
-            "AML screening"
-        ],
-        "solutions": [
-            "Veriff",
-            "Ondato",
-            "SEON",
-            "Pliance",
-            "Facephi",
-            "Vespia",
-            "Salv",
-            "Checkin",
-            "Regula",
-            "ShuftiPro"
-        ],
-        "key_features": [
-            "Automatic KYC checks",
-            "Fraud prevention",
-            "Real-time video and liveness verification",
-            "AI and machine learning automation",
-            "Document verification",
-            "Data enrichment",
-            "Digital footprint analysis",
-            "AML and transaction monitoring",
-            "Biometric authentication",
-            "Data security",
-            "Customizable workflows",
-            "Global coverage",
-            "Fast onboarding",
-            "Enhanced risk management",
-            "Data extraction",
-            "Secure user access",
-            "Identity proofing",
-            "AML risk analysis",
-            "Reduce false positives",
-            "Secure biometric identity verification"
-        ],
-        "summary": "KYC providers offer solutions to help lending companies meet KYC compliance requirements and ensure the integrity of their financial operations. These solutions provide features such as identity verification, fraud prevention, AML screening, and risk analysis. The pricing information for these providers is not available.",
-        "is_relevant": true
-    },
     "www.pxl-vision.com": {
         "call_to_action": "Request Now",
         "business_model": "KYC service providers offer digital KYC solutions to financial institutions, corporations, and online platforms. These SaaS companies enable their clients to convert the time and resources invested into manual KYC procedures to a digital platform that is fast, accurate, and user-friendly. They reduce overhead expenses, decrease customer drop-out rates, strengthen security, and increase ROI. KYC service providers benefit both the client corporation directly and their customers with user-friendly, swift, online or mobile verification processes.",
@@ -737,38 +551,6 @@
             "Frictionless UX and easy-to-use UI"
         ],
         "summary": "KYC service providers offer digital KYC solutions to financial institutions, corporations, and online platforms. These solutions help convert manual KYC procedures to a digital platform that is fast, accurate, and user-friendly. They reduce overhead expenses, decrease customer drop-out rates, strengthen security, and increase ROI. The pricing information for KYC service providers is not available.",
-        "is_relevant": true
-    },
-    "deepinspire.com": {
-        "call_to_action": "Contact Us",
-        "business_model": "KYC solution providers offer identity verification and KYC services to financial institutions, corporations, and online platforms. They help combat online fraud, money laundering, terrorist financing, and corruption by verifying customer identities and ensuring compliance with regulatory requirements. These providers offer a range of KYC services such as customer identification, customer due diligence, enhanced due diligence, and sanctions screenings. They use advanced technologies like AI, biometrics, and OCR to streamline the customer onboarding process and ensure regulatory compliance. Pricing information for KYC solution providers is not available.",
-        "prices": "Pricing information for KYC solution providers is not available.",
-        "usecases": [
-            "Digital Identity Verification",
-            "Customer Onboarding",
-            "Know Your Customer (KYC)",
-            "Age Verification",
-            "Account Onboarding"
-        ],
-        "solutions": [
-            "IDnow",
-            "LemonWay",
-            "Trulioo",
-            "Shufti Pro",
-            "KYC-Chain",
-            "IDology"
-        ],
-        "key_features": [
-            "Identity verification",
-            "Business authenticity verification (KYB)",
-            "Video interview KYC",
-            "OCR for business",
-            "Access to global data registers",
-            "Bank-grade compliance toolkit",
-            "Scanning of over 10,000 data sources in 240 countries",
-            "API integration"
-        ],
-        "summary": "KYC solution providers offer identity verification and KYC services to financial institutions, corporations, and online platforms. They help combat online fraud, money laundering, terrorist financing, and corruption by verifying customer identities and ensuring compliance with regulatory requirements. These providers use advanced technologies like AI, biometrics, and OCR to streamline the customer onboarding process and ensure regulatory compliance. The pricing information for KYC solution providers is not available.",
         "is_relevant": true
     },
     "www.blockpass.org": {
@@ -1345,82 +1127,6 @@
         "summary": "Mt Pelerin is a Swiss gateway to the crypto world, offering services such as buying, selling, and swapping cryptocurrencies. They provide a crypto super-app called Bridge Wallet and offer business services for crypto-fiat integration and tokenization. Mt Pelerin aims to make the financial revolution driven by digital assets accessible to all.",
         "is_relevant": true
     },
-    "mangopay.com": {
-        "call_to_action": "Contact sales",
-        "business_model": "Mangopay is a modular payment infrastructure provider for marketplaces and platforms. They offer a range of products including e-wallet, payments, payout, identity verification, fraud prevention, and FX services. Their solutions are designed to be flexible and scalable, allowing businesses to customize their payment processes according to their needs. Mangopay serves various use cases such as C2C marketplaces, B2B platforms, B2C marketplaces, retail marketplaces, and rental marketplaces. They are trusted by over 2,500 businesses globally and have a strong presence in Europe.",
-        "prices": "Not found",
-        "usecases": [
-            "C2C marketplaces",
-            "B2B platforms",
-            "B2C marketplaces",
-            "Retail marketplaces",
-            "Rental marketplaces"
-        ],
-        "solutions": [
-            "E-wallet",
-            "Payments",
-            "Payout",
-            "Identity verification",
-            "Fraud prevention",
-            "FX services"
-        ],
-        "key_features": [
-            "Modular payment infrastructure",
-            "Flexible and scalable solutions",
-            "E-wallet for fund management",
-            "Powerful payment processing",
-            "Global and local payouts",
-            "KYC and KYB verifications",
-            "AI-powered fraud prevention",
-            "Seamless cross-border money movement",
-            "Prebuilt integrations and APIs",
-            "Developer-friendly SDKs",
-            "Trusted by over 2,500 businesses",
-            "Strong presence in Europe"
-        ],
-        "summary": "Mangopay is a modular payment infrastructure provider for marketplaces and platforms. They offer flexible and scalable solutions such as e-wallet, payments, payout, identity verification, fraud prevention, and FX services. Mangopay serves various use cases and is trusted by over 2,500 businesses globally.",
-        "is_relevant": true
-    },
-    "www.shocard.com": {
-        "call_to_action": "Learn more about this provider",
-        "business_model": "The website does not provide specific information about their business model or pricing.",
-        "prices": "Not found",
-        "usecases": [],
-        "solutions": [],
-        "key_features": [],
-        "summary": "The website does not provide specific information about their services or solutions related to KYC providers. It primarily focuses on cookie consent and tracking user behavior for analytics and marketing purposes.",
-        "is_relevant": false
-    },
-    "www.trmlabs.com": {
-        "call_to_action": "Request a demo",
-        "business_model": "The website does not provide specific information about their business model or pricing.",
-        "prices": "Not found",
-        "usecases": [],
-        "solutions": [],
-        "key_features": [],
-        "summary": "The website does not provide specific information about their services or solutions related to KYC providers. It primarily focuses on transaction monitoring, forensics, and know-your-VASP services for financial institutions, crypto businesses, and the public sector.",
-        "is_relevant": false
-    },
-    "www.veriff.com": {
-        "call_to_action": "Talk to us",
-        "business_model": "The website does not provide specific information about their business model or pricing.",
-        "prices": "Not found",
-        "usecases": [],
-        "solutions": [],
-        "key_features": [],
-        "summary": "The website does not provide specific information about their services or solutions related to KYC providers. They offer an identity verification platform that helps prevent fraud, build trust, and onboard verified customers. Veriff serves various industries such as financial services, gaming, mobility, crypto, and more.",
-        "is_relevant": false
-    },
-    "www.acuitykp.com": {
-        "call_to_action": "Contact Us",
-        "business_model": "The website does not provide specific information about their business model or pricing.",
-        "prices": "Not found",
-        "usecases": [],
-        "solutions": [],
-        "key_features": [],
-        "summary": "The website does not provide specific information about their services or solutions related to KYC providers. Acuity Knowledge Partners offers bespoke research, analytics, and technology solutions to various financial services sectors, including asset managers, private equity firms, corporate banks, and more. They provide solutions in areas such as investment banking and advisory, investment research, lending services, private equity and venture capital support, consulting, and specialized solutions.",
-        "is_relevant": false
-    },
     "shuftipro.com": {
         "call_to_action": "Request Demo",
         "business_model": "The website does not provide specific information about their business model or pricing.",
@@ -1515,66 +1221,6 @@
             "Atomic Swap Smart Contracts"
         ],
         "summary": "DigiShares is a platform that enables the tokenization of real-world assets, with a focus on real estate. They offer solutions such as issuer and investor dashboards, share cap table management, automation of compliance and governance processes, payment of dividends, shareholder meetings and voting system, fractionalization of asset ownership, asset tokenization engine, freezing/renewal of lost security tokens, digital transfer agent services, KYC/AML/accreditation checks, e-signature, custodial or self-custodial wallet connections, share purchases, status of portfolio and ROI, investor forum, peer-to-peer trading module, and atomic swap smart contracts. DigiShares aims to provide a platform that lowers barriers, enables trading, automates compliance and governance processes, and provides transparency for investments in real estate and other real-world assets.",
-        "is_relevant": true
-    },
-    "www.aegiscustody.com": {
-        "call_to_action": "Contact Us",
-        "business_model": "The website does not provide specific information about their business model or pricing.",
-        "prices": "Not found",
-        "usecases": [
-            "Custody",
-            "Staking",
-            "Fiat \u2194\ufe0f Crypto",
-            "DeFi Governance",
-            "Asset Digitization",
-            "KYC & AML"
-        ],
-        "solutions": [
-            "Custody",
-            "Staking",
-            "Fiat \u2194\ufe0f Crypto",
-            "DeFi Governance",
-            "Asset Digitization",
-            "KYC & AML",
-            "Wallet Integration",
-            "NFT Marketplace"
-        ],
-        "key_features": [
-            "Custody",
-            "Staking",
-            "Fiat \u2194\ufe0f Crypto",
-            "DeFi Governance",
-            "Asset Digitization",
-            "KYC & AML",
-            "Wallet Integration",
-            "NFT Marketplace"
-        ],
-        "summary": "Aegis Custody is a fully-licensed and insured digital asset custodian that provides secure, institutional-grade, proprietary, integrated custodial blockchain solutions. They offer services such as custody, staking, fiat \u2194\ufe0f crypto services, DeFi governance, asset digitization, and KYC & AML screenings. They also provide white-label solutions for wallet integration and NFT marketplaces. Aegis Custody aims to provide a user-centric custody experience that is customizable based on clients' needs, leveraging their hybrid and hardware custody solutions. They prioritize regulation, coverage, fast response, and flexibility in their services.",
-        "is_relevant": true
-    },
-    "bitfury.com": {
-        "call_to_action": "Contact Us",
-        "business_model": "The website does not provide specific information about their business model or pricing.",
-        "prices": "Not found",
-        "usecases": [
-            "Blockchain",
-            "HPC",
-            "AI",
-            "Digital assets infrastructure"
-        ],
-        "solutions": [
-            "Blockchain",
-            "HPC",
-            "AI",
-            "Digital assets infrastructure"
-        ],
-        "key_features": [
-            "Blockchain",
-            "HPC",
-            "AI",
-            "Digital assets infrastructure"
-        ],
-        "summary": "Bitfury Group is a full-service blockchain technology company that specializes in blockchain, HPC, AI, and digital assets infrastructure. They offer solutions such as Exonum blockchain, Crystal software for blockchain investigations, Bitfury Tardis and BlockBox AC for crypto-infrastructure, and turn-key solutions for data centers. Bitfury aims to provide innovative hardware solutions for securely moving assets across the Bitcoin Blockchain. However, specific information about their business model or pricing is not provided.",
         "is_relevant": true
     },
     "www.complycube.com": {
@@ -2060,28 +1706,6 @@
             "Digital Assets Brokerage and Custody"
         ],
         "summary": "Solaris is a German technology company with a full banking license that offers a range of solutions for embedded finance. They provide digital banking and accounts APIs, branded cards and payment flows, lending services, digital KYC services, and digital assets brokerage and custody. Solaris aims to empower businesses to offer their own banking products by providing a comprehensive platform and taking care of regulatory complexities. However, specific information about their business model or pricing is not provided on the website.",
-        "is_relevant": true
-    },
-    "bakkt.com": {
-        "call_to_action": "Partner With Us",
-        "business_model": "The business model and pricing information for Bakkt, a KYC provider, is not provided on their website.",
-        "prices": {},
-        "usecases": [],
-        "solutions": [
-            "Trade",
-            "Custody",
-            "Crypto Payout",
-            "Crypto Rewards"
-        ],
-        "key_features": [
-            "Institutional-grade custody solution",
-            "Regulated trading via API and UI functions",
-            "Fiat onramps and crypto rewards",
-            "Comprehensive regulatory compliance and security",
-            "Responsible and selective approach",
-            "Licensed to operate in all 50 states"
-        ],
-        "summary": "Bakkt is an institutional-grade platform for digital asset custody, trading, and onramp solutions. They offer solutions for trade, custody, crypto payout, and crypto rewards. Bakkt aims to enable businesses to grow with the crypto economy through a regulated and responsible approach. They provide comprehensive regulatory compliance, security, and a licensed operation in all 50 states. However, specific information about their business model or pricing is not provided on the website.",
         "is_relevant": true
     },
     "www.ugrconsulting.com": {

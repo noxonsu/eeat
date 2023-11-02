@@ -101,10 +101,19 @@ if __name__ == "__main__":
             continue
          # Access the first provider for each site
         datatoAdd = all_sites_data[domain]
+
         
+        if ('call_to_action' not in datatoAdd):
+            print('no call_to_action or its a list')
+            all_sites_data.pop(domain)
+            save_to_json_file(all_sites_data, "5companies_details.json", "data/" + INDUSTRY_KEYWORD)
+            continue
+        
+        response = conversation({ "input": question_content })
+
         existedDomainListStr = ",".join(existedDomainList)
 
-        question_content = """Add to previous article info about """+domain+""" . 
+        question_content = """Is this """+domain+""" . 
 The string """+domain+""", """+existedDomainListStr+""" must be included in your answer. 
 You can rewrite and optimize entire article. 
 Add unique selling proposition near to the title of project
