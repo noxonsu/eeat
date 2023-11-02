@@ -60,23 +60,17 @@ prompt = """Instructions for Assistant to Analyze """+INDUSTRY_KEYWORD+""" Produ
 Objective: To determine the critical characteristics or features of the chosen """+INDUSTRY_KEYWORD+""" that may be important to consumers.
 
 Preparation:
-Familiarize yourself with the content from the main pages of the companies provided.
-Get a broad understanding of """+INDUSTRY_KEYWORD+""" and its implications in the industry.
-
-Collate findings in a structured manner. For each service, list down how they fare in each of the criteria.
+For each service, list down how they fare in each of the criteria.
 
 In additional detrmine such information
 1. Call to action - 'talk to a manager', 'book a demo', 'talk to team', sign up etc.
-2. Determine their business model (how they earn) and prices and plans
+2. Determine their business model (how they earn)
 3. Their usecases  
 4. Their solutions
 5. """+clusterized_features_list_f+""""
-
-
-6. Brief summary what's the difference between other companies and this one
 7. Is this project realy related to """+INDUSTRY_KEYWORD+"""?
                                                                 
-Summarize your findings in a concise manner. The goal is to provide an objective view of each product offerings, highlighting both strengths and potential areas for improvement. Provide the results in JSON format."""
+The goal is to provide an objective view of each product offerings, highlighting both strengths and potential areas for improvement. Provide the results in JSON format."""
 
 
 def get_hash(prompt):
@@ -92,9 +86,9 @@ with open("data/"+INDUSTRY_KEYWORD+"/5prompt_"+prompt_hash+".txt", "w") as file:
 def get_company_details(company):
     """Extract details of the company using the LLMChain."""
     summary=load_from_json_file(company+".json","data/"+INDUSTRY_KEYWORD)
-    question_content = 'INDUSTRY_KEYWORD: '+INDUSTRY_KEYWORD+"\n\n"+json.dumps(summary)
+    question_content = 'INDUSTRY_KEYWORD: '+INDUSTRY_KEYWORD+"\n\n"+json.dumps(summary['summary'])
     question_content = question_content[:40000]
-    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
+    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
 
     messages = [
         SystemMessage(content=prompt),
@@ -104,10 +98,27 @@ def get_company_details(company):
     response = chat(messages)
     gpt_response = response.content
     end = time.time()
-    print("Time to get response: "+str(end - start))
+    print("Time to get response1: "+str(end - start))
+
+    gpt_response2 = "{}"
+    # comeercial preparation
+    messages = [
+        SystemMessage(content="Find plans and prices and determin business model. Return JSON"),
+        HumanMessage(content=json.dumps(summary['priceAndPlans']))
+    ]
+    start = time.time()
+    response = chat(messages)
+    gpt_response2 = response.content
+    end = time.time()
+    print("Time to get response2: "+str(end - start))
+
 
     try:
-        return json.loads(gpt_response)
+        json1 = json.loads(gpt_response)
+        #add prices and plans
+        json2 = json.loads(gpt_response2)
+        json1['priceAndPlans'] = json2
+        return json1
     except json.JSONDecodeError:
         print(f"Failed to decode JSON for response: {gpt_response}")
         return None
@@ -118,7 +129,7 @@ def main():
     summaries = load_from_json_file("1companies.json", "data/" + INDUSTRY_KEYWORD)
     
     # Filter the summaries to get only those with nature "single project"
-    filtered_summaries = {k: v for k, v in summaries.items() if v.get('nature') == "single project" and v.get('5prompt_Hash') != prompt_hash}
+    filtered_summaries = {k: v for k, v in summaries.items() if v.get('nature') == "single project" and v.get('5prompt_Hash') != prompt_hash and v.get('priceAndPlansCrawled') == 'https://seon.io/pricing/'}
     total=len(filtered_summaries)
     print (total)
     # Load existing company details
@@ -129,7 +140,8 @@ def main():
     for company, compdata in filtered_summaries.items():
         i=i+1
         print(i/total*100)
-es        print(company)
+        print(company)
+
         if company != "skip":  # Only fetch details if not already present
             print(f"Analysing details for company: {company}")
             details = get_company_details(company)

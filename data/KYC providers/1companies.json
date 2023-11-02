@@ -152,7 +152,8 @@
         "nature": "single project",
         "domainRegDate": "2007-06-14T20:56:57Z",
         "priceAndPlansCrawled": "https://www.signicat.com/pricing",
-        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:JYBE8KXuh3cJ:https://www.signicat.com/pricing&hl=en&gl=us"
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:JYBE8KXuh3cJ:https://www.signicat.com/pricing&hl=en&gl=us",
+        "5prompt_Hash": "3fc260598e308575459e9dd58291128c"
     },
     "cryptoadventure.com": {
         "url": "https://cryptoadventure.com/top-5-kyc-solutions-for-crypto-or-nft-projects/",
@@ -273,7 +274,8 @@
         "nature": "single project",
         "domainRegDate": "2013-07-14T18:32:41Z",
         "priceAndPlansCrawled": "https://www.coincover.com/pricing",
-        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:DbFkjm8Di8cJ:https://www.coincover.com/pricing&hl=en&gl=us"
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:DbFkjm8Di8cJ:https://www.coincover.com/pricing&hl=en&gl=us",
+        "5prompt_Hash": "3fc260598e308575459e9dd58291128c"
     },
     "kyc-chain.com": {
         "url": "https://kyc-chain.com/",
@@ -281,21 +283,24 @@
         "nature": "single project",
         "domainRegDate": "2015-11-29T09:00:47Z",
         "priceAndPlansCrawled": "https://kyc-chain.com/industries/",
-        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:Du9GVtNobHQJ:https://kyc-chain.com/industries/&hl=en&gl=us"
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:Du9GVtNobHQJ:https://kyc-chain.com/industries/&hl=en&gl=us",
+        "5prompt_Hash": "3fc260598e308575459e9dd58291128c"
     },
     "www.jumio.com": {
         "url": "https://www.jumio.com/",
         "sourcekeyword": "Jumio:  AI-powered identity verification services for online businesses",
         "nature": "single project",
         "priceAndPlansCrawled": "https://www.jumio.com/calculate-tco/",
-        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:8PYJemFr4owJ:https://www.jumio.com/calculate-tco/&hl=en&gl=us"
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:8PYJemFr4owJ:https://www.jumio.com/calculate-tco/&hl=en&gl=us",
+        "5prompt_Hash": "3fc260598e308575459e9dd58291128c"
     },
     "www.telesign.com": {
         "url": "https://www.telesign.com/",
         "sourcekeyword": "TELESIGN:  programmable communications APIs and digital identification",
         "nature": "single project",
         "priceAndPlansCrawled": "https://www.telesign.com/pricing/sms-and-voice",
-        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:vwWbgx7qyIYJ:https://www.telesign.com/pricing/sms-and-voice&hl=en&gl=us"
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:vwWbgx7qyIYJ:https://www.telesign.com/pricing/sms-and-voice&hl=en&gl=us",
+        "5prompt_Hash": "3fc260598e308575459e9dd58291128c"
     },
     "www.synaps.io": {
         "url": "https://www.synaps.io/",
@@ -317,7 +322,8 @@
         "nature": "single project",
         "domainRegDate": "2017-09-30T11:34:27Z",
         "priceAndPlansCrawled": "https://www.mtpelerin.com/pricing",
-        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:WlfHikF7_dsJ:https://www.mtpelerin.com/pricing&hl=en&gl=us"
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:WlfHikF7_dsJ:https://www.mtpelerin.com/pricing&hl=en&gl=us",
+        "5prompt_Hash": "3fc260598e308575459e9dd58291128c"
     },
     "mangopay.com": {
         "url": "https://mangopay.com/",
@@ -726,7 +732,8 @@
         "sourcekeyword": "Seon:  KYC technology for preventing money laundering, SEON Fraud Fighters:  Fraud prevention SaaS, modular APIs, advanced device fingerprinting technology, machine-learning algorithm, digital footprint analysis",
         "nature": "single project",
         "priceAndPlansCrawled": "https://seon.io/pricing/",
-        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:IbBK7KEf3PcJ:https://seon.io/pricing/&hl=en&gl=us"
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:IbBK7KEf3PcJ:https://seon.io/pricing/&hl=en&gl=us",
+        "5prompt_Hash": "346d919b20d76f985e3046db32e05f60"
     },
     "www.theledger.com": {
         "nature": "invalid: no kyc keyword",

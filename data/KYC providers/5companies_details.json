@@ -1,1794 +1,502 @@
 {
-    "sumsub.com": {
-        "companyName": "Sumsub",
-        "callToAction": "Book a demo",
-        "businessModelAndPrices": "Sumsub offers two pricing plans: 'Growing' and 'Enterprise'. The 'Growing' plan is for businesses with more than 1000 verifications per month. The 'Enterprise' plan offers a custom price and includes features like custom integration, personal customer success manager, single sign-on, priority support via chat, white labeling, reusable KYC, and API integration. The exact prices are not listed on the website.",
+    "www.signicat.com": {
+        "callToAction": "Talk to a digital identity expert",
+        "businessModel": "Signicat offers a range of products and services for identity proofing, trust orchestration, authentication, electronic signing, and more. They provide solutions for AML (Anti Money Laundering) driven KYC (Know Your Customer) and KYB (Know Your Business) processes. Their platform automates these processes by offering access to various identification methods and international identity data sources. Signicat aims to help businesses reduce costs, minimize manual work, and maximize conversion rates for onboarding new customers.",
         "useCases": [
-            "Fintech",
-            "Trading",
-            "Transportation",
-            "Marketplaces",
-            "Crypto",
-            "Online Gaming",
-            "Carsharing"
+            "AML, KYC/KYB"
         ],
         "solutions": [
-            "User Verification",
-            "Business Verification",
-            "Transaction Monitoring"
+            "Identity Proofing",
+            "Trust Orchestration",
+            "Authentication",
+            "Electronic Signing"
         ],
         "keyFeatures": {
-            "cluster1": {
-                "Identity Verification": [
-                    "ID Verification",
-                    "Address Verification",
-                    "Video Identification",
-                    "Non-Doc Verification",
-                    "Email/Phone Verification",
-                    "Biometric Verification",
-                    "Document Verification",
-                    "Age Verification",
-                    "Reusable KYC",
-                    "Bank Card Check",
-                    "Crypto Check",
-                    "Liveness"
-                ]
+            "Identity Verification": [
+                "Verify identities of people and organizations using trusted sources",
+                "Flexible user verification",
+                "AI-powered identity verification",
+                "Phone number-based identity verification",
+                "ID document verification",
+                "Biometrics and data protection",
+                "OCR technology for document reading and comparison",
+                "Liveness and Face Match verification",
+                "Manual identity verification",
+                "Secure identity verification through bank transfer",
+                "Video KYC",
+                "Digital identity creation and verification",
+                "Assisted identity verification",
+                "Instant KYC for individual and corporate accounts",
+                "Electronic KYC",
+                "E-signature authentication",
+                "Face verification",
+                "Document authorization",
+                "Verification of travel documents",
+                "Secure verification of identity",
+                "3D liveness detection"
+            ],
+            "Compliance and Risk Management": [
+                "Boosting sanctions compliance",
+                "Compliance management",
+                "Compliance with regulatory requirements",
+                "AML screening",
+                "RegTech solutions for AML programs and compliance",
+                "AML and transaction monitoring",
+                "Fraud detection with AI",
+                "Fraud prevention",
+                "Risk transactions identification",
+                "Risk and compliance services",
+                "Enhanced due diligence",
+                "Customizable compliance solutions",
+                "Continuous compliance",
+                "Risk assessments based on intelligent data",
+                "Geo-location and IP assessment",
+                "Enhanced risk management",
+                "Sanctions screening and monitoring",
+                "PEP, sanctions, and adverse media screening",
+                "Always-on risk monitoring",
+                "Risk assessment",
+                "Targeting risk typologies",
+                "Configurable rules for screening and monitoring",
+                "Risk-based approach",
+                "Fraud management with proprietary machine learning and human oversight",
+                "Automated identity verification and compliance",
+                "24/7 human supervision",
+                "KYC / AML / Accreditation Check",
+                "Non-documentary checks via government databases",
+                "Compliance with regulations",
+                "Automatic credit assessment and bankruptcy notification",
+                "Reduced dependencies on platform operators",
+                "Anti-money laundering (AML) measures",
+                "Cloud migration and modernization",
+                "Security sentiment analysis"
+            ],
+            "Data Management and Security": [
+                "Customers retain full control of their private data",
+                "Maintain a secure paper trail of all documents",
+                "Data enrichment",
+                "Secure data management",
+                "Secure and private identity",
+                "Secure storage and management of digital identity",
+                "Data security",
+                "Patented data management",
+                "Centralized investment management",
+                "Secure remote meetings",
+                "Protection against hackers, fraud, and human error",
+                "Rigorous security policies and procedures",
+                "Blockchain security audit",
+                "DSGVO compliant",
+                "Efficiency, speed, and privacy",
+                "24/7 human supervision"
+            ],
+            "Integration and Automation": [
+                "Powerful APIs and applications",
+                "Flexible workflow builder",
+                "Cloud and AI-based KYC and AML compliance solutions",
+                "Integration with existing infrastructure",
+                "Integration via Web SDK, Mobile SDK, or RESTful API",
+                "Integration with other systems",
+                "Modular design",
+                "Easy integration",
+                "Interfaces and integration",
+                "Customizable workflows",
+                "Access to top compliance experts",
+                "Automation and machine process automation",
+                "Automation",
+                "Efficiency and performance improvements",
+                "Time-saving automation",
+                "Cloud migration and modernization",
+                "Integrations with existing systems"
+            ],
+            "Global Coverage and Support": [
+                "Support for 13,000+ document types",
+                "Strong presence in Europe",
+                "Trusted by 300+ partners worldwide",
+                "Access to over 300+ corporate registries across 100 countries",
+                "Extensive global coverage with billions of data records",
+                "Coverage of 195 countries",
+                "Trusted by top banks, payment providers, legal firms, and consultancies",
+                "Engaged community in multiple countries"
+            ]
+        },
+        "difference": "Signicat offers a comprehensive platform that automates AML driven KYC and KYB processes. They provide access to various identification methods and international identity data sources, helping businesses reduce costs, minimize manual work, and maximize conversion rates for onboarding new customers. They also offer a range of products and services for identity proofing, trust orchestration, authentication, and electronic signing.",
+        "isKYCProvider": true,
+        "pricesAndPlans": {
+            "e-Signing Portal": {
+                "Free edition": "From \u20ac0 (3 signatures per month)",
+                "Paid": {
+                    "Professional": "From \u20ac13 per user per month",
+                    "Business": "From \u20ac13 per user per month",
+                    "Enterprise": "From \u20ac13 per user per month"
+                }
             },
-            "cluster2": {
-                "Compliance and Risk Management": [
-                    "AML Screening",
-                    "Compliance as a Service"
-                ]
+            "Signicat Mint": {
+                "Free to test": "From \u20ac0",
+                "Paid plans": "From \u20ac495/month + transaction fees"
             },
-            "cluster3": {
-                "Data Management and Security": []
-            },
-            "cluster4": {
-                "Integration and Automation": [
-                    "Workflow Builder",
-                    "API integration"
-                ]
-            },
-            "cluster5": {
-                "Global Coverage and Support": [
-                    "Support for 14,000+ document types",
-                    "Coverage of 220+ countries and territories"
-                ]
+            "Digital Identity APIs": {
+                "Starter": "From \u20ac149/month",
+                "Essential": "From \u20ac395/month",
+                "Customized": "Contact sales for pricing"
             }
-        },
-        "summary": "Sumsub is a KYC provider that offers user and business verification, as well as transaction monitoring. It supports over 14,000 document types from more than 220 countries and territories. Sumsub also provides a flexible workflow builder for creating unique verification flows and automating the decision-making process. It offers two pricing plans: 'Growing' and 'Enterprise', with the latter offering a custom price.",
-        "isKYC": "Yes"
-    },
-    "salv.com": {
-        "Salv": {
-            "callToAction": "Book a demo",
-            "businessModel": "Not found",
-            "usecases": [
-                "AML & KYC compliance",
-                "Customer and transaction screening and monitoring",
-                "Risk scoring"
-            ],
-            "solutions": [
-                "Salv Bridge",
-                "Screening",
-                "Monitoring",
-                "Risk Scoring"
-            ],
-            "features": {
-                "Identity Verification": [
-                    "Real-time checks",
-                    "Configurable rules",
-                    "Counterparty monitoring"
-                ],
-                "Compliance and Risk Management": [
-                    "AML and KYC compliance",
-                    "Risk scoring rules"
-                ],
-                "Data Management and Security": [
-                    "Secure customer and transaction data management"
-                ],
-                "Integration and Automation": [
-                    "API-first approach",
-                    "Automated KYC checks"
-                ],
-                "Global Coverage and Support": [
-                    "Not found"
-                ]
-            },
-            "summary": "Salv is a RegTech company that offers AML software for banks and fintechs. Their Salv Platform provides real-time checks, configurable rules, and counterparty monitoring for AML and KYC compliance. They also offer risk scoring based on KYC data and transactional behavior.",
-            "isKYCProvider": true
-        },
-        "Veriff": {
-            "callToAction": "Not found",
-            "businessModel": "Not found",
-            "usecases": [
-                "Identity verification",
-                "Fraud prevention"
-            ],
-            "solutions": [
-                "AI-Powered Identity Verification"
-            ],
-            "features": {
-                "Identity Verification": [
-                    "Advanced facial recognition",
-                    "Assisted image capture"
-                ],
-                "Compliance and Risk Management": [
-                    "Not found"
-                ],
-                "Data Management and Security": [
-                    "Not found"
-                ],
-                "Integration and Automation": [
-                    "Not found"
-                ],
-                "Global Coverage and Support": [
-                    "Not found"
-                ]
-            },
-            "summary": "Veriff offers AI-powered identity verification solutions with advanced facial recognition and assisted image capture technology. They focus on identity verification and fraud prevention.",
-            "isKYCProvider": true
-        },
-        "Ondato": {
-            "callToAction": "Book a demo",
-            "businessModel": "Not found",
-            "usecases": [
-                "KYC management",
-                "Customer onboarding",
-                "Authentication"
-            ],
-            "solutions": [
-                "End-to-End KYC Management"
-            ],
-            "features": {
-                "Identity Verification": [
-                    "Customer verification",
-                    "Returning customer authentication"
-                ],
-                "Compliance and Risk Management": [
-                    "Central hub for AML/KYC compliance"
-                ],
-                "Data Management and Security": [
-                    "Customer data management"
-                ],
-                "Integration and Automation": [
-                    "Seamless navigation through modules"
-                ],
-                "Global Coverage and Support": [
-                    "Not found"
-                ]
-            },
-            "summary": "Ondato provides an end-to-end KYC management system for customer onboarding, authentication, and customer data management. Their modular approach allows businesses to choose the modules that match their needs.",
-            "isKYCProvider": true
-        },
-        "Quantexa": {
-            "callToAction": "Not found",
-            "businessModel": "Not found",
-            "usecases": [
-                "Contextual KYC",
-                "Compliance optimization",
-                "Data-driven decision making"
-            ],
-            "solutions": [
-                "Contextual KYC Platform"
-            ],
-            "features": {
-                "Identity Verification": [
-                    "Contextual decision intelligence"
-                ],
-                "Compliance and Risk Management": [
-                    "Contextual approach to risk identification"
-                ],
-                "Data Management and Security": [
-                    "Data matching and visualization"
-                ],
-                "Integration and Automation": [
-                    "Not found"
-                ],
-                "Global Coverage and Support": [
-                    "Not found"
-                ]
-            },
-            "summary": "Quantexa offers a contextual KYC platform that enables data-driven decision making and compliance optimization. Their platform provides a connected view of data to enhance risk identification and reduce time and cost in the KYC lifecycle.",
-            "isKYCProvider": true
-        },
-        "Fullcircl": {
-            "callToAction": "Not found",
-            "businessModel": "Not found",
-            "usecases": [
-                "Automated KYC",
-                "Customer lifecycle intelligence"
-            ],
-            "solutions": [
-                "Automated KYC & AML Platform"
-            ],
-            "features": {
-                "Identity Verification": [
-                    "Automated KYC checks"
-                ],
-                "Compliance and Risk Management": [
-                    "Customer lifecycle intelligence"
-                ],
-                "Data Management and Security": [
-                    "Data matching and enrichment"
-                ],
-                "Integration and Automation": [
-                    "API-first approach"
-                ],
-                "Global Coverage and Support": [
-                    "Not found"
-                ]
-            },
-            "summary": "Fullcircl offers an automated KYC and AML platform with customer lifecycle intelligence. Their platform automates KYC checks and provides data matching and enrichment for a contextualized view of data.",
-            "isKYCProvider": true
-        },
-        "Jumio": {
-            "callToAction": "Not found",
-            "businessModel": "Not found",
-            "usecases": [
-                "Identity verification",
-                "AML solutions"
-            ],
-            "solutions": [
-                "Online Identity Proofing and eKYC"
-            ],
-            "features": {
-                "Identity Verification": [
-                    "Enhanced identity checks"
-                ],
-                "Compliance and Risk Management": [
-                    "Not found"
-                ],
-                "Data Management and Security": [
-                    "Not found"
-                ],
-                "Integration and Automation": [
-                    "Not found"
-                ],
-                "Global Coverage and Support": [
-                    "Not found"
-                ]
-            },
-            "summary": "Jumio offers online identity proofing and eKYC solutions with enhanced identity checks. Their solutions help build trust with customers and prevent fraud.",
-            "isKYCProvider": true
-        },
-        "NorthRow": {
-            "callToAction": "Not found",
-            "businessModel": "Not found",
-            "usecases": [
-                "Onboarding",
-                "Regulatory compliance"
-            ],
-            "solutions": [
-                "AML & KYC/B Onboarding Platform"
-            ],
-            "features": {
-                "Identity Verification": [
-                    "Enhanced due diligence"
-                ],
-                "Compliance and Risk Management": [
-                    "AML and KYC services and tools"
-                ],
-                "Data Management and Security": [
-                    "Not found"
-                ],
-                "Integration and Automation": [
-                    "Easy integration with a single API solution"
-                ],
-                "Global Coverage and Support": [
-                    "Not found"
-                ]
-            },
-            "summary": "NorthRow provides an AML and KYC/B onboarding platform with enhanced due diligence. Their platform streamlines customer onboarding and monitoring processes with easy integration and a single API solution.",
-            "isKYCProvider": true
-        },
-        "Onfido": {
-            "callToAction": "Not found",
-            "businessModel": "Not found",
-            "usecases": [
-                "Digital customer acquisition",
-                "Identity verification"
-            ],
-            "solutions": [
-                "AI-Powered Identity Verification Solution"
-            ],
-            "features": {
-                "Identity Verification": [
-                    "Trusted data sources",
-                    "Biometric verifications",
-                    "Fraud detection signals"
-                ],
-                "Compliance and Risk Management": [
-                    "Not found"
-                ],
-                "Data Management and Security": [
-                    "Not found"
-                ],
-                "Integration and Automation": [
-                    "Not found"
-                ],
-                "Global Coverage and Support": [
-                    "Not found"
-                ]
-            },
-            "summary": "Onfido offers an AI-powered identity verification solution for digital customer acquisition. Their Real Identity Platform combines trusted data sources, biometric verifications, and fraud detection signals.",
-            "isKYCProvider": true
-        },
-        "Trulioo": {
-            "callToAction": "Not found",
-            "businessModel": "Not found",
-            "usecases": [
-                "Automated identity verification",
-                "Business verification"
-            ],
-            "solutions": [
-                "Automated Identity Verification & Compliance"
-            ],
-            "features": {
-                "Identity Verification": [
-                    "Online document verification",
-                    "Business verification",
-                    "Proof of address verification"
-                ],
-                "Compliance and Risk Management": [
-                    "Not found"
-                ],
-                "Data Management and Security": [
-                    "Not found"
-                ],
-                "Integration and Automation": [
-                    "Not found"
-                ],
-                "Global Coverage and Support": [
-                    "Not found"
-                ]
-            },
-            "summary": "Trulioo offers automated identity verification and compliance solutions with online document verification, business verification, and proof of address verification.",
-            "isKYCProvider": true
         }
     },
-    "www.moodys.com": {
-        "call_to_action": "Request a demo",
-        "business_model": "Moody's Analytics offers end-to-end KYC and AML solutions for businesses, providing data and risk intelligence to help them comply with global anti-money laundering regulations.",
-        "prices": "Not mentioned",
-        "usecases": [
-            "Automate KYC, KYB, & AML activity",
-            "Intelligent screening",
-            "Entity and ownership",
-            "Sanctions compliance",
-            "Perpetual KYC",
-            "Third-party risk management",
-            "Ultimate beneficial owners",
-            "Fraud prevention"
-        ],
-        "solutions": [
-            "Orbis for Compliance",
-            "Kompany KYC API/workspace",
-            "Grid for Screening",
-            "Passfort Lifecycle",
-            "Compliance Catalyst",
-            "Kompany live search",
-            "Sanctions360"
-        ],
-        "key_features": [
-            "Smart risk management and compliance policies",
-            "Automation of KYC & AML processes",
-            "Individual, entity, ownership, and control data",
-            "Screening and perpetual monitoring capabilities",
-            "Case management workspace for team collaboration",
-            "Direct customer communication and document collection"
-        ],
-        "summary": "Moody's Analytics KYC offers end-to-end KYC and AML solutions, providing data and risk intelligence to help businesses comply with global anti-money laundering regulations. Their solutions include Orbis for Compliance, Kompany KYC API/workspace, Grid for Screening, Passfort Lifecycle, Compliance Catalyst, Kompany live search, and Sanctions360. They offer features such as smart risk management, automation of KYC & AML processes, screening capabilities, and direct customer communication.",
-        "is_relevant": true
-    },
-    "codeandpepper.com": {
-        "call_to_action": "Contact Us",
-        "business_model": "KYC service providers offer solutions to verify identity, suitability, and risks involved with customers in the FinTech and financial services industry. They help prevent money laundering activities and comply with global anti-money laundering and anti-terrorism regulations.",
-        "prices": "Not found",
-        "usecases": [
-            "Identity verification",
-            "AML compliance",
-            "Risk assessment",
-            "Customer onboarding",
-            "Document verification"
-        ],
-        "solutions": [
-            "LemonWay",
-            "IDnow",
-            "Shufti Pro"
-        ],
-        "key_features": [
-            "Instant KYC for individual and corporate accounts",
-            "OCR technology for document reading and comparison",
-            "ID verification, video online identification, and digital document signing",
-            "AI-powered identity verification",
-            "AML-compliant verification",
-            "Secure identity verification through bank transfer",
-            "NFC-based identity verification",
-            "Verification of more than 3000 types of identity documents",
-            "Assessment of associated risks",
-            "Criminal and counter-terrorism checks",
-            "Address and age verification",
-            "Geo-location and IP assessment",
-            "Verification of travel documents",
-            "Securely verifying credit/debit cards"
-        ],
-        "summary": "KYC service providers offer solutions to verify identity, suitability, and risks involved with customers in the FinTech and financial services industry. They help prevent money laundering activities and comply with global anti-money laundering and anti-terrorism regulations. Some top KYC service providers include LemonWay, IDnow, and Shufti Pro, offering features such as instant KYC, OCR technology, ID verification, and secure document signing.",
-        "is_relevant": true
-    },
-    "grcoutlook.com": {
-        "call_to_action": "Contact Us",
-        "business_model": "KYC solution providers offer innovative and secure identity verification, anti-money laundering (AML), and know your customer (KYC) compliance solutions. They leverage technologies such as artificial intelligence, biometrics, and trusted data sources to provide powerful yet simple solutions for businesses across various sectors.",
-        "prices": "Not found",
-        "usecases": [
-            "Identity verification",
-            "AML compliance",
-            "KYC compliance",
-            "Risk assessment"
-        ],
-        "solutions": [
-            "Agreement Express",
-            "ComplyCube",
-            "Compulynx",
-            "Jumio",
-            "Socure",
-            "TeleSign",
-            "Ubisecure"
-        ],
-        "key_features": [
-            "Integrated intelligent underwriting solution",
-            "Automated identity verification and compliance",
-            "Digital identity creation and verification",
-            "AI, biometrics, and machine learning for online trust",
-            "Secure digital identity and KYC diligence",
-            "Phone number-based identity verification",
-            "Global digital identity ecosystem",
-            "Standardized and global organization identifier",
-            "Powerful and simple solutions for businesses"
-        ],
-        "is_relevant": true
-    },
-    "ondato.com": {
-        "call_to_action": "Request a demo",
-        "business_model": "The KYC providers offer a range of solutions for identity verification, business onboarding, customer data management, transaction monitoring, due diligence, authentication, virtual branch, AML software, and more. They provide modules for automated identity verification, assisted identity verification, manual identity verification, NFC identity verification, automated business onboarding, assisted business onboarding, manual business onboarding, e-signature authentication, secure remote meetings, biometric authentication, age verification, SMS signature, and sanctions screening and monitoring.",
-        "prices": "Not found",
-        "usecases": [
-            "Identity Verification (KYC)",
-            "Business Onboarding (KYB)",
-            "Customer Data Platform (CDP)",
-            "Transaction Monitoring (KYT)",
-            "Due Diligence",
-            "Authentication",
-            "Virtual Branch",
-            "AML Software"
-        ],
-        "solutions": [
-            "KYC providers"
-        ],
-        "key_features": [
-            "Automated identity verification",
-            "Photo-based IDV",
-            "Assisted identity verification",
-            "Video-based IDV",
-            "Manual identity verification",
-            "NFC-based identity verification",
-            "Automated business onboarding",
-            "Photo-based business verification",
-            "Assisted business onboarding",
-            "Video-based business verification",
-            "Manual business onboarding",
-            "E-signature authentication",
-            "Secure remote meetings",
-            "Biometric authentication",
-            "Age verification",
-            "Document-free authentication",
-            "SMS signature",
-            "Sanctions screening and monitoring"
-        ],
-        "summary": "The KYC providers offer a range of solutions for identity verification, business onboarding, customer data management, transaction monitoring, due diligence, authentication, virtual branch, AML software, and more. They provide modules for automated identity verification, assisted identity verification, manual identity verification, NFC identity verification, automated business onboarding, assisted business onboarding, manual business onboarding, e-signature authentication, secure remote meetings, biometric authentication, age verification, SMS signature, and sanctions screening and monitoring.",
-        "is_relevant": true
-    },
-    "tracxn.com": {
-        "call_to_action": "Schedule Demo",
-        "business_model": "The KYC providers listed offer a range of solutions for customer identification, KYC (Know Your Customer) verification, and AML (Anti-Money Laundering) compliance. They provide services such as customer onboarding, document authorization, fraud prevention, candidate background verification, real-time credit-decisioning, identity verification, and more. These solutions cater to various industries including eCommerce, retail, financial institutions, healthcare, transport, online gaming, and more.",
-        "prices": "Not found",
-        "usecases": [
-            "Customer identification",
-            "KYC verification",
-            "AML compliance",
-            "Candidate background verification",
-            "Real-time credit-decisioning",
-            "Identity verification"
-        ],
-        "solutions": [
-            "Onfido",
-            "Truework",
-            "Perfios",
-            "IDnow",
-            "IDfy"
-        ],
-        "key_features": [
-            "Customer onboarding",
-            "Document authorization",
-            "Fraud prevention",
-            "Candidate background verification",
-            "Real-time credit-decisioning",
-            "Identity verification",
-            "Driver verification",
-            "Age verification",
-            "Document verification",
-            "AI-based facial biometrics",
-            "Transaction monitoring",
-            "Identity and document verification",
-            "API-enabled digital KYC",
-            "E-signature authentication",
-            "Online platform for identity verification",
-            "Deep-learning technology for image verification",
-            "Cloud and AI-based KYC and AML compliance solutions",
-            "Artificial intelligence-based biometric identity and KYC solutions"
-        ],
-        "summary": "The KYC providers listed offer a range of solutions for customer identification, KYC verification, and AML compliance. They provide services such as customer onboarding, document authorization, fraud prevention, candidate background verification, real-time credit-decisioning, identity verification, and more. These solutions cater to various industries including eCommerce, retail, financial institutions, healthcare, transport, online gaming, and more.",
-        "is_relevant": true
-    },
-    "www.pxl-vision.com": {
-        "call_to_action": "Request Now",
-        "business_model": "KYC service providers offer digital KYC solutions to financial institutions, corporations, and online platforms. These SaaS companies enable their clients to convert the time and resources invested into manual KYC procedures to a digital platform that is fast, accurate, and user-friendly. They reduce overhead expenses, decrease customer drop-out rates, strengthen security, and increase ROI. KYC service providers benefit both the client corporation directly and their customers with user-friendly, swift, online or mobile verification processes.",
-        "prices": "Pricing information for KYC service providers is not available.",
-        "usecases": [
-            "Digital Identity Verification",
-            "Customer Onboarding",
-            "Know Your Customer (KYC)",
-            "Age Verification",
-            "Account Onboarding"
-        ],
-        "solutions": [
-            "PXL Ident",
-            "PXL Pro"
-        ],
-        "key_features": [
-            "Advanced AI technology and/or Biometric Facial Recognition technology",
-            "Compliance on an international scale",
-            "Frictionless UX and easy-to-use UI"
-        ],
-        "summary": "KYC service providers offer digital KYC solutions to financial institutions, corporations, and online platforms. These solutions help convert manual KYC procedures to a digital platform that is fast, accurate, and user-friendly. They reduce overhead expenses, decrease customer drop-out rates, strengthen security, and increase ROI. The pricing information for KYC service providers is not available.",
-        "is_relevant": true
-    },
-    "www.blockpass.org": {
-        "call_to_action": "Get Started",
-        "business_model": "Blockpass offers a user-centric, digital KYC solution that is quick, simple, and free to integrate. They provide identity verification services that cover both KYC and AML regulatory compliance. Blockpass offers a multi-product portfolio that allows merchants to choose the scale of solution that applies to each business and jurisdiction. They offer solutions for KYC for payment service providers, KYC for healthcare, customer onboarding, digital identity, KYC for gaming, KYC for hospitality, and more. Blockpass aims to bring efficiency, speed, and privacy to the public and provide a cheap and simple way for the hospitality industry to conduct KYC and verify the identity and credentials of those engaging with their services.",
-        "prices": "Pricing information for Blockpass is not available.",
-        "usecases": [
-            "KYC for Payment Service Providers",
-            "KYC for Healthcare",
-            "Customer Onboarding",
-            "Digital Identity",
-            "KYC for Gaming",
-            "KYC for Hospitality"
-        ],
-        "solutions": [
-            "Blockpass"
-        ],
-        "key_features": [
-            "User-centric, digital KYC solution",
-            "Identity verification",
-            "AML regulatory compliance",
-            "Multi-product portfolio",
-            "Integration options",
-            "Efficiency, speed, and privacy"
-        ],
-        "summary": "Blockpass offers a user-centric, digital KYC solution that is quick, simple, and free to integrate. They provide identity verification services that cover both KYC and AML regulatory compliance. Blockpass offers a multi-product portfolio that allows merchants to choose the scale of solution that applies to each business and jurisdiction. They aim to bring efficiency, speed, and privacy to the public and provide a cheap and simple way for businesses to conduct KYC and verify the identity and credentials of their customers.",
-        "is_relevant": true
-    },
-    "www.signicat.com": {
-        "call_to_action": "Talk to a digital identity expert",
-        "business_model": "Signicat offers a platform to automate AML (Anti Money Laundering) driven KYC (Know Your Customer) and KYB (Know Your Business) processes. They provide a range of products for identity proofing, trust orchestration, authentication, electronic signing, and more. Signicat's platform allows businesses to access various identification methods and international identity data sources to create an automated KYC/KYB process. By using Signicat's platform, businesses can eliminate the burden of managing multiple vendors, reduce costs, and maximize conversion rates for onboarding new customers. Pricing information for Signicat is not available.",
-        "prices": "Pricing information for Signicat is not available.",
-        "usecases": [
-            "AML driven KYC and KYB"
-        ],
-        "solutions": [
-            "Signicat"
-        ],
-        "key_features": [
-            "Automated KYC/KYB process",
-            "Access to identification methods and international identity data sources",
-            "Reliable identity data sources",
-            "Remote identification solutions",
-            "Risk and identity data sources",
-            "KYC and KYB monitoring"
-        ],
-        "summary": "Signicat offers a platform to automate AML driven KYC and KYB processes. They provide a range of products for identity proofing, trust orchestration, authentication, electronic signing, and more. Signicat's platform allows businesses to access various identification methods and international identity data sources to create an automated KYC/KYB process. By using Signicat's platform, businesses can eliminate the burden of managing multiple vendors, reduce costs, and maximize conversion rates for onboarding new customers.",
-        "is_relevant": true
-    },
-    "internationalsales.lexisnexis.com": {
-        "call_to_action": "Talk to our experts",
-        "business_model": "LexisNexis offers a range of products for compliance, research, IP, legal, media intelligence, and data as a service. They provide solutions for Know Your Customer (KYC) compliance, including their product CleverKYC. KYC is the aspect of due diligence that deals with the identity verification of customers. It involves checking personal and business details to exclude negative hits such as sanctions lists, watch lists, and politically exposed persons (PEP) lists. LexisNexis helps companies uncover hidden risks when working with third parties and provides tools for customer due diligence and risk and compliance checks. Pricing information for LexisNexis is not available.",
-        "prices": "Pricing information for LexisNexis is not available.",
-        "usecases": [
-            "KYC: Know Your Customer"
-        ],
-        "solutions": [
-            "LexisNexis"
-        ],
-        "key_features": [
-            "KYC compliance",
-            "Screening business partners",
-            "Customer due diligence",
-            "Risk and compliance checks",
-            "Uncovering hidden risks",
-            "Identifying politically exposed persons (PEP)",
-            "Avoiding economic crime",
-            "Anti-money laundering (AML) measures"
-        ],
-        "summary": "LexisNexis offers a range of products for compliance, research, IP, legal, media intelligence, and data as a service. They provide solutions for Know Your Customer (KYC) compliance, including their product CleverKYC. KYC is the aspect of due diligence that deals with the identity verification of customers. LexisNexis helps companies uncover hidden risks when working with third parties and provides tools for customer due diligence and risk and compliance checks.",
-        "is_relevant": true
-    },
-    "www.mineraltree.com": {
-        "call_to_action": "Request A Demo",
-        "business_model": "MineralTree offers solutions for AP automation and payment optimization for mid-market and enterprise companies. They emphasize the benefits of KYC compliance for payment providers and their customers. KYC regulations require payment providers to conduct due diligence on their customers to protect the national payments system from financial crimes. MineralTree collects business information and social security numbers of beneficial owners during the onboarding process to comply with KYC regulations. They assure the security of customer information through rigorous security policies, procedures, and certifications. Pricing information for MineralTree is not available.",
-        "prices": "Not found",
-        "usecases": [
-            "KYC compliance for payment providers"
-        ],
-        "solutions": [
-            "MineralTree"
-        ],
-        "key_features": [
-            "AP automation and payment optimization",
-            "KYC compliance",
-            "Verification of customer identity",
-            "Protection against financial crimes",
-            "Collection of business information and social security numbers",
-            "Rigorous security policies and procedures",
-            "Security certifications (SOC 1 Type 2, SOC 2 Type 2)"
-        ],
-        "summary": "MineralTree offers solutions for AP automation and payment optimization. They emphasize the benefits of KYC compliance for payment providers and their customers. KYC regulations require payment providers to conduct due diligence on their customers to protect the national payments system from financial crimes. MineralTree collects business information and social security numbers of beneficial owners during the onboarding process to comply with KYC regulations. They assure the security of customer information through rigorous security policies, procedures, and certifications.",
-        "is_relevant": true
-    },
-    "onfido.com": {
-        "call_to_action": "Contact us",
-        "business_model": "Onfido offers a Real Identity Platform that provides flexible, end-to-end identity verification solutions. They emphasize the benefits of automating KYC (know your customer) processes to onboard new customers, detect fraud, and reduce costs. Onfido's platform is powered by AI and offers fair, fast, and accurate identity verification. They offer a Verification Suite that includes document verification, biometric verification, data verification, and fraud detection. Onfido helps businesses address compliance requirements, prevent fraud, and enhance customer trust.",
-        "prices": "Not found",
-        "usecases": [
-            "KYC (know your customer) compliance"
-        ],
-        "solutions": [
-            "Onfido"
-        ],
-        "key_features": [
-            "Real Identity Platform",
-            "Automated KYC identity verification",
-            "Flexible verification and orchestration platform",
-            "Powered by AI (Atlas\u2122)",
-            "Proof of address",
-            "Politically exposed persons (PEPs) and sanctions screening",
-            "Adverse media checks",
-            "Ongoing monitoring",
-            "Verification Suite (document verification, biometric verification, data verification, fraud detection)",
-            "Addressing global KYC compliance needs",
-            "Automating KYC to reduce operational costs",
-            "Local KYC requirements",
-            "Compliance certifications (SOC 2 Type II, ISO 27001)"
-        ],
-        "summary": "Onfido offers a Real Identity Platform that provides flexible, end-to-end identity verification solutions. They emphasize the benefits of automating KYC processes to onboard new customers, detect fraud, and reduce costs. Onfido's platform is powered by AI and offers fair, fast, and accurate identity verification. They offer a Verification Suite that includes document verification, biometric verification, data verification, and fraud detection. Onfido helps businesses address compliance requirements, prevent fraud, and enhance customer trust.",
-        "is_relevant": true
-    },
-    "www.numeracle.com": {
-        "call_to_action": "Contact us",
-        "business_model": "Numeracle offers solutions for KYC vetting and compliance for communications service providers. They provide a comprehensive guide for developing KYC processes and procedures for conducting meaningful customer due diligence. Numeracle's solutions focus on verified identity, number reputation, smart branding, and STIR/SHAKEN. They help businesses operate with integrity, maintain compliance, and protect their brand across omnichannel communications. Numeracle offers solutions for enterprises, brands and businesses, BPO and contact centers, outsourcers and third parties, service providers, VoIP and service providers, gateway providers, and international on-ramps.",
-        "prices": "Not found",
-        "usecases": [
-            "KYC vetting and compliance"
-        ],
-        "solutions": [
-            "Numeracle"
-        ],
-        "key_features": [
-            "Verified identity",
-            "Number reputation",
-            "Smart branding",
-            "STIR/SHAKEN",
-            "Comprehensive guide for KYC processes",
-            "Risk-based approach",
-            "Customer due diligence",
-            "Entity identity management",
-            "Protecting brand across omnichannel communications",
-            "Maintaining compliance",
-            "Adaptable to different business types and risk mitigation policies"
-        ],
-        "summary": "Numeracle offers solutions for KYC vetting and compliance for communications service providers. They provide a comprehensive guide for developing KYC processes and procedures for conducting meaningful customer due diligence. Numeracle's solutions focus on verified identity, number reputation, smart branding, and STIR/SHAKEN. They help businesses operate with integrity, maintain compliance, and protect their brand across omnichannel communications.",
-        "is_relevant": true
-    },
-    "www.encompasscorporation.com": {
-        "call_to_action": "Contact us",
-        "business_model": "Encompass offers a platform for transforming KYC (know your customer) processes with process automation and real-time digital KYC profiles. They provide solutions for KYC onboarding, customer due diligence, enhanced due diligence, KYC remediation and refresh, and perpetual KYC. Encompass partners with global premium data providers to access a wide range of trusted KYC data sources, including official registries, regulators, exchanges, business and corporate information sources, PEPs (politically exposed persons), sanctions, adverse media screening, and identity and document verification. They offer dynamic KYC process automation, global public and premium data, UBO (ultimate beneficial owner) verification, real-time digital KYC profiles, API, dynamic audit trail, and PEP, sanctions, and adverse media screening.",
-        "prices": "Not found",
-        "usecases": [
-            "KYC onboarding",
-            "Customer due diligence",
-            "Enhanced due diligence",
-            "KYC remediation and refresh",
-            "Perpetual KYC"
-        ],
-        "solutions": [
-            "Encompass"
-        ],
-        "key_features": [
-            "Dynamic KYC process automation",
-            "Global public and premium data",
-            "UBO verification",
-            "Real-time digital KYC profiles",
-            "API",
-            "Dynamic audit trail",
-            "PEP, sanctions, and adverse media screening",
-            "KYC onboarding",
-            "Customer due diligence",
-            "Enhanced due diligence",
-            "KYC remediation and refresh",
-            "Perpetual KYC"
-        ],
-        "summary": "Encompass offers a platform for transforming KYC processes with process automation and real-time digital KYC profiles. They provide solutions for KYC onboarding, customer due diligence, enhanced due diligence, KYC remediation and refresh, and perpetual KYC. Encompass partners with global premium data providers to access a wide range of trusted KYC data sources. They offer dynamic KYC process automation, global public and premium data, UBO verification, real-time digital KYC profiles, API, dynamic audit trail, and PEP, sanctions, and adverse media screening.",
-        "is_relevant": true
-    },
-    "www.swift.com": {
-        "call_to_action": "Contact us",
-        "business_model": "Swift is a global member-owned cooperative and the world's leading provider of secure financial messaging services. They offer solutions for global financial messaging, interfaces and integration, compliance and shared services, market infrastructures, and Swift for corporates. Swift's solutions enable secure and reliable financial transactions, connectivity, integration, compliance with financial crime regulations, and efficient operations for financial institutions and corporates. They provide messaging solutions for payments, securities, trade finance, and FX and treasury. Swift also offers a range of services, including support and care services, training, professional services, and Swift Smart.",
-        "prices": "Not found",
-        "usecases": [
-            "Global financial messaging",
-            "Interfaces and integration",
-            "Compliance and shared services",
-            "Market infrastructures",
-            "Swift for corporates"
-        ],
-        "solutions": [
-            "Swift"
-        ],
-        "key_features": [
-            "Secure financial messaging",
-            "Global financial messaging",
-            "Interfaces and integration",
-            "Compliance and shared services",
-            "Market infrastructures",
-            "Swift for corporates",
-            "Payments",
-            "Securities",
-            "Trade finance",
-            "FX and treasury",
-            "Support and care services",
-            "Training",
-            "Professional services",
-            "Swift Smart"
-        ],
-        "summary": "Swift is a global member-owned cooperative and the world's leading provider of secure financial messaging services. They offer solutions for global financial messaging, interfaces and integration, compliance and shared services, market infrastructures, and Swift for corporates. Swift's solutions enable secure and reliable financial transactions, connectivity, integration, compliance with financial crime regulations, and efficient operations for financial institutions and corporates.",
-        "is_relevant": true
-    },
-    "knowyourcustomer.com": {
-        "call_to_action": "Request a demo",
-        "business_model": "Know Your Customer (KYC) is a provider of KYC solutions for businesses in various industries, including banking, payments, corporate services, and real estate. They offer three main products: KYC Workspace, KYC Data, and KYC Review. KYC Workspace allows businesses to transform compliance into a fully digital function with automation. KYC Data provides real-time registry access and high-quality data for enhanced business protection. KYC Review ensures continuous compliance with perpetual KYC refreshes and AML screening. Know Your Customer serves clients globally and offers exceptional customer support.",
-        "prices": "Not found",
-        "usecases": [
-            "Corporate onboarding",
-            "KYC compliance",
-            "Due diligence"
-        ],
-        "solutions": [
-            "KYC Workspace",
-            "KYC Data",
-            "KYC Review"
-        ],
-        "key_features": [
-            "Seamless compliance",
-            "Modular design",
-            "Digital function with automation",
-            "Real-time registry access",
-            "High-quality data",
-            "Continuous compliance",
-            "Perpetual KYC refreshes",
-            "AML screening",
-            "Exceptional customer support"
-        ],
-        "summary": "Know Your Customer (KYC) is a provider of KYC solutions for businesses in various industries. They offer three main products: KYC Workspace, KYC Data, and KYC Review. KYC Workspace allows businesses to transform compliance into a fully digital function with automation. KYC Data provides real-time registry access and high-quality data. KYC Review ensures continuous compliance with perpetual KYC refreshes and AML screening. Know Your Customer serves clients globally and offers exceptional customer support.",
-        "is_relevant": true
-    },
-    "authbridge.com": {
-        "call_to_action": "Get in touch",
-        "business_model": "AuthBridge is a provider of KYC solutions for instant identity verification. They offer a range of solutions for various industries, including banking, financial services, gaming, e-commerce, insurance, healthcare, and more. AuthBridge's KYC solutions enable seamless onboarding and verification processes, reducing costs and improving customer experience. They offer services such as white-collar verification, blue-collar verification, AML solution, digital address verification, risk management, and more. AuthBridge also provides a range of products, including iBRIDGE, OnboardX, TruthScreen, SignDrive, AuthLead, WorkAttest, and Vault.",
-        "prices": "Not found",
-        "usecases": [
-            "Customer onboarding",
-            "Identity verification",
-            "Fraud detection",
-            "Risk management"
-        ],
-        "solutions": [
-            "KYC Solutions",
-            "AML Solution",
-            "Digital Address Verification",
-            "Risk Management"
-        ],
-        "key_features": [
-            "Seamless KYC experience",
-            "Fraud detection with AI",
-            "Reduce onboarding and verification costs",
-            "Stay compliant with audited reports",
-            "Video KYC",
-            "Digital KYC",
-            "Electronic KYC",
-            "Central KYC",
-            "Instant verification APIs",
-            "Powering KYC technologies for 30+ industries"
-        ],
-        "summary": "AuthBridge is a provider of KYC solutions for instant identity verification. They offer a range of solutions for various industries, including banking, financial services, gaming, e-commerce, insurance, healthcare, and more. AuthBridge's KYC solutions enable seamless onboarding and verification processes, reducing costs and improving customer experience.",
-        "is_relevant": true
-    },
-    "www.kyckr.com": {
-        "call_to_action": "Request a Demo",
-        "business_model": "Kyckr is a provider of KYC solutions for businesses in various industries, including banking, payment providers, legal firms, consultancies, and more. They offer a range of solutions, including entity verification, data cleanse, know your business, and monitoring. Kyckr's solutions help businesses simplify customer onboarding, automate data cleansing, access global company information, and monitor companies in real-time. They provide access to primary source company data from over 300+ corporate registries across 100 countries. Kyckr is trusted by many of the world's top banks, payment providers, legal firms, and consultancies.",
-        "prices": "Not found",
-        "usecases": [
-            "Customer onboarding",
-            "Entity verification",
-            "Data cleansing",
-            "Know your business",
-            "Monitoring"
-        ],
-        "solutions": [
-            "Entity Verification",
-            "Data Cleanse",
-            "Know Your Business",
-            "Monitoring"
-        ],
-        "key_features": [
-            "Seamless B2B customer sign-up and verification",
-            "Automated data cleansing with primary source information",
-            "Instant access to global primary source company profiles and registry documents",
-            "Real-time monitoring of companies",
-            "Access to over 300+ corporate registries across 100 countries",
-            "Trusted by top banks, payment providers, legal firms, and consultancies"
-        ],
-        "summary": "Kyckr is a provider of KYC solutions for businesses in various industries. They offer a range of solutions, including entity verification, data cleanse, know your business, and monitoring. Kyckr's solutions help businesses simplify customer onboarding, automate data cleansing, access global company information, and monitor companies in real-time.",
-        "is_relevant": true
-    },
-    "www.celent.com": {
-        "call_to_action": "Sign up to activate this filter",
-        "business_model": "Celent provides a vendor directory and research platform to find KYC solutions available to financial institutions. KYC, or Know Your Customer, is the process of a business verifying the identity of their clients and assessing the potential risks of illegal intentions for a business relationship. Celent offers reports and RFIs to analyze the market for KYC solutions and evaluate their features. They have a range of vendors listed in their directory, offering various KYC solutions for different target markets and geographic availability.",
-        "prices": "Not found",
-        "usecases": [
-            "Customer onboarding",
-            "Identity verification",
-            "Risk assessment"
-        ],
-        "solutions": [
-            "KYC Systems"
-        ],
-        "key_features": [
-            "Complete lifecycle coverage",
-            "Intelligent process automation",
-            "Access to customer, account, and transaction data",
-            "KYC due diligence on demand",
-            "Access to global company information",
-            "Automated customer screening",
-            "AML compliance",
-            "Risk profiling and assessment",
-            "Account opening checklist workflow",
-            "Multi-currency and multi-lingual support",
-            "Flexible deployment options",
-            "Support for multiple operating systems and databases",
-            "Integration with other systems",
-            "Various funding stages"
-        ],
-        "summary": "Celent provides a vendor directory and research platform to find KYC solutions available to financial institutions. KYC is the process of verifying the identity of clients and assessing the potential risks of illegal intentions. Celent offers reports and RFIs to analyze the market for KYC solutions and evaluate their features.",
-        "is_relevant": true
-    },
-    "www.trulioo.com": {
-        "call_to_action": "Book a Demo",
-        "business_model": "Trulioo offers a global identity platform that provides solutions for identity verification, document verification, utility data, watchlist screening, business verification, and integrations. They cater to various industries such as banking, cryptocurrency, forex, marketplaces, online trading, payments, and wealth management. Trulioo's solutions are used for customer onboarding, business onboarding, regulatory compliance, trust and safety, global expansion, and digital identity verification.",
-        "prices": "Not found",
-        "usecases": [
-            "Customer Onboarding",
-            "Business Onboarding",
-            "Regulatory Compliance",
-            "Trust & Safety",
-            "Global Expansion",
-            "Digital Identity Verification"
-        ],
-        "solutions": [
-            "Identity Platform",
-            "Identity Verification",
-            "Document Verification",
-            "Utility Data",
-            "Watchlist Screening",
-            "Business Verification",
-            "Integrations"
-        ],
-        "key_features": [
-            "Global identity platform",
-            "Customizable workflows",
-            "API integration",
-            "Real-time analytics",
-            "Person match",
-            "Identity document verification",
-            "Business verification",
-            "Global watchlist screening",
-            "Utility data for proof of address",
-            "Industry-specific solutions",
-            "Compliance with KYC and AML regulations",
-            "Risk mitigation and fraud prevention",
-            "Trusted by leading companies",
-            "Access to 450+ global data sources",
-            "Coverage of 195 countries",
-            "Support for 13,000+ document types"
-        ],
-        "summary": "Trulioo offers a global identity platform with solutions for identity verification, document verification, utility data, watchlist screening, business verification, and integrations. They cater to various industries and use cases, helping businesses with customer onboarding, regulatory compliance, and global expansion.",
-        "is_relevant": true
-    },
-    "www.idology.com": {
-        "call_to_action": "Request a Demo",
-        "business_model": "IDology offers solutions for identity verification, data verification, document authentication, selfie ID verification, dynamic KBA, KYC/AML regulatory compliance, know your business (KYB), sanctions screening, transaction monitoring, and fraud management. They cater to various industries such as finance, banking & payments, fintech, lending, insurance, cryptocurrencies, gaming, gambling & lottery, government & border control, healthcare, retail, sharing economy & telcos, travel, hospitality & entertainment, and automotive & transportation. IDology's solutions help businesses with contactability, onboarding & new account opening, age verification, KYC/AML compliance, digital identity, step-up authentication & reverification, and KBA enhancement & replacement.",
-        "prices": "Not found",
-        "usecases": [
-            "Contactability",
-            "Onboarding & New Account Opening",
-            "Age Verification",
-            "KYC/AML & Regulatory Compliance",
-            "Digital Identity",
-            "Step-Up Authentication & Reverification",
-            "KBA Enhancement & Replacement"
-        ],
-        "solutions": [
-            "Identity Verification",
-            "Data Verification",
-            "Document Authentication",
-            "Selfie ID Verification",
-            "Dynamic KBA",
-            "KYC/AML Regulatory Compliance",
-            "Know Your Business (KYB)",
-            "Sanctions Screening",
-            "Transaction Monitoring",
-            "Fraud Management"
-        ],
-        "key_features": [
-            "Smarter, multi-layered identity verification",
-            "Automated identity verification using data, documents, and biometrics",
-            "Streamlined processes for KYC compliance",
-            "Fraud management with proprietary machine learning and human oversight",
-            "Customizable workflows",
-            "Seamless step-up authentication",
-            "Reverification without friction",
-            "Always-on risk monitoring",
-            "Proven global provider with 20+ years of experience",
-            "End-to-end solutions for front-end to back",
-            "Extensive global coverage with billions of data records",
-            "Omnichannel deployment options",
-            "Personalized support"
-        ],
-        "summary": "IDology offers solutions for identity verification, data verification, document authentication, selfie ID verification, dynamic KBA, KYC/AML regulatory compliance, know your business (KYB), sanctions screening, transaction monitoring, and fraud management. They cater to various industries and use cases, helping businesses with contactability, onboarding, age verification, and digital identity.",
-        "is_relevant": true
-    },
     "www.coincover.com": {
-        "call_to_action": "Get Started",
-        "business_model": "Coincover offers blockchain protection solutions for access protection, asset protection, and seed phrase protection. They cater to various industries such as institutional crypto services, exchanges, infrastructure and development, and custody and wallet services. Coincover's solutions provide protection against hackers, fraud, and human error, ensuring the safety of digital assets. They have a global partner network and offer seamless integration with business operations.",
-        "prices": "Not found",
-        "usecases": [
+        "callToAction": "Contact us",
+        "businessModel": "Coincover offers blockchain protection solutions and services to businesses and individuals. They generate revenue through the sale of their products and services.",
+        "useCases": [
+            "Access Protection",
+            "Asset Protection",
+            "Seed Phrase Protection",
             "Institutional Crypto Services",
             "Exchanges",
             "Infrastructure and Development",
             "Custody and Wallet Services"
         ],
         "solutions": [
-            "Access Protection",
-            "Asset Protection",
-            "Seed Phrase Protection"
+            "Access Protection: Coincover provides encrypted, military-grade storage to help users rapidly and securely recover access to their digital assets in case of disaster.",
+            "Asset Protection: Coincover proactively screens and protects transactions to prevent malicious hacking and theft. Their technology is underwritten at Lloyds of London, offering potential compensation in case of loss.",
+            "Seed Phrase Protection: Coincover offers solutions to protect seed phrases, which are used to recover access to cryptocurrency wallets. This helps prevent loss of access and potential theft.",
+            "Institutional Crypto Services: Coincover provides services tailored for asset managers, helping them mitigate against a single point of failure and the risk of lost access funds.",
+            "Exchanges: Coincover helps exchanges promote trust and safety in the mass adoption of digital currencies.",
+            "Infrastructure and Development: Coincover offers additional layers of protection for infrastructure and development projects, ensuring the security of blockchain technology.",
+            "Custody and Wallet Services: Coincover provides custody and wallet services with military-grade protection to ensure the safety of digital assets."
         ],
-        "key_features": [
-            "Trusted expert protection",
-            "Seamless integration",
-            "Protection against hackers, fraud, and human error",
-            "Complete blockchain protection",
-            "Build something bigger with Coincover",
-            "Trusted by 300+ partners worldwide",
-            "Over $30 billion transactions checked",
-            "Over 5 million protected crypto wallets"
-        ],
-        "summary": "Coincover offers blockchain protection solutions for access protection, asset protection, and seed phrase protection. They cater to various industries and provide trusted expert protection against hackers, fraud, and human error.",
-        "is_relevant": true
+        "keyFeatures": {
+            "cluster1": {
+                "Identity Verification": [
+                    "Identity proofing",
+                    "Flexible user verification",
+                    "AI-powered identity verification",
+                    "Phone number-based identity verification",
+                    "ID document verification",
+                    "Biometrics and data protection",
+                    "OCR technology for document reading and comparison",
+                    "Liveness and Face Match verification",
+                    "Manual identity verification",
+                    "Secure identity verification through bank transfer",
+                    "Video KYC",
+                    "Digital identity creation and verification",
+                    "Assisted identity verification",
+                    "Instant KYC for individual and corporate accounts",
+                    "Electronic KYC",
+                    "E-signature authentication",
+                    "Face verification",
+                    "Document authorization",
+                    "Verification of travel documents",
+                    "Secure verification of identity",
+                    "3D liveness detection"
+                ]
+            },
+            "cluster2": {
+                "Compliance and Risk Management": [
+                    "Boosting sanctions compliance",
+                    "Compliance management",
+                    "Compliance with regulatory requirements",
+                    "AML screening",
+                    "RegTech solutions for AML programs and compliance",
+                    "AML and transaction monitoring",
+                    "Fraud detection with AI",
+                    "Fraud prevention",
+                    "Risk transactions identification",
+                    "Risk and compliance services",
+                    "Enhanced due diligence",
+                    "Customizable compliance solutions",
+                    "Continuous compliance",
+                    "Risk assessments based on intelligent data",
+                    "Geo-location and IP assessment",
+                    "Enhanced risk management",
+                    "Sanctions screening and monitoring",
+                    "PEP, sanctions, and adverse media screening",
+                    "Always-on risk monitoring",
+                    "Risk assessment",
+                    "Targeting risk typologies",
+                    "Configurable rules for screening and monitoring",
+                    "Risk-based approach",
+                    "Fraud management with proprietary machine learning and human oversight",
+                    "Automated identity verification and compliance",
+                    "24/7 human supervision",
+                    "KYC / AML / Accreditation Check",
+                    "Non-documentary checks via government databases",
+                    "Compliance with regulations",
+                    "Automatic credit assessment and bankruptcy notification",
+                    "Reduced dependencies on platform operators",
+                    "Anti-money laundering (AML) measures",
+                    "Cloud migration and modernization",
+                    "Security sentiment analysis"
+                ]
+            },
+            "cluster3": {
+                "Data Management and Security": [
+                    "Customers retain full control of their private data",
+                    "Maintain a secure paper trail of all documents",
+                    "Data enrichment",
+                    "Secure data management",
+                    "Secure and private identity",
+                    "Secure storage and management of digital identity",
+                    "Data security",
+                    "Patented data management",
+                    "Centralized investment management",
+                    "Secure remote meetings",
+                    "Protection against hackers, fraud, and human error",
+                    "Rigorous security policies and procedures",
+                    "Blockchain security audit",
+                    "DSGVO compliant",
+                    "Efficiency, speed, and privacy",
+                    "24/7 human supervision"
+                ]
+            },
+            "cluster4": {
+                "Integration and Automation": [
+                    "Powerful APIs and applications",
+                    "Flexible workflow builder",
+                    "Cloud and AI-based KYC and AML compliance solutions",
+                    "Integration with existing infrastructure",
+                    "Integration via Web SDK, Mobile SDK, or RESTful API",
+                    "Integration with other systems",
+                    "Modular design",
+                    "Easy integration",
+                    "Interfaces and integration",
+                    "Customizable workflows",
+                    "Access to top compliance experts",
+                    "Automation and machine process automation",
+                    "Automation",
+                    "Efficiency and performance improvements",
+                    "Time-saving automation",
+                    "Cloud migration and modernization",
+                    "Integrations with existing systems"
+                ]
+            },
+            "cluster5": {
+                "Global Coverage and Support": [
+                    "Support for 13,000+ document types",
+                    "Strong presence in Europe",
+                    "Trusted by 300+ partners worldwide",
+                    "Access to over 300+ corporate registries across 100 countries",
+                    "Extensive global coverage with billions of data records",
+                    "Coverage of 195 countries",
+                    "Trusted by top banks, payment providers, legal firms, and consultancies",
+                    "Engaged community in multiple countries"
+                ]
+            }
+        },
+        "summary": "Coincover is a blockchain protection company that offers solutions and services to protect digital assets. They provide access protection, asset protection, and seed phrase protection. They also offer institutional crypto services, exchanges, infrastructure and development solutions, and custody and wallet services. Coincover's key features include identity verification, compliance and risk management, data management and security, integration and automation, and global coverage and support. They have a strong presence in Europe and are trusted by top banks, payment providers, legal firms, and consultancies. Coincover's solutions provide complete protection and help businesses and individuals grow without constraints in the blockchain industry.",
+        "isKYCProvider": false,
+        "pricesAndPlans": "Coincover does not provide specific pricing information on their website. For pricing details, it is recommended to contact their sales team."
     },
     "kyc-chain.com": {
-        "call_to_action": "Book a Demo",
-        "business_model": "KYC-Chain offers a global turn-key compliance solution for KYC and AML processes. They provide an all-in-one workflow solution to verify customers' identities, streamline the KYC onboarding process, and manage the entire customer lifecycle. KYC-Chain offers individual and corporate KYC, identity and verification, KYC and AML checks, crypto wallet AML, access to the SelfKey Network, and a flexible and scalable solution. They cater to various industries and help businesses comply with global, local, and future regulations.",
-        "prices": "Not found",
-        "usecases": [
-            "Individual and Corporate KYC",
-            "Identity and Verification",
-            "KYC and AML Checks",
-            "Crypto Wallet AML",
-            "Access SelfKey Network",
-            "Flexible and Scalable"
-        ],
-        "solutions": [
-            "KYC WorkFlow",
-            "Corporate KYC",
-            "AML Screening",
-            "ID Verification",
-            "Crypto AML",
-            "Accredited Investor",
-            "SelfKey Network",
-            "SelfKey Compliance Hub"
-        ],
-        "key_features": [
-            "Streamline customer experience",
-            "Efficient review and processing of KYC applications",
-            "Data security and ownership",
-            "Flexible and scalable solution",
-            "Worldwide coverage",
-            "Reduce time and effort per KYC check",
-            "Robust KYC framework",
-            "Integrated and simple-to-use platform",
-            "Automation and machine process automation",
-            "Focus on risk assessment and onboarding customers",
-            "Proprietary Multi-Scope and Corporate Visualization tools",
-            "RegTech solutions for AML programs and compliance",
-            "Overview of UK's KYC and AML rules",
-            "Read case studies",
-            "Subscribe to regulatory newsletter"
-        ],
-        "summary": "KYC-Chain offers a global turn-key compliance solution for KYC and AML processes. They provide an all-in-one workflow solution to verify customers' identities, streamline the KYC onboarding process, and manage the entire customer lifecycle. KYC-Chain helps businesses comply with global, local, and future regulations.",
-        "is_relevant": true
+        "KYC-Chain": {
+            "callToAction": "GET A DEMO",
+            "businessModel": "KYC-Chain offers a turn-key compliance solution for businesses to verify customer identities, streamline KYC onboarding processes, and manage the customer lifecycle. They earn revenue through their services and solutions.",
+            "usecases": [
+                "Individual and Corporate KYC",
+                "Identity and Verification",
+                "KYC and AML Checks",
+                "Crypto Wallet AML",
+                "Access SelfKey Network",
+                "Flexible and Scalable"
+            ],
+            "solutions": [
+                "Identity Documents Verification",
+                "Global sanctions and watchlists screening",
+                "Crypto wallet transaction analysis",
+                "Blockchain-based tokenized KYC approach",
+                "Customizable solution with GDPR compliance",
+                "Integration with applications through RESTful API",
+                "High volume checks handling"
+            ],
+            "keyFeatures": {
+                "Identity Verification": [
+                    "KYC WorkFlow",
+                    "Corporate KYC",
+                    "AML Screening",
+                    "ID Verification",
+                    "Crypto AML",
+                    "Accredited Investor",
+                    "SelfKey Network",
+                    "SelfKey Compliance Hub"
+                ]
+            },
+            "summary": "KYC-Chain is a global turn-key compliance solution that offers an all-in-one workflow solution for verifying customer identities, streamlining KYC onboarding processes, and managing the entire customer lifecycle. They provide individual and corporate KYC services, identity verification, KYC and AML checks, crypto wallet AML analysis, and access to the SelfKey Network. KYC-Chain offers flexible and scalable solutions that can be customized to meet specific requirements, including GDPR compliance and integration with existing applications through RESTful API. They have a strong focus on compliance with global, local, and future regulations.",
+            "isKYCProvider": true,
+            "pricesAndPlans": "KYC-Chain does not provide specific pricing information on their website. Interested customers are encouraged to request a demo to discuss pricing and plans."
+        }
     },
-    "www.synaps.io": {
-        "call_to_action": "Book a demo",
-        "business_model": "Synaps provides identity verification solutions for the crypto industry. They offer a gradual identification flow that addresses various identity and compliance challenges while maintaining privacy-friendly practices. Synaps helps businesses find the right balance between compliance and data privacy by offering solutions for confirming humanity, certifying uniqueness, leveraging custom claims, and verifying ID documents. They have achieved significant milestones in supported fundraising, private sales, and global reach. Synaps offers dID compatibility, custom identification flows, full compliance with legal experts, and high-security measures.",
-        "prices": "Not found",
-        "usecases": [
-            "Proof of Personhood",
-            "KYC and AML",
-            "KYB"
-        ],
-        "solutions": [
-            "KYC",
-            "KYB",
-            "Proof of Personhood"
-        ],
-        "key_features": [
-            "Gradual identification flow",
-            "Compliance with regulations",
-            "Elimination of bots",
-            "Identification of unique users",
-            "Custom identity solutions",
-            "Highest pass rates worldwide",
-            "Proof of Personhood for users and customers",
-            "Onboarding and identification for businesses",
-            "Latest news and thoughts on digital identity"
-        ],
-        "summary": "Synaps provides identity verification solutions for the crypto industry. They offer a gradual identification flow that addresses various identity and compliance challenges while maintaining privacy-friendly practices. Synaps helps businesses find the right balance between compliance and data privacy.",
-        "is_relevant": true
-    },
-    "www.listingsproject.com": {
-        "call_to_action": "Donate Now",
-        "business_model": "Listings Project is a community-driven platform that offers free, carefully vetted real estate, job, and services offered listings on a weekly basis. They provide personal correspondence with listers and offer feedback on listings to ensure they are personal, thoughtful, and easy to understand. Listings Project supports artists, creatives, and diverse groups of people, and is committed to building a justice-focused community rooted in equity and inclusion. In honor of their 20th anniversary, Listings Project is raising funds for change-making housing justice organizations.",
-        "prices": "Not found",
-        "usecases": [
-            "Real estate listings",
-            "Job listings",
-            "Services offered listings"
-        ],
-        "solutions": [
-            "Real estate",
-            "Jobs",
-            "Services offered"
-        ],
-        "key_features": [
-            "Free, carefully vetted listings",
-            "Personal correspondence with listers",
-            "Feedback on listings",
-            "Support for artists and creatives",
-            "Commitment to justice and equity",
-            "Community-driven platform",
-            "Weekly publication of new listings",
-            "Engaged community in multiple countries"
-        ],
-        "summary": "Listings Project is a community-driven platform that offers free, carefully vetted real estate, job, and services offered listings. They support artists, creatives, and diverse groups of people, and are committed to building a justice-focused community rooted in equity and inclusion.",
-        "is_relevant": true
-    },
-    "www.mtpelerin.com": {
-        "call_to_action": "Get Bridge Wallet",
-        "business_model": "Mt Pelerin is a Swiss gateway to the crypto world, offering services such as buying, selling, and swapping cryptocurrencies. They provide a crypto super-app called Bridge Wallet, which allows users to invest and manage their cryptoassets from their phone with total control over their funds. Mt Pelerin offers a wide range of cryptocurrencies for purchase, exchange, and sale, with easy onboarding and cash-out options. They also provide business services such as crypto-fiat integration, asset tokenization, security token offerings, and OTC services. Mt Pelerin is trusted by many and aims to make the financial revolution driven by digital assets accessible to all.",
-        "prices": "Not found",
-        "usecases": [
-            "Buying cryptocurrencies",
-            "Selling cryptocurrencies",
-            "Swapping cryptocurrencies",
-            "Wallet management",
-            "Crypto-fiat integration",
-            "Asset tokenization",
-            "Security token offerings",
-            "OTC services"
-        ],
-        "solutions": [
-            "Bridge Wallet",
-            "Crypto OTC brokerage",
-            "Crypto-fiat integration",
-            "Asset tokenization",
-            "Security token offerings"
-        ],
-        "key_features": [
-            "Buy, sell, and swap cryptocurrencies",
-            "Easy onboarding",
-            "Cash out funds to bank accounts in 171 countries",
-            "Crypto super-app with total control over funds",
-            "Wide range of cryptocurrencies available",
-            "Business services for crypto-fiat integration and tokenization",
-            "Trusted and reliable platform",
-            "Support for security token offerings",
-            "OTC brokerage services",
-            "Integration options for projects"
-        ],
-        "summary": "Mt Pelerin is a Swiss gateway to the crypto world, offering services such as buying, selling, and swapping cryptocurrencies. They provide a crypto super-app called Bridge Wallet and offer business services for crypto-fiat integration and tokenization. Mt Pelerin aims to make the financial revolution driven by digital assets accessible to all.",
-        "is_relevant": true
-    },
-    "shuftipro.com": {
-        "call_to_action": "Request Demo",
-        "business_model": "The website does not provide specific information about their business model or pricing.",
-        "prices": "Not found",
-        "usecases": [
-            "Account Opening",
+    "www.jumio.com": {
+        "callToAction": "Request a Demo",
+        "businessModel": "Jumio offers a range of identity verification solutions and services to businesses across various industries. They earn revenue by providing their platform and products to customers on a subscription or usage-based pricing model.",
+        "useCases": [
             "User Onboarding",
-            "Document Verification",
-            "KYC Screening",
-            "AML Screening",
-            "Age Verification",
-            "Biometric Authentication",
-            "Fraud Prevention",
-            "Business Verification",
-            "Case Management",
-            "Investor Verification",
-            "Proof of Address",
-            "Digitisation"
-        ],
-        "solutions": [
-            "KYC - Identity Verification",
-            "e-IDV",
-            "KYB - Corporate Verification",
-            "KYI - Investor Verification",
-            "Risk Assessment",
-            "AML Screening",
-            "OCR for Business",
-            "Hosting Verification",
-            "NFC Verification"
-        ],
-        "key_features": [
-            "Face verification",
-            "Document verification",
-            "Address verification",
-            "2 Factor Authentication",
-            "Face bio authentication",
-            "Video KYC",
-            "EDD",
-            "e-IDV",
-            "AML Screening",
-            "OCR for business",
-            "Hosting Verification",
-            "NFC Verification"
-        ],
-        "summary": "Shufti Pro is a global trust platform that offers identity verification solutions for various industries such as banking, fintech, crypto, forex, gaming, insurance, and more. Their solutions include KYC - Identity Verification, e-IDV, KYB - Corporate Verification, KYI - Investor Verification, Risk Assessment, AML Screening, OCR for Business, Hosting Verification, and NFC Verification. They provide features such as face verification, document verification, address verification, 2 Factor Authentication, and more. Shufti Pro aims to provide highly-configurable, fast, and accurate verification, screening, and monitoring services.",
-        "is_relevant": true
-    },
-    "digishares.io": {
-        "call_to_action": "Contact Us",
-        "business_model": "The website does not provide specific information about their business model or pricing.",
-        "prices": "Not found",
-        "usecases": [
-            "Tokenization of Real World Assets",
-            "Real Estate Tokenization",
-            "Tokenization & ESG"
-        ],
-        "solutions": [
-            "Issuer Dashboard",
-            "Investor Dashboard",
-            "Share Cap Table Management",
-            "Automation of Compliance & Governance Processes via Smart Contracts",
-            "Payment of Dividends (Crypto or Fiat)",
-            "Shareholder Meetings and Voting System",
-            "Fractionalization of Asset Ownership",
-            "Asset Tokenization Engine",
-            "Freezing / Renewal of Lost Security Tokens",
-            "Digital Transfer Agent (US)",
-            "KYC / AML / Accreditation Check",
-            "E-signature",
-            "Custodial or Self-custodial Wallet Connections",
-            "Share Purchases (Crypto or Fiat)",
-            "Status of Portfolio & ROI",
-            "Investor Forum",
-            "Peer-to-peer Trading Module",
-            "Atomic Swap Smart Contracts"
-        ],
-        "key_features": [
-            "Tokenization of Real World Assets",
-            "Real Estate Tokenization",
-            "Automation of Compliance & Governance Processes",
-            "Payment of Dividends",
-            "Shareholder Meetings and Voting System",
-            "Fractionalization of Asset Ownership",
-            "Asset Tokenization Engine",
-            "KYC / AML / Accreditation Check",
-            "E-signature",
-            "Custodial or Self-custodial Wallet Connections",
-            "Share Purchases",
-            "Status of Portfolio & ROI",
-            "Investor Forum",
-            "Peer-to-peer Trading Module",
-            "Atomic Swap Smart Contracts"
-        ],
-        "summary": "DigiShares is a platform that enables the tokenization of real-world assets, with a focus on real estate. They offer solutions such as issuer and investor dashboards, share cap table management, automation of compliance and governance processes, payment of dividends, shareholder meetings and voting system, fractionalization of asset ownership, asset tokenization engine, freezing/renewal of lost security tokens, digital transfer agent services, KYC/AML/accreditation checks, e-signature, custodial or self-custodial wallet connections, share purchases, status of portfolio and ROI, investor forum, peer-to-peer trading module, and atomic swap smart contracts. DigiShares aims to provide a platform that lowers barriers, enables trading, automates compliance and governance processes, and provides transparency for investments in real estate and other real-world assets.",
-        "is_relevant": true
-    },
-    "www.complycube.com": {
-        "call_to_action": "Start now",
-        "business_model": "ComplyCube offers flexible identity verification pricing and KYC services designed to fit businesses of all sizes. They have different pricing plans such as Starter, Standard, and Premium, with varying features and check limits. The pricing starts at $0.10 per credit for the Starter plan and goes up to $449 per month for the Premium plan. They also offer a free trial and provide features such as AML screening, document verification, identity assurance, enhanced identity checks, multi-bureau checks, proof of address checks, and more.",
-        "prices": {
-            "Starter": "$0.10 per credit",
-            "Standard": "$159 per month",
-            "Premium": "$449 per month"
-        },
-        "usecases": [
-            "Customer onboarding",
-            "Age verification",
-            "Fraud prevention",
-            "Ongoing due diligence",
-            "Know your business"
-        ],
-        "solutions": [
-            "AML screening",
-            "Identity assurance",
-            "Due diligence"
-        ],
-        "key_features": [
-            "Standard AML screening",
-            "Extensive AML screening",
-            "Document check",
-            "Identity & liveness check",
-            "Enhanced identity check",
-            "Multi-bureau check (US)",
-            "Multi-bureau check (Global)",
-            "Proof of address check",
-            "Age estimation check",
-            "Face authentication",
-            "Face enrolment",
-            "Basic KYB",
-            "Case management",
-            "Omni-channel access"
-        ],
-        "summary": "ComplyCube is a global identity verification service that offers powerful online identity verification and KYC solutions. Their AI platform verifies customers' identities in seconds through ID documents, selfies, and trusted data sources. They provide solutions such as AML screening, identity assurance, and due diligence. ComplyCube offers flexible pricing plans, starting from $0.10 per credit for the Starter plan and going up to $449 per month for the Premium plan. They cater to various use cases such as customer onboarding, age verification, fraud prevention, ongoing due diligence, and know your business.",
-        "is_relevant": true
-    },
-    "www.vertalo.com": {
-        "call_to_action": "Request a Demo",
-        "business_model": "Vertalo offers a platform for private asset management, including cap table management, transfer agent services, and digital assets. They provide solutions for issuers, broker-dealers, and transfer agents. Vertalo aims to transform the private asset ownership experience by enabling stakeholders to find buyers for their shares through their digital transfer agent platform. They offer features such as centralized investment management, maximized secondary liquidity, optional tokenization, and easy data management. Vertalo's platform allows companies to create and control their market, maximize liquidity, tokenize assets, and manage data efficiently. They provide an API-first architecture and offer partnerships with custodial, issuance, and exchange platforms. However, specific information about their business model or pricing is not provided.",
-        "prices": {},
-        "usecases": [
-            "Private asset management",
-            "Cap table management",
-            "Secondary liquidity",
-            "Tokenization",
-            "Data management"
-        ],
-        "solutions": [
-            "Issuer services",
-            "Broker-dealer services",
-            "Transfer agent services",
-            "Digital assets",
-            "Cap table management"
-        ],
-        "key_features": [
-            "Centralized investment management",
-            "Maximized secondary liquidity",
-            "Optional tokenization",
-            "Easy data management"
-        ],
-        "summary": "Vertalo is a platform for private asset management that offers cap table management, transfer agent services, and digital assets. They aim to transform the private asset ownership experience by providing a digital transfer agent platform that enables stakeholders to find buyers for their shares. Vertalo offers features such as centralized investment management, maximized secondary liquidity, optional tokenization, and easy data management. They provide solutions for issuers, broker-dealers, and transfer agents, and offer an API-first architecture and partnerships with custodial, issuance, and exchange platforms.",
-        "is_relevant": true
-    },
-    "www.idenfy.com": {
-        "call_to_action": "Get a free demo",
-        "business_model": "iDenfy offers a powerful, all-in-one identity verification, fraud prevention, and compliance platform. They provide solutions for identity verification, NFC verification, AML screening, and business verification. iDenfy aims to help businesses comply with regulations and prevent fraud by securing their systems. They offer features such as ID document verification, facial recognition, 3D liveness detection, 24/7 human supervision, and anti-money laundering compliance. iDenfy's platform supports over 2000 different types of identity documents from more than 200 countries and territories. They offer customizable pricing plans and claim to save up to 70% of identity verification costs. iDenfy is trusted by 500+ organizations and has been featured in various publications. However, specific information about their pricing plans is not provided on the website.",
-        "prices": {},
-        "usecases": [
-            "Identity verification",
-            "Fraud prevention",
-            "AML compliance",
-            "Business verification"
-        ],
-        "solutions": [
-            "Identity Verification",
-            "NFC Verification",
-            "AML Screening",
-            "Know Your Business"
-        ],
-        "key_features": [
-            "ID document verification",
-            "Facial recognition",
-            "3D liveness detection",
-            "24/7 human supervision",
-            "Anti-money laundering compliance"
-        ],
-        "summary": "iDenfy is a powerful, all-in-one identity verification, fraud prevention, and compliance platform. They offer solutions for identity verification, NFC verification, AML screening, and business verification. iDenfy helps businesses comply with regulations and prevent fraud by securing their systems. They provide features such as ID document verification, facial recognition, 3D liveness detection, 24/7 human supervision, and anti-money laundering compliance. iDenfy supports over 2000 different types of identity documents from more than 200 countries and territories. They offer customizable pricing plans and claim to save up to 70% of identity verification costs.",
-        "is_relevant": true
-    },
-    "beosin.com": {
-        "call_to_action": "Request a Quote",
-        "business_model": "Beosin is a leading global blockchain security company that provides an all-in-one blockchain security solution. They offer services such as smart contract audit, on-chain risk monitoring and alert, KYT AML, and crypto tracing. Beosin aims to secure the blockchain ecosystem by improving the security of smart contracts, identifying risk transactions, and providing security sentiment analysis. They also offer blockchain security audit services and cryptocurrency tracing to help clients prevent threats and track the flow of crypto assets. Beosin has audited over 3,000 smart contracts and serves global customers in various industries. However, specific information about their business model or pricing is not provided on the website.",
-        "prices": {},
-        "usecases": [
-            "Smart contract security",
-            "On-chain risk monitoring",
-            "KYT AML",
-            "Crypto tracing"
-        ],
-        "solutions": [
-            "Smart contract audit",
-            "On-chain risk monitoring",
-            "KYT AML",
-            "Crypto tracing"
-        ],
-        "key_features": [
-            "Smart contract security",
-            "Risk transactions identification",
-            "Security sentiment analysis",
-            "Blockchain security audit",
-            "Cryptocurrency tracing"
-        ],
-        "summary": "Beosin is a leading global blockchain security company that provides an all-in-one blockchain security solution. They offer services such as smart contract audit, on-chain risk monitoring and alert, KYT AML, and crypto tracing. Beosin aims to secure the blockchain ecosystem by improving the security of smart contracts, identifying risk transactions, and providing security sentiment analysis. They also offer blockchain security audit services and cryptocurrency tracing to help clients prevent threats and track the flow of crypto assets. Beosin has audited over 3,000 smart contracts and serves global customers in various industries.",
-        "is_relevant": true
-    },
-    "www.vikartech.com": {
-        "call_to_action": "Talk To Us Now!",
-        "business_model": "Vikar is a digital transformation software company that targets community banks and credit unions. They offer solutions for loan lifecycle management and client lifecycle management. Vikar's solutions aim to modernize and enhance the employee and client experience by providing end-to-end intelligent, scalable, and automated front-end user interfaces. They streamline operations and increase productivity by sitting on top of existing core back-end systems for seamless integration. Vikar's loan lifecycle management solution includes features such as borrower digital portal, loan origination, onboarding and servicing, and portfolio management. Their client lifecycle management solution includes features such as onboarding and KYC, account opening and funding, KYC reviews and maintenance, and BSA/AML fraud detection. However, specific information about their business model or pricing is not provided on the website.",
-        "prices": {},
-        "usecases": [
-            "Loan lifecycle management",
-            "Client lifecycle management"
-        ],
-        "solutions": [
-            "Loan Lifecycle Management",
-            "Client Lifecycle Management"
-        ],
-        "key_features": [
-            "Borrower digital portal",
-            "Loan origination",
-            "Onboarding and servicing",
-            "Portfolio management",
-            "Onboarding and KYC",
-            "Account opening and funding",
-            "KYC reviews and maintenance",
-            "BSA/AML fraud detection"
-        ],
-        "summary": "Vikar is a digital transformation software company that targets community banks and credit unions. They offer solutions for loan lifecycle management and client lifecycle management. Vikar's solutions aim to modernize and enhance the employee and client experience by providing end-to-end intelligent, scalable, and automated front-end user interfaces. They streamline operations and increase productivity by sitting on top of existing core back-end systems for seamless integration. Vikar's loan lifecycle management solution includes features such as borrower digital portal, loan origination, onboarding and servicing, and portfolio management. Their client lifecycle management solution includes features such as onboarding and KYC, account opening and funding, KYC reviews and maintenance, and BSA/AML fraud detection.",
-        "is_relevant": true
-    },
-    "complyadvantage.com": {
-        "call_to_action": "Request a Demo",
-        "business_model": "ComplyAdvantage is a leader in AI-driven fraud and AML risk detection. They offer solutions for sanctions and watchlists screening, adverse media screening, know your business (KYB), transaction monitoring, fraud detection, and payment screening. ComplyAdvantage aims to improve compliance workload efficiency, reduce false positives by 70%, and shorten onboarding cycle time by 50%. They provide configurable solutions that can quickly adjust to changes in financial crime risk appetite at the bank or regulation. ComplyAdvantage has empowered over 1000 leading companies to make compliance painless. They offer free tools and resources such as ComplyTry and ComplyLaunch\u2122. However, specific information about their business model or pricing is not provided on the website.",
-        "prices": {},
-        "usecases": [
-            "Sanctions and watchlists screening",
-            "Adverse media screening",
-            "Know your business (KYB)",
-            "Transaction monitoring",
-            "Fraud detection",
-            "Payment screening"
-        ],
-        "solutions": [
-            "Sanctions & Watchlists Screening",
-            "Adverse Media Screening",
-            "Know Your Business (KYB)",
-            "Transaction Monitoring",
+            "KBA Replacement",
             "Fraud Detection",
-            "Payment Screening"
-        ],
-        "key_features": [
-            "Screening against sanctions, watchlists, and PEPs",
-            "Adverse media screening",
-            "Verification of business prospects",
-            "Monitoring transactions for AML risk",
-            "Real-time fraud detection",
-            "Boosting sanctions compliance",
-            "Free tools for customer verification",
-            "AML software for early-stage fintechs"
-        ],
-        "summary": "ComplyAdvantage is a leader in AI-driven fraud and AML risk detection. They offer solutions for sanctions and watchlists screening, adverse media screening, know your business (KYB), transaction monitoring, fraud detection, and payment screening. ComplyAdvantage aims to improve compliance workload efficiency, reduce false positives by 70%, and shorten onboarding cycle time by 50%. They provide configurable solutions that can quickly adjust to changes in financial crime risk appetite at the bank or regulation. ComplyAdvantage has empowered over 1000 leading companies to make compliance painless.",
-        "is_relevant": true
-    },
-    "creditro.com": {
-        "call_to_action": "Book a Demo",
-        "business_model": "Creditro offers a range of solutions for KYC compliance, risk assessment, credit assessment, and digital signature. Their products include Creditro Comply, Creditro Assess, and Creditro Sign. Creditro Comply automates KYC processes and risk assessments based on intelligent data. Creditro Assess provides automatic credit assessment and bankruptcy notification. Creditro Sign offers a digital signature solution. They cater to various industries such as accountants and bookkeepers, law firms, industrial businesses, financial businesses, capital managers, and real estate. However, specific information about their business model or pricing is not provided on the website.",
-        "prices": {},
-        "usecases": [
-            "KYC compliance",
-            "Risk assessment",
-            "Credit assessment",
-            "Digital signature"
+            "KYC & AML Compliance",
+            "Biometric Authentication",
+            "Going Passwordless",
+            "Age Verification",
+            "New Account Onboarding",
+            "Digital Identity"
         ],
         "solutions": [
-            "Creditro Comply",
-            "Creditro Assess",
-            "Creditro Sign"
-        ],
-        "key_features": [
-            "Automated KYC processes",
-            "Risk assessments based on intelligent data",
-            "Automatic credit assessment and bankruptcy notification",
-            "Digital signature solution",
-            "Catering to various industries",
-            "Streamlined and user-friendly platform",
-            "Real-time cloud-based technology",
-            "Time-saving automation"
-        ],
-        "summary": "Creditro offers a range of solutions for KYC compliance, risk assessment, credit assessment, and digital signature. Their products include Creditro Comply, Creditro Assess, and Creditro Sign. Creditro Comply automates KYC processes and risk assessments based on intelligent data. Creditro Assess provides automatic credit assessment and bankruptcy notification. Creditro Sign offers a digital signature solution. They cater to various industries such as accountants and bookkeepers, law firms, industrial businesses, financial businesses, capital managers, and real estate.",
-        "is_relevant": true
-    },
-    "agreementexpress.com": {
-        "call_to_action": "Book a Demo",
-        "business_model": "Agreement Express offers underwriting and onboarding software solutions for financial service providers. Their solutions aim to reduce risk in underwriting and speed up the onboarding process. They provide powerful technology customized to fit the needs of their clients. Agreement Express offers solutions for payments, wealth management, and integrations. However, specific information about their business model or pricing is not provided on the website.",
-        "prices": {},
-        "usecases": [
-            "Underwriting",
-            "Onboarding"
-        ],
-        "solutions": [
-            "Agreement Express Payments",
-            "Agreement Express Wealth Management",
-            "Agreement Express Integrations"
-        ],
-        "key_features": [
-            "Reduce risk in underwriting",
-            "Speed up the onboarding process",
-            "Customized technology solutions",
-            "Payments solution",
-            "Wealth management solution",
-            "Integrations with existing systems",
-            "Secure data management",
-            "Increase onboarding speed",
-            "Digitize onboarding process",
-            "Decrease underwriting risk",
-            "Automate underwriting process",
-            "Seamless and secure data management",
-            "Simplify wealth management",
-            "Open accounts fast by integrating with existing CRM",
-            "Review, sign, and send documents in one place",
-            "Maintain a secure paper trail of all documents"
-        ],
-        "summary": "Agreement Express offers underwriting and onboarding software solutions for financial service providers. Their solutions aim to reduce risk in underwriting and speed up the onboarding process. They provide powerful technology customized to fit the needs of their clients. Agreement Express offers solutions for payments, wealth management, and integrations.",
-        "is_relevant": true
-    },
-    "selfkey.org": {
-        "call_to_action": "Get SelfKey iD",
-        "business_model": "SelfKey is a decentralized self-sovereign identity network that aims to empower individuals and corporations to take back ownership of their identity data. They offer a secure wallet for KYC data and other assets, allowing users to securely store and manage their digital identity, KYC documents, and other digital assets including NFTs. SelfKey also provides access to a marketplace where users can access a broad range of services and build an empire in the real world. The SelfKey Identity Wallet is free and operates locally, ensuring data security. However, specific information about their business model or pricing is not provided on the website.",
-        "prices": {},
-        "usecases": [
-            "Digital identity management",
-            "KYC data storage",
-            "Access to a marketplace"
-        ],
-        "solutions": [
-            "SelfKey Identity Wallet",
-            "SelfKey Marketplace"
-        ],
-        "key_features": [
-            "Secure storage and management of digital identity",
-            "KYC data storage in a secure wallet",
-            "One-click verification for Web 3.0 platforms and DeFi exchanges",
-            "Access to a broad range of services in the marketplace",
-            "Ownership and control of digital identity and assets",
-            "Non-custodial and Web 3.0/Metaverse ready",
-            "Censorship-proof",
-            "Secure wallet for KYC data and other assets",
-            "Building an empire in the real world through the marketplace",
-            "Data stored locally on user's device",
-            "Free and open-source wallet",
-            "Audited for privacy and data protection",
-            "Integration with existing infrastructure",
-            "Complete ownership of digital identity and ERC tokens"
-        ],
-        "summary": "SelfKey is a decentralized self-sovereign identity network that offers a secure wallet for KYC data and other assets. They provide access to a marketplace where users can access a broad range of services and build an empire in the real world. The SelfKey Identity Wallet is free, audited for privacy, and ensures data security by storing data locally on the user's device.",
-        "is_relevant": true
-    },
-    "blockchain-helix.com": {
-        "call_to_action": "Talk to us",
-        "business_model": "Blockchain HELIX is a German blockchain technology startup that offers a digital identity solution called helix id. They aim to create a trusted and secure digital identity ecosystem for individuals and corporates. Specific information about their business model or pricing is not provided on the website.",
-        "prices": {},
-        "usecases": [
-            "Digital identity management"
-        ],
-        "solutions": [
-            "helix id"
-        ],
-        "key_features": [
-            "Digital identity solution",
-            "Trusted and secure digital identity ecosystem",
-            "Easy integration",
-            "Regulatory compliant KYC and AML services",
-            "Customers retain full control of their private data",
-            "Blockchain technology",
-            "Leading-edge technology",
-            "Reduced operational costs",
-            "Improved data quality",
-            "Privacy protection",
-            "Secure verification of identity",
-            "TAN-free authentication and approval",
-            "Blockchain-based identity management",
-            "Quick and secure KYC process",
-            "DSGVO compliant",
-            "Convenient and secure identity verification",
-            "Ownership of data",
-            "Full privacy",
-            "Reduced dependencies on platform operators"
-        ],
-        "summary": "Blockchain HELIX is a German blockchain technology startup that offers a digital identity solution called helix id. They aim to create a trusted and secure digital identity ecosystem for individuals and corporates. helix id provides regulatory compliant KYC and AML services, while customers retain full control of their private data. The solution is based on blockchain technology and offers convenient and secure identity verification.",
-        "is_relevant": true
-    },
-    "www.quantifind.com": {
-        "call_to_action": "Get a Demo",
-        "business_model": "Quantifind is a company that offers AI-powered risk intelligence solutions for various industries, including financial services and the public sector. They provide solutions for emerging threat detection, watchlist screening, adverse media screening, investigations, credit risk, and more. Quantifind's Graphyte platform offers end-to-end automation impact, best-in-class accuracy, and powerful APIs and applications. However, specific information about their business model or pricing is not provided on the website.",
-        "prices": {},
-        "usecases": [
-            "Watchlist screening",
-            "Adverse media screening",
-            "Investigations",
-            "Credit risk",
-            "Law enforcement",
-            "Defense & intelligence"
-        ],
-        "solutions": [
-            "Graphyte Search",
-            "Graphyte API",
-            "Graphyte Batch"
-        ],
-        "key_features": [
-            "AI-powered risk intelligence",
-            "End-to-end automation impact",
-            "Best-in-class accuracy",
-            "Powerful APIs and applications",
-            "Comprehensive data coverage",
-            "Dynamic risk typologies",
-            "Seamless integrations",
-            "Efficiency and performance improvements",
-            "Complete data coverage",
-            "Synchronous and batch inquiries via API",
-            "Rich feature sets and intuitive workflows",
-            "Focus on real risks",
-            "AI-driven entity resolution",
-            "Patented data management",
-            "Modern web applications",
-            "Increased productivity",
-            "Fewer false positives",
-            "AI and external data integration",
-            "Consolidation of data and tools",
-            "Open source intelligence leverage",
-            "Targeting risk typologies",
-            "Scalability",
-            "Relevant and risk-ranked results"
-        ],
-        "summary": "Quantifind offers AI-powered risk intelligence solutions through their Graphyte platform. They provide solutions for watchlist screening, adverse media screening, investigations, credit risk, and more. Their platform offers end-to-end automation impact, best-in-class accuracy, and powerful APIs and applications. Quantifind has been selected by large organizations for their ability to extract intelligence from public data for mission-critical applications.",
-        "is_relevant": true
-    },
-    "norbloc.com": {
-        "call_to_action": "Request a demo",
-        "business_model": "norbloc is a company that offers secure tools for KYC (Know Your Customer) and KYB (Know Your Business) processes. They provide a suite of products that improve customer experience, reduce KYC costs, and save time. Their solutions include Sancus, an all-in-one KYC digital onboarding module, Atlas for internal KYC data sharing within groups, and Fides for external KYC data sharing across institutions. norbloc aims to redefine KYC from onboarding to validation and beyond. However, specific information about their business model or pricing is not provided on the website.",
-        "prices": {},
-        "usecases": [],
-        "solutions": [
-            "Sancus",
-            "Atlas",
-            "Fides"
-        ],
-        "key_features": [
-            "Seamless KYC onboarding",
-            "Maximized security and robustness of KYC compliance",
-            "Break down data silos",
-            "Improve information sharing within and between organizations",
-            "Enhance KYC compliance",
-            "Create a 'single version of truth' for validated KYC data"
-        ],
-        "summary": "norbloc offers secure tools for KYC and KYB processes. Their suite of products includes Sancus for seamless KYC onboarding, Atlas for internal data sharing, and Fides for external data sharing. norbloc aims to improve customer experience, reduce KYC costs, and save time. They are a diverse team of subject matter experts and techies dedicated to creating innovative KYC tools.",
-        "is_relevant": true
-    },
-    "www.genpact.com": {
-        "call_to_action": "Contact Us",
-        "business_model": "Genpact is a global professional services firm that offers a wide range of services, including digital solutions and analytics. They provide services in areas such as automation, artificial intelligence, cloud, data and analytics, experience, and technology. Genpact works with clients across various industries, including banking and capital markets, consumer goods and retail, healthcare and life sciences, high tech, insurance, manufacturing, media, publishing, and entertainment, private equity, and software and digital platforms. However, specific information about their business model or pricing is not provided on the website.",
-        "prices": {},
-        "usecases": [],
-        "solutions": [
-            "Automation",
-            "Artificial intelligence",
-            "Cloud",
-            "Data and analytics",
-            "Experience",
-            "Technology",
-            "Customer care",
-            "Finance and accounting",
-            "Risk and compliance",
-            "Sales and commercial",
-            "Sourcing and procurement",
-            "Sustainability",
-            "Supply chain management",
-            "Trust and safety"
-        ],
-        "key_features": [
-            "Digital transformation",
-            "Automation",
-            "Artificial intelligence",
-            "Cloud migration and modernization",
-            "Advanced analytics",
-            "Digital core integration",
-            "Employee and customer experience",
-            "Omnichannel customer support",
-            "Risk and compliance services",
-            "Finance transformation",
-            "Strategic procurement and sourcing",
-            "Agile supply chain",
-            "Sales operations",
-            "Environment, social, and governance",
-            "Enhanced safety operations"
-        ],
-        "summary": "Genpact is a global professional services firm that offers a wide range of services, including digital solutions and analytics. They work with clients across various industries to drive digital transformation, innovation, and growth. Genpact combines deep industry knowledge with expertise in digital solutions and analytics to create meaningful outcomes for their clients. However, specific information about their business model or pricing is not provided on the website.",
-        "is_relevant": true
-    },
-    "docs.mvs.org": {
-        "call_to_action": "Get started",
-        "business_model": "The business model and pricing information for Hexo, a KYC provider, is not provided on their website.",
-        "prices": {},
-        "usecases": [],
-        "solutions": [
-            "Blazing Fast Transfering",
-            "User Friendly Tokens",
-            "Sovereign Digital Identities",
-            "MST Exchange"
-        ],
-        "key_features": [
-            "Incredible transfering speed",
-            "Convenient token mechanism",
-            "Connect asset and identity with Metaverse Avatar",
-            "On-chain exchange protocol"
-        ],
-        "summary": "Hexo is a KYC provider that offers solutions for blazing fast transfering, user-friendly tokens, sovereign digital identities, and an MST exchange. They aim to provide a safe and convenient token mechanism and connect assets with identities through Metaverse Avatar. However, specific information about their business model or pricing is not provided on the website.",
-        "is_relevant": true
-    },
-    "kwiktrust.com": {
-        "call_to_action": "Join the Waitlist",
-        "business_model": "The business model and pricing information for KwikTrust, a KYC provider, is not provided on their website.",
-        "prices": {},
-        "usecases": [
-            "Create Collaborative + Secure Work Environments",
-            "Record High Value Assets",
-            "Make Tamper Proof Records",
-            "Onboard clients with Regulatory Compliance",
-            "Manage time-sensitive files online",
-            "Collate evidence for a legal case",
-            "Send invoices to customers on KwikTrust",
-            "Record Covid data for individuals",
-            "Record proof of ownership of digital property",
-            "Record proof of ownership of assets",
-            "Manage supply chain relationships"
-        ],
-        "solutions": [
-            "Asset creation and digital signatures"
-        ],
-        "key_features": [
-            "Record, sign, and validate important documents and files",
-            "Tamperproof and timestamped record of creation",
-            "Secure storage and linking to owner's identity",
-            "Collaborative workspaces",
-            "Tamper-proof company records",
-            "Easy, self-certified, and third-party validation of files",
-            "Faster, simpler, more secure, and less expensive solution"
-        ],
-        "summary": "KwikTrust is a KYC provider that offers solutions for managing and securing documents and files. They provide asset creation and digital signatures, allowing users to record, sign, and validate important documents and files. KwikTrust aims to provide a secure and collaborative work environment, tamper-proof company records, and easy validation of files. However, specific information about their business model or pricing is not provided on the website.",
-        "is_relevant": true
-    },
-    "www.solarisgroup.com": {
-        "call_to_action": "Talk to us",
-        "business_model": "The business model and pricing information for Solaris, a KYC provider, is not provided on their website.",
-        "prices": {},
-        "usecases": [],
-        "solutions": [
-            "Digital Banking",
-            "Payments",
-            "Lending",
-            "Identification",
-            "Digital Assets"
-        ],
-        "key_features": [
-            "Digital Banking and Accounts APIs",
-            "Branded Cards, Buffer for cards, and Payment Flows",
-            "Consumer and SME loans",
-            "Digital KYC services",
-            "Digital Assets Brokerage and Custody"
-        ],
-        "summary": "Solaris is a German technology company with a full banking license that offers a range of solutions for embedded finance. They provide digital banking and accounts APIs, branded cards and payment flows, lending services, digital KYC services, and digital assets brokerage and custody. Solaris aims to empower businesses to offer their own banking products by providing a comprehensive platform and taking care of regulatory complexities. However, specific information about their business model or pricing is not provided on the website.",
-        "is_relevant": true
-    },
-    "www.ugrconsulting.com": {
-        "call_to_action": "Book a Demo",
-        "business_model": "UGR Consulting offers Compliance-as-a-Service (CaaS), a monthly consulting subscription plan that provides customized compliance solutions. They work with a variety of financial institutions, FinTechs, RegTech companies, and blockchain/crypto businesses to help them meet their compliance, AML, and KYC challenges. UGR Consulting's team of experts offers advisory services, updates on compliance, regtech, and fintech, and access to their collaboration platform and best practices tools. They offer different pricing plans based on the level of advisory hours needed. Specific pricing information can be obtained by contacting them directly.",
-        "prices": {
-            "Basic": "$2,990 per month",
-            "Essential": "$4,990 per month",
-            "Enterprise": "$9,990 per month"
-        },
-        "usecases": [],
-        "solutions": [
-            "Fractional CCO",
-            "AML/KYC Compliance",
-            "Cryptocurrencies",
-            "RegTech",
-            "Anti-Bribery and Corruption",
-            "Investigative Due Diligence"
-        ],
-        "key_features": [
-            "Customizable compliance solutions",
-            "Regular monitoring and updates",
-            "Access to top compliance experts",
-            "Flexible advisory hours",
-            "Collaboration platform and best practices tools",
-            "RegTech solutions"
-        ],
-        "summary": "UGR Consulting is a leading compliance advisory and regtech solution provider. They offer Compliance-as-a-Service (CaaS), a monthly consulting subscription plan that provides customized compliance solutions for financial institutions, FinTechs, and blockchain/crypto businesses. UGR Consulting's team of experts offers advisory services, regular monitoring and updates, and access to their collaboration platform and best practices tools. They also offer RegTech solutions. Pricing plans range from $2,990 to $9,990 per month, depending on the level of advisory hours needed.",
-        "is_relevant": true
-    },
-    "truststamp.ai": {
-        "call_to_action": "Get in Touch Now",
-        "business_model": "Trust Stamp is a company that delivers trusted identity systems at the heart of how organizations and individuals transact in the connected world. They focus on creating identity, powering transactions that enfranchise all parties involved, and mitigating risk to identity data. Trust Stamp offers a full suite of identity tools, including privacy and data protection, biometric multi-factor authentication, document validation, identity verification, duplicate detection, biometric capture, geolocation, crypto security and compliance, and trusted messaging. They cater to various industries such as banking and fintech, cryptocurrency and digital assets, government services, KYC/AML compliance, biometrically secured email, real estate, and humanitarian services. Specific pricing information is not provided on the website, but interested parties are encouraged to get in touch for more details.",
-        "prices": {},
-        "usecases": [],
-        "solutions": [
-            "Full Suite of Identity Tools",
-            "Privacy and Data Protection",
-            "Biometric Multi-Factor Authentication",
-            "Document Validation",
+            "Platform",
+            "ID Verification",
             "Identity Verification",
-            "Duplicate Detection",
-            "Biometric Capture",
-            "Geolocation",
-            "Crypto Security and Compliance",
-            "Trusted Message"
+            "Jumio Go",
+            "Document Verification",
+            "Authentication",
+            "Address Services",
+            "Video Verification",
+            "Risk Signals",
+            "AML Screening",
+            "Government Database Checks",
+            "Fastfill"
         ],
-        "key_features": [
-            "Trusted identity systems",
-            "AI-powered identity solutions",
-            "Biometrics and data protection",
-            "Secure and private identity",
-            "Mitigation of fraud and risk",
-            "Cross-industry expertise",
-            "Innovative R&D",
-            "Focus on inclusion",
-            "Proven solutions",
-            "Partnerships with leading innovators"
-        ],
-        "summary": "Trust Stamp is a company that delivers trusted identity systems at the heart of how organizations and individuals transact in the connected world. They offer a full suite of identity tools, including privacy and data protection, biometric multi-factor authentication, document validation, identity verification, duplicate detection, biometric capture, geolocation, crypto security and compliance, and trusted messaging. Trust Stamp's solutions are trusted by leading financial institutions and organizations across various industries. They focus on creating identity, powering transactions, and mitigating risk to identity data. Specific pricing information is not provided on the website, but interested parties are encouraged to get in touch for more details.",
-        "is_relevant": true
+        "keyFeatures": {
+            "Identity Verification": [
+                "Verify identities and detect fraud throughout the customer lifecycle",
+                "Gain predictive fraud insights and in-the-moment risk analysis",
+                "Deliver dynamic user experiences based on each customer's verified identity and risk profile"
+            ],
+            "Compliance and Risk Management": [
+                "Boosting sanctions compliance",
+                "Compliance management",
+                "AML screening",
+                "Fraud detection with AI",
+                "Risk transactions identification",
+                "Enhanced due diligence",
+                "Continuous compliance",
+                "Geo-location and IP assessment"
+            ],
+            "Data Management and Security": [
+                "Customers retain full control of their private data",
+                "Secure data management",
+                "Secure storage and management of digital identity",
+                "Rigorous security policies and procedures"
+            ],
+            "Integration and Automation": [
+                "Powerful APIs and applications",
+                "Flexible workflow builder",
+                "Integration with existing infrastructure",
+                "Modular design",
+                "Automation and machine process automation"
+            ],
+            "Global Coverage and Support": [
+                "Support for 5k+ ID types in over 200 countries and territories",
+                "Access to over 500+ best-in-class global data sources",
+                "Trusted by global brands"
+            ]
+        },
+        "difference": "Jumio offers a comprehensive AI-driven identity verification platform that provides 360-degree insights, data, tools, and analytics to fight fraud at the speed of business. They have a wide range of solutions and use cases, and their platform is trusted by leading brands worldwide. Jumio also offers a Unified Portal for accessing all their services in one place, as well as a Self-Service Rules Editor for adjusting business logic in real time.",
+        "isKYCProvider": true,
+        "pricesAndPlans": "Jumio does not provide specific pricing information on their website. Customers are encouraged to contact sales for more information on pricing and plans."
     },
-    "web.fractal.id": {
-        "call_to_action": "Book a demo",
-        "business_model": "Fractal ID is a company that offers a vertically integrated identity stack for the web3 ecosystem. They provide solutions for dApps, blockchain ecosystems, and private & public sales. Fractal ID's identity stack is permissionless, open-source, multi-chain, and supports any DID-format. They offer tailored identity solutions for various use cases, such as DeFi, RWA, social platforms, DEX, launchpads, and more. Fractal ID's solutions focus on reusability and portability of verified identities, extended on-chain tooling, interoperability between ecosystems, a vertically integrated identity stack, time-tested experience, and full support. Specific pricing information is not provided on the website, but interested parties are encouraged to book a demo for more details.",
-        "prices": {},
-        "usecases": [],
+    "www.telesign.com": {
+        "callToAction": "Talk to sales",
+        "businessModel": "Telesign offers a pay-as-you-go pricing model with no contracts, time-based commitments, or monthly fees. They also provide volume discounts and tailored packaging for volume and committed-use customers.",
+        "useCases": [
+            "Onboarding & Sign-Up",
+            "Account Integrity & Log-in",
+            "Customer Engagement",
+            "International Revenue Share Fraud",
+            "Bots & Fake Users",
+            "Synthetic Identity Fraud",
+            "Account Takeover Fraud"
+        ],
         "solutions": [
-            "For dApps",
-            "For Blockchain Ecosystems",
-            "For Private & Public Sales"
+            "Trust Engine",
+            "Intelligence",
+            "Identity",
+            "Verification",
+            "Omnichannel Experiences",
+            "Omnichannel API",
+            "Voice API",
+            "Transactional Email"
         ],
-        "key_features": [
-            "Permissionless & Open-source",
-            "Multi-chain & any DID-format",
-            "Reusability & Portability",
-            "Extended On-chain tooling",
-            "Interoperability between Ecosystems",
-            "Vertically integrated identity stack",
-            "Time-tested experience",
-            "Full support"
+        "keyFeatures": {
+            "Identity Verification": [
+                "SMS Verify",
+                "Silent Verification",
+                "Verify Plus"
+            ],
+            "Compliance and Risk Management": [],
+            "Data Management and Security": [],
+            "Integration and Automation": [],
+            "Global Coverage and Support": []
+        },
+        "summary": "Telesign is a KYC provider that offers solutions for customer onboarding, account integrity, fraud prevention, and customer engagement. They provide a range of products such as Trust Engine, Intelligence, Identity, Verification, Omnichannel Experiences, Omnichannel API, Voice API, and Transactional Email. Telesign offers a pay-as-you-go pricing model with no contracts or monthly fees, and they also provide volume discounts for customers with high usage. They have a wide range of use cases including onboarding, account integrity, customer engagement, and fraud prevention. Telesign's key features include SMS Verify, Silent Verification, Verify Plus, and more.",
+        "isKYCProvider": true,
+        "pricesAndPlans": "Telesign offers a pay-as-you-go pricing model with no contracts, time-based commitments, or monthly fees. They also provide volume discounts and tailored packaging for volume and committed-use customers. The pricing for SMS and Voice is based on the destination, and there are no hidden fees. Customers can purchase or lease phone numbers for SMS messaging, and the pricing for phone numbers can be downloaded from their website."
+    },
+    "seon.io": {
+        "provider": "SEON",
+        "call_to_action": "Start free",
+        "business_model": "SEON offers a pay-as-you-go pricing model",
+        "usecases": [
+            "Account Takeover",
+            "Registration & Onboarding",
+            "Transaction Monitoring",
+            "Bonus Abuse",
+            "Chargeback Fraud",
+            "Checkout Fraud",
+            "Payment Fraud",
+            "AML Solutions & Checks"
         ],
-        "summary": "Fractal ID is a company that offers a vertically integrated identity stack for the web3 ecosystem. They provide tailored identity solutions for dApps, blockchain ecosystems, and private & public sales. Fractal ID's solutions focus on reusability and portability of verified identities, extended on-chain tooling, interoperability between ecosystems, a vertically integrated identity stack, time-tested experience, and full support. Specific pricing information is not provided on the website, but interested parties are encouraged to book a demo for more details.",
-        "is_relevant": true
+        "solutions": [
+            "Email Lookup",
+            "AML",
+            "AI & Machine Learning",
+            "Phone Lookup",
+            "Device Fingerprinting",
+            "Shopify App",
+            "IP Lookup",
+            "Integrations"
+        ],
+        "features": {
+            "Identity Verification": [],
+            "Compliance and Risk Management": [],
+            "Data Management and Security": [],
+            "Integration and Automation": [],
+            "Global Coverage and Support": []
+        },
+        "is_related_to_kyc_providers": true,
+        "priceAndPlans": {
+            "plans": [
+                {
+                    "name": "Free",
+                    "price": "$0",
+                    "features": [
+                        "2 users",
+                        "10 custom rules",
+                        "500 manual checks / month",
+                        "2 queries / sec",
+                        "Email support"
+                    ]
+                },
+                {
+                    "name": "Starter",
+                    "price": "$599 / month",
+                    "features": [
+                        "10 users",
+                        "50 custom rules",
+                        "1000 API calls / month",
+                        "10 queries / sec",
+                        "Email support (response within 24 hours)",
+                        "API integration"
+                    ]
+                },
+                {
+                    "name": "Premium",
+                    "price": "Contact us",
+                    "features": [
+                        "Unlimited users",
+                        "Unlimited custom rules",
+                        "Unlimited API calls",
+                        "10-100+ queries / sec",
+                        "Technical account management + premium customer support",
+                        "API integration"
+                    ]
+                }
+            ],
+            "business_model": "SEON offers a freemium business model, with a free plan available for users with limited needs. They also offer paid plans, including a Starter plan for $599 per month and a Premium plan with custom pricing. The Premium plan provides unlimited users, custom rules, and API calls, along with technical account management and premium customer support."
+        }
     }
 }
