@@ -1,92 +1,61 @@
-# Comparison of KYC Providers: Sumsub, Salv, and Others
+# Signicat - Digital Identity Solutions
 
-## Unique Selling Propositions: Tailored KYC Solutions for Various Industries
+Signicat is a leading provider of digital identity solutions, offering a range of products and services to automate AML, KYC/KYB processes, reduce manual work, and maximize conversion rates for onboarding new customers. With its unique selling proposition of providing secure and compliant digital identity solutions, Signicat stands out as a reliable choice for businesses looking to streamline their identity verification processes.
 
-In this article, we will compare several KYC providers, including Sumsub, Salv, and others. Each provider offers unique features and solutions tailored to different industries and compliance needs.
+## Usecases
 
-## Sumsub
+Signicat caters to a wide range of usecases, including:
 
-### Summary
+- Automate AML, KYC/KYB processes
+- Reduce manual work
+- Maximize conversion rate for onboarding new customers
 
-Sumsub is a KYC provider that offers user and business verification, as well as transaction monitoring. It supports over 14,000 document types from more than 220 countries and territories. Sumsub also provides a flexible workflow builder for creating unique verification flows and automating the decision-making process. It offers two pricing plans: 'Growing' and 'Enterprise', with the latter offering a custom price.
+## Solutions
 
-### Business Model and Pricing
+Signicat offers a comprehensive set of solutions to address digital identity needs. These solutions include:
 
-Sumsub offers two pricing plans: 'Growing' and 'Enterprise'. The 'Growing' plan is designed for businesses with more than 1000 verifications per month. The 'Enterprise' plan provides a custom price and includes additional features such as custom integration, personal customer success manager, single sign-on, priority support via chat, white labeling, reusable KYC, and API integration. The exact prices for these plans are not listed on the website, so it is recommended to book a demo to get detailed pricing information.
+- Identity Proofing
+- Trust Orchestration
+- Authentication
+- Electronic Signing
+- eID Hub
+- ID Document and Biometric Verification
+- Risk and Identity Data Sources
 
-### Use Cases
+## Key Features
 
-Sumsub's KYC solutions are suitable for various industries, including fintech, trading, transportation, marketplaces, crypto, online gaming, and carsharing.
+Signicat provides a range of key features to enhance digital identity processes. These features include:
 
-### Solutions Offered
+- Access to reliable identity data sources
+- Remote identification solutions
+- Risk and Identity Data sources
+- KYC and KYB monitoring
 
-Sumsub offers a range of solutions to meet different KYC needs:
+## Pricing and Plans
 
-- User Verification: Sumsub provides a comprehensive set of identity verification features, including ID verification, address verification, video identification, non-document verification, email/phone verification, biometric verification, document verification, age verification, reusable KYC, bank card check, crypto check, and liveness detection.
+Signicat offers a range of products with different pricing plans to cater to various user needs and budgets. The pricing and plans offered by Signicat are as follows:
 
-- Business Verification: Sumsub offers solutions for verifying businesses, ensuring compliance with regulatory requirements, and conducting AML screening.
+| Product | Plan | Price | Description |
+|---|---|---|---|
+| e-Signing Portal | Free edition | From €0 | Sign up to 3 signatures per month for free! |
+| e-Signing Portal | Professional | From €13 per user per month | For single user who needs to e-sign documents regularly or in greater volume. |
+| e-Signing Portal | Business | From €13 per user per month | For various size teams that need to sign, share and manage documents together. |
+| e-Signing Portal | Enterprise | From €13 per user per month | For large teams that need to implement large-scale digital processes across their organisations. |
+| Signicat Mint | Free to test | From €0 | Try out all Signicat Mint features. No credit card required. Move to paid plan when you're ready. |
+| Signicat Mint | Paid plans | From €495/month + transaction fees | Get the features you need to build great onboarding experiences – plus capabilities to scale your business. |
+| Signicat Mint | Advanced and Enterprise packages | Custom | Expand your business to multiple markets and meet the strictest requirements for security, compliance and uptime. |
+| Digital Identity APIs | Starter | From €149/month | Getting started? Perfect for start-ups and companies with a smaller scope. |
+| Digital Identity APIs | Essential | From €395/month | Growing across markets? Get all the digital identity essentials. |
+| Digital Identity APIs | Customised | Custom | Going big? Meet enterprise-grade requirements for security, compliance and uptime. |
 
-- Transaction Monitoring: Sumsub provides tools for monitoring transactions and detecting suspicious activities to mitigate risks associated with money laundering and fraud.
+## Getting Started
 
-### Key Features
+To start using Signicat, simply visit their website and talk to a digital identity expert. From there, you can explore the features and functionality available in the free plan. If you require more advanced features and capabilities, you can upgrade to one of the paid plans offered by Signicat.
 
-Sumsub's key features include real-time checks, configurable rules, counterparty monitoring, AML and KYC compliance, risk scoring rules, secure customer and transaction data management, API-first approach, and automated KYC checks. They also provide extensive global coverage and support for over 14,000 document types from more than 220 countries and territories.
+## Comparison with SEON.io
 
-## Salv
+While both Signicat and SEON.io offer solutions for KYC and fraud prevention, they differ in their approach and offerings. SEON.io focuses on AI-powered fraud detection and prevention tools, offering features like email lookup, phone lookup, device fingerprinting, and IP lookup. On the other hand, Signicat provides a broader range of digital identity solutions, including identity proofing, trust orchestration, authentication, and electronic signing.
 
-### Summary
+In terms of pricing, SEON.io offers a freemium model with a free plan and two paid plans. Signicat, however, offers a more complex pricing structure with different pricing plans for each product, catering to different user needs and budgets.
 
-Salv is a RegTech company that offers AML software for banks and fintechs. Their Salv Platform provides real-time checks, configurable rules, and counterparty monitoring for AML and KYC compliance. They also offer risk scoring based on KYC data and transactional behavior.
-
-### Business Model and Pricing
-
-Unfortunately, specific information about Salv's business model and pricing is not available.
-
-### Use Cases
-
-Salv's AML software is designed to assist with AML and KYC compliance, customer and transaction screening and monitoring, and risk scoring.
-
-### Solutions Offered
-
-Salv offers the following solutions:
-
-- Salv Bridge: A platform that provides real-time checks, configurable rules, and counterparty monitoring for AML and KYC compliance.
-
-- Screening: Solutions for customer and transaction screening to identify potential risks and ensure compliance.
-
-- Monitoring: Tools for ongoing monitoring of customer behavior and transactions to detect suspicious activities.
-
-- Risk Scoring: Utilizing KYC data and transactional behavior to generate risk scores for enhanced risk assessment.
-
-### Key Features
-
-Salv's key features include real-time checks, configurable rules, counterparty monitoring, AML and KYC compliance, and risk scoring rules.
-
-## Other KYC Providers
-
-In addition to Sumsub and Salv, there are several other KYC providers in the market. Here is a brief overview of some of them:
-
-- Veriff: Veriff offers AI-powered identity verification solutions with advanced facial recognition and assisted image capture technology. They focus on identity verification and fraud prevention.
-
-- Ondato: Ondato provides an end-to-end KYC management system for customer onboarding, authentication, and customer data management. Their modular approach allows businesses to choose the modules that match their needs.
-
-- Quantexa: Quantexa offers a contextual KYC platform that enables data-driven decision making and compliance optimization. Their platform provides a connected view of data to enhance risk identification and reduce time and cost in the KYC lifecycle.
-
-- Fullcircl: Fullcircl offers an automated KYC and AML platform with customer lifecycle intelligence. Their platform automates KYC checks and provides data matching and enrichment for a contextualized view of data.
-
-- Jumio: Jumio offers online identity proofing and eKYC solutions with enhanced identity checks. Their solutions help build trust with customers and prevent fraud.
-
-- NorthRow: NorthRow provides an AML and KYC/B onboarding platform with enhanced due diligence. Their platform streamlines customer onboarding and monitoring processes with easy integration and a single API solution.
-
-- Onfido: Onfido offers an AI-powered identity verification solution for digital customer acquisition. Their Real Identity Platform combines trusted data sources, biometric verifications, and fraud detection signals.
-
-- Trulioo: Trulioo offers automated identity verification and compliance solutions with online document verification, business verification, and proof of address verification.
-
-Please note that the information provided about these KYC providers is based on the available data at the time of analysis. For the most accurate and up-to-date details, it is recommended to visit the respective websites or contact their sales teams directly.
-
-## Conclusion
-
-When choosing a KYC provider, it is essential to consider the specific needs of your business and industry. Sumsub and Salv offer tailored solutions for different use cases, with Sumsub providing extensive global coverage and support. Other providers like Veriff, Ondato, Quantexa, Fullcircl, Jumio, NorthRow, Onfido, and Trulioo also offer unique features and solutions to meet various KYC requirements. To make an informed decision, it is recommended to explore each provider's website, book a demo, and evaluate their offerings based on your specific needs.
-
-[Visit Sumsub's website](https://www.sumsub.com)
-[Visit Salv's website](https://www.salv.com)
+In conclusion, both SEON.io and Signicat provide robust solutions for KYC and fraud prevention. The choice between the two would depend on your specific needs, budget, and the specific features you require.

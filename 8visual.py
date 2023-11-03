@@ -33,20 +33,17 @@ INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD', 'Vector databases')
 cfl = load_from_json_file("7key_features_optimized.json","data/"+INDUSTRY_KEYWORD)
 # Check if exists.
 if cfl:
-    clusterized_features_list_f = "Key features according to optimized feature list: "+cfl['title']+": \n "+cfl['intro']+json.dumps(cfl['features'])
+    clusterized_features_list_f = "features list for projects (detect which aplyable to the project): "+cfl['title']+": \n "+cfl['intro']+json.dumps(cfl['features'])
 else:
-    clusterized_features_list_f = "Key features"
+    clusterized_features_list_f = ""
 
-llm = ChatOpenAI(temperature=0, max_tokens=3600, model_name="gpt-3.5-turbo-16k")
+
 
 #old Write a final SEO optimized article about [INDUSTRY_KEYWORD] using the data. Compare all the elements and find the best one project.  Need an article with tables, etc. Return as Markdown with Title, Meta keywords, Meta description, Text fields (without ")
 prompt = ChatPromptTemplate(
     messages=[
-        SystemMessage(content="""Act like an analytics. Need to create a comparsion article across the [INDUSTRY_KEYWORD] list. 
+        SystemMessage(content="""Act like an analytic. Need to create a comparsion article across the [INDUSTRY_KEYWORD] list. 
                                                   I will send you projects one by one. Analyse every product, then add given information to main article. 
-                                                  """+clusterized_features_list_f+"""
-                                                
-                                                  In project is small or it's a list of projects you may remove it from main comparsion but put domain name in the end of article 
                                                   What prices they have? What should i do to start using? Focus on differencies between porojects. Compare key features, uscases and solutions. do not include information that is too general (such as "complete solution", "best on the market", etc.) .
                                                   Return only main article every time we send you new project. Use tables and other markdown syntaxis.
                                                   If project has prices or plans move them upper than other projects.
@@ -58,102 +55,78 @@ prompt = ChatPromptTemplate(
 )
 
 # Initialize the ConversationBufferMemory and LLMChain
-memory = ConversationSummaryBufferMemory(llm=llm, max_token_limit=3000, return_messages=True)
-conversation = ConversationChain(llm=llm, prompt=prompt,memory=memory)
+llm1 = ChatOpenAI(temperature=0, max_tokens=3600, model_name="gpt-4")
+memory1 = ConversationSummaryBufferMemory(llm=llm1, max_token_limit=3000, return_messages=True)
+conversation1 = ConversationChain(llm=llm1, prompt=prompt,memory=memory1)
 
-
+llm2 = ChatOpenAI(temperature=0, max_tokens=3600, model_name="gpt-3.5-turbo-16k")
+memory2 = ConversationSummaryBufferMemory(llm=llm2, max_token_limit=3000, return_messages=True)
+conversation2 = ConversationChain(llm=llm2, prompt=prompt,memory=memory2)
 
 if __name__ == "__main__":
     # Загрузите данные из /data папки
     all_sites_data = load_from_json_file("5companies_details.json","data/"+INDUSTRY_KEYWORD)
-    
-    # Получить список всех сайтов
     sites = list(all_sites_data.keys())
-    
-    i = 0
-    
     existedDomainList = []
-    while i < len(sites) - 1:
-        domain = sites[i]
-  
-        # Check your file f"data/{INDUSTRY_KEYWORD}/article{i}.md" exists continuу
+
+    for i, domain in enumerate(sites):
         if os.path.isfile(f"data/{INDUSTRY_KEYWORD}/article{i}.md"):
             print(f" data/{INDUSTRY_KEYWORD}/article{i}.md exists <- "+domain)
             existedDomainList.append(domain)
-            
-            #f"data/{INDUSTRY_KEYWORD}/article{i}_input.md" exists
             if os.path.isfile(f"data/{INDUSTRY_KEYWORD}/article{i}_input.md"):
                 with open(f"data/{INDUSTRY_KEYWORD}/article{i}_input.md", "r") as f:
                     input = f.read()
             else:
                 input = ""
-            
             with open(f"data/{INDUSTRY_KEYWORD}/article{i}.md", "r") as f:
                 output = f.read()
                 for existedDomain in existedDomainList:
-                    if existedDomain not in output:
+                    if existedDomain.lower() not in output.lower():
                         print(f"{existedDomain} not in output of this file")
                         exit() 
-            
-            memory.save_context({"input": input}, {"output": output})
-
-            i += 1
+            memory1.save_context({"input": input}, {"output": output})
+            memory2.save_context({"input": input}, {"output": output})
             continue
-         # Access the first provider for each site
+
         datatoAdd = all_sites_data[domain]
-
-        
-        if ('call_to_action' not in datatoAdd):
-            print('no call_to_action or its a list')
-            all_sites_data.pop(domain)
-            save_to_json_file(all_sites_data, "5companies_details.json", "data/" + INDUSTRY_KEYWORD)
-            continue
-        
-        response = conversation({ "input": question_content })
-
-        existedDomainListStr = ",".join(existedDomainList)
-
-        question_content = """Is this """+domain+""" . 
-The string """+domain+""", """+existedDomainListStr+""" must be included in your answer. 
-You can rewrite and optimize entire article. 
-Add unique selling proposition near to the title of project
-        \n\n"""
+       
+        question_content = """Add this project to comparsion """+domain+""" . 
+    The string """+domain+""", """+",".join(existedDomainList)+""" must be included in your answer. 
+    You can rewrite and optimize entire article.
+            \n\n"""
         question_content += json.dumps(datatoAdd)
-
         
+
         print(domain)
-        
         start = time.time()
+
         try:
-
-            response = conversation({ "input": question_content })
+            
+            response = conversation1({ "input": question_content })
             gpt_response = response['response']
-
+            memory2.save_context({"input": input}, {"output": output}) #save context to brother memory (1->2 and 2->1)
+            print("gpt 4 ")
+        except:
+            response = conversation2({ "input": question_content })
+            gpt_response = response['response']
+            print("gpt .16k")
+            memory1.save_context({"input": input}, {"output": output})
+        try:
+            
             with open(f"data/{INDUSTRY_KEYWORD}/article{i}.md", "w") as f:
                 f.write(gpt_response)
-
             with open(f"data/{INDUSTRY_KEYWORD}/article{i}_input.md", "w") as f:
                 f.write(question_content)
-
-            for existedDomain in existedDomainList:
+            if existedDomain.lower() not in output.lower():
                 if existedDomain not in gpt_response:
                     print(f"{existedDomain} not in gpt_response")
                     exit() 
-            
-
-
-            
-            
             existedDomainList.append(domain)
         except Exception as e:
             print(f"An error response = chat(messages) : {e}")
-
         end = time.time()
         print("Time to get response: "+str(end - start))
-        
-
         print("added "+domain+" to article")
-        i += 1
 
 
 

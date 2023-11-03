@@ -1,77 +1,85 @@
-# Comparison of KYC Providers: Sumsub
+# SEON.io - Advanced Fraud Prevention and KYC Solutions
 
-## Unique Selling Proposition: Flexible KYC Solutions for Various Industries
+SEON.io is an advanced fraud prevention and KYC (Know Your Customer) solution that offers a range of features and solutions to help businesses combat fraud and ensure secure customer onboarding. With its unique selling proposition of providing AI-powered fraud detection and prevention tools, SEON.io stands out as a reliable choice for businesses looking to protect their online platforms.
 
-Sumsub is a leading KYC provider that offers flexible solutions for user and business verification, as well as transaction monitoring. With its extensive global coverage and support, Sumsub caters to a wide range of industries, including fintech, trading, transportation, marketplaces, crypto, online gaming, and carsharing.
+## Usecases
 
-## Business Model and Pricing
+SEON.io caters to a wide range of usecases, including:
 
-Sumsub offers two pricing plans: "Growing" and "Enterprise". The "Growing" plan is designed for businesses with more than 1000 verifications per month. On the other hand, the "Enterprise" plan provides a custom price and includes additional features such as custom integration, personal customer success manager, single sign-on, priority support via chat, white labeling, reusable KYC, and API integration. The exact prices for these plans are not listed on the website, so it is recommended to book a demo to get detailed pricing information.
+- Account Takeover
+- Registration & Onboarding
+- Transaction Monitoring
+- Bonus Abuse
+- Chargeback Fraud
+- Checkout Fraud
+- Payment Fraud
+- AML Solutions & Checks
 
-## Use Cases
+## Solutions
 
-Sumsub's KYC solutions are suitable for various industries, including:
+SEON.io offers a comprehensive set of solutions to address fraud prevention and KYC needs. These solutions include:
 
-- Fintech
-- Trading
-- Transportation
-- Marketplaces
-- Crypto
-- Online Gaming
-- Carsharing
-
-## Solutions Offered
-
-Sumsub offers a range of solutions to meet different KYC needs:
-
-1. User Verification: Sumsub provides a comprehensive set of identity verification features, including ID verification, address verification, video identification, non-document verification, email/phone verification, biometric verification, document verification, age verification, reusable KYC, bank card check, crypto check, and liveness detection.
-
-2. Business Verification: Sumsub offers solutions for verifying businesses, ensuring compliance with regulatory requirements, and conducting AML screening.
-
-3. Transaction Monitoring: Sumsub provides tools for monitoring transactions and detecting suspicious activities to mitigate risks associated with money laundering and fraud.
+- Email Lookup
+- AML (Anti-Money Laundering)
+- AI & Machine Learning
+- Phone Lookup
+- Device Fingerprinting
+- Shopify App
+- IP Lookup
+- Integrations
 
 ## Key Features
 
-Sumsub's key features are categorized into five clusters:
+SEON.io provides a range of key features to enhance fraud prevention and KYC processes. These features are categorized into the following areas:
 
-### Cluster 1: Identity Verification
+### Identity Verification
 
-- ID Verification
-- Address Verification
-- Video Identification
-- Non-Doc Verification
-- Email/Phone Verification
-- Biometric Verification
-- Document Verification
-- Age Verification
-- Reusable KYC
-- Bank Card Check
-- Crypto Check
-- Liveness Detection
+- Email Lookup: Verify the validity and reputation of email addresses.
+- AML: Conduct Anti-Money Laundering checks to identify potential risks.
+- AI & Machine Learning: Utilize advanced algorithms to detect patterns and anomalies.
+- Phone Lookup: Validate phone numbers and detect potential fraud.
+- Device Fingerprinting: Identify unique device characteristics for fraud detection.
+- Shopify App: Seamlessly integrate SEON.io with Shopify for enhanced fraud prevention.
+- IP Lookup: Determine the geolocation and reputation of IP addresses.
+- Integrations: Integrate SEON.io with other platforms and tools for streamlined workflows.
 
-### Cluster 2: Compliance and Risk Management
+### Compliance and Risk Management
 
-- AML Screening
-- Compliance as a Service
+- Account Takeover: Detect and prevent unauthorized access to user accounts.
+- Registration & Onboarding: Verify user identities during the registration process.
+- Transaction Monitoring: Monitor transactions for suspicious activities.
+- Bonus Abuse: Identify and prevent abuse of promotional offers and bonuses.
+- Chargeback Fraud: Detect and prevent fraudulent chargebacks.
+- Checkout Fraud: Protect against fraudulent activities during the checkout process.
+- Payment Fraud: Prevent fraudulent payments and transactions.
+- AML Solutions & Checks: Ensure compliance with Anti-Money Laundering regulations.
 
-### Cluster 3: Data Management and Security
+### Data Management and Security
 
-No specific features listed.
+SEON.io does not provide specific features in this category.
 
-### Cluster 4: Integration and Automation
+### Integration and Automation
 
-- Workflow Builder
-- API Integration
+SEON.io does not provide specific features in this category.
 
-### Cluster 5: Global Coverage and Support
+### Global Coverage and Support
 
-- Support for 14,000+ document types
-- Coverage of 220+ countries and territories
+SEON.io offers global coverage and support to cater to businesses worldwide.
 
-## Summary
+## Pricing and Plans
 
-Sumsub is a comprehensive KYC provider that offers flexible solutions for user and business verification, as well as transaction monitoring. With support for over 14,000 document types from more than 220 countries and territories, Sumsub ensures global coverage and compliance with regulatory requirements. The platform also provides a workflow builder for creating customized verification flows and offers integration options through its API. To get detailed pricing information and explore the features further, it is recommended to book a demo with Sumsub.
+SEON.io offers a freemium business model, allowing users to get started for free with limited features. They also provide paid plans to meet the needs of businesses with higher requirements. The pricing and plans offered by SEON.io are as follows:
 
-*Please note that the information provided about Sumsub is based on the available data at the time of analysis. For the most accurate and up-to-date details, it is recommended to visit the Sumsub website or contact their sales team directly.*
+| Plan    | Price           | Features                                                                                      |
+|---------|-----------------|-----------------------------------------------------------------------------------------------|
+| Free    | $0              | - 2 users<br>- 10 custom rules<br>- 500 manual checks / month<br>- 2 queries / sec<br>- Email support |
+| Starter | $599 / month    | - 10 users<br>- 50 custom rules<br>- 1000 API calls / month<br>- 10 queries / sec<br>- Email support (response within 24 hours)<br>- API integration |
+| Premium | Contact us      | - Unlimited users<br>- Unlimited custom rules<br>- Unlimited API calls<br>- 10-100+ queries / sec<br>- Technical account management + premium customer support<br>- API integration |
 
-[Visit Sumsub's website](https://www.sumsub.com)
+Please note that the Premium plan offers custom pricing based on individual business requirements.
+
+## Getting Started
+
+To start using SEON.io, simply visit their website and sign up for a free account. From there, you can explore the features and functionality available in the free plan. If you require more advanced features and capabilities, you can upgrade to one of the paid plans offered by SEON.io.
+
+In conclusion, SEON.io provides a comprehensive fraud prevention and KYC solution with its AI-powered tools and wide range of features. With its flexible pricing options and global coverage, SEON.io is a reliable choice for businesses looking to enhance their fraud prevention measures and ensure secure customer onboarding.
