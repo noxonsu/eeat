@@ -82,23 +82,16 @@ if __name__ == "__main__":
 
 
 
-    chat = ChatOpenAI(temperature=0, max_tokens=2300, model_name="gpt-4-1106-preview")
-    messages = [
-        SystemMessage(content="Remove plan and prices which not have correct numbers. Remove $X and 'Contact team' prices. Return json"),
-        HumanMessage(content=json.dumps(datatoAdd))
-    ]
-    filtered_prices = chat(messages).content
-
     messages = [
         SystemMessage(content="Act like an analytic. Compare pricing plans and create comparsion review of "+INDUSTRY_KEYWORD+". Don't include projects without numbers. Return numbers and features. Return markdown."),
-        HumanMessage(content=json.dumps(filtered_prices))
+        HumanMessage(content=json.dumps(datatoAdd))
     ]
 
     start = time.time()
     try:
         chat = ChatOpenAI(temperature=0, model_name="gpt-4-1106-preview")
         response = chat(messages)
-        print("3.5 4k")
+        print("gpt-4-1106-preview")
     except Exception as e:
         print(e)
         print(".16k")
