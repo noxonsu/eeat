@@ -52,15 +52,15 @@ if __name__ == "__main__":
     input = clusterized_features_list_f+" \n\n "+prices_article
     
     messages = [
-        SystemMessage(content="""Create research article of features and prices in """+INDUSTRY_KEYWORD+""" . Keep numbers!  Kepp all project names. If possible add tables and lists. Return markdown. The title must included "KYC providers 2023". Compile Conclusion, Resume and Introduction to one short part and place to the start of article. Add 'We removed from comparsion companies witout prices and sign up functionality.' to the end of article. """),
+        SystemMessage(content="""Create research article of features and prices in """+INDUSTRY_KEYWORD+""" . Keep numbers!  Kepp all project names. If possible add tables and lists. Return markdown. The title must included "KYC providers 2023". Compile Conclusion, Resume and Introduction to one short part and place to the start of article. Add that We removed from comparsion companies witout prices and sign up functionality. Keep list of industry features """),
         HumanMessage(content=input)
     ]
 
     start = time.time()
     try:
-        chat = ChatOpenAI(model_name="gpt-4")
+        chat = ChatOpenAI(model_name="gpt-4-1106-preview")
         response = chat(messages)
-        print("4 4k")
+        print("gpt-4-1106-preview 4k")
     except:
         print(".16k")
         chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")

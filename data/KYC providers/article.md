@@ -1,156 +1,69 @@
-# KYC Providers 2023: A Comparative Analysis of Features and Prices
+# KYC Providers 2023: A Comparative Analysis of Features and Pricing
 
-This list represents the optimized features of KYC providers. The analysis was conducted on 63 companies, gathering a total of 577 features. The features were then clustered into five main categories: Identity Verification, Compliance and Risk Management, Data Management and Security, Integration and Automation, and Global Coverage and Support. The optimization process involved defining criteria for relevance, analyzing the list based on these criteria, and removing unnecessary items. The result is a comprehensive and informative list of features that accurately represent the capabilities of KYC providers.
+In the rapidly evolving world of digital finance and online transactions, the importance of robust Know Your Customer (KYC) processes cannot be overstated. KYC providers offer a range of services designed to help businesses verify the identity of their clients, comply with regulatory requirements, and manage risk effectively. This article presents an overview of current KYC providers, focusing on their features and pricing structures. We have streamlined our comparison by removing companies without transparent pricing or sign-up functionality.
+
+## Introduction, Resume, and Conclusion
+Our analysis draws on an in-depth examination of 63 KYC providers, showcasing a total of 577 features. These features were categorized into five main clusters for optimized comparison: Identity Verification, Compliance and Risk Management, Data Management and Security, Integration and Automation, and Global Coverage and Support. The optimization process entailed establishing relevance criteria, evaluating the list against these benchmarks, and discarding superfluous features. The result is a succinct yet comprehensive breakdown of the KYC provider landscape in 2023, emphasizing the most critical and effective features these companies offer.
 
 ## Features of KYC Providers
 
-### Cluster 1: Identity Verification
+KYC providers offer a broad spectrum of features, which have been categorized into five clusters for clarity:
 
-Identity Verification features include:
+1. **Identity Verification**
+   - ID document verification, biometrics, AI-powered identity checks, video KYC, and secure verification through bank transfer.
 
-- Identity proofing 
-- Flexible user verification 
-- AI-powered identity verification 
-- Phone number-based identity verification 
-- ID document verification 
-- Biometrics and data protection 
-- OCR technology for document reading and comparison 
-- Liveness and Face Match verification 
-- Manual identity verification 
-- Secure identity verification through bank transfer 
-- Video KYC 
-- Digital identity creation and verification 
-- Assisted identity verification 
-- Instant KYC for individual and corporate accounts 
-- Electronic KYC 
-- E-signature authentication 
-- Face verification 
-- Document authorization 
-- Verification of travel documents 
-- Secure verification of identity 
-- 3D liveness detection.
+2. **Compliance and Risk Management**
+   - Compliance management, AML screening, fraud detection with AI, sanctions screening, and risk assessments.
 
-### Cluster 2: Compliance and Risk Management
+3. **Data Management and Security**
+   - Secure data management, GDPR compliance, blockchain security audits, and 24/7 human supervision.
 
-Compliance and Risk Management features include:
+4. **Integration and Automation**
+   - Powerful APIs, cloud-based solutions, easy integration, and process automation.
 
-- Boosting sanctions compliance 
-- Compliance management 
-- Compliance with regulatory requirements 
-- AML screening 
-- RegTech solutions for AML programs and compliance 
-- AML and transaction monitoring 
-- Fraud detection with AI 
-- Fraud prevention 
-- Risk transactions identification 
-- Risk and compliance services 
-- Enhanced due diligence 
-- Customizable compliance solutions 
-- Continuous compliance 
-- Risk assessments based on intelligent data 
-- Geo-location and IP assessment 
-- Enhanced risk management 
-- Sanctions screening and monitoring 
-- PEP, sanctions, and adverse media screening 
-- Always-on risk monitoring 
-- Risk assessment 
-- Targeting risk typologies 
-- Configurable rules for screening and monitoring 
-- Risk-based approach 
-- Fraud management with proprietary machine learning and human oversight 
-- Automated identity verification and compliance 
-- 24/7 human supervision 
-- KYC / AML / Accreditation Check 
-- Non-documentary checks via government databases 
-- Compliance with regulations 
-- Automatic credit assessment and bankruptcy notification 
-- Reduced dependencies on platform operators 
-- Anti-money laundering (AML) measures 
-- Cloud migration and modernization 
-- Security sentiment analysis.
+5. **Global Coverage and Support**
+   - Extensive document type support, worldwide coverage, and a history of trusted service.
 
-### Cluster 3: Data Management and Security
+## KYC Provider Pricing Plans
 
-Data Management and Security features include:
-
-- Customers retain full control of their private data 
-- Maintain a secure paper trail of all documents 
-- Data enrichment 
-- Secure data management 
-- Secure and private identity 
-- Secure storage and management of digital identity 
-- Data security 
-- Patented data management 
-- Centralized investment management 
-- Secure remote meetings 
-- Protection against hackers, fraud, and human error 
-- Rigorous security policies and procedures 
-- Blockchain security audit 
-- DSGVO compliant 
-- Efficiency, speed, and privacy 
-- 24/7 human supervision.
-
-### Cluster 4: Integration and Automation
-
-Integration and Automation features include:
-
-- Powerful APIs and applications 
-- Flexible workflow builder 
-- Cloud and AI-based KYC and AML compliance solutions 
-- Integration with existing infrastructure 
-- Integration via Web SDK, Mobile SDK, or RESTful API 
-- Integration with other systems 
-- Modular design 
-- Easy integration 
-- Interfaces and integration 
-- Customizable workflows 
-- Access to top compliance experts 
-- Automation and machine process automation 
-- Automation 
-- Efficiency and performance improvements 
-- Time-saving automation 
-- Cloud migration and modernization 
-- Integrations with existing systems.
-
-### Cluster 5: Global Coverage and Support
-
-Global Coverage and Support features include:
-
-- Support for 13,000+ document types 
-- Strong presence in Europe 
-- Trusted by 300+ partners worldwide 
-- Access to over 300+ corporate registries across 100 countries 
-- Extensive global coverage with billions of data records 
-- Coverage of 195 countries 
-- Trusted by top banks, payment providers, legal firms, and consultancies 
-- Engaged community in multiple countries.
-
-## Pricing Comparison
+Here are some highlighted KYC providers along with their respective pricing details:
 
 ### SEON
-- Free Plan: $0, includes 2 users, 10 custom rules, 500 manual checks per month, 2 queries per second, Email support.
-- Starter Plan: $599/month, includes 10 users, 50 custom rules, 1000 API calls per month, 10 queries per second, Email support (response within 24 hours), API integration.
+- Free Plan: $0/month
+- Starter Plan: $599/month
+- Premium Plan: Contact for pricing
 
 ### Signicat
-- e-Signing Portal: From €0 to €13 per user per month based on the plan.
-- Signicat Mint: From €0 to €495/month + transaction fees. Advanced and Enterprise packages have custom pricing.
-- Digital Identity APIs: From €149/month. Customized plans have custom pricing.
+- e-Signing Portal: Free edition from €0
+- Signicat Mint: Paid plans from €495/month
+- Digital Identity APIs: Starter from €149/month
 
 ### SelfKey
-- Basic Plan: $99/month, includes KYC WorkFlow, AML Screening, ID Verification, SelfKey Network.
-- Pro Plan: $199/month, includes additional features such as Corporate KYC, Crypto AML, Accredited Investor, SelfKey Compliance Hub.
-
-### Jumio
-- Basic Plan: $45,625, includes Identity verification, Automated solutions, OCR and basic machine learning.
-- Advanced Plan: $853,750, includes additional features such as Manual review, Customer abandonment analysis.
-
-### Trulioo
-- Identity Verification Platform: $500/month
-- Biometric Authentication: $300/month
-- Mobile Deposit: $200/month
-- Check Fraud Defender: $400/month
+- Basic Plan: $99/month
+- Pro Plan: $199/month
+- Enterprise Plan: Custom pricing
 
 ### Veriff
-- Enterprise Plan: $0.22 per verification, includes a wide range of features.
+- Enterprise Plan: $0.22 per verification
+- Self-Serve Plan: Custom pricing
 
-We removed from comparison companies without prices and sign up functionality.
+### Mangopay
+- Standard Plan: Fees starting from €0.25 per transaction
+- Custom Plan: Tailored pricing for high volume
+
+### DIRO
+- Test Plan: Free
+- Launch Plan: Pay as you go
+- Scale Plan: Enterprise pricing
+
+### Civic
+- Developer Plan: FREE
+- Business Plan: $249
+- Custom Plan: Custom pricing
+
+### ComplyCube
+- Starter Plan: $0.10 per credit
+- Standard Plan: $159/month
+- Premium Plan: $449/month
+
+This comparison provides insights into the diverse range of pricing and services offered by KYC providers. Custom enterprise solutions are frequently available, warranting direct discussion with providers for more specific information. The selection of a KYC provider should be tailored to the specific needs of the business, taking into account factors such as volume of transactions, required features, and budget constraints.
