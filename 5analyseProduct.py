@@ -171,7 +171,8 @@ def main():
         print(i/total*100)
         print(company)
 
-        if company != "skip":  # Only fetch details if not already present
+        #Only fetch details if not already present
+        if company not in company_details:
             print(f"Analysing details for company: {company}")
             details = get_company_details(company)
             if details:
