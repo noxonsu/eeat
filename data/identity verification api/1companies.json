@@ -1,0 +1,280 @@
+{
+    "stripe.com": {
+        "url": "https://stripe.com/docs/identity",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://stripe.com/docs/identity/verify-identity-documents",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://stripe.com/docs/identity/verify-identity-documents",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "plaid.com": {
+        "url": "https://plaid.com/products/identity/",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://plaid.com/products/identity-verification/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://plaid.com/products/identity-verification/",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "developers.id.me": {
+        "url": "https://developers.id.me/",
+        "status": "single project",
+        "nature": "Invalid: DDOS protection screen"
+    },
+    "www.idanalyzer.com": {
+        "url": "https://www.idanalyzer.com/",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.idanalyzer.com/products/id-analyzer-core-api.html",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://www.idanalyzer.com/products/id-analyzer-core-api.html",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "www.idenfy.com": {
+        "url": "https://www.idenfy.com/",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.idenfy.com/identity-verification-price/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://www.idenfy.com/identity-verification-price/",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "www.klippa.com": {
+        "url": "https://www.klippa.com/en/identity-verification/api/",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.klippa.com/en/ocr/ocr-api/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:u9ck6B6nSjgJ:https://www.klippa.com/en/ocr/ocr-api/&hl=en&gl=us",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "www.moderntreasury.com": {
+        "url": "https://www.moderntreasury.com/learn/what-is-an-identity-verification-api",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.moderntreasury.com/pricing",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://www.moderntreasury.com/pricing",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "developer.mastercard.com": {
+        "url": "https://developer.mastercard.com/mastercard-id-assist/documentation/api-reference/",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://developer.mastercard.com/cross-border-services/documentation/use-cases/pricing-model/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:agrKlzUdgMcJ:https://developer.mastercard.com/cross-border-services/documentation/use-cases/pricing-model/&hl=en&gl=us",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "diro.io": {
+        "url": "https://diro.io/products/identity-verification/",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://diro.io/pricing/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:wtsy_D4SIAIJ:https://diro.io/pricing/&hl=en&gl=us",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "surepass.io": {
+        "url": "https://surepass.io/identity-verification/",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://surepass.io/identity-verification/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://surepass.io/identity-verification/",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "www.tracers.com": {
+        "url": "https://www.tracers.com/identity-verification-api/",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.tracers.com/skip-tracing-api/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:MGaMX1NvD5UJ:https://www.tracers.com/skip-tracing-api/&hl=en&gl=us",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "developers.docusign.com": {
+        "url": "https://developers.docusign.com/docs/idevidence-api/",
+        "status": "single project",
+        "nature": "Invalid: No text input provided."
+    },
+    "microblink.com": {
+        "url": "https://microblink.com/resources/blog/best-id-verification-api/",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://microblink.com/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://microblink.com/",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "developer.healthgorilla.com": {
+        "url": "https://developer.healthgorilla.com/docs/provider-authorization-api",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://developer.healthgorilla.com/docs",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:cye7RpNmcpgJ:https://developer.healthgorilla.com/docs&hl=en&gl=us",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "developer.apple.com": {
+        "url": "https://developer.apple.com/wallet/get-started-with-verify-with-wallet/",
+        "status": "invalid",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://developer.apple.com/documentation/appstoreconnectapi/list_all_prices_for_an_app",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:cbpRBc6NBUsJ:https://developer.apple.com/documentation/appstoreconnectapi/list_all_prices_for_an_app&hl=en&gl=us",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "veridas.com": {
+        "url": "https://veridas.com/en/apis/",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://veridas.com/en/apis/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://veridas.com/en/apis/",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "signdesk.com": {
+        "url": "https://signdesk.com/in/id-verification/",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://signdesk.com/plans",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://signdesk.com/plans",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "onfido.com": {
+        "url": "https://onfido.com/blog/complete-guide-to-id-verification/",
+        "status": "invalid",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://onfido.com/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:64J3nuedaLwJ:https://onfido.com/&hl=en&gl=us",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "www.idcentral.io": {
+        "url": "https://www.idcentral.io/solution/identity-verification/",
+        "status": "invalid",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.idcentral.io/solution/identity-verification/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://www.idcentral.io/solution/identity-verification/",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "legal.thomsonreuters.com": {
+        "url": "https://legal.thomsonreuters.com/en/insights/white-papers/integrating-id-verification-with-api-technology",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://legal.thomsonreuters.com/en/products/legal-api",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:g_8G7VLaM0sJ:https://legal.thomsonreuters.com/en/products/legal-api&hl=en&gl=us",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "www.trustid.co.uk": {
+        "url": "https://www.trustid.co.uk/trustid-services-right-to-work/developer-api/",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.trustid.co.uk/trustid-services-right-to-work/developer-api/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://www.trustid.co.uk/trustid-services-right-to-work/developer-api/",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "experience.idemia.com": {
+        "url": "https://experience.idemia.com/identity-proofing/develop/identity-proofing-verification/api-docs/",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://experience.idemia.com/identity-proofing/develop/identity-proofing-verification/api-docs/1/liveness-detection/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:oNZU0vi-6cUJ:https://experience.idemia.com/identity-proofing/develop/identity-proofing-verification/api-docs/1/liveness-detection/&hl=en&gl=us",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "stackoverflow.com": {
+        "url": "https://stackoverflow.com/questions/75515665/how-to-perform-user-identity-verification-on-a-low-budget",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://stackoverflow.com/questions/75780712/are-there-any-apis-that-can-get-the-average-price-for-a-product",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:7ytj-Kjk7M8J:https://stackoverflow.com/questions/75780712/are-there-any-apis-that-can-get-the-average-price-for-a-product&hl=en&gl=us",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "www.getapp.com": {
+        "url": "https://www.getapp.com/all-software/identity-verification/f/api/",
+        "status": "single project",
+        "nature": "Invalid: DDOS protection screen"
+    },
+    "cognitohq.com": {
+        "url": "https://cognitohq.com/docs/identity/id-verification-api-quickstart",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://cognitohq.com/docs/identity/id-verification-api-quickstart",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://cognitohq.com/docs/identity/id-verification-api-quickstart",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "community.onespan.com": {
+        "url": "https://community.onespan.com/documentation/onespan-identity-verification/guides/web-service-guide/developer/onespan-identity-verification-rest-api",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://community.onespan.com/products/onespan-identity-verification",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://community.onespan.com/products/onespan-identity-verification",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "www.reddit.com": {
+        "url": "https://www.reddit.com/r/ProductManagement/comments/uir2e6/do_i_build_or_buy_an_identity_verification_api/",
+        "status": "invalid",
+        "nature": "Invalid: This is a Reddit homepage and does not contain any information about products, services, or solutions of companies."
+    },
+    "www.digitalid.com": {
+        "url": "https://www.digitalid.com/developer",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.digitalid.com/business/identity-verification",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://www.digitalid.com/business/identity-verification",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "developer.bt.com": {
+        "url": "https://developer.bt.com/products/know-your-customer-identity-verification-api",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://developer.bt.com/api-documentation/know-your-customer",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://developer.bt.com/api-documentation/know-your-customer",
+        "5prompt_Hash": "49b0b9983385d1bf41ff32585449d184"
+    },
+    "medium.com": {
+        "url": "https://medium.com/codex/developers-guide-for-id-verification-apis-in-banking-apps-661c64fc0e9",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://medium.com/@livajorge7/a-comprehensive-guide-to-price-comparison-apis-unlock-the-power-of-competitive-pricing-with-cronj-49a9b9ac3265",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:ExA97Qxca30J:https://medium.com/%40livajorge7/a-comprehensive-guide-to-price-comparison-apis-unlock-the-power-of-competitive-pricing-with-cronj-49a9b9ac3265&hl=en&gl=us",
+        "5prompt_Hash": "7a64404e9ba2059aaf2081a898fca779"
+    },
+    "www.ipqualityscore.com": {
+        "url": "https://www.ipqualityscore.com/fraud-prevention/identity-verification-api-solution",
+        "status": "single project",
+        "nature": "Invalid: This is a DDOS protection screen."
+    },
+    "developer.equifax.com": {
+        "url": "https://developer.equifax.com/products/apiproducts/digital-identity-trust",
+        "status": "single project",
+        "nature": "Invalid: DDOS protection screen"
+    },
+    "endato.com": {
+        "url": "https://endato.com/developer-apis/id-verification/",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://endato.com/developer-apis/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://endato.com/developer-apis/",
+        "5prompt_Hash": "7a64404e9ba2059aaf2081a898fca779"
+    },
+    "deepvue.tech": {
+        "url": "https://deepvue.tech/identity-verification/",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://deepvue.tech/identity-verification/pricing",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://deepvue.tech/identity-verification/pricing",
+        "5prompt_Hash": "7a64404e9ba2059aaf2081a898fca779"
+    },
+    "www.verifai.com": {
+        "url": "https://www.verifai.com/en/web-sdk/",
+        "status": "single project",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.verifai.com/en/identity-verification/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://www.verifai.com/en/identity-verification/",
+        "5prompt_Hash": "7a64404e9ba2059aaf2081a898fca779"
+    },
+    "www.signicat.com": {
+        "url": "https://www.signicat.com/products/digital-identity-apis",
+        "status": "single project",
+        "nature": "Invalid: This is a DDOS protection screen."
+    },
+    "m.youtube.com": {
+        "url": "https://m.youtube.com/watch?v=hBXRiCF5Xmw",
+        "nature": "Invalid: The input provided does not contain any relevant information or mention of companies, products, or services."
+    },
+    "www.idfy.com": {
+        "url": "https://www.idfy.com/blog/how-the-passport-verification-api-is-revolutionizing-identity-verification/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.idfy.com/signature-extract-api/",
+        "priceAndPlansCached": "Not found",
+        "5prompt_Hash": "7a64404e9ba2059aaf2081a898fca779"
+    }
+}

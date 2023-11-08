@@ -78,7 +78,7 @@ def main():
     print(len(data), "domains to process.")
 
     for domain, domain_data in data.items():
-        print(f"\n\nProcessing {domain}...")
+        print(f"\n\nProcessing prices {domain}...")
         plans_url, plans_url_cached = process_domain_data(domain, domain_data)
 
         # Handle found plans URL

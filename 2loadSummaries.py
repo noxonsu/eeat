@@ -96,7 +96,7 @@ def main():
         print ("Analyse "+domain)
 
         # save to tmp.html
-        with open("tmp.html", "w") as f:
+        with open("tmp.html", "w", encoding='utf-8') as f:
            f.write(summary['text_content'])
             
         nature, extracted_links = is_product_or_list(summary['text_content'], list(company_products))
