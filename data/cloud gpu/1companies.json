@@ -138,8 +138,10 @@
         "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
     },
     "unihost.com": {
-        "url": "https://unihost.com/blog/dedicated-server-with-gpu/",
-        "nature": "list of projects"
+        "url": "https://unihost.com/en/",
+        "nature": "list of projects",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:v8WfQ9yaqHAJ:https://unihost.com/en/&hl=en&gl=us",
+        "sourcekeyword": "- Unihost:  Dedicated server with GPU"
     },
     "selectel.ru": {
         "url": "https://selectel.ru/en/services/dedicated/gpu/",
@@ -254,5 +256,11 @@
         "nature": "single project",
         "priceAndPlansCrawled": "https://www.leaseweb.us/dedicated-servers/gpu-servers",
         "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://www.leaseweb.us/dedicated-servers/gpu-servers"
+    },
+    "www.serverhub.com": {
+        "url": "https://www.serverhub.com/dedicated-servers/gpu-servers",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.serverhub.com/addons/network-addons",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:6--AP-cI8cMJ:https://www.serverhub.com/addons/network-addons&hl=en&gl=us"
     }
 }
