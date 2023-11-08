@@ -1,0 +1,40 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: 1loadSerp",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/1loadSerp.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: 2loadSummaries",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/2loadSummaries.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: 4searchProducts",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/4searchProducts.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: 3searchPrices",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/3searchPrices.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: Run All Scripts Sequentially",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/run_all.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}

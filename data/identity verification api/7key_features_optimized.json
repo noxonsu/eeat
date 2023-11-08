@@ -1,0 +1,68 @@
+{
+    "title": "Optimized Identity Verification API Features List",
+    "intro": "This list represents the consolidated and refined features of identity verification APIs, derived from an analysis of 30 sites and an initial set of 191 features. The optimization process involved removing redundant, unclear, and irrelevant items to focus on the most critical and informative features that add value to the identity verification process.",
+    "resume": "After careful review and optimization, the list has been streamlined to include only the most relevant features that are essential for identity verification APIs. The features are categorized to provide a clear understanding of the capabilities and services offered by these APIs.",
+    "features": {
+        "Document Verification": [
+            "Verify identity documents from more than 120 countries",
+            "Comparison of scanned passport image or entered details against official records",
+            "Detection of tampered or counterfeit passports",
+            "Automatic ID document recognition by language and country",
+            "Document scanning and data extraction",
+            "MRZ and checksum verification for KYC"
+        ],
+        "Biometric Analysis": [
+            "Liveness and face-comparison biometric tests",
+            "Facial recognition technology for preventing impersonation attempts",
+            "AI-based liveness detection",
+            "Accurate biometric authentication",
+            "Matching photo IDs with selfies"
+        ],
+        "Compliance and Security": [
+            "Compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations",
+            "Supports authentication using OAuth 2.0",
+            "Compliant with GDPR",
+            "Secure data transfer via SSL connections",
+            "Privacy-sensitive data masking",
+            "ISO-certified servers"
+        ],
+        "Integration and Scalability": [
+            "Easy integration with REST APIs",
+            "Scalability for handling large volumes of verification",
+            "Seamless integration with other platforms, websites, or apps",
+            "Supports ID documents from 150+ countries",
+            "Cloud-based software accessible from any device"
+        ],
+        "Real-Time Verification": [
+            "Real-time identity and income verification",
+            "Instant notifications",
+            "Real-time verification with APIs",
+            "Real-time data extraction",
+            "Real-time requests to a live database"
+        ],
+        "User Experience": [
+            "Intuitive navigation",
+            "Quick and secure verification process",
+            "Simple and user-friendly interface",
+            "Conversion-optimized verification flow",
+            "Paperless document verification"
+        ],
+        "Advanced Technology": [
+            "Artificial intelligence (AI) and machine learning-powered verification",
+            "AI-Powered Verification Checks",
+            "AI-driven data extraction",
+            "AI algorithms for age verification and fraud detection"
+        ],
+        "Global Coverage": [
+            "Global coverage of 500+ ID types",
+            "Verify identity with government, bank, utility, and other data sources",
+            "Supports verification in multiple languages"
+        ],
+        "Additional Services": [
+            "Generate audit trail on demand",
+            "Access to public and private records database",
+            "Comprehensive API for identity document verification",
+            "Extensive documentation for development support"
+        ]
+    }
+}

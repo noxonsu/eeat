@@ -1,0 +1,2164 @@
+{
+    "stripe.com": {
+        "product_name": "Stripe Identity",
+        "call_to_action": "Sign up",
+        "use_cases": [
+            "Verify the authenticity of ID documents",
+            "Capture IDs with a conversion-optimized verification flow",
+            "Match photo IDs with selfies",
+            "Validate Social Security numbers (SSNs)"
+        ],
+        "solutions": [
+            "Prevent fraud",
+            "Streamline risk operations",
+            "Increase trust and safety"
+        ],
+        "key_features": {
+            "Document Verification": [
+                "Verify the authenticity of ID documents from more than 120 countries",
+                "Capture IDs with a conversion-optimized verification flow"
+            ],
+            "Biometric Analysis": [
+                "Match photo IDs with selfies"
+            ],
+            "Compliance and Security": [
+                "Validate Social Security numbers (SSNs)"
+            ],
+            "Integration and Scalability": [
+                "Easy integration with REST APIs",
+                "Scalability for handling large volumes of verification"
+            ],
+            "Real-Time Verification": [
+                "Listen for verification outcomes",
+                "Automatically trigger reactions"
+            ],
+            "User Experience": [
+                "Conversion-optimized verification flow"
+            ],
+            "Advanced Technology": [
+                "AI-powered verification checks"
+            ],
+            "Global Coverage": [
+                "Verify the authenticity of ID documents from more than 120 countries"
+            ],
+            "Additional Services": [
+                "Access collected images and extracted data from ID documents"
+            ]
+        },
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "plaid.com": {
+        "product_name": "Plaid Identity Verification API",
+        "call_to_action": "Get started",
+        "use_cases": [
+            "Identity verification",
+            "Improving signup conversion rates",
+            "Reducing fraud",
+            "Complying with KYC rules"
+        ],
+        "solutions": [
+            "Verify users' identities using bank data",
+            "Retrieve user names, phone numbers, addresses, and emails for individual and joint accounts",
+            "Personalize forms for onboarding",
+            "Reduce fraud and help prevent account takeovers"
+        ],
+        "key_features": [
+            "Retrieve various account holder information on file with the financial institution",
+            "Retrieve names, emails, phone numbers, and addresses",
+            "Auto-fill forms with identity data when users link their bank accounts",
+            "Help prevent account takeovers and transaction fraud",
+            "Complement KYC procedures",
+            "50% reduction in customer service queries",
+            "80% approval rates for ACH-funded transfers after integrating with Plaid"
+        ],
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.idanalyzer.com": {
+        "products": [
+            {
+                "name": "Core API ID Scan & Verification",
+                "call_to_action": "Talk to a manager",
+                "use_cases": [
+                    "KYC",
+                    "Driver Verification",
+                    "User Onboarding",
+                    "User Verification",
+                    "Identity Verification",
+                    "Fraud Detection",
+                    "Financial Services",
+                    "Marketplace & Communities",
+                    "Gaming",
+                    "Transport",
+                    "Retail & Ecommerce",
+                    "Access Control"
+                ],
+                "solutions": [
+                    "Document OCR Scanner Extract ID Data",
+                    "Identity Verification Verify Remote User",
+                    "Biometric Verification Face Recognition",
+                    "Document Authentication Fake ID Check",
+                    "Anti-Money Laundering AML, PEP, Crime Checks",
+                    "Document Automation Generate & Sign Documents",
+                    "Regulatory Compliance GDPR, HIPAA, ISO & IAL2",
+                    "Supported Documents Supports 190+ Countries"
+                ],
+                "key_features": [
+                    "Verify identity documents from more than 190 countries",
+                    "High accuracy OCR for extracting data",
+                    "Return identity data in JSON format",
+                    "Biometric facial recognition for verification",
+                    "Check authenticity of documents"
+                ],
+                "is_related": true
+            },
+            {
+                "name": "DocuPass Rapid User Verification",
+                "call_to_action": "Book a demo",
+                "use_cases": [
+                    "KYC",
+                    "Driver Verification",
+                    "User Onboarding",
+                    "User Verification",
+                    "Identity Verification",
+                    "Fraud Detection",
+                    "Financial Services",
+                    "Marketplace & Communities",
+                    "Gaming",
+                    "Transport",
+                    "Retail & Ecommerce",
+                    "Access Control"
+                ],
+                "solutions": [
+                    "Document OCR Scanner Extract ID Data",
+                    "Identity Verification Verify Remote User",
+                    "Biometric Verification Face Recognition",
+                    "Document Authentication Fake ID Check",
+                    "Anti-Money Laundering AML, PEP, Crime Checks",
+                    "Document Automation Generate & Sign Documents",
+                    "Regulatory Compliance GDPR, HIPAA, ISO & IAL2",
+                    "Supported Documents Supports 190+ Countries"
+                ],
+                "key_features": [
+                    "Identify passports, driver licenses, and ID cards from over 190 countries",
+                    "Cross-platform support",
+                    "Autonomous authentication in 3 seconds",
+                    "High accuracy with deep learning models",
+                    "Reinforced security measures",
+                    "Rapid integration into new or existing systems"
+                ],
+                "is_related": true
+            },
+            {
+                "name": "ID Fort Enterprise On-Premise KYC",
+                "call_to_action": "Talk to team",
+                "use_cases": [
+                    "KYC",
+                    "Driver Verification",
+                    "User Onboarding",
+                    "User Verification",
+                    "Identity Verification",
+                    "Fraud Detection",
+                    "Financial Services",
+                    "Marketplace & Communities",
+                    "Gaming",
+                    "Transport",
+                    "Retail & Ecommerce",
+                    "Access Control"
+                ],
+                "solutions": [
+                    "Document OCR Scanner Extract ID Data",
+                    "Identity Verification Verify Remote User",
+                    "Biometric Verification Face Recognition",
+                    "Document Authentication Fake ID Check",
+                    "Anti-Money Laundering AML, PEP, Crime Checks",
+                    "Document Automation Generate & Sign Documents",
+                    "Regulatory Compliance GDPR, HIPAA, ISO & IAL2",
+                    "Supported Documents Supports 190+ Countries"
+                ],
+                "key_features": [
+                    "Scan passports, driver licenses, and identity cards from over 190 countries",
+                    "High accuracy OCR for extracting data",
+                    "Return identity data in JSON format",
+                    "Biometric facial recognition for verification",
+                    "Check authenticity of documents"
+                ],
+                "is_related": true
+            },
+            {
+                "name": "Vault Identity Cloud Storage",
+                "call_to_action": "Sign up",
+                "use_cases": [],
+                "solutions": [],
+                "key_features": [],
+                "is_related": false
+            },
+            {
+                "name": "Prime ID Scanner Desktop ID Software",
+                "call_to_action": "Talk to a manager",
+                "use_cases": [
+                    "KYC",
+                    "Driver Verification",
+                    "User Onboarding",
+                    "User Verification",
+                    "Identity Verification",
+                    "Fraud Detection",
+                    "Financial Services",
+                    "Marketplace & Communities",
+                    "Gaming",
+                    "Transport",
+                    "Retail & Ecommerce",
+                    "Access Control"
+                ],
+                "solutions": [
+                    "Document OCR Scanner Extract ID Data",
+                    "Identity Verification Verify Remote User",
+                    "Biometric Verification Face Recognition",
+                    "Document Authentication Fake ID Check",
+                    "Anti-Money Laundering AML, PEP, Crime Checks",
+                    "Document Automation Generate & Sign Documents",
+                    "Regulatory Compliance GDPR, HIPAA, ISO & IAL2",
+                    "Supported Documents Supports 190+ Countries"
+                ],
+                "key_features": [
+                    "Scan passports, driver licenses, and identity cards from over 190 countries",
+                    "High accuracy OCR for extracting data",
+                    "Return identity data in JSON format",
+                    "Biometric facial recognition for verification",
+                    "Check authenticity of documents"
+                ],
+                "is_related": true
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.idenfy.com": {
+        "product_name": "iDenfy Identity Verification API",
+        "call_to_action": "Get a free demo",
+        "usecases": [
+            "Know Your Customer (KYC) compliance",
+            "Anti-Money Laundering (AML) compliance",
+            "Fraud prevention",
+            "User onboarding",
+            "Identity verification for financial institutions",
+            "Identity verification for gambling and gaming platforms",
+            "Identity verification for streaming platforms",
+            "Identity verification for transportation and sharing economy platforms"
+        ],
+        "solutions": [
+            "Full-stack identity verification service",
+            "NFC chip-based identity verification",
+            "AML screening",
+            "Business verification solution",
+            "Address verification",
+            "Phone verification",
+            "Fraud scoring",
+            "Proxy detection"
+        ],
+        "key_features": {
+            "Document Verification": [
+                "Automatic ID document detection recognizes documents by type and country",
+                "Support for over 2000 supported documents from more than 200 countries and territories",
+                "Identity information extraction in as little as 0.02 seconds",
+                "Technical checks to detect fraud or inconsistencies and verify information"
+            ],
+            "Facial Recognition": [
+                "Machine learning and biometric algorithms for face scanning and ID photo verification",
+                "98.4% success rate after 5 million face tests",
+                "Detection of photo and video spoofing, montage, and graphic manipulations"
+            ],
+            "3D Liveness Detection": [
+                "Patented 3D liveness detection and anti-spoofing technology",
+                "Detection of digital images, 2D pictures, high and low-resolution videos, deep fakes, paper, masks, animations, and 3D projections",
+                "Detection of closed eyes, wax figures, animations, and 3D-manufactured heads"
+            ],
+            "24/7 Human Supervision": [
+                "Double-checking of verifications by in-house team of identity experts",
+                "Manual liveness and fraud detection",
+                "Increased success rate and accuracy of data extraction"
+            ],
+            "Anti-Money Laundering Compliance": [
+                "Automatic checks of international sanctions, Interpol, lost documents, and politically exposed persons databases",
+                "Allows further compliance officer inspection",
+                "Prevention of use of illegally obtained income"
+            ]
+        },
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": [
+                {
+                    "product": "Identity Verification",
+                    "price": "Contact sales for pricing"
+                },
+                {
+                    "product": "AML Compliance",
+                    "price": "Contact sales for pricing"
+                },
+                {
+                    "product": "Business Verification",
+                    "price": "Contact sales for pricing"
+                },
+                {
+                    "product": "NFC verification",
+                    "price": "Contact sales for pricing"
+                },
+                {
+                    "product": "Phone Number Verification",
+                    "price": "Contact sales for pricing"
+                },
+                {
+                    "product": "Proxy Detection",
+                    "price": "Contact sales for pricing"
+                },
+                {
+                    "product": "Proof of Address Verification",
+                    "price": "Contact sales for pricing"
+                },
+                {
+                    "product": "Customer's Risk Score Verification",
+                    "price": "Contact sales for pricing"
+                }
+            ]
+        }
+    },
+    "www.klippa.com": {
+        "product_name": "Klippa Identity Verification API",
+        "call_to_action": "Book a demo",
+        "use_cases": [
+            "Customer onboarding",
+            "Regulatory compliance",
+            "Age verification",
+            "Identity fraud detection"
+        ],
+        "solutions": [
+            "Automated ID document verification",
+            "Data extraction from IDs",
+            "Data field validation",
+            "MRZ cross-checking",
+            "Fraudulent ID detection"
+        ],
+        "key_features": {
+            "Document Verification": [
+                "Automatic ID document recognition by language and country",
+                "Supports ID documents from 150+ countries",
+                "Data extraction within seconds",
+                "Robust and flexible data capture with mobile devices"
+            ],
+            "Biometric Analysis": [
+                "AI-powered liveness detection",
+                "Matching photo IDs with selfies"
+            ],
+            "Compliance and Security": [
+                "Compliance with KYC and AML regulations",
+                "Supports authentication using OAuth 2.0",
+                "Compliant with GDPR",
+                "Secure data transfer via SSL connections",
+                "Privacy-sensitive data masking",
+                "ISO-certified servers"
+            ],
+            "Integration and Scalability": [
+                "Easy integration with REST APIs",
+                "Seamless integration with other platforms, websites, or apps",
+                "Supports ID documents from 150+ countries",
+                "Cloud-based software accessible from any device"
+            ],
+            "Real-Time Verification": [
+                "Real-time identity verification",
+                "Instant notifications",
+                "Real-time data extraction",
+                "Real-time requests to a live database"
+            ],
+            "User Experience": [
+                "Intuitive navigation",
+                "Quick and secure verification process",
+                "Simple and user-friendly interface",
+                "Conversion-optimized verification flow",
+                "Paperless document verification"
+            ],
+            "Advanced Technology": [
+                "AI-powered verification checks",
+                "AI-driven data extraction",
+                "AI algorithms for age verification and fraud detection"
+            ],
+            "Global Coverage": [
+                "Global coverage of 500+ ID types",
+                "Supports verification in multiple languages"
+            ],
+            "Additional Services": [
+                "Generate audit trail on demand",
+                "Access to public and private records database",
+                "Comprehensive API for identity document verification",
+                "Extensive documentation for development support"
+            ]
+        },
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.moderntreasury.com": {
+        "service_name": "Modern Treasury",
+        "call_to_action": "Talk to us",
+        "usecases": [
+            "ID and bank account verification",
+            "Criminal database checks",
+            "Authenticity verification for captured ID information",
+            "Matching selfies and photos to IDs",
+            "Validation of Social Security numbers (SSNs) and Tax Identification numbers (TINs)",
+            "Phone number verification",
+            "Identity verification using utility, government, and bank login portals",
+            "Pulling credit reports and other banking and financial information"
+        ],
+        "solutions": [
+            "Streamlining the identity verification process",
+            "Preventing fraud",
+            "Increasing the safety of businesses",
+            "Ensuring users are who they claim to be"
+        ],
+        "key_features": {
+            "Document Verification": [
+                "Verify identity documents from more than 120 countries",
+                "Comparison of scanned passport image or entered details against official records",
+                "Detection of tampered or counterfeit passports",
+                "Automatic ID document recognition by language and country",
+                "Document scanning and data extraction",
+                "MRZ and checksum verification for KYC"
+            ],
+            "Biometric Analysis": [
+                "Liveness and face-comparison biometric tests",
+                "Facial recognition technology for preventing impersonation attempts",
+                "AI-based liveness detection",
+                "Accurate biometric authentication",
+                "Matching photo IDs with selfies"
+            ],
+            "Compliance and Security": [
+                "Compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations",
+                "Supports authentication using OAuth 2.0",
+                "Compliant with GDPR",
+                "Secure data transfer via SSL connections",
+                "Privacy-sensitive data masking",
+                "ISO-certified servers"
+            ],
+            "Integration and Scalability": [
+                "Easy integration with REST APIs",
+                "Scalability for handling large volumes of verification",
+                "Seamless integration with other platforms, websites, or apps",
+                "Supports ID documents from 150+ countries",
+                "Cloud-based software accessible from any device"
+            ],
+            "Real-Time Verification": [
+                "Real-time identity and income verification",
+                "Instant notifications",
+                "Real-time verification with APIs",
+                "Real-time data extraction",
+                "Real-time requests to a live database"
+            ],
+            "User Experience": [
+                "Intuitive navigation",
+                "Quick and secure verification process",
+                "Simple and user-friendly interface",
+                "Conversion-optimized verification flow",
+                "Paperless document verification"
+            ],
+            "Advanced Technology": [
+                "Artificial intelligence (AI) and machine learning-powered verification",
+                "AI-Powered Verification Checks",
+                "AI-driven data extraction",
+                "AI algorithms for age verification and fraud detection"
+            ],
+            "Global Coverage": [
+                "Global coverage of 500+ ID types",
+                "Verify identity with government, bank, utility, and other data sources",
+                "Supports verification in multiple languages"
+            ],
+            "Additional Services": [
+                "Generate audit trail on demand",
+                "Access to public and private records database",
+                "Comprehensive API for identity document verification",
+                "Extensive documentation for development support"
+            ]
+        },
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": [
+                {
+                    "plan": "Enterprise",
+                    "price": "Contact sales for pricing"
+                }
+            ],
+            "businessModel": "Modern Treasury is an independent software layer that provides payment operations and treasury management solutions. They offer a platform with features such as bank payments API, reconciliation, ledger database, integrations & warehouse sync, fraud detection, KYC & KYB, unified dashboards, and virtual accounts. Their pricing is designed for scale and is based on the elements of the platform that customers actually use. They do not charge per transaction fees or basis points per transaction. Modern Treasury does not sit in the flow of funds and does not hold customer funds in their bank accounts. They are a reliable and secure partner, offering enterprise-grade security features and granular access controls. They work with a range of companies, from fast-growing startups to large complex enterprises. Customer support is provided through assigned customer success managers and optional professional implementation services are available for complex use cases."
+        }
+    },
+    "developer.mastercard.com": {
+        "call_to_action": "Sign up",
+        "usecases": [],
+        "solutions": [],
+        "key_features": {},
+        "is_related_to_identity_verification_api": false,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "diro.io": {
+        "call_to_action": "Request a demo",
+        "usecases": [
+            "Customer onboarding",
+            "Proof of address",
+            "Payment",
+            "Lending and mortgage",
+            "Merchant onboarding (KYB)",
+            "Vendor onboarding (KYB)",
+            "Incorporation document (KYB)"
+        ],
+        "solutions": [
+            "Verify identity based on successful login at bank, utility, and government portals",
+            "Serve as a second verification layer to captured driver licenses and passports",
+            "Authenticate name and address information against bank, utility, and government sources",
+            "Eliminate fake and stolen identities by leveraging independent and trusted data sources",
+            "Increase proof of identity and eliminate fraud"
+        ],
+        "key_features": {
+            "Document Verification": [
+                "Verify identity documents from more than 120 countries",
+                "Comparison of scanned passport image or entered details against official records",
+                "Detection of tampered or counterfeit passports",
+                "Automatic ID document recognition by language and country",
+                "Document scanning and data extraction",
+                "MRZ and checksum verification for KYC"
+            ],
+            "Biometric Analysis": [
+                "Liveness and face-comparison biometric tests",
+                "Facial recognition technology for preventing impersonation attempts",
+                "AI-based liveness detection",
+                "Accurate biometric authentication",
+                "Matching photo IDs with selfies"
+            ],
+            "Compliance and Security": [
+                "Compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations",
+                "Supports authentication using OAuth 2.0",
+                "Compliant with GDPR",
+                "Secure data transfer via SSL connections",
+                "Privacy-sensitive data masking",
+                "ISO-certified servers"
+            ],
+            "Integration and Scalability": [
+                "Easy integration with REST APIs",
+                "Scalability for handling large volumes of verification",
+                "Seamless integration with other platforms, websites, or apps",
+                "Supports ID documents from 150+ countries",
+                "Cloud-based software accessible from any device"
+            ],
+            "Real-Time Verification": [
+                "Real-time identity and income verification",
+                "Instant notifications",
+                "Real-time verification with APIs",
+                "Real-time data extraction",
+                "Real-time requests to a live database"
+            ],
+            "User Experience": [
+                "Intuitive navigation",
+                "Quick and secure verification process",
+                "Simple and user-friendly interface",
+                "Conversion-optimized verification flow",
+                "Paperless document verification"
+            ],
+            "Advanced Technology": [
+                "Artificial intelligence (AI) and machine learning-powered verification",
+                "AI-Powered Verification Checks",
+                "AI-driven data extraction",
+                "AI algorithms for age verification and fraud detection"
+            ],
+            "Global Coverage": [
+                "Global coverage of 500+ ID types",
+                "Verify identity with government, bank, utility, and other data sources",
+                "Supports verification in multiple languages"
+            ],
+            "Additional Services": [
+                "Generate audit trail on demand",
+                "Access to public and private records database",
+                "Comprehensive API for identity document verification",
+                "Extensive documentation for development support"
+            ]
+        },
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": [
+                {
+                    "plan": "Free",
+                    "description": "Verify any document (domestic or international) up to 10 verifications per month.",
+                    "features": [
+                        "APIs",
+                        "Management console"
+                    ]
+                },
+                {
+                    "plan": "Launch",
+                    "description": "Pay as you go. Launch your project with unlimited verifications and no contractual minimums.",
+                    "features": [
+                        "Advanced APIs",
+                        "Management console",
+                        "Multi-user security"
+                    ]
+                },
+                {
+                    "plan": "Enterprise",
+                    "description": "Get tailored solutions, volume pricing, and dedicated support for your team (500+ verification or more).",
+                    "features": [
+                        "Advanced APIs",
+                        "Management console",
+                        "Multi-user security",
+                        "Personal onboarding",
+                        "24/5 live support",
+                        "Dedicated account manager",
+                        "Priority access to new features"
+                    ]
+                }
+            ]
+        }
+    },
+    "surepass.io": {
+        "Product": "Identity Verification API",
+        "Call to Action": "Get API Keys",
+        "Use Cases": [
+            "Business Verification",
+            "Identity Verification",
+            "Income Verification",
+            "Video KYC"
+        ],
+        "Solutions": [
+            "Verify user identities and reduce fraud",
+            "Conduct background checks",
+            "Check the authenticity of identity proofs",
+            "Onboard verified users"
+        ],
+        "Key Features": [
+            "Plug and Play",
+            "Simple and user-friendly interface",
+            "Highest uptime of 99%",
+            "Instant and accurate data",
+            "Easy integration with REST APIs",
+            "24/7 Tech Support",
+            "AI-based Advanced OCR for all Govt. issued IDs",
+            "Match customer's selfie with the face on ID card",
+            "Real-time verification with APIs"
+        ],
+        "Is this project related to identity verification api?": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.tracers.com": {
+        "product_name": "Tracers Identity Verification API",
+        "call_to_action": "Start your free trial",
+        "usecases": [
+            "Identity verification",
+            "Fraud prevention",
+            "Risk reduction",
+            "Due diligence",
+            "People search",
+            "Criminal records search",
+            "Social media search",
+            "Investigative businesses and people"
+        ],
+        "solutions": [
+            "Seamless API integration for identity verification",
+            "Reliable and powerful ID verification data",
+            "Cohesive and unified platform",
+            "Save time and get fast results",
+            "Access to public and private records database",
+            "Cloud-based software accessible from any device",
+            "Batch processing services for running thousands of searches at once"
+        ],
+        "key_features": {
+            "Document Verification": [
+                "Verify identity documents from more than 120 countries",
+                "Comparison of scanned passport image or entered details against official records",
+                "Detection of tampered or counterfeit passports",
+                "Automatic ID document recognition by language and country",
+                "Document scanning and data extraction",
+                "MRZ and checksum verification for KYC"
+            ],
+            "Biometric Analysis": [
+                "Liveness and face-comparison biometric tests",
+                "Facial recognition technology for preventing impersonation attempts",
+                "AI-based liveness detection",
+                "Accurate biometric authentication",
+                "Matching photo IDs with selfies"
+            ],
+            "Compliance and Security": [
+                "Compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations",
+                "Supports authentication using OAuth 2.0",
+                "Compliant with GDPR",
+                "Secure data transfer via SSL connections",
+                "Privacy-sensitive data masking",
+                "ISO-certified servers"
+            ],
+            "Integration and Scalability": [
+                "Easy integration with REST APIs",
+                "Scalability for handling large volumes of verification",
+                "Seamless integration with other platforms, websites, or apps",
+                "Supports ID documents from 150+ countries",
+                "Cloud-based software accessible from any device"
+            ],
+            "Real-Time Verification": [
+                "Real-time identity and income verification",
+                "Instant notifications",
+                "Real-time verification with APIs",
+                "Real-time data extraction",
+                "Real-time requests to a live database"
+            ],
+            "User Experience": [
+                "Intuitive navigation",
+                "Quick and secure verification process",
+                "Simple and user-friendly interface",
+                "Conversion-optimized verification flow",
+                "Paperless document verification"
+            ],
+            "Advanced Technology": [
+                "Artificial intelligence (AI) and machine learning-powered verification",
+                "AI-Powered Verification Checks",
+                "AI-driven data extraction",
+                "AI algorithms for age verification and fraud detection"
+            ],
+            "Global Coverage": [
+                "Global coverage of 500+ ID types",
+                "Verify identity with government, bank, utility, and other data sources",
+                "Supports verification in multiple languages"
+            ],
+            "Additional Services": [
+                "Generate audit trail on demand",
+                "Access to public and private records database",
+                "Comprehensive API for identity document verification",
+                "Extensive documentation for development support"
+            ]
+        },
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "microblink.com": {
+        "product_name": "Microblink",
+        "call_to_action": "Talk to an Expert",
+        "use_cases": [
+            "Finance",
+            "Healthcare",
+            "eCommerce"
+        ],
+        "solutions": [
+            "ID and Document Verification",
+            "Commerce"
+        ],
+        "key_features": {
+            "Document Verification": [
+                "Real-time data extraction",
+                "Verification of ID cards, passports, and other documents",
+                "Built-in liveness detection"
+            ],
+            "Biometric Analysis": [
+                "Real-time ID verification using machine learning",
+                "Automatic data extraction from ID documents",
+                "Face comparison biometric tests"
+            ],
+            "Compliance and Security": [
+                "Compliance with KYC regulations",
+                "Fraud detection signals",
+                "Secure data validation"
+            ],
+            "Integration and Scalability": [
+                "Easy integration with extensive documentation",
+                "Scalability for handling large volumes of verification",
+                "Seamless integration with existing platforms"
+            ],
+            "Real-Time Verification": [
+                "Real-time identity and income verification",
+                "Streamlined user verification process",
+                "Instant feedback and notifications"
+            ],
+            "User Experience": [
+                "Quick and efficient verification process",
+                "User-friendly interface",
+                "Conversion-optimized verification flow"
+            ],
+            "Advanced Technology": [
+                "Real-time data capture and validation",
+                "AI-powered verification checks",
+                "AI-driven fraud detection"
+            ],
+            "Global Coverage": [
+                "Verification of government-issued IDs",
+                "Support for multiple languages",
+                "Access to public and private records database"
+            ],
+            "Additional Services": [
+                "Comprehensive API for identity document verification",
+                "Extensive documentation for development support",
+                "Generate audit trail on demand"
+            ]
+        },
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "developer.healthgorilla.com": {
+        "product_name": "Health Gorilla Identity Verification API",
+        "call_to_action": "Sign up",
+        "usecases": [
+            "Verifying the identity of providers, patients, and other users who sign up for a platform"
+        ],
+        "solutions": [
+            "Securely verify the identity of users",
+            "Prevent fraud and impersonation attempts",
+            "Comply with regulatory requirements such as Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations"
+        ],
+        "key_features": {
+            "Document Verification": [
+                "Verify identity documents from more than 120 countries",
+                "Comparison of scanned passport image or entered details against official records",
+                "Detection of tampered or counterfeit passports",
+                "Automatic ID document recognition by language and country",
+                "Document scanning and data extraction",
+                "MRZ and checksum verification for KYC"
+            ],
+            "Biometric Analysis": [
+                "Liveness and face-comparison biometric tests",
+                "Facial recognition technology for preventing impersonation attempts",
+                "AI-based liveness detection",
+                "Accurate biometric authentication",
+                "Matching photo IDs with selfies"
+            ],
+            "Compliance and Security": [
+                "Compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations",
+                "Supports authentication using OAuth 2.0",
+                "Compliant with GDPR",
+                "Secure data transfer via SSL connections",
+                "Privacy-sensitive data masking",
+                "ISO-certified servers"
+            ],
+            "Integration and Scalability": [
+                "Easy integration with REST APIs",
+                "Scalability for handling large volumes of verification",
+                "Seamless integration with other platforms, websites, or apps",
+                "Supports ID documents from 150+ countries",
+                "Cloud-based software accessible from any device"
+            ],
+            "Real-Time Verification": [
+                "Real-time identity and income verification",
+                "Instant notifications",
+                "Real-time verification with APIs",
+                "Real-time data extraction",
+                "Real-time requests to a live database"
+            ],
+            "User Experience": [
+                "Intuitive navigation",
+                "Quick and secure verification process",
+                "Simple and user-friendly interface",
+                "Conversion-optimized verification flow",
+                "Paperless document verification"
+            ],
+            "Advanced Technology": [
+                "Artificial intelligence (AI) and machine learning-powered verification",
+                "AI-Powered Verification Checks",
+                "AI-driven data extraction",
+                "AI algorithms for age verification and fraud detection"
+            ],
+            "Global Coverage": [
+                "Global coverage of 500+ ID types",
+                "Verify identity with government, bank, utility, and other data sources",
+                "Supports verification in multiple languages"
+            ],
+            "Additional Services": [
+                "Generate audit trail on demand",
+                "Access to public and private records database",
+                "Comprehensive API for identity document verification",
+                "Extensive documentation for development support"
+            ]
+        },
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "developer.apple.com": {
+        "product_name": "Verify with Wallet API",
+        "call_to_action": "Request the entitlement",
+        "usecases": [
+            "Age or identity verification for apps in categories such as Air Travel, Car Rental, Financial Services, Government Services, Healthcare, and Alcohol Purchase (Order Ahead and Delivery)"
+        ],
+        "solutions": [
+            "Streamline verification process with one-tap experience",
+            "Verified and authenticated identity data",
+            "Privacy preserving",
+            "Compliance with legal requirements",
+            "Full transparency into requested identity information",
+            "Integration with PassKit framework",
+            "Consistent user experience with predefined buttons for verification"
+        ],
+        "key_features": {
+            "Document Verification": [
+                "Verified identity documents from supported states in the United States",
+                "Authentication of ID card ownership by state issuing authority",
+                "Authentication of ID card ownership through Face ID or Touch ID",
+                "Privacy-preserving data sharing"
+            ],
+            "Age Verification": [
+                "Age verification in years",
+                "Age threshold verification",
+                "Privacy-preserving age verification"
+            ],
+            "Identity Verification": [
+                "Given name and family name",
+                "Address",
+                "Date of birth",
+                "Document number",
+                "Document issue date",
+                "Document expiration date",
+                "Driving privileges",
+                "Privacy-preserving identity verification"
+            ]
+        },
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "veridas.com": {
+        "api1": {
+            "call_to_action": "Talk to a manager",
+            "usecases": [
+                "Customer Onboarding",
+                "ID Document Verification"
+            ],
+            "solutions": [
+                "Orchestrating ID verification API",
+                "Plug&Play Onboarding API",
+                "Facial recognition API",
+                "Biometric QR generation API",
+                "Voice biometrics API"
+            ],
+            "key_features": [
+                "Modular integration",
+                "Plug&Play integration",
+                "Document verification",
+                "Facial recognition",
+                "Voice recognition"
+            ],
+            "is_related": true
+        },
+        "api2": {
+            "call_to_action": "Book a demo",
+            "usecases": [
+                "Identity Verification Platform",
+                "Age Verification"
+            ],
+            "solutions": [
+                "Identity Verification Platform",
+                "Age Verification",
+                "Facial Access Control",
+                "Face authentication",
+                "Voice authentication"
+            ],
+            "key_features": [
+                "Identity verification",
+                "Age verification",
+                "Facial access control",
+                "Face authentication",
+                "Voice authentication"
+            ],
+            "is_related": true
+        },
+        "api3": {
+            "call_to_action": "Talk to team",
+            "usecases": [
+                "Customer Onboarding",
+                "ID Document Verification",
+                "Physical Access Control",
+                "Time & Attendance",
+                "Visitor Management System",
+                "Contact Center Authentication"
+            ],
+            "solutions": [
+                "Orchestrating ID verification API",
+                "Plug&Play Onboarding API",
+                "Facial recognition API",
+                "Biometric QR generation API",
+                "Voice biometrics API"
+            ],
+            "key_features": [
+                "Modular integration",
+                "Plug&Play integration",
+                "Document verification",
+                "Facial recognition",
+                "Voice recognition"
+            ],
+            "is_related": true
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "signdesk.com": {
+        "products": [
+            {
+                "name": "stamp.it",
+                "call_to_action": "talk to sales",
+                "usecases": [],
+                "solutions": []
+            },
+            {
+                "name": "ink.it",
+                "call_to_action": "talk to sales",
+                "usecases": [],
+                "solutions": []
+            },
+            {
+                "name": "link.it",
+                "call_to_action": "talk to sales",
+                "usecases": [],
+                "solutions": []
+            }
+        ],
+        "is_related_to_identity_verification_api": false,
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": [
+                {
+                    "product": "ink.it",
+                    "features": [
+                        "eSign workflows",
+                        "Parallel and sequential signing",
+                        "Plug-n-play solution",
+                        "USB token signing",
+                        "Notifications, dashboard & reports",
+                        "Direct Integration and Mobile & Web SDK"
+                    ],
+                    "requestQuote": true
+                },
+                {
+                    "product": "link.it",
+                    "features": [
+                        "Create, amend and cancel XMLs",
+                        "Track mandate status updates, reports and error checks",
+                        "Direct Integration, Web Application, and Mobile & Web SDK",
+                        "Authentication via NetBanking, debit card & Aadhaar eSign",
+                        "Multiple signers"
+                    ],
+                    "requestQuote": true
+                },
+                {
+                    "product": "stamp.it",
+                    "features": [
+                        "Digitised stamping",
+                        "Document lifecycle monitoring",
+                        "Admin dashboard",
+                        "Users, groups, and access privileges",
+                        "Direct Integration, Web Application, and Mobile & Web SDK",
+                        "Real-time online stamp duty payment",
+                        "All features of ink.it"
+                    ],
+                    "requestQuote": true
+                },
+                {
+                    "product": "scan.it",
+                    "features": [
+                        "Video-based onboarding",
+                        "AI & ML-enabled",
+                        "Facial recognition & image detection",
+                        "OCR & liveness detection",
+                        "All KYC documents supported",
+                        "Offline Aadhaar & image-based eKYC"
+                    ],
+                    "requestQuote": true
+                }
+            ]
+        }
+    },
+    "onfido.com": {
+        "call_to_action": "Book a meeting",
+        "usecases": [
+            "Customer acquisition",
+            "Global compliance",
+            "Cost of customer acquisition",
+            "Fraud prevention",
+            "KYC",
+            "Identity verification",
+            "Driver registration",
+            "User onboarding",
+            "Age verification"
+        ],
+        "solutions": [
+            "The Real Identity Platform",
+            "Airside Mobile",
+            "Onfido Studio",
+            "Onfido Atlas",
+            "Smart Capture SDK",
+            "Verification Suite"
+        ],
+        "key_features": {
+            "Document Verification": [
+                "Verify identity documents from more than 120 countries",
+                "Comparison of scanned passport image or entered details against official records",
+                "Detection of tampered or counterfeit passports",
+                "Automatic ID document recognition by language and country",
+                "Document scanning and data extraction",
+                "MRZ and checksum verification for KYC"
+            ],
+            "Biometric Analysis": [
+                "Liveness and face-comparison biometric tests",
+                "Facial recognition technology for preventing impersonation attempts",
+                "AI-based liveness detection",
+                "Accurate biometric authentication",
+                "Matching photo IDs with selfies"
+            ],
+            "Compliance and Security": [
+                "Compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations",
+                "Supports authentication using OAuth 2.0",
+                "Compliant with GDPR",
+                "Secure data transfer via SSL connections",
+                "Privacy-sensitive data masking",
+                "ISO-certified servers"
+            ],
+            "Integration and Scalability": [
+                "Easy integration with REST APIs",
+                "Scalability for handling large volumes of verification",
+                "Seamless integration with other platforms, websites, or apps",
+                "Supports ID documents from 150+ countries",
+                "Cloud-based software accessible from any device"
+            ],
+            "Real-Time Verification": [
+                "Real-time identity and income verification",
+                "Instant notifications",
+                "Real-time verification with APIs",
+                "Real-time data extraction",
+                "Real-time requests to a live database"
+            ],
+            "User Experience": [
+                "Intuitive navigation",
+                "Quick and secure verification process",
+                "Simple and user-friendly interface",
+                "Conversion-optimized verification flow",
+                "Paperless document verification"
+            ],
+            "Advanced Technology": [
+                "Artificial intelligence (AI) and machine learning-powered verification",
+                "AI-Powered Verification Checks",
+                "AI-driven data extraction",
+                "AI algorithms for age verification and fraud detection"
+            ],
+            "Global Coverage": [
+                "Global coverage of 500+ ID types",
+                "Verify identity with government, bank, utility, and other data sources",
+                "Supports verification in multiple languages"
+            ],
+            "Additional Services": [
+                "Generate audit trail on demand",
+                "Access to public and private records database",
+                "Comprehensive API for identity document verification",
+                "Extensive documentation for development support"
+            ]
+        },
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.idcentral.io": {
+        "Call to action": "Request a Demo",
+        "Usecases": [
+            "Automated Aadhaar Card Verification",
+            "Automate Manual Data Entry",
+            "Active/Passive Liveness Check",
+            "Enhancing Customer Experience",
+            "AI-Baced Face Authentication",
+            "Safeguard your Business Interests",
+            "Onboard Customer in Seconds",
+            "Extract & Verify Fingerprint Data",
+            "Experience seamless document checks",
+            "Accurate Customer Verification",
+            "Meet your Regulatory Requirements",
+            "Instant Customer Onboarding",
+            "Customize your Onboarding Flow",
+            "Increase Account Opening",
+            "Meet Compliance Requirements",
+            "Enhance Customer Experience",
+            "Improve Sign-up Rates",
+            "Reduce Checkout Abandonment",
+            "Build Trust Between User & Partner",
+            "Increase Booking Conversions"
+        ],
+        "Solutions": [
+            "Identity Verification",
+            "AML Screening & Monitoring",
+            "Digital Onboarding",
+            "KYX Solution"
+        ],
+        "Key features": {
+            "Document Verification": [
+                "Automate Manual Data Entry",
+                "Paperless document verification",
+                "AI-driven data extraction",
+                "Indian Government ID Verification"
+            ],
+            "Liveness Detection": [
+                "Active/Passive Liveness Check",
+                "Accurate biometric authentication",
+                "AI-driven data extraction",
+                "Instant notifications"
+            ],
+            "Face Match": [
+                "AI-Baced Face Authentication",
+                "AI-driven data extraction",
+                "Indian Government ID Verification",
+                "Instant notifications"
+            ],
+            "Government DB Check": [
+                "Safeguard your Business Interests",
+                "Indian Government ID Verification",
+                "Instant notifications"
+            ],
+            "Video KYC": [
+                "Onboard Customer in Seconds",
+                "Indian Government ID Verification",
+                "Instant notifications"
+            ],
+            "Hover Plus": [
+                "Extract & Verify Fingerprint Data",
+                "Indian Government ID Verification",
+                "Instant notifications"
+            ],
+            "DeepScan": [
+                "Experience seamless document checks",
+                "Indian Government ID Verification",
+                "Instant notifications"
+            ],
+            "AML Screening & Monitoring": [
+                "Meet your Regulatory Requirements",
+                "Instant notifications"
+            ],
+            "Digital Onboarding": [
+                "Instant Customer Onboarding",
+                "Customize your Onboarding Flow",
+                "Increase Account Opening"
+            ],
+            "KYX Solution": [
+                "Customize your Onboarding Flow",
+                "Meet Compliance Requirements",
+                "Enhance Customer Experience"
+            ]
+        },
+        "Is this project related to identity verification api?": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "legal.thomsonreuters.com": {
+        "Call to action": "Contact us",
+        "Usecases": [],
+        "Solutions": [],
+        "Key features": {
+            "Document Verification": [
+                "Verify identity documents from more than 120 countries",
+                "Comparison of scanned passport image or entered details against official records",
+                "Detection of tampered or counterfeit passports",
+                "Automatic ID document recognition by language and country",
+                "Document scanning and data extraction",
+                "MRZ and checksum verification for KYC"
+            ],
+            "Biometric Analysis": [
+                "Liveness and face-comparison biometric tests",
+                "Facial recognition technology for preventing impersonation attempts",
+                "AI-based liveness detection",
+                "Accurate biometric authentication",
+                "Matching photo IDs with selfies"
+            ],
+            "Compliance and Security": [
+                "Compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations",
+                "Supports authentication using OAuth 2.0",
+                "Compliant with GDPR",
+                "Secure data transfer via SSL connections",
+                "Privacy-sensitive data masking",
+                "ISO-certified servers"
+            ],
+            "Integration and Scalability": [
+                "Easy integration with REST APIs",
+                "Scalability for handling large volumes of verification",
+                "Seamless integration with other platforms, websites, or apps",
+                "Supports ID documents from 150+ countries",
+                "Cloud-based software accessible from any device"
+            ],
+            "Real-Time Verification": [
+                "Real-time identity and income verification",
+                "Instant notifications",
+                "Real-time verification with APIs",
+                "Real-time data extraction",
+                "Real-time requests to a live database"
+            ],
+            "User Experience": [
+                "Intuitive navigation",
+                "Quick and secure verification process",
+                "Simple and user-friendly interface",
+                "Conversion-optimized verification flow",
+                "Paperless document verification"
+            ],
+            "Advanced Technology": [
+                "Artificial intelligence (AI) and machine learning-powered verification",
+                "AI-Powered Verification Checks",
+                "AI-driven data extraction",
+                "AI algorithms for age verification and fraud detection"
+            ],
+            "Global Coverage": [
+                "Global coverage of 500+ ID types",
+                "Verify identity with government, bank, utility, and other data sources",
+                "Supports verification in multiple languages"
+            ],
+            "Additional Services": [
+                "Generate audit trail on demand",
+                "Access to public and private records database",
+                "Comprehensive API for identity document verification",
+                "Extensive documentation for development support"
+            ]
+        },
+        "Is this project related to identity verification api?": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.trustid.co.uk": {
+        "product_name": "TrustID Identity Verification API",
+        "call_to_action": "Request a demo",
+        "usecases": [
+            "Online ID Checks",
+            "ID Scanner Checks",
+            "Right To Work Checks",
+            "Digital Right to Work Checks",
+            "Know Your Customer (KYC) Checks",
+            "Face Biometrics"
+        ],
+        "solutions": [
+            "Right To Work Compliance",
+            "AML/KYC Compliance",
+            "Digital DBS identity Scheme Checks",
+            "Right To Rent Compliance",
+            "Student identity checks for Right to Study",
+            "Counter Fraud Checks"
+        ],
+        "key_features": {
+            "Document Verification": [
+                "Verify identity documents from more than 120 countries",
+                "Comparison of scanned passport image or entered details against official records",
+                "Detection of tampered or counterfeit passports",
+                "Automatic ID document recognition by language and country",
+                "Document scanning and data extraction",
+                "MRZ and checksum verification for KYC"
+            ],
+            "Biometric Analysis": [
+                "Liveness and face-comparison biometric tests",
+                "Facial recognition technology for preventing impersonation attempts",
+                "AI-based liveness detection",
+                "Accurate biometric authentication",
+                "Matching photo IDs with selfies"
+            ],
+            "Compliance and Security": [
+                "Compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations",
+                "Supports authentication using OAuth 2.0",
+                "Compliant with GDPR",
+                "Secure data transfer via SSL connections",
+                "Privacy-sensitive data masking",
+                "ISO-certified servers"
+            ],
+            "Integration and Scalability": [
+                "Easy integration with REST APIs",
+                "Scalability for handling large volumes of verification",
+                "Seamless integration with other platforms, websites, or apps",
+                "Supports ID documents from 150+ countries",
+                "Cloud-based software accessible from any device"
+            ],
+            "Real-Time Verification": [
+                "Real-time identity and income verification",
+                "Instant notifications",
+                "Real-time verification with APIs",
+                "Real-time data extraction",
+                "Real-time requests to a live database"
+            ],
+            "User Experience": [
+                "Intuitive navigation",
+                "Quick and secure verification process",
+                "Simple and user-friendly interface",
+                "Conversion-optimized verification flow",
+                "Paperless document verification"
+            ],
+            "Advanced Technology": [
+                "Artificial intelligence (AI) and machine learning-powered verification",
+                "AI-Powered Verification Checks",
+                "AI-driven data extraction",
+                "AI algorithms for age verification and fraud detection"
+            ],
+            "Global Coverage": [
+                "Global coverage of 500+ ID types",
+                "Verify identity with government, bank, utility, and other data sources",
+                "Supports verification in multiple languages"
+            ],
+            "Additional Services": [
+                "Generate audit trail on demand",
+                "Access to public and private records database",
+                "Comprehensive API for identity document verification",
+                "Extensive documentation for development support"
+            ]
+        },
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "experience.idemia.com": {
+        "call_to_action": "Sign up",
+        "usecases": [
+            "Identity Proofing",
+            "Mobile ID"
+        ],
+        "solutions": [
+            "Identity Proofing App",
+            "Identity Proofing & Verification",
+            "Capture SDKs",
+            "Biometric Services",
+            "Online Authentication",
+            "Verify SDKs"
+        ],
+        "key_features": {
+            "Document Verification": [
+                "Verify identity documents from more than 120 countries",
+                "Comparison of scanned passport image or entered details against official records",
+                "Detection of tampered or counterfeit passports",
+                "Automatic ID document recognition by language and country",
+                "Document scanning and data extraction",
+                "MRZ and checksum verification for KYC"
+            ],
+            "Biometric Analysis": [
+                "Liveness and face-comparison biometric tests",
+                "Facial recognition technology for preventing impersonation attempts",
+                "AI-based liveness detection",
+                "Accurate biometric authentication",
+                "Matching photo IDs with selfies"
+            ],
+            "Compliance and Security": [
+                "Compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations",
+                "Supports authentication using OAuth 2.0",
+                "Compliant with GDPR",
+                "Secure data transfer via SSL connections",
+                "Privacy-sensitive data masking",
+                "ISO-certified servers"
+            ],
+            "Integration and Scalability": [
+                "Easy integration with REST APIs",
+                "Scalability for handling large volumes of verification",
+                "Seamless integration with other platforms, websites, or apps",
+                "Supports ID documents from 150+ countries",
+                "Cloud-based software accessible from any device"
+            ],
+            "Real-Time Verification": [
+                "Real-time identity and income verification",
+                "Instant notifications",
+                "Real-time verification with APIs",
+                "Real-time data extraction",
+                "Real-time requests to a live database"
+            ],
+            "User Experience": [
+                "Intuitive navigation",
+                "Quick and secure verification process",
+                "Simple and user-friendly interface",
+                "Conversion-optimized verification flow",
+                "Paperless document verification"
+            ],
+            "Advanced Technology": [
+                "Artificial intelligence (AI) and machine learning-powered verification",
+                "AI-Powered Verification Checks",
+                "AI-driven data extraction",
+                "AI algorithms for age verification and fraud detection"
+            ],
+            "Global Coverage": [
+                "Global coverage of 500+ ID types",
+                "Verify identity with government, bank, utility, and other data sources",
+                "Supports verification in multiple languages"
+            ],
+            "Additional Services": [
+                "Generate audit trail on demand",
+                "Access to public and private records database",
+                "Comprehensive API for identity document verification",
+                "Extensive documentation for development support"
+            ]
+        },
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "stackoverflow.com": {
+        "service_name": "Stack Overflow",
+        "call_to_action": "Sign up or log in",
+        "usecases": [],
+        "solutions": [],
+        "key_features": [],
+        "is_related_to_identity_verification_api": false,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "cognitohq.com": {
+        "Product": "Cognito ID Verification API",
+        "Call to action": "Sign up with Plaid",
+        "Use cases": [
+            "Address Verification",
+            "Age Verification",
+            "Customer Verification",
+            "KYC Verification",
+            "PEP Screening"
+        ],
+        "Solutions": [
+            "All-in-one IDV",
+            "Phone-based IDV",
+            "Screening",
+            "Watchlists & AML",
+            "Business onboarding"
+        ],
+        "Key features": {
+            "Document Verification": [
+                "Verify identity documents from more than 120 countries",
+                "Comparison of scanned passport image or entered details against official records",
+                "Detection of tampered or counterfeit passports",
+                "Automatic ID document recognition by language and country",
+                "Document scanning and data extraction",
+                "MRZ and checksum verification for KYC"
+            ],
+            "Biometric Analysis": [
+                "Liveness and face-comparison biometric tests",
+                "Facial recognition technology for preventing impersonation attempts",
+                "AI-based liveness detection",
+                "Accurate biometric authentication",
+                "Matching photo IDs with selfies"
+            ],
+            "Compliance and Security": [
+                "Compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations",
+                "Supports authentication using OAuth 2.0",
+                "Compliant with GDPR",
+                "Secure data transfer via SSL connections",
+                "Privacy-sensitive data masking",
+                "ISO-certified servers"
+            ],
+            "Integration and Scalability": [
+                "Easy integration with REST APIs",
+                "Scalability for handling large volumes of verification",
+                "Seamless integration with other platforms, websites, or apps",
+                "Supports ID documents from 150+ countries",
+                "Cloud-based software accessible from any device"
+            ],
+            "Real-Time Verification": [
+                "Real-time identity and income verification",
+                "Instant notifications",
+                "Real-time verification with APIs",
+                "Real-time data extraction",
+                "Real-time requests to a live database"
+            ],
+            "User Experience": [
+                "Intuitive navigation",
+                "Quick and secure verification process",
+                "Simple and user-friendly interface",
+                "Conversion-optimized verification flow",
+                "Paperless document verification"
+            ],
+            "Advanced Technology": [
+                "Artificial intelligence (AI) and machine learning-powered verification",
+                "AI-Powered Verification Checks",
+                "AI-driven data extraction",
+                "AI algorithms for age verification and fraud detection"
+            ],
+            "Global Coverage": [
+                "Global coverage of 500+ ID types",
+                "Verify identity with government, bank, utility, and other data sources",
+                "Supports verification in multiple languages"
+            ],
+            "Additional Services": [
+                "Generate audit trail on demand",
+                "Access to public and private records database",
+                "Comprehensive API for identity document verification",
+                "Extensive documentation for development support"
+            ]
+        },
+        "Is this project related to identity verification api?": true,
+        "pricesAndPlans": {
+            "status": "Not found"
+        }
+    },
+    "community.onespan.com": {
+        "product_name": "OneSpan Identity Verification",
+        "call_to_action": "Sign up",
+        "usecases": [
+            "Identity verification for onboarding new customers",
+            "Authentication for online transactions",
+            "Compliance with KYC and AML regulations"
+        ],
+        "solutions": [
+            "Document verification",
+            "Biometric analysis",
+            "Compliance and security",
+            "Integration and scalability",
+            "Real-time verification",
+            "User experience",
+            "Advanced technology",
+            "Global coverage",
+            "Additional services"
+        ],
+        "key_features": {
+            "Document Verification": [
+                "Verify identity documents from more than 120 countries",
+                "Comparison of scanned passport image or entered details against official records",
+                "Detection of tampered or counterfeit passports",
+                "Automatic ID document recognition by language and country",
+                "Document scanning and data extraction",
+                "MRZ and checksum verification for KYC"
+            ],
+            "Biometric Analysis": [
+                "Liveness and face-comparison biometric tests",
+                "Facial recognition technology for preventing impersonation attempts",
+                "AI-based liveness detection",
+                "Accurate biometric authentication",
+                "Matching photo IDs with selfies"
+            ],
+            "Compliance and Security": [
+                "Compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations",
+                "Supports authentication using OAuth 2.0",
+                "Compliant with GDPR",
+                "Secure data transfer via SSL connections",
+                "Privacy-sensitive data masking",
+                "ISO-certified servers"
+            ],
+            "Integration and Scalability": [
+                "Easy integration with REST APIs",
+                "Scalability for handling large volumes of verification",
+                "Seamless integration with other platforms, websites, or apps",
+                "Supports ID documents from 150+ countries",
+                "Cloud-based software accessible from any device"
+            ],
+            "Real-Time Verification": [
+                "Real-time identity and income verification",
+                "Instant notifications",
+                "Real-time verification with APIs",
+                "Real-time data extraction",
+                "Real-time requests to a live database"
+            ],
+            "User Experience": [
+                "Intuitive navigation",
+                "Quick and secure verification process",
+                "Simple and user-friendly interface",
+                "Conversion-optimized verification flow",
+                "Paperless document verification"
+            ],
+            "Advanced Technology": [
+                "Artificial intelligence (AI) and machine learning-powered verification",
+                "AI-Powered Verification Checks",
+                "AI-driven data extraction",
+                "AI algorithms for age verification and fraud detection"
+            ],
+            "Global Coverage": [
+                "Global coverage of 500+ ID types",
+                "Verify identity with government, bank, utility, and other data sources",
+                "Supports verification in multiple languages"
+            ],
+            "Additional Services": [
+                "Generate audit trail on demand",
+                "Access to public and private records database",
+                "Comprehensive API for identity document verification",
+                "Extensive documentation for development support"
+            ]
+        },
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Not found"
+        }
+    },
+    "www.digitalid.com": {
+        "service_name": "Digital iD",
+        "call_to_action": "Contact us",
+        "usecases": [
+            "Identity verification",
+            "Compliance",
+            "Boosting conversions",
+            "Building trust"
+        ],
+        "solutions": [
+            "Easily test and integrate with detailed documentation and local support",
+            "Verify customers' identity to the required level",
+            "Meet compliance obligations",
+            "Boost conversions",
+            "Build trust",
+            "Leverage the established trust of the Australia Post brand",
+            "Benefit from updates without significant system upgrades",
+            "Integrate into current flows and processes with web and native SDKs",
+            "Securely verify customers within days"
+        ],
+        "key_features": {
+            "Document Verification": [
+                "Verify identity documents from more than 120 countries",
+                "Comparison of scanned passport image or entered details against official records",
+                "Detection of tampered or counterfeit passports",
+                "Automatic ID document recognition by language and country",
+                "Document scanning and data extraction",
+                "MRZ and checksum verification for KYC"
+            ],
+            "Biometric Analysis": [
+                "Liveness and face-comparison biometric tests",
+                "Facial recognition technology for preventing impersonation attempts",
+                "AI-based liveness detection",
+                "Accurate biometric authentication",
+                "Matching photo IDs with selfies"
+            ],
+            "Compliance and Security": [
+                "Compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations",
+                "Supports authentication using OAuth 2.0",
+                "Compliant with GDPR",
+                "Secure data transfer via SSL connections",
+                "Privacy-sensitive data masking",
+                "ISO-certified servers"
+            ],
+            "Integration and Scalability": [
+                "Easy integration with REST APIs",
+                "Scalability for handling large volumes of verification",
+                "Seamless integration with other platforms, websites, or apps",
+                "Supports ID documents from 150+ countries",
+                "Cloud-based software accessible from any device"
+            ],
+            "Real-Time Verification": [
+                "Real-time identity and income verification",
+                "Instant notifications",
+                "Real-time verification with APIs",
+                "Real-time data extraction",
+                "Real-time requests to a live database"
+            ],
+            "User Experience": [
+                "Intuitive navigation",
+                "Quick and secure verification process",
+                "Simple and user-friendly interface",
+                "Conversion-optimized verification flow",
+                "Paperless document verification"
+            ],
+            "Advanced Technology": [
+                "Artificial intelligence (AI) and machine learning-powered verification",
+                "AI-Powered Verification Checks",
+                "AI-driven data extraction",
+                "AI algorithms for age verification and fraud detection"
+            ],
+            "Global Coverage": [
+                "Global coverage of 500+ ID types",
+                "Verify identity with government, bank, utility, and other data sources",
+                "Supports verification in multiple languages"
+            ],
+            "Additional Services": [
+                "Generate audit trail on demand",
+                "Access to public and private records database",
+                "Comprehensive API for identity document verification",
+                "Extensive documentation for development support"
+            ]
+        },
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "developer.bt.com": {
+        "product_name": "Know Your Customer",
+        "call_to_action": "Register",
+        "use_cases": [
+            "Authenticating a customer's identity during online shopping",
+            "Verifying customer details during account registration or onboarding",
+            "Performing KYC checks to minimize fraud risk"
+        ],
+        "solutions": [
+            "Quick and secure identity verification during account setup",
+            "Fast verification of customer details during product or service purchases"
+        ],
+        "key_features": [
+            "Check a customer's identity quickly and securely",
+            "Fast verification of customer details",
+            "Increase business confidence in customer's genuine identity",
+            "Reduces costs by preventing fraudulent account setups",
+            "Speeds up account creation process",
+            "Real-time requests to a live database"
+        ],
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "medium.com": {
+        "api1": {
+            "call_to_action": "Talk to a manager",
+            "usecases": [
+                "Identity verification for banking apps",
+                "KYC and AML compliance",
+                "Mitigating identity fraud and financial scams"
+            ],
+            "solutions": [
+                "Automated identity verification through AI models",
+                "Integration into banking apps and websites through APIs"
+            ],
+            "key_features": [
+                "Verification of government-approved ID documents",
+                "Matching photo ID against facial biometrics",
+                "Comparison of live captured selfie with stored biometrics",
+                "User-friendly interface",
+                "Data encryption and storage in cloud servers",
+                "Compliance with international data protection standards",
+                "Operational on major operating systems (Android, iOS, Windows)"
+            ],
+            "related_to_identity_verification_api": true
+        },
+        "api2": {
+            "call_to_action": "Book a demo",
+            "usecases": [
+                "Identity verification for financial institutions",
+                "KYC and AML compliance",
+                "Fraud prevention"
+            ],
+            "solutions": [
+                "Real-time identity verification",
+                "Document verification",
+                "Biometric authentication"
+            ],
+            "key_features": [
+                "Real-time verification of ID documents",
+                "Verification of facial biometrics",
+                "Document authenticity checks",
+                "Biometric authentication using fingerprints or facial recognition",
+                "Compliance with data protection regulations",
+                "Integration with existing systems",
+                "Customizable workflows"
+            ],
+            "related_to_identity_verification_api": true
+        },
+        "api3": {
+            "call_to_action": "Talk to team",
+            "usecases": [
+                "Identity verification for online platforms",
+                "User onboarding",
+                "Fraud prevention"
+            ],
+            "solutions": [
+                "Automated identity verification",
+                "Document verification",
+                "Biometric authentication"
+            ],
+            "key_features": [
+                "Verification of government-issued ID documents",
+                "Facial recognition for identity verification",
+                "Document authenticity checks",
+                "Biometric authentication using fingerprints or facial recognition",
+                "Compliance with data protection regulations",
+                "Integration with existing systems",
+                "Customizable workflows"
+            ],
+            "related_to_identity_verification_api": true
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "endato.com": {
+        "products": [
+            {
+                "name": "Endato API",
+                "endpoints": 25,
+                "results": "instant",
+                "usecases": [
+                    "Lead Building",
+                    "Contact Enrichment",
+                    "Business Search",
+                    "Market Research",
+                    "Identity Resolution",
+                    "Fraud Prevention",
+                    "Know Your Customer",
+                    "Property Verification",
+                    "Court Records",
+                    "License Verification",
+                    "Workplace",
+                    "Skip Tracing"
+                ],
+                "solutions": [
+                    "Marketing",
+                    "Sales",
+                    "Developers",
+                    "Realtors"
+                ],
+                "key_features": [
+                    "Instant results",
+                    "Lead building",
+                    "Contact enrichment",
+                    "Business search",
+                    "Market research",
+                    "Identity resolution",
+                    "Fraud prevention",
+                    "Know your customer",
+                    "Property verification",
+                    "Court records",
+                    "License verification",
+                    "Workplace data",
+                    "Skip tracing"
+                ],
+                "related_to_identity_verification_api": true
+            },
+            {
+                "name": "Endato Batch",
+                "endpoints": "Self-Serve Batch Appends",
+                "results": "instant",
+                "usecases": [
+                    "Lead Building",
+                    "Contact Enrichment",
+                    "Business Search",
+                    "Market Research",
+                    "Identity Resolution",
+                    "Fraud Prevention",
+                    "Know Your Customer",
+                    "Property Verification",
+                    "Court Records",
+                    "License Verification",
+                    "Workplace",
+                    "Skip Tracing"
+                ],
+                "solutions": [
+                    "Marketing",
+                    "Sales",
+                    "Developers",
+                    "Realtors"
+                ],
+                "key_features": [
+                    "Instant results",
+                    "Lead building",
+                    "Contact enrichment",
+                    "Business search",
+                    "Market research",
+                    "Identity resolution",
+                    "Fraud prevention",
+                    "Know your customer",
+                    "Property verification",
+                    "Court records",
+                    "License verification",
+                    "Workplace data",
+                    "Skip tracing"
+                ],
+                "related_to_identity_verification_api": true
+            },
+            {
+                "name": "Endato Search",
+                "endpoints": "Over 50 power searches",
+                "results": "detailed data",
+                "usecases": [
+                    "Lead Building",
+                    "Contact Enrichment",
+                    "Business Search",
+                    "Market Research",
+                    "Identity Resolution",
+                    "Fraud Prevention",
+                    "Know Your Customer",
+                    "Property Verification",
+                    "Court Records",
+                    "License Verification",
+                    "Workplace",
+                    "Skip Tracing"
+                ],
+                "solutions": [
+                    "Marketing",
+                    "Sales",
+                    "Developers",
+                    "Realtors"
+                ],
+                "key_features": [
+                    "Detailed data results",
+                    "Lead building",
+                    "Contact enrichment",
+                    "Business search",
+                    "Market research",
+                    "Identity resolution",
+                    "Fraud prevention",
+                    "Know your customer",
+                    "Property verification",
+                    "Court records",
+                    "License verification",
+                    "Workplace data",
+                    "Skip tracing"
+                ],
+                "related_to_identity_verification_api": true
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": [
+                {
+                    "plan": "Starter",
+                    "price": "$",
+                    "features": [
+                        "Address Autocomplete",
+                        "AddressID",
+                        "Business Search",
+                        "CallerID",
+                        "Census Search",
+                        "Contact Enrichment",
+                        "ContactID",
+                        "Divorce Search",
+                        "Domain Search",
+                        "Eviction Search",
+                        "Foreclosure Search",
+                        "OFAC Search",
+                        "ProLicense Search",
+                        "Property Search",
+                        "Reverse Phone Search",
+                        "Vehicle Ownership Search",
+                        "Workplace Search"
+                    ]
+                },
+                {
+                    "plan": "Pro",
+                    "price": "$$",
+                    "features": [
+                        "Criminal Search",
+                        "DEA License",
+                        "Debt Search",
+                        "Email ID",
+                        "Identity Verification",
+                        "Marriage Search",
+                        "Person Search",
+                        "ProLicense Search",
+                        "Reverse Phone Search"
+                    ]
+                }
+            ]
+        }
+    },
+    "deepvue.tech": {
+        "product_name": "Identity Verification API",
+        "call_to_action": "Sign-up Now",
+        "usecases": [
+            "Financial Services & Fintechs",
+            "Background Verification Agencies",
+            "NBFCs & Lending Businesses",
+            "Fantasy & Online Gaming",
+            "Insurance & IT/ITeS"
+        ],
+        "solutions": [
+            "Aadhaar Verification",
+            "PAN Card Verification",
+            "Voter ID Card Verification",
+            "Driving License Verification",
+            "Bank Account Verification",
+            "UPI Verification",
+            "Passport Verification"
+        ],
+        "key_features": [
+            "Instant Verification",
+            "Built for Onboarding at Scale",
+            "AI-Powered Verification Checks",
+            "High Accuracy"
+        ],
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.verifai.com": {
+        "call_to_action": "Talk to us",
+        "use_cases": [
+            "Digital customer onboarding",
+            "Enhance user experience & onboarding conversion",
+            "KYC",
+            "Identity verification",
+            "Age check",
+            "Face-to-face identification",
+            "Fraud prevention",
+            "Comply with local privacy regulations",
+            "(Bulk) ID document data processing",
+            "Re-verification of identity",
+            "Replace physical ID document scanners"
+        ],
+        "solutions": [
+            "Identity verification",
+            "Document verification",
+            "Document data capture",
+            "Document authentication",
+            "NFC chip validation",
+            "Biometric verification"
+        ],
+        "key_features": [
+            "Capture data from identity documents with ease",
+            "Facilitate a streamlined handover from PC to mobile",
+            "Increase customer trust with privacy filters",
+            "Improve your fraud defense with face matching"
+        ],
+        "is_related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.idfy.com": {
+        "product_name": "Passport Verification API",
+        "call_to_action": "Contact Us",
+        "use_cases": [
+            "Financial institutions customer onboarding",
+            "Travel agencies passport verification during ticket bookings",
+            "Online marketplaces identity verification of sellers",
+            "Government agencies border control and immigration processes"
+        ],
+        "solutions": [
+            "Automated passport verification",
+            "Real-time verification",
+            "Enhanced security measures",
+            "User-friendly integration",
+            "Scalability and cost efficiency",
+            "Compliance with regulations"
+        ],
+        "key_features": [
+            "Artificial intelligence (AI) and machine learning-powered verification",
+            "Comparison of scanned passport image or entered details against official records",
+            "Detection of tampered or counterfeit passports",
+            "Facial recognition technology for preventing impersonation attempts",
+            "Seamless integration with existing applications or systems",
+            "Flexible integration options",
+            "Scalability for handling large volumes of passport verification",
+            "Compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations"
+        ],
+        "related_to_identity_verification_api": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    }
+}

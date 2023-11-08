@@ -10,7 +10,7 @@ from utils import *
 SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
-KEYWORD_FOR_SERP = os.environ.get('KEYWORD_FOR_SERP')
+KEYWORD_FOR_SERP = os.environ.get('KEYWORD_FOR_SERP',INDUSTRY_KEYWORD)
 
 
 if not SERPAPI_KEY:
@@ -18,7 +18,7 @@ if not SERPAPI_KEY:
     exit()
 
 def extract_company_urls_from_serp(serp_content, industry_query):
-    
+
     chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
     messages = [
         SystemMessage(content="Analyse SERP and Identify sites based on a given Google search query. '"+industry_query+"'. Return only list of urls if found. Return only urls without quotes etc."),
@@ -40,16 +40,26 @@ def extract_company_urls_from_serp(serp_content, industry_query):
     
     return gpttitle
 
+def read_existing_domains(file_path):
+    try:
+        with open(file_path, 'r') as file:
+            data = json.load(file)
+            return data
+    except FileNotFoundError:
+        return {}
+
+def save_to_json_file(data, filename, directory_name):
+    if not os.path.exists(directory_name):
+        os.makedirs(directory_name)
+    file_path = os.path.join(directory_name, filename)
+    with open(file_path, 'w') as file:
+        json.dump(data, file, indent=4)
 
 
 def main():
     industry_query = INDUSTRY_KEYWORD
     
-    organic_results = search_companies_on_google(KEYWORD_FOR_SERP,40)
-    print(organic_results)
-    
-    # Setting the folder based on the industry keyword
-   
+    organic_results = search_companies_on_google(KEYWORD_FOR_SERP, 40)
     
     serp_content = ""
     for result in organic_results:
@@ -62,13 +72,21 @@ def main():
     # Assuming the returned URLs are separated by commas or spaces
     url_list = re.split(r'[,\s]+', company_urls)
 
-    company_domains = {}
+    # Читаем уже существующие домены
+    directory_name = os.path.join('data', INDUSTRY_KEYWORD)
+    file_path = os.path.join(directory_name, '1companies.json')
+    existing_domains = read_existing_domains(file_path)
+
+    # Обновляем список компаний, если домен не существует
     for url in url_list:
         domain = extract_domain_from_url(url)
-        if domain:  # Ensuring domain is not empty
-            company_domains[domain] = {'url': url}
-    directory_name = os.path.join('data', INDUSTRY_KEYWORD)
-    save_to_json_file(company_domains, '1companies.json', directory_name)
+        if domain and domain not in existing_domains:  # Проверяем, что домен не существует
+            existing_domains[domain] = {'url': url}
+        else:
+            print(domain+" exists")
+
+    # Сохраняем обновленные данные
+    save_to_json_file(existing_domains, '1companies.json', directory_name)
     print(f"Company data saved to {directory_name}/1companies.json")
 
 if __name__ == '__main__':
