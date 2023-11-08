@@ -92,6 +92,10 @@ Use this framework for a thorough optimization of your product feature list. Aft
 
 def main():
     
+    if "7key_features_optimized.json" in os.listdir("data/"+INDUSTRY_KEYWORD):
+        print("7key_features_optimized.json already exists")
+        return
+
     details = load_from_json_file("5companies_details.json", "data/" + INDUSTRY_KEYWORD)
 
     #load all 'key_features' 

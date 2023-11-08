@@ -143,9 +143,10 @@
     },
     "www.idnow.io": {
         "url": "https://www.idnow.io/",
-        "sourcekeyword": "IDNOW:  flexible platform for identity verification",
+        "sourcekeyword": "IDNOW:  flexible platform for identity verification, IDnow:  flexible KYC Solution",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:TV0U3l14PeYJ:https://www.idnow.io/&hl=en&gl=us"
     },
     "www.signicat.com": {
         "url": "https://www.signicat.com/use-cases/kyc-aml",
@@ -251,10 +252,11 @@
     },
     "www.idology.com": {
         "url": "https://www.idology.com/",
-        "sourcekeyword": "IDology, Inc:  Identity verification and fraud prevention solutions",
+        "sourcekeyword": "IDology, Inc:  Identity verification and fraud prevention solutions, Idology:  comprehensive KYC Identity Verification",
         "nature": "single project",
         "domainRegDate": "2003-08-13T18:10:44Z",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:0pPK_dIRA60J:https://www.idology.com/&hl=en&gl=us"
     },
     "www.soliduslabs.com": {
         "url": "https://www.soliduslabs.com/",
@@ -296,9 +298,12 @@
     },
     "www.telesign.com": {
         "url": "https://www.telesign.com/",
-        "sourcekeyword": "TELESIGN:  programmable communications APIs and digital identification",
+        "sourcekeyword": "TELESIGN:  programmable communications APIs and digital identification, TeleSign:  Connecting, Protecting and Defending Digital Identities",
         "nature": "single project",
-        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:P3pM9cnIYnAJ:https://www.telesign.com/&hl=en&gl=us",
+        "priceAndPlansCrawled": "https://www.telesign.com/pricing/sms-and-voice#pricing",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://www.telesign.com/pricing/sms-and-voice#pricing"
     },
     "www.synaps.io": {
         "url": "https://www.synaps.io/",
@@ -538,18 +543,20 @@
     },
     "www.identitymindglobal.com": {
         "url": "https://www.identitymindglobal.com/",
-        "sourcekeyword": "IDENTITY MIND GLOBAL:  AML procedures and KYC measures",
+        "sourcekeyword": "IDENTITY MIND GLOBAL:  AML procedures and KYC measures, Identity Mind Global:  Identity Management",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:RibgijNZYSsJ:https://www.crunchbase.com/organization/identitymind-global&hl=en&gl=us"
     },
     "agreementexpress.com": {
         "url": "https://agreementexpress.com/",
-        "sourcekeyword": "AGREEMENT EXPRESS:  unconventional KYC solutions",
+        "sourcekeyword": "AGREEMENT EXPRESS:  unconventional KYC solutions, Agreement Express:  Integrated Intelligent Underwriting Solution",
         "nature": "single project",
         "domainRegDate": "2008-05-23T01:28:01Z",
         "priceAndPlansCrawled": "https://agreementexpress.com/merchant-software/",
         "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:Zj4zObNW8tkJ:https://agreementexpress.com/merchant-software/&hl=en&gl=us",
-        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:ca5hoy5mitcJ:https://agreementexpress.com/&hl=en&gl=us"
     },
     "www.scorechain.com": {
         "url": "https://www.scorechain.com/",
@@ -604,11 +611,12 @@
     },
     "www.socure.com": {
         "url": "https://www.socure.com/",
-        "sourcekeyword": "SOCURE:  graph-defined identity verification platform",
+        "sourcekeyword": "SOCURE:  graph-defined identity verification platform, Socure:  CMO of the Year 2022",
         "nature": "single project",
         "priceAndPlansCrawled": "https://www.socure.com/products/identity-verification",
         "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:aJjQme4nh-kJ:https://www.socure.com/products/identity-verification&hl=en&gl=us",
-        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:zPfj9SWVSaIJ:https://www.socure.com/&hl=en&gl=us"
     },
     "www.quantifind.com": {
         "url": "https://www.quantifind.com/",
@@ -784,6 +792,150 @@
         "nature": "single project",
         "priceAndPlansCrawled": "https://www.clearviewsys.com/brochures/CurrencyXchanger-Currency-Exchange-Brochure-1Page-CXR4.pdf",
         "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:oyG1GtQPzK8J:https://www.clearviewsys.com/brochures/CurrencyXchanger-Currency-Exchange-Brochure-1Page-CXR4.pdf&hl=en&gl=us",
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+    },
+    "https://www.ballerine.com/": {
+        "url": "https://www.ballerine.com/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.idmerit.com": {
+        "url": "https://www.idmerit.com/idmkyc/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.idmerit.com/idmkyc/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://www.idmerit.com/idmkyc/",
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+    },
+    "www.techmagic.co": {
+        "url": "https://www.techmagic.co/blog/kyc-compliance-software/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.techmagic.co/blog/aws-pricing-model-overview/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:CknUzIHRCZ0J:https://www.techmagic.co/blog/aws-pricing-model-overview/&hl=en&gl=us",
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+    },
+    "www.refinitiv.com": {
+        "url": "https://www.refinitiv.com/en",
+        "nature": "single project",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:GWJuC2A_Uu0J:https://www.refinitiv.com/en&hl=en&gl=us",
+        "sourcekeyword": "Refinitiv:  global financial market data and infrastructure provider offering KYC solutions",
+        "priceAndPlansCrawled": "https://www.refinitiv.com/en/financial-data/pricing-and-market-data",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:b0mMEpaiPPQJ:https://www.refinitiv.com/en/financial-data/pricing-and-market-data&hl=en&gl=us",
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+    },
+    "candices.medium.com": {
+        "url": "https://candices.medium.com/top-10-kyc-aml-service-providers-d8bee5744904",
+        "nature": "list of projects"
+    },
+    "datarade.ai": {
+        "url": "https://datarade.ai/top-lists/best-data-providers-for-kyc",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://datarade.ai/data-categories/pricing-data",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:TYgurAXQC-8J:https://datarade.ai/data-categories/pricing-data&hl=en&gl=us",
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+    },
+    "justcoded.com": {
+        "url": "https://justcoded.com/blog/leveraging-technology-for-customer-onboarding-overview-of-online-kyc-providers/",
+        "nature": "Invalid: This is a privacy policy and article about KYC providers, it does not mention any specific products, services, or solutions of companies."
+    },
+    "risk.lexisnexis.com": {
+        "url": "https://risk.lexisnexis.com/financial-services/financial-crime-compliance/know-your-customer-and-due-diligence",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://risk.lexisnexis.com/financial-services/financial-crime-compliance/know-your-customer-and-due-diligence",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://risk.lexisnexis.com/financial-services/financial-crime-compliance/know-your-customer-and-due-diligence",
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+    },
+    "grcoutlook.com": {
+        "url": "https://grcoutlook.com/top-10-kyc-solution-providers-2022/",
+        "nature": "list of projects"
+    },
+    "www.pwc.com": {
+        "url": "https://www.pwc.com/gx/en/news-room/assets/analyst-citations/chartis-kyc-2022.pdf",
+        "nature": "Invalid: The input appears to be an error message from a web browser."
+    },
+    "www.entrust.com": {
+        "url": "https://www.entrust.com/blog/2023/01/decentralized-identity-know-your-customer-kyc/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.entrust.com/digital-security/identity-and-access-management/products/identity-as-a-service",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:Fjtbqa-PxIUJ:https://www.entrust.com/digital-security/identity-and-access-management/products/identity-as-a-service&hl=en&gl=us",
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+    },
+    "slashdot.org": {
+        "url": "https://slashdot.org/software/kyc/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://slashdot.org/software/price-monitoring/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:9tevwpEaS98J:https://slashdot.org/software/price-monitoring/&hl=en&gl=us",
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+    },
+    "tracxn.com": {
+        "url": "https://tracxn.com/d/trending-themes/startups-in-kyc-solutions/__HqBj3doxC53wJi4bBJjKyMsOMNzd1-naYLbrz6dKYcA",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://tracxn.com/d/companies/price/__ZT04it8BGzNtEhrXCs2dDEwtTpzwjRhiUiDAP-TGrN0",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:7V_rlXynw-kJ:https://tracxn.com/d/companies/price/__ZT04it8BGzNtEhrXCs2dDEwtTpzwjRhiUiDAP-TGrN0&hl=en&gl=us",
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+    },
+    "www.gartner.com": {
+        "url": "https://www.gartner.com/reviews/market/data-and-analytics-others/vendor/kompany/product/kompany-business-kyc-solutions",
+        "nature": "Invalid: This input appears to be a website page or a DDOS protection screen."
+    },
+    "www.kychub.com": {
+        "url": "https://www.kychub.com/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.kychub.com/verification-api-portal/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://www.kychub.com/verification-api-portal/",
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+    },
+    "4stop.com": {
+        "url": "https://4stop.com/",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:lHho8dVCpe8J:https://4stop.com/&hl=en&gl=us",
+        "sourcekeyword": "4stop:  KYC and AML platform",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://example.com/prices",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://example.com/prices",
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+    },
+    "compulynx.com": {
+        "url": "https://compulynx.com/",
+        "cached_url": "not found",
+        "sourcekeyword": "Compulynx:  Creating Equal Opportunities in Africa Through Digital Identity",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://compulynx.com/product-category/point-of-sale-peripherals/",
+        "priceAndPlansCached": "Not found",
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+    },
+    "blockstation.com": {
+        "url": "https://blockstation.com/",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:WusHueT9yQcJ:https://blockstation.com/&hl=en&gl=us",
+        "sourcekeyword": "Blockstation:  trading and settlement solution for digital assets",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://blockstation.com/blog-stos-prevent-market-abuse",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:jEye-4U5_eMJ:https://blockstation.com/blog-stos-prevent-market-abuse&hl=en&gl=us",
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+    },
+    "www.genpact.com": {
+        "url": "https://www.genpact.com/",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:qhY9ZIvqv7YJ:https://www.genpact.com/&hl=en&gl=us",
+        "sourcekeyword": "Genpact:  Genpact",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.genpact.com/insight/mastering-your-pricing-analytics-strategy",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:C2n0MCyxfN0J:https://www.genpact.com/insight/mastering-your-pricing-analytics-strategy&hl=en&gl=us",
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+    },
+    "www.thalesgroup.com": {
+        "url": "https://www.thalesgroup.com/en/markets/digital-identity-and-security",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:yr_2e0e7BiIJ:https://www.thalesgroup.com/en/markets/digital-identity-and-security&hl=en&gl=us",
+        "sourcekeyword": "Gemalto:  verification and securing devices",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.thalesgroup.com/en/investor/retail-investors/share-price-evolution",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:duECQULU3iQJ:https://www.thalesgroup.com/en/investor/retail-investors/share-price-evolution&hl=en&gl=us",
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+    },
+    "www.ubisecure.com": {
+        "url": "https://www.ubisecure.com/",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:GYj2BySJ0uQJ:https://www.ubisecure.com/&hl=en&gl=us",
+        "sourcekeyword": "Ubisecure:  Embrace the Global Digital Identity Ecosystem",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.ubisecure.com/pricing/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:UsOksy-qFDoJ:https://www.ubisecure.com/pricing/&hl=en&gl=us",
         "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
     }
 }

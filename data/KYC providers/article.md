@@ -1,69 +1,62 @@
-# KYC Providers 2023: A Comparative Analysis of Features and Pricing
+# KYC Providers in 2023: A Comparison of Features and Pricing
 
-In the rapidly evolving world of digital finance and online transactions, the importance of robust Know Your Customer (KYC) processes cannot be overstated. KYC providers offer a range of services designed to help businesses verify the identity of their clients, comply with regulatory requirements, and manage risk effectively. This article presents an overview of current KYC providers, focusing on their features and pricing structures. We have streamlined our comparison by removing companies without transparent pricing or sign-up functionality.
+In the rapidly evolving landscape of Know Your Customer (KYC) requirements, businesses are seeking reliable KYC providers to manage identity verification, compliance, and risk management. This article outlines the features and prices of various KYC providers in 2023, based on an optimization process that involved defining criteria for relevance and analyzing 63 companies with a total of 577 features. These features have been categorized into Identity Verification, Compliance and Risk Management, Data Management and Security, Integration and Automation, and Global Coverage and Support. The result is a streamlined list of features, reflecting the capabilities of KYC providers in an industry where efficiency, security, and compliance are paramount.
 
-## Introduction, Resume, and Conclusion
-Our analysis draws on an in-depth examination of 63 KYC providers, showcasing a total of 577 features. These features were categorized into five main clusters for optimized comparison: Identity Verification, Compliance and Risk Management, Data Management and Security, Integration and Automation, and Global Coverage and Support. The optimization process entailed establishing relevance criteria, evaluating the list against these benchmarks, and discarding superfluous features. The result is a succinct yet comprehensive breakdown of the KYC provider landscape in 2023, emphasizing the most critical and effective features these companies offer.
+### Features of KYC Providers
 
-## Features of KYC Providers
+The features of KYC providers have been clustered into five main categories:
 
-KYC providers offer a broad spectrum of features, which have been categorized into five clusters for clarity:
+1. **Identity Verification**: This includes biometric data protection, liveness detection, ID document verification, and more, utilizing AI and manual processes.
+2. **Compliance and Risk Management**: Providers offer services like AML screening, fraud detection, enhanced due diligence, and continuous compliance.
+3. **Data Management and Security**: Secure data management, blockchain security audits, and rigorous security policies are some features offered.
+4. **Integration and Automation**: KYC services integrate with existing systems and offer powerful APIs, automation, and cloud-based solutions.
+5. **Global Coverage and Support**: Providers support numerous document types and offer services in many countries, backed by a strong global presence.
 
-1. **Identity Verification**
-   - ID document verification, biometrics, AI-powered identity checks, video KYC, and secure verification through bank transfer.
+### Pricing and Plan Overviews
 
-2. **Compliance and Risk Management**
-   - Compliance management, AML screening, fraud detection with AI, sanctions screening, and risk assessments.
+Below is a comparison of the pricing and plans offered by various KYC providers. The plans range from basic services to comprehensive enterprise solutions.
 
-3. **Data Management and Security**
-   - Secure data management, GDPR compliance, blockchain security audits, and 24/7 human supervision.
+#### SEON.io
+- **Free**: $0
+- **Starter**: $599/month
+- **Premium**: Contact for pricing
 
-4. **Integration and Automation**
-   - Powerful APIs, cloud-based solutions, easy integration, and process automation.
+#### Signicat.com (e-Signing Portal)
+- **Free edition**: From €0
+- **Professional**: From €13/user/month
+- **Business**: From €13/user/month
+- **Enterprise**: From €13/user/month
 
-5. **Global Coverage and Support**
-   - Extensive document type support, worldwide coverage, and a history of trusted service.
+#### KYC-Chain.com
+- **Basic**: $99/month
+- **Pro**: $199/month
+- **Enterprise**: Contact for custom pricing
 
-## KYC Provider Pricing Plans
+#### Jumio.com
+- **Basic**: $45,625 (one-time?)
+- **Advanced**: $853,750 (one-time?)
 
-Here are some highlighted KYC providers along with their respective pricing details:
+#### Veriff.com
+- **Enterprise**: $0.22 per verification
+- **Self-Serve**: Custom pricing
 
-### SEON
-- Free Plan: $0/month
-- Starter Plan: $599/month
-- Premium Plan: Contact for pricing
+#### Mangopay.com
+- **Standard**: Varied pricing (e.g., Card pay-in: 1.4% + €0.25)
+- **Custom**: Contact for custom pricing
 
-### Signicat
-- e-Signing Portal: Free edition from €0
-- Signicat Mint: Paid plans from €495/month
-- Digital Identity APIs: Starter from €149/month
+#### Shuftipro.com
+- **Basic**: $99/month
+- **Standard**: $199/month
+- **Premium**: $299/month
 
-### SelfKey
-- Basic Plan: $99/month
-- Pro Plan: $199/month
-- Enterprise Plan: Custom pricing
+#### Complycube.com
+- **Starter**: $0.10 per credit
+- **Standard**: $159/month
+- **Premium**: $449/month
 
-### Veriff
-- Enterprise Plan: $0.22 per verification
-- Self-Serve Plan: Custom pricing
+#### Agreementexpress.com
+- **Basic**: $99/month
+- **Pro**: $199/month
+- **Enterprise**: Contact for custom pricing
 
-### Mangopay
-- Standard Plan: Fees starting from €0.25 per transaction
-- Custom Plan: Tailored pricing for high volume
-
-### DIRO
-- Test Plan: Free
-- Launch Plan: Pay as you go
-- Scale Plan: Enterprise pricing
-
-### Civic
-- Developer Plan: FREE
-- Business Plan: $249
-- Custom Plan: Custom pricing
-
-### ComplyCube
-- Starter Plan: $0.10 per credit
-- Standard Plan: $159/month
-- Premium Plan: $449/month
-
-This comparison provides insights into the diverse range of pricing and services offered by KYC providers. Custom enterprise solutions are frequently available, warranting direct discussion with providers for more specific information. The selection of a KYC provider should be tailored to the specific needs of the business, taking into account factors such as volume of transactions, required features, and budget constraints.
+The choice of a KYC provider should be tailored to a company's specific needs, considering factors like the volume of verifications, the level of customization required, and the available budget. For more detailed information or for enterprises with significant processing volumes, it's advisable to directly engage with providers for bespoke solutions.

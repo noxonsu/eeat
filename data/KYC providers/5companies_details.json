@@ -6142,5 +6142,2084 @@
             "status": "Not found",
             "priceAndPlans": null
         }
+    },
+    "www.idmerit.com": {
+        "KYC Provider": "IDMERIT",
+        "Call to Action": "book a demo",
+        "Usecases": [
+            "Identity Verification",
+            "Anti-Money Laundering",
+            "Know Your Customer (KYC)",
+            "Fraud, Risk & Compliance",
+            "Age Verification",
+            "Behavior Monitoring",
+            "Customer Onboarding",
+            "PEP & OFAC"
+        ],
+        "Solutions": [
+            "IDMkyc",
+            "IDMaml",
+            "IDMscan",
+            "IDMdevice",
+            "IDMlive",
+            "IDMtrust",
+            "IDMsocial",
+            "IDMautofill",
+            "IDMkyb",
+            "IDMconnect"
+        ],
+        "Key Features": {
+            "Identity Verification": [
+                "Simple multi-source matching (minimum 2 in-country official sources)",
+                "All Personal Identity Information (PII) match",
+                "KYC provides a 2+2 match API that meets regulatory compliance, including the Financial Action Task Force (FATF)"
+            ],
+            "Superior Data": [
+                "Access to over 400 official data sources across 175+ countries",
+                "Government data",
+                "Voter data",
+                "Credit Files",
+                "Utilities",
+                "Passport registries",
+                "Tax Registries",
+                "Public records",
+                "Mobile Network Subscriber Data",
+                "Motor vehicle data",
+                "Census data"
+            ],
+            "Frictionless Onboarding": [
+                "Thorough risk assessment and customer validity confirmation in seconds",
+                "Industry-leading KYC service provider",
+                "Quick verification and secure onboarding with minimal processing time",
+                "Identity verification services and automated KYC solutions",
+                "Highest match rates in the industry",
+                "Secure data capabilities",
+                "Real-time user verification and authentication"
+            ],
+            "Security and Privacy": [
+                "Data protection through encryption",
+                "Access security with multi-factor authentication",
+                "Physical security on Amazon Web Server",
+                "Regulatory compliance with GDPR, HIPAA, CCPA, and Privacy Shield"
+            ],
+            "Regulatory Compliance": [
+                "GDPR, HIPAA, and CCPA compliant",
+                "Compliance with Privacy Shield"
+            ]
+        },
+        "Global Coverage and Support": {
+            "Support for 13,000+ document types": true,
+            "Strong presence in Europe": true,
+            "Trusted by 300+ partners worldwide": true,
+            "Access to over 300+ corporate registries across 100 countries": true,
+            "Extensive global coverage with billions of data records": true,
+            "Coverage of 195 countries": true,
+            "Trusted by top banks, payment providers, legal firms, and consultancies": true,
+            "Engaged community in multiple countries": true
+        },
+        "Is this project related to KYC providers?": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.techmagic.co": {
+        "KYC-Chain": {
+            "Call to action": "Talk to a manager",
+            "Usecases": [
+                "Identity verification",
+                "Fraud prevention",
+                "AML compliance"
+            ],
+            "Solutions": [
+                "Decentralized approach to identity verification",
+                "Advanced fraud prevention",
+                "Blockchain KYC and AML capabilities"
+            ],
+            "Key features": [
+                "Bank-grade compliance toolkit",
+                "Scans over 10,000+ data points",
+                "Supports 240 countries",
+                "30-second verification"
+            ]
+        },
+        "Onfido": {
+            "Call to action": "Book a demo",
+            "Usecases": [
+                "Identity verification",
+                "KYC checks",
+                "AML compliance"
+            ],
+            "Solutions": [
+                "AI and machine learning-based identity verification",
+                "Trusted data sources",
+                "Liveness verification",
+                "Automated application review"
+            ],
+            "Key features": [
+                "Document and facial analysis",
+                "Biometric authentication",
+                "Fraud detection signals",
+                "Used by top companies like Revolut, Remitly, and Bitstamp"
+            ]
+        },
+        "LemonWay": {
+            "Call to action": "Talk to team",
+            "Usecases": [
+                "Instant KYC for individual accounts",
+                "Conventional solution for corporate accounts",
+                "Fraud pattern detection"
+            ],
+            "Solutions": [
+                "Payment system for marketplaces",
+                "KYC software solution",
+                "Seamless customer onboarding"
+            ],
+            "Key features": [
+                "Supported identity document",
+                "Fraud pattern detection",
+                "Seamless customer onboarding",
+                "Integration with LemonWay's payment system"
+            ]
+        },
+        "Shufti Pro": {
+            "Call to action": "Talk to team",
+            "Usecases": [
+                "Digital identity verification",
+                "Business authenticity verification",
+                "KYC for financial services"
+            ],
+            "Solutions": [
+                "Comprehensive digital identity verification",
+                "AI technology",
+                "Vast database",
+                "KYC and AML screening"
+            ],
+            "Key features": [
+                "Identity verification",
+                "Business authenticity verification",
+                "Video interview KYC",
+                "OCR for businesses"
+            ]
+        },
+        "Ondato": {
+            "Call to action": "Book a demo",
+            "Usecases": [
+                "End-to-end KYC management",
+                "Customer authentication",
+                "Customer onboarding"
+            ],
+            "Solutions": [
+                "Modular operating system",
+                "Strong customer authentication",
+                "Document verification",
+                "Central hub for KYC/AML compliance"
+            ],
+            "Key features": [
+                "Document verification",
+                "Customer onboarding",
+                "Video ID verification",
+                "Facial biometrics"
+            ]
+        },
+        "Trulioo": {
+            "Call to action": "Talk to team",
+            "Usecases": [
+                "Identity verification",
+                "AML compliance",
+                "KYB checks"
+            ],
+            "Solutions": [
+                "Global identity verification",
+                "ID document verification",
+                "AML compliance",
+                "Fraud prevention"
+            ],
+            "Key features": [
+                "ID document verification",
+                "AML compliance",
+                "Watchlist checks",
+                "API integration"
+            ]
+        },
+        "Veriff": {
+            "Call to action": "Sign up",
+            "Usecases": [
+                "Identity verification",
+                "Fraud prevention",
+                "Secure transactions"
+            ],
+            "Solutions": [
+                "Advanced facial recognition",
+                "Image capture technology",
+                "Reliable identity verification"
+            ],
+            "Key features": [
+                "AI functionality",
+                "Advanced facial recognition",
+                "Image capture technology",
+                "Secure transactions"
+            ]
+        },
+        "Is this project really related to KYC providers?": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.refinitiv.com": {
+        "provider": "Refinitiv",
+        "call_to_action": "Contact Us",
+        "usecases": [
+            "KYC screening",
+            "Remediation and ongoing monitoring",
+            "Onboarding and monitoring third-parties"
+        ],
+        "solutions": [
+            "Managed Services",
+            "Risk Content Operations",
+            "Refinitiv Due Diligence Centre",
+            "World-Check Risk Intelligence"
+        ],
+        "features": [
+            "Single supplier covering data, software, and service",
+            "Fast turnaround for positive and possible matches",
+            "Immediate alerts for heightened risk transactions",
+            "Swift implementation with readily trained resources",
+            "Efficiency in compliance actions",
+            "Lower total cost of ownership",
+            "Managed onboarding services",
+            "Managed screening services",
+            "Screening against Refinitiv World-Check database",
+            "Reduction of false positives",
+            "Identification of changes in risk levels",
+            "Outsourcing of due diligence efforts",
+            "Management of ongoing screening alerts",
+            "Screening of new customers",
+            "World-Check Risk Intelligence database",
+            "Refinitiv Due Diligence services"
+        ],
+        "is_related_to_kyc_providers": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "datarade.ai": {
+        "KYC Providers": [
+            {
+                "Provider": "Techsalerator",
+                "Call to Action": "Learn more about Techsalerator",
+                "Use Cases": [],
+                "Solutions": [],
+                "Key Features": []
+            },
+            {
+                "Provider": "Interfax",
+                "Call to Action": "Learn more about Interfax",
+                "Use Cases": [],
+                "Solutions": [],
+                "Key Features": []
+            },
+            {
+                "Provider": "Trulioo",
+                "Call to Action": "Learn more about Trulioo",
+                "Use Cases": [],
+                "Solutions": [],
+                "Key Features": []
+            },
+            {
+                "Provider": "Bureau van Dijk (A Moody's Analytics Company)",
+                "Call to Action": "Learn more about Bureau van Dijk (A Moody's Analytics Company)",
+                "Use Cases": [],
+                "Solutions": [],
+                "Key Features": []
+            },
+            {
+                "Provider": "DueDil",
+                "Call to Action": "Learn more about DueDil",
+                "Use Cases": [],
+                "Solutions": [],
+                "Key Features": []
+            },
+            {
+                "Provider": "Dun & Bradstreet (D&B)",
+                "Call to Action": "Learn more about Dun & Bradstreet (D&B)",
+                "Use Cases": [],
+                "Solutions": [],
+                "Key Features": []
+            },
+            {
+                "Provider": "Creditsafe",
+                "Call to Action": "Learn more about Creditsafe",
+                "Use Cases": [],
+                "Solutions": [],
+                "Key Features": []
+            },
+            {
+                "Provider": "Accuity",
+                "Call to Action": "Learn more about Accuity",
+                "Use Cases": [],
+                "Solutions": [],
+                "Key Features": []
+            },
+            {
+                "Provider": "LexisNexis",
+                "Call to Action": "Learn more about LexisNexis",
+                "Use Cases": [],
+                "Solutions": [],
+                "Key Features": []
+            },
+            {
+                "Provider": "SME Screener",
+                "Call to Action": "Learn more about SME Screener",
+                "Use Cases": [],
+                "Solutions": [],
+                "Key Features": []
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found"
+        }
+    },
+    "risk.lexisnexis.com": {
+        "KYC Provider": {
+            "Call to action": "Talk To Sales Contact Us",
+            "Usecases": [
+                "Customer Identification Program",
+                "Customer Due Diligence (CDD)",
+                "Enhanced Due Diligence",
+                "Ongoing Due Diligence",
+                "Risk Profiling",
+                "Watchlist Screening",
+                "Adverse Media, PEP, Sanctions and Enforcements",
+                "Customer Onboarding",
+                "Financial Counterparty Risk Assessment",
+                "KYC Screening",
+                "Investigations",
+                "Customer Risk Monitoring",
+                "AML Compliance",
+                "Financial Crime Compliance",
+                "Fraud Prevention",
+                "Identity Verification",
+                "Authentication",
+                "Transaction Monitoring",
+                "Risk Assessment",
+                "Data Quality Management"
+            ],
+            "Solutions": [
+                "Customer Identification Program",
+                "Customer Due Diligence (CDD)",
+                "Enhanced Due Diligence",
+                "Ongoing Due Diligence",
+                "Risk Profiling",
+                "Watchlist Screening",
+                "Adverse Media, PEP, Sanctions and Enforcements",
+                "Financial Counterparty Risk Assessment",
+                "KYC Screening",
+                "Investigations",
+                "Customer Risk Monitoring",
+                "AML Compliance",
+                "Financial Crime Compliance",
+                "Fraud Prevention",
+                "Identity Verification",
+                "Authentication",
+                "Transaction Monitoring",
+                "Risk Assessment",
+                "Data Quality Management"
+            ],
+            "Key features": {
+                "Identity Verification": [
+                    "Instantly verify consumer or business information",
+                    "Authenticate identity documents",
+                    "Streamline compliance with CIP and KYC regulations",
+                    "Verify and onboard new clients from more than 30 countries",
+                    "Isolate customers with high-risk profiles",
+                    "Connect to over 5 million structured profiles of individuals and entities",
+                    "Manage complex financial crime compliance regulatory requirements",
+                    "Conform with anti-terrorism and money laundering laws",
+                    "Access global risk intelligence",
+                    "Update customer risk profiles on a daily basis",
+                    "Cover more than 50 risk categories and subcategories",
+                    "Automate critical customer due diligence procedures",
+                    "Pass more customers the first time",
+                    "Determine how to proceed with high-risk accounts",
+                    "Ensure customer information is current and complete",
+                    "Perform targeted news search",
+                    "Navigate complex federal and state filing requirements",
+                    "Simplify Blue Sky compliance",
+                    "Continually strengthen KYC and AML compliance programs",
+                    "Improve risk profiling",
+                    "Automate continuous monitoring of life circumstance changes",
+                    "Manage beneficial ownership regulatory requirements",
+                    "Decrease stagnant due diligence information",
+                    "Strengthen KYC processes",
+                    "Satisfy KYC, CDD, and FinCEN compliance requirements"
+                ],
+                "KYC Screening": [
+                    "Complete high-volume watchlist screening",
+                    "Automate ongoing monitoring",
+                    "Reduce false positives",
+                    "Customizable access to global financial crime compliance intelligence",
+                    "Expanded remediation resources",
+                    "Simplify KYC policies",
+                    "Increase efficiency of critical KYC processes"
+                ],
+                "Investigations": [
+                    "Accelerate investigations with recent and relevant risk intelligence",
+                    "Simplify enhanced due diligence and investigations",
+                    "Access global public records and filings",
+                    "Perform targeted news search",
+                    "Simplify Blue Sky compliance"
+                ],
+                "AML Compliance": [
+                    "Continually strengthen KYC, CIP, CDD, and AML compliance programs",
+                    "Access comprehensive and up-to-date financial crime information",
+                    "Tailor investigative parameters",
+                    "Streamline initial due diligence and customer onboarding",
+                    "Prioritize relevant alerts",
+                    "Raise the effectiveness of risk profiling",
+                    "Automate continuous monitoring of life circumstance changes",
+                    "Manage beneficial ownership regulatory requirements",
+                    "Decrease stagnant due diligence information",
+                    "Adhere to KYC policies",
+                    "Satisfy KYC, CDD Rule, and FinCEN compliance requirements"
+                ],
+                "Fraud Prevention": [
+                    "Automate identity matching and compliance decisions",
+                    "Streamline regulatory compliance",
+                    "Protect against money laundering, fraud, and non-compliance",
+                    "Automate fraud decisioning",
+                    "Accelerate investigations with recent and relevant risk intelligence",
+                    "Simplify enhanced due diligence and investigations",
+                    "Access global public records and filings",
+                    "Perform targeted news search",
+                    "Simplify Blue Sky compliance",
+                    "Automate faster customer and vendor decisions",
+                    "Streamline KYC and due diligence workflows",
+                    "Uncover hidden risk",
+                    "Reduce time spent on manual tasks",
+                    "Achieve faster financial counterparty onboarding times",
+                    "Gain confidence in using up-to-date versions of correct documents",
+                    "Reduce false positives",
+                    "Automate continuous monitoring",
+                    "Improve precision and predictive value of KYC and due diligence",
+                    "Decrease friction for legitimate customers"
+                ],
+                "Data Quality Management": [
+                    "Improve rates of financial inclusion",
+                    "Automate KYC processes",
+                    "Improve customer risk ratings",
+                    "Ensure customer information is current and complete",
+                    "Automate identity matching and compliance decisions",
+                    "Streamline regulatory compliance",
+                    "Protect against money laundering, fraud, and non-compliance",
+                    "Automate fraud decisioning",
+                    "Accelerate investigations with recent and relevant risk intelligence",
+                    "Simplify enhanced due diligence and investigations",
+                    "Access global public records and filings",
+                    "Perform targeted news search",
+                    "Simplify Blue Sky compliance",
+                    "Automate faster customer and vendor decisions",
+                    "Streamline KYC and due diligence workflows",
+                    "Uncover hidden risk",
+                    "Reduce time spent on manual tasks",
+                    "Achieve faster financial counterparty onboarding times",
+                    "Gain confidence in using up-to-date versions of correct documents",
+                    "Reduce false positives",
+                    "Automate continuous monitoring",
+                    "Improve precision and predictive value of KYC and due diligence",
+                    "Decrease friction for legitimate customers"
+                ]
+            },
+            "Is this project related to KYC providers?": true
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.entrust.com": {
+        "KYC Provider 1": {
+            "Call to action": "Contact Sales",
+            "Usecases": [
+                "Identity Verification",
+                "Compliance and Risk Management",
+                "Data Management and Security",
+                "Integration and Automation",
+                "Global Coverage and Support"
+            ],
+            "Solutions": [
+                "Identity Verification as a Service",
+                "Identity as a Service (IDaaS)",
+                "Digital Signing as a Service",
+                "Instant ID as a Service",
+                "Digital Card Solution",
+                "PKI as a Service",
+                "nShield as a Service",
+                "Seamless Travel as a Service",
+                "Instant Financial Issuance",
+                "Central Financial Issuance",
+                "Instant ID Issuance",
+                "Central ID Issuance",
+                "nShield HSMs",
+                "Cloud Security, Encryption and Key Management",
+                "Digital Certificates",
+                "Identity and Access Management (IAM)"
+            ],
+            "Features": {
+                "Identity Verification": [
+                    "Identity proofing",
+                    "Flexible user verification",
+                    "AI-powered identity verification",
+                    "Phone number-based identity verification",
+                    "ID document verification",
+                    "Biometrics and data protection",
+                    "OCR technology for document reading and comparison",
+                    "Liveness and Face Match verification",
+                    "Manual identity verification",
+                    "Secure identity verification through bank transfer",
+                    "Video KYC",
+                    "Digital identity creation and verification",
+                    "Assisted identity verification",
+                    "Instant KYC for individual and corporate accounts",
+                    "Electronic KYC",
+                    "E-signature authentication",
+                    "Face verification",
+                    "Document authorization",
+                    "Verification of travel documents",
+                    "Secure verification of identity",
+                    "3D liveness detection"
+                ],
+                "Compliance and Risk Management": [
+                    "Boosting sanctions compliance",
+                    "Compliance management",
+                    "Compliance with regulatory requirements",
+                    "AML screening",
+                    "RegTech solutions for AML programs and compliance",
+                    "AML and transaction monitoring",
+                    "Fraud detection with AI",
+                    "Fraud prevention",
+                    "Risk transactions identification",
+                    "Risk and compliance services",
+                    "Enhanced due diligence",
+                    "Customizable compliance solutions",
+                    "Continuous compliance",
+                    "Risk assessments based on intelligent data",
+                    "Geo-location and IP assessment",
+                    "Enhanced risk management",
+                    "Sanctions screening and monitoring",
+                    "PEP, sanctions, and adverse media screening",
+                    "Always-on risk monitoring",
+                    "Risk assessment",
+                    "Targeting risk typologies",
+                    "Configurable rules for screening and monitoring",
+                    "Risk-based approach",
+                    "Fraud management with proprietary machine learning and human oversight",
+                    "Automated identity verification and compliance",
+                    "24/7 human supervision",
+                    "KYC / AML / Accreditation Check",
+                    "Non-documentary checks via government databases",
+                    "Compliance with regulations",
+                    "Automatic credit assessment and bankruptcy notification",
+                    "Reduced dependencies on platform operators",
+                    "Anti-money laundering (AML) measures",
+                    "Cloud migration and modernization",
+                    "Security sentiment analysis"
+                ],
+                "Data Management and Security": [
+                    "Customers retain full control of their private data",
+                    "Maintain a secure paper trail of all documents",
+                    "Data enrichment",
+                    "Secure data management",
+                    "Secure and private identity",
+                    "Secure storage and management of digital identity",
+                    "Data security",
+                    "Patented data management",
+                    "Centralized investment management",
+                    "Secure remote meetings",
+                    "Protection against hackers, fraud, and human error",
+                    "Rigorous security policies and procedures",
+                    "Blockchain security audit",
+                    "DSGVO compliant",
+                    "Efficiency, speed, and privacy",
+                    "24/7 human supervision"
+                ],
+                "Integration and Automation": [
+                    "Powerful APIs and applications",
+                    "Flexible workflow builder",
+                    "Cloud and AI-based KYC and AML compliance solutions",
+                    "Integration with existing infrastructure",
+                    "Integration via Web SDK, Mobile SDK, or RESTful API",
+                    "Integration with other systems",
+                    "Modular design",
+                    "Easy integration",
+                    "Interfaces and integration",
+                    "Customizable workflows",
+                    "Access to top compliance experts",
+                    "Automation and machine process automation",
+                    "Automation",
+                    "Efficiency and performance improvements",
+                    "Time-saving automation",
+                    "Cloud migration and modernization",
+                    "Integrations with existing systems"
+                ],
+                "Global Coverage and Support": [
+                    "Support for 13,000+ document types",
+                    "Strong presence in Europe",
+                    "Trusted by 300+ partners worldwide",
+                    "Access to over 300+ corporate registries across 100 countries",
+                    "Extensive global coverage with billions of data records",
+                    "Coverage of 195 countries",
+                    "Trusted by top banks, payment providers, legal firms, and consultancies",
+                    "Engaged community in multiple countries"
+                ]
+            },
+            "Is KYC related": true
+        },
+        "KYC Provider 2": {
+            "Call to action": "Contact an Expert",
+            "Usecases": [
+                "Identity Verification",
+                "Compliance and Risk Management",
+                "Data Management and Security",
+                "Integration and Automation",
+                "Global Coverage and Support"
+            ],
+            "Solutions": [
+                "Identity Verification as a Service",
+                "Identity as a Service (IDaaS)",
+                "Digital Signing as a Service",
+                "Instant ID as a Service",
+                "Digital Card Solution",
+                "PKI as a Service",
+                "nShield as a Service",
+                "Seamless Travel as a Service",
+                "Instant Financial Issuance",
+                "Central Financial Issuance",
+                "Instant ID Issuance",
+                "Central ID Issuance",
+                "nShield HSMs",
+                "Cloud Security, Encryption and Key Management",
+                "Digital Certificates",
+                "Identity and Access Management (IAM)"
+            ],
+            "Features": {
+                "Identity Verification": [
+                    "Identity proofing",
+                    "Flexible user verification",
+                    "AI-powered identity verification",
+                    "Phone number-based identity verification",
+                    "ID document verification",
+                    "Biometrics and data protection",
+                    "OCR technology for document reading and comparison",
+                    "Liveness and Face Match verification",
+                    "Manual identity verification",
+                    "Secure identity verification through bank transfer",
+                    "Video KYC",
+                    "Digital identity creation and verification",
+                    "Assisted identity verification",
+                    "Instant KYC for individual and corporate accounts",
+                    "Electronic KYC",
+                    "E-signature authentication",
+                    "Face verification",
+                    "Document authorization",
+                    "Verification of travel documents",
+                    "Secure verification of identity",
+                    "3D liveness detection"
+                ],
+                "Compliance and Risk Management": [
+                    "Boosting sanctions compliance",
+                    "Compliance management",
+                    "Compliance with regulatory requirements",
+                    "AML screening",
+                    "RegTech solutions for AML programs and compliance",
+                    "AML and transaction monitoring",
+                    "Fraud detection with AI",
+                    "Fraud prevention",
+                    "Risk transactions identification",
+                    "Risk and compliance services",
+                    "Enhanced due diligence",
+                    "Customizable compliance solutions",
+                    "Continuous compliance",
+                    "Risk assessments based on intelligent data",
+                    "Geo-location and IP assessment",
+                    "Enhanced risk management",
+                    "Sanctions screening and monitoring",
+                    "PEP, sanctions, and adverse media screening",
+                    "Always-on risk monitoring",
+                    "Risk assessment",
+                    "Targeting risk typologies",
+                    "Configurable rules for screening and monitoring",
+                    "Risk-based approach",
+                    "Fraud management with proprietary machine learning and human oversight",
+                    "Automated identity verification and compliance",
+                    "24/7 human supervision",
+                    "KYC / AML / Accreditation Check",
+                    "Non-documentary checks via government databases",
+                    "Compliance with regulations",
+                    "Automatic credit assessment and bankruptcy notification",
+                    "Reduced dependencies on platform operators",
+                    "Anti-money laundering (AML) measures",
+                    "Cloud migration and modernization",
+                    "Security sentiment analysis"
+                ],
+                "Data Management and Security": [
+                    "Customers retain full control of their private data",
+                    "Maintain a secure paper trail of all documents",
+                    "Data enrichment",
+                    "Secure data management",
+                    "Secure and private identity",
+                    "Secure storage and management of digital identity",
+                    "Data security",
+                    "Patented data management",
+                    "Centralized investment management",
+                    "Secure remote meetings",
+                    "Protection against hackers, fraud, and human error",
+                    "Rigorous security policies and procedures",
+                    "Blockchain security audit",
+                    "DSGVO compliant",
+                    "Efficiency, speed, and privacy",
+                    "24/7 human supervision"
+                ],
+                "Integration and Automation": [
+                    "Powerful APIs and applications",
+                    "Flexible workflow builder",
+                    "Cloud and AI-based KYC and AML compliance solutions",
+                    "Integration with existing infrastructure",
+                    "Integration via Web SDK, Mobile SDK, or RESTful API",
+                    "Integration with other systems",
+                    "Modular design",
+                    "Easy integration",
+                    "Interfaces and integration",
+                    "Customizable workflows",
+                    "Access to top compliance experts",
+                    "Automation and machine process automation",
+                    "Automation",
+                    "Efficiency and performance improvements",
+                    "Time-saving automation",
+                    "Cloud migration and modernization",
+                    "Integrations with existing systems"
+                ],
+                "Global Coverage and Support": [
+                    "Support for 13,000+ document types",
+                    "Strong presence in Europe",
+                    "Trusted by 300+ partners worldwide",
+                    "Access to over 300+ corporate registries across 100 countries",
+                    "Extensive global coverage with billions of data records",
+                    "Coverage of 195 countries",
+                    "Trusted by top banks, payment providers, legal firms, and consultancies",
+                    "Engaged community in multiple countries"
+                ]
+            },
+            "Is KYC related": true
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "slashdot.org": {
+        "KYC Providers": [
+            {
+                "Name": "Udentify",
+                "Price": "$0.17",
+                "Ratings": 2,
+                "Description": "Know the real identity of your customer, user, or employee with the Udentify Identity Verification and Biometric Authentication solution. Challenges we solve: - Identify verification - Onboarding - New account opening - Age verification - Fraud prevention - Biometric authentication - Passwordless authentication - Strong customer authentication - KBA replacement - KYC and AML compliance Udentify is iBeta Level 1 and Level 2 certified, quickly integrates into your website or mobile app and lets your users navigate from a desktop to a mobile experience as desired."
+            },
+            {
+                "Name": "iDenfy",
+                "Price": "\u20ac0.5 per verification",
+                "Ratings": 75,
+                "Description": "All-in-one identity verification, fraud prevention, and compliance platform."
+            },
+            {
+                "Name": "ComplyCube",
+                "Price": "$0.10 per credit",
+                "Ratings": 6,
+                "Description": "ComplyCube is a market leader in identity verification platforms. It automates and simplifies Identity Verification (IDV), AML (Anti-Money Laundering) and Know Your Customer compliance. Customers include government, legal, telecoms and financial services. ComplyCube offers the most comprehensive, flexible, and cost-effective AML/KYC tools that will help you build trust in business. ComplyCube boasts one of the fastest omnichannel integration turnarounds in the market. It offers low/no-code solutions, API, Mobile & Web SDKs and Client Libraries."
+            },
+            {
+                "Name": "SEON",
+                "Price": "\u20ac599",
+                "Ratings": 5,
+                "Description": "SEON gives you insights into every interaction, order, account, transaction, opportunity. Stop fraud before it happens with unbeatable speed, scale, depth, and breadth. Uniquely combining open data from digital and social media, phone, email, IP, and device lookups in real-time. Giving you accuracy and a true picture of what a real person looks like today. Intelligent risk scoring with AI and machine learning adapt to how different businesses evaluate risk. You get full visibility and complete control of how AI decisions are made, try SEON with low risk and high rewards. SEON provides a comprehensive end-to-end fraud prevention solution, including Anti-Money Laundering (AML). Make it hard for fraudsters to beat. Uncover fraud patterns and discover revenue opportunities."
+            },
+            {
+                "Name": "Ondato",
+                "Price": "\u20ac149.00/ month",
+                "Ratings": 1,
+                "Description": "Ondato offers identity verification, business onboarding, customer data platform, due diligence, and authentication solutions tailored to fit in your everyday workflow. Our tools fit the entire customer lifecycle management, starting from onboarding and ending with continuous user monitoring. It's a one-stop solution whether you're worried about compliance or are looking for a more user-friendly data management platform."
+            },
+            {
+                "Name": "Verify 365",
+                "Price": "$2.50 per verification",
+                "Ratings": 1,
+                "Description": "Verify 365 provides advanced client onboarding for law firms, estate agencies, accountants, and IFAs. Verify 365 allows you to be confident that your clients have been thoroughly vetted. This will save you time and reduce the risk of fraud. Verify 365 provides biometric verification to ensure that your clients are indeed who they claim to be. Verify 365 performs thorough ID checks including government-issued IDs and address verification. Our AML checks ensure your clients aren't on any financial crime watchlists. We also check the source of funds to make sure that your clients' money is legitimate. Verify 365 includes epayment and esignature capabilities to make the onboarding process quick and easy. Verify 365 supports more than 10,000 government-issued identification cards from over 200 different countries. Verify 365's global reach allows you verify clients from around the globe."
+            },
+            {
+                "Name": "Sumsub",
+                "Ratings": 1,
+                "Description": "Sumsub is a single verification platform that allows you to onboard more customers worldwide, speed up their access, reduce costs, and fight digital fraud. Sumsub combines effective verification flows with higher conversion rates worldwide through a powerful, all in one suite designed for a wide variety of needs: KYC/AML verification, KYB verifications, payment fraud prevention and face authentication."
+            },
+            {
+                "Name": "IDMERIT",
+                "Ratings": 7,
+                "Description": "Our vision of creating trust and fighting fraud. IDMERIT offers a range of products and services that help customers to prevent fraud, reduce risk, comply with regulatory requirements, and provide frictionless user experiences. We are committed in the ongoing development of the next generation global identity verification solutions that are cost-effective and comprehensive."
+            },
+            {
+                "Name": "FUGU",
+                "Price": "$99",
+                "Ratings": 5,
+                "Description": "FUGU offers self-learning fraud prevention. FUGU's fraud-detection software tracks online payments post-purchase, as we believe that EVERY PAYMENT COUNTS! WORKING MONTH-2-MONTH - ZERO RISK, NO COMMITMENT! FUGU reduces false transaction declines by 50%, wins chargeback disputes by 60%, and identifies fraud attacks, including friendly fraud. FUGU also offers a chargeback liability shift service, covering fraud and authorization reason codes. FUGU's motto - \"EVERY PAYMENT COUNTS\", we offer a unique KYC system for automating verification processes and increasing its success rate to the highest rates in the industry. FUGU is a must-have solution for online payments: 1. eCommerce websites - supporting all platforms (+ Shopify app) 2. Payment getaways 3. Software as a service (recurring revenue) - ongoing risk assessment 4. Investments \\ exchanges (for accepting investors' deposits) 5. Gaming\\Casino 6. Banks, creditcards, etc 7. Chargebcks guarantee FUGU support all eCommerce platform and offer: 1. Shopify fraud detection and prevention app 2. Woocommerce fraud detection & prevention 3. Magento fraud prevention & detection 4. Bigcommerce fraud detection & prevention 5. Wix fraud detection"
+            },
+            {
+                "Name": "ID.me",
+                "Ratings": 3,
+                "Description": "ID.me simplifies how individuals prove & share their identity online. The ID.me secure digital identity network has over 98 million users, as well as partnerships with 30 states, 10 federal agencies, and over 500 name-brand retailers. The company provides identity proofing, authentication and community verification for organizations across sectors. ID.me is the only provider with video chat and is committed to \"No Identity Left Behind\" to enable all people to have a secure digital identity."
+            },
+            {
+                "Name": "HyperVerge Identity Verification Platform",
+                "Ratings": 38,
+                "Description": "HyperVerge Inc is a B2B SaaS company providing AI-based identity verification solutions to enterprises in Financial Services, Telecom, Gaming, E-commerce, Logistics, EdTech, and Crypto. Identity Verification Platform helps in onboarding customers seamlessly, fraud checks, face authentication, age verification, document verification, eKYC and other services. Clients onboard over 30 million customers every month using this product. With just an ID and a Selfie, verify the identity of your customer in seconds. Prevent fraud and ensure compliance with AML/KYC. With an accuracy of 99.5% (the highest among competitors) and 600+ million KYCs across 200+ countries since 2019, HyperVerge's technology is built for scale. They work with SBI, LIC, Jio, Vodafone, Bajaj Finserv, L&T, Swiggy, WazirX, Coinswitch, Razorpay, ICICI Securities, SBI Cards, Grab, CIMB, FE Credit, Home Credit, and 100+ clients across 5+ geographies for their onboarding journeys."
+            },
+            {
+                "Name": "Sila",
+                "Ratings": 19,
+                "Description": "Sila is an end-to-end payment platform that provides Banking-as-a-Service through a developer-friendly payment API that is scalable and allows for fast and secure money transfers. Sila's payment platform streamlines building and launching fintech apps and embedded payment products for financial products, fintech, crypto, and Web3. Sila's offerings include Virtual Accounts, Digital Wallets, KYC/KYB, and ACH payments APIs for software teams. Additional functionality is available through a network of pre-approved and pre-integrated partners (to different degrees). Sila was recognized as the Best Payments as a Service Platform by the 2022 Embedded Banking Awards of Tearsheet. Sila is headquartered in Portland, Oregon."
+            },
+            {
+                "Name": "Thirdfort",
+                "Ratings": 1,
+                "Description": "Thirdfort combines document scanner, facial recognition, and Open Banking technology to provide online ID and AML checks."
+            },
+            {
+                "Name": "Shufti Pro",
+                "Price": "\u00a30.20",
+                "Description": "Shufti Pro, an easy-to-use identity verification software, bridges the gap between clients and consumers. It provides end-to-end identity verification services for businesses. It gives them a safe and hassle free platform to verify the identities of their users or consumers in less than a minute. This is all done to prevent and deter fraudulent activities, online theft and identity scams and ultimately provide a reliable market. Shufti Pro lets you use your mobile phone's camera in real-time to take a selfie and upload it to your supported identity document. The OCR technology extracts data from the image and compares it with our systems. Both data sets are carefully analyzed, correlated, and analyzed to produce results. All this takes less than a minute."
+            },
+            {
+                "Name": "Trulioo",
+                "Price": "$99.00/ month",
+                "Description": "Protect your customers and company from any type of identity risk Technology changes, regulations change, and customers expect better service. You need an identity verification provider that is flexible and adaptable to your needs. GlobalGateway makes it easy for you to access the services that best suit your business's needs now and in the future. Our expertise can be used to support cross-border compliance for Anti-Money Laundering and Counter Terrorism Financing regulations."
+            },
+            {
+                "Name": "FullCircl",
+                "Price": "\u00a31500",
+                "Description": "FullCircl is a Customer Lifecycle Intelligence (CLI) platform that helps companies in financially regulated industries do better business, faster. A unique end-to-end solution for businesses who want unrivalled intelligence about companies, officers, shareholders, and the relationships between them, to efficiently win the right customers, accelerate onboarding, and keep them for a life. Through its applications, proprietary graph technology, intelligent rules-based decision engine, and powerful APIs, FullCircl improves commercial effectiveness while empowering businesses to satisfy regulatory requirements and make informed decisions about their customers. FullCircl was formed following the merger of Artesian Solutions and DueDil. Backed by top tier investors including Octopus Investments, Notion Capital and Augmentum Fintech, FullCircl brings together decades of combined experience serving regulated businesses. In 2023, FullCircl acquired W2 Global Data Solutions, strengthening its KYC, AML and identity solutions capabilities. Today, it serves 700+ customers, 15,000+ users, processes over 300 million onboarding and monitoring transactions per month and facilitates the onboarding of 200,000+ client customers annually."
+            },
+            {
+                "Name": "NameScan",
+                "Price": "$0.51 per scan",
+                "Description": "It's easy to comply with Anti-Money Laundering. NameScan is an integrated platform that offers Anti Money Laundering as well as Counter Terrorism Financing services. NameScan's Adverse Media and PEP/Sanction screening solution will streamline your AML compliance. Our platform allows you to conduct enhanced customer due diligence and onboard clients efficiently in real-time. We can help you comply with AML/CTF Regulations. Avoid the negative consequences of not complying with AML/CTF regulations by screening against our global sanctions data, which is delivered and monitored in real-time. This coverage includes all major global watchlists such as UN, EU and DFAT. It also includes thousands of other governmental or law enforcement lists. Our ongoing monitoring feature allows you to identify risks to your business in real time. It provides dynamic identification of new risk and real-time alerts."
+            },
+            {
+                "Name": "IDWise",
+                "Price": "$1 per verification",
+                "Description": "Transform good people into good customers faster and increase trust. It's easy to verify your identity. Supported in more than 200+ countries and territories, 13,000+ ID documents. Each ID Document can be subject to up to 50 AI-based security checks in just seconds. Bank-Grade Certified Biometrics Checks Unparalleled expertise in emerging markets. IDWise's AI-driven, fully automated, user-friendly identity verification solution will dramatically increase customer conversion rates and decrease abandonment rates. IDWise loves simplicity. Our seamless integration and simple pricing plans are designed to help you serve customers quickly and reliably while allowing you to focus your resources on what you do best, running your business. We take pride in our long-term partnership approach. We recognize that no two businesses are alike when it comes to finding the right balance between speed, user experience and compliance."
+            },
+            {
+                "Name": "Trustmatic",
+                "Description": "Trustmatic is an identity verification platform that enables businesses to detect advanced fraud attacks and establish trust between their users. Trustmatic is powered by industry-leading AI algorithms and biometric algorithms. Users can verify their identity in seconds with just their ID and a photo. It also maintains a seamless user experience, high security and a high level."
+            },
+            {
+                "Name": "Checkboard",
+                "Price": "\u00a31.50",
+                "Description": "Checkboard is a company that specialises in providing clients with a customised client onboarding experience. We provide relevant data and comply with AML regulations. Our check bundles can be customized and tailored to fit the needs of a variety of industries. This allows professionals and clients to use secure, efficient technology. Our clients can focus on more important tasks by having a fully automated report generated in just 15 minutes. We offer secure identification, KYC and AML, source funds, and other data points. Checkboard. Leading the future of compliance."
+            },
+            {
+                "Name": "MemberCheck",
+                "Description": "Compliance with international AML/CTF legislation will reduce the risk that your business is involved in money laundering and financing terrorism. Integrate through our RESTful API to scan against internationally recognized data sources. Enter your customer's name or upload a file of names. Then, choose your unique scan filters to reduce false matches. Look at the detailed profiles of matches for individuals and companies that were scanned. Do your research and determine if the profiles are a match. Note all matches and make any comments. Based on the decisions made, a whitelist is created to eliminate any false matches that may be found in future scans. The RESTful API of MemberCheck allows for seamless integration with your web application or CRM. API integration allows you to quickly onboard your customers by providing real-time PEP, Sanction, Adverse Media, and ID Verification screening results."
+            },
+            {
+                "Name": "Clear View KYC",
+                "Price": "$500 per month",
+                "Description": "CXR is a professional Point of Sale program that allows multi-currency transactions. CXR allows you to record all transactions and print receipts. The system can keep track of all transactions, including inventory, buy and sell rates, rate updates, and gains. It is difficult to find multi-currency accounting software as a money exchange dealer. Even the most powerful packages, such as XERO and QuickBooks, are not suitable for buying or selling foreign currency. CXR can track 200+ foreign currencies without any problems. CXR is compliant to PCMLTFA, Customer Identification Program (CIP), under the Bank Secrecy Acts (BSA), and USA Patriot Act. CXR also conforms to the Swedish Tax Authority (Skatteverket), control box. CXR consolidates customer data and documents in its database, so you don't need to integrate with other CRM systems. All customer transactions, profile information, and KYC profile are all displayed under one roof."
+            },
+            {
+                "Name": "RiskScreen",
+                "Description": "KYC Global's RiskScreen software provides best-in-breed AML/KYC screening for your prospects and customers with up to 95% reduced false positives There are many options for screening: one-off or bulk screening, cloud or on-site hosting, API or Salesforce integration, and the world-class Dow Jones and Refinitiv World Check datasets. This ensures that you can incorporate a risk-based approach to your processes that meets your needs. Our adverse media searches provide additional insight into your watchlist, sanctions, and PEP results. RiskScreen's OnBoard module, which was released in 2020, combines batch screening functionality with electronic ID verification (eIDV), to provide an end-to-end customer-onboarding solution for individuals as well as complex corporate entities. The service offers a white-label portal and a mobile ID verification application. It also has great workflows, reporting, and crucially, it carries user risk levels up to the CLRM. Considered the best-in-class for AML/KYC software 2020 by Chartis"
+            },
+            {
+                "Name": "Veriff",
+                "Description": "Be confident that people are as honest and truthful as they claim to be. Veriff is the online infrastructure for identity verification, KYC and trust. Veriff's identity verification platform and KYC platform is a leading AI-driven technology that allows customers and users to be onboarded in seconds. Veriff is the industry leader in identity verification, KYC automation and identification fraud prevention. This allows your business to comply without losing new customers or users. Veriff's identity verification platform boasts a 98% check automation rate and a 6 second average decision speed. More than 9,500 identity documents are covered. 95% of users are verified the first time."
+            },
+            {
+                "Name": "TruNarrative",
+                "Price": "\u00a399.50",
+                "Description": "TruNarrative is a part of LexisNexis Risk Solutions TruNarrative was founded with a single mission: to make safe commerce simple. The TruNarrative Platform facilitates multi jurisdiction customer onboarding, financial crime detection, risk & regulatory compliance. Providing unified decisioning across; Identity Verification, Fraud, eKYC, AML & Account Monitoring via a single API. Our platform brings these checks into a single easy-to-configure environment and then uses modern techniques including machine learning and process automation drive efficiency. Combining your own data with 40+ third party providers into the TruNarrative no-code interface, means you can adapt rules and decisioning on the fly without IT resources, keeping total cost of ownership low, and make adoption and integration easy."
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": [
+                {
+                    "name": "Prokuria",
+                    "price": "\u20ac15.00/month/user",
+                    "rating": "1",
+                    "link": "See Software"
+                },
+                {
+                    "name": "Competera",
+                    "price": "Not found",
+                    "rating": "1",
+                    "link": "See Software"
+                },
+                {
+                    "name": "Prisync",
+                    "price": "Not found",
+                    "rating": "1",
+                    "link": "See Software"
+                },
+                {
+                    "name": "Pricewatch by Omnia Retail",
+                    "price": "Not found",
+                    "rating": "1",
+                    "link": "See Software"
+                },
+                {
+                    "name": "Price2Spy",
+                    "price": "$26.95/month",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "PricingHunter",
+                    "price": "$99 per month",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "import.io",
+                    "price": "$299 per user per month",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "PriceShape",
+                    "price": "$240/month",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "Smartpricing",
+                    "price": "$120 per month",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "Pricefy",
+                    "price": "$49 per month",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "DataSearch",
+                    "price": "\u20ac100 per month",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "PriceControl",
+                    "price": "$119",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "Boostmyshop myPricing",
+                    "price": "\u20ac99",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "Mozenda",
+                    "price": "Not found",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "Paarly",
+                    "price": "$360 per month",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "PriceLab",
+                    "price": "$37.00/month",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "EPriceAnalysis",
+                    "price": "$9 per month",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "BlackCurve",
+                    "price": "$28 per month",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "FrigginYeah!",
+                    "price": "$599.00/month",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "Skuuudle",
+                    "price": "$100 per month",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "Priceva",
+                    "price": "$50 per month",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "COMPETITOOR",
+                    "price": "Not found",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "Grepsr",
+                    "price": "Not found",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "Listinguish",
+                    "price": "$10 per month",
+                    "rating": "Not found",
+                    "link": "See Software"
+                },
+                {
+                    "name": "PriceTweakers",
+                    "price": "$60 per month",
+                    "rating": "Not found",
+                    "link": "See Software"
+                }
+            ]
+        }
+    },
+    "tracxn.com": {
+        "KYC Providers": [
+            {
+                "Name": "Onfido",
+                "Location": "London (United Kingdom)",
+                "Founded Year": 2012,
+                "Investors": "TPG, Salesforce Ventures and 84 Others",
+                "Tracxn Score": 71,
+                "Stage": "Series D",
+                "Competitors Rank": 1,
+                "Funding": "$242M",
+                "Description": "Provider of customer identification and KYC solutions for multiple sectors",
+                "Features": [
+                    "Customer onboarding",
+                    "Document authorization",
+                    "Fraud prevention",
+                    "AI-based tools for verifying facial biometrics",
+                    "Verification solutions for various industries"
+                ]
+            },
+            {
+                "Name": "Truework",
+                "Location": "San Francisco (United States)",
+                "Founded Year": 2017,
+                "Investors": "Sequoia Capital, Menlo Ventures and 25 Others",
+                "Tracxn Score": 70,
+                "Stage": "Series C",
+                "Competitors Rank": 4,
+                "Funding": "$119M",
+                "Description": "Candidate background verification solution",
+                "Features": [
+                    "Automated verification process",
+                    "Verification of employment and income",
+                    "Background checks for loan applications and home purchases",
+                    "Clients include Trunk Club, The Motley Fool, InsideSales.com, and more"
+                ]
+            },
+            {
+                "Name": "Perfios",
+                "Location": "Bengaluru (India)",
+                "Founded Year": 2007,
+                "Investors": "Bessemer Venture Partners, Warburg Pincus and 31 Others",
+                "Tracxn Score": 69,
+                "Stage": "Series D",
+                "Competitors Rank": 7,
+                "Funding": "$384M",
+                "Description": "Real-time credit-decisioning platform and data aggregation APIs",
+                "Features": [
+                    "SaaS-based B2B fintech software",
+                    "Financial data analysis software and tools",
+                    "SME lending solutions",
+                    "Automated loan decision process",
+                    "APIs for personal finance applications",
+                    "Personal finance manager application"
+                ]
+            },
+            {
+                "Name": "IDnow",
+                "Location": "Munich (Germany)",
+                "Founded Year": 2014,
+                "Investors": "BlackRock, European Investment Bank and 9 Others",
+                "Tracxn Score": 69,
+                "Stage": "Series C",
+                "Competitors Rank": 5,
+                "Funding": "$40M",
+                "Description": "Developer of KYC, identity verification, and AML solutions for banks and financial institutions",
+                "Features": [
+                    "AutoIdent for AI-based identity verification",
+                    "VideoIdent for video-based verification",
+                    "BankIdent for identity verification via bank transfers",
+                    "Solutions for transaction monitoring, customer onboarding, identity and document verification",
+                    "Used in gaming, esports, cryptocurrency, insurance, finance, and more"
+                ]
+            },
+            {
+                "Name": "IDfy",
+                "Location": "Mumbai (India)",
+                "Founded Year": 2011,
+                "Investors": "New Enterprise Associates, HDFC Bank and 33 Others",
+                "Tracxn Score": 68,
+                "Stage": "Series D",
+                "Competitors Rank": 7,
+                "Funding": "$21M",
+                "Description": "Online platform for identity verification",
+                "Features": [
+                    "Applicant tracking platform",
+                    "Customer verifications",
+                    "Employee verifications",
+                    "User verifications",
+                    "Partner verification",
+                    "KYC, AML, GDPR compliance",
+                    "Video KYC",
+                    "Face validation",
+                    "Data science and AI-based fraud detection solutions",
+                    "Caters to banks, financial services, recruiters, insurers, and more"
+                ]
+            },
+            {
+                "Name": "Digio",
+                "Location": "Bengaluru (India)",
+                "Founded Year": 2016,
+                "Investors": "Rainmatter Technology, Groww and 4 Others",
+                "Tracxn Score": 67,
+                "Stage": "Seed",
+                "Competitors Rank": 14,
+                "Funding": "$11.9M",
+                "Description": "Platform offering API-enabled digital KYC and documentation solutions for banks and enterprises",
+                "Features": [
+                    "Automated digital signing",
+                    "Digital KYC",
+                    "Document collection and digitization",
+                    "Identity linking",
+                    "E-signature with Aadhaar number",
+                    "KYC and onboarding through video in-person verification, ID card analysis, Aadhaar verification, and Digi locker integration",
+                    "Automated document collection and flows, recurring payments collection"
+                ]
+            },
+            {
+                "Name": "Id-Pal",
+                "Location": "Dublin (Ireland)",
+                "Founded Year": 2016,
+                "Investors": "Startupbootcamp, Act Venture Capital and 15 Others",
+                "Tracxn Score": 66,
+                "Stage": "Series A",
+                "Competitors Rank": 10,
+                "Funding": "$8.84M",
+                "Description": "Provider of an online platform for identity verification",
+                "Features": [
+                    "Link-based identity verification",
+                    "Document upload via smartphone",
+                    "ID V checks",
+                    "Single-page verification report"
+                ]
+            },
+            {
+                "Name": "HyperVerge",
+                "Location": "Bengaluru (India)",
+                "Founded Year": 2014,
+                "Investors": "New Enterprise Associates, IKP Knowledge Park and 7 Others",
+                "Tracxn Score": 65,
+                "Stage": "Seed",
+                "Competitors Rank": 12,
+                "Funding": "$1M",
+                "Description": "Provider of a deep-learning technology product for image verification",
+                "Features": [
+                    "Digital KYC+",
+                    "Dedupe fraud checks",
+                    "Data verification",
+                    "Credit scoring",
+                    "Contract verification",
+                    "Satellite and map data analysis",
+                    "Use cases in financial services, telecom, energy, security, and defense"
+                ]
+            },
+            {
+                "Name": "Sumsub",
+                "Location": "London (United Kingdom)",
+                "Founded Year": 2015,
+                "Investors": "Flint Capital, UCP Investment Group and 9 Others",
+                "Tracxn Score": 64,
+                "Stage": "Series A",
+                "Competitors Rank": 24,
+                "Funding": "$7.5M",
+                "Description": "Cloud and AI-based KYC and AML compliance solutions",
+                "Features": [
+                    "Customer onboarding",
+                    "Document verification",
+                    "Identity verification",
+                    "AML screening",
+                    "AI-based tools for document inspection, identity verification, and fraud recognition",
+                    "Use cases in employee onboarding, online trading, blockchain-based projects, and the on-demand economy"
+                ]
+            },
+            {
+                "Name": "Trust Stamp",
+                "Location": "Atlanta (United States)",
+                "Founded Year": 2016,
+                "Investors": "Plug and Play Tech Center, REACH and 19 Others",
+                "Tracxn Score": 64,
+                "Stage": "Public",
+                "Competitors Rank": 19,
+                "Funding": "$9.18M",
+                "Description": "Artificial intelligence-based biometric identity and KYC solutions",
+                "Features": [
+                    "AI-powered identity solutions",
+                    "Protection of user privacy and cybersecurity",
+                    "Authentication through multiple proofs of liveliness and attack detection techniques",
+                    "Use cases in biometrics, privacy, and cybersecurity"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "businessModel": "FinTech > ********* ** **** ** > ******",
+                "plans": []
+            }
+        }
+    },
+    "www.kychub.com": {
+        "KYC Hub": {
+            "Call to action": "Book Demo",
+            "Use cases": [
+                "Know Your Supplier",
+                "Client Lifecycle Management",
+                "Customer Onboarding",
+                "Perpetual KYC",
+                "Account Opening",
+                "B2B Onboarding",
+                "Compliance Automation",
+                "Fraud Prevention"
+            ],
+            "Solutions": [
+                "Global KYC Solution",
+                "Global KYB Solution",
+                "Intelligent Document Processing",
+                "Case Management",
+                "AML Screening and Monitoring",
+                "Transaction Monitoring",
+                "Customer Risk Rating",
+                "Dynamic Workflows",
+                "Workflow Automation",
+                "Digital KYC Solution for India"
+            ],
+            "Key features": [
+                "Adverse Media Intelligence",
+                "Decision Automation",
+                "Digital Signature",
+                "Identity Verification",
+                "Global ID Verification",
+                "Video KYC",
+                "Phone and Email Verification",
+                "Govt. Database Verification",
+                "Face Liveness"
+            ]
+        },
+        "Is this project related to KYC providers?": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "4stop.com": {
+        "KYC Provider 1": {
+            "Call to action": "Book a demo",
+            "Usecases": [
+                "KYC Services",
+                "KYC Data Services",
+                "Document ID Solution",
+                "KYC Global Coverage",
+                "Compliance Tools",
+                "Anti-Fraud Tools",
+                "Data Science",
+                "Business Underwriting",
+                "Managed Services"
+            ],
+            "Solutions": [
+                "All-In-One KYC",
+                "KYC Data Services",
+                "Document ID Solution",
+                "KYC Global Coverage",
+                "Compliance Tools",
+                "Anti-Fraud Tools",
+                "Data Science",
+                "Business Underwriting",
+                "Managed Services"
+            ],
+            "Key features": [
+                "Automated, Real-Time KYB",
+                "Hundreds of KYC Data Sources",
+                "Instant Global Compliance",
+                "Multi-Faceted Rules Engine",
+                "Real-Time Monitoring",
+                "Harmonized Data Science"
+            ],
+            "Is this project related to KYC providers?": true
+        },
+        "KYC Provider 2": {
+            "Call to action": "Contact team",
+            "Usecases": [
+                "KYC Services",
+                "Compliance Tools",
+                "Anti-Fraud Tools",
+                "Data Science",
+                "Business Underwriting",
+                "Managed Services"
+            ],
+            "Solutions": [
+                "KYC Services",
+                "Compliance Tools",
+                "Anti-Fraud Tools",
+                "Data Science",
+                "Business Underwriting",
+                "Managed Services"
+            ],
+            "Key features": [
+                "Automated KYB",
+                "Real-time Verifications and Analysis",
+                "Premium Data Aggregation",
+                "Centralized Global View of Risk and Checks"
+            ],
+            "Is this project related to KYC providers?": true
+        },
+        "KYC Provider 3": {
+            "Call to action": "Talk to a manager",
+            "Usecases": [
+                "KYC Services",
+                "Compliance Tools",
+                "Anti-Fraud Tools",
+                "Data Science",
+                "Business Underwriting",
+                "Managed Services"
+            ],
+            "Solutions": [
+                "KYC Services",
+                "Compliance Tools",
+                "Anti-Fraud Tools",
+                "Data Science",
+                "Business Underwriting",
+                "Managed Services"
+            ],
+            "Key features": [
+                "Automated KYB",
+                "Real-time Verifications and Analysis",
+                "Instant Compliance",
+                "Multi-Faceted Rules Engine",
+                "Improve Reaction Times",
+                "Premium Data Aggregation"
+            ],
+            "Is this project related to KYC providers?": true
+        },
+        "pricesAndPlans": {
+            "status": "Not found"
+        }
+    },
+    "compulynx.com": {
+        "KYC Provider": "CompuLynx",
+        "Call to Action": "Contact Us",
+        "Use Cases": [
+            "Retail Management",
+            "Digital Identity & Payment",
+            "Fraud and Loss Prevention",
+            "Retail ERP"
+        ],
+        "Solutions": [
+            "Business Intelligence",
+            "E-Commerce",
+            "Gift Voucher",
+            "Inventory Management",
+            "Loyalty Management",
+            "Mobility Solutions",
+            "Point of Sale",
+            "Promotion Management",
+            "Agency Banking Solution",
+            "Beneficiary Management Solution",
+            "Biometric eKYC Solution",
+            "Digital Onboarding Solution",
+            "Instant Financial Issuance",
+            "Revenue Collection System",
+            "Visitors\u2019 Management System",
+            "Student Identity Management",
+            "Anti-Money Laundering Solutions",
+            "Enterprise Fraud Management System (EFMS)"
+        ],
+        "Key Features": {
+            "Identity Verification": [
+                "Biometric eKYC Solution",
+                "Contactless Biometric eKYC",
+                "Face Recognition and IR Thermometer",
+                "Digital Onboarding Solution",
+                "Instant Financial Issuance",
+                "Visitors\u2019 Management System",
+                "Student Identity Management"
+            ],
+            "Compliance and Risk Management": [
+                "Anti-Money Laundering Solutions",
+                "Enterprise Fraud Management System (EFMS)"
+            ],
+            "Data Management and Security": [],
+            "Integration and Automation": [],
+            "Global Coverage and Support": []
+        },
+        "Is KYC Provider": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "blockstation.com": {
+        "Company": {
+            "Call to action": "Book Demo",
+            "Usecases": [
+                "Listing tokenized IPOs and digital assets on stock exchanges",
+                "Attracting more listings and higher trading volume",
+                "End-to-end listing, trading, clearing, and settlement for ecosystem partners",
+                "Reducing costs and increasing accessibility for issuers and investors",
+                "Meeting regulatory and reporting requirements"
+            ],
+            "Solutions": [
+                "Digital Asset Solutions",
+                "Order Matching System",
+                "Smart ECN",
+                "Block Depository",
+                "Portals & APIs",
+                "ChainWatch",
+                "Security and Compliance"
+            ],
+            "Key features": [
+                "Plug-and-Play Modules for the Entire Capital Markets Ecosystem",
+                "Easy Implementation via API or secure portal",
+                "Tokenized IPOs with Prospectus+ Smart Listing Accelerator Portal (SLAP)",
+                "Compliance-First Architecture with ChainWatch AML tool"
+            ]
+        },
+        "Is this project related to KYC providers?": false,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.genpact.com": {
+        "provider1": {
+            "call_to_action": "Contact Us",
+            "usecases": [],
+            "solutions": [],
+            "key_features": []
+        },
+        "provider2": {
+            "call_to_action": "LEARN MORE",
+            "usecases": [],
+            "solutions": [],
+            "key_features": []
+        },
+        "provider3": {
+            "call_to_action": "LEARN MORE",
+            "usecases": [],
+            "solutions": [],
+            "key_features": []
+        },
+        "provider4": {
+            "call_to_action": "LEARN MORE",
+            "usecases": [],
+            "solutions": [],
+            "key_features": []
+        },
+        "provider5": {
+            "call_to_action": "LEARN MORE",
+            "usecases": [],
+            "solutions": [],
+            "key_features": []
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.thalesgroup.com": {
+        "KYC Provider 1": {
+            "Call to action": "Talk to a manager",
+            "Usecases": [
+                "Identity verification",
+                "Compliance and risk management",
+                "Data management and security",
+                "Integration and automation",
+                "Global coverage and support"
+            ],
+            "Solutions": [
+                "Identity proofing",
+                "AML screening",
+                "Secure data management",
+                "Integration with existing infrastructure",
+                "Support for 13,000+ document types"
+            ],
+            "Key features": {
+                "Identity Verification": [
+                    "Identity proofing",
+                    "Flexible user verification",
+                    "AI-powered identity verification",
+                    "Phone number-based identity verification",
+                    "ID document verification",
+                    "Biometrics and data protection",
+                    "OCR technology for document reading and comparison",
+                    "Liveness and Face Match verification",
+                    "Manual identity verification",
+                    "Secure identity verification through bank transfer",
+                    "Video KYC",
+                    "Digital identity creation and verification",
+                    "Assisted identity verification",
+                    "Instant KYC for individual and corporate accounts",
+                    "Electronic KYC",
+                    "E-signature authentication",
+                    "Face verification",
+                    "Document authorization",
+                    "Verification of travel documents",
+                    "Secure verification of identity",
+                    "3D liveness detection"
+                ],
+                "Compliance and Risk Management": [
+                    "Boosting sanctions compliance",
+                    "Compliance management",
+                    "Compliance with regulatory requirements",
+                    "AML screening",
+                    "RegTech solutions for AML programs and compliance",
+                    "AML and transaction monitoring",
+                    "Fraud detection with AI",
+                    "Fraud prevention",
+                    "Risk transactions identification",
+                    "Risk and compliance services",
+                    "Enhanced due diligence",
+                    "Customizable compliance solutions",
+                    "Continuous compliance",
+                    "Risk assessments based on intelligent data",
+                    "Geo-location and IP assessment",
+                    "Enhanced risk management",
+                    "Sanctions screening and monitoring",
+                    "PEP, sanctions, and adverse media screening",
+                    "Always-on risk monitoring",
+                    "Risk assessment",
+                    "Targeting risk typologies",
+                    "Configurable rules for screening and monitoring",
+                    "Risk-based approach",
+                    "Fraud management with proprietary machine learning and human oversight",
+                    "Automated identity verification and compliance",
+                    "24/7 human supervision",
+                    "KYC / AML / Accreditation Check",
+                    "Non-documentary checks via government databases",
+                    "Compliance with regulations",
+                    "Automatic credit assessment and bankruptcy notification",
+                    "Reduced dependencies on platform operators",
+                    "Anti-money laundering (AML) measures",
+                    "Cloud migration and modernization",
+                    "Security sentiment analysis"
+                ],
+                "Data Management and Security": [
+                    "Customers retain full control of their private data",
+                    "Maintain a secure paper trail of all documents",
+                    "Data enrichment",
+                    "Secure data management",
+                    "Secure and private identity",
+                    "Secure storage and management of digital identity",
+                    "Data security",
+                    "Patented data management",
+                    "Centralized investment management",
+                    "Secure remote meetings",
+                    "Protection against hackers, fraud, and human error",
+                    "Rigorous security policies and procedures",
+                    "Blockchain security audit",
+                    "DSGVO compliant",
+                    "Efficiency, speed, and privacy",
+                    "24/7 human supervision"
+                ],
+                "Integration and Automation": [
+                    "Powerful APIs and applications",
+                    "Flexible workflow builder",
+                    "Cloud and AI-based KYC and AML compliance solutions",
+                    "Integration with existing infrastructure",
+                    "Integration via Web SDK, Mobile SDK, or RESTful API",
+                    "Integration with other systems",
+                    "Modular design",
+                    "Easy integration",
+                    "Interfaces and integration",
+                    "Customizable workflows",
+                    "Access to top compliance experts",
+                    "Automation and machine process automation",
+                    "Automation",
+                    "Efficiency and performance improvements",
+                    "Time-saving automation",
+                    "Cloud migration and modernization",
+                    "Integrations with existing systems"
+                ],
+                "Global Coverage and Support": [
+                    "Support for 13,000+ document types",
+                    "Strong presence in Europe",
+                    "Trusted by 300+ partners worldwide",
+                    "Access to over 300+ corporate registries across 100 countries",
+                    "Extensive global coverage with billions of data records",
+                    "Coverage of 195 countries",
+                    "Trusted by top banks, payment providers, legal firms, and consultancies",
+                    "Engaged community in multiple countries"
+                ]
+            },
+            "Is this project related to KYC providers?": true
+        },
+        "KYC Provider 2": {
+            "Call to action": "Book a demo",
+            "Usecases": [
+                "Identity verification",
+                "Compliance and risk management",
+                "Data management and security",
+                "Integration and automation",
+                "Global coverage and support"
+            ],
+            "Solutions": [
+                "Identity proofing",
+                "AML screening",
+                "Secure data management",
+                "Integration with existing infrastructure",
+                "Support for 13,000+ document types"
+            ],
+            "Key features": {
+                "Identity Verification": [
+                    "Identity proofing",
+                    "Flexible user verification",
+                    "AI-powered identity verification",
+                    "Phone number-based identity verification",
+                    "ID document verification",
+                    "Biometrics and data protection",
+                    "OCR technology for document reading and comparison",
+                    "Liveness and Face Match verification",
+                    "Manual identity verification",
+                    "Secure identity verification through bank transfer",
+                    "Video KYC",
+                    "Digital identity creation and verification",
+                    "Assisted identity verification",
+                    "Instant KYC for individual and corporate accounts",
+                    "Electronic KYC",
+                    "E-signature authentication",
+                    "Face verification",
+                    "Document authorization",
+                    "Verification of travel documents",
+                    "Secure verification of identity",
+                    "3D liveness detection"
+                ],
+                "Compliance and Risk Management": [
+                    "Boosting sanctions compliance",
+                    "Compliance management",
+                    "Compliance with regulatory requirements",
+                    "AML screening",
+                    "RegTech solutions for AML programs and compliance",
+                    "AML and transaction monitoring",
+                    "Fraud detection with AI",
+                    "Fraud prevention",
+                    "Risk transactions identification",
+                    "Risk and compliance services",
+                    "Enhanced due diligence",
+                    "Customizable compliance solutions",
+                    "Continuous compliance",
+                    "Risk assessments based on intelligent data",
+                    "Geo-location and IP assessment",
+                    "Enhanced risk management",
+                    "Sanctions screening and monitoring",
+                    "PEP, sanctions, and adverse media screening",
+                    "Always-on risk monitoring",
+                    "Risk assessment",
+                    "Targeting risk typologies",
+                    "Configurable rules for screening and monitoring",
+                    "Risk-based approach",
+                    "Fraud management with proprietary machine learning and human oversight",
+                    "Automated identity verification and compliance",
+                    "24/7 human supervision",
+                    "KYC / AML / Accreditation Check",
+                    "Non-documentary checks via government databases",
+                    "Compliance with regulations",
+                    "Automatic credit assessment and bankruptcy notification",
+                    "Reduced dependencies on platform operators",
+                    "Anti-money laundering (AML) measures",
+                    "Cloud migration and modernization",
+                    "Security sentiment analysis"
+                ],
+                "Data Management and Security": [
+                    "Customers retain full control of their private data",
+                    "Maintain a secure paper trail of all documents",
+                    "Data enrichment",
+                    "Secure data management",
+                    "Secure and private identity",
+                    "Secure storage and management of digital identity",
+                    "Data security",
+                    "Patented data management",
+                    "Centralized investment management",
+                    "Secure remote meetings",
+                    "Protection against hackers, fraud, and human error",
+                    "Rigorous security policies and procedures",
+                    "Blockchain security audit",
+                    "DSGVO compliant",
+                    "Efficiency, speed, and privacy",
+                    "24/7 human supervision"
+                ],
+                "Integration and Automation": [
+                    "Powerful APIs and applications",
+                    "Flexible workflow builder",
+                    "Cloud and AI-based KYC and AML compliance solutions",
+                    "Integration with existing infrastructure",
+                    "Integration via Web SDK, Mobile SDK, or RESTful API",
+                    "Integration with other systems",
+                    "Modular design",
+                    "Easy integration",
+                    "Interfaces and integration",
+                    "Customizable workflows",
+                    "Access to top compliance experts",
+                    "Automation and machine process automation",
+                    "Automation",
+                    "Efficiency and performance improvements",
+                    "Time-saving automation",
+                    "Cloud migration and modernization",
+                    "Integrations with existing systems"
+                ],
+                "Global Coverage and Support": [
+                    "Support for 13,000+ document types",
+                    "Strong presence in Europe",
+                    "Trusted by 300+ partners worldwide",
+                    "Access to over 300+ corporate registries across 100 countries",
+                    "Extensive global coverage with billions of data records",
+                    "Coverage of 195 countries",
+                    "Trusted by top banks, payment providers, legal firms, and consultancies",
+                    "Engaged community in multiple countries"
+                ]
+            },
+            "Is this project related to KYC providers?": true
+        },
+        "KYC Provider 3": {
+            "Call to action": "Talk to team",
+            "Usecases": [
+                "Identity verification",
+                "Compliance and risk management",
+                "Data management and security",
+                "Integration and automation",
+                "Global coverage and support"
+            ],
+            "Solutions": [
+                "Identity proofing",
+                "AML screening",
+                "Secure data management",
+                "Integration with existing infrastructure",
+                "Support for 13,000+ document types"
+            ],
+            "Key features": {
+                "Identity Verification": [
+                    "Identity proofing",
+                    "Flexible user verification",
+                    "AI-powered identity verification",
+                    "Phone number-based identity verification",
+                    "ID document verification",
+                    "Biometrics and data protection",
+                    "OCR technology for document reading and comparison",
+                    "Liveness and Face Match verification",
+                    "Manual identity verification",
+                    "Secure identity verification through bank transfer",
+                    "Video KYC",
+                    "Digital identity creation and verification",
+                    "Assisted identity verification",
+                    "Instant KYC for individual and corporate accounts",
+                    "Electronic KYC",
+                    "E-signature authentication",
+                    "Face verification",
+                    "Document authorization",
+                    "Verification of travel documents",
+                    "Secure verification of identity",
+                    "3D liveness detection"
+                ],
+                "Compliance and Risk Management": [
+                    "Boosting sanctions compliance",
+                    "Compliance management",
+                    "Compliance with regulatory requirements",
+                    "AML screening",
+                    "RegTech solutions for AML programs and compliance",
+                    "AML and transaction monitoring",
+                    "Fraud detection with AI",
+                    "Fraud prevention",
+                    "Risk transactions identification",
+                    "Risk and compliance services",
+                    "Enhanced due diligence",
+                    "Customizable compliance solutions",
+                    "Continuous compliance",
+                    "Risk assessments based on intelligent data",
+                    "Geo-location and IP assessment",
+                    "Enhanced risk management",
+                    "Sanctions screening and monitoring",
+                    "PEP, sanctions, and adverse media screening",
+                    "Always-on risk monitoring",
+                    "Risk assessment",
+                    "Targeting risk typologies",
+                    "Configurable rules for screening and monitoring",
+                    "Risk-based approach",
+                    "Fraud management with proprietary machine learning and human oversight",
+                    "Automated identity verification and compliance",
+                    "24/7 human supervision",
+                    "KYC / AML / Accreditation Check",
+                    "Non-documentary checks via government databases",
+                    "Compliance with regulations",
+                    "Automatic credit assessment and bankruptcy notification",
+                    "Reduced dependencies on platform operators",
+                    "Anti-money laundering (AML) measures",
+                    "Cloud migration and modernization",
+                    "Security sentiment analysis"
+                ],
+                "Data Management and Security": [
+                    "Customers retain full control of their private data",
+                    "Maintain a secure paper trail of all documents",
+                    "Data enrichment",
+                    "Secure data management",
+                    "Secure and private identity",
+                    "Secure storage and management of digital identity",
+                    "Data security",
+                    "Patented data management",
+                    "Centralized investment management",
+                    "Secure remote meetings",
+                    "Protection against hackers, fraud, and human error",
+                    "Rigorous security policies and procedures",
+                    "Blockchain security audit",
+                    "DSGVO compliant",
+                    "Efficiency, speed, and privacy",
+                    "24/7 human supervision"
+                ],
+                "Integration and Automation": [
+                    "Powerful APIs and applications",
+                    "Flexible workflow builder",
+                    "Cloud and AI-based KYC and AML compliance solutions",
+                    "Integration with existing infrastructure",
+                    "Integration via Web SDK, Mobile SDK, or RESTful API",
+                    "Integration with other systems",
+                    "Modular design",
+                    "Easy integration",
+                    "Interfaces and integration",
+                    "Customizable workflows",
+                    "Access to top compliance experts",
+                    "Automation and machine process automation",
+                    "Automation",
+                    "Efficiency and performance improvements",
+                    "Time-saving automation",
+                    "Cloud migration and modernization",
+                    "Integrations with existing systems"
+                ],
+                "Global Coverage and Support": [
+                    "Support for 13,000+ document types",
+                    "Strong presence in Europe",
+                    "Trusted by 300+ partners worldwide",
+                    "Access to over 300+ corporate registries across 100 countries",
+                    "Extensive global coverage with billions of data records",
+                    "Coverage of 195 countries",
+                    "Trusted by top banks, payment providers, legal firms, and consultancies",
+                    "Engaged community in multiple countries"
+                ]
+            },
+            "Is this project related to KYC providers?": true
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.ubisecure.com": {
+        "provider_name": "Ubisecure",
+        "call_to_action": "Request Demo",
+        "usecases": [
+            "KYC & KYB",
+            "B2B & Supply Chain",
+            "Go Passwordless",
+            "Zero Trust Security",
+            "Accept Reusable Digital Identities",
+            "Identity Management for SaaS",
+            "Strong Customer Authentication",
+            "Securely Enable Remote Work",
+            "Identity & Authentication Hubs",
+            "Secure Customer Journeys",
+            "Consolidate Identities across Apps"
+        ],
+        "solutions": [
+            "IDaaS (Cloud IAM)",
+            "Identity Server (On Premises)",
+            "Hybrid IAM",
+            "Identity Platform",
+            "B2B Identity",
+            "Organisation Identity",
+            "Customer Identity",
+            "Workforce Identity",
+            "Individual ID",
+            "User Login & Registration",
+            "SSO (Single Sign-On)",
+            "Multi-Factor Authentication",
+            "Identity Relationships & Delegation",
+            "User Management",
+            "Access Management",
+            "Organisation ID",
+            "Legal Entity Identifiers (LEI)",
+            "Verifiable Credentials",
+            "Search LEI"
+        ],
+        "features": {
+            "Identity Verification": [
+                "Identity proofing",
+                "Flexible user verification",
+                "AI-powered identity verification",
+                "Phone number-based identity verification",
+                "ID document verification",
+                "Biometrics and data protection",
+                "OCR technology for document reading and comparison",
+                "Liveness and Face Match verification",
+                "Manual identity verification",
+                "Secure identity verification through bank transfer",
+                "Video KYC",
+                "Digital identity creation and verification",
+                "Assisted identity verification",
+                "Instant KYC for individual and corporate accounts",
+                "Electronic KYC",
+                "E-signature authentication",
+                "Face verification",
+                "Document authorization",
+                "Verification of travel documents",
+                "Secure verification of identity",
+                "3D liveness detection"
+            ],
+            "Compliance and Risk Management": [
+                "Boosting sanctions compliance",
+                "Compliance management",
+                "Compliance with regulatory requirements",
+                "AML screening",
+                "RegTech solutions for AML programs and compliance",
+                "AML and transaction monitoring",
+                "Fraud detection with AI",
+                "Fraud prevention",
+                "Risk transactions identification",
+                "Risk and compliance services",
+                "Enhanced due diligence",
+                "Customizable compliance solutions",
+                "Continuous compliance",
+                "Risk assessments based on intelligent data",
+                "Geo-location and IP assessment",
+                "Enhanced risk management",
+                "Sanctions screening and monitoring",
+                "PEP, sanctions, and adverse media screening",
+                "Always-on risk monitoring",
+                "Risk assessment",
+                "Targeting risk typologies",
+                "Configurable rules for screening and monitoring",
+                "Risk-based approach",
+                "Fraud management with proprietary machine learning and human oversight",
+                "Automated identity verification and compliance",
+                "24/7 human supervision",
+                "KYC / AML / Accreditation Check",
+                "Non-documentary checks via government databases",
+                "Compliance with regulations",
+                "Automatic credit assessment and bankruptcy notification",
+                "Reduced dependencies on platform operators",
+                "Anti-money laundering (AML) measures",
+                "Cloud migration and modernization",
+                "Security sentiment analysis"
+            ],
+            "Data Management and Security": [
+                "Customers retain full control of their private data",
+                "Maintain a secure paper trail of all documents",
+                "Data enrichment",
+                "Secure data management",
+                "Secure and private identity",
+                "Secure storage and management of digital identity",
+                "Data security",
+                "Patented data management",
+                "Centralized investment management",
+                "Secure remote meetings",
+                "Protection against hackers, fraud, and human error",
+                "Rigorous security policies and procedures",
+                "Blockchain security audit",
+                "DSGVO compliant",
+                "Efficiency, speed, and privacy",
+                "24/7 human supervision"
+            ],
+            "Integration and Automation": [
+                "Powerful APIs and applications",
+                "Flexible workflow builder",
+                "Cloud and AI-based KYC and AML compliance solutions",
+                "Integration with existing infrastructure",
+                "Integration via Web SDK, Mobile SDK, or RESTful API",
+                "Integration with other systems",
+                "Modular design",
+                "Easy integration",
+                "Interfaces and integration",
+                "Customizable workflows",
+                "Access to top compliance experts",
+                "Automation and machine process automation",
+                "Automation",
+                "Efficiency and performance improvements",
+                "Time-saving automation",
+                "Cloud migration and modernization",
+                "Integrations with existing systems"
+            ],
+            "Global Coverage and Support": [
+                "Support for 13,000+ document types",
+                "Strong presence in Europe",
+                "Trusted by 300+ partners worldwide",
+                "Access to over 300+ corporate registries across 100 countries",
+                "Extensive global coverage with billions of data records",
+                "Coverage of 195 countries",
+                "Trusted by top banks, payment providers, legal firms, and consultancies",
+                "Engaged community in multiple countries"
+            ]
+        },
+        "is_related_to_kyc_providers": true,
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": [
+                {
+                    "name": "Ubisecure IDaaS",
+                    "description": "Simplified SaaS IAM",
+                    "price": "Low cost per user per month pricing",
+                    "addOns": "priced on application"
+                },
+                {
+                    "name": "Identity Platform - Essential",
+                    "description": "Get started securing customer identity quickly and easily with core management functions.",
+                    "price": "Custom Pricing",
+                    "addOns": "Request a Quote"
+                },
+                {
+                    "name": "Identity Platform - Extended",
+                    "description": "Designed for large scale, complex deployments across multiple applications.",
+                    "price": "Custom Pricing",
+                    "addOns": "Request a Quote"
+                },
+                {
+                    "name": "Identity Platform - Complete",
+                    "description": "Designed for mission critical, enterprise scale or nationwide deployments.",
+                    "price": "Custom Pricing",
+                    "addOns": "Request a Quote"
+                }
+            ]
+        }
     }
 }
