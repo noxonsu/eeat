@@ -25,6 +25,16 @@ jobs:
         else
           echo "OPENAI_API_KEY is set!"
         fi
+    - name: Check if INDUSTRY_KEYWORD is set
+      run: |
+        if [ -z "${{ secrets.INDUSTRY_KEYWORD }}" ]; then
+          echo "INDUSTRY_KEYWORD is not set!"
+          exit 1      
+    - name: Check if INDUSTRY_KEYWORD is set
+      run: |
+        if [ -z "${{ secrets.SERPAPI_KEY }}" ]; then
+          echo "INDUSTRY_KEYWORD is not set!"
+          exit 1            
     - name: Install XVFB and other libs
       run: |
         sudo apt-get update
@@ -39,7 +49,12 @@ jobs:
     - name: Run python scripts
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      run: xvfb-run python 6loadSummary.py
+      run: |
+        python 1loadSerp.py
+        xvfb-run python 2loadSummaries.py
+        python 4searchProducts.py
+        xvfb-run python 2loadSummaries.py
+        python 3searchPrices.py
 
     - name: Commit and push changes
       run: |

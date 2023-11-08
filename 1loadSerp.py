@@ -10,7 +10,7 @@ from utils import *
 SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
-KEYWORD_FOR_SERP = os.environ.get('KEYWORD_FOR_SERP')
+KEYWORD_FOR_SERP = os.environ.get('KEYWORD_FOR_SERP',INDUSTRY_KEYWORD)
 
 
 if not SERPAPI_KEY:
@@ -19,6 +19,8 @@ if not SERPAPI_KEY:
 
 def extract_company_urls_from_serp(serp_content, industry_query):
     
+    print(serp_content)
+
     chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
     messages = [
         SystemMessage(content="Analyse SERP and Identify sites based on a given Google search query. '"+industry_query+"'. Return only list of urls if found. Return only urls without quotes etc."),
