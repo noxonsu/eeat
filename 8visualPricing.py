@@ -76,27 +76,34 @@ if __name__ == "__main__":
     all_sites_data = load_from_json_file("5companies_details.json", "data/" + INDUSTRY_KEYWORD)
     sites = list(all_sites_data.keys())
     existedDomainList = []
-    datatoAdd = []
+    datatoAdd = {}
+    datatoAddFeatures = {}
     for i, domain in enumerate(sites):
-        datatoAdd.append(all_sites_data[domain]['pricesAndPlans'])
+        datatoAdd[domain] = all_sites_data[domain]['pricesAndPlans']
+        if ('key_features' not in all_sites_data[domain]):
+            print("key_features not in "+domain)
+            continue
+        datatoAddFeatures[domain] = all_sites_data[domain]['key_features']
 
 
 
     messages = [
-        SystemMessage(content="Act like an analytic. Compare pricing plans and create comparsion review of "+INDUSTRY_KEYWORD+". Don't include projects without numbers. Return numbers and features. Return markdown."),
-        HumanMessage(content=json.dumps(datatoAdd))
+        SystemMessage(content="Act like an analytic. Compare pricing plans and create comparsion review of "+INDUSTRY_KEYWORD+". Don't include projects without numbers. Keep company names and features. Use tables if possible. Return markdown."),
+        HumanMessage(content=json.dumps(datatoAdd)+json.dumps(datatoAddFeatures))
     ]
 
     start = time.time()
     try:
-        chat = ChatOpenAI(temperature=0, model_name="gpt-4-1106-preview")
+        mod = "gpt-4-1106-preview" #gpt-4-1106-preview
+        chat = ChatOpenAI(temperature=0, model_name=mod)
         response = chat(messages)
-        print("gpt-4-1106-preview")
+        print(mod)
     except Exception as e:
+        mod = "gpt-4-1106-preview" #gpt-4-1106-preview
         print(e)
         print(".16k")
-        chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
-        response = chat(messages)
+        #chat = ChatOpenAI(temperature=0, model_name=mod)
+        #response = chat(messages)
         
     
     end = time.time()

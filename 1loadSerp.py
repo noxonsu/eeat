@@ -10,6 +10,7 @@ from utils import *
 SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
+KEYWORD_FOR_SERP = os.environ.get('KEYWORD_FOR_SERP')
 
 
 if not SERPAPI_KEY:

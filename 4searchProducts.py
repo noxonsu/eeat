@@ -116,7 +116,7 @@ def main():
             else:
                 companies[domain]['url'] = url
                 companies[domain]['cached_url'] = cashed
-                if (companies[domain]['sourcekeyword'] != name_project):
+                if ('sourcekeyword' in companies[domain] and companies[domain]['sourcekeyword'] != name_project):
                     companies[domain]['sourcekeyword'] = companies[domain]['sourcekeyword'] + ", " + name_project
                     print("multiple sourcekeyword")
                 else:

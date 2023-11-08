@@ -1,0 +1,258 @@
+{
+    "www.cherryservers.com": {
+        "url": "https://www.cherryservers.com/dedicated-gpu-servers",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.cherryservers.com/dedicated-gpu-servers",
+        "priceAndPlansCached": "",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.serverroom.net": {
+        "url": "https://www.serverroom.net/en/dedicated/gpu/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.serverroom.net/dedicated/gpu/pricing/",
+        "priceAndPlansCached": "Not found",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.gpu-mart.com": {
+        "url": "https://www.gpu-mart.com/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.gpu-mart.com/pricing",
+        "priceAndPlansCached": "Not found",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.reddit.com": {
+        "url": "https://www.reddit.com/r/CoreKeeperGame/comments/xrisv4/is_the_dedicated_server_still_gpu_bound/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.reddit.com/r/grocy/comments/128t6al/stock_unit_and_prices/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:24qorDFkodQJ:https://www.reddit.com/r/grocy/comments/128t6al/stock_unit_and_prices/&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.purestorage.com": {
+        "url": "https://www.purestorage.com/knowledge/what-is-a-dedicated-gpu-server.html",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.purestorage.com/knowledge/what-is-evergreen-one.html",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:A-slVT7Y5DcJ:https://www.purestorage.com/knowledge/what-is-evergreen-one.html&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.primcast.com": {
+        "url": "https://www.primcast.com/en/dedicated/gpu/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.primcast.com/vod/pricing/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:WnE244hrwqcJ:https://www.primcast.com/vod/pricing/&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "hostkey.com": {
+        "url": "https://hostkey.com/",
+        "nature": "Invalid: DDOS protection screen",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:e0vvTmuFFjcJ:https://hostkey.com/&hl=en&gl=us",
+        "sourcekeyword": "Hostkey:  AI Tools, Business, Chatbots, Code Generators, Education, Crypto Trading, Headshot Generators, Image Enhancers, Image Generators, Marketing Tools, Music Generators, SEO, Stock Trading, Text to Speech, Transcription, Translation, Video Enhancers, Video Generators, Voice Generators, Writing Tools"
+    },
+    "us.ovhcloud.com": {
+        "url": "https://us.ovhcloud.com/public-cloud/gpu/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://us.ovhcloud.com/public-cloud/gpu/",
+        "priceAndPlansCached": "http://webcache.googleusercontent.com/search?q=cache:https://us.ovhcloud.com/public-cloud/gpu/",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.ikoula.com": {
+        "url": "https://www.ikoula.com/en/dedicated-server/gpu",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.ikoula.com/en/dedicated-server/xeon-gpu",
+        "priceAndPlansCached": "",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.interserver.net": {
+        "url": "https://www.interserver.net/dedicated/gpu.html",
+        "nature": "Invalid: DDOS protection screen"
+    },
+    "gcore.com": {
+        "url": "https://gcore.com/hosting/dedicated/gpu",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://gcore.com/cloud/ai-gpu",
+        "priceAndPlansCached": "",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "vsys.host": {
+        "url": "https://vsys.host/gpu-dedicated-servers",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://vsys.host/ssd-storage-servers",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:2qio7FrS6CIJ:https://vsys.host/ssd-storage-servers&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.velocihost.net": {
+        "url": "https://www.velocihost.net/gpu-servers/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.velocihost.net/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:sni3DdUhSsQJ:https://www.velocihost.net/&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.binaryracks.com": {
+        "url": "https://www.binaryracks.com/en/gpu-dedicated-server-hosting/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.binaryracks.com/en/gpu-dedicated-server-hosting/",
+        "priceAndPlansCached": "http://webcache.googleusercontent.com/search?q=cache:https://www.binaryracks.com/en/gpu-dedicated-server-hosting/",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.unite.ai": {
+        "url": "https://www.unite.ai/",
+        "nature": "list of projects",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:dS2Fth7J_D4J:https://www.unite.ai/&hl=en&gl=us",
+        "sourcekeyword": "Unite.AI:  AI Tools, Code Generators, Image Enhancers, Image Generators, Music Generators, Video Enhancers, Video Generators, Voice Generators, Writing, Consumer, Education, Text to Speech, Trading Crypto, Trading Stocks, Transcription, Translation, Business, Assistants, Business, Chatbots, Chrome Extensions, Data Analysts, Data Cleaning, Email Generators, ETL, Headshot Generators, Marketing, Recruiting, SEO, Social Media"
+    },
+    "www.leadergpu.com": {
+        "url": "https://www.leadergpu.com/dedicated_gpu_server",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.leadergpu.com/catalog/pytorch",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:1BGyBlsKxZIJ:https://www.leadergpu.com/catalog/pytorch&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "pq.hosting": {
+        "url": "https://pq.hosting/en/arenda-gpu",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://pq.hosting/en/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:MHsncNRGRKMJ:https://pq.hosting/en/&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.databasemart.com": {
+        "url": "https://www.databasemart.com/gpu-server",
+        "nature": "Invalid: DDOS protection screen"
+    },
+    "www.space-hosting.net": {
+        "url": "https://www.space-hosting.net/gpu-dedicated-servers/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.space-hosting.net/pricing/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:6ppIeOom7kcJ:https://www.space-hosting.net/pricing/&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.redswitches.com": {
+        "url": "https://www.redswitches.com/",
+        "nature": "list of projects",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:9UoxADYv-EcJ:https://www.redswitches.com/&hl=en&gl=us",
+        "sourcekeyword": "RedSwitches:  Pricing"
+    },
+    "www.seimaxim.com": {
+        "url": "https://www.seimaxim.com/dedicated-servers/gpu",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.seimaxim.com/domain-names/com",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:uygW47C3ZxsJ:https://www.seimaxim.com/domain-names/com&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "unihost.com": {
+        "url": "https://unihost.com/blog/dedicated-server-with-gpu/",
+        "nature": "list of projects"
+    },
+    "selectel.ru": {
+        "url": "https://selectel.ru/en/services/dedicated/gpu/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://selectel.ru/en/prices/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:VHHcz54LT3EJ:https://selectel.ru/en/prices/&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "gthost.com": {
+        "url": "https://gthost.com/chicago-gpu-dedicated-servers/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://gthost.com/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:iShTflkyc8YJ:https://gthost.com/&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.linkedin.com": {
+        "url": "https://www.linkedin.com/pulse/what-gpu-dedicated-server-hosting-isha-tripathi",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.linkedin.com/in/growthspecialist",
+        "priceAndPlansCached": "Not found",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "introserv.com": {
+        "url": "https://introserv.com/solutions/gpu-servers/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://introserv.com/products/vps-prices/",
+        "priceAndPlansCached": "Not found",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "medium.com": {
+        "url": "https://medium.com/@vcclhosting/what-is-dedicated-gpu-server-c5c00544979",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://medium.com/@justincloud/i-didnt-like-the-price-so-i-built-a-competitor-over-a-weekend-here-is-what-happened-6309a2a3a761",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:Fndw33CU_vEJ:https://medium.com/%40justincloud/i-didnt-like-the-price-so-i-built-a-competitor-over-a-weekend-here-is-what-happened-6309a2a3a761&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.cloudoye.com": {
+        "url": "https://www.cloudoye.com/blog/dedicated-server-hosting/what-is-the-role-of-gpu-dedicated-servers-in-reshaping-industries",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.cloudoye.com/cloud-hosting-plan",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:pZD3t8ZyK-QJ:https://www.cloudoye.com/cloud-hosting-plan&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "phoenixnap.com": {
+        "url": "https://phoenixnap.com/servers/gpu",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://phoenixnap.com/servers/gpu",
+        "priceAndPlansCached": "",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "skystark.net": {
+        "url": "https://skystark.net/gpu",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://skystark.net/vps",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:ejp-KrHluxgJ:https://skystark.net/vps&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.serverwala.com": {
+        "url": "https://www.serverwala.com/gpu-dedicated-server",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.serverwala.com/usa-vps",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:3aCobTllZd0J:https://www.serverwala.com/usa-vps&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "artmotion.eu": {
+        "url": "https://artmotion.eu/en/secure-hosting/dedicated-gpu-server.html",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://artmotion.eu/en/insights/blog/what-is-the-cost-of-a-ransomware-attack.html",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:EEnKnith3AoJ:https://artmotion.eu/en/insights/blog/what-is-the-cost-of-a-ransomware-attack.html&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.hivelocity.net": {
+        "url": "https://www.hivelocity.net/blog/benefits-gpu-server/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.hivelocity.net/cpanel-flat-rate-pricing/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:gLykxxkRv0EJ:https://www.hivelocity.net/cpanel-flat-rate-pricing/&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.webhostingtalk.com": {
+        "url": "https://www.webhostingtalk.com/tags.php?tag=gpu+dedicated+server",
+        "nature": "Invalid: This is a forum page and does not mention any specific products, services, or companies."
+    },
+    "www.serverbasket.com": {
+        "url": "https://www.serverbasket.com/shop/gpu-dedicated-server/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.serverbasket.com/shop/gpu-dedicated-server/?src=nav",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://www.serverbasket.com/shop/gpu-dedicated-server/?src=nav",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "forums.unrealengine.com": {
+        "url": "https://forums.unrealengine.com/t/does-a-dedicated-server-benefit-from-a-high-end-gpu/332322",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://forums.unrealengine.com/t/item-price-depending-on-item-quantity/676814",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:3WYF7_2OSJQJ:https://forums.unrealengine.com/t/item-price-depending-on-item-quantity/676814&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.hostrunway.com": {
+        "url": "https://www.hostrunway.com/blog/top-4-benefits-of-using-dedicated-server-with-nvidia-gpu/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.hostrunway.com/blog/dedicated-server-offers-lowest-price-dedicated-servers-in-usa/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:V7LfLPEva7sJ:https://www.hostrunway.com/blog/dedicated-server-offers-lowest-price-dedicated-servers-in-usa/&hl=en&gl=us",
+        "5prompt_Hash": "23c965b6bb3c2d05f0373ed6793a6cc4"
+    },
+    "www.webconn.tech": {
+        "url": "https://www.webconn.tech/dedicated-servers/gpu",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.webconn.tech/domain-names",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:JIQ6P1IeIE4J:https://www.webconn.tech/domain-names&hl=en&gl=au"
+    },
+    "www.leaseweb.us": {
+        "url": "https://www.leaseweb.us/dedicated-servers/gpu-servers",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.leaseweb.us/dedicated-servers/gpu-servers",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://www.leaseweb.us/dedicated-servers/gpu-servers"
+    }
+}

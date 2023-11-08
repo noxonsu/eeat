@@ -45,7 +45,7 @@ def clusterize_key_features(key_features):
         )
 
     # Initialize the ConversationBufferMemory and LLMChain
-    memory = ConversationSummaryBufferMemory(llm=llm, max_token_limit=500, return_messages=True)
+    memory = ConversationSummaryBufferMemory(llm=llm, max_token_limit=1000, return_messages=True)
     conversation = ConversationChain(llm=llm, prompt=prompt,memory=memory)
     #print(key_features)
     #key_features = key_features[:10000]
@@ -62,7 +62,7 @@ def clusterize_key_features(key_features):
 
 
 def optimize_cluster(text,x,y):
-    prompt = """You're an expert analytic. this are "features" list of """+INDUSTRY_KEYWORD+""". check clusterization and re clusterize (reutrned must be "features").  We analysed """+str(x)+""" sites and """+str(y)+""" features.
+    prompt = """You're an expert analytic. this are "features" list of """+INDUSTRY_KEYWORD+""". Group features (reutrned must be "features").  We analysed """+str(x)+""" sites and """+str(y)+""" features.
 
 Then Improve the product feature list by eliminating irrelevant and uninformative content.
 
@@ -70,18 +70,20 @@ Then Improve the product feature list by eliminating irrelevant and uninformativ
 2. Analyze the List: Go through each item and check its alignment with the set criteria.
 3. Remove Unnecessary Items: Delete items that don't meet the criteria. Remove unclear. 
 Document Changes: Keeping a record of why certain items were removed can be useful for future references.
-Use this framework for a thorough optimization of your product feature list. After optimization, present the result in the form of a list and a brief introduction, mentioning what this list represents, how many companies were analyzed, and the total number of features gathered. Return as json "title":"","features":{"cluster1":{ 
- ... list .. }},"intro", "resume"
- 
+Use this framework for a thorough optimization of your product feature list. After optimization, present the result in the form of a list and a brief introduction, mentioning what this list represents, how many companies were analyzed, and the total number of features gathered. Return as json with fields: title, intro, resume, features (with subcategories)
+
  """
-  
-    chat = ChatOpenAI(temperature=0, model_name="gpt-4")
+    mod = "gpt-4-1106-preview" #gpt-3.5-turbo-16k
+    chat = ChatOpenAI(temperature=0, model_name=mod)
     messages = [
         SystemMessage(content=prompt),
         HumanMessage(content=text)
     ]
     response = chat(messages)
+    response.content = re.sub(r'```', '', response.content)
+    response.content = re.sub(r'json', '', response.content)
     gpt_response = response.content
+    
     try:
         return json.loads(gpt_response)
     except json.JSONDecodeError:
@@ -103,31 +105,14 @@ def main():
     total_companies=len(details)
 
     
-    key_features_part1 = key_features[:300]
-    key_features_part2 = key_features[300:600]
+
 
 
 
     print("Clusterizing the Key Features total "+str(len(key_features)))
-    
-    #if file not exists
-    if not os.path.exists("data/"+INDUSTRY_KEYWORD+"/6key_features_clusterized.json"):
-        if (len(key_features_part1) > 0):
-            print("Clusterizing the Key Features: "+str(len(key_features_part1)))
-            ret = clusterize_key_features("topic: "+INDUSTRY_KEYWORD+"\n\n"+json.dumps(key_features_part1))
-            save_to_json_file(ret, "6key_features_clusterized_part1.json", "data/"+INDUSTRY_KEYWORD)
-        if (len(key_features_part2) > 0):
-            ret = clusterize_key_features("topic: "+INDUSTRY_KEYWORD+"\n\n"+json.dumps(ret)+json.dumps(key_features_part2))
-
-            save_to_json_file(ret, "6key_features_clusterized.json", "data/"+INDUSTRY_KEYWORD)
-    else:
-        print("file exists")
-        ret = load_from_json_file("6key_features_clusterized.json", "data/" + INDUSTRY_KEYWORD)
-    
-    print(ret)
 
     print("Optimizing the Product Feature List")
-    ret = optimize_cluster(json.dumps(ret),total_companies,len(key_features))
+    ret = optimize_cluster(json.dumps(key_features),total_companies,len(key_features))
     print(ret)
     save_to_json_file(ret, "7key_features_optimized.json", "data/"+INDUSTRY_KEYWORD)
 

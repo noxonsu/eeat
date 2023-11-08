@@ -1,0 +1,15 @@
+Instructions for Assistant to Analyze cloud gpu Products
+
+Objective: To determine the critical characteristics or features of the chosen cloud gpu that may be important to consumers.
+
+Preparation:
+For each service, list down how they fare in each of the criteria.
+
+In additional detrmine such information
+1. Call to action - 'talk to a manager', 'book a demo', 'talk to team', sign up etc.
+2. Their usecases  
+3. Their solutions
+4. Key features"
+5. Is this project realy related to cloud gpu?
+                                                                
+The goal is to provide an objective view of each product offerings, highlighting both strengths and potential areas for improvement. Provide the results in JSON format.

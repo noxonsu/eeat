@@ -115,16 +115,29 @@ def get_company_details(company):
         HumanMessage(content=json.dumps(summary['priceAndPlans']))
     ]
     start = time.time()
+    
     try:
-        chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
+        mod = "gpt-3.5-turbo-16k" #gpt-4-1106-preview
+        chat = ChatOpenAI(temperature=0, model_name=mod)
         response = chat(messages)
-        json2 = json.loads(response.content)
-        print("3.5 4k")
-    except:
-        chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
+        print(mod)
+    except Exception as e:
+        print(e)
+        mod = "gpt-4-1106-preview"
+        chat = ChatOpenAI(temperature=0, model_name=mod)
         response = chat(messages)
-        json2 = json.loads(response.content)
-        print(".16k")
+        print(mod)
+
+
+    #save response.content to tmp.json
+    with open("tmp.json", "w") as file:
+        file.write(response.content)
+    
+    response.content = re.sub(r'```', '', response.content)
+    response.content = re.sub(r'json', '', response.content)
+    json2 = json.loads(response.content)
+    print(mod)
+
 
     end = time.time()
     print("Time to get response2: "+str(end - start))

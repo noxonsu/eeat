@@ -27,7 +27,8 @@ def load_products(filename):
 
 
 def is_product_or_list(summary, company_products):
-    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
+    #summary = summary[:45000]
+    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k") #gpt-4-1106-preview
     messages = [
         SystemMessage(content="Given a text input, identify the products, services, or solutions of companies mentioned in the text. If the products or services is associated with the one company, provide the output as 'All products/services mentioned belong to the one company [Company_name]'. If there a list of products services or projects are from different companies (or it's a 'TOP') in the text say 'Yes, this list of products belongs to different companies.'. If input looks like invalid or DDOS protection screen or explain article/blog return 'Invalid:[reason]'"),
         HumanMessage(content=summary)
@@ -88,7 +89,7 @@ def main():
     i=0
     for domain, domain_data in data.items():
         i=i+1
-        url = domain_data["cached_url"]
+        url = domain_data["url"]
         print(i/total*100)
         print ("\n\nHarvest "+domain)
         summary = extract_content(url)

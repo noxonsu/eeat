@@ -21,12 +21,12 @@ DATA_FOLDER = f"data/{INDUSTRY_KEYWORD}"
 
 
 def find_link_to_plans(serp_content,domain_data):
-    """ Use GPT-4 to find the link to the plans page from SERP content. """
+    """ Use GPT to find the link to the plans page from SERP content. """
     from langchain.chat_models import ChatOpenAI
 
-    chat = ChatOpenAI(temperature=0, model_name="gpt-4")
+    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
     messages = [
-        SystemMessage(content="Find the link to the page with prices and plans for "+INDUSTRY_KEYWORD+" (not sms). Return JSON with link and cached_page_link, or 'Not found' if not found."),
+        SystemMessage(content="Find the link to the page with prices and plans for "+INDUSTRY_KEYWORD+" (not sms). Return JSON with link and cached_page_link, or return 'Not found' if not found."),
         HumanMessage(content=serp_content)
     ]
     print(serp_content)
@@ -54,11 +54,14 @@ def process_domain_data(domain, domain_data):
     plans_url, plans_url_cached = ('Not found', 'Not found')
     if organic_results:
         plans_url = organic_results[0]['link']
-        plans_url_cached = organic_results[0]['cached_page_link']
+        if ('cached_page_link' in organic_results[0]):
+            plans_url_cached = organic_results[0]['cached_page_link']
+        else:
+            plans_url_cached = 'Not found'
         if len(organic_results) > 1:
             details = load_from_json_file(f"{domain}.json", DATA_FOLDER)
             plans_url_json = find_link_to_plans(details['links'],domain_data)
-            if plans_url_json != 'Not found':
+            if 'ot found' not in plans_url_json and "I'm sorry" not in plans_url_json:
                 plans_url_info = json.loads(plans_url_json)
                 plans_url = plans_url_info['link']
                 plans_url_cached = plans_url_info['cached_page_link']
