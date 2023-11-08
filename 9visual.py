@@ -51,7 +51,10 @@ def generate_html_from_markdown(mark,title,keys,desc):
         <title>{title}</title>
     </head>
     <body>
+        <article>
         {text}
+        </article>
+        
     </body>
     </html>""".format(text=html,title=title,meta_keywords=keys,meta_description=desc)
 
