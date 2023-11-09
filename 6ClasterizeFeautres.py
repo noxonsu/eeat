@@ -66,11 +66,19 @@ def optimize_cluster(text,x,y):
 
 Then Improve the product feature list by eliminating irrelevant and uninformative content.
 
-1. Define Criteria: Determine what is considered "fluff" or irrelevant information for your list. 
-2. Analyze the List: Go through each item and check its alignment with the set criteria.
-3. Remove Unnecessary Items: Delete items that don't meet the criteria. Remove unclear. 
-Document Changes: Keeping a record of why certain items were removed can be useful for future references.
-Use this framework for a thorough optimization of your product feature list. After optimization, present the result in the form of a list and a brief introduction, mentioning what this list represents, how many companies were analyzed, and the total number of features gathered. Return as json with fields: title, intro, resume, features (with subcategories)
+1. the criteria for what is considered irrelevant or uninformative:
+
+- Redundant: Features that are repeated or convey the same benefit.
+- Overly Specific: Features that are too detailed and not broadly applicable.
+- Marketing Fluff: Features that are not actual features but marketing language.
+- Ambiguous: Features that are unclear or too vague to be meaningful.
+
+2. Remove Unnecessary Items: Delete items that don't meet the criteria. Remove unclear. 
+3. Near every feature add number of companies that have this feature.
+4. Group features to group with sub groups.
+5. Add field "title" to each group. Title must be short and describe the group.
+6. Add field 'removed' to each feature. If feature was removed, add reason why it was removed.
+Use this framework for a thorough optimization of your product feature list. After optimization, present the result in the form of a list and a brief introduction, mentioning what this list represents, how many companies were analyzed, and the total number of features gathered. Return as json with fields: title, intro, features (with subcategories)
 
  """
     mod = "gpt-4-1106-preview" #gpt-3.5-turbo-16k
@@ -102,6 +110,9 @@ def main():
     key_features=[]
     for k,v in details.items():
         if 'key_features' in v:
+            if ('Features' in v):
+                v['key_features']= v['Features']
+                
             key_features.extend(v['key_features'])
     key_features=list(set(key_features))
 
@@ -118,7 +129,7 @@ def main():
     print("Optimizing the Product Feature List")
     ret = optimize_cluster(json.dumps(key_features),total_companies,len(key_features))
     print(ret)
-    save_to_json_file(ret, "7key_features_optimized.json", "data/"+INDUSTRY_KEYWORD)
+    save_to_json_file(ret, "7key_features_optimized1.json", "data/"+INDUSTRY_KEYWORD)
 
 
 if __name__ == "__main__":

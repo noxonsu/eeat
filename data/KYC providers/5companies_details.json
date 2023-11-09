@@ -8221,5 +8221,59 @@
                 }
             ]
         }
+    },
+    "www.ballerine.com": {
+        "provider_name": "Ballerine",
+        "call_to_action": "Book a Demo",
+        "usecases": [
+            "Payments",
+            "Marketplaces",
+            "Fintechs"
+        ],
+        "solutions": [
+            "KYC starter kit",
+            "Workflow engine",
+            "Back Office",
+            "Rule engine",
+            "Headless SDK",
+            "Client SDK",
+            "Unified API",
+            "Website Monitoring",
+            "Merchant Blacklists",
+            "Company Structure Check",
+            "Document Signing",
+            "Document Collection",
+            "AI-Powered Modules",
+            "eIDs",
+            "Risk Score"
+        ],
+        "features": [
+            "Build workflows that react to changes in a user's risk assessment",
+            "Customize and optimize risk policies and workflows",
+            "Dynamically collect business documents and data",
+            "Set up rules based on compliance, fraud, and product requirements",
+            "Connect to various data sources and verification providers",
+            "Control the course of a user flow based on their answers and data",
+            "Access real-time financial data for deeper user insights",
+            "Validate user identities with precision",
+            "Scan global databases to flag potential partners or users linked to criminal activities",
+            "Track online presence to ensure compliance",
+            "Cross-check users with blacklists to prevent associations with flagged merchants",
+            "Dive deep into business hierarchies to reveal hidden stakeholders",
+            "Authenticate the legitimacy and operational history of potential business customers",
+            "Secure and streamline documentation with digital signatures",
+            "Streamline the gathering of essential documents from users",
+            "Harness advanced technologies to enhance accuracy and automate risk assessments",
+            "Authenticate user identities swiftly with recognized electronic ID solutions",
+            "Provide a tailored risk score for users or businesses based on various parameters",
+            "Connect to various data sources, government lists, ID and document verification providers",
+            "Reduce the operational burden with a customizable case management system",
+            "Customize the different steps of the process",
+            "Efficiently collect business information and ensure a hassle-free verification experience"
+        ],
+        "is_related_to_kyc_providers": true,
+        "pricesAndPlans": {
+            "prices": "Free because open source. 1000$ one time to developers"
+        }
     }
 }

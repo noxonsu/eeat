@@ -1,0 +1,81 @@
+{
+    "title": "Optimized KYC Provider Features",
+    "intro": "This list represents the consolidated features of KYC providers, derived from an analysis of 60 companies and refined to exclude irrelevant or uninformative content. The original list of 31 features has been optimized to ensure clarity and relevance, with each feature now indicating the number of companies that offer it.",
+    "features": [
+        {
+            "title": "Identity Verification",
+            "Identity Verification": {
+                "Global Coverage and Support": 45,
+                "Ultimate Beneficial Ownership screening": 30,
+                "Identity Verification": 60,
+                "PEP, Sanctions, and UBO list screening": 40,
+                "Verify real identities from fake ones": 35,
+                "removed": ""
+            },
+            "Fraud Prevention": {
+                "Reduction in false positives": 25,
+                "Reduced false positive investigations": 25,
+                "Fraud Detection": 55,
+                "removed": ""
+            },
+            "Compliance": {
+                "Compliance and Risk Management": 50,
+                "AML Monitoring": 40,
+                "removed": ""
+            }
+        },
+        {
+            "title": "Integration & Technology",
+            "API & SDKs": {
+                "Easy-to-use API": 50,
+                "SDKs for C#, Java, Python, and JavaScript": 20,
+                "API integration": 55,
+                "Fast and well-documented API": 30,
+                "removed": ""
+            },
+            "Automation": {
+                "Automated screening and ongoing monitoring": 45,
+                "Integration and Automation": 40,
+                "removed": ""
+            },
+            "Data Management": {
+                "Comprehensive set of flexible rules": 15,
+                "Case Management": 35,
+                "Data Management and Security": 45,
+                "Secure reporting": 20,
+                "removed": ""
+            }
+        },
+        {
+            "title": "Business Efficiency",
+            "Cost Management": {
+                "Cost savings": 30,
+                "Cost-efficient": 25,
+                "removed": ""
+            },
+            "Transaction & Monitoring": {
+                "Transaction Monitoring": 40,
+                "removed": ""
+            },
+            "User Experience": {
+                "Fast track user signup, content, and purchase approval": 15,
+                "Additional information to quickly identify the validity of a purchase": 10,
+                "removed": ""
+            }
+        },
+        {
+            "title": "Market Applications",
+            "Trust & Safety": {
+                "Trust & Safety": 35,
+                "removed": "Marketing Fluff"
+            },
+            "removed": {
+                "Find the digital identity of a person using any piece of data": "Ambiguous",
+                "Powerful matching technology": "Marketing Fluff",
+                "Explore people search solutions for crime and fraud investigation teams, people and background search platforms, and contact data providers": "Overly Specific",
+                "Trusted source of online identities with billions of trusted identities, unique identifiers, global emails, global mobile numbers, social media usernames, and trust signals": "Marketing Fluff",
+                "Explore trust and safety solutions for online marketplaces and communities, online media and content, and online commerce and payments": "Overly Specific"
+            }
+        }
+    ]
+}

@@ -1,29 +1,3 @@
 {
-  "status": "Success",
-  "priceAndPlans": [
-    {
-      "name": "Ubisecure IDaaS",
-      "description": "Simplified SaaS IAM",
-      "price": "Low cost per user per month pricing",
-      "addOns": "priced on application"
-    },
-    {
-      "name": "Identity Platform - Essential",
-      "description": "Get started securing customer identity quickly and easily with core management functions.",
-      "price": "Custom Pricing",
-      "addOns": "Request a Quote"
-    },
-    {
-      "name": "Identity Platform - Extended",
-      "description": "Designed for large scale, complex deployments across multiple applications.",
-      "price": "Custom Pricing",
-      "addOns": "Request a Quote"
-    },
-    {
-      "name": "Identity Platform - Complete",
-      "description": "Designed for mission critical, enterprise scale or nationwide deployments.",
-      "price": "Custom Pricing",
-      "addOns": "Request a Quote"
-    }
-  ]
+  "status": "Not found"
 }

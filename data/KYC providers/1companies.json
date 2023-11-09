@@ -794,10 +794,11 @@
         "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:oyG1GtQPzK8J:https://www.clearviewsys.com/brochures/CurrencyXchanger-Currency-Exchange-Brochure-1Page-CXR4.pdf&hl=en&gl=us",
         "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
     },
-    "https://www.ballerine.com/": {
+    "www.ballerine.com": {
         "url": "https://www.ballerine.com/",
+        "priceAndPlansCrawled": "https://www.ballerine.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
     },
     "www.idmerit.com": {
         "url": "https://www.idmerit.com/idmkyc/",

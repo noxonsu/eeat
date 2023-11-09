@@ -36,7 +36,7 @@ cfl = load_from_json_file("7key_features_optimized.json","data/"+INDUSTRY_KEYWOR
 if cfl:
     clusterized_features_list_f = "Key features according to optimized feature list: "+cfl['title']+": \n "+json.dumps(cfl['features'])
 else:
-    clusterized_features_list_f = "Key features"
+    clusterized_features_list_f = "Key features ('key_features' in JSON))"
 
 
 def load_summaries_from_data_folder(folder_path="data"):
@@ -111,7 +111,7 @@ def get_company_details(company):
     gpt_response2 = "{}"
     # comeercial preparation
     messages = [
-        SystemMessage(content="Find plans and prices and determin business model. status 'Not found' if not found or error. Return JSON with status and priceAndPlans."),
+        SystemMessage(content="Find plans and prices and determin business model. status 'Not found' if not found or error. Return JSON with status and 'priceAndPlans'."),
         HumanMessage(content=json.dumps(summary['priceAndPlans']))
     ]
     start = time.time()
