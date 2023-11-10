@@ -276,5 +276,11 @@
         "priceAndPlansCrawled": "https://www.idfy.com/signature-extract-api/",
         "priceAndPlansCached": "Not found",
         "5prompt_Hash": "7a64404e9ba2059aaf2081a898fca779"
+    },
+    "www.datazoo.com": {
+        "url": "https://www.datazoo.com/core"
+    },
+    "www.twilio.com": {
+        "url": "https://www.twilio.com/en-us/trusted-activation/verify"
     }
 }
