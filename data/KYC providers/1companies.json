@@ -938,5 +938,14 @@
         "priceAndPlansCrawled": "https://www.ubisecure.com/pricing/",
         "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:UsOksy-qFDoJ:https://www.ubisecure.com/pricing/&hl=en&gl=us",
         "5prompt_Hash": "1cf29ba0e6175b8a362e9102d8e675b2"
+    },
+    "www.getapp.com": {
+        "url": "https://www.getapp.com/all-software/kyc/"
+    },
+    "idmerit.com": {
+        "url": "https://idmerit.com/idmkyc/"
+    },
+    "capterra.com": {
+        "url": "https://capterra.com/kyc-software/"
     }
 }
