@@ -2,8 +2,13 @@ name: General run
 
 on:
   schedule:
-    - cron: '10 1 31 * *'  #run 
-  workflow_dispatch:  # Allows manual run
+    - cron: '10 1 31 * *'  # Run 
+  workflow_dispatch:
+    inputs:
+      INDUSTRY_KEYWORD:
+        description: 'Keyword for the industry to focus on'
+        required: true
+        default: 'technology' # You can change the default value
 
 jobs:
   run-scripts:
@@ -17,6 +22,7 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: '3.11.6'
+
     - name: Check if OPENAI_API_KEY is set
       run: |
         if [ -z "${{ secrets.OPENAI_API_KEY }}" ]; then
@@ -24,21 +30,18 @@ jobs:
           exit 1
         else
           echo "OPENAI_API_KEY is set!"
-        fi
-    - name: Check if INDUSTRY_KEYWORD is set
-      run: |
-        if [ -z "${{ secrets.INDUSTRY_KEYWORD }}" ]; then
-          echo "INDUSTRY_KEYWORD is not set!"
-          exit 1      
-    - name: Check if INDUSTRY_KEYWORD is set
+
+    - name: Check if SERPAPI_KEY is set
       run: |
         if [ -z "${{ secrets.SERPAPI_KEY }}" ]; then
-          echo "INDUSTRY_KEYWORD is not set!"
+          echo "SERPAPI_KEY is not set!"
           exit 1            
+
     - name: Install XVFB and other libs
       run: |
         sudo apt-get update
         sudo apt-get install -y xvfb unrar p7zip-full
+
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
@@ -49,12 +52,10 @@ jobs:
     - name: Run python scripts
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        INDUSTRY_KEYWORD: ${{ github.event.inputs.INDUSTRY_KEYWORD }}
+        SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
       run: |
         python 1loadSerp.py
-        xvfb-run python 2loadSummaries.py
-        python 4searchProducts.py
-        xvfb-run python 2loadSummaries.py
-        python 3searchPrices.py
 
     - name: Commit and push changes
       run: |
