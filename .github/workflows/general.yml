@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       INDUSTRY_KEYWORD:
-        description: 'Keyword for the industry to focus on'
+        description: 'Keyword for to focus on'
         required: true
         default: 'technology' # You can change the default value
 
