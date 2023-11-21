@@ -1,3 +1,13 @@
 {
-  "status": "Not found"
+  "status": "success",
+  "priceAndPlans": [
+    {
+      "product": "Mobile wallet",
+      "price": "Free"
+    },
+    {
+      "product": "Desktop wallet",
+      "price": "Free"
+    }
+  ]
 }

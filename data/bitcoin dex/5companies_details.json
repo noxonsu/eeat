@@ -1,0 +1,164 @@
+{
+    "bisq.network": {
+        "name": "Bisq",
+        "call_to_action": "Download for Windows, Download for macOS, Download for Debian/Ubuntu, Download for Red Hat/Fedora",
+        "usecases": [
+            "Buy and sell bitcoin for fiat (or other cryptocurrencies) privately and securely"
+        ],
+        "solutions": [
+            "Bisq's peer-to-peer network and open-source desktop software"
+        ],
+        "key_features": [
+            "No Identity Verification",
+            "Decentralized trading on a global P2P network",
+            "Safe trades with deposits held in 2-of-2 multisig wallets",
+            "Private data storage on local disk",
+            "Open-source code and transparent project strategy",
+            "Easy to use with trades possible in under 10 minutes",
+            "Decentralized governance through the Bisq DAO"
+        ],
+        "is_related_to_bitcoin_dex": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "dex-trade.com": {
+        "call_to_action": "Sign up",
+        "usecases": [
+            "Buy and sell crypto",
+            "Spot trading",
+            "Demo trading",
+            "Quick exchange",
+            "Staking",
+            "IEO token launch platform",
+            "Participate in tournaments",
+            "Get free coins"
+        ],
+        "solutions": [
+            "Reliable and secure cryptocurrency trading platform",
+            "Low fees",
+            "Unmatched liquidity",
+            "Demo trading account",
+            "Free coins and games to earn more crypto",
+            "Wide variety of cryptocurrencies listed",
+            "Quick and convenient exchange process",
+            "Best-in-class trading terminal",
+            "Educational demo terminal",
+            "Margin trading (coming soon)",
+            "Access to IEO tokens at a discount rate",
+            "Mobile and tablet trading app",
+            "Real-time crypto price reporting and trading",
+            "Lowest fees for buying and selling digital assets",
+            "Instant price volatility notifications",
+            "Access to over 300 top coins",
+            "Data privacy and security",
+            "24/7 customer support"
+        ],
+        "key_features": [
+            "Buy crypto",
+            "Spot Trading",
+            "Demo Trading",
+            "Quick Exchange",
+            "Staking",
+            "IEO",
+            "Tournaments",
+            "Free Coins",
+            "Best-in-class trading terminal",
+            "Margin Trading (coming soon)",
+            "Real-time crypto price reporting and trading",
+            "Access to over 300 top coins"
+        ],
+        "is_related_to_bitcoin_dex": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "thorchain.org": {
+        "product_name": "THORChain",
+        "call_to_action": "Talk to team",
+        "use_cases": [
+            "Swap native assets between supported chains",
+            "Deposit assets to earn yield from swaps",
+            "Provide liquidity to THORChain and earn from swap fees",
+            "Swap assets without relying on wrapped tokens",
+            "Maintain self-custody of funds",
+            "Bond RUNE to secure the network",
+            "Enable cross-chain communication and settlement",
+            "Connect new blockchains periodically"
+        ],
+        "solutions": [
+            "Decentralized cross-chain infrastructure",
+            "Native asset swaps",
+            "Streaming swaps",
+            "Dual liquidity",
+            "Savers vaults",
+            "DEX aggregation",
+            "Generic messaging",
+            "Lending",
+            "Synthetic assets",
+            "Native asset security",
+            "Chain agnostic service provider"
+        ],
+        "key_features": [
+            "Swap, earn, and borrow with native assets",
+            "Cross-chain functionality without bridges",
+            "Non-custodial self-custody of funds",
+            "Single asset liquidity with savers vaults",
+            "Secured by the native token RUNE",
+            "Trust minimized infrastructure",
+            "Native asset swaps without wrapped or pegged assets",
+            "Native assets without the need for RUNE to pay for transactions",
+            "Secure funds with open source code",
+            "Extensive research, design, and community governance for new features",
+            "Upcoming features include synthetic assets, DEX aggregation, savers vaults, and more"
+        ],
+        "is_related_to_bitcoin_dex": true,
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "atomicdex.io": {
+        "bitcoin_dex": {
+            "name": "Komodo Wallet",
+            "call_to_action": "Launch app Download",
+            "usecases": [
+                "Mobile wallet",
+                "Desktop wallet",
+                "Bridge",
+                "DEX"
+            ],
+            "solutions": [
+                "Hold and trade hundreds of cryptocurrencies on your mobile",
+                "Hold and trade hundreds of cryptocurrencies on your desktop",
+                "Swap your crypto from one blockchain to another",
+                "Supports trading for 99% of cryptocurrencies"
+            ],
+            "key_features": [
+                "Multi-coin wallet",
+                "Bridge for asset swapping",
+                "P2P trading without intermediaries",
+                "Secure trading platform",
+                "No trading fee for makers, takers only pay 0.13%",
+                "Immediate trading, no deposit or withdrawal wait times",
+                "Unrestricted trading pairs, swap all assets directly"
+            ],
+            "is_related_to_bitcoin_dex": true
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": [
+                {
+                    "product": "Mobile wallet",
+                    "price": "Free"
+                },
+                {
+                    "product": "Desktop wallet",
+                    "price": "Free"
+                }
+            ]
+        }
+    }
+}

@@ -5,13 +5,14 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains import create_extraction_chain
 from langchain.schema import SystemMessage, HumanMessage
 from langchain.chat_models import ChatOpenAI
-
+import requests
 import re
 
 from utils import *
 
 
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
+ADDITIONAL_INFO = os.environ.get('ADDITIONAL_INFO','')
 
 data_folder = f"data/{INDUSTRY_KEYWORD}"
 companies_file = "1companies.json"
@@ -28,15 +29,18 @@ def load_products(filename):
 
 def is_product_or_list(summary, company_products):
     #summary = summary[:45000]
-    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k") #gpt-4-1106-preview
+    chat = ChatOpenAI(temperature=0, model_name="gpt-4-1106-preview") #gpt-4-1106-preview
     messages = [
-        SystemMessage(content="Given a text input, identify the products, services, or solutions of companies mentioned in the text. If the products or services is associated with the one company, provide the output as 'All products/services mentioned belong to the one company [Company_name]'. If there a list of products services or projects are from different companies (or it's a 'TOP') in the text say 'Yes, this list of products belongs to different companies.'. If input looks like invalid or DDOS protection screen or explain article/blog return 'Invalid:[reason]'"),
+        SystemMessage(content="Identify the products, services, or solutions of companies mentioned in the text. If the products or services is associated with the one company, provide the output as 'All products/services mentioned belong to the one company [Company_name]'. If there a list of products services or projects are from different companies in the text say 'Yes, this list of products belongs to different companies.'. If input looks like invalid or DDOS protection screen or explain article/blog return 'Invalid:[reason]'"),
         HumanMessage(content=summary)
     ]
 
     try:
         response = chat(messages)
         gpt_response = response.content
+        # Check if it's a list of products
+        if "nvalid" in gpt_response:
+            return gpt_response, []
 
         if "belongs to different companies" in gpt_response or "belong to the respective companies" in gpt_response:
             response2 = chat(messages = [
@@ -45,13 +49,16 @@ def is_product_or_list(summary, company_products):
             ])
             gpt_response = response2.content
         else:
+            #if this is a single company use additional user's check
             response2 = chat(messages = [
-                SystemMessage(content="is this list of products of the one company and which name of this company? "),
-                HumanMessage(content=gpt_response)
+                SystemMessage(content="Say yes if the project agrees with the following information: all projects work with Bitcoin. \n\n"+ADDITIONAL_INFO+" \n\n otherwise say invalid: (reason)"),
+                HumanMessage(content=summary)
             ])
 
             if "Yes" in response2.content:
                 gpt_response = response2.content
+            else:
+                gpt_response = "Invalid (single). "+response2.content
         
         # Check if it's a list of products
         if "nvalid" in gpt_response:
@@ -74,6 +81,28 @@ def is_product_or_list(summary, company_products):
         print(f"An error occurred: {e}")
         return "unknown", []
 
+def get_wayback_url(input_url):
+    base_url = "https://archive.org/wayback/available?url="
+    full_url = base_url + input_url
+
+    try:
+        response = requests.get(full_url)
+        response.raise_for_status()
+        result = response.json()
+        
+        # Check if "archived_snapshots" is available in the response
+        if "archived_snapshots" in result:
+            closest_snapshot = result["archived_snapshots"]["closest"]
+            if closest_snapshot.get("available") and closest_snapshot.get("url"):
+                return closest_snapshot["url"]
+        
+        return None  # Return None if no valid URL is found
+
+    except requests.exceptions.RequestException as e:
+        print("Error making the request:", e)
+        return None
+
+
 def main():
     # Define paths and filenames
     
@@ -90,9 +119,23 @@ def main():
     for domain, domain_data in data.items():
         i=i+1
         url = domain_data["url"]
+               
         print(i/total*100)
-        print ("\n\nHarvest "+domain)
+        print ("\n\nHarvest "+domain+" "+url)
+        #check if file not exists then extract
+        
         summary = extract_content(url)
+        if (len(summary['text_content'])<1000):
+            #requests api the web archive https://archive.org/wayback/available?url=https://burl
+            #if exists then extract
+            print ("try to extract from web archive")
+            url1 = get_wayback_url(domain)
+            if (url1 is not None): 
+                 summary = extract_content(url1)
+
+
+            
+            
         print ("Analyse "+domain)
 
         # save to tmp.html

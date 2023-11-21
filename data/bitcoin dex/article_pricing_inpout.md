@@ -1,1 +1,1 @@
-{}
+{"bisq.network": {"status": "Not found", "priceAndPlans": null}, "dex-trade.com": {"status": "Not found", "priceAndPlans": null}, "thorchain.org": {"status": "Not found", "priceAndPlans": null}, "atomicdex.io": {"status": "success", "priceAndPlans": [{"product": "Mobile wallet", "price": "Free"}, {"product": "Desktop wallet", "price": "Free"}]}}

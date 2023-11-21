@@ -1,11 +1,11 @@
 {
     "www.bitcoin.com": {
         "url": "https://www.bitcoin.com/get-started/what-is-a-dex/",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: The provided text does not assert that all projects work with Bitcoin or that every project must be a DEX working with Bitcoin. It simply explains what a DEX is, how it works, its advantages and disadvantages, and does not make any claims about project requirements or validity based on Bitcoin involvement."
     },
     "trustmachines.co": {
         "url": "https://trustmachines.co/learn/bitcoin-decentralized-exchanges/",
-        "nature": "single project"
+        "nature": "list of projects"
     },
     "www.coinbase.com": {
         "url": "https://www.coinbase.com/learn/crypto-basics/what-is-a-dex",
@@ -21,9 +21,12 @@
     },
     "bisq.network": {
         "url": "https://bisq.network/",
-        "nature": "Invalid: DDOS protection screen",
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:yObRa29RivgJ:https://bisq.network/&hl=en&gl=us",
-        "sourcekeyword": "Bisq:  peer-to-peer desktop application for buying and selling cryptocurrencies"
+        "sourcekeyword": "Bisq:  peer-to-peer desktop application for buying and selling cryptocurrencies",
+        "nature": "single project",
+        "priceAndPlansCrawled": ":///bisq.network/getting-started",
+        "priceAndPlansCached": "http://web.archive.org/web/20231116055436/https://bisq.network/getting-started",
+        "5prompt_Hash": "665d59daa8add150dbd22faf06cdd8ae"
     },
     "cointelegraph.com": {
         "url": "https://cointelegraph.com/learn/what-are-decentralized-exchanges-and-how-do-dexs-work",
@@ -31,7 +34,7 @@
     },
     "chain.link": {
         "url": "https://chain.link/education-hub/what-is-decentralized-exchange-dex",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: The provided information does not state that all projects work with Bitcoin or that every project must be a DEX working with Bitcoin. It discusses Chainlink and its services, which are blockchain agnostic and can be used with various cryptocurrencies, not exclusively Bitcoin."
     },
     "www.coindesk.com": {
         "url": "https://www.coindesk.com/learn/what-is-a-dex-how-decentralized-crypto-exchanges-work",
@@ -39,7 +42,10 @@
     },
     "dex-trade.com": {
         "url": "https://dex-trade.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://dex-trade.com/markets",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://dex-trade.com/markets",
+        "5prompt_Hash": "665d59daa8add150dbd22faf06cdd8ae"
     },
     "www.coingecko.com": {
         "url": "https://www.coingecko.com/en/exchanges/decentralized",
@@ -53,11 +59,11 @@
     },
     "coinledger.io": {
         "url": "https://coinledger.io/tools/best-decentralized-exchanges",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: The provided information does not state that all projects must work with Bitcoin or be a DEX (Decentralized Exchange). It discusses various aspects of cryptocurrency exchanges, both centralized and decentralized, and tax implications for cryptocurrency transactions."
     },
     "www.tastycrypto.com": {
         "url": "https://www.tastycrypto.com/defi/decentralized-crypto-exchange-explained/",
-        "nature": "single project"
+        "nature": "list of projects"
     },
     "coinmarketcap.com": {
         "url": "https://coinmarketcap.com/rankings/exchanges/dex/",
@@ -65,35 +71,38 @@
     },
     "www.okx.com": {
         "url": "https://www.okx.com/learn/best-decentralized-exchanges",
-        "nature": "single project"
+        "nature": "list of projects"
     },
     "www.theblock.co": {
         "url": "https://www.theblock.co/data/decentralized-finance/dex-non-custodial",
-        "nature": "single project"
+        "nature": "Invalid: This text appears to be a combination of a webpage interface description and a disclaimer or instructional content related to locking ACS tokens with The Block. It does not provide clear information about specific products, services, or solutions."
     },
     "thorchain.org": {
         "url": "https://thorchain.org/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://docs.thorchain.org/how-it-works/fees",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:2rLSjuALYxUJ:https://docs.thorchain.org/how-it-works/fees&hl=en&gl=us",
+        "5prompt_Hash": "665d59daa8add150dbd22faf06cdd8ae"
     },
     "www.sofi.com": {
         "url": "https://www.sofi.com/learn/content/decentralized-exchange/",
-        "nature": "single project"
+        "nature": "Invalid:DDOS protection screen"
     },
     "dexilon.io": {
         "url": "https://dexilon.io/blog/best-decentralized-exchange-for-crypto/",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: Not all projects work with Bitcoin."
     },
     "crypto.com": {
         "url": "https://crypto.com/price/categories/dex",
-        "nature": "single project"
+        "nature": "list of projects"
     },
     "www.openware.com": {
         "url": "https://www.openware.com/solution/decentralized-crypto-exchange-platform",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: Not all projects work exclusively with Bitcoin.\n\nThe provided information describes a company that offers various solutions related to cryptocurrency exchanges, including decentralized exchanges (DEXs). However, it does not state that all projects must work exclusively with Bitcoin or that they must be DEXs. The description includes services for trading stocks, digital assets, and cryptocurrencies in general, not just Bitcoin. Additionally, the company offers a range of products and services that may not all be DEXs or directly related to Bitcoin."
     },
     "zebpay.com": {
         "url": "https://zebpay.com/blog/what-is-a-decentralised-exchange",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: The provided text does not assert that all projects work with Bitcoin or that every project must be a DEX (Decentralized Exchange) that works with Bitcoin. It discusses various aspects of DEXs, including how they work, their benefits, and how to use them, but it does not state that all projects must operate in this manner."
     },
     "withpersona.com": {
         "url": "https://withpersona.com/blog/decentralized-exchanges-and-kyc",
@@ -101,35 +110,38 @@
     },
     "blockworks.co": {
         "url": "https://blockworks.co/news/native-bitcoin-in-defi-this-dex-wants-to-boost-trust",
-        "nature": "single project"
+        "nature": "list of projects"
     },
     "kriptomat.io": {
         "url": "https://kriptomat.io/cryptocurrencies/what-is-dex/",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: The provided information indicates that the project, Kriptomat, is a cryptocurrency exchange that supports a variety of cryptocurrencies and offers services beyond just decentralized exchanges (DEXs). It includes educational resources, a wallet, and the ability to buy, sell, and exchange a wide range of cryptocurrencies. It does not exclusively work with Bitcoin or operate solely as a DEX."
     },
     "medium.com": {
         "url": "https://medium.com/blockchain/block-by-block-dex-c113342b0493",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: The provided text does not state that all projects must work with Bitcoin or be a DEX to be considered valid for the research. It simply explains what a decentralized exchange (DEX) is, how it works, its benefits, limitations, and some general information about Blockchain.com's services."
     },
     "corporatefinanceinstitute.com": {
         "url": "https://corporatefinanceinstitute.com/resources/cryptocurrency/cryptocurrency-exchanges/",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: The provided information does not state that all projects work with Bitcoin or that every project must be a DEX (Decentralized Exchange) that works with Bitcoin. The text includes information about various courses and certifications offered by the Corporate Finance Institute, as well as details about both centralized and decentralized cryptocurrency exchanges, without any requirement that all projects must work with Bitcoin or be DEXs."
     },
     "alicebiometrics.com": {
         "url": "https://alicebiometrics.com/en/the-problem-of-dex-regulation-and-how-to-solve-it/",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: The project described is focused on identity verification, KYC (Know Your Customer), and AML (Anti-Money Laundering) compliance, not specifically on being a DEX (Decentralized Exchange) that works with Bitcoin."
     },
     "atomicdex.io": {
         "url": "https://atomicdex.io/en/",
-        "nature": "single project"
+        "nature": "single project",
+        "5prompt_Hash": "665d59daa8add150dbd22faf06cdd8ae",
+        "priceAndPlansCrawled": "https://atomicdex.io/en/blog/blockchain-transaction-fees/",
+        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:306jIpndbFgJ:https://atomicdex.io/en/blog/blockchain-transaction-fees/&hl=en&gl=us"
     },
     "www.reuters.com": {
         "url": "https://www.reuters.com/markets/currencies/cryptoverse-lets-talk-about-dex-baby-2022-11-22/",
-        "nature": "single project"
+        "nature": "Invalid:explain_article/blog"
     },
     "www.ledger.com": {
         "url": "https://www.ledger.com/academy/crypto/what-is-a-dex-decentralized-exchanges-explained",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: The provided information is about Ledger, a company that produces hardware wallets for cryptocurrencies, including Bitcoin. It also discusses decentralized exchanges (DEXs) and how Ledger devices can be used with them. However, not all projects work with Bitcoin, nor must every project be a DEX. The information provided does not state that all projects must work with Bitcoin and be a DEX; it only explains how Ledger interacts with DEXs and supports Bitcoin among other cryptocurrencies."
     },
     "www.youtube.com": {
         "url": "https://www.youtube.com/watch?v=aL-FqSY0fFM",
@@ -137,7 +149,7 @@
     },
     "coingeek.com": {
         "url": "https://coingeek.com/a-case-for-dex-on-bitcoin/",
-        "nature": "single project"
+        "nature": "Invalid:explain_article/blog"
     },
     "en.wikipedia.org": {
         "url": "https://en.wikipedia.org/wiki/Decentralized_finance",
@@ -149,49 +161,49 @@
     },
     "play.google.com": {
         "url": "https://play.google.com/store/apps/details?id=com.wallet.dex&hl=en_US&gl=US",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: The provided text does not confirm that the project works exclusively with Bitcoin or that it must be a DEX to be considered valid for the research. It describes a multi-chain wallet with various features, including a decentralized exchange, but does not specify that it only operates with Bitcoin."
     },
     "rhino.fi": {
         "url": "https://rhino.fi/",
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:4lSvsqXYFt4J:https://rhino.fi/&hl=en&gl=us",
         "sourcekeyword": "RhinoFi:  hybrid Ethereum exchange platform providing access to spot trading",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: The provided text does not confirm that the project works exclusively with Bitcoin or that it is a DEX (Decentralized Exchange). Rhino.fi appears to be a multi-chain bridging and DeFi platform, which does not align with the requirement that every project must work with Bitcoin and be a DEX."
     },
     "1inch.exchange": {
         "url": "https://1inch.exchange/",
         "cached_url": "not found",
         "sourcekeyword": "1inch.exchange:  split the order to several decentralized exchanges",
-        "nature": "Invalid: DDOS protection screen"
+        "nature": "Invalid:input_content_lacks_substance"
     },
     "pancakeswap.finance": {
         "url": "https://pancakeswap.finance/",
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:j4CoTtkVoJIJ:https://pancakeswap.finance/&hl=en&gl=us",
         "sourcekeyword": "PancakeSwap:  Binance Smart Chain based AMM exchange",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: The provided information does not state that all projects work with Bitcoin or that every project must be a DEX that works with Bitcoin. PancakeSwap is a decentralized exchange (DEX) that operates primarily on the BNB Smart Chain and supports a variety of other networks and assets, not exclusively Bitcoin."
     },
     "www.osmosis.org": {
         "url": "https://www.osmosis.org/",
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:z7Y8qM5emrYJ:https://www.osmosis.org/&hl=en&gl=us",
         "sourcekeyword": "Osmosis:  automated market maker protocol with cross-chain transactions",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: The provided script does not contain any information about a project working with Bitcoin or being a DEX (Decentralized Exchange). It appears to be a script related to a learning platform, possibly for medical education, and does not pertain to cryptocurrency or blockchain projects."
     },
     "www.airswap.io": {
         "url": "https://www.airswap.io/",
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:8ahgjpG3gYAJ:https://www.airswap.io/&hl=en&gl=us",
         "sourcekeyword": "AirSwap:  peer-to-peer token trading on Ethereum",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: The provided information does not confirm that the project works with Bitcoin. It mentions various blockchains such as Ethereum, BNB Chain, Polygon, Linea, and Avalanche, but does not explicitly state that it operates with Bitcoin. Additionally, the project must be a DEX (Decentralized Exchange) that works with Bitcoin to be considered valid for your research, and the provided text does not verify this requirement."
     },
     "swap.cow.fi": {
         "url": "https://swap.cow.fi/",
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:cav0K0tbwGQJ:https://swap.cow.fi/&hl=en&gl=us",
         "sourcekeyword": "CowSwap:  trading interface built on top of Gnosis Protocol v2",
-        "nature": "single project"
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.traderjoes.com": {
         "url": "https://www.traderjoes.com/home",
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:bY7l2loQ1N8J:https://www.traderjoes.com/home&hl=en&gl=us",
         "sourcekeyword": "Trader Joe:  decentralized trading platform on Avalanche",
-        "nature": "single project"
+        "nature": "Invalid:DDOS protection screen or JavaScript requirement notice."
     },
     "quickswap.exchange": {
         "url": "https://quickswap.exchange/",
@@ -203,19 +215,19 @@
         "url": "https://www.paraswap.io/",
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:q2w3U-J7OBcJ:https://www.paraswap.io/&hl=en&gl=us",
         "sourcekeyword": "ParaSwap:  decentralized exchange aggregator",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: Not all projects work exclusively with Bitcoin.\n\nThe provided information describes ParaSwap, a DeFi aggregator that integrates liquidity from various decentralized exchanges and lending protocols. It supports multiple blockchains, including Ethereum Mainnet, Binance Smart Chain, Avalanche, Polygon, Fantom, Arbitrum, and Optimism. While it may support Bitcoin transactions through wrapped versions of Bitcoin (like WBTC) on supported blockchains, it is not exclusively a Bitcoin DEX. Therefore, it does not meet the criteria of working exclusively with Bitcoin as stated in the research requirement."
     },
     "www.sushi.com": {
         "url": "https://www.sushi.com/",
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:7QvW0ojBWsIJ:https://www.sushi.com/&hl=en&gl=us",
         "sourcekeyword": "SushiSwap:  exchange for swapping ERC20 tokens through automated liquidity pools",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: The provided information does not confirm that the project works exclusively with Bitcoin or that it must be a DEX (Decentralized Exchange) that works with Bitcoin. The text mentions Sushi, which is a platform known for trading a variety of cryptocurrencies, not just Bitcoin. It also mentions trading over 400 tokens, which implies that it supports multiple cryptocurrencies. Therefore, it does not meet the criteria of working exclusively with Bitcoin."
     },
     "dydx.exchange": {
         "url": "https://dydx.exchange/",
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:dxKpp7GUOWkJ:https://dydx.exchange/&hl=en&gl=us",
         "sourcekeyword": "dYdX:  trading platform for crypto assets",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: The provided information does not confirm that the project works exclusively with Bitcoin or that it must be a DEX (Decentralized Exchange) to be considered valid for the research. dYdX is a DeFi protocol for advanced trading that supports cryptocurrencies in general, not just Bitcoin."
     },
     "balancer.fi": {
         "url": "https://balancer.fi/",
@@ -227,12 +239,24 @@
         "url": "https://bancor.network/",
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:1_6rRkGtfcQJ:https://bancor.network/&hl=en&gl=us",
         "sourcekeyword": "Bancor:  on-chain liquidity protocol for token exchange",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: The provided information does not confirm that all projects work with Bitcoin or that every project must be a DEX (Decentralized Exchange) that works with Bitcoin. The text refers to the Bancor ecosystem, which is a set of DeFi (Decentralized Finance) protocols, but it does not specify that they exclusively operate with Bitcoin or that they are all DEXs."
     },
     "uniswap.org": {
         "url": "https://uniswap.org/",
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:DY7_IqMYGsUJ:https://uniswap.org/&hl=en&gl=us",
         "sourcekeyword": "Uniswap:  automated fully decentralized token exchange on Ethereum",
-        "nature": "single project"
+        "nature": "Invalid. Invalid: Uniswap is a decentralized exchange (DEX) built on the Ethereum blockchain, not Bitcoin. It primarily facilitates the swapping of ERC-20 tokens, which are tokens built on the Ethereum platform, and does not inherently work with Bitcoin. While wrapped versions of Bitcoin (like WBTC) can be traded on Uniswap, the platform itself is not based on the Bitcoin blockchain."
+    },
+    "www.bitdegree.org": {
+        "url": "https://www.bitdegree.org/crypto/learn/crypto-terms/what-is-decentralized-exchange-dex",
+        "nature": "list of projects"
+    },
+    "www.bitstamp.net": {
+        "url": "https://www.bitstamp.net/learn/web3/what-is-a-decentralized-exchange-dex/",
+        "nature": "Invalid:DDOS protection screen"
+    },
+    "www.forbes.com": {
+        "url": "https://www.forbes.com/sites/leeorshimron/2022/11/23/dexs-gain-market-share-as-faith-in-centralized-crypto-players-erodes/",
+        "nature": "Invalid:DDOS protection screen or navigation issue."
     }
 }

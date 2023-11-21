@@ -24,7 +24,7 @@ def find_link_to_plans(serp_content,domain_data):
     """ Use GPT to find the link to the plans page from SERP content. """
     from langchain.chat_models import ChatOpenAI
 
-    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
+    chat = ChatOpenAI(temperature=0, model_name="gpt-4-1106-preview")
     messages = [
         SystemMessage(content="Find the link to the page with prices and plans for "+INDUSTRY_KEYWORD+" (not sms). Return JSON with link and cached_page_link, or return 'Not found' if not found."),
         HumanMessage(content=serp_content)
