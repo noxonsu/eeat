@@ -51,13 +51,13 @@ jobs:
     - name: Install Playwright Browsers
       run: playwright install chromium
 
-    - name: Run python scripts
+    - name: Run python scripts 
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         INDUSTRY_KEYWORD: ${{ github.event.inputs.INDUSTRY_KEYWORD }}
         SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
       run: |
-        python 1loadSerp.py
+        python run_all.py
 
     - name: Commit and push changes
       run: |
