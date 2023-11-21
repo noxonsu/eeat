@@ -10,13 +10,13 @@ on:
         required: true
         default: 'technology' # You can change the default value
       SERP_PRICES_EXT:
-        description: 'keyword to find a prices page in google '
+        description: 'additional keyword to find a prices page of the project in google '
         required: true
         default: 'prices' # You can change the default value        
       ADDITIONAL_INFO:
         description: 'another important info '
-        required: false
-        default: '' # You can change the default value        
+        required: true
+        default: 'None' # You can change the default value        
 
 jobs:
   run-scripts:
