@@ -206,3 +206,23 @@ def search_companies_on_google(industry_query,limt):
         print(results)  # This will print the structure of results to inspect it
         return []
     
+def get_wayback_url(input_url):
+    base_url = "https://archive.org/wayback/available?url="
+    full_url = base_url + input_url
+
+    try:
+        response = requests.get(full_url)
+        response.raise_for_status()
+        result = response.json()
+        
+        # Check if "archived_snapshots" is available in the response
+        if "archived_snapshots" in result:
+            closest_snapshot = result["archived_snapshots"]["closest"]
+            if closest_snapshot.get("available") and closest_snapshot.get("url"):
+                return closest_snapshot["url"]
+        
+        return None  # Return None if no valid URL is found
+
+    except requests.exceptions.RequestException as e:
+        print("Error making the request:", e)
+        return None

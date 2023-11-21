@@ -35,6 +35,20 @@
             "request": "launch",
             "program": "${workspaceFolder}/5analyseProduct.py",
             "console": "integratedTerminal"
+        }, 
+        {
+            "name": "Python: 8visualPricing.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/8visualPricing.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: 9visual.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/9visual.py",
+            "console": "integratedTerminal"
         },
         {
             "name": "Python: Run All Scripts Sequentially",

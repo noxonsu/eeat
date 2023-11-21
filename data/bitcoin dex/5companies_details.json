@@ -1,164 +1,717 @@
 {
     "bisq.network": {
         "name": "Bisq",
+        "website": "https://bisq.network/",
         "call_to_action": "Download for Windows, Download for macOS, Download for Debian/Ubuntu, Download for Red Hat/Fedora",
         "usecases": [
             "Buy and sell bitcoin for fiat (or other cryptocurrencies) privately and securely"
         ],
         "solutions": [
-            "Bisq's peer-to-peer network and open-source desktop software"
-        ],
-        "key_features": [
-            "No Identity Verification",
-            "Decentralized trading on a global P2P network",
+            "Peer-to-peer network",
+            "Open-source desktop software",
+            "No registration required",
+            "Decentralized trading",
             "Safe trades with deposits held in 2-of-2 multisig wallets",
             "Private data storage on local disk",
-            "Open-source code and transparent project strategy",
+            "Open source code",
             "Easy to use with trades possible in under 10 minutes",
             "Decentralized governance through the Bisq DAO"
         ],
-        "is_related_to_bitcoin_dex": true,
+        "key_features": {
+            "Trading Features": [
+                {
+                    "feature": "Swap, earn, and borrow with native assets",
+                    "count": 2
+                },
+                {
+                    "feature": "Quick Exchange",
+                    "count": 3
+                },
+                {
+                    "feature": "Spot Trading",
+                    "count": 1
+                },
+                {
+                    "feature": "Demo Trading",
+                    "count": 1
+                }
+            ],
+            "Advanced Trading": [
+                {
+                    "feature": "Margin Trading (coming soon)",
+                    "count": 1
+                },
+                {
+                    "feature": "Best-in-class trading terminal",
+                    "count": 1
+                }
+            ],
+            "Cross-Chain and Native Assets": [
+                {
+                    "feature": "Native assets without the need for RUNE to pay for transactions",
+                    "count": 1
+                },
+                {
+                    "feature": "Native asset swaps without wrapped or pegged assets",
+                    "count": 2
+                },
+                {
+                    "feature": "Cross-chain functionality without bridges",
+                    "count": 2
+                }
+            ],
+            "Security and Privacy": [
+                {
+                    "feature": "Safe trades with deposits held in 2-of-2 multisig wallets",
+                    "count": 2
+                },
+                {
+                    "feature": "Secured by the native token RUNE",
+                    "count": 1
+                },
+                {
+                    "feature": "Secure funds with open source code",
+                    "count": 4
+                },
+                {
+                    "feature": "Non-custodial self-custody of funds",
+                    "count": 3
+                },
+                {
+                    "feature": "Trust minimized infrastructure",
+                    "count": 2
+                },
+                {
+                    "feature": "No Identity Verification",
+                    "count": 4
+                },
+                {
+                    "feature": "Private data storage on local disk",
+                    "count": 1
+                }
+            ],
+            "User Experience": [
+                {
+                    "feature": "Easy to use with trades possible in under 10 minutes",
+                    "count": 1
+                },
+                {
+                    "feature": "Buy crypto",
+                    "count": 3
+                },
+                {
+                    "feature": "Access to over 300 top coins",
+                    "count": 1
+                },
+                {
+                    "feature": "Decentralized trading on a global P2P network",
+                    "count": 2
+                }
+            ],
+            "Governance and Future Plans": [
+                {
+                    "feature": "Decentralized governance through the Bisq DAO",
+                    "count": 1
+                },
+                {
+                    "feature": "Extensive research, design, and community governance for new features",
+                    "count": 1
+                }
+            ],
+            "Additional Services": [
+                {
+                    "feature": "Free Coins",
+                    "count": 1
+                },
+                {
+                    "feature": "Tournaments",
+                    "count": 1
+                },
+                {
+                    "feature": "Real-time crypto price reporting and trading",
+                    "count": 2
+                },
+                {
+                    "feature": "Single asset liquidity with savers vaults",
+                    "count": 1
+                },
+                {
+                    "feature": "Staking",
+                    "count": 3
+                },
+                {
+                    "feature": "IEO",
+                    "count": 1
+                }
+            ]
+        },
         "pricesAndPlans": {
-            "status": "Not found",
-            "priceAndPlans": null
+            "status": "OK",
+            "priceAndPlans": {
+                "tradingFees": {
+                    "BTC": {
+                        "maker": "0.1%",
+                        "taker": "0.7%"
+                    },
+                    "BSQ": {
+                        "maker": "Approximately half of BTC fees",
+                        "taker": "Approximately half of BTC fees"
+                    }
+                },
+                "securityDeposit": "Varies based on trade agreement",
+                "miningFees": "Required for on-chain transactions, varies based on network conditions",
+                "tradeLimits": {
+                    "fiat": "Varies by payment method, e.g., 0.25 BTC for Zelle and SEPA, up to 1 BTC for others",
+                    "altcoins": "Up to 2 BTC"
+                },
+                "paymentMethods": "Varies by region and currency, see Bisq for full list",
+                "otherFees": {
+                    "arbitration": "No specific fee mentioned, but disputes may affect security deposits"
+                }
+            }
         }
     },
     "dex-trade.com": {
+        "name": "Dex-Trade Crypto Exchange",
         "call_to_action": "Sign up",
         "usecases": [
-            "Buy and sell crypto",
-            "Spot trading",
-            "Demo trading",
-            "Quick exchange",
-            "Staking",
-            "IEO token launch platform",
-            "Participate in tournaments",
-            "Get free coins"
-        ],
-        "solutions": [
-            "Reliable and secure cryptocurrency trading platform",
-            "Low fees",
-            "Unmatched liquidity",
-            "Demo trading account",
-            "Free coins and games to earn more crypto",
-            "Wide variety of cryptocurrencies listed",
-            "Quick and convenient exchange process",
-            "Best-in-class trading terminal",
-            "Educational demo terminal",
-            "Margin trading (coming soon)",
-            "Access to IEO tokens at a discount rate",
-            "Mobile and tablet trading app",
-            "Real-time crypto price reporting and trading",
-            "Lowest fees for buying and selling digital assets",
-            "Instant price volatility notifications",
-            "Access to over 300 top coins",
-            "Data privacy and security",
-            "24/7 customer support"
-        ],
-        "key_features": [
             "Buy crypto",
             "Spot Trading",
             "Demo Trading",
             "Quick Exchange",
             "Staking",
             "IEO",
-            "Tournaments",
-            "Free Coins",
-            "Best-in-class trading terminal",
-            "Margin Trading (coming soon)",
-            "Real-time crypto price reporting and trading",
-            "Access to over 300 top coins"
+            "Tournaments"
         ],
-        "is_related_to_bitcoin_dex": true,
+        "solutions": [
+            "Cryptocurrency trading platform",
+            "Low fees",
+            "Unmatched liquidity",
+            "Demo trading account",
+            "Access to a wide variety of cryptocurrencies",
+            "IEO token launch platform",
+            "Games to earn more crypto",
+            "Real-time crypto price reporting and trading",
+            "Mobile and tablet trading app"
+        ],
+        "key_features": {
+            "Trading Features": {
+                "Swap and Trade": [
+                    {
+                        "feature": "Swap, earn, and borrow with native assets",
+                        "count": 2
+                    },
+                    {
+                        "feature": "Quick Exchange",
+                        "count": 3
+                    },
+                    {
+                        "feature": "Spot Trading",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Demo Trading",
+                        "count": 1
+                    }
+                ],
+                "Advanced Trading": [
+                    {
+                        "feature": "Margin Trading (coming soon)",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Best-in-class trading terminal",
+                        "count": 1
+                    }
+                ],
+                "Cross-Chain and Native Assets": [
+                    {
+                        "feature": "Native assets without the need for RUNE to pay for transactions",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Native asset swaps without wrapped or pegged assets",
+                        "count": 2
+                    },
+                    {
+                        "feature": "Cross-chain functionality without bridges",
+                        "count": 2
+                    }
+                ]
+            },
+            "Security and Privacy": {
+                "Security": [
+                    {
+                        "feature": "Safe trades with deposits held in 2-of-2 multisig wallets",
+                        "count": 2
+                    },
+                    {
+                        "feature": "Secured by the native token RUNE",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Secure funds with open source code",
+                        "count": 4
+                    },
+                    {
+                        "feature": "Non-custodial self-custody of funds",
+                        "count": 3
+                    },
+                    {
+                        "feature": "Trust minimized infrastructure",
+                        "count": 2
+                    }
+                ],
+                "Privacy": [
+                    {
+                        "feature": "No Identity Verification",
+                        "count": 4
+                    },
+                    {
+                        "feature": "Private data storage on local disk",
+                        "count": 1
+                    }
+                ]
+            },
+            "User Experience": {
+                "Ease of Use": [
+                    {
+                        "feature": "Easy to use with trades possible in under 10 minutes",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Buy crypto",
+                        "count": 3
+                    }
+                ],
+                "Accessibility": [
+                    {
+                        "feature": "Access to over 300 top coins",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Decentralized trading on a global P2P network",
+                        "count": 2
+                    }
+                ]
+            },
+            "Governance and Future Plans": {
+                "Governance": [
+                    {
+                        "feature": "Decentralized governance through the Bisq DAO",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Extensive research, design, and community governance for new features",
+                        "count": 1
+                    }
+                ],
+                "Upcoming Features": [
+                    {
+                        "feature": "Upcoming features include synthetic assets, DEX aggregation, savers vaults, and more",
+                        "count": 1
+                    }
+                ]
+            },
+            "Additional Services": {
+                "Promotions and Events": [
+                    {
+                        "feature": "Free Coins",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Tournaments",
+                        "count": 1
+                    }
+                ],
+                "Real-time Data": [
+                    {
+                        "feature": "Real-time crypto price reporting and trading",
+                        "count": 2
+                    }
+                ],
+                "Liquidity Solutions": [
+                    {
+                        "feature": "Single asset liquidity with savers vaults",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Staking",
+                        "count": 3
+                    }
+                ],
+                "Initial Exchange Offerings": [
+                    {
+                        "feature": "IEO",
+                        "count": 1
+                    }
+                ]
+            }
+        },
+        "project_type": "DEX",
+        "works_with_bitcoin": true,
         "pricesAndPlans": {
             "status": "Not found",
             "priceAndPlans": null
         }
     },
     "thorchain.org": {
-        "product_name": "THORChain",
+        "name": "THORChain",
         "call_to_action": "Talk to team",
-        "use_cases": [
+        "usecases": [
             "Swap native assets between supported chains",
             "Deposit assets to earn yield from swaps",
             "Provide liquidity to THORChain and earn from swap fees",
-            "Swap assets without relying on wrapped tokens",
-            "Maintain self-custody of funds",
-            "Bond RUNE to secure the network",
-            "Enable cross-chain communication and settlement",
-            "Connect new blockchains periodically"
+            "Cross-chain communication and settlement layer",
+            "Decentralized governance through the Bisq DAO"
         ],
         "solutions": [
-            "Decentralized cross-chain infrastructure",
-            "Native asset swaps",
-            "Streaming swaps",
-            "Dual liquidity",
-            "Savers vaults",
-            "DEX aggregation",
-            "Generic messaging",
-            "Lending",
-            "Synthetic assets",
-            "Native asset security",
-            "Chain agnostic service provider"
-        ],
-        "key_features": [
             "Swap, earn, and borrow with native assets",
-            "Cross-chain functionality without bridges",
-            "Non-custodial self-custody of funds",
-            "Single asset liquidity with savers vaults",
-            "Secured by the native token RUNE",
-            "Trust minimized infrastructure",
-            "Native asset swaps without wrapped or pegged assets",
+            "Quick Exchange",
+            "Spot Trading",
+            "Demo Trading",
+            "Margin Trading (coming soon)",
+            "Best-in-class trading terminal",
             "Native assets without the need for RUNE to pay for transactions",
+            "Native asset swaps without wrapped or pegged assets",
+            "Cross-chain functionality without bridges",
+            "Safe trades with deposits held in 2-of-2 multisig wallets",
+            "Secured by the native token RUNE",
             "Secure funds with open source code",
+            "Non-custodial self-custody of funds",
+            "Trust minimized infrastructure",
+            "No Identity Verification",
+            "Private data storage on local disk",
+            "Easy to use with trades possible in under 10 minutes",
+            "Buy crypto",
+            "Access to over 300 top coins",
+            "Decentralized trading on a global P2P network",
+            "Decentralized governance through the Bisq DAO",
             "Extensive research, design, and community governance for new features",
-            "Upcoming features include synthetic assets, DEX aggregation, savers vaults, and more"
+            "Upcoming features include synthetic assets, DEX aggregation, savers vaults, and more",
+            "Free Coins",
+            "Tournaments",
+            "Real-time crypto price reporting and trading",
+            "Single asset liquidity with savers vaults",
+            "Staking",
+            "IEO"
         ],
-        "is_related_to_bitcoin_dex": true,
+        "trading_features": [
+            {
+                "feature": "Swap, earn, and borrow with native assets",
+                "count": 2
+            },
+            {
+                "feature": "Quick Exchange",
+                "count": 3
+            },
+            {
+                "feature": "Spot Trading",
+                "count": 1
+            },
+            {
+                "feature": "Demo Trading",
+                "count": 1
+            },
+            {
+                "feature": "Margin Trading (coming soon)",
+                "count": 1
+            },
+            {
+                "feature": "Best-in-class trading terminal",
+                "count": 1
+            }
+        ],
+        "cross_chain_and_native_assets": [
+            {
+                "feature": "Native assets without the need for RUNE to pay for transactions",
+                "count": 1
+            },
+            {
+                "feature": "Native asset swaps without wrapped or pegged assets",
+                "count": 2
+            },
+            {
+                "feature": "Cross-chain functionality without bridges",
+                "count": 2
+            }
+        ],
+        "security_and_privacy": [
+            {
+                "feature": "Safe trades with deposits held in 2-of-2 multisig wallets",
+                "count": 2
+            },
+            {
+                "feature": "Secured by the native token RUNE",
+                "count": 1
+            },
+            {
+                "feature": "Secure funds with open source code",
+                "count": 4
+            },
+            {
+                "feature": "Non-custodial self-custody of funds",
+                "count": 3
+            },
+            {
+                "feature": "Trust minimized infrastructure",
+                "count": 2
+            },
+            {
+                "feature": "No Identity Verification",
+                "count": 4
+            },
+            {
+                "feature": "Private data storage on local disk",
+                "count": 1
+            }
+        ],
+        "user_experience": [
+            {
+                "feature": "Easy to use with trades possible in under 10 minutes",
+                "count": 1
+            },
+            {
+                "feature": "Buy crypto",
+                "count": 3
+            },
+            {
+                "feature": "Access to over 300 top coins",
+                "count": 1
+            },
+            {
+                "feature": "Decentralized trading on a global P2P network",
+                "count": 2
+            }
+        ],
+        "governance_and_future_plans": [
+            {
+                "feature": "Decentralized governance through the Bisq DAO",
+                "count": 1
+            },
+            {
+                "feature": "Extensive research, design, and community governance for new features",
+                "count": 1
+            },
+            {
+                "feature": "Upcoming features include synthetic assets, DEX aggregation, savers vaults, and more",
+                "count": 1
+            }
+        ],
+        "additional_services": [
+            {
+                "feature": "Free Coins",
+                "count": 1
+            },
+            {
+                "feature": "Tournaments",
+                "count": 1
+            },
+            {
+                "feature": "Real-time crypto price reporting and trading",
+                "count": 2
+            },
+            {
+                "feature": "Single asset liquidity with savers vaults",
+                "count": 1
+            },
+            {
+                "feature": "Staking",
+                "count": 3
+            },
+            {
+                "feature": "IEO",
+                "count": 1
+            }
+        ],
+        "project_validity": true,
         "pricesAndPlans": {
-            "status": "Not found",
-            "priceAndPlans": null
+            "status": "found",
+            "priceAndPlans": {
+                "Outbound Fee": "A fixed fee to cover outbound gas cost and a network fee, deducted from the outbound amount. The network fee is collected in RUNE and sent to the Protocol Reserve.",
+                "Slip-Based Fee": "A liquidity-sensitive fee, proportional to the size of the transaction over the depth of the market. Retained on the output side of the pool to counter the trade direction.",
+                "Network Fee": "A fee paid by users to make transactions on the THORChain ledger. It is fixed and available on the `/constants` endpoint, but intended to be dynamic and set to a fixed $ quantity of assets."
+            }
         }
     },
     "atomicdex.io": {
-        "bitcoin_dex": {
-            "name": "Komodo Wallet",
-            "call_to_action": "Launch app Download",
-            "usecases": [
-                "Mobile wallet",
-                "Desktop wallet",
-                "Bridge",
-                "DEX"
-            ],
-            "solutions": [
-                "Hold and trade hundreds of cryptocurrencies on your mobile",
-                "Hold and trade hundreds of cryptocurrencies on your desktop",
-                "Swap your crypto from one blockchain to another",
-                "Supports trading for 99% of cryptocurrencies"
-            ],
-            "key_features": [
-                "Multi-coin wallet",
-                "Bridge for asset swapping",
-                "P2P trading without intermediaries",
-                "Secure trading platform",
-                "No trading fee for makers, takers only pay 0.13%",
-                "Immediate trading, no deposit or withdrawal wait times",
-                "Unrestricted trading pairs, swap all assets directly"
-            ],
-            "is_related_to_bitcoin_dex": true
+        "name": "Komodo Wallet",
+        "call_to_action": "Launch app",
+        "usecases": [
+            "Mobile wallet",
+            "Desktop wallet",
+            "Bridge",
+            "DEX"
+        ],
+        "solutions": [
+            "Hold and trade hundreds of cryptocurrencies on your mobile",
+            "Hold and trade hundreds of cryptocurrencies on your desktop",
+            "Swap your crypto from one blockchain to another",
+            "Supports trading for 99% of cryptocurrencies. Trade crypto P2P without intermediaries"
+        ],
+        "key_features": {
+            "Trading Features": {
+                "Swap and Trade": [
+                    {
+                        "feature": "Swap, earn, and borrow with native assets",
+                        "count": 2
+                    },
+                    {
+                        "feature": "Quick Exchange",
+                        "count": 3
+                    },
+                    {
+                        "feature": "Spot Trading",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Demo Trading",
+                        "count": 1
+                    }
+                ],
+                "Advanced Trading": [
+                    {
+                        "feature": "Margin Trading (coming soon)",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Best-in-class trading terminal",
+                        "count": 1
+                    }
+                ],
+                "Cross-Chain and Native Assets": [
+                    {
+                        "feature": "Native assets without the need for RUNE to pay for transactions",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Native asset swaps without wrapped or pegged assets",
+                        "count": 2
+                    },
+                    {
+                        "feature": "Cross-chain functionality without bridges",
+                        "count": 2
+                    }
+                ]
+            },
+            "Security and Privacy": {
+                "Security": [
+                    {
+                        "feature": "Safe trades with deposits held in 2-of-2 multisig wallets",
+                        "count": 2
+                    },
+                    {
+                        "feature": "Secured by the native token RUNE",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Secure funds with open source code",
+                        "count": 4
+                    },
+                    {
+                        "feature": "Non-custodial self-custody of funds",
+                        "count": 3
+                    },
+                    {
+                        "feature": "Trust minimized infrastructure",
+                        "count": 2
+                    }
+                ],
+                "Privacy": [
+                    {
+                        "feature": "No Identity Verification",
+                        "count": 4
+                    },
+                    {
+                        "feature": "Private data storage on local disk",
+                        "count": 1
+                    }
+                ]
+            },
+            "User Experience": {
+                "Ease of Use": [
+                    {
+                        "feature": "Easy to use with trades possible in under 10 minutes",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Buy crypto",
+                        "count": 3
+                    }
+                ],
+                "Accessibility": [
+                    {
+                        "feature": "Access to over 300 top coins",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Decentralized trading on a global P2P network",
+                        "count": 2
+                    }
+                ]
+            },
+            "Governance and Future Plans": {
+                "Governance": [
+                    {
+                        "feature": "Decentralized governance through the Bisq DAO",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Extensive research, design, and community governance for new features",
+                        "count": 1
+                    }
+                ],
+                "Upcoming Features": [
+                    {
+                        "feature": "Upcoming features include synthetic assets, DEX aggregation, savers vaults, and more",
+                        "count": 1
+                    }
+                ]
+            },
+            "Additional Services": {
+                "Promotions and Events": [
+                    {
+                        "feature": "Free Coins",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Tournaments",
+                        "count": 1
+                    }
+                ],
+                "Real-time Data": [
+                    {
+                        "feature": "Real-time crypto price reporting and trading",
+                        "count": 2
+                    }
+                ],
+                "Liquidity Solutions": [
+                    {
+                        "feature": "Single asset liquidity with savers vaults",
+                        "count": 1
+                    },
+                    {
+                        "feature": "Staking",
+                        "count": 3
+                    }
+                ],
+                "Initial Exchange Offerings": [
+                    {
+                        "feature": "IEO",
+                        "count": 1
+                    }
+                ]
+            }
         },
+        "project_type": "DEX",
+        "works_with_bitcoin": true,
         "pricesAndPlans": {
-            "status": "success",
-            "priceAndPlans": [
-                {
-                    "product": "Mobile wallet",
-                    "price": "Free"
-                },
-                {
-                    "product": "Desktop wallet",
-                    "price": "Free"
-                }
-            ]
+            "status": "Found",
+            "priceAndPlans": {
+                "marketMakerFees": "0%",
+                "marketTakerFees": "0.13%",
+                "gasFees": "minuscule for trading cross-chain for the vast majority of supported blockchains"
+            }
         }
     }
 }

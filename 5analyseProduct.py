@@ -29,7 +29,8 @@ import os
 from utils import *
 
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
-
+ADDITIONAL_INFO = os.environ.get('ADDITIONAL_INFO','')
+SERP_PRICES_EXT = os.getenv('SERP_PRICES_EXT')
 
 cfl = load_from_json_file("7key_features_optimized.json","data/"+INDUSTRY_KEYWORD)
 # Check if exists.
@@ -65,9 +66,9 @@ For each service, list down how they fare in each of the criteria.
 In additional detrmine such information
 1. Call to action - 'talk to a manager', 'book a demo', 'talk to team', sign up etc.
 2. Their usecases  
-3. Their solutions
+3. Their solutions. 
 4. """+clusterized_features_list_f+""""
-5. Is this project realy related to """+INDUSTRY_KEYWORD+"""?
+5. """+ADDITIONAL_INFO+"""?
                                                                 
 The goal is to provide an objective view of each product offerings, highlighting both strengths and potential areas for improvement. Provide the results in JSON format."""
 
@@ -87,7 +88,6 @@ def get_company_details(company):
     summary=load_from_json_file(company+".json","data/"+INDUSTRY_KEYWORD)
     question_content = 'INDUSTRY_KEYWORD: '+INDUSTRY_KEYWORD+"\n\n"+json.dumps(summary['summary'])
     question_content = question_content[:40000]
-    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
 
     messages = [
         SystemMessage(content=prompt),
@@ -95,10 +95,10 @@ def get_company_details(company):
     ]
     start = time.time()
     try:
-        chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
+        chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
         response = chat(messages)
         json1 = json.loads(response.content)
-        print("3.5 4k")
+        print("gpt-3.5-turbo-16k")
     except:
         chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
         response = chat(messages)
@@ -110,14 +110,15 @@ def get_company_details(company):
 
     gpt_response2 = "{}"
     # comeercial preparation
+    
     messages = [
-        SystemMessage(content="Find plans and prices and determin business model. status 'Not found' if not found or error. Return JSON with status and 'priceAndPlans'."),
+        SystemMessage(content="Find "+SERP_PRICES_EXT+" and determin business model. status 'Not found' if not found or error. Return JSON with status and 'priceAndPlans'."),
         HumanMessage(content=json.dumps(summary['priceAndPlans']))
     ]
     start = time.time()
     
     try:
-        mod = "gpt-3.5-turbo-16k" #gpt-4-1106-preview
+        mod = "gpt-4-1106-preview" #gpt-4-1106-preview
         chat = ChatOpenAI(temperature=0, model_name=mod)
         response = chat(messages)
         print(mod)
@@ -165,21 +166,19 @@ def main():
     company_details = load_from_json_file("5companies_details.json", "data/" + INDUSTRY_KEYWORD)
     
     # Iterate through the filtered summaries to get details for each company
-    i=0
+    i = 0
     for company, compdata in filtered_summaries.items():
-        i=i+1
-        print(i/total*100)
+        i += 1
+        print(f"{(i / total) * 100}%")
         print(company)
 
-        #Only fetch details if not already present
-        if company not in company_details:
-            print(f"Analysing details for company: {company}")
-            details = get_company_details(company)
-            if details:
-                company_details[company] = details
-                save_to_json_file(company_details, "5companies_details.json", "data/" + INDUSTRY_KEYWORD)
-                summaries[company]['5prompt_Hash'] = prompt_hash
-                save_to_json_file(summaries, "1companies.json", "data/" + INDUSTRY_KEYWORD)
+        print(f"Analysing details for company: {company}")
+        details = get_company_details(company)
+        if details:
+            company_details[company] = details
+            save_to_json_file(company_details, "5companies_details.json", "data/" + INDUSTRY_KEYWORD)
+            summaries[company]['5prompt_Hash'] = prompt_hash
+            save_to_json_file(summaries, "1companies.json", "data/" + INDUSTRY_KEYWORD)
 
 
 if __name__ == "__main__":

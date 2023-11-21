@@ -129,7 +129,7 @@ def main():
     print("Optimizing the Product Feature List")
     ret = optimize_cluster(json.dumps(key_features),total_companies,len(key_features))
     print(ret)
-    save_to_json_file(ret, "7key_features_optimized1.json", "data/"+INDUSTRY_KEYWORD)
+    save_to_json_file(ret, "7key_features_optimized.json", "data/"+INDUSTRY_KEYWORD)
 
 
 if __name__ == "__main__":

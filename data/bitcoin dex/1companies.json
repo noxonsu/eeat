@@ -24,9 +24,8 @@
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:yObRa29RivgJ:https://bisq.network/&hl=en&gl=us",
         "sourcekeyword": "Bisq:  peer-to-peer desktop application for buying and selling cryptocurrencies",
         "nature": "single project",
-        "priceAndPlansCrawled": ":///bisq.network/getting-started",
-        "priceAndPlansCached": "http://web.archive.org/web/20231116055436/https://bisq.network/getting-started",
-        "5prompt_Hash": "665d59daa8add150dbd22faf06cdd8ae"
+        "5prompt_Hash": "b0cb7240e6b93f3aa6e14716752cbbf6",
+        "priceAndPlansCrawled": "https://bisq.network/faq/"
     },
     "cointelegraph.com": {
         "url": "https://cointelegraph.com/learn/what-are-decentralized-exchanges-and-how-do-dexs-work",
@@ -43,9 +42,9 @@
     "dex-trade.com": {
         "url": "https://dex-trade.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://dex-trade.com/markets",
-        "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:https://dex-trade.com/markets",
-        "5prompt_Hash": "665d59daa8add150dbd22faf06cdd8ae"
+        "5prompt_Hash": "b0cb7240e6b93f3aa6e14716752cbbf6",
+        "priceAndPlansCrawled": "https://dex-trade.com/fees",
+        "priceAndPlansCached": "https://cc.bingj.com/cache.aspx?q=https%3a%2f%2fdex-trade.com%2ffees&d=5047893749800785&mkt=en-ww&setlang=en-US&w=6Azb1iXYKJuiYoyTj5ZQjBB0xdLRWxJj"
     },
     "www.coingecko.com": {
         "url": "https://www.coingecko.com/en/exchanges/decentralized",
@@ -82,7 +81,7 @@
         "nature": "single project",
         "priceAndPlansCrawled": "https://docs.thorchain.org/how-it-works/fees",
         "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:2rLSjuALYxUJ:https://docs.thorchain.org/how-it-works/fees&hl=en&gl=us",
-        "5prompt_Hash": "665d59daa8add150dbd22faf06cdd8ae"
+        "5prompt_Hash": "b0cb7240e6b93f3aa6e14716752cbbf6"
     },
     "www.sofi.com": {
         "url": "https://www.sofi.com/learn/content/decentralized-exchange/",
@@ -131,8 +130,8 @@
     "atomicdex.io": {
         "url": "https://atomicdex.io/en/",
         "nature": "single project",
-        "5prompt_Hash": "665d59daa8add150dbd22faf06cdd8ae",
-        "priceAndPlansCrawled": "https://atomicdex.io/en/blog/blockchain-transaction-fees/",
+        "5prompt_Hash": "b0cb7240e6b93f3aa6e14716752cbbf6",
+        "priceAndPlansCrawled": "https://atomicdex.io/en/blog/atomicdex-mobile-v0-6-1/",
         "priceAndPlansCached": "https://webcache.googleusercontent.com/search?q=cache:306jIpndbFgJ:https://atomicdex.io/en/blog/blockchain-transaction-fees/&hl=en&gl=us"
     },
     "www.reuters.com": {
