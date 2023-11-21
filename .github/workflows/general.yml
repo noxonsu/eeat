@@ -9,6 +9,10 @@ on:
         description: 'Keyword to focus on'
         required: true
         default: 'technology' # You can change the default value
+      SERP_PRICES_EXT:
+        description: 'keyword to find a prices page in google '
+        required: true
+        default: 'prices' # You can change the default value        
 
 jobs:
   run-scripts:
