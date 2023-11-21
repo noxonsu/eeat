@@ -13,10 +13,10 @@ on:
         description: 'additional keyword to find a prices page of the project in google '
         required: true
         default: 'prices' # You can change the default value        
-      ADDITIONAL_INFO:
-        description: 'another important info '
+      ADDITIONAL_INFO_FOR_FILTERING_PROJECTS:
+        description: 'ex: project must working with bitcoin'
         required: true
-        default: 'None' # You can change the default value        
+        default: '' # You can change the default value        
 
 jobs:
   run-scripts:
