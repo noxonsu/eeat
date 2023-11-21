@@ -1,0 +1,113 @@
+{
+    "www.bitcoin.com": {
+        "url": "https://www.bitcoin.com/get-started/what-is-a-dex/"
+    },
+    "trustmachines.co": {
+        "url": "https://trustmachines.co/learn/bitcoin-decentralized-exchanges/"
+    },
+    "www.coinbase.com": {
+        "url": "https://www.coinbase.com/learn/crypto-basics/what-is-a-dex"
+    },
+    "www.gemini.com": {
+        "url": "https://www.gemini.com/cryptopedia/decentralized-exchange-crypto-dex"
+    },
+    "defiprime.com": {
+        "url": "https://defiprime.com/exchanges"
+    },
+    "bisq.network": {
+        "url": "https://bisq.network/"
+    },
+    "cointelegraph.com": {
+        "url": "https://cointelegraph.com/learn/what-are-decentralized-exchanges-and-how-do-dexs-work"
+    },
+    "chain.link": {
+        "url": "https://chain.link/education-hub/what-is-decentralized-exchange-dex"
+    },
+    "www.coindesk.com": {
+        "url": "https://www.coindesk.com/learn/what-is-a-dex-how-decentralized-crypto-exchanges-work"
+    },
+    "dex-trade.com": {
+        "url": "https://dex-trade.com/"
+    },
+    "www.coingecko.com": {
+        "url": "https://www.coingecko.com/en/exchanges/decentralized"
+    },
+    "fortune.com": {
+        "url": "https://fortune.com/crypto/crash-course/dexes/"
+    },
+    "coinledger.io": {
+        "url": "https://coinledger.io/tools/best-decentralized-exchanges"
+    },
+    "www.tastycrypto.com": {
+        "url": "https://www.tastycrypto.com/defi/decentralized-crypto-exchange-explained/"
+    },
+    "coinmarketcap.com": {
+        "url": "https://coinmarketcap.com/rankings/exchanges/dex/"
+    },
+    "www.okx.com": {
+        "url": "https://www.okx.com/learn/best-decentralized-exchanges"
+    },
+    "www.theblock.co": {
+        "url": "https://www.theblock.co/data/decentralized-finance/dex-non-custodial"
+    },
+    "thorchain.org": {
+        "url": "https://thorchain.org/"
+    },
+    "www.sofi.com": {
+        "url": "https://www.sofi.com/learn/content/decentralized-exchange/"
+    },
+    "dexilon.io": {
+        "url": "https://dexilon.io/blog/best-decentralized-exchange-for-crypto/"
+    },
+    "crypto.com": {
+        "url": "https://crypto.com/price/categories/dex"
+    },
+    "www.openware.com": {
+        "url": "https://www.openware.com/solution/decentralized-crypto-exchange-platform"
+    },
+    "zebpay.com": {
+        "url": "https://zebpay.com/blog/what-is-a-decentralised-exchange"
+    },
+    "withpersona.com": {
+        "url": "https://withpersona.com/blog/decentralized-exchanges-and-kyc"
+    },
+    "blockworks.co": {
+        "url": "https://blockworks.co/news/native-bitcoin-in-defi-this-dex-wants-to-boost-trust"
+    },
+    "kriptomat.io": {
+        "url": "https://kriptomat.io/cryptocurrencies/what-is-dex/"
+    },
+    "medium.com": {
+        "url": "https://medium.com/blockchain/block-by-block-dex-c113342b0493"
+    },
+    "corporatefinanceinstitute.com": {
+        "url": "https://corporatefinanceinstitute.com/resources/cryptocurrency/cryptocurrency-exchanges/"
+    },
+    "alicebiometrics.com": {
+        "url": "https://alicebiometrics.com/en/the-problem-of-dex-regulation-and-how-to-solve-it/"
+    },
+    "atomicdex.io": {
+        "url": "https://atomicdex.io/en/"
+    },
+    "www.reuters.com": {
+        "url": "https://www.reuters.com/markets/currencies/cryptoverse-lets-talk-about-dex-baby-2022-11-22/"
+    },
+    "www.ledger.com": {
+        "url": "https://www.ledger.com/academy/crypto/what-is-a-dex-decentralized-exchanges-explained"
+    },
+    "www.youtube.com": {
+        "url": "https://www.youtube.com/watch?v=aL-FqSY0fFM"
+    },
+    "coingeek.com": {
+        "url": "https://coingeek.com/a-case-for-dex-on-bitcoin/"
+    },
+    "en.wikipedia.org": {
+        "url": "https://en.wikipedia.org/wiki/Decentralized_finance"
+    },
+    "www.reddit.com": {
+        "url": "https://www.reddit.com/r/Bitcoin/comments/t9vcl9/there_is_a_decentralized_exchange_dex_built_on/"
+    },
+    "play.google.com": {
+        "url": "https://play.google.com/store/apps/details?id=com.wallet.dex&hl=en_US&gl=US"
+    }
+}
