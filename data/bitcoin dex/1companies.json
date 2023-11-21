@@ -1,113 +1,238 @@
 {
     "www.bitcoin.com": {
-        "url": "https://www.bitcoin.com/get-started/what-is-a-dex/"
+        "url": "https://www.bitcoin.com/get-started/what-is-a-dex/",
+        "nature": "single project"
     },
     "trustmachines.co": {
-        "url": "https://trustmachines.co/learn/bitcoin-decentralized-exchanges/"
+        "url": "https://trustmachines.co/learn/bitcoin-decentralized-exchanges/",
+        "nature": "single project"
     },
     "www.coinbase.com": {
-        "url": "https://www.coinbase.com/learn/crypto-basics/what-is-a-dex"
+        "url": "https://www.coinbase.com/learn/crypto-basics/what-is-a-dex",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.gemini.com": {
-        "url": "https://www.gemini.com/cryptopedia/decentralized-exchange-crypto-dex"
+        "url": "https://www.gemini.com/cryptopedia/decentralized-exchange-crypto-dex",
+        "nature": "Invalid: DDOS protection screen"
     },
     "defiprime.com": {
-        "url": "https://defiprime.com/exchanges"
+        "url": "https://defiprime.com/exchanges",
+        "nature": "list of projects"
     },
     "bisq.network": {
-        "url": "https://bisq.network/"
+        "url": "https://bisq.network/",
+        "nature": "Invalid: DDOS protection screen",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:yObRa29RivgJ:https://bisq.network/&hl=en&gl=us",
+        "sourcekeyword": "Bisq:  peer-to-peer desktop application for buying and selling cryptocurrencies"
     },
     "cointelegraph.com": {
-        "url": "https://cointelegraph.com/learn/what-are-decentralized-exchanges-and-how-do-dexs-work"
+        "url": "https://cointelegraph.com/learn/what-are-decentralized-exchanges-and-how-do-dexs-work",
+        "nature": "Invalid: This is a website page from Cointelegraph that provides information about decentralized exchanges (DEXs) and how they work. It does not mention any specific products, services, or solutions of companies."
     },
     "chain.link": {
-        "url": "https://chain.link/education-hub/what-is-decentralized-exchange-dex"
+        "url": "https://chain.link/education-hub/what-is-decentralized-exchange-dex",
+        "nature": "single project"
     },
     "www.coindesk.com": {
-        "url": "https://www.coindesk.com/learn/what-is-a-dex-how-decentralized-crypto-exchanges-work"
+        "url": "https://www.coindesk.com/learn/what-is-a-dex-how-decentralized-crypto-exchanges-work",
+        "nature": "unknown"
     },
     "dex-trade.com": {
-        "url": "https://dex-trade.com/"
+        "url": "https://dex-trade.com/",
+        "nature": "single project"
     },
     "www.coingecko.com": {
-        "url": "https://www.coingecko.com/en/exchanges/decentralized"
+        "url": "https://www.coingecko.com/en/exchanges/decentralized",
+        "nature": "Invalid: DDOS protection screen"
     },
     "fortune.com": {
-        "url": "https://fortune.com/crypto/crash-course/dexes/"
+        "url": "https://fortune.com/",
+        "nature": "list of projects",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:FbIbUSaplY8J:https://fortune.com/&hl=en&gl=us",
+        "sourcekeyword": "Fortune:  Crypto Crash Course"
     },
     "coinledger.io": {
-        "url": "https://coinledger.io/tools/best-decentralized-exchanges"
+        "url": "https://coinledger.io/tools/best-decentralized-exchanges",
+        "nature": "single project"
     },
     "www.tastycrypto.com": {
-        "url": "https://www.tastycrypto.com/defi/decentralized-crypto-exchange-explained/"
+        "url": "https://www.tastycrypto.com/defi/decentralized-crypto-exchange-explained/",
+        "nature": "single project"
     },
     "coinmarketcap.com": {
-        "url": "https://coinmarketcap.com/rankings/exchanges/dex/"
+        "url": "https://coinmarketcap.com/rankings/exchanges/dex/",
+        "nature": "Invalid: This is a DDOS protection screen."
     },
     "www.okx.com": {
-        "url": "https://www.okx.com/learn/best-decentralized-exchanges"
+        "url": "https://www.okx.com/learn/best-decentralized-exchanges",
+        "nature": "single project"
     },
     "www.theblock.co": {
-        "url": "https://www.theblock.co/data/decentralized-finance/dex-non-custodial"
+        "url": "https://www.theblock.co/data/decentralized-finance/dex-non-custodial",
+        "nature": "single project"
     },
     "thorchain.org": {
-        "url": "https://thorchain.org/"
+        "url": "https://thorchain.org/",
+        "nature": "single project"
     },
     "www.sofi.com": {
-        "url": "https://www.sofi.com/learn/content/decentralized-exchange/"
+        "url": "https://www.sofi.com/learn/content/decentralized-exchange/",
+        "nature": "single project"
     },
     "dexilon.io": {
-        "url": "https://dexilon.io/blog/best-decentralized-exchange-for-crypto/"
+        "url": "https://dexilon.io/blog/best-decentralized-exchange-for-crypto/",
+        "nature": "single project"
     },
     "crypto.com": {
-        "url": "https://crypto.com/price/categories/dex"
+        "url": "https://crypto.com/price/categories/dex",
+        "nature": "single project"
     },
     "www.openware.com": {
-        "url": "https://www.openware.com/solution/decentralized-crypto-exchange-platform"
+        "url": "https://www.openware.com/solution/decentralized-crypto-exchange-platform",
+        "nature": "single project"
     },
     "zebpay.com": {
-        "url": "https://zebpay.com/blog/what-is-a-decentralised-exchange"
+        "url": "https://zebpay.com/blog/what-is-a-decentralised-exchange",
+        "nature": "single project"
     },
     "withpersona.com": {
-        "url": "https://withpersona.com/blog/decentralized-exchanges-and-kyc"
+        "url": "https://withpersona.com/blog/decentralized-exchanges-and-kyc",
+        "nature": "Invalid: DDOS protection screen"
     },
     "blockworks.co": {
-        "url": "https://blockworks.co/news/native-bitcoin-in-defi-this-dex-wants-to-boost-trust"
+        "url": "https://blockworks.co/news/native-bitcoin-in-defi-this-dex-wants-to-boost-trust",
+        "nature": "single project"
     },
     "kriptomat.io": {
-        "url": "https://kriptomat.io/cryptocurrencies/what-is-dex/"
+        "url": "https://kriptomat.io/cryptocurrencies/what-is-dex/",
+        "nature": "single project"
     },
     "medium.com": {
-        "url": "https://medium.com/blockchain/block-by-block-dex-c113342b0493"
+        "url": "https://medium.com/blockchain/block-by-block-dex-c113342b0493",
+        "nature": "single project"
     },
     "corporatefinanceinstitute.com": {
-        "url": "https://corporatefinanceinstitute.com/resources/cryptocurrency/cryptocurrency-exchanges/"
+        "url": "https://corporatefinanceinstitute.com/resources/cryptocurrency/cryptocurrency-exchanges/",
+        "nature": "single project"
     },
     "alicebiometrics.com": {
-        "url": "https://alicebiometrics.com/en/the-problem-of-dex-regulation-and-how-to-solve-it/"
+        "url": "https://alicebiometrics.com/en/the-problem-of-dex-regulation-and-how-to-solve-it/",
+        "nature": "single project"
     },
     "atomicdex.io": {
-        "url": "https://atomicdex.io/en/"
+        "url": "https://atomicdex.io/en/",
+        "nature": "single project"
     },
     "www.reuters.com": {
-        "url": "https://www.reuters.com/markets/currencies/cryptoverse-lets-talk-about-dex-baby-2022-11-22/"
+        "url": "https://www.reuters.com/markets/currencies/cryptoverse-lets-talk-about-dex-baby-2022-11-22/",
+        "nature": "single project"
     },
     "www.ledger.com": {
-        "url": "https://www.ledger.com/academy/crypto/what-is-a-dex-decentralized-exchanges-explained"
+        "url": "https://www.ledger.com/academy/crypto/what-is-a-dex-decentralized-exchanges-explained",
+        "nature": "single project"
     },
     "www.youtube.com": {
-        "url": "https://www.youtube.com/watch?v=aL-FqSY0fFM"
+        "url": "https://www.youtube.com/watch?v=aL-FqSY0fFM",
+        "nature": "Invalid: This input appears to be a search query or an error message from a website."
     },
     "coingeek.com": {
-        "url": "https://coingeek.com/a-case-for-dex-on-bitcoin/"
+        "url": "https://coingeek.com/a-case-for-dex-on-bitcoin/",
+        "nature": "single project"
     },
     "en.wikipedia.org": {
-        "url": "https://en.wikipedia.org/wiki/Decentralized_finance"
+        "url": "https://en.wikipedia.org/wiki/Decentralized_finance",
+        "nature": "Invalid: This is the Wikipedia page for \"Decentralized finance\" and does not mention any specific products, services, or solutions of companies."
     },
     "www.reddit.com": {
-        "url": "https://www.reddit.com/r/Bitcoin/comments/t9vcl9/there_is_a_decentralized_exchange_dex_built_on/"
+        "url": "https://www.reddit.com/r/Bitcoin/comments/t9vcl9/there_is_a_decentralized_exchange_dex_built_on/",
+        "nature": "Invalid: This is a Reddit post discussing decentralized exchanges (DEX) built on Bitcoin. There is no mention of specific companies or their products/services."
     },
     "play.google.com": {
-        "url": "https://play.google.com/store/apps/details?id=com.wallet.dex&hl=en_US&gl=US"
+        "url": "https://play.google.com/store/apps/details?id=com.wallet.dex&hl=en_US&gl=US",
+        "nature": "single project"
+    },
+    "rhino.fi": {
+        "url": "https://rhino.fi/",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:4lSvsqXYFt4J:https://rhino.fi/&hl=en&gl=us",
+        "sourcekeyword": "RhinoFi:  hybrid Ethereum exchange platform providing access to spot trading",
+        "nature": "single project"
+    },
+    "1inch.exchange": {
+        "url": "https://1inch.exchange/",
+        "cached_url": "not found",
+        "sourcekeyword": "1inch.exchange:  split the order to several decentralized exchanges",
+        "nature": "Invalid: DDOS protection screen"
+    },
+    "pancakeswap.finance": {
+        "url": "https://pancakeswap.finance/",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:j4CoTtkVoJIJ:https://pancakeswap.finance/&hl=en&gl=us",
+        "sourcekeyword": "PancakeSwap:  Binance Smart Chain based AMM exchange",
+        "nature": "single project"
+    },
+    "www.osmosis.org": {
+        "url": "https://www.osmosis.org/",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:z7Y8qM5emrYJ:https://www.osmosis.org/&hl=en&gl=us",
+        "sourcekeyword": "Osmosis:  automated market maker protocol with cross-chain transactions",
+        "nature": "single project"
+    },
+    "www.airswap.io": {
+        "url": "https://www.airswap.io/",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:8ahgjpG3gYAJ:https://www.airswap.io/&hl=en&gl=us",
+        "sourcekeyword": "AirSwap:  peer-to-peer token trading on Ethereum",
+        "nature": "single project"
+    },
+    "swap.cow.fi": {
+        "url": "https://swap.cow.fi/",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:cav0K0tbwGQJ:https://swap.cow.fi/&hl=en&gl=us",
+        "sourcekeyword": "CowSwap:  trading interface built on top of Gnosis Protocol v2",
+        "nature": "single project"
+    },
+    "www.traderjoes.com": {
+        "url": "https://www.traderjoes.com/home",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:bY7l2loQ1N8J:https://www.traderjoes.com/home&hl=en&gl=us",
+        "sourcekeyword": "Trader Joe:  decentralized trading platform on Avalanche",
+        "nature": "single project"
+    },
+    "quickswap.exchange": {
+        "url": "https://quickswap.exchange/",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:1JW2EYpyOysJ:https://quickswap.exchange/&hl=en&gl=us",
+        "sourcekeyword": "Quickswap:  permissionless decentralized exchange based on Polygon Layer 2",
+        "nature": "Invalid: DDOS protection screen"
+    },
+    "www.paraswap.io": {
+        "url": "https://www.paraswap.io/",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:q2w3U-J7OBcJ:https://www.paraswap.io/&hl=en&gl=us",
+        "sourcekeyword": "ParaSwap:  decentralized exchange aggregator",
+        "nature": "single project"
+    },
+    "www.sushi.com": {
+        "url": "https://www.sushi.com/",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:7QvW0ojBWsIJ:https://www.sushi.com/&hl=en&gl=us",
+        "sourcekeyword": "SushiSwap:  exchange for swapping ERC20 tokens through automated liquidity pools",
+        "nature": "single project"
+    },
+    "dydx.exchange": {
+        "url": "https://dydx.exchange/",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:dxKpp7GUOWkJ:https://dydx.exchange/&hl=en&gl=us",
+        "sourcekeyword": "dYdX:  trading platform for crypto assets",
+        "nature": "single project"
+    },
+    "balancer.fi": {
+        "url": "https://balancer.fi/",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:3DU6GBBLrC8J:https://balancer.fi/&hl=en&gl=us",
+        "sourcekeyword": "Balancer:  allow you to swap ERC20 tokens trustlessly",
+        "nature": "list of projects"
+    },
+    "bancor.network": {
+        "url": "https://bancor.network/",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:1_6rRkGtfcQJ:https://bancor.network/&hl=en&gl=us",
+        "sourcekeyword": "Bancor:  on-chain liquidity protocol for token exchange",
+        "nature": "single project"
+    },
+    "uniswap.org": {
+        "url": "https://uniswap.org/",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:DY7_IqMYGsUJ:https://uniswap.org/&hl=en&gl=us",
+        "sourcekeyword": "Uniswap:  automated fully decentralized token exchange on Ethereum",
+        "nature": "single project"
     }
 }

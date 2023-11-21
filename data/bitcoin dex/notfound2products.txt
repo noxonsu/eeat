@@ -1,0 +1,7 @@
+Saber:  cross-chain stablecoin exchange on Solana -> Saber
+List of projects:  -> List of projects
+Orca:  decentralized protocol for trades on Solana -> Orca
+IDEX:  non-custodial exchange integrating with any custody solution -> IDEX
+Mesa:  open source interface for Gnosis Protocol -> Mesa
+Matcha:  crypto trading platform with smart order routing -> Matcha
+Dodo:  on-chain liquidity provider leveraging Proactive Market Maker algorithm -> Dodo
