@@ -13,6 +13,10 @@ on:
         description: 'keyword to find a prices page in google '
         required: true
         default: 'prices' # You can change the default value        
+      ADDITIONAL_INFO:
+        description: 'another important info '
+        required: false
+        default: '' # You can change the default value        
 
 jobs:
   run-scripts:
