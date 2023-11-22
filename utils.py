@@ -1,6 +1,7 @@
 from urllib.parse import urlparse
 import os
 import re
+import requests
 import json
 from serpapi import GoogleSearch
 from bs4 import BeautifulSoup
