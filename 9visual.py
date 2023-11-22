@@ -26,6 +26,9 @@ from langchain.memory import ConversationSummaryBufferMemory
 from utils import *
 import markdown
 
+BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
+SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-1106')
+
 # Function to check if existing domains are included in the output
 def check_domains_in_output(existedDomainList, output, article_index):
     for existedDomain in existedDomainList:
@@ -85,14 +88,12 @@ if __name__ == "__main__":
     if (gen == True):
         start = time.time()
         try:
-            mod = "gpt-4-1106-preview" #gpt-4-1106-preview
+            mod = SMART_GPTV #gpt-4-1106-preview
             chat = ChatOpenAI(model_name=mod)
             response = chat(messages)
             print(mod)
         except:
-            print(".16k")
-            chat = ChatOpenAI(temperature=0, model_name="gpt-4-1106-preview")
-            response = chat(messages)
+            raise Exception("Failed to get response from llm")
             
         
         end = time.time()

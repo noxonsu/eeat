@@ -11,7 +11,7 @@ SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 KEYWORD_FOR_SERP = os.environ.get('KEYWORD_FOR_SERP', INDUSTRY_KEYWORD)
-
+BASE_GPTV= os.environ.get('BASE_GPTV','gpt-3.5-turbo')
 if not SERPAPI_KEY:
     print("Please set the SERPAPI_KEY environment variable.")
     exit()
@@ -22,7 +22,7 @@ def extract_company_urls_from_serp(serp_content, industry_query):
         prompt = f"Analyse SERP and Identify sites based on a given Google search query. '{industry_query}'. Return only list of urls if found. Return only JSON with urls.\n\n{serp_content}\n\n "
         
         response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo-1106",  # Update this to the model you're using
+            model=BASE_GPTV,  # Update this to the model you're using
             response_format={ "type": "json_object" },
             messages=[
                 {"role": "system", "content": prompt}

@@ -31,6 +31,8 @@ from utils import *
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 ADDITIONAL_INFO = os.environ.get('ADDITIONAL_INFO','')
 SERP_PRICES_EXT = os.getenv('SERP_PRICES_EXT')
+BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
+SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-1106')
 
 cfl = load_from_json_file("7key_features_optimized.json","data/"+INDUSTRY_KEYWORD)
 # Check if exists.
@@ -95,15 +97,12 @@ def get_company_details(company):
     ]
     start = time.time()
     try:
-        chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
+        chat = ChatOpenAI(temperature=0, model_name=BASE_GPTV)
         response = chat(messages)
         json1 = json.loads(response.content)
-        print("gpt-3.5-turbo-16k")
+        print(" Extract details of the company using the LLMChain "+BASE_GPTV)
     except:
-        chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
-        response = chat(messages)
-        json1 = json.loads(response.content)
-        print(".16k")
+        raise Exception("Failed to get response from")
     
     end = time.time()
     print("Time to get response1: "+str(end - start))
@@ -118,16 +117,11 @@ def get_company_details(company):
     start = time.time()
     
     try:
-        mod = "gpt-4-1106-preview" #gpt-4-1106-preview
-        chat = ChatOpenAI(temperature=0, model_name=mod)
+        chat = ChatOpenAI(temperature=0, model_name=SMART_GPTV)
         response = chat(messages)
-        print(mod)
+        print("Find "+SERP_PRICES_EXT+" and determin business model "+SMART_GPTV)
     except Exception as e:
-        print(e)
-        mod = "gpt-4-1106-preview"
-        chat = ChatOpenAI(temperature=0, model_name=mod)
-        response = chat(messages)
-        print(mod)
+        raise Exception("Failed to get response from")
 
 
     #save response.content to tmp.json
@@ -137,7 +131,6 @@ def get_company_details(company):
     response.content = re.sub(r'```', '', response.content)
     response.content = re.sub(r'json', '', response.content)
     json2 = json.loads(response.content)
-    print(mod)
 
 
     end = time.time()

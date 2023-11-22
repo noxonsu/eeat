@@ -8,6 +8,8 @@ SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 KEYWORD_FOR_SERP = os.environ.get('KEYWORD_FOR_SERP', INDUSTRY_KEYWORD)
+BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
+SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-1106')
 async def fetch_page_content(url):
     async with async_playwright() as p:
         browser = await p.chromium.launch()
@@ -26,7 +28,7 @@ def create_about_autor(resume, industry_query):
         )
         
     response = openai.Completion.create(
-            engine="gpt-3.5-turbo-1106",
+            engine=BASE_GPTV,
             prompt=prompt,
             max_tokens=1024,
             n=1,

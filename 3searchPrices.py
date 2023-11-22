@@ -12,14 +12,14 @@ WHOISJSONAPI = os.getenv('WHOISJSONAPI')
 COMPAREPRICES = os.getenv('COMPAREPRICES')
 SERP_PRICES_EXT = os.getenv('SERP_PRICES_EXT') or exit("SERP_PRICES_EXT is not defined. Please define it in .env file if you want to use this script.")
 DATA_FOLDER = f"data/{INDUSTRY_KEYWORD}"
-
+BASE_GPTV= os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
 
 def find_link_to_plans(serp_content, domain_data):
     """ Use GPT to find the link to the plans page from SERP content. """
     print(serp_content)
     try:
         response = openai.ChatCompletion.create(
-            model="gpt-4-1106-preview",  # Update this to the model you're using
+            model=BASE_GPTV,  # Update this to the model you're using
             response_format={"type": "json_object"},
             temperature=0,
             messages=[

@@ -24,7 +24,8 @@ from langchain.chains.conversation.memory import ConversationBufferMemory
 from langchain.memory import ConversationSummaryBufferMemory
 
 from utils import *
-
+BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
+SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-1106')
 
 # Function to check if existing domains are included in the output
 def check_domains_in_output(existedDomainList, output, article_index):
@@ -60,16 +61,6 @@ Keep domain names in article.
     ]
 )
 
-# Initialize the ConversationBufferMemory and LLMChain
-llm1 = ChatOpenAI(temperature=0, max_tokens=3600, model_name="gpt-4")
-memory1 = ConversationSummaryBufferMemory(llm=llm1, max_token_limit=1000, return_messages=True)
-conversation1 = ConversationChain(llm=llm1, prompt=prompt, memory=memory1)
-
-llm2 = ChatOpenAI(temperature=0, max_tokens=10000, model_name="gpt-3.5-turbo-16k")
-memory2 = ConversationSummaryBufferMemory(llm=llm2, max_token_limit=3000, return_messages=True)
-conversation2 = ConversationChain(llm=llm2, prompt=prompt, memory=memory2)
-
-llm1 = llm2
 
 if __name__ == "__main__":
     # Load data from the /data folder
@@ -96,16 +87,12 @@ if __name__ == "__main__":
 
     start = time.time()
     try:
-        mod = "gpt-4-1106-preview" #gpt-4-1106-preview
+        mod = SMART_GPTV #gpt-4-1106-preview
         chat = ChatOpenAI(temperature=0, model_name=mod)
         response = chat(messages)
-        print(mod)
+        print("Pricing using "+mod)
     except Exception as e:
-        mod = "gpt-4-1106-preview" #gpt-4-1106-preview
-        print(e)
-        print(".16k")
-        #chat = ChatOpenAI(temperature=0, model_name=mod)
-        #response = chat(messages)
+        raise Exception("Failed to get response from")
         
     
     end = time.time()
@@ -119,4 +106,4 @@ if __name__ == "__main__":
                 f.write(json.dumps(datatoAdd))
 
 
-print("done")
+print("8visual done \n\n ")

@@ -13,6 +13,7 @@ OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 SERP_PRICES_EXT = os.environ.get('SERP_PRICES_EXT')
 data_folder = f"data/{INDUSTRY_KEYWORD}"
+BASE_GPTV= os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
 
 if not SERPAPI_KEY:
     print("Please set the SERPAPI_KEY environment variable.")
@@ -20,7 +21,7 @@ if not SERPAPI_KEY:
 
 def findOfficialDomain(serp, project_name):
     
-    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
+    chat = ChatOpenAI(temperature=0, model_name=BASE_GPTV)
     messages = [
         SystemMessage(content="Analyse SERP and find the official domain URL (frontpoage only) of the project named '"+project_name+"'. Return only url starts with https://. If not found or or is not frontpage return 'Not found' or 'Not frontpage''"),
         HumanMessage(content=f" {serp} \n\n The official url is: ")

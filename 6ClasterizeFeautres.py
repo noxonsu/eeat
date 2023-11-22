@@ -28,12 +28,13 @@ WHOISJSONAPI= os.environ.get('WHOISJSONAPI')
 # Load the data
 data_folder = f"data/{INDUSTRY_KEYWORD}"
 companies_file = ""
-
+BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
+SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-1106')
 
 
 def clusterize_key_features(key_features):
 
-    llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k")
+    llm = ChatOpenAI(temperature=0, model_name=BASE_GPTV)
 
     # Create the ChatPromptTemplate
     prompt = ChatPromptTemplate(
@@ -81,7 +82,7 @@ Then Improve the product feature list by eliminating irrelevant and uninformativ
 Use this framework for a thorough optimization of your product feature list. After optimization, present the result in the form of a list and a brief introduction, mentioning what this list represents, how many companies were analyzed, and the total number of features gathered. Return as json with fields: title, intro, features (with subcategories)
 
  """
-    mod = "gpt-4-1106-preview" #gpt-3.5-turbo-16k
+    mod = SMART_GPTV #gpt-3.5-turbo-16k
     chat = ChatOpenAI(temperature=0, model_name=mod)
     messages = [
         SystemMessage(content=prompt),

@@ -25,11 +25,11 @@ def load_data_without_nature(filename):
 def load_products(filename):
     return load_from_json_file(filename)
 
-
+BASE_GPTV= os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
 
 def is_product_or_list(summary, company_products):
     #summary = summary[:45000]
-    chat = ChatOpenAI(temperature=0, model_name="gpt-4-1106-preview") #gpt-4-1106-preview
+    chat = ChatOpenAI(temperature=0, model_name=BASE_GPTV) #gpt-4-1106-preview
     messages = [
         SystemMessage(content="Identify the products, services, or solutions of companies mentioned in the text. If the products or services is associated with the one company, provide the output as 'All products/services mentioned belong to the one company [Company_name]'. If there a list of products services or projects are from different companies in the text say 'Yes, this list of products belongs to different companies.'. If input looks like invalid or DDOS protection screen or explain article/blog return 'Invalid:[reason]'"),
         HumanMessage(content=summary)
