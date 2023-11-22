@@ -1,0 +1,1 @@
+{"bitcoin.org": {"status": "success", "priceAndPlans": {"donationOptions": [{"amount": "$5.00", "bitcoinAmount": "(... BTC)"}, {"amount": "$25.00", "bitcoinAmount": "(... BTC)"}, {"amount": "$50.00", "bitcoinAmount": "(... BTC)"}], "businessModel": "Donation-based"}}}

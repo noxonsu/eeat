@@ -1,10 +1,22 @@
 ```json
 {
-  "status": "found",
+  "status": "success",
   "priceAndPlans": {
-    "Outbound Fee": "A fixed fee to cover outbound gas cost and a network fee, deducted from the outbound amount. The network fee is collected in RUNE and sent to the Protocol Reserve.",
-    "Slip-Based Fee": "A liquidity-sensitive fee, proportional to the size of the transaction over the depth of the market. Retained on the output side of the pool to counter the trade direction.",
-    "Network Fee": "A fee paid by users to make transactions on the THORChain ledger. It is fixed and available on the `/constants` endpoint, but intended to be dynamic and set to a fixed $ quantity of assets."
+    "donationOptions": [
+      {
+        "amount": "$5.00",
+        "bitcoinAmount": "(... BTC)"
+      },
+      {
+        "amount": "$25.00",
+        "bitcoinAmount": "(... BTC)"
+      },
+      {
+        "amount": "$50.00",
+        "bitcoinAmount": "(... BTC)"
+      }
+    ],
+    "businessModel": "Donation-based"
   }
 }
 ```

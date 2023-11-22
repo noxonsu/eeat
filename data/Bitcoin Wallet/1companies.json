@@ -1,0 +1,173 @@
+{
+    "bitcoin.org": {
+        "url": "https://bitcoin.org/en/choose-your-wallet",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://bitcoin.org/en/bitcoin-for-individuals",
+        "5prompt_Hash": "eae4232f4d9e8628db1b10ececf37364"
+    },
+    "wallet.bitcoin.com": {
+        "url": "https://wallet.bitcoin.com/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "play.google.com": {
+        "url": "https://play.google.com/store/apps/details?id=de.schildbach.wallet&hl=en_US&gl=US",
+        "nature": "Invalid (single). Invalid: The project mentioned in the text is a Bitcoin Wallet app available on the Google Play Store, but it is not a project that works with Bitcoin."
+    },
+    "paxful.com": {
+        "url": "https://paxful.com/bitcoin-wallet",
+        "nature": "Invalid (single). Invalid: The provided information is about the Paxful platform, which facilitates the buying and selling of Bitcoin, Tether, and USD Coin, as well as other services related to cryptocurrencies. However, not all projects work with Bitcoin, and the information provided does not indicate that all projects work with Bitcoin."
+    },
+    "www.coinbase.com": {
+        "url": "https://www.coinbase.com/",
+        "nature": "Invalid: The input provided is an error log and does not contain relevant information about products, services, or solutions."
+    },
+    "www.nerdwallet.com": {
+        "url": "https://www.nerdwallet.com/article/investing/best-bitcoin-cryptocurrency-wallet",
+        "nature": "list of projects"
+    },
+    "www.exodus.com": {
+        "url": "https://www.exodus.com/bitcoin-wallet/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.investopedia.com": {
+        "url": "https://www.investopedia.com/terms/b/bitcoin-wallet.asp",
+        "nature": "list of projects"
+    },
+    "apps.apple.com": {
+        "url": "https://apps.apple.com/us/app/trust-crypto-bitcoin-wallet/id1288339409",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "electrum.org": {
+        "url": "https://electrum.org/",
+        "nature": "Invalid (single). Invalid: This project is specifically related to the Electrum Bitcoin wallet, not Bitcoin in general."
+    },
+    "trezor.io": {
+        "url": "https://trezor.io/",
+        "nature": "Invalid (single). Invalid: This is a website for Trezor, a hardware wallet for cryptocurrencies, but it does not specifically mention working with Bitcoin."
+    },
+    "www.washingtonpost.com": {
+        "url": "https://www.washingtonpost.com/technology/2023/11/14/bitcoin-wallet-passcode-flaw/",
+        "nature": "Invalid: The input provided is an error log and does not contain relevant information about products, services, or solutions."
+    },
+    "www.cnet.com": {
+        "url": "https://www.cnet.com/personal-finance/investing/crypto/the-best-bitcoin-and-crypto-wallets/",
+        "nature": "list of projects"
+    },
+    "www.businessinsider.com": {
+        "url": "https://www.businessinsider.com/personal-finance/best-bitcoin-wallet",
+        "nature": "list of projects"
+    },
+    "www.blockchain.com": {
+        "url": "https://www.blockchain.com/wallet",
+        "nature": "Invalid (single). Invalid: The provided information is about a specific company and its products and services related to cryptocurrency, but it does not indicate that all projects work with Bitcoin."
+    },
+    "en.wikipedia.org": {
+        "url": "https://en.wikipedia.org/wiki/Cryptocurrency_wallet",
+        "nature": "Invalid (single). Invalid: This is a Wikipedia article about cryptocurrency wallets and does not necessarily imply that all projects work with Bitcoin."
+    },
+    "www.ledger.com": {
+        "url": "https://www.ledger.com/",
+        "nature": "Invalid (single). Invalid: The project is related to Ledger, a hardware wallet company, and does not explicitly state that it works with Bitcoin."
+    },
+    "99bitcoins.com": {
+        "url": "https://99bitcoins.com/bitcoin-wallet/",
+        "nature": "list of projects"
+    },
+    "wallet.mycelium.com": {
+        "url": "https://wallet.mycelium.com/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://wallet.mycelium.com/download/privacy.txt"
+    },
+    "cointelegraph.com": {
+        "url": "https://cointelegraph.com/learn/bitcoin-wallets-a-beginners-guide-to-storing-btc",
+        "nature": "Invalid (single). Invalid: The provided information is about Bitcoin and Bitcoin wallets, but it does not explicitly state that all projects work with Bitcoin."
+    },
+    "www.forbes.com": {
+        "url": "https://www.forbes.com/advisor/investing/cryptocurrency/what-is-a-bitcoin-wallet/",
+        "nature": "Invalid: Timeout error occurred while trying to access the website."
+    },
+    "freewallet.org": {
+        "url": "https://freewallet.org/btc-wallet",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://freewallet.org/fees"
+    },
+    "wallet.cex.io": {
+        "url": "https://wallet.cex.io/",
+        "nature": "Invalid (single). Invalid: This project is not exclusively focused on Bitcoin. It offers a wide range of cryptocurrencies and services, including buying, selling, and storing various virtual currencies."
+    },
+    "github.com": {
+        "url": "https://github.com/bitcoin-wallet/bitcoin-wallet",
+        "nature": "Invalid (single). Invalid: This project is related to a Bitcoin Wallet app for Android devices, but it does not necessarily mean that all projects work with Bitcoin."
+    },
+    "atomicwallet.io": {
+        "url": "https://atomicwallet.io/bitcoin-wallet",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://support.atomicwallet.io/article/76-how-to-send-an-asset-in-atomic-wallet"
+    },
+    "bitpay.com": {
+        "url": "https://bitpay.com/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "trustwallet.com": {
+        "url": "https://trustwallet.com/",
+        "nature": "Invalid (single). Invalid: The project mentioned in the text is Trust Wallet, which is a cryptocurrency wallet and browser extension, but it does not exclusively work with Bitcoin. It supports a wide range of cryptocurrencies and blockchain networks."
+    },
+    "btcdirect.eu": {
+        "url": "https://btcdirect.eu/en-gb/bitcoin-wallet",
+        "nature": "Invalid (single). Invalid: This project provides information and services related to various cryptocurrencies, not just Bitcoin."
+    },
+    "bitcoinwallet.com": {
+        "url": "https://bitcoinwallet.com/",
+        "nature": "Invalid (single). invalid: This is a description of a specific Bitcoin wallet service and blockchain explorer, but not all projects work with Bitcoin."
+    },
+    "paybis.com": {
+        "url": "https://paybis.com/bitcoin-wallet/",
+        "nature": "Invalid (single). Invalid: This project is a website for a cryptocurrency exchange and wallet service, but it does not exclusively work with Bitcoin. It supports multiple cryptocurrencies and provides services for buying, selling, and storing various digital assets."
+    },
+    "bitcoiner.guide": {
+        "url": "https://bitcoiner.guide/wallet/",
+        "nature": "list of projects"
+    },
+    "www.cointracker.io": {
+        "url": "https://www.cointracker.io/wallet/bitcoin",
+        "nature": "Invalid: The input provided is an error log and does not contain relevant information about products, services, or solutions."
+    },
+    "edge.app": {
+        "url": "https://edge.app/bitcoin-wallet/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://support.edge.app/hc/en-us/articles/7073444543643-How-do-I-set-the-BTC-mining-fee-"
+    },
+    "bluewallet.io": {
+        "url": "https://bluewallet.io/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://bluewallet.io/features/"
+    },
+    "uphold.com": {
+        "url": "https://uphold.com/en-us/digital-wallet/bitcoin-wallet",
+        "nature": "Invalid (single). Invalid: The project is about Bitcoin wallets and provides information about different types of Bitcoin wallets, but it does not necessarily work with Bitcoin itself."
+    },
+    "www.thebalancemoney.com": {
+        "url": "https://www.thebalancemoney.com/best-bitcoin-wallets-4160642",
+        "nature": "list of projects"
+    },
+    "bitcoin-wallet.org": {
+        "url": "https://bitcoin-wallet.org/",
+        "nature": "Invalid (single). Invalid: This is a phishing scam. The website bitcoin-wallet.org is not a legitimate Bitcoin wallet service. It is important to be cautious and only use reputable and secure platforms for managing Bitcoin and other cryptocurrencies."
+    },
+    "river.com": {
+        "url": "https://river.com/learn/how-do-bitcoin-wallets-work/",
+        "nature": "list of projects"
+    },
+    "money.com": {
+        "url": "https://money.com/best-crypto-wallets/",
+        "nature": "list of projects"
+    },
+    "www.pcmag.com": {
+        "url": "https://www.pcmag.com/picks/the-best-bitcoin-wallets",
+        "nature": "unknown"
+    }
+}

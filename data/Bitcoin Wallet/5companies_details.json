@@ -1,0 +1,518 @@
+{
+    "bitcoin.org": {
+        "Bitcoin Wallets": {
+            "Armory": {
+                "operating_systems": [
+                    "Windows",
+                    "Mac",
+                    "Linux"
+                ],
+                "wallet_type": "Desktop",
+                "key_features": [
+                    "Control",
+                    "Validation",
+                    "Transparency",
+                    "Environment",
+                    "Privacy",
+                    "Fees"
+                ],
+                "call_to_action": "Download Armory",
+                "usecases": [
+                    "Individuals",
+                    "Businesses",
+                    "Developers"
+                ],
+                "solutions": "Armory provides full control over funds, operates as a full node, offers open-source transparency, and focuses on security and privacy.",
+                "strengths": "Complete control over funds, full node support, open-source transparency, strong security and privacy features.",
+                "areas_for_improvement": "User interface and ease of use for beginners."
+            },
+            "BitBox02": {
+                "operating_systems": [
+                    "Hardware"
+                ],
+                "wallet_type": "Hardware",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment"
+                ],
+                "call_to_action": "Purchase BitBox02",
+                "usecases": [
+                    "Individuals",
+                    "Businesses",
+                    "Developers"
+                ],
+                "solutions": "BitBox02 offers full control over funds, emphasizes transparency, and provides a secure environment for storing bitcoin.",
+                "strengths": "High security, full control over funds, emphasis on transparency.",
+                "areas_for_improvement": "Integration with mobile and desktop wallets."
+            },
+            "Bitcoin Core": {
+                "operating_systems": [
+                    "Windows",
+                    "Mac",
+                    "Linux"
+                ],
+                "wallet_type": "Desktop",
+                "key_features": [
+                    "Control",
+                    "Validation",
+                    "Transparency",
+                    "Environment",
+                    "Privacy",
+                    "Fees"
+                ],
+                "call_to_action": "Download Bitcoin Core",
+                "usecases": [
+                    "Individuals",
+                    "Businesses",
+                    "Developers"
+                ],
+                "solutions": "Bitcoin Core provides full control over funds, operates as a full node, offers open-source transparency, and focuses on security and privacy.",
+                "strengths": "Complete control over funds, full node support, open-source transparency, strong security and privacy features.",
+                "areas_for_improvement": "User interface and ease of use for beginners."
+            },
+            "Bitcoin Knots": {
+                "operating_systems": [
+                    "Windows",
+                    "Mac",
+                    "Linux"
+                ],
+                "wallet_type": "Desktop",
+                "key_features": [
+                    "Control",
+                    "Validation",
+                    "Transparency",
+                    "Environment",
+                    "Privacy",
+                    "Fees"
+                ],
+                "call_to_action": "Download Bitcoin Knots",
+                "usecases": [
+                    "Individuals",
+                    "Businesses",
+                    "Developers"
+                ],
+                "solutions": "Bitcoin Knots provides full control over funds, operates as a full node, offers open-source transparency, and focuses on security and privacy.",
+                "strengths": "Complete control over funds, full node support, open-source transparency, strong security and privacy features.",
+                "areas_for_improvement": "User interface and ease of use for beginners."
+            },
+            "Bitcoin Wallet": {
+                "operating_systems": [
+                    "Android"
+                ],
+                "wallet_type": "Mobile",
+                "key_features": [
+                    "Control",
+                    "Validation",
+                    "Transparency",
+                    "Environment",
+                    "Privacy",
+                    "Fees"
+                ],
+                "call_to_action": "Download Bitcoin Wallet",
+                "usecases": [
+                    "Individuals"
+                ],
+                "solutions": "Bitcoin Wallet provides full control over funds, operates as a full node, offers open-source transparency, and focuses on security and privacy.",
+                "strengths": "Complete control over funds, full node support, open-source transparency, strong security and privacy features.",
+                "areas_for_improvement": "Integration with other platforms and additional security features."
+            },
+            "Bither": {
+                "operating_systems": [
+                    "iOS",
+                    "Android",
+                    "Windows",
+                    "Mac",
+                    "Linux"
+                ],
+                "wallet_type": "Mobile, Desktop",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment"
+                ],
+                "call_to_action": "Download Bither",
+                "usecases": [
+                    "Individuals",
+                    "Businesses",
+                    "Developers"
+                ],
+                "solutions": "Bither offers full control over funds, emphasizes transparency, and provides a secure environment for storing bitcoin.",
+                "strengths": "High security, full control over funds, emphasis on transparency.",
+                "areas_for_improvement": "User interface and ease of use for beginners."
+            },
+            "BitPay": {
+                "operating_systems": [
+                    "Android",
+                    "iOS",
+                    "Windows",
+                    "Mac",
+                    "Linux"
+                ],
+                "wallet_type": "Mobile, Desktop",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment",
+                    "Privacy",
+                    "Fees"
+                ],
+                "call_to_action": "Download BitPay",
+                "usecases": [
+                    "Individuals",
+                    "Businesses"
+                ],
+                "solutions": "BitPay provides full control over funds, emphasizes transparency, and focuses on security and privacy.",
+                "strengths": "Complete control over funds, emphasis on transparency, strong security and privacy features.",
+                "areas_for_improvement": "Integration with other platforms and additional security features."
+            },
+            "Coldcard": {
+                "operating_systems": [
+                    "Hardware"
+                ],
+                "wallet_type": "Hardware",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment"
+                ],
+                "call_to_action": "Purchase Coldcard",
+                "usecases": [
+                    "Individuals",
+                    "Businesses",
+                    "Developers"
+                ],
+                "solutions": "Coldcard offers full control over funds, emphasizes transparency, and provides a secure environment for storing bitcoin.",
+                "strengths": "High security, full control over funds, emphasis on transparency.",
+                "areas_for_improvement": "Integration with mobile and desktop wallets."
+            },
+            "Edge": {
+                "operating_systems": [
+                    "Android",
+                    "iOS"
+                ],
+                "wallet_type": "Mobile",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment",
+                    "Privacy",
+                    "Fees"
+                ],
+                "call_to_action": "Download Edge",
+                "usecases": [
+                    "Individuals",
+                    "Businesses"
+                ],
+                "solutions": "Edge provides full control over funds, emphasizes transparency, and focuses on security and privacy.",
+                "strengths": "Complete control over funds, emphasis on transparency, strong security and privacy features.",
+                "areas_for_improvement": "Integration with other platforms and additional security features."
+            },
+            "Electrum": {
+                "operating_systems": [
+                    "Windows",
+                    "Mac",
+                    "Linux",
+                    "Android"
+                ],
+                "wallet_type": "Mobile, Desktop",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment",
+                    "Privacy",
+                    "Fees"
+                ],
+                "call_to_action": "Download Electrum",
+                "usecases": [
+                    "Individuals",
+                    "Businesses",
+                    "Developers"
+                ],
+                "solutions": "Electrum provides full control over funds, emphasizes transparency, and focuses on security and privacy.",
+                "strengths": "Complete control over funds, emphasis on transparency, strong security and privacy features.",
+                "areas_for_improvement": "Integration with other platforms and additional security features."
+            },
+            "Green": {
+                "operating_systems": [
+                    "Android",
+                    "iOS",
+                    "Windows",
+                    "Mac",
+                    "Linux"
+                ],
+                "wallet_type": "Mobile, Desktop",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment",
+                    "Privacy",
+                    "Fees"
+                ],
+                "call_to_action": "Download Green",
+                "usecases": [
+                    "Individuals",
+                    "Businesses"
+                ],
+                "solutions": "Green provides full control over funds, emphasizes transparency, and focuses on security and privacy.",
+                "strengths": "Complete control over funds, emphasis on transparency, strong security and privacy features.",
+                "areas_for_improvement": "Integration with other platforms and additional security features."
+            },
+            "Jade": {
+                "operating_systems": [
+                    "Hardware"
+                ],
+                "wallet_type": "Hardware",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment"
+                ],
+                "call_to_action": "Purchase Jade",
+                "usecases": [
+                    "Individuals",
+                    "Businesses",
+                    "Developers"
+                ],
+                "solutions": "Jade offers full control over funds, emphasizes transparency, and provides a secure environment for storing bitcoin.",
+                "strengths": "High security, full control over funds, emphasis on transparency.",
+                "areas_for_improvement": "Integration with mobile and desktop wallets."
+            },
+            "KeepKey": {
+                "operating_systems": [
+                    "Hardware"
+                ],
+                "wallet_type": "Hardware",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment"
+                ],
+                "call_to_action": "Purchase KeepKey",
+                "usecases": [
+                    "Individuals",
+                    "Businesses",
+                    "Developers"
+                ],
+                "solutions": "KeepKey offers full control over funds, emphasizes transparency, and provides a secure environment for storing bitcoin.",
+                "strengths": "High security, full control over funds, emphasis on transparency.",
+                "areas_for_improvement": "Integration with mobile and desktop wallets."
+            },
+            "Ledger Nano S": {
+                "operating_systems": [
+                    "Hardware"
+                ],
+                "wallet_type": "Hardware",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment"
+                ],
+                "call_to_action": "Purchase Ledger Nano S",
+                "usecases": [
+                    "Individuals",
+                    "Businesses",
+                    "Developers"
+                ],
+                "solutions": "Ledger Nano S offers full control over funds, emphasizes transparency, and provides a secure environment for storing bitcoin.",
+                "strengths": "High security, full control over funds, emphasis on transparency.",
+                "areas_for_improvement": "Integration with mobile and desktop wallets."
+            },
+            "Mycelium": {
+                "operating_systems": [
+                    "Android"
+                ],
+                "wallet_type": "Mobile",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment",
+                    "Privacy",
+                    "Fees"
+                ],
+                "call_to_action": "Download Mycelium",
+                "usecases": [
+                    "Individuals",
+                    "Businesses"
+                ],
+                "solutions": "Mycelium provides full control over funds, emphasizes transparency, and focuses on security and privacy.",
+                "strengths": "Complete control over funds, emphasis on transparency, strong security and privacy features.",
+                "areas_for_improvement": "Integration with other platforms and additional security features."
+            },
+            "Passport": {
+                "operating_systems": [
+                    "Hardware"
+                ],
+                "wallet_type": "Hardware",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment"
+                ],
+                "call_to_action": "Purchase Passport",
+                "usecases": [
+                    "Individuals",
+                    "Businesses",
+                    "Developers"
+                ],
+                "solutions": "Passport offers full control over funds, emphasizes transparency, and provides a secure environment for storing bitcoin.",
+                "strengths": "High security, full control over funds, emphasis on transparency.",
+                "areas_for_improvement": "Integration with mobile and desktop wallets."
+            },
+            "Sparrow": {
+                "operating_systems": [
+                    "Windows",
+                    "Mac",
+                    "Linux"
+                ],
+                "wallet_type": "Desktop",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment",
+                    "Privacy",
+                    "Fees"
+                ],
+                "call_to_action": "Download Sparrow",
+                "usecases": [
+                    "Individuals",
+                    "Businesses",
+                    "Developers"
+                ],
+                "solutions": "Sparrow provides full control over funds, emphasizes transparency, and focuses on security and privacy.",
+                "strengths": "Complete control over funds, emphasis on transparency, strong security and privacy features.",
+                "areas_for_improvement": "Integration with other platforms and additional security features."
+            },
+            "Specter": {
+                "operating_systems": [
+                    "Windows",
+                    "Mac",
+                    "Linux"
+                ],
+                "wallet_type": "Desktop",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment",
+                    "Privacy",
+                    "Fees"
+                ],
+                "call_to_action": "Download Specter",
+                "usecases": [
+                    "Individuals",
+                    "Businesses",
+                    "Developers"
+                ],
+                "solutions": "Specter provides full control over funds, emphasizes transparency, and focuses on security and privacy.",
+                "strengths": "Complete control over funds, emphasis on transparency, strong security and privacy features.",
+                "areas_for_improvement": "Integration with other platforms and additional security features."
+            },
+            "Trezor Model T": {
+                "operating_systems": [
+                    "Hardware"
+                ],
+                "wallet_type": "Hardware",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment"
+                ],
+                "call_to_action": "Purchase Trezor Model T",
+                "usecases": [
+                    "Individuals",
+                    "Businesses",
+                    "Developers"
+                ],
+                "solutions": "Trezor Model T offers full control over funds, emphasizes transparency, and provides a secure environment for storing bitcoin.",
+                "strengths": "High security, full control over funds, emphasis on transparency.",
+                "areas_for_improvement": "Integration with mobile and desktop wallets."
+            },
+            "Trezor One": {
+                "operating_systems": [
+                    "Hardware"
+                ],
+                "wallet_type": "Hardware",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment"
+                ],
+                "call_to_action": "Purchase Trezor One",
+                "usecases": [
+                    "Individuals",
+                    "Businesses",
+                    "Developers"
+                ],
+                "solutions": "Trezor One offers full control over funds, emphasizes transparency, and provides a secure environment for storing bitcoin.",
+                "strengths": "High security, full control over funds, emphasis on transparency.",
+                "areas_for_improvement": "Integration with mobile and desktop wallets."
+            },
+            "Unstoppable": {
+                "operating_systems": [
+                    "iOS",
+                    "Android"
+                ],
+                "wallet_type": "Mobile",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment",
+                    "Privacy",
+                    "Fees"
+                ],
+                "call_to_action": "Download Unstoppable",
+                "usecases": [
+                    "Individuals",
+                    "Businesses"
+                ],
+                "solutions": "Unstoppable provides full control over funds, emphasizes transparency, and focuses on security and privacy.",
+                "strengths": "Complete control over funds, emphasis on transparency, strong security and privacy features.",
+                "areas_for_improvement": "Integration with other platforms and additional security features."
+            },
+            "Wasabi": {
+                "operating_systems": [
+                    "Windows",
+                    "Mac",
+                    "Linux"
+                ],
+                "wallet_type": "Desktop",
+                "key_features": [
+                    "Control",
+                    "Transparency",
+                    "Environment",
+                    "Privacy",
+                    "Fees"
+                ],
+                "call_to_action": "Download Wasabi",
+                "usecases": [
+                    "Individuals",
+                    "Businesses",
+                    "Developers"
+                ],
+                "solutions": "Wasabi provides full control over funds, emphasizes transparency, and focuses on security and privacy.",
+                "strengths": "Complete control over funds, emphasis on transparency, strong security and privacy features.",
+                "areas_for_improvement": "Integration with other platforms and additional security features."
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "donationOptions": [
+                    {
+                        "amount": "$5.00",
+                        "bitcoinAmount": "(... BTC)"
+                    },
+                    {
+                        "amount": "$25.00",
+                        "bitcoinAmount": "(... BTC)"
+                    },
+                    {
+                        "amount": "$50.00",
+                        "bitcoinAmount": "(... BTC)"
+                    }
+                ],
+                "businessModel": "Donation-based"
+            }
+        }
+    }
+}
