@@ -28,102 +28,135 @@
         "nature": "Invalid (single). Invalid: The provided information is about Google Search Central's documentation and updates, not about projects working with Bitcoin."
     },
     "neilpatel.com": {
-        "url": "https://neilpatel.com/blog/what-is-e-e-a-t/"
+        "url": "https://neilpatel.com/blog/what-is-e-e-a-t/",
+        "nature": "Invalid (single). Invalid: The provided information does not indicate that all projects work with Bitcoin. It is a snapshot of Neil Patel's website, which focuses on digital marketing strategies and tools, not on Bitcoin or cryptocurrency projects."
     },
     "www.mariehaynes.com": {
-        "url": "https://www.mariehaynes.com/resources/eat/"
+        "url": "https://www.mariehaynes.com/resources/eat/",
+        "nature": "Invalid (single). Invalid: The provided information does not indicate that all projects work with Bitcoin. Instead, it discusses various aspects of SEO, Google's Quality Raters' Guidelines, E-A-T (Expertise, Authoritativeness, Trustworthiness), and other related topics."
     },
     "ahrefs.com": {
-        "url": "https://ahrefs.com/blog/eeat-seo/"
+        "url": "https://ahrefs.com/blog/eeat-seo/",
+        "nature": "Invalid (single). Invalid: The provided text does not state that all projects work with Bitcoin. It is an article about SEO and E-E-A-T (Expertise, Authoritativeness, Trustworthiness, and Experience) in content, which is unrelated to Bitcoin or cryptocurrency projects."
     },
     "www.adido-digital.co.uk": {
-        "url": "https://www.adido-digital.co.uk/blog/what-is-e-a-t-in-seo/"
+        "url": "https://www.adido-digital.co.uk/blog/what-is-e-a-t-in-seo/",
+        "nature": "Invalid (single). Invalid: The provided text does not contain any information suggesting that all projects work with Bitcoin. It is an article about E-E-A-T in SEO, which stands for experience, expertise, authoritativeness, and trustworthiness, and how it relates to Google's ranking of webpages."
     },
     "www.crowdcontent.com": {
-        "url": "https://www.crowdcontent.com/blog/seo/the-complete-guide-to-google-e-a-t-what-is-it-why-is-it-and-how-do-you-create-it/"
+        "url": "https://www.crowdcontent.com/blog/seo/the-complete-guide-to-google-e-a-t-what-is-it-why-is-it-and-how-do-you-create-it/",
+        "nature": "Invalid (single). Invalid: The provided information does not indicate that all projects work with Bitcoin. It discusses content creation services, SEO, and Google's E-E-A-T guidelines, which are unrelated to Bitcoin."
     },
     "www.siegemedia.com": {
-        "url": "https://www.siegemedia.com/seo/what-is-eat"
+        "url": "https://www.siegemedia.com/seo/what-is-eat",
+        "nature": "Invalid:DDOS protection screen or technical error output."
     },
     "victoriousseo.com": {
-        "url": "https://victoriousseo.com/blog/what-is-e-a-t/"
+        "url": "https://victoriousseo.com/blog/what-is-e-a-t/",
+        "nature": "Invalid (single). Invalid: The provided text does not indicate that all projects work with Bitcoin. It is an article about EEAT (Experience, Expertise, Authoritativeness, and Trustworthiness) in SEO and does not mention Bitcoin or cryptocurrency-related projects."
     },
     "www.portent.com": {
-        "url": "https://www.portent.com/blog/seo/what-is-googles-e-a-t-why-is-it-important-for-seo.htm"
+        "url": "https://www.portent.com/blog/seo/what-is-googles-e-a-t-why-is-it-important-for-seo.htm",
+        "nature": "Invalid (single). Invalid: The provided text does not contain any information suggesting that all projects work with Bitcoin. It is a detailed discussion about Google's E-E-A-T and its importance for SEO, with tips on improving a website's E-E-A-T."
     },
     "www.wordstream.com": {
-        "url": "https://www.wordstream.com/blog/ws/2023/07/14/google-e-e-a-t"
+        "url": "https://www.wordstream.com/blog/ws/2023/07/14/google-e-e-a-t",
+        "nature": "list of projects"
     },
     "terakeet.com": {
-        "url": "https://terakeet.com/blog/what-is-eat/"
+        "url": "https://terakeet.com/blog/what-is-eat/",
+        "nature": "Invalid (single). Invalid: The provided text does not contain any information suggesting that all projects work with Bitcoin. It is an article about Google's E-E-A-T (Experience, Expertise, Authoritativeness, and Trustworthiness) in SEO and does not mention Bitcoin or cryptocurrency projects."
     },
     "www.pkwydigital.com": {
-        "url": "https://www.pkwydigital.com/the-role-of-eat-in-seo/"
+        "url": "https://www.pkwydigital.com/the-role-of-eat-in-seo/",
+        "nature": "Invalid (single). Invalid: The provided text does not contain any information suggesting that all projects work with Bitcoin. It is an article about EEAT guidelines for SEO and content creation."
     },
     "www.lumar.io": {
-        "url": "https://www.lumar.io/blog/industry-news/the-new-e-in-eeat-why-experience-matters-in-website-content/"
+        "url": "https://www.lumar.io/blog/industry-news/the-new-e-in-eeat-why-experience-matters-in-website-content/",
+        "nature": "Invalid (single). Invalid: The provided text does not state that all projects work with Bitcoin. It discusses website intelligence solutions, SEO, and Google's Quality Rater Guidelines, particularly the addition of \"Experience\" to the E-A-T framework, now referred to as E-E-A-T."
     },
     "gofishdigital.com": {
-        "url": "https://gofishdigital.com/blog/e-e-a-t-seo-an-seo-guide-to-e-e-a-t-signals/"
+        "url": "https://gofishdigital.com/blog/e-e-a-t-seo-an-seo-guide-to-e-e-a-t-signals/",
+        "nature": "Invalid (single). Invalid: The provided information does not state that all projects work with Bitcoin. It discusses various digital marketing services and SEO strategies, not cryptocurrency or Bitcoin-related projects."
     },
     "www.pageonepower.com": {
-        "url": "https://www.pageonepower.com/search-glossary/eeat"
+        "url": "https://www.pageonepower.com/search-glossary/eeat",
+        "nature": "Invalid (single). Invalid: The provided text does not indicate that all projects work with Bitcoin. It discusses various aspects of SEO, content marketing, and link building services, without any specific mention of Bitcoin or cryptocurrency-related projects."
     },
     "thriveagency.com": {
-        "url": "https://thriveagency.com/news/what-is-e-e-a-t-and-how-does-it-impact-seo/"
+        "url": "https://thriveagency.com/news/what-is-e-e-a-t-and-how-does-it-impact-seo/",
+        "nature": "Invalid (single). Invalid: The provided information does not indicate that all projects work with Bitcoin. It details various digital marketing services and SEO strategies, without any specific mention of Bitcoin or cryptocurrency-related projects."
     },
     "pureseo.com": {
-        "url": "https://pureseo.com/us/blog/google-eeat"
+        "url": "https://pureseo.com/us/blog/google-eeat",
+        "nature": "Invalid (single). Invalid: The provided text does not contain any information suggesting that all projects work with Bitcoin."
     },
     "yoast.com": {
-        "url": "https://yoast.com/experience-in-e-e-a-t/"
+        "url": "https://yoast.com/experience-in-e-e-a-t/",
+        "nature": "Invalid (single). Invalid: The provided text does not contain any information suggesting that all projects work with Bitcoin. It is about Yoast SEO, content optimization, and Google's E-E-A-T guidelines."
     },
     "kalicube.com": {
-        "url": "https://kalicube.com/learning-spaces/faq/seo-glossary/a-simple-explanation-of-e-a-t-for-entity-seo/"
+        "url": "https://kalicube.com/learning-spaces/faq/seo-glossary/a-simple-explanation-of-e-a-t-for-entity-seo/",
+        "nature": "Invalid (single). Invalid: The provided text does not contain information that all projects work with Bitcoin."
     },
     "www.ignitingbusiness.com": {
-        "url": "https://www.ignitingbusiness.com/blog/improve-your-website-e-a-t-eat-and-seo-by-avoiding-these-5-mistakes"
+        "url": "https://www.ignitingbusiness.com/blog/improve-your-website-e-a-t-eat-and-seo-by-avoiding-these-5-mistakes",
+        "nature": "Invalid (single). Invalid: The provided text does not contain any information that suggests all projects work with Bitcoin."
     },
     "setupad.com": {
-        "url": "https://setupad.com/blog/eat-seo/"
+        "url": "https://setupad.com/blog/eat-seo/",
+        "nature": "Invalid:explain_article/blog"
     },
     "js-interactive.com": {
-        "url": "https://js-interactive.com/what-is-google-eat-in-seo/"
+        "url": "https://js-interactive.com/what-is-google-eat-in-seo/",
+        "nature": "Invalid (single). Invalid: The provided text does not contain any information suggesting that all projects work with Bitcoin. It is an article discussing Google's E.E.A.T (Expertise, Experience, Authoritativeness, Trustworthiness) guidelines for SEO and content marketing."
     },
     "contentoo.com": {
-        "url": "https://contentoo.com/blog/master-google-e-e-a-t-guidelines-seo-strategy/"
+        "url": "https://contentoo.com/blog/master-google-e-e-a-t-guidelines-seo-strategy/",
+        "nature": "Invalid (single). Invalid: The provided information does not indicate that all projects work with Bitcoin. The information seems to be related to Contentoo, a content creation platform, and discusses SEO strategies, particularly focusing on Google's E-E-A-T guidelines. There is no mention of Bitcoin or cryptocurrency projects."
     },
     "www.shopify.com": {
-        "url": "https://www.shopify.com/blog/google-eat"
+        "url": "https://www.shopify.com/blog/google-eat",
+        "nature": "Invalid (single). Invalid: The provided information is about Shopify and its services, not about Bitcoin or cryptocurrency projects."
     },
     "momenticmarketing.com": {
-        "url": "https://momenticmarketing.com/blog/seo-for-eat-guidelines"
+        "url": "https://momenticmarketing.com/blog/seo-for-eat-guidelines",
+        "nature": "Invalid (single). Invalid: The provided information is about an SEO agency named Momentic and its approach to SEO, specifically focusing on E-E-A-T (Experience, Expertise, Authoritativeness, and Trustworthiness) as per Google's guidelines. It does not mention any work related to Bitcoin or cryptocurrency."
     },
     "www.thehoth.com": {
-        "url": "https://www.thehoth.com/blog/e-eat-google-update/"
+        "url": "https://www.thehoth.com/blog/e-eat-google-update/",
+        "nature": "Invalid (single). Invalid: The provided information does not state that all projects work with Bitcoin."
     },
     "www.theistudio.com": {
-        "url": "https://www.theistudio.com/how-to-e-a-t-your-seo/"
+        "url": "https://www.theistudio.com/how-to-e-a-t-your-seo/",
+        "nature": "Invalid (single). Invalid: The provided text does not contain any information suggesting that all projects work with Bitcoin."
     },
     "www.singlegrain.com": {
-        "url": "https://www.singlegrain.com/content-curation/5-steps-to-becoming-an-expert-content-creator-according-to-googles-phantom-update/"
+        "url": "https://www.singlegrain.com/content-curation/5-steps-to-becoming-an-expert-content-creator-according-to-googles-phantom-update/",
+        "nature": "Invalid (single). Invalid: The provided text does not contain any information that suggests all projects work with Bitcoin."
     },
     "blog.hubspot.com": {
-        "url": "https://blog.hubspot.com/marketing/google-eeat-update"
+        "url": "https://blog.hubspot.com/marketing/google-eeat-update",
+        "nature": "Invalid (single). Invalid: The provided text does not contain any information suggesting that all projects work with Bitcoin."
     },
     "www.oncrawl.com": {
-        "url": "https://www.oncrawl.com/technical-seo/times-eeat-why-simple-seo-no-longer-enough/"
+        "url": "https://www.oncrawl.com/technical-seo/times-eeat-why-simple-seo-no-longer-enough/",
+        "nature": "Invalid (single). Invalid: The provided text does not contain any information suggesting that all projects work with Bitcoin."
     },
     "www.foodbloggerpro.com": {
-        "url": "https://www.foodbloggerpro.com/blog/e-e-a-t-for-food-blog-seo/"
+        "url": "https://www.foodbloggerpro.com/blog/e-e-a-t-for-food-blog-seo/",
+        "nature": "Invalid (single). Invalid: The provided text is about Food Blogger Pro, a resource for food bloggers to learn about SEO and content creation, specifically focusing on E-E-A-T (Experience, Expertise, Authoritativeness, and Trustworthiness) for improving SEO. It does not mention any work with Bitcoin or cryptocurrency."
     },
     "www.trafficsoda.com": {
-        "url": "https://www.trafficsoda.com/google-eeat/"
+        "url": "https://www.trafficsoda.com/google-eeat/",
+        "nature": "Invalid (single). Invalid: The provided information does not indicate that all projects work with Bitcoin. The text discusses SEO, lead generation, digital advertising, content marketing, email marketing, and social media management, without any specific mention of Bitcoin or cryptocurrency-related projects."
     },
     "www.amsive.com": {
-        "url": "https://www.amsive.com/insights/seo/google-e-e-a-t-how-to-add-experience-and-improve-your-seo-content/"
+        "url": "https://www.amsive.com/insights/seo/google-e-e-a-t-how-to-add-experience-and-improve-your-seo-content/",
+        "nature": "Invalid (single). Invalid: The provided information does not indicate that the project, Amsive, works with Bitcoin. Amsive appears to be a data-led performance marketing agency offering a variety of services such as strategy, digital media, creative production, technology platforms, and data intelligence. There is no mention of Bitcoin or cryptocurrency-related services in the provided text."
     },
     "www.seoforjournalism.com": {
-        "url": "https://www.seoforjournalism.com/p/eeat-content-google-guidelines"
+        "url": "https://www.seoforjournalism.com/p/eeat-content-google-guidelines",
+        "nature": "Invalid:explain_article/blog"
     }
 }
