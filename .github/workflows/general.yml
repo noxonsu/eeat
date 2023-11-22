@@ -65,6 +65,8 @@ jobs:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         INDUSTRY_KEYWORD: ${{ github.event.inputs.INDUSTRY_KEYWORD }}
         SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+        SERP_PRICES_EXT: ${{ github.event.inputs.SERP_PRICES_EXT }}
+        ADDITIONAL_INFO_FOR_FILTERING_PROJECTS: ${{ github.event.inputs.ADDITIONAL_INFO_FOR_FILTERING_PROJECTS }}
       run: |
         python run_all.py
 
