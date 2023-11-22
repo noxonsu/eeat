@@ -39,9 +39,9 @@ def read_markdown_file(file):
 
 def generate_html_from_markdown(mark,title,keys,desc):
     #markdown to html with tables
-    mark = mark.replace("- ","<Br>- ")
+    #mark = mark.replace("- ","<Br>- ")
     html = markdown.markdown(mark,extensions=['markdown.extensions.tables'])
-    
+    html = html.replace("- ","<Br>- ")
     return """<!DOCTYPE html>
     <html lang="en">
     <head>
