@@ -32,7 +32,8 @@ def extract_company_urls_from_serp(serp_content, industry_query):
         if response['choices'][0]['message']['content']:
             urls = json.loads(response['choices'][0]['message']['content'])
         else:
-            urls = "Not found"
+            #return "Not found" json
+            urls = {'urls': []}
         return urls
 
     except Exception as e:
@@ -57,7 +58,7 @@ def main():
     for result in organic_results:
         if "snippet" not in result:
             result["snippet"] = ""
-        serp_content += (str(result["position"]) + ". " + result["link"] + " " + result["title"] + " " + result["snippet"])
+        serp_content += (str(result["position"]) + ". " + result["link"] + " " + result["title"] + " " + result["snippet"])+"\n\n"
             
     company_urls = extract_company_urls_from_serp(serp_content, industry_query)
 
