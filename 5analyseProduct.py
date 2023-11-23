@@ -124,9 +124,6 @@ def get_company_details(company):
         raise Exception("Failed to get response from")
 
 
-    #save response.content to tmp.json
-    with open("tmp.json", "w") as file:
-        file.write(response.content)
     
     response.content = re.sub(r'```', '', response.content)
     response.content = re.sub(r'json', '', response.content)

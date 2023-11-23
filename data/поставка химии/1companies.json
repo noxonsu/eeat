@@ -36,10 +36,12 @@
         "nature": "Invalid (single). invalid: This information does not mention suppliers of industrial chemicals."
     },
     "ecomall.ru": {
-        "url": "https://ecomall.ru/delivery/"
+        "url": "https://ecomall.ru/delivery/",
+        "nature": "Invalid (single). invalid: The provided text does not contain information about suppliers of industrial chemicals."
     },
     "www.rosatom.rts-tender.ru": {
-        "url": "https://www.rosatom.rts-tender.ru/market/postavka-tovarov-bytovoi-khimii/tender-3272949/?action=positions"
+        "url": "https://www.rosatom.rts-tender.ru/market/postavka-tovarov-bytovoi-khimii/tender-3272949/?action=positions",
+        "nature": "Invalid (single). invalid: This does not appear to be related to suppliers of industrial chemicals."
     },
     "market.otc.ru": {
         "url": "https://market.otc.ru/ProductRequestGroup/Index/1063731"
