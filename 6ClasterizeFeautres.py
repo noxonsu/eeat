@@ -106,17 +106,17 @@ def main():
         return
 
     details = load_from_json_file("5companies_details.json", "data/" + INDUSTRY_KEYWORD)
+    key_features_list = []
+    for site, details in details.items():
+        key_features = details.get("key_features", {})
+        if isinstance(key_features, dict):
+            for feature_category, features in key_features.items():
+                if isinstance(features, list):
+                    key_features_list.extend(features)
+                elif isinstance(features, str):
+                    key_features_list.append(features)
 
-    #load all 'key_features' 
-    key_features=[]
-    for k,v in details.items():
-        if 'key_features' in v:
-            if ('Features' in v):
-                v['key_features']= v['Features']
-                
-            key_features.extend(v['key_features'])
-    key_features=list(set(key_features))
-
+    key_features = key_features_list
     #how many companies analysed?
     total_companies=len(details)
 

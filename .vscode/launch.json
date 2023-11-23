@@ -35,6 +35,13 @@
             "request": "launch",
             "program": "${workspaceFolder}/5analyseProduct.py",
             "console": "integratedTerminal"
+        },  
+        {
+            "name": "Python: 6ClasterizeFeautres.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/6ClasterizeFeautres.py",
+            "console": "integratedTerminal"
         }, 
         {
             "name": "Python: 8visualPricing.py",

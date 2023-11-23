@@ -64,7 +64,7 @@ def main():
     # Load data
     data = load_from_json_file("1companies.json", DATA_FOLDER)
     # Filter only data with nature=single project and not yet crawled
-    data = {k: v for k, v in data.items() if v['nature'] == 'single project' } #and 'priceAndPlansCrawled' not in v 
+    data = {k: v for k, v in data.items() if v['nature'] == 'single project' and 'priceAndPlansCrawled' not in v  } 
 
     print(len(data), "domains to process.")
 

@@ -1,5 +1,245 @@
 {
-    "title": "Optimized Product Feature List",
-    "intro": "This list represents an optimized product feature list for AI Writer. 0 companies were analyzed, and 0 features were gathered.",
-    "features": {}
+    "title": "AI Writer Features",
+    "intro": "This list represents the optimized features of AI Writer gathered from analyzing 2 sites and 93 features. The features have been thoroughly analyzed, optimized, and grouped into subcategories for clarity and relevance.",
+    "features": {
+        "Content Generation": {
+            "title": "Content Generation",
+            "features": [
+                {
+                    "feature": "AI Blog Writer",
+                    "companies": 1
+                },
+                {
+                    "feature": "AI Content Rewriter",
+                    "companies": 1
+                },
+                {
+                    "feature": "AI Designer",
+                    "companies": 1
+                },
+                {
+                    "feature": "AI Image Generator",
+                    "companies": 1
+                },
+                {
+                    "feature": "AI Presentation Maker",
+                    "companies": 1
+                },
+                {
+                    "feature": "Animation Maker",
+                    "companies": 1
+                },
+                {
+                    "feature": "Magic Resizer",
+                    "companies": 1
+                }
+            ]
+        },
+        "Language Support": {
+            "title": "Language Support",
+            "features": [
+                {
+                    "feature": "Supports writing in multiple languages",
+                    "companies": 1
+                },
+                {
+                    "feature": "Break language barriers",
+                    "companies": 1
+                },
+                {
+                    "feature": "Accurately translate text between languages with AI",
+                    "companies": 1
+                }
+            ]
+        },
+        "Content Enhancement": {
+            "title": "Content Enhancement",
+            "features": [
+                {
+                    "feature": "Allows writing with different emotions",
+                    "companies": 1
+                },
+                {
+                    "feature": "Enables polishing and improvement of content",
+                    "companies": 1
+                },
+                {
+                    "feature": "Features to polish grammar, tone, clarity, and team consistency",
+                    "companies": 1
+                },
+                {
+                    "feature": "Simplify complex topics to make them easier to understand",
+                    "companies": 1
+                },
+                {
+                    "feature": "Edit documents or messages to improve clarity, tone, and style",
+                    "companies": 1
+                },
+                {
+                    "feature": "Acts as a personal writing coach to improve language and engagement",
+                    "companies": 1
+                }
+            ]
+        },
+        "Collaboration & Organization": {
+            "title": "Collaboration & Organization",
+            "features": [
+                {
+                    "feature": "Provides seamless collaboration and organization",
+                    "companies": 1
+                },
+                {
+                    "feature": "Facilitates collaboration, tracking, and feedback, improving the efficiency of the writing process",
+                    "companies": 1
+                },
+                {
+                    "feature": "Enables seamless switching between documents and notes",
+                    "companies": 1
+                }
+            ]
+        },
+        "Keyword & Content Brief": {
+            "title": "Keyword & Content Brief",
+            "features": [
+                {
+                    "feature": "Finds optimal keywords and creates well-written content brief",
+                    "companies": 1
+                }
+            ]
+        },
+        "Privacy & Security": {
+            "title": "Privacy & Security",
+            "features": [
+                {
+                    "feature": "Users own their data, and Grammarly upholds user privacy and enterprise data security",
+                    "companies": 1
+                }
+            ]
+        },
+        "Writing Assistance": {
+            "title": "Writing Assistance",
+            "features": [
+                {
+                    "feature": "Provides robust, real-time communication assistance and generative AI for writing, rewriting, and generating ideas",
+                    "companies": 1
+                },
+                {
+                    "feature": "Interact with AI for research and problem-solving purposes",
+                    "companies": 1
+                },
+                {
+                    "feature": "Customize AI tools to fit specific workflows",
+                    "companies": 1
+                }
+            ]
+        },
+        "Text Analysis & Revision": {
+            "title": "Text Analysis & Revision",
+            "features": [
+                {
+                    "feature": "Summarize main points and key info from any text or article",
+                    "companies": 1
+                },
+                {
+                    "feature": "Rewrite content in a different way while keeping the same meaning",
+                    "companies": 1
+                },
+                {
+                    "feature": "Get well-written replies based on emails and short responses",
+                    "companies": 1
+                },
+                {
+                    "feature": "Get personalized and context-aware sentence completions and suggestions",
+                    "companies": 1
+                },
+                {
+                    "feature": "Automatically generate full responses based on a few words in emails",
+                    "companies": 1
+                }
+            ]
+        },
+        "Story & Novel Writing": {
+            "title": "Story & Novel Writing",
+            "features": [
+                {
+                    "feature": "Generates story ideas, enhances character development, writes grammatically correct sentences, overcomes writer's block, and speeds up book and screenplay writing.",
+                    "companies": 1
+                },
+                {
+                    "feature": "Assists in crafting character arcs, vibrant settings, and intricate objects for novels, books, or scripts.",
+                    "companies": 1
+                },
+                {
+                    "feature": "Transforms text into images or a storyboard to enrich the story with compelling visual elements.",
+                    "companies": 1
+                },
+                {
+                    "feature": "Converts text into captivating video sequences to visualize scenes or adapt text into dynamic visual formats.",
+                    "companies": 1
+                },
+                {
+                    "feature": "Allows setting daily and chapter-specific targets and provides a dynamic progress bar to track project milestones.",
+                    "companies": 1
+                },
+                {
+                    "feature": "Provides a List View for a comprehensive snapshot of the draft, including status, target words per chapter or act, words achieved, and overall progress.",
+                    "companies": 1
+                },
+                {
+                    "feature": "Enables downloading books, novels, or screenplays in various formats such as PDF, Text File, MS Word, and Kindle's mobi file format.",
+                    "companies": 1
+                },
+                {
+                    "feature": "Offers an extensive collection of templates to kick-start story structure and format for various genres.",
+                    "companies": 1
+                },
+                {
+                    "feature": "Allows simultaneous viewing of different parts of the draft to ensure seamless story flow.",
+                    "companies": 1
+                },
+                {
+                    "feature": "Provides a distraction-free environment for focused writing",
+                    "companies": 1
+                },
+                {
+                    "feature": "Highlights the active sentence or paragraph to enhance concentration",
+                    "companies": 1
+                },
+                {
+                    "feature": "Allows easy formatting without interrupting the writing process",
+                    "companies": 1
+                }
+            ]
+        },
+        "Art & Image Generation": {
+            "title": "Art & Image Generation",
+            "features": [
+                {
+                    "feature": "Use AI to generate amazing art and images in seconds for ads, thumbnails, illustrations, and more",
+                    "companies": 1
+                }
+            ]
+        },
+        "Chatbot & Integration": {
+            "title": "Chatbot & Integration",
+            "features": [
+                {
+                    "feature": "Have a human-like conversation with a chatbot to assist with tasks, research, and answer questions",
+                    "companies": 1
+                },
+                {
+                    "feature": "Add the Chrome extension to bring AI assistant everywhere you work",
+                    "companies": 1
+                },
+                {
+                    "feature": "Bring the power of generative AI directly into your own platform with Jasper's API",
+                    "companies": 1
+                },
+                {
+                    "feature": "Level up marketing using Jasper's integrations to create on-brand AI-assisted content in the tools used the most",
+                    "companies": 1
+                }
+            ]
+        }
+    }
 }

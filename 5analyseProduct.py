@@ -23,7 +23,7 @@ from langchain.prompts import (
 from langchain.chains import LLMChain
 from langchain.chains.conversation.memory import ConversationBufferMemory
 from langchain.memory import ConversationSummaryBufferMemory
-
+import openai
 import os
 
 from utils import *
@@ -87,6 +87,7 @@ with open("data/"+INDUSTRY_KEYWORD+"/5prompt_"+prompt_hash+".txt", "w") as file:
 
 def get_company_details(company):
     """Extract details of the company using the LLMChain."""
+  
     summary=load_from_json_file(company+".json","data/"+INDUSTRY_KEYWORD)
     question_content = 'INDUSTRY_KEYWORD: '+INDUSTRY_KEYWORD+"\n\n"+json.dumps(summary['summary'])
     question_content = question_content[:40000]
@@ -96,38 +97,36 @@ def get_company_details(company):
         HumanMessage(content=question_content)
     ]
     start = time.time()
-    try:
-        chat = ChatOpenAI(temperature=0, model_name=BASE_GPTV)
-        response = chat(messages)
-        json1 = json.loads(response.content)
-        print(" Extract details of the company using the LLMChain "+BASE_GPTV)
-    except:
-        raise Exception("Failed to get response from")
-    
+
+    response = openai.ChatCompletion.create(
+            temperature=0,
+            model=BASE_GPTV,  # Update this to the model you're using
+            response_format={ "type": "json_object" },
+            messages=[
+                {"role": "system", "content": prompt},
+                {"role": "user", "content": question_content}
+            ]
+        )
+
+    if response['choices'][0]['message']['content']:
+        json1 = json.loads(response['choices'][0]['message']['content'])
+    else:
+        json1 = "Not found"
     end = time.time()
     print("Time to get response1: "+str(end - start))
 
-    gpt_response2 = "{}"
-    # comeercial preparation
-    
-    messages = [
-        SystemMessage(content="Find "+SERP_PRICES_EXT+" and determin business model. status 'Not found' if not found or error. Return JSON with status and 'priceAndPlans'."),
-        HumanMessage(content=json.dumps(summary['priceAndPlans']))
-    ]
     start = time.time()
+    response = openai.ChatCompletion.create(
+            model=BASE_GPTV,  # Update this to the model you're using
+            response_format={ "type": "json_object" },
+            messages=[
+                {"role": "system", "content": "Find "+SERP_PRICES_EXT+" and determin business model. status 'Not found' if not found or error. Return JSON with status and 'priceAndPlans'."},
+                {"role": "user", "content": json.dumps(summary['priceAndPlans'])}
+            ]
+        )
     
-    try:
-        chat = ChatOpenAI(temperature=0, model_name=SMART_GPTV)
-        response = chat(messages)
-        print("Find "+SERP_PRICES_EXT+" and determin business model "+SMART_GPTV)
-    except Exception as e:
-        raise Exception("Failed to get response from")
-
-
-    
-    response.content = re.sub(r'```', '', response.content)
-    response.content = re.sub(r'json', '', response.content)
-    json2 = json.loads(response.content)
+    ch = response['choices'][0]['message']['content']
+    json2 = json.loads(ch)
 
 
     end = time.time()
@@ -163,7 +162,9 @@ def main():
         print(company)
 
         print(f"Analysing details for company: {company}")
+        
         details = get_company_details(company)
+
         if details:
             company_details[company] = details
             save_to_json_file(company_details, "5companies_details.json", "data/" + INDUSTRY_KEYWORD)

@@ -121,8 +121,9 @@ def main():
 
             
         nature, extracted_links = is_product_or_list(summary['text_content'], list(company_products))
+        nature = "single project"
         data[domain]["nature"] = nature
-
+        
         if nature == "list of projects":
             print("list of companies to be saved")
             # Check if the company already exists
@@ -135,13 +136,10 @@ def main():
                     companies.add(company_name)
                     company_products.add(company_product)
         elif nature == "single project":
-            # Save the site's summary to an individual JSON file in the 'data/' directory
-            # To use:
-            internal_links = extract_links_with_text_from_html(summary['html_content'],url)
-
-            save_to_json_file({'summary': summary['text_content'],'links':internal_links}, f"{domain}.json", data_folder)
-            # Add the domain (which presumably is the company name) to the companies set
             companies.add(domain)
+        
+        internal_links = extract_links_with_text_from_html(summary['html_content'],url)
+        save_to_json_file({'summary': summary['text_content'],'links':internal_links}, f"{domain}.json", data_folder)
             
 
         print(nature)
