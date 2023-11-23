@@ -1,11 +1,15 @@
 {
     "simplified.com": {
-        "url": "https://simplified.com/ai-writer/",
-        "nature": "single project"
+        "url": "https://simplified.com/",
+        "nature": "single project",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:xHoLiKrq8NQJ:https://simplified.com/ai-writer/&hl=en&gl=us",
+        "sourcekeyword": "AI-Writer:  AI-Writer",
+        "priceAndPlansCrawled": "https://simplified.com/pricing/ai-writer"
     },
     "ai-writer.com": {
         "url": "https://ai-writer.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://ai-writer.com/pricing"
     },
     "ask.writer.com": {
         "url": "https://ask.writer.com/",
@@ -17,23 +21,29 @@
     },
     "tools.picsart.com": {
         "url": "https://tools.picsart.com/text/ai-writer/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://tools.picsart.com/blog/best-ai-writing-tools"
     },
     "rytr.me": {
         "url": "https://rytr.me/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://rytr.me/"
     },
     "sassbook.com": {
         "url": "https://sassbook.com/ai-writer",
         "nature": "Invalid (single). invalid: This is a description of a product or service and does not require a \"yes\" or \"no\" response."
     },
     "www.grammarly.com": {
-        "url": "https://www.grammarly.com/ai-writing-tools",
-        "nature": "single project"
+        "url": "https://www.grammarly.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Grammarly:  GrammarlyGO",
+        "priceAndPlansCrawled": "https://www.grammarly.com/premium"
     },
     "smodin.io": {
         "url": "https://smodin.io/writer",
-        "nature": "Invalid (single). valid"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://smodin.io/pricing"
     },
     "www.canva.com": {
         "url": "https://www.canva.com/magic-write/",
@@ -41,19 +51,23 @@
     },
     "app.neilpatel.com": {
         "url": "https://app.neilpatel.com/aiwriter/",
-        "nature": "Invalid (single). invalid"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.copy.ai": {
         "url": "https://www.copy.ai/tools",
-        "nature": "Invalid (single). invalid: The provided information is a mix of features, tools, and resources offered by a platform, but it does not clearly indicate whether the project agrees with this information."
+        "nature": "list of projects"
     },
     "zapier.com": {
         "url": "https://zapier.com/blog/best-ai-writing-generator/",
-        "nature": "Invalid (single). invalid"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "writesonic.com": {
-        "url": "https://writesonic.com/ai-article-writer-generator",
-        "nature": "list of projects"
+        "url": "https://writesonic.com/",
+        "nature": "list of projects",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:_PGF2YjA6mIJ:https://writesonic.com/&hl=en&gl=us",
+        "sourcekeyword": "Writesonic:  AI Article Writer"
     },
     "hyperwriteai.com": {
         "url": "https://hyperwriteai.com/",
@@ -81,7 +95,8 @@
     },
     "www.squibler.io": {
         "url": "https://www.squibler.io/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.squibler.io/pricing"
     },
     "koala.sh": {
         "url": "https://koala.sh/writer",
@@ -97,7 +112,8 @@
     },
     "jenni.ai": {
         "url": "https://jenni.ai/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://jenni.ai/pricing"
     },
     "katteb.com": {
         "url": "https://katteb.com/en/",
@@ -105,42 +121,67 @@
     },
     "ia.net": {
         "url": "https://ia.net/writer",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://ia.net/writer/get/buy"
     },
     "chat.openai.com": {
-        "url": "https://chat.openai.com/g/g-oNyW1YcOI"
+        "url": "https://chat.openai.com/g/g-oNyW1YcOI",
+        "nature": "Invalid: DDOS protection screen"
     },
     "seranking.com": {
-        "url": "https://seranking.com/ai-writer.html"
+        "url": "https://seranking.com/ai-writer.html",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://seranking.com/subscription.html"
     },
     "www.writecream.com": {
-        "url": "https://www.writecream.com/"
+        "url": "https://www.writecream.com/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.writecream.com/affiliate-program/"
     },
     "toolbaz.com": {
-        "url": "https://toolbaz.com/writer/ai-writer"
+        "url": "https://toolbaz.com/writer/ai-writer",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "designs.ai": {
-        "url": "https://designs.ai/copywriter/start"
+        "url": "https://designs.ai/copywriter/start",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://designs.ai/pricing"
     },
     "www.hubspot.com": {
-        "url": "https://www.hubspot.com/products/cms/ai-content-writer"
+        "url": "https://www.hubspot.com/products/cms/ai-content-writer",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "play.google.com": {
-        "url": "https://play.google.com/store/apps/details?id=com.smartwriter.smart_writer&hl=en_US"
+        "url": "https://play.google.com/store/apps/details?id=com.smartwriter.smart_writer&hl=en_US",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.rezi.ai": {
-        "url": "https://www.rezi.ai/"
+        "url": "https://www.rezi.ai/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.rezi.ai/rezi-docs/rezi-subscription-plans-explained"
     },
     "www.web.com": {
-        "url": "https://www.web.com/blog/ai-content-writer/"
+        "url": "https://www.web.com/blog/ai-content-writer/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "quillbot.com": {
-        "url": "https://quillbot.com/guides/ai-writing-assistant"
+        "url": "https://quillbot.com/guides/ai-writing-assistant",
+        "nature": "Invalid: The input provided is an error message related to a timeout issue while navigating to a website."
     },
     "www.jasper.ai": {
-        "url": "https://www.jasper.ai/"
+        "url": "https://www.jasper.ai/",
+        "nature": "single project",
+        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:Q7r6aIS5wtkJ:https://www.jasper.ai/&hl=en&gl=us",
+        "sourcekeyword": "Jasper:  Jasper",
+        "priceAndPlansCrawled": "https://www.jasper.ai/art"
     },
     "www.wired.com": {
-        "url": "https://www.wired.com/story/confessions-viral-ai-writer-chatgpt/"
+        "url": "https://www.wired.com/story/confessions-viral-ai-writer-chatgpt/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     }
 }

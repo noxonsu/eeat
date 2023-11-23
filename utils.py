@@ -217,13 +217,17 @@ def get_wayback_url(input_url):
         result = response.json()
         
         # Check if "archived_snapshots" is available in the response
-        if "archived_snapshots" in result:
+        if "archived_snapshots" in result and "closest" in result["archived_snapshots"]:
             closest_snapshot = result["archived_snapshots"]["closest"]
             if closest_snapshot.get("available") and closest_snapshot.get("url"):
                 return closest_snapshot["url"]
         
         return None  # Return None if no valid URL is found
 
-    except requests.exceptions.RequestException as e:
-        print("Error making the request:", e)
+    except requests.exceptions.HTTPError as err:
+        print(f"Error: {err}")
         return None
+    except requests.exceptions.RequestException as err:
+        print(f"Error: {err}")
+        return None
+    

@@ -14,7 +14,7 @@ on:
         required: true
         default: 'prices' # You can change the default value        
       ADDITIONAL_INFO_FOR_FILTERING_PROJECTS:
-        description: 'ex: project must working with bitcoin'
+        description: 'ex: '
         required: true
         default: '' # You can change the default value        
 

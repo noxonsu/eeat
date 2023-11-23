@@ -51,7 +51,7 @@ def is_product_or_list(summary, company_products):
         else:
             #if this is a single company use additional user's check
             response2 = chat(messages = [
-                SystemMessage(content="Say yes if the project agrees with the following information: \n\n"+ADDITIONAL_INFO+" \n\n otherwise say invalid: (reason)"),
+                SystemMessage(content="Return 'Yes' if the content: \n\n"+ADDITIONAL_INFO+" \n\n . otherwise return invalid: (reason)"),
                 HumanMessage(content=summary)
             ])
 
