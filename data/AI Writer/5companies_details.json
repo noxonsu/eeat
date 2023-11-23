@@ -1,0 +1,354 @@
+{
+    "simplified.com": {
+        "AI Writer": {
+            "call_to_action": "Sign Up And Start Today",
+            "usecases": [
+                "Create content for blog, social media, website, and more",
+                "Generate copy for business bios, ads, product descriptions, emails, landing pages, YouTube descriptions, taglines, and more",
+                "Rewrite content for Facebook and Instagram captions, quotes, descriptions, marketing materials, or website content",
+                "Write long-form content such as blogs, articles, and books"
+            ],
+            "solutions": [
+                "AI Presentation Maker",
+                "AI Image Generator",
+                "AI Background Remover",
+                "Magic Resizer",
+                "Animation Maker",
+                "AI Content Rewriter",
+                "AI Blog Writer",
+                "Instagram Reels",
+                "Convert mov to mp4",
+                "Convert jpg to png"
+            ],
+            "key_features": {
+                "AI Presentation Maker": "Create presentations with AI assistance",
+                "AI Image Generator": "Generate images using AI technology",
+                "AI Background Remover": "Remove backgrounds from images using AI",
+                "Magic Resizer": "Resize images with AI",
+                "Animation Maker": "Create animations with AI assistance",
+                "AI Content Rewriter": "Rewrite content using AI technology",
+                "AI Blog Writer": "Generate blog content with AI",
+                "Instagram Reels": "Create content for Instagram Reels",
+                "Convert mov to mp4": "Convert mov files to mp4 format",
+                "Convert jpg to png": "Convert jpg images to png format"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "AI Writer Free": {
+                    "monthlyBilling": "$0/month",
+                    "features": "2,000 free words"
+                },
+                "AI Writer Pro": {
+                    "monthlyBilling": "$12/month",
+                    "features": "35,000 words"
+                }
+            }
+        }
+    },
+    "ai-writer.com": {
+        "AI-Writer": {
+            "call_to_action": "Start Free Trial",
+            "usecases": [
+                "Generating unique article drafts from headlines and keywords",
+                "Creating SEO-friendly content",
+                "Providing a list of citations for verification",
+                "Producing unique and relevant original content"
+            ],
+            "solutions": [
+                "AI-generated text with citations for verification",
+                "SEO-focused text editor",
+                "Text rewording",
+                "Subtopic discovery",
+                "Fact checking for each paragraph",
+                "References for deeper exploration"
+            ],
+            "key_features": {
+                "Research & Write": "AI-generated unique articles with sources",
+                "SEO-Focused Text Editor": "Assistance in writing SEO-optimized content",
+                "Verifiable Citations": "List of citations for manual verification",
+                "Text Rewording": "Ability to reword existing content",
+                "(Sub)Topic Discoverer": "Finding suitable topics for content creation",
+                "API Access": "Access to AI Writer's API",
+                "Publish to Wordpress": "Direct publishing to Wordpress",
+                "Unique & Original Content": "AI-generated text is guaranteed to be unique and original",
+                "SEO Efficiency": "Engineered with high SEO performance in mind"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "basicPlan": {
+                    "price": "$39 per month",
+                    "description": "For solopreneurs, bloggers, and startups managing one or two blogs.",
+                    "features": [
+                        "Up to 70 articles",
+                        "1 user",
+                        "Up to 5000 Words per Article",
+                        "Ai text generator",
+                        "SEO Editor",
+                        "Text rewording",
+                        "(Sub)Topic Discoverer",
+                        "API Access",
+                        "Publish to Wordpress",
+                        "yearly subscription = 2 Months free!"
+                    ]
+                },
+                "standardPlan": {
+                    "price": "$59 per month",
+                    "description": "For freelancers writing oodles of content each month.",
+                    "features": [
+                        "Up to 150 articles",
+                        "3 users",
+                        "Up to 5000 Words per Article",
+                        "Ai text generator",
+                        "SEO Editor",
+                        "Text rewording",
+                        "(Sub)Topic Discoverer",
+                        "API Access",
+                        "Publish to Wordpress",
+                        "yearly subscription = 2 Months free!"
+                    ]
+                },
+                "powerPlan": {
+                    "price": "$375 per month",
+                    "description": "For everyone with some serious demand for fresh content.",
+                    "features": [
+                        "Up to 1000 articles",
+                        "10 users",
+                        "Up to 5000 Words per Article",
+                        "Ai text generator",
+                        "SEO Editor",
+                        "Text rewording",
+                        "(Sub)Topic Discoverer",
+                        "API Access",
+                        "Publish to Wordpress",
+                        "yearly subscription = 2 Months free!"
+                    ]
+                }
+            }
+        }
+    },
+    "tools.picsart.com": {
+        "AI Writer": {
+            "Call to Action": "Open AI Writer \u2014No sign-up",
+            "Use Cases": [
+                "SEO content",
+                "Email marketing",
+                "Social media",
+                "E-Commerce",
+                "Legal & Technical"
+            ],
+            "Solutions": {
+                "Article Writer": "Write articles with customizable input for high-quality SEO content",
+                "Expand": "Expand short text by adding more details",
+                "Title Generator": "Generate catchy titles for content",
+                "Idea Generator": "Create ideas on any topic",
+                "Keyword Generator": "Generate keywords for landing pages, blog posts, and websites",
+                "Grammar Checker": "Quickly check text's grammar",
+                "(Video) Script Generator": "Generate scripts for video content creation",
+                "Shorten": "Shorten long text to capture the essence",
+                "Story Generator": "Generate stories to sell, explain, or visualize a thought or concept",
+                "Ad Copy": "Generate personalized digital ads with enterprise-grade marketing copy",
+                "Social Media Bio": "Create unique and customized social media bios for major platforms",
+                "Paraphraser": "Quickly rephrase copy into unique content for academic, SEO, marketing, and other uses",
+                "Slogan Generator": "Create memorable and catchy slogans for brands or businesses",
+                "Business Name Ideas": "Find great names for new business ventures",
+                "Hashtag Generator": "Find the best hashtags for new posts",
+                "Product Descriptions": "Create perfect descriptions for products to attract and intrigue customers",
+                "Image Caption Generator": "Generate catchy captions for Instagram posts",
+                "Outline Generator": "Improve landing page structure and readability with generated outlines",
+                "Prompt Generator": "Generate the perfect prompt for ideas or projects",
+                "Paragraph Generator": "Quickly create paragraphs for landing pages, articles, social posts, etc.",
+                "Meta Description Generator": "Generate better meta data copy",
+                "Summarizer": "Quickly summarize articles, social posts, essays, documents, or websites",
+                "Translator": "Easily translate text to popular languages online",
+                "Essay Writer": "Help in creating better quality essays",
+                "Email Writer": "Send more emails faster with productive email writing"
+            },
+            "Key Features": {
+                "High-quality results & experiences": true,
+                "20+ AI accurate text tools \ud83c\udfaf": true,
+                "Quick time to resolution \ud83d\ude80": true,
+                "People love our AI Writer (4.8/5) \u2764\ufe0f": true
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Quicktools AI Writer": "FREE",
+                "Picsart\u2019s AI Suite": "FREE / Sign-up for extensive use",
+                "Jasper.ai": "Starting at $19/month",
+                "Anyword": "Starting at $49 monthly and $99 for teams + custom options for larger organizations"
+            }
+        }
+    },
+    "rytr.me": {
+        "product_name": "Rytr",
+        "call_to_action": "Start Ryting",
+        "use_cases": [
+            "Blog writing",
+            "Emails",
+            "Social media Ads",
+            "Video",
+            "Copywriting",
+            "Creative writing",
+            "SEO",
+            "Magic command",
+            "Text editing"
+        ],
+        "solutions": [
+            "Ecommerce",
+            "Local Stores",
+            "Digital Marketing Agency/Marketer",
+            "Blogger/Vlogger",
+            "Small Business"
+        ],
+        "key_features": {
+            "AI Writing Assistant": "Helps create high-quality content in seconds",
+            "40+ Use Cases and Templates": "Covers various writing needs",
+            "30+ Languages": "Supports writing in multiple languages",
+            "20+ Tones of Voice": "Allows writing with different emotions",
+            "Scientific Copywriting Formulas": "Utilizes AIDA & PAS for quality output",
+            "Rich-text Editor": "Enables refining and polishing content",
+            "Plagiarism Checker": "Ensures content uniqueness",
+            "Project Management Features": "Provides seamless collaboration and organization",
+            "Browser Extension": "Allows writing from anywhere",
+            "SEO Analyzer": "Finds optimal keywords and creates well-written content brief",
+            "Affordable Pricing Plans": "Offers free and premium plans for different usage levels"
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "freePlan": {
+                    "charactersPerMonth": "10k",
+                    "features": [
+                        "Access 40+ use-cases",
+                        "Write in 30+ languages",
+                        "Access 20+ tones",
+                        "Built-in plagiarism checker",
+                        "Generate up to 5 images per month with AI",
+                        "Access to premium community"
+                    ],
+                    "price": "Free"
+                },
+                "saverPlan": {
+                    "charactersPerMonth": "100k",
+                    "features": [
+                        "Access 40+ use-cases",
+                        "Write in 30+ languages",
+                        "Access 20+ tones",
+                        "Built-in plagiarism checker",
+                        "Generate up to 20 images per month with AI",
+                        "Access to premium community",
+                        "Create your own custom use-case"
+                    ],
+                    "price": "$9/month or $90/year (Get 2 months free!)"
+                },
+                "unlimitedPlan": {
+                    "charactersPerMonth": "UNLIMITED",
+                    "features": [
+                        "Access 40+ use-cases",
+                        "Write in 30+ languages",
+                        "Access 20+ tones",
+                        "Built-in plagiarism checker",
+                        "Generate up to 100 images per month with AI",
+                        "Access to premium community",
+                        "Create your own custom use-case",
+                        "Dedicated account manager",
+                        "Priority email & chat support"
+                    ],
+                    "price": "$29/month or $290/year (Get 2 months free!)"
+                }
+            }
+        }
+    },
+    "www.grammarly.com": {
+        "product_name": "Grammarly AI Writer",
+        "call_to_action": "Get Grammarly",
+        "use_cases": [
+            "Generating quality text for emails, articles, reports, and more",
+            "Paraphrasing",
+            "Creating cover letters, job descriptions, resumes, formal letters, emails, Instagram captions, business plans, and business reports",
+            "Generating article drafts"
+        ],
+        "solutions": "Grammarly's AI writing assistance provides end-to-end writing support, including generating text, suggesting revisions, and ensuring polished communication. It offers contextually aware, personalized AI that helps users write high-quality, relevant content.",
+        "key_features": {
+            "Generative AI Assistance": "Provides robust, real-time communication assistance and generative AI for writing, rewriting, generating ideas, and quick replies",
+            "Writing Enhancements": "Features to polish grammar, tone, clarity, and ensure team consistency",
+            "Writing Assistance Across Devices": "Works on 500,000+ apps and sites across Windows, Mac, browsers, and mobile devices",
+            "Trust & Security": "Users own their data, and Grammarly is committed to responsible AI and user privacy"
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Free": {
+                    "description": "Basic writing suggestions",
+                    "features": [
+                        "Spelling",
+                        "Grammar",
+                        "Punctuation",
+                        "Conciseness"
+                    ],
+                    "price": "Free"
+                },
+                "Premium": {
+                    "description": "Style, tone, and clarity improvements for writing at work and school",
+                    "features": [
+                        "Everything in Free",
+                        "Clarity-focused sentence rewrites",
+                        "Tone adjustments",
+                        "Plagiarism detection",
+                        "Word choice",
+                        "Formality level",
+                        "Fluency",
+                        "Additional advanced suggestions"
+                    ],
+                    "price": "Subscription-based"
+                }
+            }
+        }
+    },
+    "smodin.io": {
+        "product_name": "Smodin AI Writer",
+        "call_to_action": "Get started for free",
+        "use_cases": [
+            "Generate compelling, converting text for essays, articles, and marketing content",
+            "Write essays, books, websites, messages, letters, documents, legal documents, technical documents, blogs, webpages, research papers, dissertations, assignments, and more"
+        ],
+        "solutions": [
+            "AI-powered research tools for comprehensive and accurate results",
+            "Overcoming writer's block with innovative ideas",
+            "Breaking language barriers with translation into over 100 languages",
+            "Faster generation of references and citations in MLA or APA formats",
+            "Creating meticulously structured documents with professional quality"
+        ],
+        "key_features": {
+            "AI Chat": "Combines the power of Google and ChatGPT for information retrieval",
+            "References Research AI Writer": "Quickly cite AI references and add them to documents",
+            "Free AI Writer and Text Generator": "Generate high-quality, unique essays and articles",
+            "Plagiarism Checker": "Ensures generated content is unique and plagiarism-free",
+            "Multilingual Support": "Available in multiple languages for global usability",
+            "User-Friendly Interface": "No software or programming skills required to use the tool",
+            "Editor Features": "Allows for easy editing and formatting of the generated text"
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "monthly": {
+                    "Limited": "Free",
+                    "Essentials": "$10 USD/Month",
+                    "Productive": "$29 USD/Month",
+                    "Ultimate": "$79 USD/Month"
+                },
+                "yearly": {
+                    "Limited": "Not found",
+                    "Essentials": "Not found",
+                    "Productive": "Not found",
+                    "Ultimate": "Not found"
+                }
+            }
+        }
+    }
+}

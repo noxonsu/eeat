@@ -4,12 +4,14 @@
         "nature": "single project",
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:xHoLiKrq8NQJ:https://simplified.com/ai-writer/&hl=en&gl=us",
         "sourcekeyword": "AI-Writer:  AI-Writer",
-        "priceAndPlansCrawled": "https://simplified.com/pricing/ai-writer"
+        "priceAndPlansCrawled": "https://simplified.com/pricing/ai-writer",
+        "5prompt_Hash": "192503b8308e1fa8b1871c01a1b9f71a"
     },
     "ai-writer.com": {
         "url": "https://ai-writer.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://ai-writer.com/pricing"
+        "priceAndPlansCrawled": "https://ai-writer.com/pricing",
+        "5prompt_Hash": "192503b8308e1fa8b1871c01a1b9f71a"
     },
     "ask.writer.com": {
         "url": "https://ask.writer.com/",
@@ -22,12 +24,14 @@
     "tools.picsart.com": {
         "url": "https://tools.picsart.com/text/ai-writer/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://tools.picsart.com/blog/best-ai-writing-tools"
+        "priceAndPlansCrawled": "https://tools.picsart.com/blog/best-ai-writing-tools",
+        "5prompt_Hash": "192503b8308e1fa8b1871c01a1b9f71a"
     },
     "rytr.me": {
         "url": "https://rytr.me/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://rytr.me/"
+        "priceAndPlansCrawled": "https://rytr.me/",
+        "5prompt_Hash": "192503b8308e1fa8b1871c01a1b9f71a"
     },
     "sassbook.com": {
         "url": "https://sassbook.com/ai-writer",
@@ -38,12 +42,14 @@
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "Grammarly:  GrammarlyGO",
-        "priceAndPlansCrawled": "https://www.grammarly.com/premium"
+        "priceAndPlansCrawled": "https://www.grammarly.com/premium",
+        "5prompt_Hash": "192503b8308e1fa8b1871c01a1b9f71a"
     },
     "smodin.io": {
         "url": "https://smodin.io/writer",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://smodin.io/pricing"
+        "priceAndPlansCrawled": "https://smodin.io/pricing",
+        "5prompt_Hash": "192503b8308e1fa8b1871c01a1b9f71a"
     },
     "www.canva.com": {
         "url": "https://www.canva.com/magic-write/",
@@ -52,7 +58,7 @@
     "app.neilpatel.com": {
         "url": "https://app.neilpatel.com/aiwriter/",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "https://app.neilpatel.com/aiwriter/pricing"
     },
     "www.copy.ai": {
         "url": "https://www.copy.ai/tools",
@@ -61,7 +67,7 @@
     "zapier.com": {
         "url": "https://zapier.com/blog/best-ai-writing-generator/",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "https://zapier.com/pricing"
     },
     "writesonic.com": {
         "url": "https://writesonic.com/",
@@ -136,7 +142,7 @@
     "www.writecream.com": {
         "url": "https://www.writecream.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.writecream.com/affiliate-program/"
+        "priceAndPlansCrawled": "https://www.writecream.com/everything-you-need-to-know-about-seamless-ai/"
     },
     "toolbaz.com": {
         "url": "https://toolbaz.com/writer/ai-writer",
@@ -161,7 +167,7 @@
     "www.rezi.ai": {
         "url": "https://www.rezi.ai/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.rezi.ai/rezi-docs/rezi-subscription-plans-explained"
+        "priceAndPlansCrawled": "https://www.rezi.ai/pricing"
     },
     "www.web.com": {
         "url": "https://www.web.com/blog/ai-content-writer/",
@@ -177,11 +183,16 @@
         "nature": "single project",
         "cached_url": "https://webcache.googleusercontent.com/search?q=cache:Q7r6aIS5wtkJ:https://www.jasper.ai/&hl=en&gl=us",
         "sourcekeyword": "Jasper:  Jasper",
-        "priceAndPlansCrawled": "https://www.jasper.ai/art"
+        "priceAndPlansCrawled": "https://www.jasper.ai/pricing"
     },
     "www.wired.com": {
         "url": "https://www.wired.com/story/confessions-viral-ai-writer-chatgpt/",
         "nature": "single project",
         "priceAndPlansCrawled": "Not found"
+    },
+    "www.wix.com": {
+        "url": "https://www.wix.com/app-market/ai-writer-by-certified-code",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.wix.com/premium-purchase-plan/dynamo"
     }
 }
