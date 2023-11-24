@@ -65,7 +65,7 @@ def generate_html_from_markdown(mark,title,keys,desc):
 # Environment variables
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD', 'Vector databases')
-TITLE_ARTICLE = os.environ.get('TITLE_ARTICLE', 'Vector databases')
+TITLE_ARTICLE = os.environ.get('TITLE_ARTICLE', INDUSTRY_KEYWORD)
 
 # Load clusterized features list
 cfl = load_from_json_file("7key_features_optimized.json", "data/" + INDUSTRY_KEYWORD)
