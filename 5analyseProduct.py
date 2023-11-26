@@ -100,7 +100,7 @@ def get_company_details(company):
 
     response = openai.ChatCompletion.create(
             temperature=0,
-            model=BASE_GPTV,  # Update this to the model you're using
+            model=SMART_GPTV,  # Update this to the model you're using
             response_format={ "type": "json_object" },
             messages=[
                 {"role": "system", "content": prompt},
@@ -117,7 +117,7 @@ def get_company_details(company):
 
     start = time.time()
     response = openai.ChatCompletion.create(
-            model=BASE_GPTV,  # Update this to the model you're using
+            model=SMART_GPTV,  # Update this to the model you're using
             response_format={ "type": "json_object" },
             messages=[
                 {"role": "system", "content": "Find "+SERP_PRICES_EXT+" and determin business model. status 'Not found' if not found or error. Return JSON with status and 'priceAndPlans'."},
