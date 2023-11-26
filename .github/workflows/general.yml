@@ -68,7 +68,7 @@ jobs:
         SERP_PRICES_EXT: ${{ github.event.inputs.SERP_PRICES_EXT }}
         ADDITIONAL_INFO_FOR_FILTERING_PROJECTS: ${{ github.event.inputs.ADDITIONAL_INFO_FOR_FILTERING_PROJECTS }}
         BASE_GPTV: "gpt-3.5-turbo-1106"
-        SMART_GPTV: "gpt-4-1106-preview"
+        SMART_GPTV: "gpt-3.5-turbo-1106"
       run: |
         python run_all.py
 
