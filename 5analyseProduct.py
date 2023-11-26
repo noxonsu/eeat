@@ -97,7 +97,7 @@ def get_company_details(company):
         HumanMessage(content=question_content)
     ]
     start = time.time()
-
+    print(SMART_GPTV)
     response = openai.ChatCompletion.create(
             temperature=0,
             model=SMART_GPTV,  # Update this to the model you're using
