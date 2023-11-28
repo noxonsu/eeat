@@ -1,18 +1,18 @@
 #5visual.py.py
 import json
 import time
+import os
+import re
+import markdown
+from bs4 import BeautifulSoup
 from langchain.document_loaders import AsyncChromiumLoader
 from langchain.document_transformers import Html2TextTransformer
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains import create_extraction_chain
 from langchain.schema import SystemMessage, HumanMessage
-import os
 from langchain.chat_models import ChatOpenAI
-from bs4 import BeautifulSoup
-import re
 from langchain.chains.conversation.memory import ConversationBufferWindowMemory
 from langchain.chains import ConversationChain
-import json
 from langchain.prompts import (
     ChatPromptTemplate,
     MessagesPlaceholder,
@@ -24,11 +24,14 @@ from langchain.chains.conversation.memory import ConversationBufferMemory
 from langchain.memory import ConversationSummaryBufferMemory
 
 from utils import *
-import markdown
 
 BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
 SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-1106')
 
+# Environment variables
+OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
+INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
+TITLE_ARTICLE = os.environ.get('TITLE_ARTICLE', INDUSTRY_KEYWORD)
 # Function to check if existing domains are included in the output
 def check_domains_in_output(existedDomainList, output, article_index):
     for existedDomain in existedDomainList:
@@ -36,36 +39,8 @@ def check_domains_in_output(existedDomainList, output, article_index):
             print(f"{existedDomain} not in output of this file article{article_index}.md")
             exit()
 
-def read_markdown_file(file):
-    with open(file, "r") as f:
-        return f.read()
-
-def generate_html_from_markdown(mark,title,keys,desc):
-    #markdown to html with tables
-    #mark = mark.replace("- ","<Br>- ")
-    html = markdown.markdown(mark,extensions=['markdown.extensions.tables'])
-    html = html.replace("- ","<Br>- ")
-    return """<!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="keywords" content="{meta_keywords}">
-        <meta name="description" content="{meta_description}">
-        <title>{title}</title>
-    </head>
-    <body>
-        <article>
-        {text}
-        </article>
-        
-    </body>
-    </html>""".format(text=html,title=title,meta_keywords=keys,meta_description=desc)
 
 
-# Environment variables
-OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
-INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD', 'Vector databases')
-TITLE_ARTICLE = os.environ.get('TITLE_ARTICLE', INDUSTRY_KEYWORD)
 
 # Load clusterized features list
 cfl = load_from_json_file("7key_features_optimized.json", "data/" + INDUSTRY_KEYWORD)
@@ -107,19 +82,8 @@ if __name__ == "__main__":
                     f.write(json.dumps(input))
 
 
-    file = "data/"+INDUSTRY_KEYWORD+"/article.md"
-
-
-    mark=read_markdown_file(file)
-
-    html=generate_html_from_markdown(mark,TITLE_ARTICLE,INDUSTRY_KEYWORD,INDUSTRY_KEYWORD)
-
-    #save html to file
-    def save_html_to_file(html):
-        with open("data/"+INDUSTRY_KEYWORD+"/article.html", "w") as f:
-            f.write(html)
-
-    save_html_to_file(html)
+    #run 9visual_html.py
+    os.system('python 9visual_html.py')
 
 
 

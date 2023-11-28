@@ -10,6 +10,12 @@ from langchain.document_transformers import Html2TextTransformer
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
+
+
+def read_markdown_file(file):
+    with open(file, "r") as f:
+        return f.read()
+
 def extract_domain_from_url(url):
     """Extract the domain from a given URL."""
     parsed_uri = urlparse(url)
