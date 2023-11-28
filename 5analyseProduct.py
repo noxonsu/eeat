@@ -114,26 +114,26 @@ def get_company_details(company):
         json1 = "Not found"
     end = time.time()
     print("Time to get response1: "+str(end - start))
-
-    start = time.time()
-    response = openai.ChatCompletion.create(
-            model=SMART_GPTV,  # Update this to the model you're using
-            response_format={ "type": "json_object" },
-            messages=[
-                {"role": "system", "content": "Find "+SERP_PRICES_EXT+" and determin business model. status 'Not found' if not found or error. Return JSON with status and 'priceAndPlans'."},
-                {"role": "user", "content": json.dumps(summary['priceAndPlans'])}
-            ]
-        )
-    
-    ch = response['choices'][0]['message']['content']
-    json2 = json.loads(ch)
-
-
-    end = time.time()
-    print("Time to get response2: "+str(end - start))
-
-
     try:
+        start = time.time()
+        response = openai.ChatCompletion.create(
+                model=SMART_GPTV,  # Update this to the model you're using
+                response_format={ "type": "json_object" },
+                messages=[
+                    {"role": "system", "content": "Find "+SERP_PRICES_EXT+" and determin business model. status 'Not found' if not found or error. Return JSON with status and 'priceAndPlans'."},
+                    {"role": "user", "content": json.dumps(summary['priceAndPlans'])}
+                ]
+            )
+        
+        ch = response['choices'][0]['message']['content']
+        json2 = json.loads(ch)
+
+
+        end = time.time()
+        print("Time to get response2: "+str(end - start))
+
+
+    
         
         #add prices and plans
         json1['pricesAndPlans'] = json2
