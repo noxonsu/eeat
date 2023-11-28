@@ -145,7 +145,13 @@ def main():
     print("Clusterizing the Key Features total "+str(len(key_features)))
 
     print("Optimizing the Product Feature List")
-    ret = optimize_cluster(json.dumps(details_all),total_companies,len(key_features))
+    if (SMART_GPTV == "gpt-3.5-turbo-1106"):
+        #small input context?
+        toanalyse = json.dumps(key_features)
+    else:
+        toanalyse = json.dumps(details_all)
+    
+    ret = optimize_cluster(toanalyse,total_companies,len(key_features))
     print(ret)
     save_to_json_file(ret, "7key_features_optimized.json", "data/"+INDUSTRY_KEYWORD)
 
