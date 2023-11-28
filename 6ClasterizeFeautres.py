@@ -105,20 +105,26 @@ def main():
         print("7key_features_optimized.json already exists")
         return
 
-    details = load_from_json_file("5companies_details.json", "data/" + INDUSTRY_KEYWORD)
-    key_features_list = []
-    for site, details in details.items():
+    details_all = load_from_json_file("5companies_details.json", "data/" + INDUSTRY_KEYWORD)
+    key_features_dict = {}  # Using a dictionary for associative array functionality
+    
+    for site, details in details_all.items():
         key_features = details.get("key_features", {})
-        if isinstance(key_features, dict):
-            for feature_category, features in key_features.items():
-                if isinstance(features, list):
-                    key_features_list.extend(features)
-                elif isinstance(features, str):
-                    key_features_list.append(features)
+        if key_features:
+            for key, value in key_features.items():
+                # Add or update the key features, handling non-dictionary values
+                key_features_dict[key] = value  # This replaces the existing value if the key exists
+        else:
+            for key, value in details.items():
+                if isinstance(value, dict):
+                    key_features = value.get("key_features", {})
+                    if key_features:
+                        for sub_key, sub_value in key_features.items():
+                            key_features_dict[sub_key] = sub_value  # Replaces the existing value
 
-    key_features = key_features_list
+    key_features = key_features_dict
     #how many companies analysed?
-    total_companies=len(details)
+    total_companies=len(details_all)
 
     
 
