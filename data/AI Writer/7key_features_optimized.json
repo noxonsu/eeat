@@ -1,253 +1,137 @@
 {
     "title": "Optimized AI Writer Feature List",
-    "intro": "This optimized list represents the consolidated features of AI Writer tools, based on an analysis of 21 sites and 132 initial features. The list has been refined to remove redundant, overly specific, marketing fluff, and ambiguous content, resulting in a clearer and more informative set of features for potential users and developers.",
-    "features": {
-        "Content Generation": {
-            "title": "Content Generation",
-            "AI Presentation Maker": {
-                "count": 1,
-                "removed": ""
-            },
-            "AI Image Generator": {
-                "count": 2,
-                "removed": ""
-            },
-            "AI Background Remover": {
-                "count": 1,
-                "removed": ""
-            },
-            "Magic Resizer": {
-                "count": 1,
-                "removed": ""
-            },
-            "Animation Maker": {
-                "count": 1,
-                "removed": ""
-            },
-            "AI Content Rewriter": {
-                "count": 3,
-                "removed": ""
-            },
-            "AI Blog Writer": {
-                "count": 2,
-                "removed": ""
-            }
+    "intro": "This list represents a refined and organized collection of features for AI Writer products, based on an analysis of 28 sites and 240 features. The list has been improved by removing redundant, overly specific, ambiguous, and marketing fluff content to provide a clear and informative overview of the capabilities commonly found in AI Writer tools.",
+    "features": [
+        {
+            "title": "Content Creation & Management",
+            "Writing Assistance": [
+                {
+                    "feature": "AI-powered content generation",
+                    "companies": 28,
+                    "removed": "none"
+                },
+                {
+                    "feature": "Multilingual support for content creation",
+                    "companies": 15,
+                    "removed": "none"
+                },
+                {
+                    "feature": "Tone and style customization",
+                    "companies": 12,
+                    "removed": "none"
+                },
+                {
+                    "feature": "Plagiarism checker integration",
+                    "companies": 10,
+                    "removed": "none"
+                },
+                {
+                    "feature": "Grammar and spelling checks",
+                    "companies": 18,
+                    "removed": "none"
+                },
+                {
+                    "feature": "Content summarization tools",
+                    "companies": 8,
+                    "removed": "none"
+                },
+                {
+                    "feature": "SEO optimization tools",
+                    "companies": 14,
+                    "removed": "none"
+                }
+            ],
+            "Document & Project Management": [
+                {
+                    "feature": "Real-time collaboration features",
+                    "companies": 6,
+                    "removed": "none"
+                },
+                {
+                    "feature": "Document version control",
+                    "companies": 4,
+                    "removed": "none"
+                },
+                {
+                    "feature": "Project organization tools",
+                    "companies": 5,
+                    "removed": "none"
+                }
+            ]
         },
-        "Content Types": {
-            "title": "Content Types",
-            "Posts & Stories": {
-                "count": 2,
-                "removed": ""
-            },
-            "Online Ads": {
-                "count": 2,
-                "removed": ""
-            },
-            "eCommerce Content": {
-                "count": 2,
-                "removed": "Combined duplicate entries for 'eCommerce'"
-            },
-            "Business Content": {
-                "count": 1,
-                "removed": ""
-            },
-            "Social Media Management": {
-                "count": 3,
-                "removed": "Combined 'Social Media', 'Social Media Scheduling', 'Social Media Planning', 'Social Media Analytics' into a single feature"
-            }
+        {
+            "title": "User Experience & Accessibility",
+            "Interface & Integration": [
+                {
+                    "feature": "User-friendly interface",
+                    "companies": 22,
+                    "removed": "none"
+                },
+                {
+                    "feature": "Browser extension or plugin",
+                    "companies": 9,
+                    "removed": "none"
+                },
+                {
+                    "feature": "Integration with popular platforms (e.g., WordPress, Shopify)",
+                    "companies": 11,
+                    "removed": "none"
+                }
+            ],
+            "Accessibility Features": [
+                {
+                    "feature": "Accessibility features for visually impaired",
+                    "companies": 2,
+                    "removed": "none"
+                }
+            ]
         },
-        "Writing Tools": {
-            "title": "Writing Tools",
-            "Hashtag Generator": {
-                "count": 1,
-                "removed": ""
-            },
-            "Youtube Video Titles": {
-                "count": 1,
-                "removed": ""
-            },
-            "Photo Captions": {
-                "count": 1,
-                "removed": ""
-            },
-            "Content Rewriter": {
-                "count": 2,
-                "removed": "Combined with 'AI Content Rewriter'"
-            },
-            "Amazon Product Features": {
-                "count": 1,
-                "removed": ""
-            },
-            "Blog Ideas + Title": {
-                "count": 1,
-                "removed": ""
-            },
-            "Sentence Expander": {
-                "count": 1,
-                "removed": ""
-            },
-            "Before After Bridge": {
-                "count": 1,
-                "removed": ""
-            },
-            "Social Media Quotes": {
-                "count": 1,
-                "removed": ""
-            },
-            "Meme Generator": {
-                "count": 1,
-                "removed": ""
-            }
+        {
+            "title": "Support & Resources",
+            "Customer Support": [
+                {
+                    "feature": "24/7 customer support",
+                    "companies": 7,
+                    "removed": "none"
+                },
+                {
+                    "feature": "Community access and forums",
+                    "companies": 5,
+                    "removed": "none"
+                }
+            ],
+            "Learning Resources": [
+                {
+                    "feature": "Tutorials and guides",
+                    "companies": 8,
+                    "removed": "none"
+                },
+                {
+                    "feature": "Training sessions for teams",
+                    "companies": 3,
+                    "removed": "none"
+                }
+            ]
         },
-        "SEO & Marketing": {
-            "title": "SEO & Marketing",
-            "SEO-Focused Text Editor": {
-                "count": 1,
-                "removed": ""
-            },
-            "SEO Analyzer": {
-                "count": 1,
-                "removed": ""
-            },
-            "SEO & Conversion Optimization": {
-                "count": 1,
-                "removed": "Combined 'SEO & conversion for blog articles, product descriptions, headlines, slogans, and social media content' into a single feature"
-            }
-        },
-        "Productivity & Efficiency": {
-            "title": "Productivity & Efficiency",
-            "Project Management Features": {
-                "count": 1,
-                "removed": ""
-            },
-            "Bulk Generation of Content": {
-                "count": 1,
-                "removed": ""
-            },
-            "Quick Time to Resolution": {
-                "count": 1,
-                "removed": "Removed marketing fluff, unclear meaning"
-            },
-            "Content Creation Speed": {
-                "count": 1,
-                "removed": ""
-            }
-        },
-        "Language & Translation": {
-            "title": "Language & Translation",
-            "30+ Languages": {
-                "count": 1,
-                "removed": ""
-            },
-            "Translation into over 100 languages": {
-                "count": 1,
-                "removed": "Combined with '30+ Languages'"
-            },
-            "75+ Languages": {
-                "count": 1,
-                "removed": "Combined with '30+ Languages'"
-            }
-        },
-        "Collaboration & Management": {
-            "title": "Collaboration & Management",
-            "Browser Extension": {
-                "count": 1,
-                "removed": ""
-            },
-            "Project Management": {
-                "count": 1,
-                "removed": "Combined with 'Project Management Features'"
-            },
-            "Collaboration": {
-                "count": 1,
-                "removed": ""
-            }
-        },
-        "Writing Assistance": {
-            "title": "Writing Assistance",
-            "AI Writing Assistant": {
-                "count": 1,
-                "removed": ""
-            },
-            "Writing Enhancements": {
-                "count": 1,
-                "removed": ""
-            },
-            "Writing Assistance Across Devices": {
-                "count": 1,
-                "removed": ""
-            },
-            "AI Writing Tools": {
-                "count": 1,
-                "removed": "Combined 'AI Writing Tools' with 'AI Writing Assistant'"
-            }
-        },
-        "Content Optimization": {
-            "title": "Content Optimization",
-            "Plagiarism Checker": {
-                "count": 1,
-                "removed": ""
-            },
-            "Rich-text Editor": {
-                "count": 1,
-                "removed": ""
-            }
-        },
-        "Research & Insights": {
-            "title": "Research & Insights",
-            "Verifiable Citations": {
-                "count": 1,
-                "removed": ""
-            },
-            "Content Detective for researching factual content": {
-                "count": 1,
-                "removed": ""
-            }
-        },
-        "User Experience": {
-            "title": "User Experience",
-            "Dark Mode": {
-                "count": 1,
-                "removed": ""
-            },
-            "Focus Mode": {
-                "count": 1,
-                "removed": ""
-            },
-            "Unobtrusive Interface": {
-                "count": 1,
-                "removed": ""
-            }
-        },
-        "Content Management": {
-            "title": "Content Management",
-            "Templates": {
-                "count": 1,
-                "removed": ""
-            },
-            "Exporting Options": {
-                "count": 1,
-                "removed": ""
-            },
-            "Cross-Platform Availability": {
-                "count": 1,
-                "removed": ""
-            }
-        },
-        "Advanced Features": {
-            "title": "Advanced Features",
-            "AI Elements Generation": {
-                "count": 1,
-                "removed": ""
-            },
-            "AI Video Generation": {
-                "count": 1,
-                "removed": ""
-            },
-            "Goal Tracking": {
-                "count": 1,
-                "removed": ""
-            }
+        {
+            "title": "Pricing & Plans",
+            "Subscription Options": [
+                {
+                    "feature": "Free plan availability",
+                    "companies": 16,
+                    "removed": "none"
+                },
+                {
+                    "feature": "Flexible subscription plans",
+                    "companies": 14,
+                    "removed": "none"
+                },
+                {
+                    "feature": "Pay-as-you-go or credit-based pricing",
+                    "companies": 6,
+                    "removed": "none"
+                }
+            ]
         }
-    }
+    ]
 }

@@ -20,7 +20,7 @@ from langchain.prompts import (
 from langchain.chains import LLMChain
 from langchain.chains.conversation.memory import ConversationBufferMemory
 from langchain.memory import ConversationSummaryBufferMemory
-
+import openai
 from utils import *
 
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
@@ -63,7 +63,7 @@ def clusterize_key_features(key_features):
 
 
 def optimize_cluster(text,x,y):
-    prompt = """You're an expert analytic. this are "features" list of """+INDUSTRY_KEYWORD+""". Group features (reutrned must be "features").  We analysed """+str(x)+""" sites and """+str(y)+""" features.
+    prompt = """You're an expert analytic. this are "key_features" list of """+INDUSTRY_KEYWORD+""". Group features (reutrned must be "features").  We analysed """+str(x)+""" sites and """+str(y)+""" features.
 
 Then Improve the product feature list by eliminating irrelevant and uninformative content.
 
@@ -78,26 +78,30 @@ Then Improve the product feature list by eliminating irrelevant and uninformativ
 3. Near every feature add number of companies that have this feature.
 4. Group features to group with sub groups.
 5. Add field "title" to each group. Title must be short and describe the group.
-6. Add field 'removed' to each feature. If feature was removed, add reason why it was removed.
 Use this framework for a thorough optimization of your product feature list. After optimization, present the result in the form of a list and a brief introduction, mentioning what this list represents, how many companies were analyzed, and the total number of features gathered. Return as json with fields: title, intro, features (with subcategories)
 
  """
-    mod = SMART_GPTV #gpt-3.5-turbo-16k
-    chat = ChatOpenAI(temperature=0, model_name=mod)
-    messages = [
-        SystemMessage(content=prompt),
-        HumanMessage(content=text)
-    ]
-    response = chat(messages)
-    response.content = re.sub(r'```', '', response.content)
-    response.content = re.sub(r'json', '', response.content)
-    gpt_response = response.content
-    
+
     try:
-        return json.loads(gpt_response)
-    except json.JSONDecodeError:
-        print(f"Failed to decode JSON for response: {gpt_response}")
-        return None
+        response = openai.ChatCompletion.create(
+            model=SMART_GPTV,  # Update this to the model you're using
+            response_format={"type": "json_object"},
+            temperature=0,
+            messages=[
+                {"role": "system", "content": prompt},
+                {"role": "user", "content": text}
+            ]
+        )
+        if response['choices'][0]['message']['content']:
+            ch = response['choices'][0]['message']['content']
+            urls = json.loads(ch)
+        else:
+            urls = "Not found"
+        return urls
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return 'Not found'
+    
 
 def main():
     
@@ -110,7 +114,11 @@ def main():
     
     for site, details in details_all.items():
         key_features = details.get("key_features", {})
+        if not isinstance(key_features, list) and not isinstance(key_features, dict):
+            continue
         if key_features:
+            if isinstance(key_features, list):
+                key_features = {k: 1 for k in key_features}
             for key, value in key_features.items():
                 # Add or update the key features, handling non-dictionary values
                 key_features_dict[key] = value  # This replaces the existing value if the key exists
@@ -119,6 +127,9 @@ def main():
                 if isinstance(value, dict):
                     key_features = value.get("key_features", {})
                     if key_features:
+                        #if key_features is list convert to dict
+                        if isinstance(key_features, list):
+                            key_features = {k: 1 for k in key_features}
                         for sub_key, sub_value in key_features.items():
                             key_features_dict[sub_key] = sub_value  # Replaces the existing value
 
@@ -134,7 +145,7 @@ def main():
     print("Clusterizing the Key Features total "+str(len(key_features)))
 
     print("Optimizing the Product Feature List")
-    ret = optimize_cluster(json.dumps(key_features),total_companies,len(key_features))
+    ret = optimize_cluster(json.dumps(details_all),total_companies,len(key_features))
     print(ret)
     save_to_json_file(ret, "7key_features_optimized.json", "data/"+INDUSTRY_KEYWORD)
 

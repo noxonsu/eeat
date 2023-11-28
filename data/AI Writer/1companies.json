@@ -1,207 +1,195 @@
 {
     "simplified.com": {
-        "url": "https://simplified.com/",
+        "url": "https://simplified.com/ai-writer/",
         "nature": "single project",
-        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:xHoLiKrq8NQJ:https://simplified.com/ai-writer/&hl=en&gl=us",
-        "sourcekeyword": "AI-Writer:  AI-Writer",
         "priceAndPlansCrawled": "https://simplified.com/pricing/ai-writer",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
     },
     "ai-writer.com": {
         "url": "https://ai-writer.com/",
         "nature": "single project",
         "priceAndPlansCrawled": "https://ai-writer.com/pricing",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
     },
     "ask.writer.com": {
         "url": "https://ask.writer.com/",
-        "nature": "Invalid (single). invalid: This is a description of a specific tool or service, not a project or initiative."
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "wepik.com": {
         "url": "https://wepik.com/ai-writer",
-        "nature": "Invalid (single). invalid: The project does not explicitly agree or disagree with the provided information."
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "tools.picsart.com": {
         "url": "https://tools.picsart.com/text/ai-writer/",
         "nature": "single project",
         "priceAndPlansCrawled": "https://tools.picsart.com/blog/best-ai-writing-tools",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
     },
     "rytr.me": {
         "url": "https://rytr.me/",
         "nature": "single project",
         "priceAndPlansCrawled": "https://rytr.me/",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
-    },
-    "sassbook.com": {
-        "url": "https://sassbook.com/ai-writer",
-        "nature": "Invalid (single). invalid: This is a description of a product or service and does not require a \"yes\" or \"no\" response."
-    },
-    "www.grammarly.com": {
-        "url": "https://www.grammarly.com/",
-        "nature": "single project",
-        "cached_url": "not found",
-        "sourcekeyword": "Grammarly:  GrammarlyGO",
-        "priceAndPlansCrawled": "https://www.grammarly.com/premium",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
-    },
-    "smodin.io": {
-        "url": "https://smodin.io/writer",
-        "nature": "single project",
-        "priceAndPlansCrawled": "https://smodin.io/pricing",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
     },
     "www.canva.com": {
         "url": "https://www.canva.com/magic-write/",
-        "nature": "Invalid (single). invalid: The Wayback Machine is showing a message from Canva about updating the browser, but it does not necessarily reflect the current status of the website."
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.grammarly.com": {
+        "url": "https://www.grammarly.com/ai-writing-tools",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "sassbook.com": {
+        "url": "https://sassbook.com/ai-writer",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://sassbook.com/pricing",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
     },
     "app.neilpatel.com": {
         "url": "https://app.neilpatel.com/aiwriter/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://app.neilpatel.com/aiwriter/pricing",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
-    },
-    "www.copy.ai": {
-        "url": "https://www.copy.ai/",
-        "priceAndPlansCrawled": "https://www.copy.ai/prices",
-        "nature": "single project",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
+        "priceAndPlansCrawled": "Not found"
     },
     "zapier.com": {
         "url": "https://zapier.com/blog/best-ai-writing-generator/",
         "nature": "single project",
         "priceAndPlansCrawled": "https://zapier.com/pricing",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
+    },
+    "toolbaz.com": {
+        "url": "https://toolbaz.com/writer/ai-text-generator",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "writesonic.com": {
-        "url": "https://writesonic.com/",
-        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:_PGF2YjA6mIJ:https://writesonic.com/&hl=en&gl=us",
-        "sourcekeyword": "Writesonic:  AI Article Writer",
-        "priceAndPlansCrawled": "https://writesonic.com/pricing",
+        "url": "https://writesonic.com/ai-article-writer-generator",
         "nature": "single project",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
+        "priceAndPlansCrawled": "https://writesonic.com/pricing",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
     },
     "hyperwriteai.com": {
         "url": "https://hyperwriteai.com/",
+        "nature": "single project",
         "priceAndPlansCrawled": "https://hyperwriteai.com/pricing",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
+    },
+    "smodin.io": {
+        "url": "https://smodin.io/writer",
         "nature": "single project",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
+        "priceAndPlansCrawled": "https://smodin.io/pricing",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
     },
-    "www.techradar.com": {
-        "url": "https://www.techradar.com/best/ai-writer",
-        "nature": "list of projects"
-    },
-    "tinywow.com": {
-        "url": "https://tinywow.com/tools/write",
-        "nature": "list of projects"
-    },
-    "zyro.com": {
-        "url": "https://zyro.com/ai/content-generator",
-        "nature": "Invalid (single). invalid: This is an advertisement for Zyro website builder and its AI tools, and does not provide any information about Hostinger Website Builder."
-    },
-    "apps.apple.com": {
-        "url": "https://apps.apple.com/us/app/ai-writer/id6444013958",
-        "nature": "Invalid (single). invalid: The provided information is about an AI writing app and not about an Apple Store or its products."
-    },
-    "www.hypotenuse.ai": {
-        "url": "https://www.hypotenuse.ai/ai-writer",
-        "priceAndPlansCrawled": "https://www.hypotenuse.ai/",
+    "www.copy.ai": {
+        "url": "https://www.copy.ai/tools",
         "nature": "single project",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
-    },
-    "www.squibler.io": {
-        "url": "https://www.squibler.io/",
-        "nature": "single project",
-        "priceAndPlansCrawled": "https://www.squibler.io/pricing",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
-    },
-    "koala.sh": {
-        "url": "https://koala.sh/writer",
-        "nature": "Invalid (single). valid"
-    },
-    "narrato.io": {
-        "url": "https://narrato.io/writer/",
-        "nature": "Invalid (single). invalid: The project information provided is not clear."
-    },
-    "www.ryrob.com": {
-        "url": "https://www.ryrob.com/ai-article-writer/",
-        "nature": "Invalid (single). invalid"
-    },
-    "jenni.ai": {
-        "url": "https://jenni.ai/",
-        "nature": "single project",
-        "priceAndPlansCrawled": "https://jenni.ai/pricing",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
-    },
-    "katteb.com": {
-        "url": "https://katteb.com/en/",
-        "nature": "Invalid (single). invalid: The project does not agree with the provided information."
+        "priceAndPlansCrawled": "https://www.copy.ai/prices",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
     },
     "ia.net": {
         "url": "https://ia.net/writer",
         "nature": "single project",
         "priceAndPlansCrawled": "https://ia.net/writer/get/buy",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
     },
-    "chat.openai.com": {
-        "url": "https://chat.openai.com/g/g-oNyW1YcOI",
-        "nature": "Invalid: DDOS protection screen"
-    },
-    "seranking.com": {
-        "url": "https://seranking.com/ai-writer.html",
+    "tinywow.com": {
+        "url": "https://tinywow.com/tools/write",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://seranking.com/subscription.html",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
+        "priceAndPlansCrawled": "Not found"
+    },
+    "katteb.com": {
+        "url": "https://katteb.com/en/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://katteb.com/en/pricing/",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
+    },
+    "www.techradar.com": {
+        "url": "https://www.techradar.com/best/ai-writer",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.hypotenuse.ai": {
+        "url": "https://www.hypotenuse.ai/ai-writer",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.hypotenuse.ai/pricing",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
+    },
+    "zyro.com": {
+        "url": "https://zyro.com/ai/content-generator",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "apps.apple.com": {
+        "url": "https://apps.apple.com/us/app/ai-writer/id6444013958",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "koala.sh": {
+        "url": "https://koala.sh/writer",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://koala.sh/pricing",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
+    },
+    "narrato.io": {
+        "url": "https://narrato.io/writer/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://narrato.io/cws-pricing/",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
+    },
+    "jenni.ai": {
+        "url": "https://jenni.ai/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://jenni.ai/pricing",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
+    },
+    "www.ryrob.com": {
+        "url": "https://www.ryrob.com/ai-article-writer/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "easy-peasy.ai": {
+        "url": "https://easy-peasy.ai/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://easy-peasy.ai/",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
     },
     "www.writecream.com": {
         "url": "https://www.writecream.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.writecream.com/everything-you-need-to-know-about-seamless-ai/",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
+        "priceAndPlansCrawled": "https://www.writecream.com/tag/pricing/",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
     },
-    "toolbaz.com": {
-        "url": "https://toolbaz.com/writer/ai-writer",
+    "www.rezi.ai": {
+        "url": "https://www.rezi.ai/",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
-    },
-    "designs.ai": {
-        "url": "https://designs.ai/copywriter/start",
-        "nature": "single project",
-        "priceAndPlansCrawled": "https://designs.ai/pricing",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
-    },
-    "www.hubspot.com": {
-        "url": "https://www.hubspot.com/products/cms/ai-content-writer",
-        "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "https://www.rezi.ai/pricing",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
     },
     "play.google.com": {
         "url": "https://play.google.com/store/apps/details?id=com.smartwriter.smart_writer&hl=en_US",
         "nature": "single project",
         "priceAndPlansCrawled": "Not found"
     },
-    "www.rezi.ai": {
-        "url": "https://www.rezi.ai/",
+    "www.pageoptimizer.pro": {
+        "url": "https://www.pageoptimizer.pro/pop-ai-writer",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.rezi.ai/pricing",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
+        "priceAndPlansCrawled": "https://www.pageoptimizer.pro/pop-ai-writer",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
     },
-    "www.web.com": {
-        "url": "https://www.web.com/blog/ai-content-writer/",
+    "contentbot.ai": {
+        "url": "https://contentbot.ai/",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "https://contentbot.ai/",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
     },
     "quillbot.com": {
         "url": "https://quillbot.com/guides/ai-writing-assistant",
-        "nature": "Invalid: The input provided is an error message related to a timeout issue while navigating to a website."
-    },
-    "www.jasper.ai": {
-        "url": "https://www.jasper.ai/",
         "nature": "single project",
-        "cached_url": "https://webcache.googleusercontent.com/search?q=cache:Q7r6aIS5wtkJ:https://www.jasper.ai/&hl=en&gl=us",
-        "sourcekeyword": "Jasper:  Jasper",
-        "priceAndPlansCrawled": "https://www.jasper.ai/pricing",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
+        "priceAndPlansCrawled": "https://help.quillbot.com/hc/en-us/articles/4615387743255-Can-I-buy-additional-pages-as-a-premium-user-",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
     },
     "www.wired.com": {
         "url": "https://www.wired.com/story/confessions-viral-ai-writer-chatgpt/",
@@ -212,6 +200,41 @@
         "url": "https://www.wix.com/app-market/ai-writer-by-certified-code",
         "nature": "single project",
         "priceAndPlansCrawled": "https://www.wix.com/premium-purchase-plan/dynamo",
-        "5prompt_Hash": "d81f3f4f177c35cc1ab55bf496ca8b87"
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
+    },
+    "www.searchenginejournal.com": {
+        "url": "https://www.searchenginejournal.com/ai-writers-content-generators/448782/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.jasper.ai": {
+        "url": "https://www.jasper.ai/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.jasper.ai/art",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
+    },
+    "seranking.com": {
+        "url": "https://seranking.com/ai-writer.html",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://seranking.com/subscription.html",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
+    },
+    "designs.ai": {
+        "url": "https://designs.ai/copywriter/start",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://designs.ai/pricing",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
+    },
+    "paragraphai.com": {
+        "url": "https://paragraphai.com/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://paragraphai.com/pricing/",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
+    },
+    "undetectable.ai": {
+        "url": "https://undetectable.ai/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://undetectable.ai/pricing",
+        "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
     }
 }
