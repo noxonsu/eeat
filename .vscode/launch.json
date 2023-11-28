@@ -58,6 +58,13 @@
             "console": "integratedTerminal"
         },
         {
+            "name": "Python: 9 html visual.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/9visual_html.py",
+            "console": "integratedTerminal"
+        },
+        {
             "name": "Python: Run All Scripts Sequentially",
             "type": "python",
             "request": "launch",
