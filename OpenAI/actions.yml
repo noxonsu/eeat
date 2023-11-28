@@ -1,0 +1,131 @@
+openapi: "3.0.0"
+info:
+  version: "1.0.0"
+  title: GitHub Action API for noxonsu/researcher
+  description: API to trigger a GitHub Action with custom inputs and list workflow runs in the 'noxonsu/researcher' repository.
+servers:
+  - url: https://api.github.com
+
+paths:
+  /repos/noxonsu/researcher/actions/workflows/general.yml/dispatches:
+    post:
+      summary: Trigger GitHub Action with Custom Inputs
+      operationId: triggerGitHubAction
+      tags:
+        - GitHub Action
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/DispatchRequest'
+      responses:
+        '204':
+          description: Successful trigger.
+        '400':
+          description: Bad request.
+        '401':
+          description: Unauthorized access.
+        '404':
+          description: Repository or workflow not found.
+      security:
+        - BearerAuth: []
+
+  /repos/noxonsu/researcher/contents/{path}:
+    get:
+      summary: Retrieve File Content
+      operationId: retrieveFileContent
+      tags:
+        - GitHub Action
+      parameters:
+        - name: owner
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Owner of the repository
+        - name: repo
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Repository name
+        - name: path
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Path to the file in the repository
+      responses:
+        '200':
+          description: File content retrieved successfully.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  name:
+                    type: string
+                  path:
+                    type: string
+                  content:
+                    type: string
+                  # Add more properties as needed.
+        '400':
+          description: Bad request.
+        '401':
+          description: Unauthorized access.
+        '404':
+          description: Repository or file not found.
+
+components:
+  securitySchemes:
+    BearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+  schemas:
+    DispatchRequest:
+      type: object
+      required:
+        - ref
+      properties:
+        ref:
+          type: string
+          description: The branch or tag from which to trigger the workflow.
+          example: main
+        inputs:
+          type: object
+          additionalProperties: true
+          properties:
+            INDUSTRY_KEYWORD:
+              type: string
+              description: Custom input for the GitHub Action workflow.
+    WorkflowRun:
+      type: object
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        node_id:
+          type: string
+        head_branch:
+          type: string
+        head_sha:
+          type: string
+        run_number:
+          type: integer
+        event:
+          type: string
+        status:
+          type: string
+        conclusion:
+          type: string
+        workflow_id:
+          type: integer
+        url:
+          type: string
+        html_url:
+          type: string
+        # Additional properties as per the GitHub API documentation...
