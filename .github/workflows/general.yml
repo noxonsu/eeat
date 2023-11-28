@@ -70,7 +70,13 @@ jobs:
         BASE_GPTV: "gpt-3.5-turbo-1106"
         SMART_GPTV: "gpt-3.5-turbo-1106"
       run: |
-        python run_all.py
+        python 1loadSerp.py
+        python 2loadSummaries.py
+        python 3searchPrices.py
+        python 5analyseProduct.py
+        python 6ClasterizeFeautres.py
+        python 8visualPricing.py
+        python 9visual.py
 
     - name: Commit and push changes
       run: |
