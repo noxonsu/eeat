@@ -1,58 +1,113 @@
-## GPU Cloud Pricing Comparison
+## GPU Cloud Pricing Plans Comparison
 
-Let's compare the GPU cloud pricing plans offered by different providers. We'll analyze the pricing and features of each plan to help you make an informed decision.
-
-### Google Cloud Platform
-
-- **Pricing**: Flexible pricing and machine customizations to optimize for your workload
-- **GPU Types**: NVIDIA H100, L4, P100, P4, T4, V100, A100
+Here's a comparison of the pricing plans for various GPU cloud providers based on the available data:
 
 ### Runpod.io
 
-| GPU Type | Pricing Model | 1 Hour | 1 Month | 3 Months | 6 Months |
-|----------|---------------|--------|---------|----------|----------|
-| A100     | Spot          | $1.99  | -       | -        | -        |
-| A100     | On-Demand     | $15.92 | -       | -        | -        |
-| H100     | Spot          | $4.69  | -       | -        | -        |
-| H100     | On-Demand     | $37.52 | -       | -        | -        |
-| H100 PCIe| Spot          | $4.49  | -       | -        | -        |
-| H100 PCIe| On-Demand     | $35.92 | -       | -        | -        |
-| A40      | Spot          | $0.49  | $0.75   | $0.71    | $0.67    |
-| A40      | On-Demand     | $0.79  | $0.75   | $0.71    | $0.67    |
-| L4       | Spot          | -      | $0.42   | $0.39    | $0.37    |
-| L4       | On-Demand     | $0.44  | $0.42   | $0.39    | $0.37    |
-| RTX A6000| Spot          | $0.49  | $0.75   | $0.71    | $0.67    |
-| RTX A6000| On-Demand     | $0.79  | $0.75   | $0.71    | $0.67    |
+| GPU Model       | Pricing Plan | 1 Month | 3 Months | 6 Months |
+|-----------------|--------------|---------|----------|----------|
+| A100 80GB       | Spot         | $1.99   | -        | -        |
+| A100 80GB       | On-Demand    | $15.92  | -        | -        |
+| A100 SXM 80GB   | Spot         | $2.29   | -        | -        |
+| A100 SXM 80GB   | On-Demand    | $18.32  | -        | -        |
+| H100 80GB SXM5  | Spot         | $4.69   | -        | -        |
+| H100 80GB PCIe  | Spot         | $4.49   | -        | -        |
+| H100 80GB PCIe  | On-Demand    | $35.92  | -        | -        |
+| A40             | Spot         | $0.49   | $0.75    | $0.71    |
+| A40             | On-Demand    | $0.79   | $0.75    | $0.67    |
+| L40             | Spot         | $0.69   | $1.08    | $0.97    |
+| L40             | On-Demand    | $1.14   | $1.02    | $0.97    |
+| RTX 6000 Ada    | On-Demand    | $1.14   | -        | -        |
+| RTX A6000       | Spot         | $0.49   | $0.75    | $0.71    |
+| RTX A6000       | On-Demand    | $0.79   | $0.75    | $0.67    |
+| RTX 3090        | On-Demand    | $0.44   | -        | -        |
+| RTX 4090        | Spot         | $0.49   | -        | -        |
+| RTX 4090        | On-Demand    | $0.74   | -        | -        |
+| L4              | Spot         | $0.44   | $0.42    | $0.37    |
+| L4              | On-Demand    | $0.44   | $0.39    | -        |
+| RTX A5000       | Spot         | -       | $0.42    | $0.37    |
+| RTX A5000       | On-Demand    | $0.44   | $0.39    | -        |
+| RTX 4000 Ada    | Spot         | $0.44   | $0.37    | -        |
+| RTX 4000 Ada    | On-Demand    | $0.44   | $0.39    | -        |
+| RTX A4500       | Spot         | $0.22   | $0.32    | $0.3     |
+| RTX A4500       | On-Demand    | $0.36   | $0.34    | $0.3     |
+| RTX A4000       | Spot         | $0.34   | $0.3     | $0.28    |
+| RTX A4000       | On-Demand    | $0.34   | $0.3     | $0.28    |
 
-### CoreWeave
+### Coreweave.com
 
-| GPU Type         | VRAM (GB) | Max vCPUs per GPU | Max RAM (GB) per GPU | GPU Component Cost Per Hour |
-|------------------|-----------|--------------------|-----------------------|-----------------------------|
-| NVIDIA HGX H100  | 80        | 48                 | 256                   | $4.76                       |
-| NVIDIA H100 PCIe | 80        | 48                 | 256                   | $4.25                       |
-| A100 80GB NVLINK | 80        | 48                 | 256                   | $2.21                       |
-| A100 80GB PCIe   | 80        | 48                 | 256                   | $2.21                       |
-| A100 40GB NVLINK | 40        | 48                 | 256                   | $2.06                       |
-| A100 40GB PCIe   | 40        | 48                 | 256                   | $2.06                       |
-| A40              | 48        | 48                 | 256                   | $1.28                       |
-| RTX A6000        | 48        | 48                 | 256                   | $1.28                       |
-| RTX A5000        | 24        | 36                 | 128                   | $0.77                       |
-| RTX A4000        | 16        | 36                 | 128                   | $0.61                       |
-| Quadro RTX 5000  | 16        | 36                 | 128                   | $0.57                       |
-| Quadro RTX 4000  | 8         | 36                 | 128                   | $0.24                       |
-| Tesla V100 NVLINK| 16        | 36                 | 128                   | $0.80                       |
+| GPU Model           | Price per Hour |
+|---------------------|----------------|
+| NVIDIA HGX H100     | $4.76          |
+| NVIDIA H100 PCIe    | $4.25          |
+| A100 80GB NVLINK    | $2.21          |
+| A100 80GB PCIe      | $2.21          |
+| A100 40GB NVLINK    | $2.06          |
+| A100 40GB PCIe      | $2.06          |
+| A40                 | $1.28          |
+| RTX A6000           | $1.28          |
+| RTX A5000           | $0.77          |
+| RTX A4000           | $0.61          |
+| Quadro RTX 5000     | $0.57          |
+| Quadro RTX 4000     | $0.24          |
+| Tesla V100 NVLINK   | $0.80          |
+| Intel Xeon v3       | $0.0125        |
+| Intel Xeon v4       | $0.02          |
+| Intel Xeon Scalable | $0.03          |
+| AMD EPYC Rome       | $0.03          |
+| AMD EPYC Milan      | $0.035         |
+| HDD                 | $0.04 per GB   |
+| NVMe                | $0.07 per GB   |
+| Object Storage      | $0.03 per GB   |
+| Public IP Address   | $4.00 per IP   |
+| Burstable IP Address| $10.00 per IP  |
+| VPC                 | $20.00 per VPC |
 
-### Lambda Labs
+### Cloud-gpus.com
 
-- **8-GPU V100 instance**
-  - **Price**: $4.40 / hr
-  - **Features**: 8x (16 GB) NVIDIA Tensor Core V100 SXM2 GPUs (with NVLink™), 92 vCPUs, 448 GB RAM, 6 TB NVMe Storage, 10 Gbps Network Interface
+| Cloud Provider   | Credits | A100 (40GB)/h | A100 (80GB)/h |
+|------------------|---------|---------------|---------------|
+| Google Cloud     | $350    | $3.67         | $5.07         |
+| Amazon AWS       | $300    | $4.096        | $5.12         |
+| ACE Cloud        | $300    | $1.50         | $3.00         |
+| Microsoft Azure  | $200    | -             | $3.67         |
+| Vultr            | $100    | -             | $2.60         |
+| TensorDock       | $50     | $0.40         | -             |
+| Genesis Cloud    | $50     | -             | -             |
+| Paperspace       | $10     | $3.09         | $3.18         |
+| Lambda Cloud     | $0      | $1.10         | $1.50         |
 
-### Paperspace
+### Linode.com
 
-- **Gradient**
-  - **Pricing**: Variable
-  - **Free Plan**: Free, dedicated cloud GPU instance, Up to 6 hours usage, Fully versioned notebooks
-  - **Paid Plans**: Access to private notebooks, Pay-per-second cloud instances
+| GPU Plan          | Monthly Price | Hourly Price |
+|-------------------|---------------|--------------|
+| Dedicated + RTX6000 | $1000        | $1.5         |
 
-From the comparison, it's evident that each provider offers a variety of GPU types and pricing models. The choice of the best provider depends on specific requirements, such as GPU type, pricing flexibility, and additional features.
+### OVHCloud.com
+
+| Plan     | Monthly Price | Hourly Price |
+|----------|---------------|--------------|
+| GPU      | $2,500        | $3.75        |
+
+### Genesiscloud.com
+
+| GPU Model      | Price per Hour |
+|----------------|----------------|
+| NVIDIA HGX H100| $1.99          |
+| NVIDIA L40S    | $0.99          |
+
+### Oblivus.com
+
+| Oblivus Cloud  | Virtual Servers | Price per Hour |
+|----------------|------------------|----------------|
+|                | $0.51/hr         |                |
+
+### Salad.com
+
+Salad.com offers a wide range of GPU instances with varying prices per hour.
+
+### Cloudalize.com
+
+Cloudalize.com offers GPU cloud services with different pricing for EMEA and North America regions.
+
+Please note that the information provided is based on the available data and may be subject to change. It's recommended to visit the respective providers' websites for the most up-to-date pricing and plans.
