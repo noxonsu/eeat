@@ -179,5 +179,26 @@
         "url": "https://www.cudocompute.com/solutions/gpu-cloud/",
         "nature": "single project",
         "priceAndPlansCrawled": "Not found"
+    },
+    "www.cyberlinkasp.com": {
+        "url": "https://www.cyberlinkasp.com/insights/understanding-gpus-and-their-impact-on-cloud-computing/"
+    },
+    "www.huaweicloud.com": {
+        "url": "https://www.huaweicloud.com/intl/en-us/product/gpu.html"
+    },
+    "sourceforge.net": {
+        "url": "https://sourceforge.net/software/cloud-gpu/"
+    },
+    "salad.com": {
+        "url": "https://salad.com/salad-gpu-cloud"
+    },
+    "www.cloudalize.com": {
+        "url": "https://www.cloudalize.com/"
+    },
+    "www.mathworks.com": {
+        "url": "https://www.mathworks.com/help/parallel-computing/run-matlab-using-cloud-gpus.html"
+    },
+    "www.hpe.com": {
+        "url": "https://www.hpe.com/us/en/what-is/gpu-computing.html"
     }
 }
