@@ -78,40 +78,40 @@ jobs:
         git add -A
         git diff --cached --exit-code || git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 1loadSerp.py"
         git pull
-        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || echo "No changes to commit"
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
 
         python 2loadSummaries.py
         git add -A
         git diff --cached --exit-code || git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 2loadSummaries.py"
         git pull
-        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || echo "No changes to commit"
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
 
         python 3searchPrices.py
         git add -A
         git diff --cached --exit-code || git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 3searchPrices.py"
         git pull
-        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || echo "No changes to commit"
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
 
         python 5analyseProduct.py
         git add -A
         git diff --cached --exit-code || git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 5analyseProduct.py"
         git pull
-        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || echo "No changes to commit"
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
 
         python 6ClasterizeFeautres.py
         git add -A
         git diff --cached --exit-code || git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 6ClasterizeFeautres.py"
         git pull
-        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git or echo "No changes to commit"
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git or true
 
         python 8visualPricing.py
         git add -A
         git diff --cached --exit-code or git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 8visualPricing.py"
         git pull
-        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git or echo "No changes to commit"
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git or true
 
         python 9visual.py
         git add -A
         git diff --cached --exit-code or git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 9visual.py"
         git pull
-        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git or echo "No changes to commit"
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git or true
