@@ -235,5 +235,8 @@
         "url": "https://www.hpe.com/us/en/what-is/gpu-computing.html",
         "nature": "single project",
         "priceAndPlansCrawled": "Not found"
+    },
+    "aws.amazon.com": {
+        "url": "https://aws.amazon.com/nvidia/"
     }
 }
