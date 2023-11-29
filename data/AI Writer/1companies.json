@@ -236,5 +236,11 @@
         "nature": "single project",
         "priceAndPlansCrawled": "https://undetectable.ai/pricing",
         "5prompt_Hash": "116ce1e457c065c5bae91f51759660ec"
+    },
+    "www.squibler.io": {
+        "url": "https://www.squibler.io/"
+    },
+    "www.hubspot.com": {
+        "url": "https://www.hubspot.com/products/cms/ai-content-writer"
     }
 }

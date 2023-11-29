@@ -19,7 +19,7 @@ if not SERPAPI_KEY:
 openai.api_key = OPENAI_API_KEY  # Set the OpenAI API key
 def extract_company_urls_from_serp(serp_content, industry_query):
     try:
-        prompt = f"Analyse SERP and Identify sites based on a given Google search query. '{industry_query}'. Return only list of urls if found. Return only JSON with urls.\n\n{serp_content}\n\n "
+        prompt = f"Analyse SERP and Identify sites based on a given Google search query. '{industry_query}'. Return only list of urls if found (use 'urls' key). Return only JSON with urls.\n\n{serp_content}\n\n "
         
         response = openai.ChatCompletion.create(
             model=BASE_GPTV,  # Update this to the model you're using
@@ -53,7 +53,7 @@ def main():
     industry_query = INDUSTRY_KEYWORD
     
     organic_results = search_companies_on_google(KEYWORD_FOR_SERP, 40)
-    
+    print(f"Found {len(organic_results)} results for {KEYWORD_FOR_SERP}")
     serp_content = ""
     for result in organic_results:
         if "snippet" not in result:
