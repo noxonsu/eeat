@@ -237,6 +237,7 @@
         "priceAndPlansCrawled": "Not found"
     },
     "aws.amazon.com": {
-        "url": "https://aws.amazon.com/nvidia/"
+        "url": "https://aws.amazon.com/nvidia/",
+        "nature": "single project"
     }
 }
