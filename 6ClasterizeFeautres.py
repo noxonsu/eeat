@@ -130,6 +130,9 @@ def main():
                         #if key_features is list convert to dict
                         if isinstance(key_features, list):
                             key_features = {k: 1 for k in key_features}
+                        #if string sprit by comma
+                        elif isinstance(key_features, str):
+                            key_features = {k: 1 for k in key_features.split(",")}
                         for sub_key, sub_value in key_features.items():
                             key_features_dict[sub_key] = sub_value  # Replaces the existing value
 

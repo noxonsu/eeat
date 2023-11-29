@@ -3,49 +3,49 @@
         "url": "https://cloud.google.com/gpu",
         "nature": "single project",
         "priceAndPlansCrawled": "https://cloud.google.com/gpu",
-        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
+        "5prompt_Hash": "95181b8461fec78fa5cbdada8ac5c1b1"
     },
     "www.nvidia.com": {
         "url": "https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/",
         "nature": "single project",
         "priceAndPlansCrawled": "https://www.nvidia.com/en-us/gpu-cloud/",
-        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
+        "5prompt_Hash": "95181b8461fec78fa5cbdada8ac5c1b1"
     },
     "www.runpod.io": {
         "url": "https://www.runpod.io/",
         "nature": "single project",
         "priceAndPlansCrawled": "https://www.runpod.io/gpu-instance/pricing",
-        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
+        "5prompt_Hash": "95181b8461fec78fa5cbdada8ac5c1b1"
     },
     "www.coreweave.com": {
         "url": "https://www.coreweave.com/",
         "nature": "single project",
         "priceAndPlansCrawled": "https://www.coreweave.com/gpu-cloud-pricing",
-        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
+        "5prompt_Hash": "95181b8461fec78fa5cbdada8ac5c1b1"
     },
     "lambdalabs.com": {
         "url": "https://lambdalabs.com/service/gpu-cloud",
         "nature": "single project",
         "priceAndPlansCrawled": "https://lambdalabs.com/blog/cutting-the-cost-of-high-performance-deep-learning",
-        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
+        "5prompt_Hash": "95181b8461fec78fa5cbdada8ac5c1b1"
     },
     "blog.paperspace.com": {
         "url": "https://blog.paperspace.com/top-ten-cloud-gpu-platforms-for-deep-learning/",
         "nature": "single project",
         "priceAndPlansCrawled": "https://blog.paperspace.com/free-cloud-gpu/",
-        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
+        "5prompt_Hash": "95181b8461fec78fa5cbdada8ac5c1b1"
     },
     "cloud-gpus.com": {
         "url": "https://cloud-gpus.com/",
         "nature": "single project",
         "priceAndPlansCrawled": "https://cloud-gpus.com/pricing-plans",
-        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
+        "5prompt_Hash": "95181b8461fec78fa5cbdada8ac5c1b1"
     },
     "www.linode.com": {
         "url": "https://www.linode.com/products/gpu/",
         "nature": "single project",
         "priceAndPlansCrawled": "https://www.linode.com/products/gpu/",
-        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
+        "5prompt_Hash": "95181b8461fec78fa5cbdada8ac5c1b1"
     },
     "us.ovhcloud.com": {
         "url": "https://us.ovhcloud.com/public-cloud/gpu/",

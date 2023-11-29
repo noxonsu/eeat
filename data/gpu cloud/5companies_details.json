@@ -1,42 +1,38 @@
 {
     "cloud.google.com": {
         "product_name": "Google Cloud GPUs",
+        "call_to_action": "Start building on Google Cloud with $300 in free credits and 20+ always free products. Try Google Cloud free",
+        "usecases": [
+            "Machine learning",
+            "Scientific computing",
+            "3D visualization",
+            "High-performance computing (HPC)"
+        ],
+        "solutions": [
+            "Accelerate the training process for deep learning models",
+            "Attach GPUs to Dataproc clusters for machine learning and data processing",
+            "Use GPU hardware accelerators in Google Kubernetes Engine clusters",
+            "Add or remove GPUs from a Compute Engine VM",
+            "Install NVIDIA proprietary drivers after creating an instance with GPUs"
+        ],
         "key_features": {
-            "range_of_gpu_types": "NVIDIA H100, L4, P100, P4, T4, V100, and A100 GPUs",
-            "flexible_performance": "Optimally balance the processor, memory, high performance disk, and up to 8 GPUs per instance for individual workloads",
+            "range_of_gpu_types": [
+                "NVIDIA H100",
+                "L4",
+                "P100",
+                "P4",
+                "T4",
+                "V100",
+                "A100"
+            ],
+            "flexible_performance": "Optimally balance the processor, memory, high-performance disk, and up to 8 GPUs per instance for individual workloads with per-second billing",
             "benefits_of_google_cloud": "Access to industry-leading storage, networking, and data analytics technologies"
         },
-        "whats_new": {
-            "blog_post": "A3 supercomputers with NVIDIA H100 GPUs, purpose-built for AI",
-            "report": "Introducing G2 VMs with NVIDIA L4 GPUs \u2014 a cloud-industry first",
-            "video": "Next: An overview of Cloud GPU for ML and HPC",
-            "event": "Webinar: 8 reasons to run your ML workloads on NVIDIA T4 GPUs"
-        },
-        "documentation": {
-            "gpu_on_compute_engine": "Provides GPUs that can be added to virtual machine instances",
-            "adding_removing_gpus": "Tutorial on how to add or remove GPUs from a Compute Engine VM",
-            "installing_gpu_drivers": "Guide on installing NVIDIA proprietary drivers after creating an instance with GPUs",
-            "gpu_on_kubernetes_engine": "How to use GPU hardware accelerators in Google Kubernetes Engine clusters\u2019 nodes",
-            "using_gpus_for_training_models": "Accelerate the training process for deep learning models like image classification, video analysis, and natural language processing",
-            "attaching_gpus_to_dataproc_clusters": "Attach GPUs to the master and worker Compute Engine nodes in a Dataproc cluster to accelerate specific workloads"
-        },
-        "pricing": "For information about GPU pricing for the different GPU types and regions available on Compute Engine, refer to the GPU pricing document",
-        "call_to_action": "Start building on Google Cloud with $300 in free credits and 20+ always free products. Contact sales for help getting started, or find a trusted partner to work with.",
+        "typical_project": "A typical GPU Cloud project involves providing scalable, high-performance GPU resources for applications such as 3D rendering, machine learning, data processing, and gaming, emphasizing cost efficiency, security, and support for multiple programming environments.",
         "pricesAndPlans": {
-            "status": "success",
+            "status": "Not found",
             "priceAndPlans": {
-                "GPUCloud": {
-                    "pricing": "Flexible pricing and machine customizations to optimize for your workload",
-                    "types": [
-                        "NVIDIA H100",
-                        "L4",
-                        "P100",
-                        "P4",
-                        "T4",
-                        "V100",
-                        "A100"
-                    ]
-                }
+                "Cloud GPUs": "Not found"
             }
         }
     },
@@ -44,15 +40,16 @@
         "gpu_cloud_products": [
             {
                 "name": "NVIDIA GPU Cloud",
-                "call_to_action": "Contact NVIDIA for a demo",
+                "call_to_action": "Contact Sales for Demo",
                 "usecases": [
                     "AI Training",
                     "AI Inference",
                     "HPC",
                     "Graphics Visualization"
                 ],
-                "solutions": "NVIDIA platforms are powering next-generation capabilities in AI, HPC, and graphics, pushing the boundaries of what\u2019s possible. They offer solutions for AI training, AI inference, HPC, and graphics visualization.",
-                "key_features": "NVIDIA GPU Cloud offers breakthrough graphics performance, minimized cloud Opex with GPU acceleration, simplified IT management and scalability, performance-optimized software stack, and enterprise-grade support in the cloud."
+                "solutions": "NVIDIA GPU Cloud offers GPU-accelerated solutions for AI, HPC, and graphics workloads in the cloud.",
+                "key_features": "NVIDIA GPU Cloud provides access to NVIDIA's full-stack innovation, performance-optimized software stack, and enterprise-grade support in the cloud.",
+                "typical_project": "A typical GPU Cloud project involves providing scalable, high-performance GPU resources for applications such as 3D rendering, machine learning, data processing, and gaming, emphasizing cost efficiency, security, and support for multiple programming environments."
             }
         ],
         "pricesAndPlans": {
@@ -66,328 +63,137 @@
         "usecases": [
             "Developing AI applications",
             "Training AI models",
-            "Scaling AI models for production"
+            "Scaling AI models for production",
+            "Running GPU workloads seamlessly"
         ],
-        "solutions": [
-            "Rapid access to powerful GPUs",
-            "Streamlined training process for AI models",
-            "Scalable serverless endpoints for production deployment"
-        ],
+        "solutions": "Globally distributed GPU cloud built for production, with over 50 template environments for development, streamlined training process, and serverless endpoints for scaling inference on models.",
         "key_features": {
-            "template_environments": "Over 50 template environments for quick setup",
+            "template_environments": "Over 50 template environments for development",
             "global_interoperability": "Select from 30+ regions across North America, Europe, and South America",
             "limitless_storage": "Ultra-fast NVMe storage for datasets and models",
-            "autoscaling_serverless_endpoints": "Autoscaling from 0 to 100s of GPUs in seconds",
-            "real_time_logs_metrics": "Seamless debugging with access to GPU, CPU, Memory, and other metrics",
-            "pay_per_use": "Pay per second for serverless endpoints",
+            "autoscaling_serverless_endpoints": "Autoscale from 0 to 100s of GPUs in seconds",
+            "real_time_logs_metrics": "Seamlessly debug containers with access to GPU, CPU, Memory, and other metrics",
+            "pay_per_second": "Pay per second for GPU usage",
             "security_compliance": "Built on enterprise-grade GPUs with world-class compliance and security standards",
-            "flashboot_technology": "Lightning fast cold-starts with Flashboot technology"
+            "flashboot_technology": "Lightning fast cold-start with Flashboot technology"
         },
+        "typical_project": "A typical GPU Cloud project involves providing scalable, high-performance GPU resources for applications such as 3D rendering, machine learning, data processing, and gaming, emphasizing cost efficiency, security, and support for multiple programming environments.",
         "pricesAndPlans": {
             "status": "success",
             "priceAndPlans": {
-                "A100": {
-                    "1x GPU": {
-                        "Spot": {
-                            "1hr": 1.99,
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        },
-                        "On-Demand": {
-                            "1hr": 15.92,
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        }
+                "A100 80GB": {
+                    "1x GPU $/hr": {
+                        "Spot": "1.99",
+                        "On-Demand": "15.92",
+                        "1 Month": "-",
+                        "3 Month": "-",
+                        "6 Month": "-"
                     },
-                    "8x GPU": {
-                        "Spot": {
-                            "1hr": "-",
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        },
-                        "On-Demand": {
-                            "1hr": "-",
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        }
+                    "8x GPU $/hr": {
+                        "Spot": "-",
+                        "On-Demand": "15.92",
+                        "1 Month": "-",
+                        "3 Month": "-",
+                        "6 Month": "-"
                     }
                 },
-                "H100": {
-                    "1x GPU": {
-                        "Spot": {
-                            "1hr": 4.69,
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        },
-                        "On-Demand": {
-                            "1hr": 37.52,
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        }
-                    },
-                    "8x GPU": {
-                        "Spot": {
-                            "1hr": 2.49,
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        },
-                        "On-Demand": {
-                            "1hr": 3.89,
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        }
+                "A100 SXM 80GB": {
+                    "1x GPU $/hr": {
+                        "Spot": "2.29",
+                        "On-Demand": "18.32",
+                        "1 Month": "-",
+                        "3 Month": "-",
+                        "6 Month": "-"
                     }
                 },
-                "H100 PCIe": {
-                    "1x GPU": {
-                        "Spot": {
-                            "1hr": 4.49,
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        },
-                        "On-Demand": {
-                            "1hr": 35.92,
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        }
-                    },
-                    "8x GPU": {
-                        "Spot": {
-                            "1hr": 2.49,
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        },
-                        "On-Demand": {
-                            "1hr": 3.69,
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        }
+                "H100 80GB SXM5": {
+                    "1x GPU $/hr": {
+                        "Spot": "4.69",
+                        "On-Demand": "37.52",
+                        "1 Month": "-",
+                        "3 Month": "-",
+                        "6 Month": "-"
+                    }
+                },
+                "H100 80GB PCIe": {
+                    "1x GPU $/hr": {
+                        "Spot": "4.49",
+                        "On-Demand": "35.92",
+                        "1 Month": "-",
+                        "3 Month": "-",
+                        "6 Month": "-"
                     }
                 },
                 "A40": {
-                    "1x GPU": {
-                        "Spot": {
-                            "1hr": 0.49,
-                            "1 Month": 0.75,
-                            "3 Month": 0.71,
-                            "6 Month": 0.67
-                        },
-                        "On-Demand": {
-                            "1hr": 0.79,
-                            "1 Month": 0.75,
-                            "3 Month": 0.71,
-                            "6 Month": 0.67
-                        }
+                    "1x GPU $/hr": {
+                        "Spot": "0.49",
+                        "On-Demand": "0.79",
+                        "1 Month": "0.75",
+                        "3 Month": "0.71",
+                        "6 Month": "0.67"
+                    }
+                },
+                "L40": {
+                    "1x GPU $/hr": {
+                        "Spot": "0.69",
+                        "On-Demand": "1.14",
+                        "1 Month": "1.08",
+                        "3 Month": "1.02",
+                        "6 Month": "0.97"
                     }
                 },
                 "RTX 6000 Ada": {
-                    "1x GPU": {
-                        "Spot": {
-                            "1hr": "-",
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        },
-                        "On-Demand": {
-                            "1hr": 1.14,
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        }
+                    "1x GPU $/hr": {
+                        "Spot": "-",
+                        "On-Demand": "1.14",
+                        "1 Month": "-",
+                        "3 Month": "-",
+                        "6 Month": "-"
                     }
                 },
                 "RTX A6000": {
-                    "1x GPU": {
-                        "Spot": {
-                            "1hr": 0.49,
-                            "1 Month": 0.75,
-                            "3 Month": 0.71,
-                            "6 Month": 0.67
-                        },
-                        "On-Demand": {
-                            "1hr": 0.79,
-                            "1 Month": 0.75,
-                            "3 Month": 0.71,
-                            "6 Month": 0.67
-                        }
+                    "1x GPU $/hr": {
+                        "Spot": "0.49",
+                        "On-Demand": "0.79",
+                        "1 Month": "0.75",
+                        "3 Month": "0.71",
+                        "6 Month": "0.67"
                     }
                 },
                 "RTX 3090": {
-                    "1x GPU": {
-                        "Spot": {
-                            "1hr": "-",
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        },
-                        "On-Demand": {
-                            "1hr": 0.44,
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        }
+                    "1x GPU $/hr": {
+                        "Spot": "-",
+                        "On-Demand": "0.44",
+                        "1 Month": "-",
+                        "3 Month": "-",
+                        "6 Month": "-"
                     }
                 },
                 "RTX 4090": {
-                    "1x GPU": {
-                        "Spot": {
-                            "1hr": 0.49,
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        },
-                        "On-Demand": {
-                            "1hr": 0.74,
-                            "1 Month": "-",
-                            "3 Month": "-",
-                            "6 Month": "-"
-                        }
+                    "1x GPU $/hr": {
+                        "Spot": "0.49",
+                        "On-Demand": "0.74",
+                        "1 Month": "-",
+                        "3 Month": "-",
+                        "6 Month": "-"
                     }
                 },
                 "L4": {
-                    "1x GPU": {
-                        "Spot": {
-                            "1hr": "-",
-                            "1 Month": 0.42,
-                            "3 Month": 0.39,
-                            "6 Month": 0.37
-                        },
-                        "On-Demand": {
-                            "1hr": 0.44,
-                            "1 Month": 0.42,
-                            "3 Month": 0.39,
-                            "6 Month": 0.37
-                        }
+                    "1x GPU $/hr": {
+                        "Spot": "-",
+                        "On-Demand": "0.44",
+                        "1 Month": "0.42",
+                        "3 Month": "0.39",
+                        "6 Month": "0.37"
                     }
                 },
                 "RTX A5000": {
-                    "1x GPU": {
-                        "Spot": {
-                            "1hr": "-",
-                            "1 Month": 0.42,
-                            "3 Month": 0.39,
-                            "6 Month": 0.37
-                        },
-                        "On-Demand": {
-                            "1hr": 0.44,
-                            "1 Month": 0.42,
-                            "3 Month": 0.39,
-                            "6 Month": 0.37
-                        }
-                    }
-                },
-                "RTX 4000 Ada": {
-                    "1x GPU": {
-                        "Spot": {
-                            "1hr": "-",
-                            "1 Month": 0.39,
-                            "3 Month": 0.37,
-                            "6 Month": "-"
-                        },
-                        "On-Demand": {
-                            "1hr": 0.44,
-                            "1 Month": 0.39,
-                            "3 Month": 0.37,
-                            "6 Month": "-"
-                        }
-                    }
-                },
-                "RTX A4500": {
-                    "1x GPU": {
-                        "Spot": {
-                            "1hr": 0.22,
-                            "1 Month": 0.34,
-                            "3 Month": 0.32,
-                            "6 Month": 0.3
-                        },
-                        "On-Demand": {
-                            "1hr": 0.36,
-                            "1 Month": 0.34,
-                            "3 Month": 0.32,
-                            "6 Month": 0.3
-                        }
-                    }
-                },
-                "RTX A4000": {
-                    "1x GPU": {
-                        "Spot": {
-                            "1hr": "-",
-                            "1 Month": 0.32,
-                            "3 Month": 0.3,
-                            "6 Month": 0.28
-                        },
-                        "On-Demand": {
-                            "1hr": 0.34,
-                            "1 Month": 0.32,
-                            "3 Month": 0.3,
-                            "6 Month": 0.28
-                        }
-                    }
-                },
-                "Community Cloud": {
-                    "A100 80GB": {
-                        "1x GPU": {
-                            "Spot": {
-                                "1hr": 0.89,
-                                "On-Demand": 1.69
-                            },
-                            "8x GPU": {
-                                "Spot": "-",
-                                "On-Demand": "-"
-                            }
-                        }
-                    },
-                    "H100 80GB SXM5": {
-                        "1x GPU": {
-                            "Spot": {
-                                "1hr": 2.49,
-                                "On-Demand": 3.89
-                            }
-                        }
-                    },
-                    "H100 80GB PCIe": {
-                        "1x GPU": {
-                            "Spot": {
-                                "1hr": 2.49,
-                                "On-Demand": 3.69
-                            }
-                        }
-                    },
-                    "A40": {
-                        "1x GPU": {
-                            "Spot": {
-                                "1hr": 0.34,
-                                "On-Demand": 0.69
-                            }
-                        }
-                    },
-                    "RTX 6000 Ada": {
-                        "1x GPU": {
-                            "Spot": {
-                                "1hr": 0.69,
-                                "On-Demand": 0.99
-                            }
-                        }
-                    },
-                    "RTX A6000": {
-                        "1x GPU": {
-                            "Spot": {
-                                "1hr": 0.34,
-                                "On-Demand": 0.69
-                            }
-                        }
+                    "1x GPU $/hr": {
+                        "Spot": "-",
+                        "On-Demand": "0.44",
+                        "1 Month": "0.42",
+                        "3 Month": "0.39",
+                        "6 Month": "0.37"
                     }
                 }
             }
@@ -402,161 +208,72 @@
             "Inference Service",
             "Pixel Streaming"
         ],
-        "solutions": "CoreWeave Cloud is a specialized cloud provider, delivering a massive scale of GPUs on top of the industry\u2019s fastest and most flexible infrastructure.",
+        "solutions": [
+            "GPU Compute",
+            "CPU Compute",
+            "Kubernetes",
+            "Virtual Servers",
+            "Storage",
+            "Networking"
+        ],
         "key_features": {
-            "gpu_compute": {
-                "description": "The industry\u2019s broadest range of NVIDIA GPUs, highly configurable and highly available.",
-                "gpu_skus": "11+ NVIDIA GPU SKUs",
-                "availability": "Available on demand"
-            },
-            "cpu_compute": {
-                "description": "Massive scale of CPU-only instances when GPU acceleration isn\u2019t required.",
-                "processors": "Intel Xeon and AMD Epyc",
-                "scalability": "Scale in seconds"
-            },
-            "kubernetes": {
-                "description": "Fully managed Kubernetes, delivering the performance of bare-metal without the infrastructure overhead.",
-                "features": [
-                    "Spin-up new instances in seconds",
-                    "Responsive auto-scaling across thousands of GPUs"
-                ]
-            },
-            "virtual_servers": {
-                "description": "Easily deploy and manage NVIDIA GPU accelerated and CPU-only Virtual Servers.",
-                "platforms": "Linux, Windows or bring your own ISO",
-                "additional_feature": "Out-of-the-box desktop streaming via Teradici and Parsec"
-            },
-            "storage": {
-                "description": "Distributed and fault tolerant storage, with triple replication, managed separately from compute.",
-                "capabilities": [
-                    "Easily resize volumes and scale capacity",
-                    "IOPS and throughput optimized"
-                ]
-            },
-            "networking": {
-                "description": "Endless horizontal scaling with routing, switching, firewalling and load-balancing built into the network fabric.",
-                "advantages": [
-                    "Built to power HPC workloads with ease",
-                    "Scale to 100Gbps+"
-                ]
-            }
+            "infrastructure": "Modern, Kubernetes native cloud",
+            "compute_resources": "Broad range of NVIDIA GPUs, highly configurable and available on demand",
+            "scalability": "Scale in seconds, responsive auto-scaling across thousands of GPUs",
+            "storage": "Distributed and fault-tolerant storage, easily resizable volumes with optimized IOPS and throughput",
+            "networking": "Endless horizontal scaling, built for HPC workloads, scale to 100Gbps+",
+            "client_testimonials": [
+                "High-end NVIDIA GPUs for virtual workstations and rendering",
+                "Broad range of compute options at unprecedented scale",
+                "Access to GPUs on-demand for continuous model testing",
+                "Inference latencies dropped by 50% with Inference Optimized V100 instances",
+                "Ultra-low latency, high-powered GPU-accelerated Virtual Workstations",
+                "Serve requests 3x faster, saving 75% in cloud costs",
+                "Freedom to choose hardware and confidence in scaling up",
+                "Right-sizing workloads to substantially reduce compute costs"
+            ]
         },
         "pricesAndPlans": {
             "status": "success",
             "priceAndPlans": {
-                "GPU Cloud Pricing": {
-                    "NVIDIA HGX H100": {
-                        "VRAM (GB)": 80,
-                        "Max vCPUs per GPU": 48,
-                        "Max RAM (GB) per GPU": 256,
-                        "GPU Component Cost Per Hour": "$4.76"
-                    },
-                    "NVIDIA H100 PCIe": {
-                        "VRAM (GB)": 80,
-                        "Max vCPUs per GPU": 48,
-                        "Max RAM (GB) per GPU": 256,
-                        "GPU Component Cost Per Hour": "$4.25"
-                    },
-                    "A100 80GB NVLINK": {
-                        "VRAM (GB)": 80,
-                        "Max vCPUs per GPU": 48,
-                        "Max RAM (GB) per GPU": 256,
-                        "GPU Component Cost Per Hour": "$2.21"
-                    },
-                    "A100 80GB PCIe": {
-                        "VRAM (GB)": 80,
-                        "Max vCPUs per GPU": 48,
-                        "Max RAM (GB) per GPU": 256,
-                        "GPU Component Cost Per Hour": "$2.21"
-                    },
-                    "A100 40GB NVLINK": {
-                        "VRAM (GB)": 40,
-                        "Max vCPUs per GPU": 48,
-                        "Max RAM (GB) per GPU": 256,
-                        "GPU Component Cost Per Hour": "$2.06"
-                    },
-                    "A100 40GB PCIe": {
-                        "VRAM (GB)": 40,
-                        "Max vCPUs per GPU": 48,
-                        "Max RAM (GB) per GPU": 256,
-                        "GPU Component Cost Per Hour": "$2.06"
-                    },
-                    "A40": {
-                        "VRAM (GB)": 48,
-                        "Max vCPUs per GPU": 48,
-                        "Max RAM (GB) per GPU": 256,
-                        "GPU Component Cost Per Hour": "$1.28"
-                    },
-                    "RTX A6000": {
-                        "VRAM (GB)": 48,
-                        "Max vCPUs per GPU": 48,
-                        "Max RAM (GB) per GPU": 256,
-                        "GPU Component Cost Per Hour": "$1.28"
-                    },
-                    "RTX A5000": {
-                        "VRAM (GB)": 24,
-                        "Max vCPUs per GPU": 36,
-                        "Max RAM (GB) per GPU": 128,
-                        "GPU Component Cost Per Hour": "$0.77"
-                    },
-                    "RTX A4000": {
-                        "VRAM (GB)": 16,
-                        "Max vCPUs per GPU": 36,
-                        "Max RAM (GB) per GPU": 128,
-                        "GPU Component Cost Per Hour": "$0.61"
-                    },
-                    "Quadro RTX 5000": {
-                        "VRAM (GB)": 16,
-                        "Max vCPUs per GPU": 36,
-                        "Max RAM (GB) per GPU": 128,
-                        "GPU Component Cost Per Hour": "$0.57"
-                    },
-                    "Quadro RTX 4000": {
-                        "VRAM (GB)": 8,
-                        "Max vCPUs per GPU": 36,
-                        "Max RAM (GB) per GPU": 128,
-                        "GPU Component Cost Per Hour": "$0.24"
-                    },
-                    "Tesla V100 NVLINK": {
-                        "VRAM (GB)": 16,
-                        "Max vCPUs per GPU": 36,
-                        "Max RAM (GB) per GPU": 128,
-                        "GPU Component Cost Per Hour": "$0.80"
-                    }
+                "NVIDIA HGX H100": {
+                    "price": "$2.23/hr"
                 },
-                "CPU Cloud Pricing": {
-                    "AMD EPYC Milan": {
-                        "RAM per vCPU": 4,
-                        "Cost Per vCPU": "$0.035"
-                    },
-                    "AMD EPYC Rome": {
-                        "RAM per vCPU": 4,
-                        "Cost Per vCPU": "$0.03"
-                    },
-                    "Intel Xeon Scalable": {
-                        "RAM per vCPU": 4,
-                        "Cost Per vCPU": "$0.03"
-                    },
-                    "Intel Xeon v4": {
-                        "RAM per vCPU": 4,
-                        "Cost Per vCPU": "$0.02"
-                    },
-                    "Intel Xeon v3": {
-                        "RAM per vCPU": 4,
-                        "Cost Per vCPU": "$0.0125"
-                    }
+                "NVIDIA H100 PCIe": {
+                    "price": "$4.25/hr"
                 },
-                "Storage": {
-                    "HDD (Block or Shared Filesystem)": "$0.04 per GB / month",
-                    "NVMe (Block or Shared Filesystem)": "$0.07 per GB / month",
-                    "Object Storage": "$0.03 per GB / month",
-                    "Block Storage (HDD)": "$0.04 per GB / month",
-                    "Block Storage (NVMe)": "$0.07 per GB / month"
+                "A100 80GB NVLINK": {
+                    "price": "$2.21/hr"
                 },
-                "Networking": {
-                    "Public IP Address": "$4.00 per IP / month",
-                    "Burstable IP Address": "$10.00 per IP / month",
-                    "VPC": "$20.00 per VPC / month"
+                "A100 80GB PCIe": {
+                    "price": "$2.21/hr"
+                },
+                "A100 40GB NVLINK": {
+                    "price": "$2.06/hr"
+                },
+                "A100 40GB PCIe": {
+                    "price": "$2.06/hr"
+                },
+                "A40": {
+                    "price": "$1.28/hr"
+                },
+                "RTX A6000": {
+                    "price": "$1.28/hr"
+                },
+                "RTX A5000": {
+                    "price": "$0.77/hr"
+                },
+                "RTX A4000": {
+                    "price": "$0.61/hr"
+                },
+                "Quadro RTX 5000": {
+                    "price": "$0.57/hr"
+                },
+                "Quadro RTX 4000": {
+                    "price": "$0.24/hr"
+                },
+                "Tesla V100 NVLINK": {
+                    "price": "$0.80/hr"
                 }
             }
         }
@@ -565,105 +282,107 @@
         "product_name": "Lambda Cloud",
         "call_to_action": "Sign up for free",
         "usecases": [
-            "AI model building and fine-tuning",
-            "High-bandwidth GPU-to-GPU communication",
-            "Hosting Generative AI apps",
-            "Accessing cloud GPUs for machine learning",
-            "On-demand GPU cloud pricing",
-            "Reserved Cloud Cluster pricing"
+            "3D rendering",
+            "Machine learning",
+            "Data processing",
+            "Gaming"
         ],
-        "solutions": [
-            "Cloud Clusters",
-            "Datacenter solutions (Echelon Clusters, Hyperplane Server, Scalar Server, NVIDIA DGX Systems, NVIDIA GH200, NVIDIA H100 & H200, GPU Colocation)",
-            "Desktop solutions (Vector GPU Workstation, Tensorbook GPU Laptop)"
-        ],
+        "solutions": "Lambda Cloud provides on-demand cloud GPU instances with high-performance NVIDIA GPUs for various use cases such as 3D rendering, machine learning, data processing, and gaming.",
         "key_features": {
-            "NVIDIA GPU Options": [
-                "H100 SXM",
-                "H100 PCIe",
-                "A100 SXM",
-                "A100 PCIe",
-                "A10",
-                "A6000",
-                "Tesla V100",
-                "Quadro RTX 6000"
+            "GPU Types": [
+                "NVIDIA H100 SXM",
+                "NVIDIA H100 PCIe",
+                "NVIDIA A100 SXM",
+                "NVIDIA A100 PCIe",
+                "NVIDIA A10",
+                "NVIDIA A6000",
+                "NVIDIA Tesla V100",
+                "NVIDIA Quadro RTX 6000"
             ],
-            "GPU Instance Types": [
-                "1x, 2x, 4x, or 8x GPUs"
-            ],
-            "Storage Options": [
-                "High-speed filesystem for GPU instances",
-                "Shared filesystems"
-            ],
-            "Pricing Model": [
-                "Pay-by-the-second billing",
-                "Transparent pricing"
-            ],
-            "Pre-configured Environment": [
-                "One-click Jupyter access",
-                "Pre-installed with popular ML frameworks"
-            ],
-            "Scalability": [
-                "Enhanced scalability",
-                "Automate workflow with Lambda Cloud API"
-            ],
-            "Reserved Cloud Cluster Options": [
-                "Reserved",
-                "Sprint"
-            ]
+            "GPU Memory": "Ranges from 16GB to 80GB",
+            "vCPUs": "Ranges from 14 to 240",
+            "RAM": "Ranges from 46 GiB to 1800 GiB",
+            "Storage": "SSD storage ranging from 200 GiB to 24.2 TiB",
+            "Pricing Model": "Pay-by-the-second billing with transparent pricing and no charges for egress",
+            "Scalability": "Supports multi-GPU instances and offers automated workflow through Lambda Cloud API",
+            "Reserved Cloud Cluster Pricing": "Offers reserved and sprint pricing for NVIDIA H100 clusters"
         },
+        "typical_project": "A typical GPU Cloud project involves providing scalable, high-performance GPU resources for applications such as 3D rendering, machine learning, data processing, and gaming, emphasizing cost efficiency, security, and support for multiple programming environments.",
         "pricesAndPlans": {
-            "status": "Success",
-            "priceAndPlans": {
-                "8-GPU V100 instance": {
-                    "price": "$4.40 / hr",
-                    "features": {
-                        "GPUs": "8x (16 GB) NVIDIA Tensor Core V100 SXM2 GPUs (with NVLink\u2122)",
-                        "CPU": "92 vCPUs",
-                        "System RAM": "448 GB",
-                        "Temporary Local Storage": "6 TB NVMe",
-                        "Network Interface": "10 Gbps (peak)"
-                    }
+            "status": "success",
+            "priceAndPlans": [
+                {
+                    "name": "Lambda Cloud 8-GPU V100 instance",
+                    "price": "$4.40 / hr"
                 }
-            }
+            ]
         }
     },
     "blog.paperspace.com": {
-        "Paperspace": {
-            "call_to_action": "Contact Sales",
-            "usecases": [
-                "Machine Learning",
-                "GPU Infrastructure",
-                "Enterprise VDI",
-                "Gaming",
-                "Rendering, 3D Graphics & Simulation"
-            ],
-            "solutions": [
-                "Build, train, deploy, and manage AI models",
-                "Effortless infrastructure on-demand",
-                "Cloud hosted desktops for both individuals and organizations"
-            ],
-            "key_features": "Simple management console, powerful API, desktop access for Windows and Linux systems, collaboration tools, limitless computing power, billed per second, discounts, wide range of GPU instances"
-        },
+        "gpu_cloud_products": [
+            {
+                "name": "Paperspace Core",
+                "call_to_action": "Sign up free",
+                "usecases": [
+                    "Machine Learning",
+                    "GPU Infrastructure",
+                    "Enterprise VDI",
+                    "Gaming",
+                    "Rendering, 3D Graphics & Simulation"
+                ],
+                "solutions": [
+                    "Build, train, deploy, and manage AI models",
+                    "Effortless infrastructure on-demand",
+                    "Cloud hosted desktops for both individuals and organizations"
+                ],
+                "key_features": "Simple and easy management console, powerful API, desktop access for Windows and Linux systems, collaboration tools, limitless computing power, billed per second, wide range of affordable and high-performance NVIDIA GPUs, preloaded with machine learning frameworks"
+            },
+            {
+                "name": "Tencent Cloud",
+                "call_to_action": "Talk to an Expert",
+                "usecases": [
+                    "Machine Learning",
+                    "GPU Infrastructure",
+                    "Gaming",
+                    "Rendering, 3D Graphics & Simulation"
+                ],
+                "solutions": [
+                    "Develop, fine-tune, and deploy AI models of any size and complexity",
+                    "Power accelerated applications with modern infrastructure"
+                ],
+                "key_features": "Fast, stable, and elastic cloud GPU computing, support for various NVIDIA GPU instances, pay-as-you-go instances, support for deep learning training and inference"
+            },
+            {
+                "name": "Genesis Cloud",
+                "call_to_action": "Contact Sales",
+                "usecases": [
+                    "Machine Learning",
+                    "Visual Processing",
+                    "High-performance Computing"
+                ],
+                "solutions": [
+                    "High-performance cloud GPUs for machine learning, visual processing, and high-performance computing workloads"
+                ],
+                "key_features": "Utilizes NVIDIA GeForce RTX and GTX GPUs, simple compute dashboard interface, free credits on sign-up, discounts on long-term plans, support for PyTorch and TensorFlow frameworks"
+            },
+            {
+                "name": "Lambda Labs Cloud",
+                "call_to_action": "Book a Demo",
+                "usecases": [
+                    "Machine Learning",
+                    "Deep Learning",
+                    "Scalability"
+                ],
+                "solutions": [
+                    "Cloud GPU instances for training and scaling deep learning models"
+                ],
+                "key_features": "Pre-installed major deep learning frameworks, access to a dedicated Jupyter notebook, support for NVIDIA RTX and Tesla V100 GPUs, on-demand and reserved pricing instances"
+            }
+        ],
         "pricesAndPlans": {
-            "status": "found",
+            "status": "success",
             "priceAndPlans": {
-                "Gradient": {
-                    "pricing": "Variable",
-                    "freePlan": {
-                        "features": [
-                            "Free, dedicated cloud GPU instance",
-                            "Up to 6 hours usage",
-                            "Fully versioned notebooks"
-                        ]
-                    },
-                    "paidPlans": {
-                        "features": [
-                            "Access to private notebooks",
-                            "Pay-per-second cloud instances"
-                        ]
-                    }
-                }
+                "Gradient": "Free GPU plan available, other plans require sign up for pricing"
             }
         }
     },
@@ -678,23 +397,20 @@
                 "regions": "Worldwide",
                 "images": {
                     "notebooks": true,
-                    "other": true
+                    "hide_all": true
                 },
-                "call_to_action": "talk to a manager",
-                "usecases": [
-                    "Machine Learning Competitions",
-                    "Cloud GPUs"
-                ],
-                "solutions": [
-                    "AI and Machine Learning",
-                    "Data Analytics",
-                    "High-Performance Computing"
-                ],
                 "key_features": [
                     "Global availability",
-                    "High-performance A100 GPUs",
-                    "Support for machine learning workflows"
-                ]
+                    "High-performance GPUs",
+                    "Support for multiple programming environments"
+                ],
+                "call_to_action": "Sign up for a demo",
+                "usecases": [
+                    "Machine learning",
+                    "Data processing",
+                    "Gaming"
+                ],
+                "solutions": "Provides scalable, high-performance GPU resources for various applications such as 3D rendering, machine learning, data processing, and gaming, emphasizing cost efficiency, security, and support for multiple programming environments."
             },
             {
                 "name": "Amazon AWS",
@@ -705,23 +421,20 @@
                 "regions": "Worldwide",
                 "images": {
                     "notebooks": true,
-                    "other": true
+                    "hide_all": true
                 },
-                "call_to_action": "book a demo",
-                "usecases": [
-                    "Machine Learning Competitions",
-                    "Cloud GPUs"
-                ],
-                "solutions": [
-                    "AI and Machine Learning",
-                    "Data Analytics",
-                    "High-Performance Computing"
-                ],
                 "key_features": [
-                    "Wide range of GPU options",
                     "Global availability",
-                    "Scalable infrastructure"
-                ]
+                    "High-performance GPUs",
+                    "Support for multiple programming environments"
+                ],
+                "call_to_action": "Talk to a manager",
+                "usecases": [
+                    "Machine learning",
+                    "Data processing",
+                    "Gaming"
+                ],
+                "solutions": "Offers high-performance GPU resources for applications such as 3D rendering, machine learning, data processing, and gaming, with a focus on global availability and support for multiple programming environments."
             },
             {
                 "name": "ACE Cloud",
@@ -732,20 +445,18 @@
                 "regions": "Worldwide",
                 "images": {
                     "notebooks": true,
-                    "other": false
+                    "hide_all": false
                 },
-                "call_to_action": "sign up",
-                "usecases": [
-                    "Cloud GPUs"
-                ],
-                "solutions": [
-                    "AI and Machine Learning",
-                    "High-Performance Computing"
-                ],
                 "key_features": [
-                    "Cost-effective A100 GPU options",
-                    "Global availability"
-                ]
+                    "Global availability",
+                    "Cost-effective GPU resources"
+                ],
+                "call_to_action": "Book a demo",
+                "usecases": [
+                    "Machine learning",
+                    "Data processing"
+                ],
+                "solutions": "Provides cost-effective GPU resources for machine learning and data processing applications with global availability."
             },
             {
                 "name": "Microsoft Azure",
@@ -756,22 +467,18 @@
                 "regions": "Worldwide",
                 "images": {
                     "notebooks": true,
-                    "other": true
+                    "hide_all": true
                 },
-                "call_to_action": "talk to team",
-                "usecases": [
-                    "Cloud GPUs"
-                ],
-                "solutions": [
-                    "AI and Machine Learning",
-                    "Data Analytics",
-                    "High-Performance Computing"
-                ],
                 "key_features": [
-                    "Competitive pricing",
                     "Global availability",
-                    "Support for machine learning workflows"
-                ]
+                    "High-performance GPUs"
+                ],
+                "call_to_action": "Talk to team",
+                "usecases": [
+                    "Machine learning",
+                    "Data processing"
+                ],
+                "solutions": "Delivers high-performance GPU resources for machine learning and data processing applications with global availability."
             },
             {
                 "name": "Vultr",
@@ -782,20 +489,16 @@
                 "regions": "Worldwide",
                 "images": {
                     "notebooks": true,
-                    "other": false
+                    "hide_all": false
                 },
-                "call_to_action": "talk to a manager",
-                "usecases": [
-                    "Cloud GPUs"
-                ],
-                "solutions": [
-                    "AI and Machine Learning",
-                    "High-Performance Computing"
-                ],
                 "key_features": [
-                    "Affordable A100 GPU options",
-                    "Global availability"
-                ]
+                    "Cost-effective GPU resources"
+                ],
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Machine learning"
+                ],
+                "solutions": "Offers cost-effective GPU resources for machine learning applications with global availability."
             },
             {
                 "name": "TensorDock",
@@ -806,26 +509,161 @@
                 "regions": "Worldwide",
                 "images": {
                     "notebooks": true,
-                    "other": true
+                    "hide_all": true
                 },
-                "call_to_action": "sign up",
-                "usecases": [
-                    "Cloud GPUs"
-                ],
-                "solutions": [
-                    "AI and Machine Learning",
-                    "Data Analytics"
-                ],
                 "key_features": [
-                    "Affordable entry-level pricing",
-                    "Support for machine learning workflows"
-                ]
+                    "Global availability"
+                ],
+                "call_to_action": "Sign up for a demo",
+                "usecases": [
+                    "Machine learning",
+                    "Data processing"
+                ],
+                "solutions": "Provides GPU resources for machine learning and data processing applications with global availability."
             }
         ],
         "pricesAndPlans": {
             "status": "success",
             "priceAndPlans": {
-                "The Wayback Machine": "Not found"
+                "Google Cloud": {
+                    "credits": "$350",
+                    "A100 (40GB/h)": "$3.67",
+                    "A100 (80GB/h)": "$5.07"
+                },
+                "Amazon AWS": {
+                    "credits": "$300",
+                    "A100 (40GB/h)": "$4.096",
+                    "A100 (80GB/h)": "$5.12"
+                },
+                "ACE Cloud": {
+                    "credits": "$300",
+                    "A100 (40GB/h)": "$1.50",
+                    "A100 (80GB/h)": "$3.00"
+                },
+                "Microsoft Azure": {
+                    "credits": "$200",
+                    "A100 (80GB/h)": "$3.67"
+                },
+                "Vultr": {
+                    "credits": "$100",
+                    "A100 (80GB/h)": "$2.60"
+                },
+                "TensorDock": {
+                    "credits": "$50",
+                    "A6000/h": "$0.40"
+                },
+                "Genesis Cloud": {
+                    "credits": "$50",
+                    "Regions": "Iceland, Norway"
+                },
+                "Paperspace": {
+                    "credits": "$10",
+                    "A100 (40GB/h)": "$3.09",
+                    "A100 (80GB/h)": "$3.18",
+                    "A6000/h": "$1.89",
+                    "Regions": "US/Europe"
+                },
+                "Lambda Cloud": {
+                    "credits": "$0",
+                    "A100 (40GB/h)": "$1.10",
+                    "A100 (80GB/h)": "$1.50",
+                    "A6000/h": "$0.80",
+                    "Regions": "US"
+                },
+                "DataCrunch.io": {
+                    "credits": "$0",
+                    "A100 (80GB/h)": "$2.20",
+                    "A6000/h": "$0.99",
+                    "Regions": "Finland"
+                },
+                "Jarvis Labs": {
+                    "credits": "$0",
+                    "A100 (40GB/h)": "$0.79",
+                    "A6000/h": "$0.99",
+                    "Regions": "India"
+                },
+                "RunPod": {
+                    "credits": "$0",
+                    "A100 (40GB/h)": "$0.89",
+                    "A100 (80GB/h)": "$1.89",
+                    "A6000/h": "$0.489",
+                    "Regions": "Worldwide"
+                },
+                "CoreWeave": {
+                    "credits": "$0",
+                    "A100 (40GB/h)": "$2.06",
+                    "A100 (80GB/h)": "$2.21",
+                    "A6000/h": "$1.28",
+                    "Regions": "US"
+                },
+                "Linode": {
+                    "credits": "$0",
+                    "Regions": "Worldwide"
+                },
+                "OVHcloud": {
+                    "credits": "$0",
+                    "Regions": "Worldwide"
+                },
+                "FluidStack": {
+                    "credits": "$0",
+                    "A100 (40GB/h)": "$1.1",
+                    "A100 (80GB/h)": "$1.49",
+                    "A6000/h": "$2.00",
+                    "Regions": "Worldwide"
+                },
+                "Oblivus Cloud": {
+                    "credits": "$0",
+                    "A100 (40GB/h)": "$2.25",
+                    "A100 (80GB/h)": "$2.41",
+                    "A6000/h": "$1.4",
+                    "Regions": "US"
+                },
+                "Seeweb": {
+                    "credits": "$0",
+                    "A100 (80GB/h)": "$2.44",
+                    "A6000/h": "$0.75",
+                    "Regions": "Italy"
+                },
+                "Latitude.sh": {
+                    "credits": "$0",
+                    "A100 (80GB/h)": "$2.90",
+                    "Regions": "Worldwide"
+                },
+                "Exoscale": {
+                    "credits": "$0",
+                    "Regions": "Switzerland, Germany"
+                },
+                "Cirrascale": {
+                    "credits": "$0",
+                    "A100 (40GB/h)": "$2.87",
+                    "A100 (80GB/h)": "$3.25",
+                    "A6000/h": "$1.12",
+                    "Regions": "Worldwide"
+                },
+                "Cudo Compute": {
+                    "credits": "$0",
+                    "A6000/h": "$0.78",
+                    "Regions": "Worldwide"
+                },
+                "Crusoe Cloud": {
+                    "credits": "$0",
+                    "A100 (40GB/h)": "$1.45",
+                    "A100 (80GB/h)": "$1.65",
+                    "A6000/h": "$0.92",
+                    "Regions": "US"
+                },
+                "Vast.ai": {
+                    "credits": "$0",
+                    "A100 (40GB/h)": "$1.00",
+                    "A100 (80GB/h)": "$1.35",
+                    "A6000/h": "$0.56",
+                    "Regions": "Worldwide"
+                },
+                "LeaderGPU": {
+                    "credits": "$0",
+                    "A6000/h": "$1.86",
+                    "Regions": "Netherlands"
+                }
             }
         }
     },
@@ -839,12 +677,10 @@
             "Deep learning",
             "Ray tracing"
         ],
-        "solutions": "On-demand GPUs for parallel processing workloads such as machine learning, scientific computing, and video processing.",
+        "solutions": "Provides on-demand GPUs for parallel processing workloads such as machine learning, scientific computing, and video processing.",
         "key_features": {
-            "On-demand GPU": "Leverage the power of GPUs while benefiting from the main value proposition of cloud: turning a capital expense into an operating expense.",
-            "Market Leading Hardware": "GPUs are NVIDIA Quadro RTX 6000 units, currently considered one of the best in market GPUs.",
-            "Simplifying Complex Use Cases": "Cloud GPUs remove the barrier of entry for complex use cases such as machine learning, AI, and video streaming.",
-            "Multiple Plan Types": "GPU plans offer up to four cards per instance, depending on the workload requirements.",
+            "GPU Hardware": "NVIDIA Quadro RTX 6000 with CUDA, Tensor, and RT cores",
+            "Scalability": "Up to four GPU cards per instance",
             "Technical Specifications": {
                 "Dedicated vCPU cores": "8-24 cores",
                 "Memory": "32GB - 128GB",
@@ -863,22 +699,24 @@
                     "Available in selection regions"
                 ]
             },
-            "Free Bundled Services": [
-                "Always-on DDoS Protection",
-                "Domain management with DNS Manager",
-                "Network security with Cloud Firewalls",
-                "Private Layer 2 networks with VLANs",
-                "Monitoring via Cloud Manager, Longview",
-                "Deployment scripts with StackScripts"
-            ],
-            "Complementary Paid Services": [
-                "Data protection with Backups service",
-                "Add additional storage with Block Storage",
-                "Create reusable images with Custom Images",
-                "Advanced monitoring via Longview Pro",
-                "Incident response with Managed Services",
-                "Add scalable storage with Object Storage"
-            ],
+            "Bundled Services": {
+                "Free": [
+                    "Always-on DDoS Protection",
+                    "Domain management with DNS Manager",
+                    "Network security with Cloud Firewalls",
+                    "Private Layer 2 networks with VLANs",
+                    "Monitoring via Cloud Manager, Longview",
+                    "Deployment scripts with StackScripts"
+                ],
+                "Paid": [
+                    "Data protection with Backups service",
+                    "Additional storage with Block Storage",
+                    "Reusable images with Custom Images",
+                    "Advanced monitoring via Longview Pro",
+                    "Incident response with Managed Services",
+                    "Scalable storage with Object Storage"
+                ]
+            },
             "Recommended Workloads": [
                 "Accelerated data science models",
                 "Machine learning applications",
@@ -890,18 +728,52 @@
         "pricesAndPlans": {
             "status": "Success",
             "priceAndPlans": {
-                "plan1": {
-                    "name": "Dedicated + RTX6000 GPU Plans",
-                    "price_monthly": "$1000",
-                    "price_hourly": "$1.5",
-                    "ram": "32GB - 128GB",
-                    "cpu_cores": "8 - 24 cores",
-                    "ssd_storage": "640GB - 7200GB",
-                    "gpu_cards": "1 - 4 cards",
-                    "transfer": "16TB - 20TB",
-                    "network_in": "40Gbps",
-                    "network_out": "10Gbps"
-                }
+                "GPU Plans": [
+                    {
+                        "RAM": "32GB",
+                        "CPU Cores": 8,
+                        "SSD Storage": "640GB",
+                        "GPU Cards": 1,
+                        "Transfer": "16TB",
+                        "Network In": "40Gbps",
+                        "Network Out": "10Gbps",
+                        "Monthly Price": "$1,000",
+                        "Hourly Price": "$1.50"
+                    },
+                    {
+                        "RAM": "64GB",
+                        "CPU Cores": 16,
+                        "SSD Storage": "1280GB",
+                        "GPU Cards": 2,
+                        "Transfer": "20TB",
+                        "Network In": "40Gbps",
+                        "Network Out": "10Gbps",
+                        "Monthly Price": "$2,000",
+                        "Hourly Price": "$3.00"
+                    },
+                    {
+                        "RAM": "96GB",
+                        "CPU Cores": 20,
+                        "SSD Storage": "1920GB",
+                        "GPU Cards": 3,
+                        "Transfer": "20TB",
+                        "Network In": "40Gbps",
+                        "Network Out": "10Gbps",
+                        "Monthly Price": "$3,000",
+                        "Hourly Price": "$4.50"
+                    },
+                    {
+                        "RAM": "128GB",
+                        "CPU Cores": 24,
+                        "SSD Storage": "2560GB",
+                        "GPU Cards": 4,
+                        "Transfer": "20TB",
+                        "Network In": "40Gbps",
+                        "Network Out": "10Gbps",
+                        "Monthly Price": "$4,000",
+                        "Hourly Price": "$6.00"
+                    }
+                ]
             }
         }
     },

@@ -1,0 +1,102 @@
+{
+    "title": "Optimized GPU Cloud Features",
+    "intro": "This list represents a curated set of features for GPU cloud services, derived from an analysis of 27 sites and 92 features. The optimization process involved removing redundant, overly specific, ambiguous, and marketing fluff content to provide a clear and informative list of features that are broadly applicable to GPU cloud offerings.",
+    "features": [
+        {
+            "title": "Hardware Specifications",
+            "GPU Types": {
+                "description": "Variety of NVIDIA and AMD GPUs",
+                "count": 27
+            },
+            "GPU Memory": {
+                "description": "Ranges from 16GB to 80GB",
+                "count": 15
+            },
+            "vCPUs": {
+                "description": "Ranges from 2 to 240 virtual CPU cores",
+                "count": 10
+            },
+            "RAM": {
+                "description": "Ranges from 46 GiB to 1800 GiB",
+                "count": 10
+            },
+            "Storage": {
+                "description": "SSD storage ranging from 200 GiB to 24.2 TiB",
+                "count": 15
+            }
+        },
+        {
+            "title": "Performance and Scalability",
+            "Scalability": {
+                "description": "Auto-scaling and support for multi-GPU instances",
+                "count": 22
+            },
+            "Performance": {
+                "description": "High-performance computing capabilities",
+                "count": 25
+            }
+        },
+        {
+            "title": "Pricing and Billing",
+            "Pricing Model": {
+                "description": "Pay-as-you-go, spot, and reserved instance pricing",
+                "count": 27
+            },
+            "Billing Granularity": {
+                "description": "Per-second to hourly billing options",
+                "count": 18
+            }
+        },
+        {
+            "title": "Deployment and Management",
+            "Deployment": {
+                "description": "Quick environment setup with pre-installed drivers and frameworks",
+                "count": 20
+            },
+            "Management": {
+                "description": "Management consoles, APIs, and CLI tools",
+                "count": 20
+            }
+        },
+        {
+            "title": "Security and Compliance",
+            "Security": {
+                "description": "Enterprise-grade security standards and compliance certifications",
+                "count": 15
+            }
+        },
+        {
+            "title": "Global Availability and Networking",
+            "Global Availability": {
+                "description": "Multiple regions and data centers worldwide",
+                "count": 27
+            },
+            "Networking": {
+                "description": "High-speed networking options, including private and public networks",
+                "count": 15
+            }
+        },
+        {
+            "title": "Support and Documentation",
+            "Customer Support": {
+                "description": "Technical support and customer service",
+                "count": 20
+            },
+            "Documentation": {
+                "description": "Comprehensive and clear documentation",
+                "count": 15
+            }
+        },
+        {
+            "title": "Specialized Solutions and Use Cases",
+            "Use Cases": {
+                "description": "Support for AI, ML, data analytics, gaming, and more",
+                "count": 27
+            },
+            "Industry Solutions": {
+                "description": "Tailored solutions for various industries",
+                "count": 10
+            }
+        }
+    ]
+}
