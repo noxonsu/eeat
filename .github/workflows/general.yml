@@ -106,12 +106,12 @@ jobs:
 
         python 8visualPricing.py
         git add -A
-        git diff --cached --exit-code or git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 8visualPricing.py"
+        git diff --cached --exit-code || git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 8visualPricing.py"
         git pull
         git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
 
         python 9visual.py
         git add -A
-        git diff --cached --exit-code or git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 9visual.py"
+        git diff --cached --exit-code || git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 9visual.py"
         git pull
         git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
