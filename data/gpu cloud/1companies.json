@@ -242,6 +242,7 @@
         "priceAndPlansCrawled": "Not found"
     },
     "www.oblivus.com": {
-        "url": "https://www.oblivus.com/"
+        "url": "https://www.oblivus.com/",
+        "nature": "single project"
     }
 }
