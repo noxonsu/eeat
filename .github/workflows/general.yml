@@ -102,16 +102,16 @@ jobs:
         git add -A
         git diff --cached --exit-code || git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 6ClasterizeFeautres.py"
         git pull
-        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git or true
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
 
         python 8visualPricing.py
         git add -A
         git diff --cached --exit-code or git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 8visualPricing.py"
         git pull
-        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git or true
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
 
         python 9visual.py
         git add -A
         git diff --cached --exit-code or git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 9visual.py"
         git pull
-        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git or true
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
