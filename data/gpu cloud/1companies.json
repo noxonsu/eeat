@@ -38,17 +38,20 @@
     "cloud-gpus.com": {
         "url": "https://cloud-gpus.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://cloud-gpus.com/pricing-plans"
+        "priceAndPlansCrawled": "https://cloud-gpus.com/pricing-plans",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "www.linode.com": {
         "url": "https://www.linode.com/products/gpu/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.linode.com/products/gpu/"
+        "priceAndPlansCrawled": "https://www.linode.com/products/gpu/",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "us.ovhcloud.com": {
         "url": "https://us.ovhcloud.com/public-cloud/gpu/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://us.ovhcloud.com/public-cloud/gpu/"
+        "priceAndPlansCrawled": "https://us.ovhcloud.com/public-cloud/gpu/",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "www.ibm.com": {
         "url": "https://www.ibm.com/cloud/gpu",
@@ -58,32 +61,38 @@
     "fullstackdeeplearning.com": {
         "url": "https://fullstackdeeplearning.com/cloud-gpus/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://fullstackdeeplearning.com/cloud-gpus/"
+        "priceAndPlansCrawled": "https://fullstackdeeplearning.com/cloud-gpus/",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "vast.ai": {
         "url": "https://vast.ai/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://vast.ai/docs/gpu-instances/21-prepaid-plans"
+        "priceAndPlansCrawled": "https://vast.ai/docs/gpu-instances/21-prepaid-plans",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "www.tensordock.com": {
         "url": "https://www.tensordock.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.tensordock.com/product-subscriptions"
+        "priceAndPlansCrawled": "https://www.tensordock.com/product-subscriptions",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "www.paperspace.com": {
         "url": "https://www.paperspace.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.paperspace.com/gpu-cloud-comparison"
+        "priceAndPlansCrawled": "https://www.paperspace.com/gpu-cloud-comparison",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "www.genesiscloud.com": {
         "url": "https://www.genesiscloud.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.genesiscloud.com/pricing"
+        "priceAndPlansCrawled": "https://www.genesiscloud.com/pricing",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "www.tencentcloud.com": {
         "url": "https://www.tencentcloud.com/product/gpu",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.tencentcloud.com/document/product/560"
+        "priceAndPlansCrawled": "https://www.tencentcloud.com/document/product/560",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "www.oracle.com": {
         "url": "https://www.oracle.com/cloud/compute/gpu/",
@@ -93,17 +102,20 @@
     "www.ovhcloud.com": {
         "url": "https://www.ovhcloud.com/en/public-cloud/nvidia-gpu-cloud/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.ovhcloud.com/en/public-cloud/gpu/"
+        "priceAndPlansCrawled": "https://www.ovhcloud.com/en/public-cloud/gpu/",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "geekflare.com": {
         "url": "https://geekflare.com/best-cloud-gpu-platforms/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://geekflare.com/g-core-labs-cloud-review/"
+        "priceAndPlansCrawled": "https://geekflare.com/g-core-labs-cloud-review/",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "news.ycombinator.com": {
         "url": "https://news.ycombinator.com/item?id=36025099",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://news.ycombinator.com/item?id=35958715"
+        "priceAndPlansCrawled": "https://news.ycombinator.com/item?id=35958715",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "cloudmarketplace.oracle.com": {
         "url": "https://cloudmarketplace.oracle.com/marketplace/en_US/listing/54854361",
@@ -123,17 +135,20 @@
     "www.vultr.com": {
         "url": "https://www.vultr.com/products/cloud-gpu/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.vultr.com/products/cloud-gpu/"
+        "priceAndPlansCrawled": "https://www.vultr.com/products/cloud-gpu/",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "www.reddit.com": {
         "url": "https://www.reddit.com/r/StableDiffusion/comments/14f28jj/buy_powerful_gpu_vs_rent_cloudbased_gpu_which_one/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.reddit.com/r/deeplearning/comments/omjika/cheapest_cloud_gpu_providers_giving_rtx_3090_and/"
+        "priceAndPlansCrawled": "https://www.reddit.com/r/deeplearning/comments/omjika/cheapest_cloud_gpu_providers_giving_rtx_3090_and/",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "forums.fast.ai": {
         "url": "https://forums.fast.ai/t/cloud-gpus-comparison-and-free-credits/93389",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://forums.fast.ai/t/cost-effectiveness-of-the-different-cloud-server-renting-options/7300"
+        "priceAndPlansCrawled": "https://forums.fast.ai/t/cost-effectiveness-of-the-different-cloud-server-renting-options/7300",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "gpuoncloud.com": {
         "url": "https://gpuoncloud.com/",
@@ -153,12 +168,14 @@
     "research.aimultiple.com": {
         "url": "https://research.aimultiple.com/cloud-gpu/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://research.aimultiple.com/cloud-gpu/"
+        "priceAndPlansCrawled": "https://research.aimultiple.com/cloud-gpu/",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "www.gpueater.com": {
         "url": "https://www.gpueater.com/index.html",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.gpueater.com/pricing"
+        "priceAndPlansCrawled": "https://www.gpueater.com/pricing",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "www.cloud4u.com": {
         "url": "https://www.cloud4u.com/cloud-hosting/gpu/",
@@ -168,15 +185,54 @@
     "www.acecloudhosting.com": {
         "url": "https://www.acecloudhosting.com/blog/the-new-wave-of-cloud-gpus-revolutionizing-the-business-landscape/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.acecloudhosting.com/public-cloud/pricing/"
+        "priceAndPlansCrawled": "https://www.acecloudhosting.com/public-cloud/pricing/",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "oblivus.com": {
         "url": "https://oblivus.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://oblivus.com/"
+        "priceAndPlansCrawled": "https://oblivus.com/",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
     },
     "www.cudocompute.com": {
         "url": "https://www.cudocompute.com/solutions/gpu-cloud/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.cyberlinkasp.com": {
+        "url": "https://www.cyberlinkasp.com/insights/understanding-gpus-and-their-impact-on-cloud-computing/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.huaweicloud.com": {
+        "url": "https://www.huaweicloud.com/intl/en-us/product/gpu.html",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.huaweicloud.com/intl/en-us/pricing/calculator.html"
+    },
+    "sourceforge.net": {
+        "url": "https://sourceforge.net/software/cloud-gpu/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "salad.com": {
+        "url": "https://salad.com/salad-gpu-cloud",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://salad.com/pricing",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
+    },
+    "www.cloudalize.com": {
+        "url": "https://www.cloudalize.com/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.cloudalize.com/pricing/",
+        "5prompt_Hash": "a92deee1fe086f16ade957d72e99d0c0"
+    },
+    "www.mathworks.com": {
+        "url": "https://www.mathworks.com/help/parallel-computing/run-matlab-using-cloud-gpus.html",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.hpe.com": {
+        "url": "https://www.hpe.com/us/en/what-is/gpu-computing.html",
         "nature": "single project",
         "priceAndPlansCrawled": "Not found"
     }
