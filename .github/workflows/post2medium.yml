@@ -1,8 +1,6 @@
 name: Publish to Medium
 
 on:
-  repository_dispatch:
-    types: [publish-to-medium]
   workflow_dispatch:
     inputs:
       MEDIUM_TITLE:
