@@ -12,17 +12,20 @@
     "sanctionssearch.ofac.treas.gov": {
         "url": "https://sanctionssearch.ofac.treas.gov/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=30924"
+        "priceAndPlansCrawled": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=30924",
+        "5prompt_Hash": "fb2d88a88beb6aa60c672cafbc73ea76"
     },
     "risk.lexisnexis.co.uk": {
         "url": "https://risk.lexisnexis.co.uk/corporations-and-non-profits/financial-crime-compliance/watchlist-screening/sanctions-list-screening/sanctions-screening-guide",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://risk.lexisnexis.co.uk/corporations-and-non-profits/financial-crime-compliance/watchlist-screening/sanctions-list-screening"
+        "priceAndPlansCrawled": "https://risk.lexisnexis.co.uk/corporations-and-non-profits/financial-crime-compliance/watchlist-screening/sanctions-list-screening",
+        "5prompt_Hash": "fb2d88a88beb6aa60c672cafbc73ea76"
     },
     "www.pwc.com": {
         "url": "https://www.pwc.com/ua/en/services/forensic/sanctions-screening.html",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.pwc.com/us/en/industries/financial-services/library/sanctions-screening-automated-solutions.html"
+        "priceAndPlansCrawled": "https://www.pwc.com/us/en/industries/financial-services/library/sanctions-screening-automated-solutions.html",
+        "5prompt_Hash": "fb2d88a88beb6aa60c672cafbc73ea76"
     },
     "windward.ai": {
         "url": "https://windward.ai/glossary/what-is-sanctions-screening/",
@@ -37,7 +40,8 @@
     "www.dowjones.com": {
         "url": "https://www.dowjones.com/professional/risk/glossary/sanctions/risk-glossary-sanctions-sanctions-screening/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.dowjones.com/press-room/dow-jones-integrates-sanctions-ownership-research-data-with-swift-sanctions-screening-service/"
+        "priceAndPlansCrawled": "https://www.dowjones.com/press-room/dow-jones-integrates-sanctions-ownership-research-data-with-swift-sanctions-screening-service/",
+        "5prompt_Hash": "fb2d88a88beb6aa60c672cafbc73ea76"
     },
     "www.sanctions.io": {
         "url": "https://www.sanctions.io/blog/sanctions-screening-guide",
@@ -47,7 +51,8 @@
     "www.lseg.com": {
         "url": "https://www.lseg.com/en/risk-intelligence/financial-crime-risk-management/sanctions-screening",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.lseg.com/content/dam/lseg/en_us/documents/regulatory-reporting/sanction-screening-factsheet.pdf"
+        "priceAndPlansCrawled": "https://www.lseg.com/content/dam/lseg/en_us/documents/regulatory-reporting/sanction-screening-factsheet.pdf",
+        "5prompt_Hash": "fb2d88a88beb6aa60c672cafbc73ea76"
     },
     "salv.com": {
         "url": "https://salv.com/blog/sanctions-screening-guide/",
@@ -57,7 +62,8 @@
     "www.oracle.com": {
         "url": "https://www.oracle.com/financial-services/aml-financial-crime-compliance/sanctions-screening/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.oracle.com/financial-services/aml-financial-crime-compliance/sanctions-screening/"
+        "priceAndPlansCrawled": "https://www.oracle.com/financial-services/aml-financial-crime-compliance/sanctions-screening/",
+        "5prompt_Hash": "fb2d88a88beb6aa60c672cafbc73ea76"
     },
     "www.idenfy.com": {
         "url": "https://www.idenfy.com/blog/sanctions-screening-guide/",
@@ -67,7 +73,8 @@
     "www.idology.com": {
         "url": "https://www.idology.com/solutions/sanctions-screening/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.idology.com/solutions/sanctions-screening/"
+        "priceAndPlansCrawled": "https://www.idology.com/solutions/sanctions-screening/",
+        "5prompt_Hash": "fb2d88a88beb6aa60c672cafbc73ea76"
     },
     "www.exiger.com": {
         "url": "https://www.exiger.com/perspectives/sanctions-screening-process/",
@@ -92,7 +99,8 @@
     "www.csiweb.com": {
         "url": "https://www.csiweb.com/how-we-help/regulatory-compliance/sanctions-screening/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.csiweb.com/screen-2021/"
+        "priceAndPlansCrawled": "https://www.csiweb.com/screen-2021/",
+        "5prompt_Hash": "fb2d88a88beb6aa60c672cafbc73ea76"
     },
     "www.trade.gov": {
         "url": "https://www.trade.gov/consolidated-screening-list",
@@ -102,11 +110,13 @@
     "sumsub.com": {
         "url": "https://sumsub.com/aml-screening/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://sumsub.com/blog/tags/sanctions-screening/"
+        "priceAndPlansCrawled": "https://sumsub.com/blog/tags/sanctions-screening/",
+        "5prompt_Hash": "fb2d88a88beb6aa60c672cafbc73ea76"
     },
     "verafin.com": {
         "url": "https://verafin.com/solution/sanctions-screening-management/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://verafin.com/solution/sanctions-screening-management/"
+        "priceAndPlansCrawled": "https://verafin.com/solution/sanctions-screening-management/",
+        "5prompt_Hash": "fb2d88a88beb6aa60c672cafbc73ea76"
     }
 }

@@ -1,0 +1,350 @@
+{
+    "sanctionssearch.ofac.treas.gov": {
+        "Sanctions Screening Product": {
+            "Name": "Sanctions List Search",
+            "Call to Action": "Visit The OFAC Website",
+            "Use Cases": "Utilizing the SDN List and various other sanctions lists for due diligence and compliance purposes",
+            "Solutions": "Assisting users in utilizing the SDN List and/or the various other sanctions lists",
+            "Key Features": {
+                "Approximate string matching": "Identifying possible matches between entered strings and names on the SDN List and other sanctions lists",
+                "Slider-bar for setting threshold": "Allowing users to set a confidence rating for potential matches",
+                "Detection of misspellings or incorrect text": "Returning near or proximate matches based on the confidence rating set by the user",
+                "Program Code Key": "Providing program codes to indicate how a true hit on a returned value should be treated"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "risk.lexisnexis.co.uk": {
+        "sanctions_screening_products": [
+            {
+                "product_name": "Bridger Insight\u00ae XG",
+                "call_to_action": "Contact Us",
+                "usecases": [
+                    "Sanctions list screening",
+                    "Sanctions risk management"
+                ],
+                "solutions": [
+                    "Sanctions screening software",
+                    "Compliance solutions"
+                ],
+                "key_features": [
+                    "High volume screening",
+                    "Customizable risk-based settings",
+                    "Automated tasks",
+                    "Fuzzy logic matching",
+                    "Accept list function",
+                    "Date stamp functionality"
+                ]
+            },
+            {
+                "product_name": "Smartcleanse\u00ae",
+                "call_to_action": "Contact Us",
+                "usecases": [
+                    "Sanctions list screening",
+                    "Sanctions compliance"
+                ],
+                "solutions": [
+                    "Sanctions screening tool",
+                    "Data enrichment software"
+                ],
+                "key_features": [
+                    "Streamlining data acquisition processes",
+                    "Enriching customer and third party data",
+                    "Handling multiple lists",
+                    "Batch screening",
+                    "High quality and comprehensive sanctions data"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.pwc.com": {
+        "sanctions_screening_product_1": {
+            "name": "PwC Sanctions Screening",
+            "call_to_action": "Contact us for Forensic services",
+            "usecases": [
+                "Identifying potential risks associated with sanctioned or blacklisted business partners",
+                "Conducting sanctions and watch lists screening across multiple jurisdictions"
+            ],
+            "solutions": "The dedicated forensic team has all the necessary data sources and tools for conducting sanctions and watch lists screening. They engage with trusted external data providers and use algorithms to match the list of third parties provided by the client with the list of sanctioned entities. They also perform manual reviews of identified matches for potential false positives.",
+            "key_features": [
+                "Up to 1000 checks in the Enterprise package",
+                "Validity of each package for 365 days from the date of purchase",
+                "Integrity Due Diligence",
+                "Pre-employment screening",
+                "Sanctions screening"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.dowjones.com": {
+        "sanctions_screening_products": [
+            {
+                "name": "Dow Jones Risk & Compliance",
+                "call_to_action": "Contact",
+                "usecases": [
+                    "Financial Crime Compliance",
+                    "Third-Party Risk Management",
+                    "Sanctions Compliance"
+                ],
+                "solutions": [
+                    "Due Diligence Research and Reports",
+                    "Managed Services",
+                    "RiskCenter | Advanced Screening and Monitoring",
+                    "RiskCenter | Financial Crime",
+                    "RiskCenter | Third Party",
+                    "RiskCenter | Trade Compliance"
+                ],
+                "key_features": "Accurate sanctions data, timely updates, and consolidated lists for streamlined screening process"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.lseg.com": {
+        "sanctions_screening_products": [
+            {
+                "product_name": "World-Check Database",
+                "call_to_action": "Request details",
+                "usecases": [
+                    "Simplify customer and third-party screening process with quality data coverage"
+                ],
+                "solutions": [
+                    "Access to comprehensive and accurate sanctions risk data",
+                    "View detailed insights and background check reports",
+                    "Stay up to date on any changes with monitoring capabilities"
+                ],
+                "key_features": [
+                    "Comprehensive coverage of all known sanction bodies",
+                    "24/7 monitoring of major sanction lists",
+                    "Deduplicated records to reduce screening workload",
+                    "Filter keyworded records easily for focused screening",
+                    "Deep intelligence and tailored due diligence reports",
+                    "Managed Screening Service for ongoing monitoring"
+                ]
+            },
+            {
+                "product_name": "World-Check One",
+                "call_to_action": "Request details",
+                "usecases": [
+                    "Automated screening software combined with proprietary World-Check data"
+                ],
+                "solutions": [
+                    "Access to comprehensive and accurate sanctions risk data",
+                    "View detailed insights and background check reports",
+                    "Stay up to date on any changes with monitoring capabilities"
+                ],
+                "key_features": [
+                    "Comprehensive coverage of all known sanction bodies",
+                    "24/7 monitoring of major sanction lists",
+                    "Deduplicated records to reduce screening workload",
+                    "Filter keyworded records easily for focused screening",
+                    "Deep intelligence and tailored due diligence reports",
+                    "Managed Screening Service for ongoing monitoring"
+                ]
+            },
+            {
+                "product_name": "Managed Services",
+                "call_to_action": "Request details",
+                "usecases": [
+                    "Screen large batches of customers or third parties"
+                ],
+                "solutions": [
+                    "Access to comprehensive and accurate sanctions risk data",
+                    "View detailed insights and background check reports",
+                    "Stay up to date on any changes with monitoring capabilities"
+                ],
+                "key_features": [
+                    "Comprehensive coverage of all known sanction bodies",
+                    "24/7 monitoring of major sanction lists",
+                    "Deduplicated records to reduce screening workload",
+                    "Filter keyworded records easily for focused screening",
+                    "Deep intelligence and tailored due diligence reports",
+                    "Managed Screening Service for ongoing monitoring"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Error",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.oracle.com": {
+        "product_name": "Oracle Financial Services Sanctions Screening",
+        "call_to_action": "Request a demo",
+        "usecases": [
+            "Comprehensive and integrated coverage of sanctions screening capabilities",
+            "Real-time and batch screening against global data sources",
+            "Fast, accurate, and efficient investigations",
+            "Extensive matching capabilities with high precision",
+            "Reducing false positives",
+            "Lowering operational costs",
+            "Achieving regulatory compliance"
+        ],
+        "solutions": [
+            "Customer screening",
+            "Transaction filtering",
+            "Compliance studio",
+            "FCCM cloud service"
+        ],
+        "key_features": {
+            "01": "Global sanctions screening for the entire customer lifecycle",
+            "02": "Fast, accurate, and efficient investigations",
+            "03": "Extensive matching capabilities with high precision",
+            "04": "Reduce false positives",
+            "05": "Lower operational costs",
+            "06": "Achieve regulatory compliance"
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.idology.com": {
+        "product_name": "IDology Sanctions Screening",
+        "call_to_action": "Request a Demo",
+        "use_cases": [
+            "Contactability",
+            "Onboarding & New Account Opening",
+            "Age Verification",
+            "KYC Compliance",
+            "Digital Identity",
+            "Step-Up Authentication & Reverification",
+            "KBA Enhancement or Replacement"
+        ],
+        "solutions": [
+            "ExpectID Platform",
+            "Identity Verification",
+            "Data Verification",
+            "Document Authentication",
+            "Selfie ID Verification",
+            "Dynamic KBA",
+            "KYC/AML Regulatory Compliance",
+            "Know Your Customer (KYC) & Anti Money Laundering (AML)",
+            "Know Your Business (KYB)",
+            "Sanctions Screening",
+            "Transaction Monitoring",
+            "Fraud Management"
+        ],
+        "key_features": [
+            "Automated initial and continuous screening of customers with prioritized alerts",
+            "Access to 450+ sanctions lists including individual country lists and watchlists from OFAC, Interpol, UN Sanctions list, and more",
+            "Continuous list updates in real time or at a specified interval",
+            "Utilization of multiple matching algorithms for improved screening accuracy",
+            "Customizable and automated solutions with intuitive settings for matching algorithms",
+            "Comprehensive AML, KYC, and KYB solutions including adverse media screening and transaction monitoring",
+            "Automated alerts for high-risk individuals during onboarding and recurring periodic screening for continuous monitoring",
+            "Advanced algorithms and match filters to ensure accuracy and reduce false positives"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.csiweb.com": {
+        "sanctions_screening_products": [
+            {
+                "product_name": "WatchDOG Elite",
+                "call_to_action": "Schedule a Demo",
+                "usecases": [
+                    "Sanctions screening",
+                    "Compliance with OFAC and other international watch lists"
+                ],
+                "solutions": [
+                    "Automated sanctions screening",
+                    "Real-time, centralized screening system",
+                    "Web-based sanction screening services"
+                ],
+                "key_features": [
+                    "Real-time, Automated and Retroactive Screening",
+                    "U.S. and International Watch Lists",
+                    "Complex Ownership Structures with Kharon LensView",
+                    "Centralized, Accessible Records",
+                    "API Plug-Ins to Native Case Management Systems",
+                    "Batch Screen Customers, Counterparties, Vendors or Partners",
+                    "Denied Party, PEP, 50% Ownership and Adverse Media Screening",
+                    "Outsourced Watch List Screening Analyst Services (OWLS Group)",
+                    "Custom Filtering and Disqualification Options for PEP and Beneficial Ownership Screening",
+                    "Centralized Records and Reporting for Disparate Systems",
+                    "Sanctions Screening Modules",
+                    "Transliteration Services for 17 Languages"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "sumsub.com": {
+        "sanctions_screening_products": {
+            "Sumsub": {
+                "call_to_action": "Get started",
+                "usecases": [
+                    "Comply with AML regulations and prevent financial crime",
+                    "Boost operational efficiency and reduce false positives",
+                    "Cover all verification and monitoring needs with a single solution"
+                ],
+                "solutions": [
+                    "AI-powered AML Screening and Ongoing Monitoring",
+                    "Real-time AML monitoring of all required sources",
+                    "Screening against global watchlists and sanctions lists",
+                    "Politically Exposed Persons (PEPs) screening",
+                    "Adverse media analysis",
+                    "Ongoing monitoring for risk mitigation",
+                    "Integration flexibility"
+                ],
+                "key_features": {
+                    "Data Sources": "11,000 independent and reliable data sources from 220+ countries and territories",
+                    "Sanctions & Watchlists": "Screening against global watchlists and sanctions lists including OFAC, UN, HMT, EU, DFAT, and more",
+                    "PEPs Screening": "Liveness and Face Match verification for PEPs screening",
+                    "Adverse Media Analysis": "Monitoring thousands of media sources for negative mentions and aggregating data into customer profiles",
+                    "ROI": "240% according to Forrester Consulting study",
+                    "Compliance Coverage": "AML screening, User Verification, Business Verification, Transaction Monitoring, and Travel Rule compliance",
+                    "Client Testimonial": "Positive feedback from Deputy Group Head of Compliance of Capital.com"
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "verafin.com": {
+        "sanctions_screening_product": {
+            "call_to_action": "Request a Demo",
+            "usecases": [
+                "Efficient customer onboarding",
+                "Transaction monitoring",
+                "Automatic list updates",
+                "Continuous, activity-based and manual screening",
+                "Consolidation of solutions",
+                "Rich data analysis"
+            ],
+            "solutions": "Verafin offers a consolidated Sanctions Screening and Management solution that improves the speed and accuracy of investigations and increases the effectiveness of sanctions compliance programs.",
+            "key_features": {
+                "efficient_customer_onboarding": "Scan newly onboarded customers against watch lists to prevent transacting with sanctioned entities.",
+                "transaction_monitoring": "Review risk-rated evidence in high-quality alerts created from ongoing customer transaction monitoring.",
+                "automatic_list_updates": "Automatically updates sanctioned regions lists and provides list versioning to quickly highlight changes to previous lists.",
+                "continuous_activity_based_manual_screening": "Continuously scan vendors, employees, and all customers for any demographic data changes and changes to monitored lists.",
+                "consolidation_of_solutions": "Integrate sanctions compliance program with multiple data sources, screening agents, transaction monitoring, and case management all in one place.",
+                "rich_data_analysis": "Generate high-quality alerts through the ongoing analysis of multiple data sources including demographic data, rich wire analysis, and SWIFT codes."
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    }
+}
