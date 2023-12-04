@@ -1,0 +1,51 @@
+{
+    "title": "Sanctions Screening Features",
+    "intro": "This list represents the optimized features for sanctions screening obtained from analyzing 10 companies. A total of 25 features were gathered and grouped into subcategories.",
+    "features": {
+        "Global Sanctions Screening": {
+            "title": "Global Sanctions Screening",
+            "features": {
+                "Fast, accurate, and efficient investigations": 1,
+                "Extensive matching capabilities with high precision": 1,
+                "Reduce false positives": 1,
+                "Lower operational costs": 1,
+                "Achieve regulatory compliance": 1
+            }
+        },
+        "Sanctions List Access": {
+            "title": "Sanctions List Access",
+            "features": {
+                "Access to 450+ sanctions lists including individual country lists and watchlists from OFAC, Interpol, UN Sanctions list, and more": 1,
+                "Continuous list updates in real time or at a specified interval": 1
+            }
+        },
+        "Matching Algorithms and Customization": {
+            "title": "Matching Algorithms and Customization",
+            "features": {
+                "Utilization of multiple matching algorithms for improved screening accuracy": 1,
+                "Customizable and automated solutions with intuitive settings for matching algorithms": 1,
+                "Advanced algorithms and match filters to ensure accuracy and reduce false positives": 1
+            }
+        },
+        "Automated Screening and Monitoring": {
+            "title": "Automated Screening and Monitoring",
+            "features": {
+                "Automated initial and continuous screening of customers with prioritized alerts": 1,
+                "Automated alerts for high-risk individuals during onboarding and recurring periodic screening for continuous monitoring": 1
+            }
+        },
+        "Enhanced Compliance and Analysis": {
+            "title": "Enhanced Compliance and Analysis",
+            "features": {
+                "Integrity Due Diligence": 1,
+                "Comprehensive AML, KYC, and KYB solutions including adverse media screening and transaction monitoring": 1,
+                "efficient_customer_onboarding": 1,
+                "transaction_monitoring": 1,
+                "automatic_list_updates": 1,
+                "continuous_activity_based_manual_screening": 1,
+                "consolidation_of_solutions": 1,
+                "rich_data_analysis": 1
+            }
+        }
+    }
+}
