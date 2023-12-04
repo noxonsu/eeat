@@ -1,68 +1,90 @@
 {
     "www.complycube.com": {
-        "url": "https://www.complycube.com/en/what-is-a-sanctions-screening/"
+        "url": "https://www.complycube.com/en/what-is-a-sanctions-screening/",
+        "nature": "single project"
     },
     "sanctionscanner.com": {
-        "url": "https://sanctionscanner.com/blog/what-is-sanction-screening-service-23"
+        "url": "https://sanctionscanner.com/blog/what-is-sanction-screening-service-23",
+        "nature": "single project"
     },
     "sanctionssearch.ofac.treas.gov": {
-        "url": "https://sanctionssearch.ofac.treas.gov/"
+        "url": "https://sanctionssearch.ofac.treas.gov/",
+        "nature": "single project"
     },
     "risk.lexisnexis.co.uk": {
-        "url": "https://risk.lexisnexis.co.uk/corporations-and-non-profits/financial-crime-compliance/watchlist-screening/sanctions-list-screening/sanctions-screening-guide"
+        "url": "https://risk.lexisnexis.co.uk/corporations-and-non-profits/financial-crime-compliance/watchlist-screening/sanctions-list-screening/sanctions-screening-guide",
+        "nature": "single project"
     },
     "www.pwc.com": {
-        "url": "https://www.pwc.com/ua/en/services/forensic/sanctions-screening.html"
+        "url": "https://www.pwc.com/ua/en/services/forensic/sanctions-screening.html",
+        "nature": "single project"
     },
     "windward.ai": {
-        "url": "https://windward.ai/glossary/what-is-sanctions-screening/"
+        "url": "https://windward.ai/glossary/what-is-sanctions-screening/",
+        "nature": "single project"
     },
     "finscan.com": {
-        "url": "https://finscan.com/insights/sanctions-screening/"
+        "url": "https://finscan.com/insights/sanctions-screening/",
+        "nature": "single project"
     },
     "www.dowjones.com": {
-        "url": "https://www.dowjones.com/professional/risk/glossary/sanctions/risk-glossary-sanctions-sanctions-screening/"
+        "url": "https://www.dowjones.com/professional/risk/glossary/sanctions/risk-glossary-sanctions-sanctions-screening/",
+        "nature": "single project"
     },
     "www.sanctions.io": {
-        "url": "https://www.sanctions.io/blog/sanctions-screening-guide"
+        "url": "https://www.sanctions.io/blog/sanctions-screening-guide",
+        "nature": "single project"
     },
     "www.lseg.com": {
-        "url": "https://www.lseg.com/en/risk-intelligence/financial-crime-risk-management/sanctions-screening"
+        "url": "https://www.lseg.com/en/risk-intelligence/financial-crime-risk-management/sanctions-screening",
+        "nature": "single project"
     },
     "salv.com": {
-        "url": "https://salv.com/blog/sanctions-screening-guide/"
+        "url": "https://salv.com/blog/sanctions-screening-guide/",
+        "nature": "single project"
     },
     "www.oracle.com": {
-        "url": "https://www.oracle.com/financial-services/aml-financial-crime-compliance/sanctions-screening/"
+        "url": "https://www.oracle.com/financial-services/aml-financial-crime-compliance/sanctions-screening/",
+        "nature": "single project"
     },
     "www.idenfy.com": {
-        "url": "https://www.idenfy.com/blog/sanctions-screening-guide/"
+        "url": "https://www.idenfy.com/blog/sanctions-screening-guide/",
+        "nature": "single project"
     },
     "www.idology.com": {
-        "url": "https://www.idology.com/solutions/sanctions-screening/"
+        "url": "https://www.idology.com/solutions/sanctions-screening/",
+        "nature": "single project"
     },
     "www.exiger.com": {
-        "url": "https://www.exiger.com/perspectives/sanctions-screening-process/"
+        "url": "https://www.exiger.com/perspectives/sanctions-screening-process/",
+        "nature": "single project"
     },
     "withpersona.com": {
-        "url": "https://withpersona.com/blog/how-to-protect-your-business-with-automated-sanctions-screening"
+        "url": "https://withpersona.com/blog/how-to-protect-your-business-with-automated-sanctions-screening",
+        "nature": "single project"
     },
     "www.bvdinfo.com": {
-        "url": "https://www.bvdinfo.com/en-us/knowledge-base/videos/compliance-and-financial-crime/how-effective-is-your-sanctions-screening"
+        "url": "https://www.bvdinfo.com/en-us/knowledge-base/videos/compliance-and-financial-crime/how-effective-is-your-sanctions-screening",
+        "nature": "single project"
     },
     "alessa.com": {
-        "url": "https://alessa.com/software-solutions/aml-compliance/sanction-watchlist-screening/"
+        "url": "https://alessa.com/software-solutions/aml-compliance/sanction-watchlist-screening/",
+        "nature": "single project"
     },
     "www.csiweb.com": {
-        "url": "https://www.csiweb.com/how-we-help/regulatory-compliance/sanctions-screening/"
+        "url": "https://www.csiweb.com/how-we-help/regulatory-compliance/sanctions-screening/",
+        "nature": "single project"
     },
     "www.trade.gov": {
-        "url": "https://www.trade.gov/consolidated-screening-list"
+        "url": "https://www.trade.gov/consolidated-screening-list",
+        "nature": "single project"
     },
     "sumsub.com": {
-        "url": "https://sumsub.com/aml-screening/"
+        "url": "https://sumsub.com/aml-screening/",
+        "nature": "single project"
     },
     "verafin.com": {
-        "url": "https://verafin.com/solution/sanctions-screening-management/"
+        "url": "https://verafin.com/solution/sanctions-screening-management/",
+        "nature": "single project"
     }
 }
