@@ -3,6 +3,20 @@ name: Publish to Medium
 on:
   repository_dispatch:
     types: [publish-to-medium]
+  workflow_dispatch:
+    inputs:
+      MEDIUM_TITLE:
+        description: 'Title to publish to Medium.com'
+        required: true
+        default: ''
+      MEDIUM_TEXT:
+        description: 'Text to publish to Medium.com'
+        required: true
+        default: 'Your article content here...'
+      MEDIUM_TAGS:
+        description: 'Tags for Medium.com'
+        required: true
+        default: ''
 
 jobs:
   post-to-medium:
@@ -16,10 +30,11 @@ jobs:
         uses: philips-software/post-to-medium-action@v0.4.1
         with:
           integration_token: "${{ secrets.INTEGRATION_TOKEN }}"
-          content: "${{ github.event.client_payload.content }}"
+          content: |
+            ${{ github.event.inputs.MEDIUM_TEXT }}
           content_format: "markdown"
           notify_followers: "false"
-          tags: "${{ github.event.client_payload.tags }}"
-          title: "${{ github.event.client_payload.title }}"
+          tags: "${{ github.event.inputs.MEDIUM_TAGS }}"
+          title: "${{ github.event.inputs.MEDIUM_TITLE }}"
           license: "all-rights-reserved"
           publish_status: "draft"
