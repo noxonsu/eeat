@@ -1,0 +1,25 @@
+name: Publish to Medium
+
+on:
+  repository_dispatch:
+    types: [publish-to-medium]
+
+jobs:
+  post-to-medium:
+    name: Post to Medium
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Create Medium Post
+        uses: philips-software/post-to-medium-action@v0.4.1
+        with:
+          integration_token: "${{ secrets.INTEGRATION_TOKEN }}"
+          content: "${{ github.event.client_payload.content }}"
+          content_format: "markdown"
+          notify_followers: "false"
+          tags: "${{ github.event.client_payload.tags }}"
+          title: "${{ github.event.client_payload.title }}"
+          license: "all-rights-reserved"
+          publish_status: "draft"
