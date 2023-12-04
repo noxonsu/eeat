@@ -1,90 +1,112 @@
 {
     "www.complycube.com": {
         "url": "https://www.complycube.com/en/what-is-a-sanctions-screening/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "sanctionscanner.com": {
         "url": "https://sanctionscanner.com/blog/what-is-sanction-screening-service-23",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "sanctionssearch.ofac.treas.gov": {
         "url": "https://sanctionssearch.ofac.treas.gov/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=30924"
     },
     "risk.lexisnexis.co.uk": {
         "url": "https://risk.lexisnexis.co.uk/corporations-and-non-profits/financial-crime-compliance/watchlist-screening/sanctions-list-screening/sanctions-screening-guide",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://risk.lexisnexis.co.uk/corporations-and-non-profits/financial-crime-compliance/watchlist-screening/sanctions-list-screening"
     },
     "www.pwc.com": {
         "url": "https://www.pwc.com/ua/en/services/forensic/sanctions-screening.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.pwc.com/us/en/industries/financial-services/library/sanctions-screening-automated-solutions.html"
     },
     "windward.ai": {
         "url": "https://windward.ai/glossary/what-is-sanctions-screening/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "finscan.com": {
         "url": "https://finscan.com/insights/sanctions-screening/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.dowjones.com": {
         "url": "https://www.dowjones.com/professional/risk/glossary/sanctions/risk-glossary-sanctions-sanctions-screening/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.dowjones.com/press-room/dow-jones-integrates-sanctions-ownership-research-data-with-swift-sanctions-screening-service/"
     },
     "www.sanctions.io": {
         "url": "https://www.sanctions.io/blog/sanctions-screening-guide",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.lseg.com": {
         "url": "https://www.lseg.com/en/risk-intelligence/financial-crime-risk-management/sanctions-screening",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.lseg.com/content/dam/lseg/en_us/documents/regulatory-reporting/sanction-screening-factsheet.pdf"
     },
     "salv.com": {
         "url": "https://salv.com/blog/sanctions-screening-guide/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.oracle.com": {
         "url": "https://www.oracle.com/financial-services/aml-financial-crime-compliance/sanctions-screening/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.oracle.com/financial-services/aml-financial-crime-compliance/sanctions-screening/"
     },
     "www.idenfy.com": {
         "url": "https://www.idenfy.com/blog/sanctions-screening-guide/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.idology.com": {
         "url": "https://www.idology.com/solutions/sanctions-screening/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.idology.com/solutions/sanctions-screening/"
     },
     "www.exiger.com": {
         "url": "https://www.exiger.com/perspectives/sanctions-screening-process/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "withpersona.com": {
         "url": "https://withpersona.com/blog/how-to-protect-your-business-with-automated-sanctions-screening",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.bvdinfo.com": {
         "url": "https://www.bvdinfo.com/en-us/knowledge-base/videos/compliance-and-financial-crime/how-effective-is-your-sanctions-screening",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "alessa.com": {
         "url": "https://alessa.com/software-solutions/aml-compliance/sanction-watchlist-screening/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.csiweb.com": {
         "url": "https://www.csiweb.com/how-we-help/regulatory-compliance/sanctions-screening/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.csiweb.com/screen-2021/"
     },
     "www.trade.gov": {
         "url": "https://www.trade.gov/consolidated-screening-list",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "sumsub.com": {
         "url": "https://sumsub.com/aml-screening/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://sumsub.com/blog/tags/sanctions-screening/"
     },
     "verafin.com": {
         "url": "https://verafin.com/solution/sanctions-screening-management/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://verafin.com/solution/sanctions-screening-management/"
     }
 }
