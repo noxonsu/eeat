@@ -49,8 +49,6 @@ jobs:
     name: create_eeat_article
     runs-on: ubuntu-latest
     steps:
-      - name: Output Inputs
-        run: echo "${{ toJSON(github.event.inputs, true) }}"
       - name: Checkout
         uses: actions/checkout@v3
 
