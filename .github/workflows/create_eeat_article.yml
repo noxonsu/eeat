@@ -15,7 +15,34 @@ on:
         description: 'Tags for article'
         required: true
         default: ''
-
+      AUTHOR_LINK:
+        description: 'Author link'
+        required: true
+        default: ''
+      AUTHOR_NAME:
+        description: 'Author name'
+        required: true
+        default: ''
+      ABOUT_AUTHOR:
+        description: 'About author'
+        required: true
+        default: ''
+      CallToActionTitle:
+        description: 'Call to action title'
+        required: false
+        default: ''
+      CallToActionLink:
+        description: 'Call to action link'
+        required: false
+        default: '#'
+      CallToActionButton:
+        description: 'Call to action button'
+        required: false
+        default: 'Start'
+      CallToActionButton:
+        description: 'Call to action button "NO"'
+        required: false
+        default: 'No thanks'
 jobs:
   post-to-medium:
     name: Post to Medium

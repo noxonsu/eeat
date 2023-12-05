@@ -1,335 +1,144 @@
-<!DOCTYPE html>
-    <html lang="en">
+
+    <!DOCTYPE html>
+    <html lang="ru">
     <head>
         <meta charset="UTF-8">
-        <meta name="keywords" content="AI Writer">
-        <meta name="description" content="AI Writer">
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>AI Writer</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta property="og:type" content="article" />
+        <meta name="keywords" content="tag1,tag2">
+        <title>hello this is a test</title>
+        <!-- Include Tachyons CSS for styling -->
+        <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css"/>
+        <!-- Include tocbot CSS for styling the table of contents -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tocbot/dist/tocbot.css">
         <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            font-size: 16px;
-            line-height: 1.6;
-            padding: 0;
-            margin: 0;
+           
+    /* Custom styles for layout */
+        .layout {
+            display: flex;
+            justify-content: center;            
         }
+        .toc-content {            
+            position: relative;
+        }
+				.sticky{
+					position: sticky;
+          top: 1rem;
+				}
+        .toc-list{            
+						list-style: none;
+						margin: 0;																		
+						overflow: hidden;
+						position: relative;
+        }
+
+				.toc-list .toc-list{
+					position: static;
+				}
+
+				.toc>.toc-list{					
+					position: static;
+				}
+
+				.toc>.toc-list li{
+					list-style: none;					
+				}
+
+				.sticky-panel{
+					position: sticky;
+					bottom: 0;
+					background-color: #fff;
+					margin-left: -1rem;
+					margin-right: -1rem;
+				}
+				
+        .content {
+            max-width: 800px; /* Adjust based on your content's optimal reading width */
+            margin-left: 2rem; /* Space between TOC and content */
+        }
+
+				@media screen and (max-width: 50em){
+					.sticky-panel .layout{
+						display: block;
+					}
+				}
+
+        @media screen and (max-width: 30em) {
+            aside{
+                display: none;
+            }
+            .content {                
+								width: 100%;
+								margin-left: 0;
+            }
+						.layout{
+							padding-left: 0;
+							padding-right: 0;
+						}
+        }
+    
         </style>
     </head>
-    <body>
-        <article>
-        <h1>Optimized AI Writer Feature List and Pricing Analysis</h1>
-<p>In the fast-evolving landscape of AI-assisted writing tools, a wide array of features and pricing plans are available to cater to different user needs. The data compiled from 28 companies and 240 features has been distilled to present a clear and concise overview of these offerings, focusing on content creation, user experience, support, and pricing mechanisms. The list below provides a snapshot of the industry-standard features, and the subsequent table offers a comparative look at the pricing plans of various AI Writer products.</p>
-<h2>Industry-Standard Features</h2>
-<ul>
-<li><strong>Content Creation &amp; Management</strong></li>
-<li>AI-powered content generation</li>
-<li>Multilingual support</li>
-<li>Tone and style customization</li>
-<li>Plagiarism checker integration</li>
-<li>Grammar and spelling checks</li>
-<li>Content summarization tools</li>
-<li>
-<p>SEO optimization tools</p>
-</li>
-<li>
-<p><strong>Document &amp; Project Management</strong></p>
-</li>
-<li>Real-time collaboration</li>
-<li>Document version control</li>
-<li>
-<p>Project organization tools</p>
-</li>
-<li>
-<p><strong>User Experience &amp; Accessibility</strong></p>
-</li>
-<li>User-friendly interface</li>
-<li>Browser extension or plugin</li>
-<li>Integration with popular platforms</li>
-<li>
-<p>Accessibility features for visually impaired</p>
-</li>
-<li>
-<p><strong>Support &amp; Resources</strong></p>
-</li>
-<li>24/7 customer support</li>
-<li>Community access and forums</li>
-<li>Tutorials and guides</li>
-<li>
-<p>Training sessions for teams</p>
-</li>
-<li>
-<p><strong>Pricing &amp; Plans</strong></p>
-</li>
-<li>Free plan availability</li>
-<li>Flexible subscription plans</li>
-<li>Pay-as-you-go or credit-based pricing</li>
-</ul>
-<h3>AI Writer Pricing Comparison</h3>
-<table>
-<thead>
-<tr>
-<th>Company</th>
-<th>Plan Name</th>
-<th>Price</th>
-<th>Features</th>
-<th>Word/Image Limits</th>
-<th>Additional Notes</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Simplified.com</td>
-<td>AI Writer Free</td>
-<td>$0/month</td>
-<td>2,000 free words, 1 Seat, Blog Wizard, 90+ AI Templates, 20+ Languages</td>
-<td>2,000 words/month</td>
-<td>Buy additional credits anytime</td>
-</tr>
-<tr>
-<td>Simplified.com</td>
-<td>AI Writer Pro</td>
-<td>$12/month</td>
-<td>35,000 words, 1 Seat, Blog Wizard, Grammarly, Plagiarism Checker, 90+ AI Templates, 20+ Languages</td>
-<td>35,000 words/month</td>
-<td>Collaboration and Team Management</td>
-</tr>
-<tr>
-<td>Tools.picsart.com</td>
-<td>Quicktools AI Writer</td>
-<td>FREE</td>
-<td>-</td>
-<td>-</td>
-<td>No conditions</td>
-</tr>
-<tr>
-<td>Tools.picsart.com</td>
-<td>Picsart AI Suite</td>
-<td>FREE / Sign-up</td>
-<td>-</td>
-<td>-</td>
-<td>Requires account for extensive use</td>
-</tr>
-<tr>
-<td>Rytr.me</td>
-<td>Free plan</td>
-<td>Free</td>
-<td>10k characters, 40+ use-cases, 30+ languages, 20+ tones, plagiarism checker</td>
-<td>10k characters/month</td>
-<td>Generate up to 5 images with AI</td>
-</tr>
-<tr>
-<td>Rytr.me</td>
-<td>Saver plan</td>
-<td>$9/month</td>
-<td>100k characters, 40+ use-cases, 30+ languages, 20+ tones, plagiarism checker</td>
-<td>100k characters/month</td>
-<td>Generate up to 20 images with AI</td>
-</tr>
-<tr>
-<td>Rytr.me</td>
-<td>Unlimited plan</td>
-<td>$29/month</td>
-<td>Unlimited characters, 40+ use-cases, 30+ languages, 20+ tones, plagiarism checker</td>
-<td>Unlimited characters/month</td>
-<td>Priority support, dedicated account manager</td>
-</tr>
-<tr>
-<td>Writesonic.com</td>
-<td>Free</td>
-<td>$0</td>
-<td>10K words, GPT-3.5</td>
-<td>10K words/month</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Writesonic.com</td>
-<td>Freelancer</td>
-<td>$16/month</td>
-<td>Unlimited words, GPT-3.5</td>
-<td>Unlimited words/month</td>
-<td>Fair usage policy applies</td>
-</tr>
-<tr>
-<td>Writesonic.com</td>
-<td>Small Team</td>
-<td>$33/month</td>
-<td>4M words, GPT-3.5 and 4-32K</td>
-<td>4M words/month</td>
-<td>Higher quality image generation</td>
-</tr>
-<tr>
-<td>Writesonic.com</td>
-<td>Enterprise</td>
-<td>Custom</td>
-<td>Unlimited words, GPT-3.5 and 4-32K</td>
-<td>Unlimited words/month</td>
-<td>Customizable features, premium support</td>
-</tr>
-<tr>
-<td>Hyperwriteai.com</td>
-<td>Starter</td>
-<td>Free</td>
-<td>15 Generations/Month, 500 TypeAheads/Day</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Hyperwriteai.com</td>
-<td>Premium</td>
-<td>$19.99/mo</td>
-<td>Unlimited Generations, 200 Assistant Credits/Month</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Hyperwriteai.com</td>
-<td>Ultra</td>
-<td>$44.99/mo</td>
-<td>Everything in Premium, 500 Assistant Credits/Month</td>
-<td>-</td>
-<td>Priority Support</td>
-</tr>
-<tr>
-<td>Smodin.io</td>
-<td>Limited Starter Plan</td>
-<td>Free</td>
-<td>3 Writing Credits/day, 1000 Characters/Textrewrites</td>
-<td>-</td>
-<td>5 Daily entries for rewriter, plagiarism checker</td>
-</tr>
-<tr>
-<td>Smodin.io</td>
-<td>Essentials Most Popular</td>
-<td>$10/month</td>
-<td>100 Writing Credits/Month, Unlimited rewrites</td>
-<td>-</td>
-<td>Access all Author features</td>
-</tr>
-<tr>
-<td>Smodin.io</td>
-<td>Productive Best Value</td>
-<td>$29/month</td>
-<td>500 Writing Credits/Month, 12,000 Characters/Textrewrites</td>
-<td>-</td>
-<td>LongForm AI Writing up to 5,000 Words</td>
-</tr>
-<tr>
-<td>Smodin.io</td>
-<td>Ultimate For Business</td>
-<td>$79/month</td>
-<td>1500 Writing Credits/Month, 5 sub accounts</td>
-<td>-</td>
-<td>Bulk API Plans &amp; Features included</td>
-</tr>
-<tr>
-<td>Hypotenuse.ai</td>
-<td>Individual Monthly Plan</td>
-<td>$29/month</td>
-<td>50,000 words, Factual article writing wizard, 5 HypoDoc uploads</td>
-<td>50,000 words/month</td>
-<td>Basic chat and email support</td>
-</tr>
-<tr>
-<td>Hypotenuse.ai</td>
-<td>Teams Monthly Plan</td>
-<td>$59/month</td>
-<td>120,000 words, Everything in Individual, 30 HypoDoc uploads</td>
-<td>120,000 words/month</td>
-<td>Priority chat and email support</td>
-</tr>
-<tr>
-<td>Hypotenuse.ai</td>
-<td>Enterprise Plan</td>
-<td>Custom</td>
-<td>Custom AI model and templates, API access, Personal account manager</td>
-<td>Custom</td>
-<td>For teams of more than 5 users</td>
-</tr>
-<tr>
-<td>Koala.sh</td>
-<td>Essentials</td>
-<td>$9/month</td>
-<td>GPT-4, GPT-3.5, Claude, 15,000 KoalaWriter Words/Month</td>
-<td>15,000 words/month</td>
-<td>Real-time Search Results Integration</td>
-</tr>
-<tr>
-<td>Koala.sh</td>
-<td>Professional</td>
-<td>$49/month</td>
-<td>Everything in Essentials, 100,000 KoalaWriter Words/Month</td>
-<td>100,000 words/month</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Koala.sh</td>
-<td>Elite</td>
-<td>$350/month</td>
-<td>Everything in Essentials, 1,000,000 KoalaWriter Words/Month</td>
-<td>1,000,000 words/month</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Narrato.io</td>
-<td>Free</td>
-<td>$0/month</td>
-<td>2 free members, 2000 characters with AI Writer, 2 AI Images</td>
-<td>2000 characters/month</td>
-<td>Plagiarism checks with credit</td>
-</tr>
-<tr>
-<td>Narrato.io</td>
-<td>Pro</td>
-<td>$36/month</td>
-<td>4 user seats, Unlimited AI Writing (280,000 chars), 80 AI Images</td>
-<td>280,000 characters/month</td>
-<td>Plagiarism credit <Br>- $4/month</td>
-</tr>
-<tr>
-<td>Narrato.io</td>
-<td>Business</td>
-<td>$76/month</td>
-<td>4 user seats, Unlimited AI Writing, Unlimited AI Images</td>
-<td>Unlimited</td>
-<td>Plagiarism credit <Br>- $8/month</td>
-</tr>
-<tr>
-<td>Easy-peasy.ai</td>
-<td>Free</td>
-<td>$0/month</td>
-<td>3,000 words/month, 5 AI images/month</td>
-<td>3,000 words/month</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Easy-peasy.ai</td>
-<td>Basic</td>
-<td>$4.99/month</td>
-<td>10,000 words/month, 25 AI images/month</td>
-<td>10,000 words/month</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Easy-peasy.ai</td>
-<td>Unlimited GPT-3.5</td>
-<td>$9.99/month</td>
-<td>Unlimited words/month, 25,000 GPT-4 words/month</td>
-<td>Unlimited words/month</td>
-<td>100 AI images/month</td>
-</tr>
-<tr>
-<td>Easy-peasy.ai</td>
-<td>Unlimited</td>
-<td>$20/month</td>
-<td>Unlimited words/month, 100,000 GPT-4 words/month</td>
-<td>Unlimited words/month</td>
-<td>250 AI images/month, API Access</td>
-</tr>
-</tbody>
-</table>
-<p>This comparison only includes plans with numerical data and excludes companies that did not provide specific numbers or were not found. The features listed are a selection of key offerings, and some plans may include additional features not listed here. Always check the company's official website for the most up-to-date information and complete feature sets.</p>
-        </article>
+    <body class="w-100 sans-serif pa3 pb0">
+        <header class="tc pv2 pv4-l">
+            <h1 class="f2 lh-title mt0">hello this is a test</h1>
+            <time class="f6 ttu tracked" datetime="2023-12-05T15:39:36.145389">2023-12-05T15:39:36.145389</time>
+            <address class="f6">
+                От <a href="https://linkedin.com" class="link dim black b">Aleks Noxon</a>
+            </address>
+        </header>
+
+        <div class="layout mw7 center pa0">
+            <aside class="w-25">
+                <div class="sticky">                          
+                    <nav class="toc-content mb3">
+                        <!-- tocbot will inject TOC here -->                
+                    </nav>
+                    <!-- <a href="#"><img src="https://placehold.co/200x200" alt=""></a> -->
+                </div>      
+            </aside>
+                                    
+            <!-- Main Content -->
+            <div class="content w-75">
+                <article class="mb4">
+                    <p>hello this is a test</p>
+                </article>
+                <!-- Additional articles or content here -->
+            </div>
         
+        </div>
+
+        <div style='
+        display: block;
+        ' class="sticky-panel shadow-2 pa2">
+            <div class="layout mw8 center pa0">
+                <div class="w-100 w-100-ns w-100-m flex items-center">
+                    <div class="f6 f5-m f4-l lh-copy mb2 mb0-l">Create content with AI</div>
+                </div>
+                <div class="w-100 w-100-ns w-100-m w-25-l">
+                    <a class="f6 link dim br2 ph3 pv2 dib white bg-dark-blue" href="#0">Start</a>
+                    <a class="f6 link dim br2 ph3 pv2 dib black" onclick="closePanel()" href="#0">No Thanks</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Include tocbot script -->
+        <script src="https://cdn.jsdelivr.net/npm/tocbot/dist/tocbot.min.js"></script>
+        <script>
+          
+    // Initialize tocbot
+    tocbot.init({
+        tocSelector: '.toc-content',
+        contentSelector: '.content',
+        headingSelector: 'h1, h2, h3, h4, h5, h6, li',                    
+        collapseDepth: 0,
+        hasInnerContainers: true
+    });
+    function closePanel() {              
+        var button = event.target;              
+        var parent = button.closest('.sticky-panel');
+        parent.style.display = 'none';
+    }
+        </script>
     </body>
     </html>

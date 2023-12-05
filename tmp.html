@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -12,55 +13,261 @@
         /* Custom styles for layout */
         .layout {
             display: flex;
-            justify-content: center;
-            padding: 1rem;
+            justify-content: center;            
         }
-        .toc-content {
-            width: 250px; /* Width of the TOC sidebar */
-            position: sticky;
-            top: 1rem;
-            height: 100vh;
-            overflow: auto;
+        .toc-content {            
+            position: relative;
         }
+				.sticky{
+					position: sticky;
+          top: 1rem;
+				}
+        .toc-list{            
+						list-style: none;
+						margin: 0;																		
+						overflow: hidden;
+						position: relative;
+        }
+
+				.toc-list .toc-list{
+					position: static;
+				}
+
+				.toc>.toc-list{					
+					position: static;
+				}
+
+				.toc>.toc-list li{
+					list-style: none;					
+				}
+
+				.sticky-panel{
+					position: sticky;
+					bottom: 0;
+					background-color: #fff;
+					margin-left: -1rem;
+					margin-right: -1rem;
+				}
+				
         .content {
             max-width: 800px; /* Adjust based on your content's optimal reading width */
             margin-left: 2rem; /* Space between TOC and content */
         }
+
+				@media screen and (max-width: 50em){
+					.sticky-panel .layout{
+						display: block;
+					}
+				}
+
         @media screen and (max-width: 30em) {
-            .toc-content {
-                display: none; /* Hide TOC on smaller screens */
+            aside{
+                display: none;
             }
-            .content {
-                margin-left: 1rem;
-                width: calc(100% - 2rem); /* Full width minus padding on small screens */
+            .content {                
+								width: 100%;
+								margin-left: 0;
             }
+						.layout{
+							padding-left: 0;
+							padding-right: 0;
+						}
         }
     </style>
 </head>
-<body class="sans-serif pa3">
-    <header class="tc pv4">
-        <h1 class="f2 lh-title">{title}</h1>
-        <time class="f6 ttu tracked" datetime="{date_iso}">{date}</time>
+<body class="w-100 sans-serif pa3 pb0">
+    <header class="tc pv2 pv4-l">
+        <h1 class="f2 lh-title mt0">Google Play’s best apps and games of 2023</h1>
+        <time class="f6 ttu tracked" datetime="{date_iso}">05.12.2023</time>
         <address class="f6">
-            От <a href="{author_link}" class="link dim black b">{author_name}</a>,<br>
-            {about_author}
+					От <a href="{author_link}" class="link dim black b">Sam Bright</a>,<br>
+					Vice President and General Manager, Google Play
         </address>
     </header>
 
-    <div class="layout">
-        <!-- Table of Contents -->
-        <nav class="toc-content">
-            <!-- tocbot will inject TOC here -->
-        </nav>
-
-        <!-- Main Content -->
-        <div class="content">
-            <article class="mb4">
-              {content}
-            </article>
-            <!-- Additional articles or content here -->
-        </div>
+    <div class="layout mw7 center pa0">
+			<aside class="w-25">
+				<div class="sticky">							
+					<nav class="toc-content mb3">
+						<!-- tocbot will inject TOC here -->                
+					</nav>
+					<a href="#"><img src="https://placehold.co/200x200" alt=""></a>
+				</div>		
+			</aside>
+									
+			<!-- Main Content -->
+			<div class="content w-75">
+				<article class="mb4">
+					<h2 class="f3 f2-m f1-l" id="section-1">Chapter 1</h2>
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+					<h3 class="f3 f3-m f2-l" id="section-1-1">Chapter 1.1</h3>
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+					<h3 class="f3 f3-m f2-l" id="section-1-2">Chapter 1.2</h3>
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+					<h2 class="f3 f2-m f1-l" id="section-2">Chapter 2</h2>  
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+					<h3 class="f3 f3-m f2-l" id="section-2-1">Chapter 2.1</h3>
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+					<h3 class="f3 f3-m f2-l" id="section-2-2">Chapter 2.2</h3>  
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+					<h2 class="f3 f2-m f1-l" id="section-3">Chapter 3</h2>  
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+					<h2 class="f3 f2-m f1-l" id="section-4">Chapter 4</h2>  
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+					<p>
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores quae eligendi, fugit laborum temporibus 
+						nemo quo consectetur harum laudantium maxime totam qui cupiditate quis molestiae excepturi nulla quos sit.
+					</p>
+				</article>
+				<!-- Additional articles or content here -->
+			</div>
+        
     </div>
+
+		<div class="sticky-panel shadow-2 pa2">
+			<div class="layout mw8 center pa0">
+				<div class="w-100 w-100-ns w-100-m flex items-center">
+					❤️
+					<div class="f6 f5-m f4-l lh-copy mb2 mb0-l">❤️ Let’s stay in touch. Get the latest news from Google in your inbox.</div>
+				</div>
+				<div class="w-100 w-100-ns w-100-m w-25-l">
+					<a class="f6 link dim br2 ph3 pv2 dib white bg-dark-blue" href="#0">Subscribe</a>
+					<a class="f6 link dim br2 ph3 pv2 dib black" href="#0">No thanks</a>
+				</div>
+			</div>
+		</div>
 
     <!-- Include tocbot script -->
     <script src="https://cdn.jsdelivr.net/npm/tocbot/dist/tocbot.min.js"></script>
@@ -69,7 +276,9 @@
       tocbot.init({
         tocSelector: '.toc-content',
         contentSelector: '.content',
-        headingSelector: 'h1, h2, h3, h4, h5, h6, li',
+        headingSelector: 'h1, h2, h3, h4, h5, h6, li',				  			
+				collapseDepth: 0,
+        hasInnerContainers: true
       });
     </script>
 </body>

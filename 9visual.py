@@ -82,8 +82,6 @@ if __name__ == "__main__":
                     f.write(json.dumps(input))
 
 
-    #run 9visual_html.py
-    os.system('python 9visual_html.py')
 
 
 
