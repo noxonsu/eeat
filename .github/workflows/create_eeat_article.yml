@@ -43,7 +43,7 @@ on:
         description: 'Call to action button'
         required: false
         default: 'Start'
-      CallToActionButton:
+      CallToActionButtonNo:
         description: 'Call to action button "NO"'
         required: false
         default: 'No thanks'

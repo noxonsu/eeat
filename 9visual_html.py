@@ -182,7 +182,7 @@ def main():
 
     CallToActionTitle = os.environ.get('CallToActionTitle')
     CallToActionButton = os.environ.get('CallToActionButton')
-    CallToActionNo = os.environ.get('CallToActionNo','No Thanks')
+    CallToActionNo = os.environ.get('CallToActionButtonNo','No Thanks')
 
     date_iso = datetime.datetime.now().isoformat()
     date = datetime.datetime.now().strftime("%Y-%m-%d")
