@@ -9,8 +9,8 @@ servers:
 paths:
   /repos/noxonsu/eeat/actions/workflows/general.yml/dispatches:
     post:
-      summary: Trigger GitHub Action with Custom Inputs
-      operationId: triggerGitHubAction
+      summary: Trigger GitHub Action to start the research
+      operationId: triggerGitHubActionGeneral
       tags:
         - GitHub Action
       requestBody:
@@ -81,7 +81,7 @@ paths:
   /repos/noxonsu/eeat/actions/workflows/post2medium.yml/dispatches:
     post:
       summary: Trigger GitHub Action to Publish to Medium
-      operationId: triggerGitHubAction
+      operationId: triggerGitHubActionMedium
       tags:
         - GitHub Action
       requestBody:
@@ -101,6 +101,30 @@ paths:
           description: Repository or workflow not found.
       security:
         - BearerAuth: []
+  /repos/noxonsu/eeat/actions/workflows/create_eeat_article.yml/dispatches:
+    post:
+      summary: Trigger GitHub Action to triggerGitHubActionArticle
+      operationId: triggerGitHubActionArticle
+      tags:
+        - GitHub Action
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/DispatchRequest'
+      responses:
+        '204':
+          description: Successful trigger.
+        '400':
+          description: Bad request.
+        '401':
+          description: Unauthorized access.
+        '404':
+          description: Repository or workflow not found.
+      security:
+        - BearerAuth: []
+
 components:
   securitySchemes:
     BearerAuth:

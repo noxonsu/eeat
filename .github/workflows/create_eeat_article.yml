@@ -1,0 +1,48 @@
+name: Publish to Article
+
+on:
+  workflow_dispatch:
+    inputs:
+      MEDIUM_TITLE:
+        description: 'Title to publish to html'
+        required: true
+        default: ''
+      MEDIUM_TEXT:
+        description: 'Text to publish to html'
+        required: true
+        default: 'Your article content here...'
+      MEDIUM_TAGS:
+        description: 'Tags for article'
+        required: true
+        default: ''
+
+jobs:
+  post-to-medium:
+    name: Post to Medium
+    runs-on: ubuntu-latest
+    steps:
+      - name: Output Inputs
+        run: echo "${{ toJSON(github.event.inputs) }}"
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests
+
+      - name: Create Post
+        env:
+          MEDIUM_TITLE: ${{ github.event.inputs.MEDIUM_TITLE }}
+          MEDIUM_TEXT: ${{ github.event.inputs.MEDIUM_TEXT }}
+          MEDIUM_TAGS: ${{ github.event.inputs.MEDIUM_TAGS }}
+          AUTHOR_LINK: ${{ secrets.AUTHOR_LINK }}
+          AUTHOR_NAME: ${{ secrets.AUTHOR_NAME }}
+          ABOUT_AUTHOR: ${{ secrets.ABOUT_AUTHOR }}
+          INDUSTRY_KEYWORD: ${{ secrets.INDUSTRY_KEYWORD }}
+        run: python 9visual_html.py
+
