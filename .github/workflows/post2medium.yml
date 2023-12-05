@@ -27,7 +27,7 @@ jobs:
       - name: Create Medium Post
         uses: philips-software/post-to-medium-action@v0.4.1
         with:
-          integration_token: "${{ secrets.INTEGRATION_TOKEN }}"
+          integration_token: "${{ secrets.MEDIUM_INTEGRATION_TOKEN }}"
           content: |
             ${{ github.event.inputs.MEDIUM_TEXT }}
           content_format: "markdown"
