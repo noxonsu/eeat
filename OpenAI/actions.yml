@@ -7,7 +7,7 @@ servers:
   - url: https://api.github.com
 
 paths:
-  /repos/noxonsu/researcher/actions/workflows/general.yml/dispatches:
+  /repos/noxonsu/eeat/actions/workflows/general.yml/dispatches:
     post:
       summary: Trigger GitHub Action with Custom Inputs
       operationId: triggerGitHubAction
@@ -31,7 +31,7 @@ paths:
       security:
         - BearerAuth: []
 
-  /repos/noxonsu/researcher/contents/{path}:
+  /repos/noxonsu/eeat/contents/{path}:
     get:
       summary: Retrieve File Content
       operationId: retrieveFileContent
@@ -78,6 +78,29 @@ paths:
         '404':
           description: Repository or file not found.
 
+  /repos/noxonsu/eeat/actions/workflows/post2medium.yml/dispatches:
+    post:
+      summary: Trigger GitHub Action to Publish to Medium
+      operationId: triggerGitHubAction
+      tags:
+        - GitHub Action
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/DispatchRequest'
+      responses:
+        '204':
+          description: Successful trigger.
+        '400':
+          description: Bad request.
+        '401':
+          description: Unauthorized access.
+        '404':
+          description: Repository or workflow not found.
+      security:
+        - BearerAuth: []
 components:
   securitySchemes:
     BearerAuth:
