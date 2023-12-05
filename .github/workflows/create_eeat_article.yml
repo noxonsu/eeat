@@ -59,7 +59,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-            run: pip install requests markdown
+            pip install requests markdown
 
       - name: Create Post
         env:
