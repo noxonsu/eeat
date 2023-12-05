@@ -7,6 +7,10 @@ on:
         description: 'Title to publish to html'
         required: true
         default: ''
+      INDUSTRY_KEYWORD:
+        description: 'The main keyword from research'
+        required: true
+        default: ''
       MEDIUM_TEXT:
         description: 'Text to publish to html'
         required: true
