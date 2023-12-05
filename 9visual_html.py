@@ -4,14 +4,20 @@ import datetime
 
 def generate_html_from_markdown(mark, title, PUBLICATION_TAGS, date_iso, author_name, author_link, about_author, CallToActionTitle, CallToActionButton, CallToActionNo):
     # markdown to html with tables
-    html = markdown.markdown(mark, extensions=['markdown.extensions.tables'])
+    # markdown extantions for \n to <br>
+    # unescape \" to " and other \ in mark
+    mark = mark.replace('\\"', '"')
+    mark = mark.replace('\\n', '\n')
+    mark = mark.replace('\\', '')
+    
+    html = markdown.markdown(mark, extensions=['markdown.extensions.tables', 'markdown.extensions.extra', 'markdown.extensions.nl2br', 'markdown.extensions.sane_lists'])
     html = html.replace("- ", "<br>- ")
     jscript = """
     // Initialize tocbot
     tocbot.init({
         tocSelector: '.toc-content',
         contentSelector: '.content',
-        headingSelector: 'h1, h2, h3, h4, h5, h6, li',                    
+        headingSelector: 'h1, h2, h3',                    
         collapseDepth: 0,
         hasInnerContainers: true
     });
