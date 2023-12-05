@@ -2,7 +2,7 @@ import markdown
 import os
 import datetime
 
-def generate_html_from_markdown(mark, title, MEDIUM_TAGS, date_iso, author_name, author_link, about_author, CallToActionTitle, CallToActionButton, CallToActionNo):
+def generate_html_from_markdown(mark, title, PUBLICATION_TAGS, date_iso, author_name, author_link, about_author, CallToActionTitle, CallToActionButton, CallToActionNo):
     # markdown to html with tables
     html = markdown.markdown(mark, extensions=['markdown.extensions.tables'])
     html = html.replace("- ", "<br>- ")
@@ -23,68 +23,68 @@ def generate_html_from_markdown(mark, title, MEDIUM_TAGS, date_iso, author_name,
 
     css = """
     /* Custom styles for layout */
-        .layout {
-            display: flex;
-            justify-content: center;            
+    .layout {
+        display: flex;
+        justify-content: center;            
+    }
+    .toc-content {            
+        position: relative;
+    }
+    .sticky{
+        position: sticky;
+        top: 1rem;
+    }
+    .toc-list{            
+        list-style: none;
+        margin: 0;                                                                        
+        overflow: hidden;
+        position: relative;
+    }
+
+    .toc-list .toc-list{
+        position: static;
+    }
+
+    .toc>.toc-list{                    
+        position: static;
+    }
+
+    .toc>.toc-list li{
+        list-style: none;                    
+    }
+
+    .sticky-panel{
+        position: sticky;
+        bottom: 0;
+        background-color: #fff;
+        margin-left: -1rem;
+        margin-right: -1rem;
+    }
+
+    .content {
+        max-width: 800px; /* Adjust based on your content's optimal reading width */
+        margin-left: 2rem; /* Space between TOC and content */
+    }
+
+    @media screen and (max-width: 50em){
+        .sticky-panel .layout{
+            display: block;
         }
-        .toc-content {            
-            position: relative;
+    }
+
+    @media screen and (max-width: 30em) {
+        aside{
+            display: none;
         }
-				.sticky{
-					position: sticky;
-          top: 1rem;
-				}
-        .toc-list{            
-						list-style: none;
-						margin: 0;																		
-						overflow: hidden;
-						position: relative;
+        .content {                
+            width: 100%;
+            margin-left: 0;
         }
-
-				.toc-list .toc-list{
-					position: static;
-				}
-
-				.toc>.toc-list{					
-					position: static;
-				}
-
-				.toc>.toc-list li{
-					list-style: none;					
-				}
-
-				.sticky-panel{
-					position: sticky;
-					bottom: 0;
-					background-color: #fff;
-					margin-left: -1rem;
-					margin-right: -1rem;
-				}
-				
-        .content {
-            max-width: 800px; /* Adjust based on your content's optimal reading width */
-            margin-left: 2rem; /* Space between TOC and content */
+        .layout{
+            padding-left: 0;
+            padding-right: 0;
         }
-
-				@media screen and (max-width: 50em){
-					.sticky-panel .layout{
-						display: block;
-					}
-				}
-
-        @media screen and (max-width: 30em) {
-            aside{
-                display: none;
-            }
-            .content {                
-								width: 100%;
-								margin-left: 0;
-            }
-						.layout{
-							padding-left: 0;
-							padding-right: 0;
-						}
-        }
+    }
     """
     if (CallToActionTitle != ''):
         cta = """
@@ -101,7 +101,7 @@ def generate_html_from_markdown(mark, title, MEDIUM_TAGS, date_iso, author_name,
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta property="og:type" content="article" />
-        <meta name="keywords" content="{MEDIUM_TAGS}">
+        <meta name="keywords" content="{PUBLICATION_TAGS}">
         <title>{title}</title>
         <!-- Include Tachyons CSS for styling -->
         <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css"/>
@@ -116,7 +116,8 @@ def generate_html_from_markdown(mark, title, MEDIUM_TAGS, date_iso, author_name,
             <h1 class="f2 lh-title mt0">{title}</h1>
             <time class="f6 ttu tracked" datetime="{date_iso}">{date_iso}</time>
             <address class="f6">
-                От <a href="{author_link}" class="link dim black b">{author_name}</a>
+                <a href="{author_link}" class="link dim black b">{author_name}</a>
+                {about_author}
             </address>
         </header>
 
@@ -167,37 +168,40 @@ def save_html_to_file(html, file_path):
     with open(file_path, "w") as f:
         f.write(html)
 
-# Inputs from GitHub Actions
-html_title = os.environ.get('MEDIUM_TITLE')
-MEDIUM_TAGS = os.environ.get('MEDIUM_TAGS')
-markdown_content = os.environ.get('MEDIUM_TEXT')
+def main():
+    # Inputs from GitHub Actions
+    html_title = os.environ.get('PUBLICATION_TITLE')
+    PUBLICATION_TAGS = os.environ.get('PUBLICATION_TAGS')
+    markdown_content = os.environ.get('PUBLICATION_TEXT')
 
-author_link = os.environ.get('AUTHOR_LINK')
-author_name = os.environ.get('AUTHOR_NAME')
-about_author = os.environ.get('ABOUT_AUTHOR')
+    author_link = os.environ.get('AUTHOR_LINK')
+    author_name = os.environ.get('AUTHOR_NAME')
+    about_author = os.environ.get('ABOUT_AUTHOR')
 
-INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
+    INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 
-CallToActionTitle = os.environ.get('CallToActionTitle')
-CallToActionButton = os.environ.get('CallToActionButton')
-CallToActionNo = os.environ.get('CallToActionNo','No Thanks')
+    CallToActionTitle = os.environ.get('CallToActionTitle')
+    CallToActionButton = os.environ.get('CallToActionButton')
+    CallToActionNo = os.environ.get('CallToActionNo','No Thanks')
 
-date_iso = datetime.datetime.now().isoformat()
-date = datetime.datetime.now().strftime("%Y-%m-%d")
+    date_iso = datetime.datetime.now().isoformat()
+    date = datetime.datetime.now().strftime("%Y-%m-%d")
 
-html = generate_html_from_markdown(
-    markdown_content,
-    html_title,
-    MEDIUM_TAGS,
-    date_iso,
-    author_name,
-    author_link,
-    about_author,
-    CallToActionTitle,
-    CallToActionButton,
-    CallToActionNo
-)
+    html = generate_html_from_markdown(
+        markdown_content,
+        html_title,
+        PUBLICATION_TAGS,
+        date_iso,
+        author_name,
+        author_link,
+        about_author,
+        CallToActionTitle,
+        CallToActionButton,
+        CallToActionNo
+    )
 
-file_path = "data/" + INDUSTRY_KEYWORD + "/article.html"
-save_html_to_file(html, file_path)
+    file_path = "data/" + INDUSTRY_KEYWORD + "/article.html"
+    save_html_to_file(html, file_path)
 
+if __name__ == "__main__":
+    main()

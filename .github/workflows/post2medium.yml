@@ -1,24 +1,24 @@
-name: Publish to Medium
+name: Publish to Publication
 
 on:
   workflow_dispatch:
     inputs:
-      MEDIUM_TITLE:
-        description: 'Title to publish to Medium.com'
+      PUBLICATION_TITLE:
+        description: 'Title to publish to the publication'
         required: true
         default: ''
-      MEDIUM_TEXT:
-        description: 'Text to publish to Medium.com'
+      PUBLICATION_TEXT:
+        description: 'Text to publish to the publication'
         required: true
         default: 'Your article content here...'
-      MEDIUM_TAGS:
-        description: 'Tags for Medium.com'
+      PUBLICATION_TAGS:
+        description: 'Tags for the publication'
         required: true
         default: ''
 
 jobs:
   post-to-medium:
-    name: Post to Medium
+    name: Post to Publication
     runs-on: ubuntu-latest
     steps:
       - name: Output Inputs
@@ -35,11 +35,10 @@ jobs:
         run: |
           pip install requests
 
-      - name: Create Medium Post
+      - name: Create Publication Post
         env:
           MEDIUM_INTEGRATION_TOKEN: ${{ secrets.MEDIUM_INTEGRATION_TOKEN }}
-          MEDIUM_TITLE: ${{ github.event.inputs.MEDIUM_TITLE }}
-          MEDIUM_TEXT: ${{ github.event.inputs.MEDIUM_TEXT }}
-          MEDIUM_TAGS: ${{ github.event.inputs.MEDIUM_TAGS }}
-        run: python publish_to_medium.py
-
+          PUBLICATION_TITLE: ${{ github.event.inputs.PUBLICATION_TITLE }}
+          PUBLICATION_TEXT: ${{ github.event.inputs.PUBLICATION_TEXT }}
+          PUBLICATION_TAGS: ${{ github.event.inputs.PUBLICATION_TAGS }}
+        run: python publish_to_publication.py

@@ -58,7 +58,7 @@ def publish_to_medium(author_id, title, content, tags, integration_token):
         print(response.text)
 
 # Validate Environment Variables
-required_env_vars = ['MEDIUM_INTEGRATION_TOKEN', 'MEDIUM_TITLE', 'MEDIUM_TEXT', 'MEDIUM_TAGS']
+required_env_vars = ['MEDIUM_INTEGRATION_TOKEN', 'PUBLICATION_TITLE', 'PUBLICATION_TEXT', 'PUBLICATION_TAGS']
 missing_vars = [var for var in required_env_vars if not os.environ.get(var)]
 
 if missing_vars:
@@ -66,12 +66,12 @@ if missing_vars:
 
 # Getting environment variables
 integration_token = os.environ['MEDIUM_INTEGRATION_TOKEN']
-medium_title = os.environ['MEDIUM_TITLE']
-medium_text = os.environ['MEDIUM_TEXT']
-medium_tags = os.environ['MEDIUM_TAGS']
+publication_title = os.environ['PUBLICATION_TITLE']
+publication_text = os.environ['PUBLICATION_TEXT']
+publication_tags = os.environ['PUBLICATION_TAGS']
 
 # Getting the user's authorId
 author_id = get_user_id(integration_token)
 
 # Publishing to Medium
-publish_to_medium(author_id, medium_title, medium_text, medium_tags, integration_token)
+publish_to_medium(author_id, publication_title, publication_text, publication_tags, integration_token)

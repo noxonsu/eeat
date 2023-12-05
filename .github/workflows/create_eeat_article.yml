@@ -3,7 +3,7 @@ name: Publish to Article
 on:
   workflow_dispatch:
     inputs:
-      MEDIUM_TITLE:
+      PUBLICATION_TITLE:
         description: 'Title to publish to html'
         required: true
         default: ''
@@ -11,11 +11,11 @@ on:
         description: 'The main keyword from research'
         required: true
         default: ''
-      MEDIUM_TEXT:
+      PUBLICATION_TEXT:
         description: 'Text to publish to html'
         required: true
         default: 'Your article content here...'
-      MEDIUM_TAGS:
+      PUBLICATION_TAGS:
         description: 'Tags for article'
         required: true
         default: ''
@@ -48,8 +48,8 @@ on:
         required: false
         default: 'No thanks'
 jobs:
-  post-to-medium:
-    name: Post to Medium
+  create_eeat_article:
+    name: create_eeat_article
     runs-on: ubuntu-latest
     steps:
       - name: Output Inputs
@@ -68,12 +68,11 @@ jobs:
 
       - name: Create Post
         env:
-          MEDIUM_TITLE: ${{ github.event.inputs.MEDIUM_TITLE }}
-          MEDIUM_TEXT: ${{ github.event.inputs.MEDIUM_TEXT }}
-          MEDIUM_TAGS: ${{ github.event.inputs.MEDIUM_TAGS }}
+          PUBLICATION_TITLE: ${{ github.event.inputs.PUBLICATION_TITLE }}
+          PUBLICATION_TEXT: ${{ github.event.inputs.PUBLICATION_TEXT }}
+          PUBLICATION_TAGS: ${{ github.event.inputs.PUBLICATION_TAGS }}
           AUTHOR_LINK: ${{ secrets.AUTHOR_LINK }}
           AUTHOR_NAME: ${{ secrets.AUTHOR_NAME }}
           ABOUT_AUTHOR: ${{ secrets.ABOUT_AUTHOR }}
           INDUSTRY_KEYWORD: ${{ secrets.INDUSTRY_KEYWORD }}
         run: python 9visual_html.py
-
