@@ -24,15 +24,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Create Medium Post
-        uses: philips-software/post-to-medium-action@v0.4.1
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          integration_token: "${{ secrets.MEDIUM_INTEGRATION_TOKEN }}"
-          content: |
-            ${{ github.event.inputs.MEDIUM_TEXT }}
-          content_format: "markdown"
-          notify_followers: "false"
-          tags: "${{ github.event.inputs.MEDIUM_TAGS }}"
-          title: "${{ github.event.inputs.MEDIUM_TITLE }}"
-          license: "all-rights-reserved"
-          publish_status: "draft"
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests
+
+      - name: Create Medium Post
+        env:
+          MEDIUM_INTEGRATION_TOKEN: ${{ secrets.MEDIUM_INTEGRATION_TOKEN }}
+          MEDIUM_TITLE: ${{ github.event.inputs.MEDIUM_TITLE }}
+          MEDIUM_TEXT: ${{ github.event.inputs.MEDIUM_TEXT }}
+          MEDIUM_TAGS: ${{ github.event.inputs.MEDIUM_TAGS }}
+        run: python publish_to_medium.py
+
