@@ -43,10 +43,7 @@ on:
         description: 'Call to action button'
         required: false
         default: 'Start'
-      CallToActionButtonNo:
-        description: 'Call to action button "NO"'
-        required: false
-        default: 'No thanks'
+
 jobs:
   create_eeat_article:
     name: create_eeat_article
