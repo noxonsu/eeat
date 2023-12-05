@@ -1,0 +1,145 @@
+
+    <!DOCTYPE html>
+    <html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta property="og:type" content="article" />
+        <meta name="keywords" content="tags">
+        <title>Sanctions Screening</title>
+        <!-- Include Tachyons CSS for styling -->
+        <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css"/>
+        <!-- Include tocbot CSS for styling the table of contents -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tocbot/dist/tocbot.css">
+        <style>
+           
+    /* Custom styles for layout */
+    .layout {
+        display: flex;
+        justify-content: center;            
+    }
+    .toc-content {            
+        position: relative;
+    }
+    .sticky{
+        position: sticky;
+        top: 1rem;
+    }
+    .toc-list{            
+        list-style: none;
+        margin: 0;                                                                        
+        overflow: hidden;
+        position: relative;
+    }
+
+    .toc-list .toc-list{
+        position: static;
+    }
+
+    .toc>.toc-list{                    
+        position: static;
+    }
+
+    .toc>.toc-list li{
+        list-style: none;                    
+    }
+
+    .sticky-panel{
+        position: sticky;
+        bottom: 0;
+        background-color: #fff;
+        margin-left: -1rem;
+        margin-right: -1rem;
+    }
+
+    .content {
+        max-width: 800px; /* Adjust based on your content's optimal reading width */
+        margin-left: 2rem; /* Space between TOC and content */
+    }
+
+    @media screen and (max-width: 50em){
+        .sticky-panel .layout{
+            display: block;
+        }
+    }
+
+    @media screen and (max-width: 30em) {
+        aside{
+            display: none;
+        }
+        .content {                
+            width: 100%;
+            margin-left: 0;
+        }
+        .layout{
+            padding-left: 0;
+            padding-right: 0;
+        }
+    }
+    
+        </style>
+    </head>
+    <body class="w-100 sans-serif pa3 pb0">
+        <header class="tc pv2 pv4-l">
+            <h1 class="f2 lh-title mt0">Sanctions Screening</h1>
+            <time class="f6 ttu tracked" datetime="2023-12-05T19:39:39.962160">2023-12-05T19:39:39.962160</time>
+            <address class="f6">
+                <a href="" class="link dim black b"></a>
+                
+            </address>
+        </header>
+
+        <div class="layout mw7 center pa0">
+            <aside class="w-25">
+                <div class="sticky">                          
+                    <nav class="toc-content mb3">
+                        <!-- tocbot will inject TOC here -->                
+                    </nav>
+                    <!-- <a href="#"><img src="https://placehold.co/200x200" alt=""></a> -->
+                </div>      
+            </aside>
+                                    
+            <!-- Main Content -->
+            <div class="content w-75">
+                <article class="mb4">
+                    <p>Sanctions screening is an essential component of modern compliance programs, especially for financial institutions. The research conducted on \"Sanctions Screening\" provides a comprehensive overview of the leading solutions and services in this field. Here, we explore the insights gathered from this study, featuring top companies and products in the sanctions screening industry.\n\n1. <strong>OFAC Sanctions List Search</strong>: This service, offered by the U.S. Treasury, provides critical tools for compliance with U.S. sanctions. Key features include string matching algorithms and slider-bars for setting match thresholds, ensuring accurate identification of sanctioned entities.\n\n2. <strong>LexisNexis Risk Solutions</strong>: LexisNexis offers products like Bridger Insight XG and Smartcleanse, providing high-volume screening and customizable risk-based settings. Their solutions are known for fuzzy logic matching and batch screening capabilities.\n\n3. <strong>PwC Sanctions Screening</strong>: PwC provides dedicated forensic services with extens</p>
+                </article>
+                <!-- Additional articles or content here -->
+            </div>
+        
+        </div>
+
+        <div style='
+        display: block;
+        ' class="sticky-panel shadow-2 pa2">
+            <div class="layout mw8 center pa0">
+                <div class="w-100 w-100-ns w-100-m flex items-center">
+                    <div class="f6 f5-m f4-l lh-copy mb2 mb0-l">None</div>
+                </div>
+                <div class="w-100 w-100-ns w-100-m w-25-l">
+                    <a class="f6 link dim br2 ph3 pv2 dib white bg-dark-blue" href="#0">None</a>
+                    <a class="f6 link dim br2 ph3 pv2 dib black" onclick="closePanel()" href="#0">No Thanks</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Include tocbot script -->
+        <script src="https://cdn.jsdelivr.net/npm/tocbot/dist/tocbot.min.js"></script>
+        <script>
+          
+    // Initialize tocbot
+    tocbot.init({
+        tocSelector: '.toc-content',
+        contentSelector: '.content',
+        headingSelector: 'h1, h2, h3, h4, h5, h6, li',                    
+        collapseDepth: 0,
+        hasInnerContainers: true
+    });
+    function closePanel() {              
+        var button = event.target;              
+        var parent = button.closest('.sticky-panel');
+        parent.style.display = 'none';
+    }
+        </script>
+    </body>
+    </html>
