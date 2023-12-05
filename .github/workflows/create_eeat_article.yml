@@ -56,7 +56,11 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
-
+      - name: Prepare git
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git config pull.rebase false
       - name: Install Dependencies
         run: |
             pip install requests markdown
