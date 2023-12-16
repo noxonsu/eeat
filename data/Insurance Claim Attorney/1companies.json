@@ -7,7 +7,8 @@
     "www.forthepeople.com": {
         "url": "https://www.forthepeople.com/practice-areas/insurance-attorney/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.forthepeople.com/faq/personal-injury/how-much-does-personal-injury-insurance-cost/"
+        "priceAndPlansCrawled": "https://www.forthepeople.com/faq/personal-injury/how-much-does-personal-injury-insurance-cost/",
+        "5prompt_Hash": "7e2097fc09cb19af611691939ab2d2af"
     },
     "www.arnolditkin.com": {
         "url": "https://www.arnolditkin.com/insurance-claims/",
@@ -17,7 +18,8 @@
     "www.robertslawfirm.com": {
         "url": "https://www.robertslawfirm.com/insurance-lawyer/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.robertslawfirm.com/fees/"
+        "priceAndPlansCrawled": "https://www.robertslawfirm.com/fees/",
+        "5prompt_Hash": "7e2097fc09cb19af611691939ab2d2af"
     },
     "www.omarochoalaw.com": {
         "url": "https://www.omarochoalaw.com/texas-bad-faith-insurance-lawyer",
@@ -42,7 +44,8 @@
     "feldman.law": {
         "url": "https://feldman.law/practice-areas/bad-faith-insurance-claims/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://feldman.law/news/how-title-insurance-works/"
+        "priceAndPlansCrawled": "https://feldman.law/news/how-title-insurance-works/",
+        "5prompt_Hash": "7e2097fc09cb19af611691939ab2d2af"
     },
     "www.shawcowart.com": {
         "url": "https://www.shawcowart.com/insurance-coverage-dispute-lawyer-austin/",
@@ -97,7 +100,8 @@
     "www.merlinlawgroup.com": {
         "url": "https://www.merlinlawgroup.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.merlinlawgroup.com/"
+        "priceAndPlansCrawled": "https://www.merlinlawgroup.com/",
+        "5prompt_Hash": "7e2097fc09cb19af611691939ab2d2af"
     },
     "www.texaslegalgroup.com": {
         "url": "https://www.texaslegalgroup.com/insurance-bad-faith/",
@@ -117,7 +121,8 @@
     "policyadvocate.com": {
         "url": "https://policyadvocate.com/practice-areas/miami/insurance-claims/bad-faith-insurance-claims/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://policyadvocate.com/contingency-fee/"
+        "priceAndPlansCrawled": "https://policyadvocate.com/contingency-fee/",
+        "5prompt_Hash": "7e2097fc09cb19af611691939ab2d2af"
     },
     "www.thejdfirm.com": {
         "url": "https://www.thejdfirm.com/insurance-lawyer/",
@@ -127,7 +132,8 @@
     "florinroebig.com": {
         "url": "https://florinroebig.com/insurance-claims/residential-property-insurance/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://florinroebig.com/property-loss/"
+        "priceAndPlansCrawled": "https://florinroebig.com/property-loss/",
+        "5prompt_Hash": "7e2097fc09cb19af611691939ab2d2af"
     },
     "www.txbyrd.com": {
         "url": "https://www.txbyrd.com/houston-insurance-lawyer/homeowners-insurance-attorney/",
@@ -142,7 +148,8 @@
     "charlesargento.com": {
         "url": "https://charlesargento.com/car-accident-attorney-houston-tx/auto-insurance-coverage/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://charlesargento.com/car-accident-attorney-houston-tx/steps-of-typical-auto-accident-claim/"
+        "priceAndPlansCrawled": "https://charlesargento.com/car-accident-attorney-houston-tx/steps-of-typical-auto-accident-claim/",
+        "5prompt_Hash": "7e2097fc09cb19af611691939ab2d2af"
     },
     "lawyers.findlaw.com": {
         "url": "https://lawyers.findlaw.com/lawyer/firm/insurance-law/houston/texas",
@@ -157,7 +164,8 @@
     "bergplummer.com": {
         "url": "https://bergplummer.com/insurance-litigation/health/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://bergplummer.com/insurance-litigation/disability/"
+        "priceAndPlansCrawled": "https://bergplummer.com/insurance-litigation/disability/",
+        "5prompt_Hash": "7e2097fc09cb19af611691939ab2d2af"
     },
     "www.caudlespears.com": {
         "url": "https://www.caudlespears.com/practice-areas/insurance-law-litigation/",
