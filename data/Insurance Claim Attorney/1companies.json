@@ -1,150 +1,187 @@
 {
     "www.justia.com": {
         "url": "https://www.justia.com/lawyers/insurance-claims/texas",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.forthepeople.com": {
         "url": "https://www.forthepeople.com/practice-areas/insurance-attorney/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.forthepeople.com/faq/personal-injury/how-much-does-personal-injury-insurance-cost/"
     },
     "www.arnolditkin.com": {
         "url": "https://www.arnolditkin.com/insurance-claims/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.robertslawfirm.com": {
         "url": "https://www.robertslawfirm.com/insurance-lawyer/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.robertslawfirm.com/fees/"
     },
     "www.omarochoalaw.com": {
         "url": "https://www.omarochoalaw.com/texas-bad-faith-insurance-lawyer",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.forbes.com": {
         "url": "https://www.forbes.com/advisor/homeowners-insurance/when-to-hire-lawyer/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.thecallahanlawfirm.com": {
         "url": "https://www.thecallahanlawfirm.com/houston-insurance-claim-lawyer/bad-faith-insurance-claims/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "amarolawfirm.com": {
         "url": "https://amarolawfirm.com/insurance-claims/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "feldman.law": {
         "url": "https://feldman.law/practice-areas/bad-faith-insurance-claims/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://feldman.law/news/how-title-insurance-works/"
     },
     "www.shawcowart.com": {
         "url": "https://www.shawcowart.com/insurance-coverage-dispute-lawyer-austin/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.johnsongarcialaw.com": {
         "url": "https://www.johnsongarcialaw.com/houston-insurance-dispute-lawyer/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.barrow-law.com": {
         "url": "https://www.barrow-law.com/insurance-claims/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "dunnamlaw.com": {
         "url": "https://dunnamlaw.com/insurance-claims/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.scottlawfirmtx.com": {
         "url": "https://www.scottlawfirmtx.com/conroe-personal-injury-lawyer/insurance-claims/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.howrybreen.com": {
         "url": "https://www.howrybreen.com/insurance-litigation/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.lalawtx.com": {
         "url": "https://www.lalawtx.com/property-insurance/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "uphelp.org": {
         "url": "https://uphelp.org/claim-guidance-publications/hiring-an-attorney-for-an-insurance-claim/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "farahandfarah.com": {
         "url": "https://farahandfarah.com/insurance-dispute/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.raiznerlaw.com": {
         "url": "https://www.raiznerlaw.com/property-damage/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.merlinlawgroup.com": {
         "url": "https://www.merlinlawgroup.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.merlinlawgroup.com/"
     },
     "www.texaslegalgroup.com": {
         "url": "https://www.texaslegalgroup.com/insurance-bad-faith/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "attorneyguss.com": {
         "url": "https://attorneyguss.com/tx/houston/insurance-company-claims-lawyer/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.millerpublicadjusters.com": {
         "url": "https://www.millerpublicadjusters.com/free-property-insurance-claim-advice-blog/4-questions-to-ask-before-hiring-an-attorney-to-settle-insurance-claim-disputes",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "policyadvocate.com": {
         "url": "https://policyadvocate.com/practice-areas/miami/insurance-claims/bad-faith-insurance-claims/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://policyadvocate.com/contingency-fee/"
     },
     "www.thejdfirm.com": {
         "url": "https://www.thejdfirm.com/insurance-lawyer/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "florinroebig.com": {
         "url": "https://florinroebig.com/insurance-claims/residential-property-insurance/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://florinroebig.com/property-loss/"
     },
     "www.txbyrd.com": {
         "url": "https://www.txbyrd.com/houston-insurance-lawyer/homeowners-insurance-attorney/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.reichandbinstock.com": {
         "url": "https://www.reichandbinstock.com/insurance-contract-claims/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "charlesargento.com": {
         "url": "https://charlesargento.com/car-accident-attorney-houston-tx/auto-insurance-coverage/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://charlesargento.com/car-accident-attorney-houston-tx/steps-of-typical-auto-accident-claim/"
     },
     "lawyers.findlaw.com": {
         "url": "https://lawyers.findlaw.com/lawyer/firm/insurance-law/houston/texas",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "attorneybrianwhite.com": {
         "url": "https://attorneybrianwhite.com/insurance-bad-faith/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "bergplummer.com": {
         "url": "https://bergplummer.com/insurance-litigation/health/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://bergplummer.com/insurance-litigation/disability/"
     },
     "www.caudlespears.com": {
         "url": "https://www.caudlespears.com/practice-areas/insurance-law-litigation/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.vpattorneys.com": {
         "url": "https://www.vpattorneys.com/insurance-claims/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.houstontrialattorneys.com": {
         "url": "https://www.houstontrialattorneys.com/insurance-disputes/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.dmvinjurylaw.com": {
         "url": "https://www.dmvinjurylaw.com/insurance-claim-attorney-virginia",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.gmfm-law.com": {
         "url": "https://www.gmfm-law.com/practice-areas/insurance-disputes/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     }
 }
