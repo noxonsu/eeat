@@ -1,198 +1,523 @@
 {
     "uphelp.org": {
-        "public_adjuster_products": [
-            {
-                "name": "United Policyholders",
-                "call_to_action": "Contact UP",
-                "usecases": [
-                    "Assistance with insurance claim documentation and negotiation",
-                    "Representation for policyholders in insurance claim process"
-                ],
-                "solutions": [
-                    "Tips and tools for handling insurance claims independently",
-                    "Assistance in finding and hiring licensed public adjusters",
-                    "Advocacy for policyholders' rights"
-                ],
-                "key_features": [
-                    "Provides guidance on questions to ask before hiring a public adjuster",
-                    "Offers a 'Find Help' directory to locate professionals",
-                    "Advocates for consumer protections related to public adjusters"
-                ]
+        "Public Adjuster": {
+            "Call to action": "Contact UP for more information",
+            "Usecases": "Assistance with insurance claim documentation and negotiation, representation for policyholders, help with claim settlement",
+            "Solutions": "Helping policyholders handle insurance claims on their own, providing tips and tools for claim handling, offering assistance in hiring a licensed public adjuster, providing a 'Find Help' directory",
+            "Key features": {
+                "Expertise and Services": {
+                    "Expertise in property loss adjustment": 1,
+                    "Close collaboration with the insured": 1,
+                    "Immediate inspection of loss site": 1,
+                    "Analysis of damages and assembly of claim support data": 1,
+                    "Determination of current replacement costs": 1,
+                    "Thorough assessment and documentation of claims": 1,
+                    "Proactive negotiation for maximum claim amount": 1,
+                    "Complete transparency and expert advice for clients": 1
+                },
+                "Ethical and Legal Compliance": {
+                    "Exclusive service to the client, not the insurance company": 1,
+                    "Adherence to a strict code of ethics and rules of professional conduct": 1,
+                    "Licensed insurance professionals": 1,
+                    "Contracts must be in writing and prominently display fraud statement": 1,
+                    "Contracts must contain specific details such as names, addresses, and license numbers": 1,
+                    "Public adjuster must not receive compensation before insured receives an unaltered copy of the executed contract": 1,
+                    "Insured may rescind the contract if written estimate is not provided within 60 days": 1,
+                    "Separate disclosure document must be provided to the insured before signing the contract": 1
+                },
+                "Licensing and Education": {
+                    "License Types": [
+                        "Public Adjuster"
+                    ],
+                    "Available Lines of Authority": [
+                        "Adjuster Property and Casualty"
+                    ],
+                    "License Term": "Three (3) years",
+                    "Qualification Requirements": [
+                        "Being 18 years of age or older",
+                        "Being employed by the policy holder",
+                        "Passing an examination for the license and lines of authority requested",
+                        "Completing prelicensing education",
+                        "Submitting a set of fingerprints for a criminal history background check"
+                    ],
+                    "Fees": {
+                        "Initial Application": "$185",
+                        "Triennial Renewal": "$185",
+                        "Association of DRL": "$50",
+                        "Late Renewal Penalty": "$62.50"
+                    },
+                    "Continuing Education": "24 hours of education during the license term, with 3 hours in ethics",
+                    "Renewal Process": "Electronically submit the renewal application and fees through Sircon or NIPR",
+                    "Record Retention": "Keeping a record of transactions under the license for three (3) years",
+                    "Reporting of Actions": "Reporting administrative actions and criminal prosecutions to the Commissioner",
+                    "License Fee Waiver for Low Income": 1,
+                    "License Fee Waiver for Veterans": 1,
+                    "Veterans reimbursement for licensing exams": 1
+                },
+                "Training and Courses": {
+                    "Elite_Insurance_Package": {
+                        "Life_Accident_Health_Licensing_Course": true,
+                        "Property_Casualty_Licensing_Course": true,
+                        "Public_Adjuster_Licensing_Course": true,
+                        "All_Textbooks_Included": true,
+                        "Practice_Exams": true,
+                        "Expert_Training": true,
+                        "Property_Casualty_State_Exam_Prep_Class": true
+                    },
+                    "Public_Adjuster_Plus": {
+                        "40_Hour_Accredited_NY_Public_Adjuster_Course": true,
+                        "Textbook_Included": true,
+                        "Practice_Exam_Packet": true,
+                        "Expert_Training": true,
+                        "1_Hour_Coaching_Session": true
+                    },
+                    "Public_Adjuster_Basic": {
+                        "40_Hour_Accredited_NY_Public_Adjuster_Course": true,
+                        "Textbook_Included": true,
+                        "Practice_Exam_Packet": true,
+                        "Expert_Training": true
+                    }
+                },
+                "Additional Support": {
+                    "Search Enforcement Actions": 1,
+                    "Search Public Adjusters": 1
+                }
             }
-        ],
+        },
         "pricesAndPlans": {
             "status": "Not found",
             "priceAndPlans": {}
         }
     },
     "www.napia.com": {
-        "public_adjuster": {
-            "name": "NAPIA (National Association of Public Insurance Adjusters)",
-            "website": "https://www.napia.com",
-            "call_to_action": "Find a Public Adjuster",
-            "usecases": [
-                "Assisting policyholders in preparing, filing, and adjusting insurance claims",
-                "Managing every detail of the claim and working closely with the insured",
-                "Inspecting the loss site immediately, analyzing damages, and assembling claim support data",
-                "Determining current replacement costs and exclusively serving the client, not the insurance company"
-            ],
-            "solutions": "Assistance in property loss adjustment, guiding insureds through first party property insurance claims, and adherence to a strict code of ethics and rules of professional conduct",
-            "key_features": [
-                "Expertise in property loss adjustment",
-                "Close collaboration with the insured",
-                "Immediate inspection of loss site",
-                "Analysis of damages and assembly of claim support data",
-                "Determination of current replacement costs",
-                "Exclusive service to the client, not the insurance company",
-                "Adherence to a strict code of ethics and rules of professional conduct"
-            ]
-        },
-        "pricesAndPlans": {
-            "status": "success",
-            "priceAndPlans": {
-                "Public Adjuster Individual": "$1000",
-                "Independent Contractor": "$320",
-                "Branch Office": "$290",
-                "Weblink": "$400 (optional)"
-            }
-        }
-    },
-    "www.adjustersinternational.com": {
-        "public_adjuster_product": {
-            "name": "Adjusters International",
-            "call_to_action": "Contact Us",
-            "usecases": [
-                "Handling property damage insurance claims for homes, businesses, and commercial properties",
-                "Providing expert representation to ensure maximum insurance claim settlements",
-                "Assisting in expediting the insurance claim process"
-            ],
-            "solutions": [
-                "Thorough assessment and documentation of insurance claims",
-                "Proactive negotiation for maximum claim amount",
-                "Challenging insurance company's offer if necessary",
-                "Complete transparency and expert advice to lower stress for clients"
-            ],
-            "key_features": [
-                "Licensed insurance professionals",
-                "Thorough assessment and documentation of claims",
-                "Proactive negotiation for maximum claim amount",
-                "Complete transparency and expert advice for clients"
-            ]
-        },
-        "pricesAndPlans": {
-            "status": "Not found",
-            "priceAndPlans": {}
-        }
-    },
-    "www.reedc.com": {
-        "product_name": "Public Adjuster Licensing Course",
-        "call_to_action": "Register",
-        "usecases": [
-            "Becoming a licensed and bonded insurance professional",
-            "Advocating for policyholders",
-            "Filing, negotiating, and settling claims on behalf of homeowners/policyholders",
-            "Obtaining satisfactory claim recovery for clients",
-            "Interpreting and evaluating client's policy",
-            "Preparing and supporting client's claim",
-            "Appraising damages and preparing estimates",
-            "Re-opening claims to negotiate for more money if discrepancies are found"
-        ],
-        "solutions": "Training and certification for individuals to become licensed Public Adjusters in New York",
-        "key_features": {
-            "Elite_Insurance_Package": {
-                "Life_Accident_Health_Licensing_Course": true,
-                "Property_Casualty_Licensing_Course": true,
-                "Public_Adjuster_Licensing_Course": true,
-                "All_Textbooks_Included": true,
-                "Practice_Exams": true,
-                "Expert_Training": true,
-                "Property_Casualty_State_Exam_Prep_Class": true
-            },
-            "Public_Adjuster_Plus": {
-                "40_Hour_Accredited_NY_Public_Adjuster_Course": true,
-                "Textbook_Included": true,
-                "Practice_Exam_Packet": true,
-                "Expert_Training": true,
-                "1_Hour_Coaching_Session": true
-            },
-            "Public_Adjuster_Basic": {
-                "40_Hour_Accredited_NY_Public_Adjuster_Course": true,
-                "Textbook_Included": true,
-                "Practice_Exam_Packet": true,
-                "Expert_Training": true
+        "Public Adjuster": {
+            "Call to action": "Find a Public Adjuster",
+            "Usecases": "Public adjusters are experts on property loss adjustment who are retained by policyholders to assist in preparing, filing and adjusting insurance claims. They manage every detail of the claim, working closely with the insured to provide the most equitable and prompt settlement possible.",
+            "Solutions": "Public adjusters inspect the loss site immediately, analyze the damages, assemble claim support data, review the insured's coverage, and determine current replacement costs. They exclusively serve the client, not the insurance company.",
+            "Key features": {
+                "Expertise and Services": {
+                    "Expertise in property loss adjustment": 1,
+                    "Close collaboration with the insured": 1,
+                    "Immediate inspection of loss site": 1,
+                    "Analysis of damages and assembly of claim support data": 1,
+                    "Determination of current replacement costs": 1,
+                    "Thorough assessment and documentation of claims": 1,
+                    "Proactive negotiation for maximum claim amount": 1,
+                    "Complete transparency and expert advice for clients": 1
+                },
+                "Ethical and Legal Compliance": {
+                    "Exclusive service to the client, not the insurance company": 1,
+                    "Adherence to a strict code of ethics and rules of professional conduct": 1,
+                    "Licensed insurance professionals": 1,
+                    "Contracts must be in writing and prominently display fraud statement": 1,
+                    "Contracts must contain specific details such as names, addresses, and license numbers": 1,
+                    "Public adjuster must not receive compensation before insured receives an unaltered copy of the executed contract": 1,
+                    "Insured may rescind the contract if written estimate is not provided within 60 days": 1,
+                    "Separate disclosure document must be provided to the insured before signing the contract": 1
+                },
+                "Licensing and Education": {
+                    "License Types": [
+                        "Public Adjuster"
+                    ],
+                    "Available Lines of Authority": [
+                        "Adjuster Property and Casualty"
+                    ],
+                    "License Term": "Three (3) years",
+                    "Qualification Requirements": [
+                        "Being 18 years of age or older",
+                        "Being employed by the policy holder",
+                        "Passing an examination for the license and lines of authority requested",
+                        "Completing prelicensing education",
+                        "Submitting a set of fingerprints for a criminal history background check"
+                    ],
+                    "Fees": {
+                        "Initial Application": "$185",
+                        "Triennial Renewal": "$185",
+                        "Association of DRL": "$50",
+                        "Late Renewal Penalty": "$62.50"
+                    },
+                    "Continuing Education": "24 hours of education during the license term, with 3 hours in ethics",
+                    "Renewal Process": "Electronically submit the renewal application and fees through Sircon or NIPR",
+                    "Record Retention": "Keeping a record of transactions under the license for three (3) years",
+                    "Reporting of Actions": "Reporting administrative actions and criminal prosecutions to the Commissioner",
+                    "License Fee Waiver for Low Income": 1,
+                    "License Fee Waiver for Veterans": 1,
+                    "Veterans reimbursement for licensing exams": 1
+                },
+                "Training and Courses": {
+                    "Elite_Insurance_Package": {
+                        "Life_Accident_Health_Licensing_Course": true,
+                        "Property_Casualty_Licensing_Course": true,
+                        "Public_Adjuster_Licensing_Course": true,
+                        "All_Textbooks_Included": true,
+                        "Practice_Exams": true,
+                        "Expert_Training": true,
+                        "Property_Casualty_State_Exam_Prep_Class": true
+                    },
+                    "Public_Adjuster_Plus": {
+                        "40_Hour_Accredited_NY_Public_Adjuster_Course": true,
+                        "Textbook_Included": true,
+                        "Practice_Exam_Packet": true,
+                        "Expert_Training": true,
+                        "1_Hour_Coaching_Session": true
+                    },
+                    "Public_Adjuster_Basic": {
+                        "40_Hour_Accredited_NY_Public_Adjuster_Course": true,
+                        "Textbook_Included": true,
+                        "Practice_Exam_Packet": true,
+                        "Expert_Training": true
+                    }
+                },
+                "Additional Support": {
+                    "Search Enforcement Actions": 1,
+                    "Search Public Adjusters": 1
+                }
             }
         },
         "pricesAndPlans": {
             "status": "Success",
             "priceAndPlans": {
-                "Basic Appraisal Principles (R5)": {
+                "Public Adjuster Individual": "$1000",
+                "Independent Contractor": "$320",
+                "Branch Office": "$290",
+                "Weblink (optional)": "$400"
+            }
+        }
+    },
+    "www.adjustersinternational.com": {
+        "Public Adjuster": {
+            "Call to Action": "Contact Us",
+            "Usecases": "Handling property damage insurance claims for homes, businesses, and commercial properties after sudden disasters like fire, earthquake, burst pipe, or flood.",
+            "Solutions": "Licensed insurance professionals work on behalf of the insured to handle the entire insurance claim process, ensuring maximum entitled compensation.",
+            "Key Features": {
+                "Expertise and Services": {
+                    "Expertise in property loss adjustment": 1,
+                    "Close collaboration with the insured": 1,
+                    "Immediate inspection of loss site": 1,
+                    "Analysis of damages and assembly of claim support data": 1,
+                    "Determination of current replacement costs": 1,
+                    "Thorough assessment and documentation of claims": 1,
+                    "Proactive negotiation for maximum claim amount": 1,
+                    "Complete transparency and expert advice for clients": 1
+                },
+                "Ethical and Legal Compliance": {
+                    "Exclusive service to the client, not the insurance company": 1,
+                    "Adherence to a strict code of ethics and rules of professional conduct": 1,
+                    "Licensed insurance professionals": 1,
+                    "Contracts must be in writing and prominently display fraud statement": 1,
+                    "Contracts must contain specific details such as names, addresses, and license numbers": 1,
+                    "Public adjuster must not receive compensation before insured receives an unaltered copy of the executed contract": 1,
+                    "Insured may rescind the contract if written estimate is not provided within 60 days": 1,
+                    "Separate disclosure document must be provided to the insured before signing the contract": 1
+                },
+                "Licensing and Education": {
+                    "License Types": [
+                        "Public Adjuster"
+                    ],
+                    "Available Lines of Authority": [
+                        "Adjuster Property and Casualty"
+                    ],
+                    "License Term": "Three (3) years",
+                    "Qualification Requirements": [
+                        "Being 18 years of age or older",
+                        "Being employed by the policy holder",
+                        "Passing an examination for the license and lines of authority requested",
+                        "Completing prelicensing education",
+                        "Submitting a set of fingerprints for a criminal history background check"
+                    ],
+                    "Fees": {
+                        "Initial Application": "$185",
+                        "Triennial Renewal": "$185",
+                        "Association of DRL": "$50",
+                        "Late Renewal Penalty": "$62.50"
+                    },
+                    "Continuing Education": "24 hours of education during the license term, with 3 hours in ethics",
+                    "Renewal Process": "Electronically submit the renewal application and fees through Sircon or NIPR",
+                    "Record Retention": "Keeping a record of transactions under the license for three (3) years",
+                    "Reporting of Actions": "Reporting administrative actions and criminal prosecutions to the Commissioner",
+                    "License Fee Waiver for Low Income": 1,
+                    "License Fee Waiver for Veterans": 1,
+                    "Veterans reimbursement for licensing exams": 1
+                },
+                "Training and Courses": {
+                    "Elite_Insurance_Package": {
+                        "Life_Accident_Health_Licensing_Course": true,
+                        "Property_Casualty_Licensing_Course": true,
+                        "Public_Adjuster_Licensing_Course": true,
+                        "All_Textbooks_Included": true,
+                        "Practice_Exams": true,
+                        "Expert_Training": true,
+                        "Property_Casualty_State_Exam_Prep_Class": true
+                    },
+                    "Public_Adjuster_Plus": {
+                        "40_Hour_Accredited_NY_Public_Adjuster_Course": true,
+                        "Textbook_Included": true,
+                        "Practice_Exam_Packet": true,
+                        "Expert_Training": true,
+                        "1_Hour_Coaching_Session": true
+                    },
+                    "Public_Adjuster_Basic": {
+                        "40_Hour_Accredited_NY_Public_Adjuster_Course": true,
+                        "Textbook_Included": true,
+                        "Practice_Exam_Packet": true,
+                        "Expert_Training": true
+                    }
+                },
+                "Additional Support": {
+                    "Search Enforcement Actions": 1,
+                    "Search Public Adjusters": 1
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "fees": [
+                    {
+                        "type": "Flexible Percentage",
+                        "description": "Our fees are often a small, fixed percentage of the final settlement or based on agreed-upon benchmarks."
+                    },
+                    {
+                        "type": "Dependent portions",
+                        "description": "Success fees for commercial and homeowners differ based on factors such as building, stock, business interruption, and ALE, with the amount contingent on the size and complexity of each component."
+                    },
+                    {
+                        "type": "Hourly",
+                        "description": "Depending on the circumstance, our fees may be charged hourly."
+                    }
+                ]
+            }
+        }
+    },
+    "www.reedc.com": {
+        "Public Adjuster": {
+            "Call to action": "Register",
+            "Usecases": "Filing, negotiating, and settling claims, obtaining satisfactory claim recovery, advocating for policyholders, interpreting and evaluating client's policy, appraising damages, preparing estimates and claim documentation, negotiating for maximum settlement",
+            "Solutions": "Elite Insurance Package, Public Adjuster Plus, Public Adjuster Basic",
+            "Key features": {
+                "Expertise and Services": {
+                    "Expertise in property loss adjustment": 1,
+                    "Close collaboration with the insured": 1,
+                    "Immediate inspection of loss site": 1,
+                    "Analysis of damages and assembly of claim support data": 1,
+                    "Determination of current replacement costs": 1,
+                    "Thorough assessment and documentation of claims": 1,
+                    "Proactive negotiation for maximum claim amount": 1,
+                    "Complete transparency and expert advice for clients": 1
+                },
+                "Ethical and Legal Compliance": {
+                    "Exclusive service to the client, not the insurance company": 1,
+                    "Adherence to a strict code of ethics and rules of professional conduct": 1,
+                    "Licensed insurance professionals": 1,
+                    "Contracts must be in writing and prominently display fraud statement": 1,
+                    "Contracts must contain specific details such as names, addresses, and license numbers": 1,
+                    "Public adjuster must not receive compensation before insured receives an unaltered copy of the executed contract": 1,
+                    "Insured may rescind the contract if written estimate is not provided within 60 days": 1,
+                    "Separate disclosure document must be provided to the insured before signing the contract": 1
+                },
+                "Licensing and Education": {
+                    "License Types": [
+                        "Public Adjuster"
+                    ],
+                    "Available Lines of Authority": [
+                        "Adjuster Property and Casualty"
+                    ],
+                    "License Term": "Three (3) years",
+                    "Qualification Requirements": [
+                        "Being 18 years of age or older",
+                        "Being employed by the policy holder",
+                        "Passing an examination for the license and lines of authority requested",
+                        "Completing prelicensing education",
+                        "Submitting a set of fingerprints for a criminal history background check"
+                    ],
+                    "Fees": {
+                        "Initial Application": "$185",
+                        "Triennial Renewal": "$185",
+                        "Association of DRL": "$50",
+                        "Late Renewal Penalty": "$62.50"
+                    },
+                    "Continuing Education": "24 hours of education during the license term, with 3 hours in ethics",
+                    "Renewal Process": "Electronically submit the renewal application and fees through Sircon or NIPR",
+                    "Record Retention": "Keeping a record of transactions under the license for three (3) years",
+                    "Reporting of Actions": "Reporting administrative actions and criminal prosecutions to the Commissioner",
+                    "License Fee Waiver for Low Income": 1,
+                    "License Fee Waiver for Veterans": 1,
+                    "Veterans reimbursement for licensing exams": 1
+                },
+                "Training and Courses": {
+                    "Elite_Insurance_Package": {
+                        "Life_Accident_Health_Licensing_Course": true,
+                        "Property_Casualty_Licensing_Course": true,
+                        "Public_Adjuster_Licensing_Course": true,
+                        "All_Textbooks_Included": true,
+                        "Practice_Exams": true,
+                        "Expert_Training": true,
+                        "Property_Casualty_State_Exam_Prep_Class": true
+                    },
+                    "Public_Adjuster_Plus": {
+                        "40_Hour_Accredited_NY_Public_Adjuster_Course": true,
+                        "Textbook_Included": true,
+                        "Practice_Exam_Packet": true,
+                        "Expert_Training": true,
+                        "1_Hour_Coaching_Session": true
+                    },
+                    "Public_Adjuster_Basic": {
+                        "40_Hour_Accredited_NY_Public_Adjuster_Course": true,
+                        "Textbook_Included": true,
+                        "Practice_Exam_Packet": true,
+                        "Expert_Training": true
+                    }
+                },
+                "Additional Support": {
+                    "Search Enforcement Actions": 1,
+                    "Search Public Adjusters": 1
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Basic Appraisal Principles": {
                     "price": "$350",
-                    "plan": "30-hour course"
+                    "courseCode": "Q0181"
                 }
             }
         }
     },
     "doi.nv.gov": {
-        "public_adjuster": {
-            "call_to_action": "Apply for a License",
-            "usecases": [
-                "Representing the financial interests of the insured named in the policy",
-                "Complying with licensing requirements",
-                "Renewing the license",
-                "Completing continuing education",
-                "Reporting actions to the Commissioner"
+        "Public Adjuster": {
+            "License Type": "Public Adjuster",
+            "Available Lines of Authority": [
+                "Adjuster Property and Casualty"
             ],
-            "solutions": "Obtaining and renewing a Public Adjuster license in Nevada",
-            "key_features": {
-                "License Types": [
-                    "Public Adjuster"
-                ],
-                "Available Lines of Authority": [
-                    "Adjuster Property and Casualty"
-                ],
-                "License Term": "Three (3) years",
-                "Qualification Requirements": [
-                    "Being 18 years of age or older",
-                    "Being employed by the policy holder",
-                    "Passing an examination for the license and lines of authority requested",
-                    "Completing prelicensing education",
-                    "Submitting a set of fingerprints for a criminal history background check"
-                ],
-                "Fees": {
-                    "Initial Application": "$185",
-                    "Triennial Renewal": "$185",
-                    "Association of DRL": "$50",
-                    "Late Renewal Penalty": "$62.50"
-                },
-                "Continuing Education": "24 hours of education during the license term, with 3 hours in ethics",
-                "Renewal Process": "Electronically submit the renewal application and fees through Sircon or NIPR",
-                "Record Retention": "Keeping a record of transactions under the license for three (3) years",
-                "Reporting of Actions": "Reporting administrative actions and criminal prosecutions to the Commissioner"
-            }
+            "License Term": "Three (3) years",
+            "Qualification Requirements": [
+                "Being 18 years of age or older",
+                "Being employed by the policy holder",
+                "Passing an examination for the license and lines of authority requested",
+                "Completing prelicensing education",
+                "Submitting a set of fingerprints for a criminal history background check"
+            ],
+            "Fees": {
+                "Initial Application": "$185",
+                "Triennial Renewal": "$185",
+                "Association of DRL": "$50",
+                "Late Renewal Penalty": "$62.50"
+            },
+            "Continuing Education": "24 hours of education during the license term, with 3 hours in ethics",
+            "Renewal Process": "Electronically submit the renewal application and fees through Sircon or NIPR",
+            "Record Retention": "Keeping a record of transactions under the license for three (3) years",
+            "Reporting of Actions": "Reporting administrative actions and criminal prosecutions to the Commissioner",
+            "License Fee Waiver for Low Income": true,
+            "License Fee Waiver for Veterans": true,
+            "Veterans reimbursement for licensing exams": true
         },
         "pricesAndPlans": {
-            "status": "Success",
+            "status": "Found",
             "priceAndPlans": {
                 "ownerPolicy": "$1,046 to $1,407 for $150,000 worth of coverage in Clark County",
-                "lenderPolicy": "Not found"
+                "lenderPolicy": "$1,046 to $1,407 for $150,000 worth of coverage in Clark County"
             }
         }
     },
     "www.leg.state.fl.us": {
-        "public_adjuster_contract": {
-            "call_to_action": "Talk to a manager",
-            "usecases": [
-                "Assisting insured individuals with property and casualty claims",
-                "Providing public adjuster services in compliance with Florida statutes"
+        "Public Adjuster": {
+            "Company Name": "Florida Public Adjusters Inc.",
+            "Call to Action": "Talk to a manager",
+            "Usecases": [
+                "Property damage claims",
+                "Insurance claim negotiation",
+                "Claim documentation and assessment"
             ],
-            "solutions": "Written contracts for public adjuster services, disclosure documents, and claim process explanations",
-            "key_features": [
-                "Contracts must be in writing and prominently display fraud statement",
-                "Contracts must contain specific details such as names, addresses, and license numbers",
-                "Public adjuster must not receive compensation before insured receives an unaltered copy of the executed contract",
-                "Insured may rescind the contract if written estimate is not provided within 60 days",
-                "Separate disclosure document must be provided to the insured before signing the contract"
-            ]
+            "Solutions": [
+                "Expertise in property loss adjustment",
+                "Close collaboration with the insured",
+                "Immediate inspection of loss site",
+                "Analysis of damages and assembly of claim support data",
+                "Determination of current replacement costs",
+                "Thorough assessment and documentation of claims",
+                "Proactive negotiation for maximum claim amount",
+                "Complete transparency and expert advice for clients"
+            ],
+            "Key Features": {
+                "Expertise and Services": {
+                    "Expertise in property loss adjustment": 1,
+                    "Close collaboration with the insured": 1,
+                    "Immediate inspection of loss site": 1,
+                    "Analysis of damages and assembly of claim support data": 1,
+                    "Determination of current replacement costs": 1,
+                    "Thorough assessment and documentation of claims": 1,
+                    "Proactive negotiation for maximum claim amount": 1,
+                    "Complete transparency and expert advice for clients": 1
+                },
+                "Ethical and Legal Compliance": {
+                    "Exclusive service to the client, not the insurance company": 1,
+                    "Adherence to a strict code of ethics and rules of professional conduct": 1,
+                    "Licensed insurance professionals": 1,
+                    "Contracts must be in writing and prominently display fraud statement": 1,
+                    "Contracts must contain specific details such as names, addresses, and license numbers": 1,
+                    "Public adjuster must not receive compensation before insured receives an unaltered copy of the executed contract": 1,
+                    "Insured may rescind the contract if written estimate is not provided within 60 days": 1,
+                    "Separate disclosure document must be provided to the insured before signing the contract": 1
+                },
+                "Licensing and Education": {
+                    "License Types": [
+                        "Public Adjuster"
+                    ],
+                    "Available Lines of Authority": [
+                        "Adjuster Property and Casualty"
+                    ],
+                    "License Term": "Three (3) years",
+                    "Qualification Requirements": [
+                        "Being 18 years of age or older",
+                        "Being employed by the policy holder",
+                        "Passing an examination for the license and lines of authority requested",
+                        "Completing prelicensing education",
+                        "Submitting a set of fingerprints for a criminal history background check"
+                    ],
+                    "Fees": {
+                        "Initial Application": "$185",
+                        "Triennial Renewal": "$185",
+                        "Association of DRL": "$50",
+                        "Late Renewal Penalty": "$62.50"
+                    },
+                    "Continuing Education": "24 hours of education during the license term, with 3 hours in ethics",
+                    "Renewal Process": "Electronically submit the renewal application and fees through Sircon or NIPR",
+                    "Record Retention": "Keeping a record of transactions under the license for three (3) years",
+                    "Reporting of Actions": "Reporting administrative actions and criminal prosecutions to the Commissioner",
+                    "License Fee Waiver for Low Income": 1,
+                    "License Fee Waiver for Veterans": 1,
+                    "Veterans reimbursement for licensing exams": 1
+                },
+                "Training and Courses": {
+                    "Elite_Insurance_Package": {
+                        "Life_Accident_Health_Licensing_Course": true,
+                        "Property_Casualty_Licensing_Course": true,
+                        "Public_Adjuster_Licensing_Course": true,
+                        "All_Textbooks_Included": true,
+                        "Practice_Exams": true,
+                        "Expert_Training": true,
+                        "Property_Casualty_State_Exam_Prep_Class": true
+                    },
+                    "Public_Adjuster_Plus": {
+                        "40_Hour_Accredited_NY_Public_Adjuster_Course": true,
+                        "Textbook_Included": true,
+                        "Practice_Exam_Packet": true,
+                        "Expert_Training": true,
+                        "1_Hour_Coaching_Session": true
+                    },
+                    "Public_Adjuster_Basic": {
+                        "40_Hour_Accredited_NY_Public_Adjuster_Course": true,
+                        "Textbook_Included": true,
+                        "Practice_Exam_Packet": true,
+                        "Expert_Training": true
+                    }
+                },
+                "Additional Support": {
+                    "Search Enforcement Actions": 1,
+                    "Search Public Adjusters": 1
+                }
+            }
         },
         "pricesAndPlans": {
             "status": "Not found",
@@ -200,114 +525,93 @@
         }
     },
     "insurance.mo.gov": {
-        "public_adjuster": {
-            "name": "Missouri Department of Insurance",
-            "call_to_action": "Apply/Renew License",
-            "usecases": [
-                "Adjustment or settlement of claims for losses or damages arising out of policies of fire or allied lines of insurances"
-            ],
-            "solutions": "Licensing for public adjusters and public adjuster solicitors",
-            "key_features": "License Fee Waiver for Low Income, License Fee Waiver for Veterans, Search Enforcement Actions, Search Public Adjusters, Veterans reimbursement for licensing exams",
-            "contact_information": {
-                "street_address": "Harry S Truman State Office Building 301 W. High St., Room 530, Jefferson City, MO 65101",
-                "mailing_address": "PO Box 690 Jefferson City, MO 65102-0690",
-                "correspondence_with_fees": "PO Box 4001 Jefferson City, MO 65102-4001",
-                "licensing_phone": "(573) 751-3518",
-                "licensing_email": "licensing@insurance.mo.gov"
+        "Public Adjuster": {
+            "Call to Action": "Apply/Renew License",
+            "Usecases": "Adjustment or settlement of claims for losses or damages arising out of policies of fire or allied lines of insurances",
+            "Solutions": "Engaging in the adjustment or settlement of claims for losses or damages",
+            "Key Features": {
+                "Expertise and Services": {
+                    "Expertise in property loss adjustment": 1,
+                    "Close collaboration with the insured": 1,
+                    "Immediate inspection of loss site": 1,
+                    "Analysis of damages and assembly of claim support data": 1,
+                    "Determination of current replacement costs": 1,
+                    "Thorough assessment and documentation of claims": 1,
+                    "Proactive negotiation for maximum claim amount": 1,
+                    "Complete transparency and expert advice for clients": 1
+                },
+                "Ethical and Legal Compliance": {
+                    "Exclusive service to the client, not the insurance company": 1,
+                    "Adherence to a strict code of ethics and rules of professional conduct": 1,
+                    "Licensed insurance professionals": 1,
+                    "Contracts must be in writing and prominently display fraud statement": 1,
+                    "Contracts must contain specific details such as names, addresses, and license numbers": 1,
+                    "Public adjuster must not receive compensation before insured receives an unaltered copy of the executed contract": 1,
+                    "Insured may rescind the contract if written estimate is not provided within 60 days": 1,
+                    "Separate disclosure document must be provided to the insured before signing the contract": 1
+                },
+                "Licensing and Education": {
+                    "License Types": [
+                        "Public Adjuster"
+                    ],
+                    "Available Lines of Authority": [
+                        "Adjuster Property and Casualty"
+                    ],
+                    "License Term": "Three (3) years",
+                    "Qualification Requirements": [
+                        "Being 18 years of age or older",
+                        "Being employed by the policy holder",
+                        "Passing an examination for the license and lines of authority requested",
+                        "Completing prelicensing education",
+                        "Submitting a set of fingerprints for a criminal history background check"
+                    ],
+                    "Fees": {
+                        "Initial Application": "$185",
+                        "Triennial Renewal": "$185",
+                        "Association of DRL": "$50",
+                        "Late Renewal Penalty": "$62.50"
+                    },
+                    "Continuing Education": "24 hours of education during the license term, with 3 hours in ethics",
+                    "Renewal Process": "Electronically submit the renewal application and fees through Sircon or NIPR",
+                    "Record Retention": "Keeping a record of transactions under the license for three (3) years",
+                    "Reporting of Actions": "Reporting administrative actions and criminal prosecutions to the Commissioner",
+                    "License Fee Waiver for Low Income": 1,
+                    "License Fee Waiver for Veterans": 1,
+                    "Veterans reimbursement for licensing exams": 1
+                },
+                "Training and Courses": {
+                    "Elite_Insurance_Package": {
+                        "Life_Accident_Health_Licensing_Course": true,
+                        "Property_Casualty_Licensing_Course": true,
+                        "Public_Adjuster_Licensing_Course": true,
+                        "All_Textbooks_Included": true,
+                        "Practice_Exams": true,
+                        "Expert_Training": true,
+                        "Property_Casualty_State_Exam_Prep_Class": true
+                    },
+                    "Public_Adjuster_Plus": {
+                        "40_Hour_Accredited_NY_Public_Adjuster_Course": true,
+                        "Textbook_Included": true,
+                        "Practice_Exam_Packet": true,
+                        "Expert_Training": true,
+                        "1_Hour_Coaching_Session": true
+                    },
+                    "Public_Adjuster_Basic": {
+                        "40_Hour_Accredited_NY_Public_Adjuster_Course": true,
+                        "Textbook_Included": true,
+                        "Practice_Exam_Packet": true,
+                        "Expert_Training": true
+                    }
+                },
+                "Additional Support": {
+                    "Search Enforcement Actions": 1,
+                    "Search Public Adjusters": 1
+                }
             }
         },
         "pricesAndPlans": {
-            "status": "Success",
-            "priceAndPlans": {
-                "Producer Fees": [
-                    {
-                        "License/Service": "Resident/Non-Resident Producer License",
-                        "Amount": "$100"
-                    },
-                    {
-                        "License/Service": "Business Entity Producer (Agency) License",
-                        "Amount": "$100"
-                    },
-                    {
-                        "License/Service": "Producer Renewal Fee",
-                        "Amount": "$100"
-                    },
-                    {
-                        "License/Service": "Business Entity Producer (Agency) Renewal Fee",
-                        "Amount": "$100"
-                    },
-                    {
-                        "License/Service": "Late Renewal Fee",
-                        "Amount": "$25/month (after one year, applicant must reapply)"
-                    },
-                    {
-                        "License/Service": "Continuing Education Provider Course and Renewal Fee",
-                        "Amount": "$50 per course"
-                    }
-                ],
-                "Insurer Admission and Filing Fees": [
-                    {
-                        "License/Service": "Certified Copy of Certificate of Authority",
-                        "Amount": "No charge"
-                    },
-                    {
-                        "License/Service": "Service of Process",
-                        "Amount": "No charge"
-                    },
-                    {
-                        "License/Service": "P&C Rate, Rule or Form Filing",
-                        "Amount": "$150"
-                    },
-                    {
-                        "License/Service": "L&H Rate, Form Filing or Report",
-                        "Amount": "$150"
-                    },
-                    {
-                        "License/Service": "380 Mutual Form Filing, Articles, Bylaws",
-                        "Amount": "$10"
-                    },
-                    {
-                        "License/Service": "Discount Medical Plan Form Filing",
-                        "Amount": "$25"
-                    },
-                    {
-                        "License/Service": "Primary Application Fees",
-                        "Amount": "$1,000"
-                    },
-                    {
-                        "License/Service": "Expansion Application Fees",
-                        "Amount": "$1,000"
-                    },
-                    {
-                        "License/Service": "Annual Renewal Fees (P&C, L&H, Health, HMO, PPD, All Reinsurers)",
-                        "Amount": "$2,000"
-                    },
-                    {
-                        "License/Service": "TPA Admission",
-                        "Amount": "$1,000"
-                    },
-                    {
-                        "License/Service": "Certified Reinsurer Initial Application",
-                        "Amount": "$1,000"
-                    },
-                    {
-                        "License/Service": "Surplus Note",
-                        "Amount": "$150"
-                    },
-                    {
-                        "License/Service": "Dividends, Forms B, C, D, or F",
-                        "Amount": "$250"
-                    },
-                    {
-                        "License/Service": "Forms A or E, ORSA",
-                        "Amount": "$500"
-                    },
-                    {
-                        "License/Service": "Any Other Document: Including, but not limited to: Articles, Bylaws, Exam Filing Fees, MGA Filings, Permitted Practices",
-                        "Amount": "$150"
-                    }
-                ]
-            }
+            "status": "Not found",
+            "priceAndPlans": ""
         }
     }
 }
