@@ -106,5 +106,8 @@
     },
     "insurance.mo.gov": {
         "url": "https://insurance.mo.gov/agents/publicadjusters.php"
+    },
+    "www.usatoday.com": {
+        "url": "https://www.usatoday.com/money/blueprint/home-insurance/public-adjusters/"
     }
 }
