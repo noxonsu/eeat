@@ -1,113 +1,150 @@
 {
     "www.iii.org": {
-        "url": "https://www.iii.org/article/what-public-adjuster"
+        "url": "https://www.iii.org/article/what-public-adjuster",
+        "nature": "single project"
     },
     "www.forbes.com": {
-        "url": "https://www.forbes.com/advisor/homeowners-insurance/public-adjusters/"
+        "url": "https://www.forbes.com/advisor/homeowners-insurance/public-adjusters/",
+        "nature": "single project"
     },
     "www.bankrate.com": {
-        "url": "https://www.bankrate.com/insurance/homeowners-insurance/hiring-a-public-adjuster/"
+        "url": "https://www.bankrate.com/insurance/homeowners-insurance/hiring-a-public-adjuster/",
+        "nature": "single project"
     },
     "www.nerdwallet.com": {
-        "url": "https://www.nerdwallet.com/article/insurance/public-adjuster-insurance"
+        "url": "https://www.nerdwallet.com/article/insurance/public-adjuster-insurance",
+        "nature": "single project"
     },
     "www.tdi.texas.gov": {
-        "url": "https://www.tdi.texas.gov/tips/public-adjusters.html"
+        "url": "https://www.tdi.texas.gov/tips/public-adjusters.html",
+        "nature": "single project"
     },
     "uphelp.org": {
-        "url": "https://uphelp.org/claim-guidance-publications/questions-to-ask-before-hiring-a-public-adjuster/"
+        "url": "https://uphelp.org/claim-guidance-publications/questions-to-ask-before-hiring-a-public-adjuster/",
+        "nature": "single project"
     },
     "www.insurance.pa.gov": {
-        "url": "https://www.insurance.pa.gov/Coverage/homeowners/Pages/Public-Adjuster.aspx"
+        "url": "https://www.insurance.pa.gov/Coverage/homeowners/Pages/Public-Adjuster.aspx",
+        "nature": "single project"
     },
     "nyc-business.nyc.gov": {
-        "url": "https://nyc-business.nyc.gov/nycbusiness/description/public-adjuster-license-entity"
+        "url": "https://nyc-business.nyc.gov/nycbusiness/description/public-adjuster-license-entity",
+        "nature": "single project"
     },
     "www.dfs.ny.gov": {
-        "url": "https://www.dfs.ny.gov/apps_and_licensing/agents_and_brokers/lic_app_ia_pa"
+        "url": "https://www.dfs.ny.gov/apps_and_licensing/agents_and_brokers/lic_app_ia_pa",
+        "nature": "single project"
     },
     "www.napia.com": {
-        "url": "https://www.napia.com/aboutnapia1"
+        "url": "https://www.napia.com/aboutnapia1",
+        "nature": "single project"
     },
     "www.lopriore.com": {
-        "url": "https://www.lopriore.com/blog/public-adjuster-pro-cons/"
+        "url": "https://www.lopriore.com/blog/public-adjuster-pro-cons/",
+        "nature": "single project"
     },
     "performanceadjusting.com": {
-        "url": "https://performanceadjusting.com/learn/what-is-a-public-adjuster/"
+        "url": "https://performanceadjusting.com/learn/what-is-a-public-adjuster/",
+        "nature": "single project"
     },
     "www.adjustersinternational.com": {
-        "url": "https://www.adjustersinternational.com/resources/news-and-events/what-can-a-public-adjuster-do-for-you/"
+        "url": "https://www.adjustersinternational.com/resources/news-and-events/what-can-a-public-adjuster-do-for-you/",
+        "nature": "single project"
     },
     "www.businessinsider.com": {
-        "url": "https://www.businessinsider.com/personal-finance/what-is-a-public-adjuster"
+        "url": "https://www.businessinsider.com/personal-finance/what-is-a-public-adjuster",
+        "nature": "single project"
     },
     "www.valuepenguin.com": {
-        "url": "https://www.valuepenguin.com/public-insurance-adjusters"
+        "url": "https://www.valuepenguin.com/public-insurance-adjusters",
+        "nature": "single project"
     },
     "www.unitedpublicadjusters.com": {
-        "url": "https://www.unitedpublicadjusters.com/"
+        "url": "https://www.unitedpublicadjusters.com/",
+        "nature": "single project"
     },
     "idoi.illinois.gov": {
-        "url": "https://idoi.illinois.gov/consumers/consumerinsurance/commercial/commercial-property-public-adjusters.html"
+        "url": "https://idoi.illinois.gov/consumers/consumerinsurance/commercial/commercial-property-public-adjusters.html",
+        "nature": "single project"
     },
     "insurance.maryland.gov": {
-        "url": "https://insurance.maryland.gov/Consumer/pages/publicadjuster.aspx"
+        "url": "https://insurance.maryland.gov/Consumer/pages/publicadjuster.aspx",
+        "nature": "single project"
     },
     "www.smcgov.org": {
-        "url": "https://www.smcgov.org/dem/public-insurance-adjusters"
+        "url": "https://www.smcgov.org/dem/public-insurance-adjusters",
+        "nature": "single project"
     },
     "www.millerpublicadjusters.com": {
-        "url": "https://www.millerpublicadjusters.com/"
+        "url": "https://www.millerpublicadjusters.com/",
+        "nature": "single project"
     },
     "www.myfloridacfo.com": {
-        "url": "https://www.myfloridacfo.com/division/consumers/storm/public-adjusters"
+        "url": "https://www.myfloridacfo.com/division/consumers/storm/public-adjusters",
+        "nature": "single project"
     },
     "myfloridacfo.com": {
-        "url": "https://myfloridacfo.com/docs-sf/insurance-consumer-advocate-libraries/ica-documents/public-adjuster-consumer-tips.pdf?sfvrsn=9ad3e6b4_13"
+        "url": "https://myfloridacfo.com/docs-sf/insurance-consumer-advocate-libraries/ica-documents/public-adjuster-consumer-tips.pdf?sfvrsn=9ad3e6b4_13",
+        "nature": "single project"
     },
     "www.mass.gov": {
-        "url": "https://www.mass.gov/info-details/public-insurance-adjusters"
+        "url": "https://www.mass.gov/info-details/public-insurance-adjusters",
+        "nature": "single project"
     },
     "www.bls.gov": {
-        "url": "https://www.bls.gov/ooh/business-and-financial/claims-adjusters-appraisers-examiners-and-investigators.htm"
+        "url": "https://www.bls.gov/ooh/business-and-financial/claims-adjusters-appraisers-examiners-and-investigators.htm",
+        "nature": "single project"
     },
     "portal.ct.gov": {
-        "url": "https://portal.ct.gov/cid/searchable-archive/licensing-producers/public-adjuster"
+        "url": "https://portal.ct.gov/cid/searchable-archive/licensing-producers/public-adjuster",
+        "nature": "single project"
     },
     "insurance.ohio.gov": {
-        "url": "https://insurance.ohio.gov/wps/wcm/connect/gov/ae47d6af-565a-4695-a5ef-d855fe09627f/using_public_adjuster_2021.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE.Z18_79GCH8013HMOA06A2E16IV2082-ae47d6af-565a-4695-a5ef-d855fe09627f-ntUk3ib"
+        "url": "https://insurance.ohio.gov/wps/wcm/connect/gov/ae47d6af-565a-4695-a5ef-d855fe09627f/using_public_adjuster_2021.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE.Z18_79GCH8013HMOA06A2E16IV2082-ae47d6af-565a-4695-a5ef-d855fe09627f-ntUk3ib",
+        "nature": "single project"
     },
     "thepublicsadjuster.com": {
-        "url": "https://thepublicsadjuster.com/"
+        "url": "https://thepublicsadjuster.com/",
+        "nature": "single project"
     },
     "www.insurance.ca.gov": {
-        "url": "https://www.insurance.ca.gov/0200-industry/0050-renew-license/0200-requirements/public-adjuster/"
+        "url": "https://www.insurance.ca.gov/0200-industry/0050-renew-license/0200-requirements/public-adjuster/",
+        "nature": "single project"
     },
     "www.reedc.com": {
-        "url": "https://www.reedc.com/new-york-insurance-licensing-courses/public-adjuster/"
+        "url": "https://www.reedc.com/new-york-insurance-licensing-courses/public-adjuster/",
+        "nature": "single project"
     },
     "web.theinstitutes.org": {
-        "url": "https://web.theinstitutes.org/designations/senior-professional-public-adjuster"
+        "url": "https://web.theinstitutes.org/designations/senior-professional-public-adjuster",
+        "nature": "single project"
     },
     "doi.nv.gov": {
-        "url": "https://doi.nv.gov/Licensing/License_Types/Adjuster/Public_Adjuster/"
+        "url": "https://doi.nv.gov/Licensing/License_Types/Adjuster/Public_Adjuster/",
+        "nature": "single project"
     },
     "www.sill.com": {
-        "url": "https://www.sill.com/public-adjuster-near-me/new-york-city-new-york-public-adjuster/"
+        "url": "https://www.sill.com/public-adjuster-near-me/new-york-city-new-york-public-adjuster/",
+        "nature": "single project"
     },
     "insurance.ky.gov": {
-        "url": "https://insurance.ky.gov/PPC/Documents/Consumer%20Guide%20to%20Public%20Adjusters%202021.pdf"
+        "url": "https://insurance.ky.gov/PPC/Documents/Consumer%20Guide%20to%20Public%20Adjusters%202021.pdf",
+        "nature": "single project"
     },
     "oci.wi.gov": {
-        "url": "https://oci.wi.gov/Pages/Agents/PublicAdjuster.aspx"
+        "url": "https://oci.wi.gov/Pages/Agents/PublicAdjuster.aspx",
+        "nature": "single project"
     },
     "www.leg.state.fl.us": {
-        "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0600-0699/0626/Sections/0626.8796.html"
+        "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0600-0699/0626/Sections/0626.8796.html",
+        "nature": "single project"
     },
     "insurance.mo.gov": {
-        "url": "https://insurance.mo.gov/agents/publicadjusters.php"
+        "url": "https://insurance.mo.gov/agents/publicadjusters.php",
+        "nature": "single project"
     },
     "www.usatoday.com": {
-        "url": "https://www.usatoday.com/money/blueprint/home-insurance/public-adjusters/"
+        "url": "https://www.usatoday.com/money/blueprint/home-insurance/public-adjusters/",
+        "nature": "single project"
     }
 }
