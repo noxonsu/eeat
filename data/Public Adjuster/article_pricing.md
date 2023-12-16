@@ -4,10 +4,13 @@
 | NAPIA   | Independent Contractor | $320 |
 | NAPIA   | Branch Office | $290 |
 | NAPIA   | Weblink (optional) | $400 |
-| REEDC   | Basic Appraisal Principles (R5) 30-hour course | $350 |
-| NV Department of Insurance | Owner Policy (Clark County, $150,000 coverage) | $1,046 - $1,407 |
-| MO Department of Insurance | Various producer and insurer admission and filing fees | Varies |
+| Adjusters International | Flexible Percentage | Small, fixed percentage of final settlement |
+| Adjusters International | Dependent portions | Fees differ based on factors |
+| Adjusters International | Hourly | Fees may be charged hourly |
+| Reedc | Basic Appraisal Principles | $350 |
+| Nevada Department of Insurance | Owner Policy | $1,046 to $1,407 for $150,000 coverage in Clark County |
+| Nevada Department of Insurance | Lender Policy | $1,046 to $1,407 for $150,000 coverage in Clark County |
 
-When comparing the pricing plans of public adjusters, it's clear that there is a significant variation in the costs associated with their services. NAPIA offers different plans for individuals, independent contractors, and branch offices, with prices ranging from $290 to $1000. Additionally, they offer a weblink option for $400. REEDC provides a 30-hour course on Basic Appraisal Principles for $350. The Nevada Department of Insurance offers owner policies for $1,046 to $1,407 for $150,000 worth of coverage in Clark County. The Missouri Department of Insurance lists various producer and insurer admission and filing fees, with costs varying based on the specific service.
+When comparing the pricing plans of public adjusters, it's clear that there is a wide range of options available. NAPIA offers different plans for individuals, independent contractors, branch offices, and optional weblinks, with prices ranging from $290 to $1000. Adjusters International, on the other hand, offers flexible percentage fees, dependent portion fees, and hourly fees, with the actual amounts varying based on the specific circumstances of each case. Reedc provides a course on Basic Appraisal Principles for $350, while the Nevada Department of Insurance offers owner and lender policies for $1,046 to $1,407 for $150,000 worth of coverage in Clark County.
 
-It's important for individuals or businesses seeking the services of a public adjuster to carefully consider the specific needs and requirements before making a decision. The range of services and associated costs can vary significantly, and it's essential to choose a plan that aligns with the specific needs and budget constraints.
+It's important to note that the pricing structures for public adjusters can vary significantly based on the specific services offered and the nature of the insurance claims being handled. Therefore, individuals and businesses seeking the services of a public adjuster should carefully consider their specific needs and the details of each pricing plan before making a decision.
