@@ -1,0 +1,309 @@
+{
+    "www.forthepeople.com": {
+        "insurance_claim_attorney": {
+            "call_to_action": "Get a FREE case evaluation today",
+            "usecases": [
+                "Insurance disputes",
+                "Bad faith claims",
+                "Business interruption claims",
+                "Homeowners claims",
+                "Hurricane & storm damage claims",
+                "Long-term disability claims",
+                "Motor vehicle claims",
+                "Tornado claims",
+                "PIP claims",
+                "Sinkhole claims"
+            ],
+            "solutions": "Helping clients settle insurance claims disputes in a wide range of practice areas",
+            "key_features": {
+                "1": "Free case evaluation",
+                "2": "Experienced attorneys",
+                "3": "Results-driven approach",
+                "4": "Large personal injury law firm",
+                "5": "Over $15 billion recovered"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.robertslawfirm.com": {
+        "insurance_claim_attorney": {
+            "call_to_action": "Contact us at 903-597-6000. The call costs you nothing \n... it could mean everything. All calls are answered 24 hours a day, seven days a week. We will come to you if you are disabled. You can also use our online contact form.",
+            "usecases": [
+                "Personal injury insurance claims",
+                "Car accident insurance claims",
+                "Homeowner's insurance claims",
+                "Insurance claim disputes"
+            ],
+            "solutions": "Provide legal counsel and representation for individuals dealing with unfair insurance practices and disputes with insurance companies.",
+            "key_features": [
+                "Experienced and knowledgeable attorneys",
+                "24/7 availability for calls",
+                "Free case review and confidential attorney consultation",
+                "Local offices in Texas for convenient access"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "hourlyFee": "Available",
+                "flatFee": "Available",
+                "contingencyFee": "Available"
+            }
+        }
+    },
+    "feldman.law": {
+        "insurance_claim_attorney": {
+            "name": "Feldman & Feldman",
+            "location": "Houston, TX",
+            "practice_areas": [
+                "Bad Faith Insurance",
+                "Breach of Fiduciary Duty",
+                "Civil Appeals",
+                "Clergy Sexual Abuse",
+                "Commercial Litigation",
+                "Contract Drafting, Negotiation, and Review",
+                "Education",
+                "Election Campaign and Political Law",
+                "Employment",
+                "Fraud",
+                "Government Entities",
+                "Partnership/Shareholder Disputes",
+                "Real Estate and Construction",
+                "Will and Probate",
+                "Other"
+            ],
+            "bad_faith_insurance_practice": {
+                "description": "Feldman & Feldman specializes in handling bad faith insurance cases where insurance companies engage in unfair tactics to avoid paying claims.",
+                "key_features": [
+                    "Experienced bad faith attorneys",
+                    "Thorough, prompt, and fair investigation of claims",
+                    "Pursuit of fullest compensation available under insurance policy",
+                    "Potential to obtain compensation higher than the original face value of the policy",
+                    "Recovery of treble damages if insurer knowingly violated Chapter 541 of the Texas Insurance Code",
+                    "Possible damages include statutory penalties, interest, liability for judgments in excess of policy limits, attorneys' fees, emotional distress, economic loss, and punitive damages"
+                ],
+                "call_to_action": "Schedule a consultation to discuss your case",
+                "usecases": [
+                    "Policyholders facing unfair denial, delay, or underpayment of claims",
+                    "Business or residential properties in need of urgent repair"
+                ],
+                "solutions": "Analysis of situation, accurate estimates of damages and losses, pursuit of rightful compensation"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.merlinlawgroup.com": {
+        "insurance_claim_attorney": {
+            "name": "Merlin Law Group",
+            "years_in_practice": 38,
+            "number_of_attorneys": 48,
+            "money_recovered": "$2B",
+            "offices": 12,
+            "call_to_action": "Free Case Review",
+            "usecases": [
+                "Reviewing wrongfully delayed, denied, or underpaid insurance claims",
+                "Recovering from property damage",
+                "Handling all types of property insurance claims including hurricanes, fire and smoke, water damage, wind damage, and hail damage"
+            ],
+            "solutions": "Dedicated trial team, financial resources to fight insurer delay tactics, extensive network of damage mitigation experts",
+            "key_features": {
+                "Free Case Review": true,
+                "Contingency Fee Basis": true,
+                "Industry Experts": true,
+                "Dedicated Trial Team": true
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "policyadvocate.com": {
+        "InsuranceClaimAttorney": {
+            "name": "Morgan Law Group, P.A.",
+            "location": "Florida, California, Colorado, Louisiana, Mississippi, Tennessee",
+            "practiceAreas": [
+                "Property Damage Claims",
+                "Personal Injury",
+                "Business Litigation"
+            ],
+            "attorneys": [
+                "Thomas J. Morgan, Jr.",
+                "Thomas J. Morgan, Sr.",
+                "Daniel Frank Lopez",
+                "Jesmany Jomarr\u00f3n",
+                "Andres Alfonso",
+                "William B. Atchison",
+                "Robin D. Benjamin",
+                "Hermis D. Bofill",
+                "Elizabeth Booth",
+                "Daniel Castro",
+                "Eddy Franca",
+                "Max R. Goldschmidt",
+                "Alexander Gonzalez",
+                "Charles Gowland",
+                "Steven M. Johnson",
+                "John Lanpher, III",
+                "Lisa Maher",
+                "John Mahoney",
+                "Hubert Menendez",
+                "Louis P. Meyer",
+                "Karina Miralda",
+                "Tyler J. Morgan",
+                "Hannah Parker",
+                "Stephanie Perez",
+                "Brantley Pierce",
+                "Philip Rhodes",
+                "Nino Rishmague",
+                "Marcus R. Rodriguez",
+                "Darren Samuel Schwartz"
+            ],
+            "badFaithInsuranceClaims": {
+                "description": "The Morgan Law Group, P.A. has over 25 years of experience in protecting clients from insurance companies rejecting or delaying payments for coverage listed in clients' policies.",
+                "typesRepresented": [
+                    "Aviation insurance",
+                    "Boat insurance",
+                    "Commercial liability insurance",
+                    "Health insurance",
+                    "Homeowner\u2019s insurance",
+                    "Life insurance"
+                ],
+                "distinguishingFactor": "The firm aggressively pursues insurance companies on behalf of policyholders for fair and timely compensation, and offers free consultation and no fee if the settlement or jury verdict is not recovered."
+            },
+            "propertyDamageClaims": {
+                "typesHandled": [
+                    "Boat Insurance Claims",
+                    "Broken Pipe Damage Claims",
+                    "Business Insurance Claims",
+                    "Condominium Insurance Claims",
+                    "Earthquake Damage Claims",
+                    "Fire Damage",
+                    "Flood Damage",
+                    "Hail Damage Claims",
+                    "Hurricane Damage Claims",
+                    "Leak Damage Claims",
+                    "Mold Damage Claims",
+                    "Mudslide Damage Claims",
+                    "Roof Damage Claims",
+                    "Sinkhole Damage Claims",
+                    "Storm Damage Claims",
+                    "Tornado Damage Claims",
+                    "Tropical Storm Damage Claims",
+                    "Water Damage Claims",
+                    "Wind Damage Claims"
+                ],
+                "keyFeatures": "Extensive knowledge and understanding of the law, experience from pre-litigation through trial and post-trial, personalized and detailed solutions"
+            },
+            "contact": {
+                "callToAction": "Schedule a consultation online or call at (866) 969-4968",
+                "locations": {
+                    "Florida": [
+                        "Miami",
+                        "Orlando",
+                        "Tampa",
+                        "Naples",
+                        "Panama City",
+                        "Pensacola"
+                    ],
+                    "Mississippi": [
+                        "Gulfport"
+                    ],
+                    "Louisiana": [
+                        "Covington"
+                    ],
+                    "California": [
+                        "Los Angeles"
+                    ],
+                    "Colorado": [
+                        "Denver"
+                    ],
+                    "Tennessee": [
+                        "Brentwood"
+                    ]
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "businessModel": "Contingency fee basis",
+                "pricing": "You only pay your attorney if he or she wins you money. The legal fees will be deducted as a percentage of your final award."
+            }
+        }
+    },
+    "florinroebig.com": {
+        "InsuranceClaimAttorney": {
+            "call_to_action": "Contact us today for a free case evaluation",
+            "usecases": [
+                "Filing residential property insurance claims",
+                "Disputing denied, underpaid, or delayed insurance claims",
+                "Seeking legal action against insurers for bad faith tactics"
+            ],
+            "solutions": "The lawyers can provide a free case evaluation, investigate claims for evidence of bad faith tactics, consult legal and property experts, gather evidence, handle communications with insurance companies, work to reach a fair settlement, and bring cases to trial if necessary.",
+            "key_features": {
+                "1": "Over $1 billion worth of case results",
+                "2": "Awarded Best Law Firm in 2024 by U.S. News & World report",
+                "3": "Experienced lawyers with 25,000 cases since 1986",
+                "4": "Assistance in disputing denied, underpaid, or delayed insurance claims",
+                "5": "Legal representation for residential property insurance claims"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "charlesargento.com": {
+        "insurance_claim_attorney": {
+            "call_to_action": "Request A Free Consultation",
+            "usecases": [
+                "Auto Insurance Coverage",
+                "Car Accidents",
+                "Personal Injury",
+                "Wrongful Death",
+                "Workers' Compensation",
+                "Defective Products Cases",
+                "Mass Tort Lawsuits"
+            ],
+            "solutions": "The attorney provides legal representation for various cases including auto insurance coverage, car accidents, personal injury, wrongful death, workers' compensation, defective products cases, and mass tort lawsuits.",
+            "key_features": {
+                "Aggressive Representation": "The attorney offers aggressive representation for auto insurance coverage and car accident cases.",
+                "Exploring Insurance Repayment Options": "They help clients explore insurance repayment options and understand their entitlements.",
+                "Free Consultation": "They provide free consultations for clients to discuss their cases and understand the available legal options.",
+                "Bilingual Support": "The attorney offers services in both English and Spanish, catering to a wider audience."
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "bergplummer.com": {
+        "InsuranceClaimAttorney": {
+            "call_to_action": "Call (713) 526-0200 or fill out our online form for more information",
+            "usecases": [
+                "Representing policyholders against insurers for wrongful denial, delay, missed payments, underpayment, and other issues",
+                "Helping policyholders obtain rightful benefits by challenging denial, delay, undervaluation, or interference with claims",
+                "Assisting in health insurance claim disputes, including denials, underpayments, and delays"
+            ],
+            "solutions": "Client-oriented legal representation from beginning-to-end of the insurance litigation process",
+            "key_features": [
+                "Decades of combined experience",
+                "Representation for health insurance claims, life insurance claims, disability insurance claims, accidental death and dismemberment claims",
+                "Commitment to helping policyholders obtain rightful benefits",
+                "Customized fee arrangements",
+                "Strategic roadmap and budget development for clients"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    }
+}
