@@ -1,0 +1,840 @@
+{
+    "puzl.cloud": {
+        "product_name": "A100 rent",
+        "call_to_action": "Sign Up",
+        "usecases": [
+            "Running GPU in virtual machine or in container",
+            "Requesting Nvidia A100 GPUs directly from GitLab pipelines",
+            "Running on professional server platforms with last generation AMD EPYC",
+            "Zero infrastructure instant start with Kubernetes pods",
+            "Easy deployment with Kubernetes as a unified way to deploy applications"
+        ],
+        "solutions": [
+            "Ready-to-go cloud GPUs",
+            "Per-second billing",
+            "Rent A100 by fractions to save costs",
+            "Templates with popular machine learning tools",
+            "Choose the best GPU for deep learning in the cloud",
+            "CI Runners for GitLab",
+            "Save with committed usage"
+        ],
+        "key_features": {
+            "price_per_hour": {
+                "A100": "$1.60",
+                "Half of A100": "$0.80",
+                "Quarter of A100": "$0.40",
+                "A4000": "$0.46",
+                "A5000": "$0.84",
+                "Tesla T4": "$0.26",
+                "Tesla V100": "$1.17"
+            },
+            "FP32_ML_benchmarks_score": {
+                "A100": 1,
+                "Half of A100": 0.57,
+                "Quarter of A100": 0.284,
+                "A4000": 0.347,
+                "A5000": 0.546,
+                "Tesla T4": 0.138,
+                "Tesla V100": 0.415
+            },
+            "FP64_TFLOPS_peak": {
+                "A100": 9.7,
+                "Half of A100": 0.57,
+                "Quarter of A100": 2.43,
+                "A4000": 0.6,
+                "A5000": 0.87,
+                "Tesla T4": 0.25,
+                "Tesla V100": 7
+            },
+            "memory_GB": {
+                "A100": 40,
+                "Half of A100": 20,
+                "Quarter of A100": 10,
+                "A4000": 16,
+                "A5000": 24,
+                "Tesla T4": 16,
+                "Tesla V100": 16
+            },
+            "CUDA_cores": {
+                "A100": 13824,
+                "Half of A100": 5925,
+                "Quarter of A100": 3950,
+                "A4000": 6144,
+                "A5000": 8192,
+                "Tesla T4": 2560,
+                "Tesla V100": 5120
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "A100": {
+                    "pricePerHour": "$1.60",
+                    "features": {
+                        "FP32": "1",
+                        "FP64 TFLOPS": "9.7",
+                        "Memory": "40GB",
+                        "CUDA cores": "13824"
+                    }
+                },
+                "Half_A100": {
+                    "pricePerHour": "$0.80",
+                    "features": {
+                        "FP32": "0.57",
+                        "FP64 TFLOPS": "4.85",
+                        "Memory": "20GB",
+                        "CUDA cores": "5925"
+                    }
+                },
+                "Quarter_A100": {
+                    "pricePerHour": "$0.40",
+                    "features": {
+                        "FP32": "0.284",
+                        "FP64 TFLOPS": "2.43",
+                        "Memory": "10GB",
+                        "CUDA cores": "3950"
+                    }
+                },
+                "A4000": {
+                    "pricePerHour": "$0.46",
+                    "features": {
+                        "FP32": "0.347",
+                        "FP64 TFLOPS": "0.6",
+                        "Memory": "16GB",
+                        "CUDA cores": "6144"
+                    }
+                },
+                "A5000": {
+                    "pricePerHour": "$0.84",
+                    "features": {
+                        "FP32": "0.546",
+                        "FP64 TFLOPS": "0.87",
+                        "Memory": "24GB",
+                        "CUDA cores": "8192"
+                    }
+                },
+                "Tesla_T4": {
+                    "pricePerHour": "$0.26",
+                    "features": {
+                        "FP32": "0.138",
+                        "FP64 TFLOPS": "0.25",
+                        "Memory": "16GB",
+                        "CUDA cores": "2560"
+                    }
+                },
+                "Tesla_V100": {
+                    "pricePerHour": "$1.17",
+                    "features": {
+                        "FP32": "0.415",
+                        "FP64 TFLOPS": "7",
+                        "Memory": "16GB",
+                        "CUDA cores": "5120"
+                    }
+                }
+            }
+        }
+    },
+    "www.runpod.io": {
+        "product_name": "RunPod",
+        "call_to_action": "Sign Up",
+        "usecases": [
+            "Developing AI applications",
+            "Training AI models",
+            "Scaling AI models",
+            "Launching AI applications"
+        ],
+        "solutions": "Globally distributed GPU cloud built for production, with over 50 template environments for development, streamlined training process, and serverless endpoints for scaling inference on models.",
+        "key_features": {
+            "GPU Instances": {
+                "features": [
+                    "Launch GPU instances in seconds",
+                    "50+ template environments for development",
+                    "Global interoperability with 30+ regions",
+                    "Limitless storage with ultra-fast NVMe storage",
+                    "Configurable deployment with rapid launch"
+                ],
+                "pricing": {
+                    "A100": {
+                        "specs": "80 GB",
+                        "price": "$1.99 / hr"
+                    },
+                    "H100": {
+                        "specs": "80 GB",
+                        "price": "$4.49 / hr"
+                    },
+                    "A40": {
+                        "specs": "48 GB",
+                        "price": "$0.79 / hr"
+                    },
+                    "RTX 4090": {
+                        "specs": "24 GB",
+                        "price": "$0.74 / hr"
+                    },
+                    "RTX A6000": {
+                        "specs": "48 GB",
+                        "price": "$0.79 / hr"
+                    }
+                }
+            },
+            "Serverless AI Endpoints": {
+                "features": [
+                    "Autoscaling from 0 to 100s of GPUs",
+                    "Real-time logs and metrics for debugging",
+                    "Pay per second billing",
+                    "Enterprise-grade GPUs with compliance and security standards",
+                    "Lightning fast cold-start with Flashboot"
+                ],
+                "pricing": {
+                    "Usage": {
+                        "uptime": "99.99%",
+                        "network_storage": "10PB+",
+                        "requests": "2,812,531,947"
+                    }
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "en.immers.cloud": {
+        "product_name": "Cloud servers with Tesla A100",
+        "call_to_action": "Sign up",
+        "usecases": [
+            "AI tasks",
+            "Data analysis",
+            "High-performance computing tasks"
+        ],
+        "solutions": "Unsurpassed acceleration for AI, data analysis, and HPC",
+        "key_features": {
+            "Processor": "Intel Xeon Gold 6240R CPUs",
+            "RAM": "768 GB DDR4 ECC Reg 2933 MHz",
+            "Local Storage": "3200 GB Intel solid-state drives",
+            "GPU": "Tesla A100 with 80 GB HBM2e video memory",
+            "Memory Bandwidth": "1935 Gb/s",
+            "Performance Benchmarks": {
+                "OctaneBench 2020": "Up to 500 pts",
+                "Matrix Multiply Example": "4300 GFlop/s",
+                "Hashcat bcrypt": "117,000 H/s"
+            },
+            "Pricing Options": "Per hour, per month, with discounts for advance payment"
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "RTX 4090": {
+                    "hourlyPrice": "$0.88",
+                    "monthlyPrice": "$636.81"
+                },
+                "RTX 3090": {
+                    "hourlyPrice": "$0.65",
+                    "monthlyPrice": "$467.53"
+                },
+                "RTX 3080": {
+                    "hourlyPrice": "$0.36",
+                    "monthlyPrice": "$257.95"
+                },
+                "Tesla A100": {
+                    "hourlyPrice": "$2.13",
+                    "monthlyPrice": "$1,531.57"
+                },
+                "RTX A5000": {
+                    "hourlyPrice": "$0.45",
+                    "monthlyPrice": "$322.44"
+                },
+                "Tesla A10": {
+                    "hourlyPrice": "$0.31",
+                    "monthlyPrice": "$225.71"
+                },
+                "RTX 2080 Ti": {
+                    "hourlyPrice": "$0.21",
+                    "monthlyPrice": "$153.16"
+                },
+                "Tesla A2": {
+                    "hourlyPrice": "$0.18",
+                    "monthlyPrice": "$128.97"
+                },
+                "Tesla T4": {
+                    "hourlyPrice": "$0.28",
+                    "monthlyPrice": "$201.52"
+                },
+                "Tesla V100": {
+                    "hourlyPrice": "$0.90",
+                    "monthlyPrice": "$644.87"
+                }
+            }
+        }
+    },
+    "lambdalabs.com": {
+        "A100_rent": {
+            "call_to_action": "Reserve now",
+            "usecases": [
+                "AI research",
+                "Deep learning",
+                "Machine learning",
+                "High-performance computing"
+            ],
+            "solutions": [
+                "Cloud computing",
+                "Datacenter infrastructure",
+                "Desktop workstations",
+                "Colocation services"
+            ],
+            "key_features": {
+                "GPUs": "A100 80GB SXM4 or H100 80GB SXM5",
+                "CPUs": "Up to 192 cores and 384 threads",
+                "Memory": "Up to 8 TB DDR4 or DDR5",
+                "Storage": "Up to 492 TB of NVMe SSDs",
+                "Networking": "Up to 400 Gb/s",
+                "Support": "Lambda Premium Support with extended warranty and live technical support",
+                "Software": "Lambda Stack for managing frameworks like PyTorch and TensorFlow",
+                "Colocation": "Managed racking, networking, power, cooling, and hardware failures"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "OnDemandCloud": {
+                    "NVIDIAH100": "$1.99/GPU/Hour",
+                    "NVIDIAH200": "Not found",
+                    "NVIDIAGH200": "Not found"
+                },
+                "ReservedCloud": {
+                    "NVIDIAH100": "$1.89/H100/hour",
+                    "NVIDIAH200": "Contact Sales",
+                    "NVIDIAGH200": "$5.99 /GH200/hour"
+                }
+            }
+        }
+    },
+    "vast.ai": {
+        "product_name": "Vast.ai GPU Rental",
+        "call_to_action": "Talk to a manager",
+        "use_cases": [
+            "Low-cost cloud GPU rental",
+            "On-demand GPU compute",
+            "Docker-based container and image deployment",
+            "Real-time automatic benchmarking for GPU server hardware",
+            "Transparent pricing comparison from various providers",
+            "Decentralized compute for renting out machines"
+        ],
+        "solutions": [
+            "Low-cost cloud GPU rental",
+            "On-demand GPU compute",
+            "Docker-based container and image deployment",
+            "Real-time automatic benchmarking for GPU server hardware",
+            "Transparent pricing comparison from various providers",
+            "Decentralized compute for renting out machines"
+        ],
+        "key_features": {
+            "Pricing": {
+                "On-demand": {
+                    "RTX 4090": "$0.44 / hr",
+                    "RTX 3090": "$0.24 / hr",
+                    "RTX A6000": "$0.50 / hr",
+                    "RTX A5000": "$0.21 / hr",
+                    "A40": "$0.44 / hr"
+                },
+                "Interruptible": {
+                    "RTX 4090": "$1.29 / hr",
+                    "RTX 3090": "$0.67 / hr",
+                    "RTX A6000": "$0.77 / hr",
+                    "RTX A5000": "$1.28 / hr",
+                    "A40": "$0.77 / hr"
+                }
+            },
+            "Docker Ecosystem": "Container and image deployment for quick setup",
+            "Security Levels": "Options for different levels of security from hobbyists to Tier-4 data centers",
+            "GUI and CLI": "Command line interface for searching and launching instances",
+            "Real-time Bidding System": "Save 50% or more with interruptible instances and auction pricing",
+            "DLPerf": "Real-time automatic benchmarking for GPU server hardware",
+            "Transparent Pricing Interface": "Fair comparison of pricing from various providers",
+            "Decentralized Compute": "Allows renting out machines for lower prices"
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Vast": {
+                    "RTX 4090": {
+                        "hourlyPricing": "$0.21 $0.44 $1.00",
+                        "listings": 1346
+                    },
+                    "RTX 3090": {
+                        "hourlyPricing": "$0.10 $0.23 $1.50",
+                        "listings": 1019
+                    },
+                    "RTX 3060": {
+                        "hourlyPricing": "$0.01 $0.07 $0.95",
+                        "listings": 427
+                    },
+                    "RTX A5000": {
+                        "hourlyPricing": "$0.10 $0.21 $0.33",
+                        "listings": 270
+                    },
+                    "RTX A4000": {
+                        "hourlyPricing": "$0.08 $0.13 $0.26",
+                        "listings": 211
+                    },
+                    "A40": {
+                        "hourlyPricing": "$0.12 $0.49 $0.60",
+                        "listings": 178
+                    },
+                    "RTX 3080": {
+                        "hourlyPricing": "$0.04 $0.14 $1.00",
+                        "listings": 168
+                    },
+                    "RTX 3070": {
+                        "hourlyPricing": "$0.04 $0.10 $0.70",
+                        "listings": 165
+                    },
+                    "RTX A6000": {
+                        "hourlyPricing": "$0.13 $0.50 $1.00",
+                        "listings": 104
+                    },
+                    "RTX 3060 Ti": {
+                        "hourlyPricing": "$0.04 $0.07 $0.18",
+                        "listings": 101
+                    },
+                    "RTX 3080 Ti": {
+                        "hourlyPricing": "$0.07 $0.15 $0.24",
+                        "listings": 86
+                    },
+                    "RTX A2000": {
+                        "hourlyPricing": "$0.03 $0.07 $0.30",
+                        "listings": 66
+                    },
+                    "RTX 2080 Ti": {
+                        "hourlyPricing": "$0.03 $0.12 $0.50",
+                        "listings": 32
+                    },
+                    "RTX 3090 Ti": {
+                        "hourlyPricing": "$0.12 $0.23 $0.50",
+                        "listings": 27
+                    },
+                    "Tesla V100": {
+                        "hourlyPricing": "$0.07 $0.12 $0.25",
+                        "listings": 23
+                    },
+                    "A100 SXM4": {
+                        "hourlyPricing": "$0.94 $1.84 $1.99",
+                        "listings": 22
+                    },
+                    "GTX 1660 S": {
+                        "hourlyPricing": "$0.03 $0.04 $0.20",
+                        "listings": 20
+                    },
+                    "RTX 3070 Ti": {
+                        "hourlyPricing": "$0.04 $0.10 $0.15",
+                        "listings": 19
+                    },
+                    "RTX 4080": {
+                        "hourlyPricing": "$0.20 $0.23 $3.00",
+                        "listings": 17
+                    },
+                    "A100 PCIE": {
+                        "hourlyPricing": "$0.10 $1.00 $2.90",
+                        "listings": 17
+                    },
+                    "RTX 4070": {
+                        "hourlyPricing": "$0.08 $0.11 $0.81",
+                        "listings": 17
+                    },
+                    "GTX 1070": {
+                        "hourlyPricing": "$0.05 $0.06 $0.50",
+                        "listings": 15
+                    },
+                    "L40": {
+                        "hourlyPricing": "$1.10 $1.10 $1.10",
+                        "listings": 9
+                    },
+                    "Tesla P100": {
+                        "hourlyPricing": "$0.11 $0.11 $0.20",
+                        "listings": 9
+                    },
+                    "H100 PCIE": {
+                        "hourlyPricing": "$2.85 $3.30 $3.50",
+                        "listings": 8
+                    },
+                    "GTX 1070 Ti": {
+                        "hourlyPricing": "$0.01 $0.33 $0.50",
+                        "listings": 8
+                    },
+                    "RTX 2060": {
+                        "hourlyPricing": "$0.04 $0.04 $0.15",
+                        "listings": 7
+                    },
+                    "Q RTX 8000": {
+                        "hourlyPricing": "$0.30 $0.44 $0.44",
+                        "listings": 6
+                    },
+                    "GTX 1080": {
+                        "hourlyPricing": "$0.21 $0.35 $0.35",
+                        "listings": 6
+                    },
+                    "GTX 1080 Ti": {
+                        "hourlyPricing": "$0.10 $0.21 $0.39",
+                        "listings": 5
+                    },
+                    "GTX 1660 Ti": {
+                        "hourlyPricing": "$0.03 $0.03 $0.04",
+                        "listings": 5
+                    },
+                    "RTX 2070S": {
+                        "hourlyPricing": "$0.04 $0.08 $0.18",
+                        "listings": 5
+                    },
+                    "RTX 2060S": {
+                        "hourlyPricing": "$0.04 $0.06 $0.10",
+                        "listings": 3
+                    },
+                    "Tesla K80": {
+                        "hourlyPricing": "$0.15 $0.15 $0.15",
+                        "listings": 3
+                    },
+                    "RTX 2070": {
+                        "hourlyPricing": "$0.10 $0.10 $0.10",
+                        "listings": 3
+                    },
+                    "Titan RTX": {
+                        "hourlyPricing": "$0.12 $0.80 $0.80",
+                        "listings": 3
+                    },
+                    "Tesla T4": {
+                        "hourlyPricing": "$0.05 $0.10 $0.10",
+                        "listings": 3
+                    },
+                    "GTX 1060": {
+                        "hourlyPricing": "$0.05 $0.05 $0.55",
+                        "listings": 3
+                    },
+                    "RTX 5000ADA": {
+                        "hourlyPricing": "$0.70 $0.70 $0.70",
+                        "listings": 2
+                    },
+                    "RTX 6000ADA": {
+                        "hourlyPricing": "$0.99 $1.10 $1.10",
+                        "listings": 2
+                    },
+                    "A10": {
+                        "hourlyPricing": "$0.16 $0.16 $0.16",
+                        "listings": 2
+                    },
+                    "RTX 4060 Ti": {
+                        "hourlyPricing": "$0.07 $0.20 $0.20",
+                        "listings": 2
+                    },
+                    "Q RTX 5000": {
+                        "hourlyPricing": "$0.10 $0.10 $0.10",
+                        "listings": 2
+                    },
+                    "RTX A4500": {
+                        "hourlyPricing": "$0.20 $0.20 $0.20",
+                        "listings": 1
+                    },
+                    "Q RTX 6000": {
+                        "hourlyPricing": "$0.35 $0.35 $0.35",
+                        "listings": 1
+                    },
+                    "Q RTX 4000": {
+                        "hourlyPricing": "$0.10 $0.10 $0.10",
+                        "listings": 1
+                    },
+                    "Quadro P6000": {
+                        "hourlyPricing": "$0.20 $0.20 $0.20",
+                        "listings": 1
+                    },
+                    "GTX 1050 Ti": {
+                        "hourlyPricing": "$0.30 $0.30 $0.30",
+                        "listings": 1
+                    }
+                }
+            }
+        }
+    },
+    "fluidstack.io": {
+        "product_name": "FluidStack GPU Cloud",
+        "pricing": {
+            "NVIDIA HGX H100": {
+                "VRAM_GB": 80,
+                "vCPUs_per_GPU": 48,
+                "RAM_GB_per_GPU": 256,
+                "on_demand_price_per_hr": 4.76,
+                "6_month_price_per_hr": 2.89
+            },
+            "NVIDIA H100 PCIe": {
+                "VRAM_GB": 80,
+                "vCPUs_per_GPU": 48,
+                "RAM_GB_per_GPU": 256,
+                "on_demand_price_per_hr": 4.25,
+                "6_month_price_per_hr": 2.89
+            },
+            "A100 80GB NVLINK": {
+                "VRAM_GB": 80,
+                "vCPUs_per_GPU": 48,
+                "RAM_GB_per_GPU": 256,
+                "on_demand_price_per_hr": 2.21,
+                "6_month_price_per_hr": 1.48
+            },
+            "A100 80GB PCIe": {
+                "VRAM_GB": 80,
+                "vCPUs_per_GPU": 48,
+                "RAM_GB_per_GPU": 256,
+                "on_demand_price_per_hr": 2.21,
+                "6_month_price_per_hr": 1.42
+            },
+            "A100 40GB NVLINK": {
+                "VRAM_GB": 40,
+                "vCPUs_per_GPU": 32,
+                "RAM_GB_per_GPU": 128,
+                "on_demand_price_per_hr": 1.29,
+                "6_month_price_per_hr": 1.29
+            },
+            "A100 40GB PCIe": {
+                "VRAM_GB": 40,
+                "vCPUs_per_GPU": 32,
+                "RAM_GB_per_GPU": 128,
+                "on_demand_price_per_hr": 1.4,
+                "6_month_price_per_hr": 1.38
+            },
+            "A6000": {
+                "VRAM_GB": 48,
+                "vCPUs_per_GPU": 32,
+                "RAM_GB_per_GPU": 128,
+                "on_demand_price_per_hr": 0.79,
+                "6_month_price_per_hr": 0.59
+            }
+        },
+        "call_to_action": "Sign up for Free",
+        "usecases": [
+            "Accelerating computing training",
+            "Testing specific machine configurations",
+            "Checking latency of the machine",
+            "Running HPC & AI workloads"
+        ],
+        "solutions": {
+            "trial_and_subscription": {
+                "trial": "Free trials available for long-term commitments",
+                "subscription": "Instances can be spun up by the minute directly from the console"
+            },
+            "payment_methods": "Debit or credit card payments, direct bank transfers for long-term or bulk rentals",
+            "access_time": "Instant access for hourly rentals in the US, less than 1 hour for other locations or monthly rentals",
+            "data_security": "Automatic data destruction upon server termination, no processing or sharing of personal data",
+            "technical_details": {
+                "KVM_vs_bare_metal": "Bare metal machines have fully dedicated IPs, minimal performance loss for VMs",
+                "crypto_mining_policy": "Mining allowed on consumer cards, not allowed on enterprise grade cards",
+                "machine_reboot": "Technical team can reboot servers within 15 minutes",
+                "vCPU_threads": "Hyper-threading for Intel CPUs or multi-threading for AMD CPUs"
+            },
+            "providers_and_suppliers": {
+                "payment_process": "Data center partners paid in arrears at the end of every month",
+                "example_setup": "Example machine configuration provided for data center suppliers",
+                "requirements": "Data center providers must host multiple NVIDIA GPU servers in a secure environment"
+            }
+        },
+        "key_features": [
+            "High VRAM and vCPUs per GPU",
+            "Competitive pricing for A100 GPUs",
+            "Instant access for hourly rentals in the US",
+            "Automatic data destruction upon server termination",
+            "Dedicated IPs for bare metal machines"
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "GPU Cloud": {
+                    "NVIDIA HGX H100": {
+                        "VRAM (GB)": 80,
+                        "Max vCPUs per GPU": 48,
+                        "Max RAM (GB) per GPU": 256,
+                        "On-Demand Price (/hr)": "$4.76",
+                        "6 Month Price (/hr)": "$2.89"
+                    },
+                    "NVIDIA H100 PCIe": {
+                        "VRAM (GB)": 80,
+                        "Max vCPUs per GPU": 48,
+                        "Max RAM (GB) per GPU": 256,
+                        "On-Demand Price (/hr)": "$4.25",
+                        "6 Month Price (/hr)": "$2.89"
+                    },
+                    "A100 80GB NVLINK": {
+                        "VRAM (GB)": 80,
+                        "Max vCPUs per GPU": 48,
+                        "Max RAM (GB) per GPU": 256,
+                        "On-Demand Price (/hr)": "$2.21",
+                        "6 Month Price (/hr)": "$1.48"
+                    },
+                    "A100 80GB PCIe": {
+                        "VRAM (GB)": 80,
+                        "Max vCPUs per GPU": 48,
+                        "Max RAM (GB) per GPU": 256,
+                        "On-Demand Price (/hr)": "$2.21",
+                        "6 Month Price (/hr)": "$1.42"
+                    },
+                    "A100 40GB NVLINK": {
+                        "VRAM (GB)": 40,
+                        "Max vCPUs per GPU": 32,
+                        "Max RAM (GB) per GPU": 128,
+                        "On-Demand Price (/hr)": "$1.29",
+                        "6 Month Price (/hr)": "$1.29"
+                    },
+                    "A100 40GB PCIe": {
+                        "VRAM (GB)": 40,
+                        "Max vCPUs per GPU": 32,
+                        "Max RAM (GB) per GPU": 128,
+                        "On-Demand Price (/hr)": "$1.40",
+                        "6 Month Price (/hr)": "$1.38"
+                    },
+                    "A6000": {
+                        "VRAM (GB)": 48,
+                        "Max vCPUs per GPU": 32,
+                        "Max RAM (GB) per GPU": 128,
+                        "On-Demand Price (/hr)": "$0.79",
+                        "6 Month Price (/hr)": "$0.59"
+                    }
+                }
+            }
+        }
+    },
+    "deeplearningrental.com": {
+        "A100_rent": {
+            "call_to_action": "Request",
+            "usecases": "Private On-Premise Cloud for deep learning and high-performance computing (HPC) needs",
+            "solutions": "Lease private HPC machines with NVIDIA GPUs for secure data storage and processing",
+            "key_features": {
+                "GPU": "NVIDIA A100 PCIE 40 GB",
+                "Cores": "30-96",
+                "Storage": "516 GB - 15 TB NVMe",
+                "Dedicated, Low Latency Fiber": "Yes",
+                "Personal Customer Service": "Yes",
+                "Price (Per Hour)": "$1.10 - $3.80"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Lambda": {
+                    "pricePerHour": "$1.10",
+                    "description": "1xA100 PCIE 40GB, 30 Cores, 516GB Storage, No dedicated low latency fiber, No personal customer service"
+                },
+                "CoreWeave": {
+                    "pricePerHour": "$2.06",
+                    "description": "1xA100 PCIE 40GB, 94 Cores, 1TB Storage, No dedicated low latency fiber, No personal customer service"
+                },
+                "AWS": {
+                    "pricePerHour": "$3.80",
+                    "description": "1xA100 PCIE 40GB, 96 Cores, 8TB Storage, No dedicated low latency fiber, No personal customer service"
+                },
+                "DLR": {
+                    "pricePerHour": "$1.37",
+                    "description": "1xA100 PCIE 40GB, 64 Cores, 15TB NVMe Storage, Dedicated low latency fiber, Personal customer service"
+                },
+                "NVIDIA A100 40GB PCIE": {
+                    "monthlyPrice": "$7,999",
+                    "weeklyPrice": "$1,849",
+                    "dailyPrice": "$269",
+                    "description": "Total GPU: 8, Teraflops: 156.0 (Single-Precision), 2x EPYC 7502 Processor, 512GB DDR4 3200 Memory, 15.3TB NVMe Storage"
+                },
+                "NVIDIA A100 40GB PCIE (Request)": {
+                    "monthlyPrice": "$3,999",
+                    "weeklyPrice": "$929",
+                    "dailyPrice": "$139",
+                    "description": "Total GPU: 4, Teraflops: 78.0 (Single-Precision), EPYC 7B13 Processor, 512GB DDR4 Memory, 2TB NVMe Storage"
+                },
+                "NVIDIA V100 (Request)": {
+                    "monthlyPrice": "$349",
+                    "weeklyPrice": "$81",
+                    "dailyPrice": "$12",
+                    "description": "Total GPU: 1, Teraflops: 13.2 (Single-Precision), E5-2670 Processor, 64GB DDR3 Memory, 500GB SSD, 2.5TB Raid0 Storage"
+                },
+                "NVIDIA A40 (Request)": {
+                    "monthlyPrice": "$1,499",
+                    "weeklyPrice": "$349",
+                    "dailyPrice": "$49",
+                    "description": "Total GPU: 4, Teraflops: 149.6 (Single-Precision), EPYC 7B11 Processor, 256GB DDR4 3200 Memory, 2TB NVMe U.2 Storage"
+                },
+                "NVIDIA RTX 3090 (7282) (Request)": {
+                    "monthlyPrice": "$849",
+                    "weeklyPrice": "$199",
+                    "dailyPrice": "$29",
+                    "description": "Total GPU: 2, Teraflops: 58.56 (Single-Precision), EPYC 7282 Processor, 128GB DDR4 3200 Memory, 2TB NVMe M.2 Storage"
+                },
+                "NVIDIA RTX 3090 (7302) (Request)": {
+                    "monthlyPrice": "$849",
+                    "weeklyPrice": "$199",
+                    "dailyPrice": "$29",
+                    "description": "Total GPU: 2, Teraflops: 58.56 (Single-Precision), EPYC 7302P Processor, 128GB DDR4 3200 Memory, 2TB NVMe M.2 Storage"
+                },
+                "NVIDIA RTX 3090 (7502) (Request)": {
+                    "monthlyPrice": "$1,699",
+                    "weeklyPrice": "$399",
+                    "dailyPrice": "$59",
+                    "description": "Total GPU: 4, Teraflops: 117.1 (Single-Precision), EPYC 7502 Processor, 256GB DDR4 3200 Memory, 2TB NVMe M.2 Storage"
+                }
+            }
+        }
+    },
+    "www.leadergpu.com": {
+        "A100 rent": {
+            "call_to_action": "Order Now!",
+            "usecases": [
+                "Blockchain processing",
+                "Universal GPU card",
+                "Inferencing",
+                "Deep learning",
+                "High-performance computing (HPC)",
+                "AI/data science tasks",
+                "3D modelling and rendering",
+                "Video Transcoding"
+            ],
+            "solutions": [
+                "Affordable GPU rent pricing",
+                "Enterprise servers with various GPU cards",
+                "Tier 3 compliant data rooms supplier",
+                "Customizable solutions with private networks and additional hardware",
+                "Secure in-house infrastructure with stable internet connection and power supply",
+                "Included traffic of 10TB per month",
+                "No vendor lock-in with transparent pricing"
+            ],
+            "key_features": {
+                "Servers": "Specialized enterprise-grade GPU-servers with PCIe 3.0 x16 slot",
+                "Billing": "10 euro minimum order, unlimited suspend/resume, no setup fee",
+                "Guaranteed bandwidth": "Unlimited internal traffic, burst internet of 1 Gbps, included internet traffic",
+                "Customer service": "Email and phone support, incident reporting 24/7",
+                "Operating systems": "Support for Ubuntu and Windows Server",
+                "IPs included": "1 IPv4/IPv6 address included, option to assign additional public IPv4 addresses",
+                "Additional storage": "Monthly charge for various storage sizes",
+                "Graphical Interface": "RDP access for specific configurations",
+                "Power": "Meets TIER-IV certification, dual-power feeds, generators",
+                "Cooling": "Stable 24\u00b0C, backup units",
+                "Security": "ISO 27001 and NEN 7510 certification, 24/7 on-site security",
+                "Fire safety": "Early smoke detection, gas fire extinguishing systems",
+                "CUDA technology": "Parallel computing architecture designed by NVIDIA",
+                "NVIDIA H100 GPU": "Flagship GPU offering powerful AI acceleration, big data processing, and HPC",
+                "NVIDIA A100 GPU": "Delivers powerful AI acceleration, big-data processing, and HPC",
+                "NVIDIA RTX 6000 Ada GPU": "Flagship graphics card based on the updated Ada Lovelace architecture",
+                "NVIDIA RTX 4090 GPU": "Flagship solution with updated Ada Lovelace architecture and fourth-generation tensor cores",
+                "NVIDIA A10 GPU": "Ampere-generation GPU offering high-performance computing, rendering, and deep learning",
+                "NVIDIA RTX 3090 Ti GPU": "Cutting-edge graphics card ideal for ray tracing and machine learning",
+                "NVIDIA A40 GPU": "Ampere-generation GPU offering high-performance computing, rendering, and inferencing",
+                "NVIDIA RTX A6000 GPU": "Modern, powerful, next-generation GPU based on Ampere architecture",
+                "NVIDIA RTX 3090 GPU": "State-of-the-art graphics card based on the Ampere architecture",
+                "NVIDIA NVLink Tesla P100 GPU": "Most advanced graphics accelerators based on NVIDIA Pascal architecture",
+                "NVIDIA Tesla V100 GPU": "Most efficient GPU based on NVIDIA Volta architecture",
+                "NVIDIA Tesla T4 GPU": "Modern powerful GPU demonstrating good results in machine learning inferencing and video processing"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "monthly": "\u20ac343.04",
+                "weekly": "\u20ac85.76",
+                "daily": "\u20ac17.15",
+                "minute": "\u20ac0.02",
+                "setupFee": "\u20ac0",
+                "currency": "Euro",
+                "availabilityDate": "13 Jan 2024, 12:01 CET"
+            }
+        }
+    }
+}

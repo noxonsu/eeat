@@ -7,7 +7,8 @@
     "puzl.cloud": {
         "url": "https://puzl.cloud/gpu-cloud",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://puzl.cloud/gpu-cloud"
+        "priceAndPlansCrawled": "https://puzl.cloud/gpu-cloud",
+        "5prompt_Hash": "d94c9972ba926ab2691785f58f957c7c"
     },
     "www.cudocompute.com": {
         "url": "https://www.cudocompute.com/gpu-rental/nvidia-a100/",
@@ -17,17 +18,20 @@
     "www.runpod.io": {
         "url": "https://www.runpod.io/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.runpod.io/gpu-instance"
+        "priceAndPlansCrawled": "https://www.runpod.io/gpu-instance",
+        "5prompt_Hash": "d94c9972ba926ab2691785f58f957c7c"
     },
     "en.immers.cloud": {
         "url": "https://en.immers.cloud/gpu/a100/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://en.immers.cloud/prices/"
+        "priceAndPlansCrawled": "https://en.immers.cloud/prices/",
+        "5prompt_Hash": "d94c9972ba926ab2691785f58f957c7c"
     },
     "lambdalabs.com": {
         "url": "https://lambdalabs.com/deep-learning/servers/hyperplane",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://lambdalabs.com/service/gpu-cloud"
+        "priceAndPlansCrawled": "https://lambdalabs.com/service/gpu-cloud",
+        "5prompt_Hash": "d94c9972ba926ab2691785f58f957c7c"
     },
     "www.irentsystems.com": {
         "url": "https://www.irentsystems.com/server/nvidia/dgx/dgx-a100/",
@@ -42,12 +46,14 @@
     "vast.ai": {
         "url": "https://vast.ai/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://vast.ai/pricing"
+        "priceAndPlansCrawled": "https://vast.ai/pricing",
+        "5prompt_Hash": "d94c9972ba926ab2691785f58f957c7c"
     },
     "fluidstack.io": {
         "url": "https://fluidstack.io/pricing",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://fluidstack.io/pricing"
+        "priceAndPlansCrawled": "https://fluidstack.io/pricing",
+        "5prompt_Hash": "d94c9972ba926ab2691785f58f957c7c"
     },
     "cloud.google.com": {
         "url": "https://cloud.google.com/compute/gpus-pricing",
@@ -57,12 +63,14 @@
     "deeplearningrental.com": {
         "url": "https://deeplearningrental.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://deeplearningrental.com/"
+        "priceAndPlansCrawled": "https://deeplearningrental.com/",
+        "5prompt_Hash": "d94c9972ba926ab2691785f58f957c7c"
     },
     "www.leadergpu.com": {
         "url": "https://www.leadergpu.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.leadergpu.com/server_configurations/59"
+        "priceAndPlansCrawled": "https://www.leadergpu.com/server_configurations/59",
+        "5prompt_Hash": "d94c9972ba926ab2691785f58f957c7c"
     },
     "www.hpcwire.com": {
         "url": "https://www.hpcwire.com/off-the-wire/nersc-announces-50-discount-on-nvidia-a100-gpu-node-rentals/",
