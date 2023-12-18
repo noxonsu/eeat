@@ -1,0 +1,50 @@
+{
+    "www.paperspace.com": {
+        "url": "https://www.paperspace.com/a100-gpu-cloud-now"
+    },
+    "puzl.cloud": {
+        "url": "https://puzl.cloud/gpu-cloud"
+    },
+    "www.cudocompute.com": {
+        "url": "https://www.cudocompute.com/gpu-rental/nvidia-a100/"
+    },
+    "www.runpod.io": {
+        "url": "https://www.runpod.io/"
+    },
+    "en.immers.cloud": {
+        "url": "https://en.immers.cloud/gpu/a100/"
+    },
+    "lambdalabs.com": {
+        "url": "https://lambdalabs.com/deep-learning/servers/hyperplane"
+    },
+    "www.irentsystems.com": {
+        "url": "https://www.irentsystems.com/server/nvidia/dgx/dgx-a100/"
+    },
+    "techcrunch.com": {
+        "url": "https://techcrunch.com/2022/05/24/vultr-will-now-let-you-rent-a-share-of-nvidias-a100-gpus-in-its-cloud/"
+    },
+    "vast.ai": {
+        "url": "https://vast.ai/"
+    },
+    "fluidstack.io": {
+        "url": "https://fluidstack.io/pricing"
+    },
+    "cloud.google.com": {
+        "url": "https://cloud.google.com/compute/gpus-pricing"
+    },
+    "deeplearningrental.com": {
+        "url": "https://deeplearningrental.com/"
+    },
+    "www.leadergpu.com": {
+        "url": "https://www.leadergpu.com/"
+    },
+    "www.hpcwire.com": {
+        "url": "https://www.hpcwire.com/off-the-wire/nersc-announces-50-discount-on-nvidia-a100-gpu-node-rentals/"
+    },
+    "www.seimaxim.com": {
+        "url": "https://www.seimaxim.com/dedicated-servers/gpu/rent-gpu"
+    },
+    "www.reddi": {
+        "url": "https://www.reddi"
+    }
+}
