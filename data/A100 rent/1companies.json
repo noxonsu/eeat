@@ -1,50 +1,66 @@
 {
     "www.paperspace.com": {
-        "url": "https://www.paperspace.com/a100-gpu-cloud-now"
+        "url": "https://www.paperspace.com/a100-gpu-cloud-now",
+        "nature": "single project"
     },
     "puzl.cloud": {
-        "url": "https://puzl.cloud/gpu-cloud"
+        "url": "https://puzl.cloud/gpu-cloud",
+        "nature": "single project"
     },
     "www.cudocompute.com": {
-        "url": "https://www.cudocompute.com/gpu-rental/nvidia-a100/"
+        "url": "https://www.cudocompute.com/gpu-rental/nvidia-a100/",
+        "nature": "single project"
     },
     "www.runpod.io": {
-        "url": "https://www.runpod.io/"
+        "url": "https://www.runpod.io/",
+        "nature": "single project"
     },
     "en.immers.cloud": {
-        "url": "https://en.immers.cloud/gpu/a100/"
+        "url": "https://en.immers.cloud/gpu/a100/",
+        "nature": "single project"
     },
     "lambdalabs.com": {
-        "url": "https://lambdalabs.com/deep-learning/servers/hyperplane"
+        "url": "https://lambdalabs.com/deep-learning/servers/hyperplane",
+        "nature": "single project"
     },
     "www.irentsystems.com": {
-        "url": "https://www.irentsystems.com/server/nvidia/dgx/dgx-a100/"
+        "url": "https://www.irentsystems.com/server/nvidia/dgx/dgx-a100/",
+        "nature": "single project"
     },
     "techcrunch.com": {
-        "url": "https://techcrunch.com/2022/05/24/vultr-will-now-let-you-rent-a-share-of-nvidias-a100-gpus-in-its-cloud/"
+        "url": "https://techcrunch.com/2022/05/24/vultr-will-now-let-you-rent-a-share-of-nvidias-a100-gpus-in-its-cloud/",
+        "nature": "single project"
     },
     "vast.ai": {
-        "url": "https://vast.ai/"
+        "url": "https://vast.ai/",
+        "nature": "single project"
     },
     "fluidstack.io": {
-        "url": "https://fluidstack.io/pricing"
+        "url": "https://fluidstack.io/pricing",
+        "nature": "single project"
     },
     "cloud.google.com": {
-        "url": "https://cloud.google.com/compute/gpus-pricing"
+        "url": "https://cloud.google.com/compute/gpus-pricing",
+        "nature": "single project"
     },
     "deeplearningrental.com": {
-        "url": "https://deeplearningrental.com/"
+        "url": "https://deeplearningrental.com/",
+        "nature": "single project"
     },
     "www.leadergpu.com": {
-        "url": "https://www.leadergpu.com/"
+        "url": "https://www.leadergpu.com/",
+        "nature": "single project"
     },
     "www.hpcwire.com": {
-        "url": "https://www.hpcwire.com/off-the-wire/nersc-announces-50-discount-on-nvidia-a100-gpu-node-rentals/"
+        "url": "https://www.hpcwire.com/off-the-wire/nersc-announces-50-discount-on-nvidia-a100-gpu-node-rentals/",
+        "nature": "single project"
     },
     "www.seimaxim.com": {
-        "url": "https://www.seimaxim.com/dedicated-servers/gpu/rent-gpu"
+        "url": "https://www.seimaxim.com/dedicated-servers/gpu/rent-gpu",
+        "nature": "single project"
     },
     "www.reddi": {
-        "url": "https://www.reddi"
+        "url": "https://www.reddi",
+        "nature": "single project"
     }
 }
