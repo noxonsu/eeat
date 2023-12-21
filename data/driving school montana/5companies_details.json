@@ -1,0 +1,598 @@
+{
+    "opi.mt.gov": {
+        "driving_school_montana": {
+            "call_to_action": "Contact your local school district to register a teen for a driver education course",
+            "usecases": [
+                "State-approved driver education for Montana teens (14.5 to 19 years of age)",
+                "Graduated Driver Licensing (GDL) program",
+                "Cooperative Driver Licensing Program (CDTP)",
+                "Students with disabilities in driver education",
+                "Driver education teachers",
+                "New driver educators",
+                "Approval & endorsement",
+                "Driver education instructor renewals",
+                "Montana Traffic Education Association",
+                "Montana DRIVE summer workshops",
+                "Driver education resources",
+                "Traffic education forms & reports",
+                "Montana teen driver education curriculum",
+                "Adapted Illustrated Montana Driver Manual",
+                "Audio version of the manual"
+            ],
+            "solutions": "The driving school in Montana offers state-approved driver education programs, GDL program, CDTP, support for students with disabilities, training for driver education teachers, renewal processes, workshops, resources, and curriculum.",
+            "key_features": {
+                "State-approved driver education for teens": "Includes traffic safety, parent/guardian involvement, and Graduated Driver Licensing (GDL)",
+                "Cooperative Driver Licensing Program (CDTP)": "Allows certified teachers to administer driver license tests and issue Learner Licenses",
+                "Students with disabilities in driver education": "Guide to accommodating students with disabilities and resources for instructors",
+                "Montana Traffic Education Association": "Professional development opportunities and annual spring conference for traffic safety and driver education professionals",
+                "Montana DRIVE summer workshops": "Life-saving skills workshops for drivers",
+                "Adapted Illustrated Montana Driver Manual": "Easy-to-read, illustrated version of the Montana Driver Manual"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.gototrafficschool.com": {
+        "driving_school_montana": {
+            "call_to_action": "Sign Up",
+            "usecases": [
+                "Completing a defensive driving course for ticket dismissal",
+                "Obtaining an insurance discount",
+                "Avoiding license suspension",
+                "Improving driving record"
+            ],
+            "solutions": "Online traffic school and defensive driving courses",
+            "key_features": {
+                "Lower Insurance Rate": true,
+                "Money Back Guarantee": true,
+                "100% Online, Fast & Easy": true,
+                "Mobile-Friendly Courses": true,
+                "24-7-365 Customer Support": true,
+                "Audio Read Along": true
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "lowestPriceGuaranteed": true,
+                "price": "Not found",
+                "businessModel": "Online traffic safety course provider"
+            }
+        }
+    },
+    "911drivingschool.com": {
+        "driving_school_montana": {
+            "call_to_action": "Contact or find a 911 Driving School by state or zip code using the Locations Page button",
+            "usecases": [
+                "Preparing for written test for Montana state drivers license",
+                "Completing behind the wheel practice and driver training",
+                "Taking the driving test and obtaining the license"
+            ],
+            "solutions": "Online drivers ed course or practice tests to prepare for the written test",
+            "key_features": "Unlimited MT Practice Tests ($9.95)"
+        },
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "Basic Teen Course": {
+                    "Description": "30 Hours Classroom Training, 5 Hours Behind-the-Wheel Driving Lessons",
+                    "Price": "$469.00"
+                },
+                "Advanced Teen Course": {
+                    "Description": "30 Hours Classroom Training, 5 Hours Behind-the-Wheel Driving Lessons",
+                    "Price": "$569.00"
+                },
+                "Private Driving Lesson (1 hour)": {
+                    "Description": "One 60 Minute Private Adult Driving Lesson",
+                    "Price": "$85.00"
+                },
+                "Adult Lesson (1 hour) with Pick Up": {
+                    "Description": "One 60 Minute Private Adult Driving Lesson with Pick up and Drop off Service",
+                    "Price": "$110.00"
+                },
+                "Private Driving Lesson (Five 60 Min Lessons)": {
+                    "Description": "Five 60 Minute Private Teen/Adult Driving Lessons Package",
+                    "Price": "$400.00"
+                },
+                "Private Lesson (5 60 Minute Lessons) with Pick Up": {
+                    "Description": "Five 60 Minute Private Teen/Adult Driving Lessons Package with Pick up and Drop off Service",
+                    "Price": "$530.00"
+                },
+                "Knowledge Test": {
+                    "Description": "1 WA State Knowledge Test \u2013 2 attempts",
+                    "Price": "$35.00"
+                },
+                "Road Test": {
+                    "Description": "1- Washington State Road Test",
+                    "Price": "$69.00"
+                },
+                "Road Test and Knowledge Test Combo": {
+                    "Description": "1- Washington State Road Test using customer vehicle or 911 vehicle, 1- Washington State Knowledge Test",
+                    "Price": "$100.00"
+                },
+                "Road Test w/30 min warm-up": {
+                    "Description": "1 \u2013 Washington State Road Test using our 911 vehicle with a 30 minute warm-up prior to testing",
+                    "Price": "$110.00"
+                },
+                "Road Test Warm-up & KT Bundle": {
+                    "Description": "1- Washington State Knowledge Test, 1 \u2013 Washington State Road Test using our 911 vehicle with a 30 minute warm-up prior to testing",
+                    "Price": "$135.00"
+                }
+            }
+        }
+    },
+    "www.160drivingacademy.com": {
+        "driving_school_montana": {
+            "services": {
+                "Truck Driving Classes": {
+                    "criteria": {
+                        "CDL Training": "Available",
+                        "CDL Class A": "Available",
+                        "CDL Refresher Course": "Available",
+                        "CDL Test Preps": "Available",
+                        "Hazmat Certification": "Available"
+                    },
+                    "call_to_action": "Register Now",
+                    "usecases": [
+                        "Obtaining CDL endorsements",
+                        "Preparing for CDL tests"
+                    ],
+                    "solutions": "Provides 40 hours of classroom instruction and 120 hours of behind-the-wheel training",
+                    "key_features": [
+                        "Comprehensive CDL training",
+                        "Job placement assistance"
+                    ]
+                },
+                "Benefits": {
+                    "criteria": {
+                        "Job Placement Assistance": "Available"
+                    },
+                    "call_to_action": "Register Now",
+                    "usecases": [
+                        "Assistance in finding truck driving jobs"
+                    ],
+                    "solutions": "Assists in finding job opportunities for truck drivers",
+                    "key_features": [
+                        "Job placement assistance"
+                    ]
+                },
+                "Trucking Careers": {
+                    "criteria": {
+                        "How to get a CDL": "Available",
+                        "Truck Driving Jobs": "Available",
+                        "CDL Jobs": "Available",
+                        "CDL Test": "Available"
+                    },
+                    "call_to_action": "Register Now",
+                    "usecases": [
+                        "Guidance on obtaining CDL",
+                        "Finding truck driving jobs"
+                    ],
+                    "solutions": "Provides information and guidance on obtaining CDL and finding truck driving jobs",
+                    "key_features": [
+                        "Guidance on obtaining CDL",
+                        "Job search assistance"
+                    ]
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.msun.edu": {
+        "driving_school_montana": {
+            "name": "MSU-Northern Traffic Education",
+            "location": "Havre, Montana",
+            "contact": {
+                "phone": "406.265.4148",
+                "email": "sjappe@msun.edu"
+            },
+            "services": {
+                "traffic_education_minor_endorsement": {
+                    "description": "MSU-Northern offers a Traffic Education minor/endorsement providing training for students planning to become qualified driving instructors. The minor/endorsement is achieved after the completion of 20 credits (12 required, 8 elective).",
+                    "requirements": {
+                        "educator_license": "A qualifying valid Montana educator license.",
+                        "coursework": "A minimum of 8 semester credits of the required initial coursework must be completed before teaching traffic education.",
+                        "credits": "10 of the 20 credits earned must be MSU-Northern credits.",
+                        "driver_license": "A valid driver license with a verified acceptable driving record."
+                    },
+                    "course_schedule": {
+                        "2023_summer": {
+                            "TED_465_565": {
+                                "description": "Motor Vehicle Law",
+                                "credits": 2,
+                                "dates": "May 15 - June 9",
+                                "format": "ONLINE"
+                            },
+                            "TED_461_561": {
+                                "description": "Methods of Traffic Safety Education",
+                                "credits": 3,
+                                "dates": "May 29 - June 23",
+                                "format": "ONLINE"
+                            },
+                            "TED_462_562": {
+                                "description": "Methods of Behind-the-Wheel Instruction",
+                                "credits": 3,
+                                "dates": "June 12 - June 16 (ONLINE) & June 19 - June 23 (HAVRE)"
+                            }
+                        }
+                    },
+                    "approval_process": {
+                        "after_coursework_completion": "Apply to the Office of Public Instruction by completing the TE05 Application for Approval as a Teacher of Traffic Education.",
+                        "verification": "The Traffic Education Office at OPI will verify educator license, driver license, and driving record.",
+                        "violation_criteria": "Allowed no more than one moving traffic violation in any 12-month period of the previous 36 months and no DUI within the preceding 36 months, or other serious infraction."
+                    },
+                    "additional_information": "Additional information regarding the Traffic Education Endorsement is available online at the Montana Office of Public Instruction's website."
+                },
+                "mission": "MSU-Northern's Traffic Education Minor/Endorsement prepares 5-12 teachers to impart the knowledge, skills, and habits necessary for adolescent drivers to safely and effectively operate a motor vehicle."
+            },
+            "contact_to_action": "For more information or to enroll, please contact MSU-Northern at (406) 265-4148 or email sjappe@msun.edu.",
+            "usecases": [
+                "Individuals planning to become qualified driving instructors",
+                "Teachers looking to impart traffic education knowledge and skills"
+            ],
+            "solutions": "Provides a comprehensive Traffic Education minor/endorsement program to train and prepare individuals to become qualified driving instructors and teachers of traffic education.",
+            "key_features": [
+                "20-credit Traffic Education Minor/Endorsement program",
+                "Summer course schedule for initial 8-credit coursework",
+                "Preparation for teaching traffic education",
+                "Verification and approval process by the Office of Public Instruction"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Green Energy Technology Certificate": {
+                    "G1": {
+                        "courseTitle": "Your Role in the Green Environment",
+                        "price": "$275",
+                        "continuingEducationCredit": 2
+                    },
+                    "G2": {
+                        "courseTitle": "Green Awareness",
+                        "price": "$275",
+                        "continuingEducationCredit": 1
+                    },
+                    "G3": {
+                        "courseTitle": "The Green Home",
+                        "price": "$275",
+                        "continuingEducationCredit": 2
+                    },
+                    "G4": {
+                        "courseTitle": "Residential Energy Conservation",
+                        "price": "$275",
+                        "continuingEducationCredit": 2
+                    },
+                    "G5": {
+                        "courseTitle": "Reducing Energy Losses in building Structures",
+                        "price": "$275",
+                        "continuingEducationCredit": 1
+                    },
+                    "G6": {
+                        "courseTitle": "Energy Conservation Basics",
+                        "price": "$275",
+                        "continuingEducationCredit": 1
+                    },
+                    "G7": {
+                        "courseTitle": "Green topics for HVAC",
+                        "price": "$275",
+                        "continuingEducationCredit": 1
+                    },
+                    "G8": {
+                        "courseTitle": "Mechanical Energy Conservation",
+                        "price": "$275",
+                        "continuingEducationCredit": 1
+                    },
+                    "G9": {
+                        "courseTitle": "Increasing Heating/Cooling Efficiency",
+                        "price": "$275",
+                        "continuingEducationCredit": 1
+                    },
+                    "G10": {
+                        "courseTitle": "Electrical Energy Conservation",
+                        "price": "$275",
+                        "continuingEducationCredit": 1
+                    },
+                    "National Green Building Standard": {
+                        "courseTitle": "No course work is to be completed, Contractor\u2019s reference only materials. Text book only.",
+                        "price": "$45"
+                    }
+                }
+            }
+        }
+    },
+    "dojmt.gov": {
+        "driving_school_montana": {
+            "call_to_action": "Schedule your written test, Contact MVD Customer Care Center at 1 (406) 444-1772, Schedule an appointment for a regular drive test",
+            "usecases": [
+                "Obtaining a learner's permit",
+                "Advancing to a First-Year Restricted License",
+                "Obtaining a Full Privilege Driver License"
+            ],
+            "solutions": "Providing a solution to help student drivers obtain a temporary learner's permit, guiding through the licensing process, and enforcing restrictions and penalties for teenage drivers",
+            "key_features": {
+                "Learner's Permit Period": [
+                    "Study for the written driver's test using the Montana Driver's Manual",
+                    "Provide parental consent",
+                    "Provide required documents",
+                    "Pay the required fees"
+                ],
+                "First-Year Restricted License": [
+                    "Complete and pass a drive test",
+                    "Adhere to specific driving conditions and restrictions"
+                ],
+                "Full Privilege Driver License": [
+                    "Automatic removal of Step 2 license restrictions on reaching a certain age or date"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "ntsi.com": {
+        "driving_school_montana": {
+            "courses": [
+                {
+                    "name": "Traffic Survival Workshop (Level 1)",
+                    "price": "$19.95",
+                    "duration": "4 hours",
+                    "objectives": [
+                        "Recognize and reflect on current driving behaviors",
+                        "Learn ways to alter negative driving behavior",
+                        "Deal with aggressive drivers"
+                    ],
+                    "features": [
+                        "100% Online",
+                        "Flexible Schedule"
+                    ]
+                },
+                {
+                    "name": "Aggressive Driving (Level 2)",
+                    "price": "$59.95",
+                    "duration": "8 hours",
+                    "objectives": [
+                        "Accepting responsibility for reckless or aggressive driving behaviors",
+                        "Examining current lifestyle and other issues affecting driving behaviors"
+                    ],
+                    "features": [
+                        "100% Online",
+                        "Flexible Schedule"
+                    ]
+                },
+                {
+                    "name": "Petty Theft Consumer Awareness Workshop",
+                    "price": "$44.95",
+                    "duration": "4 hours",
+                    "objectives": [
+                        "Acceptance of personal responsibility for actions",
+                        "Developing a plan to avoid future theft-related problems"
+                    ],
+                    "features": [
+                        "100% Online",
+                        "Flexible Schedule"
+                    ]
+                },
+                {
+                    "name": "SNAP \u2013 Safe New Attitude Program",
+                    "price": "$39.95",
+                    "duration": "4 hours",
+                    "objectives": [
+                        "Focus on modern day distractions",
+                        "Improving decision making"
+                    ],
+                    "features": [
+                        "100% Online",
+                        "Flexible Schedule"
+                    ]
+                }
+            ],
+            "call_to_action": "Register Now!",
+            "usecases": [
+                "Lowering auto insurance",
+                "Satisfying a court requirement",
+                "Working at own pace around schedule",
+                "Completing the course from home"
+            ],
+            "solutions": "Online defensive driving programs",
+            "key_features": [
+                "100% Online",
+                "Flexible Schedule"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "NY Defensive Driving Course": "$24.95",
+                "5-Hour Pre-Licensing Course Online": "$44.95"
+            }
+        }
+    },
+    "www.gfps.k12.mt.us": {
+        "driving_school_montana": {
+            "call_to_action": "Contact Us",
+            "usecases": [
+                "Educating and preparing students to safely operate a vehicle",
+                "Teaching best practices in vehicle maneuvering skills",
+                "Educating youth about proper seat belt use and dangers of distracted driving"
+            ],
+            "solutions": "Driver education and preparation for safe vehicle operation",
+            "key_features": [
+                "Experienced instructors",
+                "Instruction in the classroom and in the vehicle",
+                "Resources for Graduated Driver License and licensing procedures"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "breakfastPrices": {
+                    "elementaryStudent": "$1.85",
+                    "middleHighSchoolStudent": "$1.85",
+                    "reducedPriceMeals": "$0.30",
+                    "adults": "$3.00"
+                },
+                "lunchPrices": {
+                    "elementaryStudent": "$2.90",
+                    "middleHighSchoolStudent": "$3.00",
+                    "reducedPriceMeals": "$0.40",
+                    "adults": "$4.75",
+                    "secondMeal": "$4.75"
+                }
+            }
+        }
+    },
+    "sageschools.com": {
+        "driving_school_montana": {
+            "call_to_action": "Speak to a Representative",
+            "usecases": [
+                "CDL Training Programs",
+                "Class A and Class B CDL Training",
+                "Refresher CDL Training",
+                "Free CDL Permit Prep",
+                "Tuition Assistance",
+                "Veterans Education Training",
+                "Truck Driver Job Placement Assistance",
+                "Corporate Training for Companies and Fleets",
+                "Defensive Driving Lessons",
+                "Oilfield Driver Training",
+                "Commercial Vehicle Consulting"
+            ],
+            "solutions": "SAGE Truck Driving Schools in Billings, MT offers hands-on CDL training programs, industry-leading equipment and facilities, certification for entry-level tractor trailer drivers, job placement assistance, and access to ProDriverU for additional endorsements. They also provide financial assistance and pre-hiring with major trucking companies.",
+            "key_features": {
+                "Hands-On CDL Training": "Ideal mix of classroom and hands-on training",
+                "Quick Program Completion": "Programs can be completed in 4-8 weeks",
+                "Industry-Leading Equipment and Facilities": "Tractors and trailers used by leading trucking companies, premier driver training facilities",
+                "Certification for Entry-Level Tractor Trailer Drivers": "Upon successful completion of the program",
+                "Job Demand for Truck Drivers": "High projected growth and exceptional job demand",
+                "CDL Jobs Pre-Hire Program": "Many students get pre-hired by a major trucking company",
+                "On the Road Training for the MT CDL Test": "Each student receives over the road training with an experienced instructor",
+                "Job Placement Assistance": "Assistance with locating a job by taking advantage of their employer network",
+                "Total CDL Training Solution": "Access to ProDriverU for additional endorsements and self-paced, high tech learning solutions",
+                "Rated #1 CDL School": "Rated as #1 'Editors' Choice' school by TruckSchoolsUSA.com",
+                "Financial Assistance": "Financial assistance is available for those who qualify",
+                "Pre-Hiring as a Truck Driver": "They can get students pre-approved with major trucking companies before they start"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.cybereddrivered.com": {
+        "driving_school_montana": {
+            "name": "CyberEdDriverEd",
+            "location": "Bozeman, Montana",
+            "services": {
+                "online_driver_education_course": {
+                    "purpose": "To obtain Bozeman Montana Learners Permit or Drivers License",
+                    "price": "$24.99",
+                    "description": "Fast, fun and easy online driver ed courses with videos, interactive games, animations, and more. Certificate of completion sent via mail or FedEx.",
+                    "call_to_action": "Register Now",
+                    "usecases": [
+                        "Obtaining Learners Permit",
+                        "Obtaining Drivers License"
+                    ],
+                    "solutions": [
+                        "Interactive learning materials",
+                        "Convenient certificate delivery options"
+                    ],
+                    "key_features": [
+                        "Interactive videos",
+                        "Online games",
+                        "Animations",
+                        "Certificate delivery options"
+                    ]
+                },
+                "bozeman_montana_driver_education": {
+                    "description": "Information about Bozeman Montana driver education, licensing procedures, traffic education learners license, instruction permit, first-year restricted license, auto insurance and financial responsibility laws, drunk driving laws, cell phone and text-messaging laws.",
+                    "call_to_action": "Learn More",
+                    "usecases": [
+                        "Understanding licensing procedures",
+                        "Learning about traffic education laws",
+                        "Understanding auto insurance and financial responsibility laws",
+                        "Understanding drunk driving laws",
+                        "Understanding cell phone and text-messaging laws"
+                    ],
+                    "solutions": [
+                        "Comprehensive information on driver education and licensing procedures",
+                        "Detailed explanation of traffic education laws and licensing requirements",
+                        "Information on auto insurance and financial responsibility laws",
+                        "Insight into drunk driving laws and penalties",
+                        "Understanding of cell phone and text-messaging laws"
+                    ],
+                    "key_features": [
+                        "Comprehensive information",
+                        "Detailed explanations",
+                        "Insightful content"
+                    ]
+                },
+                "online_drivers_ed_faq": {
+                    "description": "Frequently asked questions about the online drivers ed course, payment methods, certificate delivery, website security, discounts, eligibility, retaking exams, insurance discounts, course completion, refunds, reading assistance, state approval, ID verification, and more.",
+                    "call_to_action": "View FAQs",
+                    "usecases": [
+                        "Clarifying payment and certificate delivery methods",
+                        "Ensuring website security",
+                        "Understanding eligibility and state approval",
+                        "Clarifying insurance discounts and refunds",
+                        "Seeking reading assistance and ID verification"
+                    ],
+                    "solutions": [
+                        "Clearing payment and certificate delivery queries",
+                        "Assuring website security measures",
+                        "Providing eligibility and state approval information",
+                        "Explaining insurance discounts and refund policies",
+                        "Offering reading assistance and ID verification details"
+                    ],
+                    "key_features": [
+                        "Comprehensive FAQs",
+                        "Payment and certificate details",
+                        "Security measures",
+                        "Eligibility and approval information",
+                        "Insurance and refund policies",
+                        "Reading assistance and ID verification"
+                    ]
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "course": "Enumclaw Washington Online Driver Education Courses",
+                "price": "$24.99",
+                "description": "Fast, fun, and easy! No other Enumclaw Washington driver ed course makes getting your learners permit or drivers license so much fun!"
+            },
+            "businessModel": "One-time payment for online driver education course"
+        }
+    },
+    "www.driving-schools.com": {
+        "driving_school_montana": {
+            "call_to_action": "Register Your School",
+            "usecases": [
+                "Finding a quality driving school in Montana",
+                "Selecting a driving school based on location and license class",
+                "Reading user reviews to make an informed decision"
+            ],
+            "solutions": "Comprehensive database of driving schools in Montana, search by location and license class, user reviews",
+            "key_features": [
+                "Comprehensive list of driving schools in the United States",
+                "Platform to help find the perfect driving school",
+                "Free service to help people find the best schools"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Driving Lessons - Bronze": "$189",
+                "Driving Lessons - Bronze Plus": "$349",
+                "Driving Lessons - Silver": "$699",
+                "Driving Lessons - Gold": "$1289"
+            }
+        }
+    }
+}
