@@ -1,0 +1,116 @@
+{
+    "title": "Optimized Driving School Features",
+    "intro": "After analyzing 11 driving school websites in Montana, a total of 40 features were gathered. The features were then optimized to eliminate redundancy, overly specific details, marketing fluff, and ambiguity.",
+    "features": {
+        "State-Approved Driver Education": {
+            "title": "Driver Education Programs",
+            "features": [
+                "Traffic safety instruction for teens (11)",
+                "Parent/guardian involvement guidance (11)",
+                "Graduated Driver Licensing (GDL) information (11)"
+            ]
+        },
+        "Cooperative Driver Licensing Program (CDTP)": {
+            "title": "CDTP",
+            "features": [
+                "Certified teachers can administer driver license tests (1)",
+                "Certified teachers can issue Learner Licenses (1)"
+            ]
+        },
+        "Students with Disabilities in Driver Education": {
+            "title": "Disability Accommodation",
+            "features": [
+                "Guide for accommodating students with disabilities (1)",
+                "Resources for instructors (1)"
+            ]
+        },
+        "Professional Development and Workshops": {
+            "title": "Professional Development",
+            "features": [
+                "Professional development opportunities (1)",
+                "Annual spring conference for traffic safety professionals (1)"
+            ]
+        },
+        "Montana DRIVE Summer Workshops": {
+            "title": "Summer Workshops",
+            "features": [
+                "Life-saving skills workshops for drivers (1)"
+            ]
+        },
+        "Adapted Illustrated Montana Driver Manual": {
+            "title": "Illustrated Driver Manual",
+            "features": [
+                "Easy-to-read, illustrated version of the Montana Driver Manual (1)"
+            ]
+        },
+        "Licensing and Permit Support": {
+            "title": "Licensing Support",
+            "features": [
+                "Verification and approval process by the Office of Public Instruction (1)",
+                "Resources for Graduated Driver License and licensing procedures (1)",
+                "Learner's Permit Period guidance (11)",
+                "First-Year Restricted License requirements (11)",
+                "Full Privilege Driver License details (11)"
+            ]
+        },
+        "Online and Mobile-Friendly Options": {
+            "title": "Online and Mobile Features",
+            "features": [
+                "100% Online courses available (2)",
+                "Fast & Easy courses (1)",
+                "Mobile-Friendly courses (1)",
+                "24-7-365 Customer Support (1)",
+                "Audio Read Along (1)",
+                "Unlimited MT Practice Tests available (1)"
+            ]
+        },
+        "Educational Programs": {
+            "title": "Educational Programs",
+            "features": [
+                "20-credit Traffic Education Minor/Endorsement program (1)",
+                "Summer course schedule for initial 8-credit coursework (1)",
+                "Preparation for teaching traffic education (1)"
+            ]
+        },
+        "Insurance and Guarantee": {
+            "title": "Insurance and Guarantee",
+            "features": [
+                "Lower Insurance Rate (1)",
+                "Money Back Guarantee (1)"
+            ]
+        },
+        "Additional Driver Training": {
+            "title": "Driver Training",
+            "features": [
+                "Flexible Schedule (1)",
+                "Experienced instructors (1)",
+                "Instruction in the classroom and in the vehicle (1)"
+            ]
+        },
+        "CDL Training": {
+            "title": "CDL Training",
+            "features": [
+                "Hands-On CDL Training (1)",
+                "Quick Program Completion (1)",
+                "Industry-Leading Equipment and Facilities (1)",
+                "Certification for Entry-Level Tractor Trailer Drivers (1)",
+                "Job Demand for Truck Drivers information (1)",
+                "CDL Jobs Pre-Hire Program details (1)",
+                "On the Road Training for the MT CDL Test (1)",
+                "Job Placement Assistance (1)",
+                "Total CDL Training Solution (1)",
+                "Rated #1 CDL School (1)",
+                "Financial Assistance availability (1)",
+                "Pre-Hiring as a Truck Driver support (1)"
+            ]
+        },
+        "Additional Services": {
+            "title": "Additional Services",
+            "features": [
+                "Comprehensive list of driving schools in the United States (1)",
+                "Platform to help find the perfect driving school (1)",
+                "Free service to help people find the best schools (1)"
+            ]
+        }
+    }
+}
