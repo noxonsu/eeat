@@ -1,0 +1,11 @@
+{
+    "www.example1.com": {
+        "url": "https://www.example1.com"
+    },
+    "www.example2.com": {
+        "url": "https://www.example2.com"
+    },
+    "www.example3.com": {
+        "url": "https://www.example3.com"
+    }
+}
