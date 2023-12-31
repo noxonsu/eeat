@@ -1,11 +1,14 @@
 {
     "www.example1.com": {
-        "url": "https://www.example1.com"
+        "url": "https://www.example1.com",
+        "nature": "single project"
     },
     "www.example2.com": {
-        "url": "https://www.example2.com"
+        "url": "https://www.example2.com",
+        "nature": "single project"
     },
     "www.example3.com": {
-        "url": "https://www.example3.com"
+        "url": "https://www.example3.com",
+        "nature": "single project"
     }
 }
