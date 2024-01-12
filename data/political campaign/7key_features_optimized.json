@@ -1,0 +1,47 @@
+{
+    "title": "Political Campaign Features",
+    "intro": "This list represents the optimized features gathered from analyzing 5 political campaign websites. A total of 23 features were gathered from 1 companies.",
+    "features": {
+        "Legal and Regulatory Information": {
+            "title": "Legal and Regulatory Information",
+            "features": [
+                "Official election campaign timetable",
+                "Campaign regulations and restrictions",
+                "Allocation of public resources for campaigning",
+                "Data on applications for rally permits",
+                "Detailed disclosure of contributions and expenditures in connection with campaigns supporting or opposing state and local candidates and ballot measures, as well as the disclosure of expenditures made in connection with lobbying the State Legislature and attempting to influence administrative decisions of state government",
+                "Penalties for Late Filing"
+            ]
+        },
+        "Operational Data": {
+            "title": "Operational Data",
+            "features": [
+                "Data on party and candidate operations",
+                "Information about media allocations and decision-making processes",
+                "Data on applications for rally permits",
+                "Ethics Training",
+                "Required Documents for Registration",
+                "Amendment, Termination, and Withdrawal",
+                "Required Documents for Quarterly Disclosure Reports"
+            ]
+        },
+        "Online Resources": {
+            "title": "Online Resources",
+            "features": [
+                "Application for Password",
+                "Cal-Online Free Online Filing Forms",
+                "Approved Vendor Information",
+                "Campaign Forms and Instructions",
+                "Filing Deadlines"
+            ]
+        },
+        "Campaign Management": {
+            "title": "Campaign Management",
+            "features": [
+                "Photographic techniques",
+                "Statistical analysis",
+                "Science of influence and affect"
+            ]
+        }
+    }
+}
