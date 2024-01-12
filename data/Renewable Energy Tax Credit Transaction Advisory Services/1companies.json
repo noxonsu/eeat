@@ -1,58 +1,72 @@
 {
     "www.novoco.com": {
         "url": "https://www.novoco.com/services/detailed-renewable-energy-tax-credit-services",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.cohnreznick.com": {
         "url": "https://www.cohnreznick.com/industries/renewable-energy",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "tidwellgroup.com": {
         "url": "https://tidwellgroup.com/renewable-energy-tax-credit-solutions/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "bradyware.com": {
         "url": "https://bradyware.com/industries/renewable-energy/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.aafcpa.com": {
         "url": "https://www.aafcpa.com/solutions/advisory/tax-credit-consulting/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.grantthornton.com": {
         "url": "https://www.grantthornton.com/insights/articles/energy/2023/renewable-energy-a-strategic-driver-enabled-by-tax-credits",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.leoberwick.com": {
         "url": "https://www.leoberwick.com/renewables/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.cbh.com": {
         "url": "https://www.cbh.com/services/tax/tax-credits-incentives-advisory/energy-investment-tax-credits-incentives/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "ryan.com": {
         "url": "https://ryan.com/practice-areas/income-tax/renewable-energy-tax-credits/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.hklaw.com": {
         "url": "https://www.hklaw.com/en/services/practices/tax-executive-compensation-and-benefits/renewable-energy-tax-credits",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.pbmares.com": {
         "url": "https://www.pbmares.com/transferring-federal-energy-tax-credits/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.reunioninfra.com": {
         "url": "https://www.reunioninfra.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.reunioninfra.com/insights/2024-tax-credit-pricing"
     },
     "www.riverridgecap.com": {
         "url": "https://www.riverridgecap.com/tax-credits.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.novogradacevents.com": {
         "url": "https://www.novogradacevents.com/ehome/376620/speakers/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.novogradacevents.com/website/32370/home/"
     }
 }
