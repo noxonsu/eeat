@@ -57,7 +57,8 @@
     "www.reunioninfra.com": {
         "url": "https://www.reunioninfra.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.reunioninfra.com/insights/2024-tax-credit-pricing"
+        "priceAndPlansCrawled": "https://www.reunioninfra.com/insights/2024-tax-credit-pricing",
+        "5prompt_Hash": "af410780977acb72d086552c1e2a111f"
     },
     "www.riverridgecap.com": {
         "url": "https://www.riverridgecap.com/tax-credits.html",
@@ -67,6 +68,7 @@
     "www.novogradacevents.com": {
         "url": "https://www.novogradacevents.com/ehome/376620/speakers/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.novogradacevents.com/website/32370/home/"
+        "priceAndPlansCrawled": "https://www.novogradacevents.com/website/32370/home/",
+        "5prompt_Hash": "af410780977acb72d086552c1e2a111f"
     }
 }

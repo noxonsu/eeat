@@ -1,0 +1,73 @@
+{
+    "www.reunioninfra.com": {
+        "Reunion's Transferable Tax Credit Handbook": {
+            "call_to_action": "Get started",
+            "usecases": {
+                "tax_credit_buyers": "Helps CFOs and corporate finance teams identify and purchase high-quality tax credits, with a focus on risk mitigation.",
+                "project_developers": "Offers a simpler, faster, and more accessible way to finance clean energy projects compared to traditional tax equity. Work with an experienced team to sell tax credits to a broad pool of corporate investors."
+            },
+            "solutions": "Reunion is a technology-enabled finance company that guides tax credit buyers and sellers step by step through the transaction process.",
+            "key_features": [
+                "Deepest pool of tax credits with high-quality sponsors",
+                "Comprehensive due diligence process",
+                "Risk management, including tax credit insurance",
+                "Pre-negotiated contracts",
+                "Technology-enabled transaction process"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.novogradacevents.com": {
+        "services": [
+            {
+                "name": "Renewable Energy Tax Credit Transaction Advisory Services",
+                "call_to_action": "Talk to a manager",
+                "usecases": "Assisting clients in navigating renewable energy tax credit transactions, providing advisory services for maximizing tax benefits, facilitating compliance with regulations, and optimizing financial structures for renewable energy projects.",
+                "solutions": "Comprehensive analysis of tax credit transactions, assistance in structuring financial arrangements, guidance on compliance with renewable energy regulations, and maximizing tax benefits for clients.",
+                "key_features": [
+                    "Comprehensive analysis of tax credit transactions",
+                    "Financial structuring assistance",
+                    "Regulatory compliance guidance",
+                    "Tax benefit maximization"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Online": {
+                    "Attendee": {
+                        "Early Bird": "$99",
+                        "Standard": "$199",
+                        "Onsite": "$199"
+                    },
+                    "Novogradac Client": {
+                        "Early Bird": "$99",
+                        "Standard": "$99",
+                        "Onsite": "$99"
+                    }
+                },
+                "In-Person": {
+                    "Attendee": {
+                        "Early Bird": "$725",
+                        "Standard": "$775",
+                        "Onsite": "$850"
+                    },
+                    "Novogradac Client": {
+                        "Early Bird": "$675",
+                        "Standard": "$675",
+                        "Onsite": "$675"
+                    },
+                    "Add-ons": {
+                        "Workshop only": "$550",
+                        "Workshop with conference": "$450",
+                        "Reception guest pass": "$75"
+                    }
+                }
+            }
+        }
+    }
+}
