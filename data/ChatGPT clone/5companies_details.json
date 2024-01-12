@@ -1,0 +1,342 @@
+{
+    "huggingface.co": {
+        "product_name": "Hugging Face",
+        "call_to_action": "Sign Up",
+        "usecases": [
+            "Collaboration on models, datasets, and applications",
+            "Hosting and collaboration on unlimited models, datasets, and applications",
+            "Paid Compute and Enterprise solutions",
+            "Building the foundation of ML tooling with the community"
+        ],
+        "solutions": [
+            "Paid Compute solutions for deploying on optimized Inference Endpoints or updating Spaces applications to a GPU",
+            "Enterprise solutions for building AI with enterprise-grade security, access controls, and dedicated support"
+        ],
+        "key_features": {
+            "Models": "Browse 300k+ models",
+            "Datasets": "Browse 50k+ datasets",
+            "Spaces": "Host and collaborate on unlimited models, datasets, and applications",
+            "Compute": "Paid Compute solutions starting at $0.60/hour for GPU",
+            "Enterprise": "Enterprise solutions starting at $20/user/month",
+            "Open Source": "Building the foundation of ML tooling with the community"
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "CPU Instances": [
+                    {
+                        "Provider": "aws",
+                        "Instance Size": "small",
+                        "hourly rate": "$0.06",
+                        "vCPUs": 1,
+                        "Memory": "2GB",
+                        "Architecture": "Intel Xeon - Ice Lake"
+                    },
+                    {
+                        "Provider": "aws",
+                        "Instance Size": "medium",
+                        "hourly rate": "$0.12",
+                        "vCPUs": 2,
+                        "Memory": "4GB",
+                        "Architecture": "Intel Xeon - Ice Lake"
+                    },
+                    {
+                        "Provider": "aws",
+                        "Instance Size": "large",
+                        "hourly rate": "$0.24",
+                        "vCPUs": 4,
+                        "Memory": "8GB",
+                        "Architecture": "Intel Xeon - Ice Lake"
+                    },
+                    {
+                        "Provider": "aws",
+                        "Instance Size": "xlarge",
+                        "hourly rate": "$0.48",
+                        "vCPUs": 8,
+                        "Memory": "16GB",
+                        "Architecture": "Intel Xeon - Ice Lake"
+                    },
+                    {
+                        "Provider": "azure",
+                        "Instance Size": "small",
+                        "hourly rate": "$0.06",
+                        "vCPUs": 1,
+                        "Memory": "2GB",
+                        "Architecture": "Intel Xeon"
+                    },
+                    {
+                        "Provider": "azure",
+                        "Instance Size": "medium",
+                        "hourly rate": "$0.12",
+                        "vCPUs": 2,
+                        "Memory": "4GB",
+                        "Architecture": "Intel Xeon"
+                    },
+                    {
+                        "Provider": "azure",
+                        "Instance Size": "large",
+                        "hourly rate": "$0.24",
+                        "vCPUs": 4,
+                        "Memory": "8GB",
+                        "Architecture": "Intel Xeon"
+                    },
+                    {
+                        "Provider": "azure",
+                        "Instance Size": "xlarge",
+                        "hourly rate": "$0.48",
+                        "vCPUs": 8,
+                        "Memory": "16GB",
+                        "Architecture": "Intel Xeon"
+                    }
+                ],
+                "GPU Instances": [
+                    {
+                        "Provider": "aws",
+                        "Instance Size": "small",
+                        "hourly rate": "$0.60",
+                        "GPUs": 1,
+                        "Memory": "14GB",
+                        "Architecture": "NVIDIA T4"
+                    },
+                    {
+                        "Provider": "aws",
+                        "Instance Size": "medium",
+                        "hourly rate": "$1.30",
+                        "GPUs": 1,
+                        "Memory": "24GB",
+                        "Architecture": "NVIDIA A10G"
+                    },
+                    {
+                        "Provider": "aws",
+                        "Instance Size": "large",
+                        "hourly rate": "$4.50",
+                        "GPUs": 4,
+                        "Memory": "56GB",
+                        "Architecture": "NVIDIA T4"
+                    },
+                    {
+                        "Provider": "aws",
+                        "Instance Size": "xlarge",
+                        "hourly rate": "$6.50",
+                        "GPUs": 1,
+                        "Memory": "80GB",
+                        "Architecture": "NVIDIA A100"
+                    },
+                    {
+                        "Provider": "aws",
+                        "Instance Size": "xxlarge",
+                        "hourly rate": "$7.00",
+                        "GPUs": 4,
+                        "Memory": "96GB",
+                        "Architecture": "NVIDIA A10G"
+                    },
+                    {
+                        "Provider": "aws",
+                        "Instance Size": "2xlarge",
+                        "hourly rate": "$13.00",
+                        "GPUs": 2,
+                        "Memory": "160GB",
+                        "Architecture": "NVIDIA A100"
+                    },
+                    {
+                        "Provider": "aws",
+                        "Instance Size": "4xlarge",
+                        "hourly rate": "$26.00",
+                        "GPUs": 4,
+                        "Memory": "320GB",
+                        "Architecture": "NVIDIA A100"
+                    },
+                    {
+                        "Provider": "aws",
+                        "Instance Size": "8xlarge",
+                        "hourly rate": "$45.00",
+                        "GPUs": 8,
+                        "Memory": "640GB",
+                        "Architecture": "NVIDIA A100"
+                    }
+                ]
+            }
+        }
+    },
+    "bubble.io": {
+        "product_name": "Bubble's ChatGPT Clone",
+        "call_to_action": "Create a free Bubble account",
+        "usecases": [
+            "Building an AI-driven chatbot without writing code",
+            "Leveraging generative AI to build a purpose-specific chatbot",
+            "Tapping into the power of Microsoft Azure OpenAI Service's large language model (LLM)"
+        ],
+        "solutions": "Enables users to create a ChatGPT clone using Bubble's visual web editor and Microsoft Azure OpenAI Service without writing any code.",
+        "key_features": [
+            "No-code development of a chatbot",
+            "Integration with Microsoft Azure OpenAI Service",
+            "Visual web editor for building core features of a ChatGPT clone",
+            "Chat function, running history of conversation, and backend powered by AI"
+        ],
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Free": {
+                    "price": 0,
+                    "billingCycle": "month",
+                    "description": "Best for learning how to use Bubble"
+                },
+                "Starter": {
+                    "price": 29,
+                    "billingCycle": "month",
+                    "description": "Best for launching your app and testing"
+                },
+                "Growth": {
+                    "price": 119,
+                    "billingCycle": "month",
+                    "description": "Best for growing your user base"
+                },
+                "Team": {
+                    "price": 349,
+                    "billingCycle": "month",
+                    "description": "Best for scaling your team and business"
+                },
+                "Enterprise": {
+                    "price": "Contact us",
+                    "billingCycle": "custom",
+                    "description": "Best for maximum security and scale"
+                }
+            }
+        }
+    },
+    "customgpt.ai": {
+        "product_name": "CustomGPT",
+        "call_to_action": "Sign Up",
+        "use_cases": [
+            "Customer Service",
+            "Customer Engagement",
+            "Topic Research",
+            "Cloning Yourself Using ChatGPT"
+        ],
+        "solutions": "CustomGPT offers a platform for creating and deploying custom chatbots powered by ChatGPT-4. It allows users to ingest and integrate data from various sources to build personalized conversational AI models.",
+        "key_features": [
+            "Easy Setup with support for 1400+ document formats",
+            "Sitemap Integration",
+            "Multi-Source Data Integrations",
+            "Support for 92 languages",
+            "Powered by ChatGPT-4 for accurate responses",
+            "Public or Private Access for deployed chatbots",
+            "Embed on Website & LiveChat",
+            "API Access",
+            "Personalized conversational responses based on business content",
+            "Quick Personalized Responses for customer engagement",
+            "Improved sales via conversations and personalized production recommendations",
+            "Secure, privacy-first, business-grade platform",
+            "Realtime data indexing for ingesting live data",
+            "No hallucinations - ensures accurate responses based on ingested data",
+            "Business-grade cloud-hosted secure platform",
+            "Persona feature for defining the chatbot's style of communication"
+        ],
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Basic": {
+                    "priceMonthly": 44,
+                    "priceYearly": 49
+                },
+                "Standard": {
+                    "priceMonthly": 89,
+                    "priceYearly": 99
+                },
+                "Premium": {
+                    "priceMonthly": 449,
+                    "priceYearly": 499
+                },
+                "Enterprise": "Contact Us"
+            }
+        }
+    },
+    "kinsta.com": {
+        "product_name": "Kinsta Application Hosting",
+        "call_to_action": "Request a live demo",
+        "usecases": [
+            "Enterprise",
+            "Agency",
+            "WooCommerce store",
+            "Small business",
+            "Non-profit organization",
+            "Single high-resource site"
+        ],
+        "solutions": "Application Hosting",
+        "key_features": [
+            "Cloudflare integration",
+            "Kinsta API",
+            "Expert support",
+            "Free WordPress migrations",
+            "APM tool",
+            "DevKinsta",
+            "Edge Caching",
+            "WordPress plan add-ons"
+        ],
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "WordPress Sites": {
+                    "Starter plan": {
+                        "monthlyPrice": "$35 USD",
+                        "annualPrice": "$350 USD",
+                        "visits": "25,000",
+                        "storage": "10GB",
+                        "migrations": "Free",
+                        "moneyBackGuarantee": "30-day"
+                    }
+                },
+                "Web Applications": {
+                    "Scale as you go from": {
+                        "perSecond": "$0.0000026600 USD",
+                        "perHour": "$0.00958 USD",
+                        "perMonth": "$7 USD",
+                        "cpuCount": "0.3 CPU",
+                        "ram": "0.3GB RAM",
+                        "bandwidth": "+$0.14 USD / GB Bandwidth",
+                        "freeTrial": "Available"
+                    }
+                },
+                "Databases": {
+                    "Scale as you go from": {
+                        "perSecond": "$0.0000068493 USD",
+                        "perHour": "$0.02470 USD",
+                        "perMonth": "$18 USD",
+                        "storage": "1GB",
+                        "cpuCount": "0.25 CPU",
+                        "ram": "0.25GB RAM",
+                        "freeTrial": "Available"
+                    }
+                },
+                "Static Sites": {
+                    "Price": "Free",
+                    "GlobalEdgeLocations": "260+",
+                    "sites": "100",
+                    "storageSpacePerSite": "1GB",
+                    "bandwidth": "100GB/month",
+                    "fairUsePolicyLimits": "Yes"
+                }
+            }
+        }
+    },
+    "codesandbox.io": {
+        "error": "Unable to access the requested URL. Please provide the necessary information or details about the ChatGPT clone products you want to analyze.",
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Personal": {
+                    "price": "$0",
+                    "description": "Free for individuals or small teams"
+                },
+                "Pro": {
+                    "price": "$15",
+                    "description": "per editor per month, billed annually. + $2 for the 2nd and 3rd editor."
+                },
+                "Enterprise": {
+                    "price": "Custom",
+                    "description": "waitlist now open."
+                }
+            }
+        }
+    }
+}

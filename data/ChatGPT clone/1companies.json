@@ -12,7 +12,8 @@
     "huggingface.co": {
         "url": "https://huggingface.co/spaces/zachriek/chatgpt-clone",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://huggingface.co/docs/inference-endpoints/pricing"
+        "priceAndPlansCrawled": "https://huggingface.co/docs/inference-endpoints/pricing",
+        "5prompt_Hash": "05645430f5abfa31c2d4e5100cb23164"
     },
     "chat-clone-gpt.vercel.app": {
         "url": "https://chat-clone-gpt.vercel.app/",
@@ -22,7 +23,8 @@
     "bubble.io": {
         "url": "https://bubble.io/blog/build-chatgpt-clone-no-code/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://bubble.io/pricing"
+        "priceAndPlansCrawled": "https://bubble.io/pricing",
+        "5prompt_Hash": "05645430f5abfa31c2d4e5100cb23164"
     },
     "medium.com": {
         "url": "https://medium.com/aimonks/chatgpt-clone-with-streamlit-and-langchain-e0d4fa78e33d",
@@ -37,7 +39,8 @@
     "customgpt.ai": {
         "url": "https://customgpt.ai/chatgpt-clone/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://customgpt.ai/pricing/"
+        "priceAndPlansCrawled": "https://customgpt.ai/pricing/",
+        "5prompt_Hash": "05645430f5abfa31c2d4e5100cb23164"
     },
     "www.wired.com": {
         "url": "https://www.wired.com/story/get-ready-to-meet-the-chatgpt-clones/",
@@ -47,7 +50,8 @@
     "kinsta.com": {
         "url": "https://kinsta.com/blog/chatgpt-clone/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://kinsta.com/pricing/"
+        "priceAndPlansCrawled": "https://kinsta.com/pricing/",
+        "5prompt_Hash": "05645430f5abfa31c2d4e5100cb23164"
     },
     "forum.bubble.io": {
         "url": "https://forum.bubble.io/t/chatgpt-clone-tutorial/295091",
@@ -72,7 +76,8 @@
     "codesandbox.io": {
         "url": "https://codesandbox.io/p/github/xtekky/chatgpt-clone",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://codesandbox.io/pricing"
+        "priceAndPlansCrawled": "https://codesandbox.io/pricing",
+        "5prompt_Hash": "05645430f5abfa31c2d4e5100cb23164"
     },
     "docs.humanloop.com": {
         "url": "https://docs.humanloop.com/docs/chatgpt-clone-in-nextjs",
