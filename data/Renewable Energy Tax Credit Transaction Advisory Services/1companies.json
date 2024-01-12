@@ -1,44 +1,58 @@
 {
     "www.novoco.com": {
-        "url": "https://www.novoco.com/services/detailed-renewable-energy-tax-credit-services"
+        "url": "https://www.novoco.com/services/detailed-renewable-energy-tax-credit-services",
+        "nature": "single project"
     },
     "www.cohnreznick.com": {
-        "url": "https://www.cohnreznick.com/industries/renewable-energy"
+        "url": "https://www.cohnreznick.com/industries/renewable-energy",
+        "nature": "single project"
     },
     "tidwellgroup.com": {
-        "url": "https://tidwellgroup.com/renewable-energy-tax-credit-solutions/"
+        "url": "https://tidwellgroup.com/renewable-energy-tax-credit-solutions/",
+        "nature": "single project"
     },
     "bradyware.com": {
-        "url": "https://bradyware.com/industries/renewable-energy/"
+        "url": "https://bradyware.com/industries/renewable-energy/",
+        "nature": "single project"
     },
     "www.aafcpa.com": {
-        "url": "https://www.aafcpa.com/solutions/advisory/tax-credit-consulting/"
+        "url": "https://www.aafcpa.com/solutions/advisory/tax-credit-consulting/",
+        "nature": "single project"
     },
     "www.grantthornton.com": {
-        "url": "https://www.grantthornton.com/insights/articles/energy/2023/renewable-energy-a-strategic-driver-enabled-by-tax-credits"
+        "url": "https://www.grantthornton.com/insights/articles/energy/2023/renewable-energy-a-strategic-driver-enabled-by-tax-credits",
+        "nature": "single project"
     },
     "www.leoberwick.com": {
-        "url": "https://www.leoberwick.com/renewables/"
+        "url": "https://www.leoberwick.com/renewables/",
+        "nature": "single project"
     },
     "www.cbh.com": {
-        "url": "https://www.cbh.com/services/tax/tax-credits-incentives-advisory/energy-investment-tax-credits-incentives/"
+        "url": "https://www.cbh.com/services/tax/tax-credits-incentives-advisory/energy-investment-tax-credits-incentives/",
+        "nature": "single project"
     },
     "ryan.com": {
-        "url": "https://ryan.com/practice-areas/income-tax/renewable-energy-tax-credits/"
+        "url": "https://ryan.com/practice-areas/income-tax/renewable-energy-tax-credits/",
+        "nature": "single project"
     },
     "www.hklaw.com": {
-        "url": "https://www.hklaw.com/en/services/practices/tax-executive-compensation-and-benefits/renewable-energy-tax-credits"
+        "url": "https://www.hklaw.com/en/services/practices/tax-executive-compensation-and-benefits/renewable-energy-tax-credits",
+        "nature": "single project"
     },
     "www.pbmares.com": {
-        "url": "https://www.pbmares.com/transferring-federal-energy-tax-credits/"
+        "url": "https://www.pbmares.com/transferring-federal-energy-tax-credits/",
+        "nature": "single project"
     },
     "www.reunioninfra.com": {
-        "url": "https://www.reunioninfra.com/"
+        "url": "https://www.reunioninfra.com/",
+        "nature": "single project"
     },
     "www.riverridgecap.com": {
-        "url": "https://www.riverridgecap.com/tax-credits.html"
+        "url": "https://www.riverridgecap.com/tax-credits.html",
+        "nature": "single project"
     },
     "www.novogradacevents.com": {
-        "url": "https://www.novogradacevents.com/ehome/376620/speakers/"
+        "url": "https://www.novogradacevents.com/ehome/376620/speakers/",
+        "nature": "single project"
     }
 }
