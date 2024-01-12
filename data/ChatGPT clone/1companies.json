@@ -1,70 +1,87 @@
 {
     "github.com": {
         "url": "https://github.com/danny-avila/LibreChat",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "chatgpt-clone-two.vercel.app": {
         "url": "https://chatgpt-clone-two.vercel.app/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "huggingface.co": {
         "url": "https://huggingface.co/spaces/zachriek/chatgpt-clone",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://huggingface.co/docs/inference-endpoints/pricing"
     },
     "chat-clone-gpt.vercel.app": {
         "url": "https://chat-clone-gpt.vercel.app/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "bubble.io": {
         "url": "https://bubble.io/blog/build-chatgpt-clone-no-code/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://bubble.io/pricing"
     },
     "medium.com": {
         "url": "https://medium.com/aimonks/chatgpt-clone-with-streamlit-and-langchain-e0d4fa78e33d",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.youtube.com": {
         "url": "https://www.youtube.com/watch?v=haGe_t4Ax9I",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "customgpt.ai": {
         "url": "https://customgpt.ai/chatgpt-clone/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://customgpt.ai/pricing/"
     },
     "www.wired.com": {
         "url": "https://www.wired.com/story/get-ready-to-meet-the-chatgpt-clones/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "kinsta.com": {
         "url": "https://kinsta.com/blog/chatgpt-clone/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://kinsta.com/pricing/"
     },
     "forum.bubble.io": {
         "url": "https://forum.bubble.io/t/chatgpt-clone-tutorial/295091",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.reddit.com": {
         "url": "https://www.reddit.com/r/selfhosted/comments/168xzac/selfhosted_chatgpt_clone_with_decent_features/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.sitepoint.com": {
         "url": "https://www.sitepoint.com/build-chatgpt-clone-react-openai-api/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.instagram.com": {
         "url": "https://www.instagram.com/sirajraval/reel/CoYU6msPBiA/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "codesandbox.io": {
         "url": "https://codesandbox.io/p/github/xtekky/chatgpt-clone",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://codesandbox.io/pricing"
     },
     "docs.humanloop.com": {
         "url": "https://docs.humanloop.com/docs/chatgpt-clone-in-nextjs",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.linkedin.com": {
         "url": "https://www.linkedin.com/posts/shahzeb-k_minigpt-a-chatgpt-clone-in-200-lines-of-activity-7122360433419714560-lhWZ",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     }
 }
