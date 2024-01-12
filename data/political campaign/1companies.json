@@ -1,86 +1,114 @@
 {
     "hls.harvard.edu": {
-        "url": "https://hls.harvard.edu/bernard-koteen-office-of-public-interest-advising/a-quick-guide-to-working-on-political-campaigns/"
+        "url": "https://hls.harvard.edu/bernard-koteen-office-of-public-interest-advising/a-quick-guide-to-working-on-political-campaigns/",
+        "nature": "single project"
     },
     "www.loc.gov": {
-        "url": "https://www.loc.gov/classroom-materials/elections/presidential-election-process/persuading-voters-political-campaigns/"
+        "url": "https://www.loc.gov/classroom-materials/elections/presidential-election-process/persuading-voters-political-campaigns/",
+        "nature": "single project"
     },
     "openelectiondata.net": {
-        "url": "https://openelectiondata.net/en/guide/key-categories/election-campaigns/"
+        "url": "https://openelectiondata.net/en/guide/key-categories/election-campaigns/",
+        "nature": "single project"
     },
     "www.fec.gov": {
-        "url": "https://www.fec.gov/introduction-campaign-finance/understanding-ways-support-federal-candidates/"
+        "url": "https://www.fec.gov/introduction-campaign-finance/understanding-ways-support-federal-candidates/",
+        "nature": "single project"
     },
     "www.ngpvan.com": {
-        "url": "https://www.ngpvan.com/blog/political-campaign-strategies/"
+        "url": "https://www.ngpvan.com/blog/political-campaign-strategies/",
+        "nature": "single project"
     },
     "www.irs.gov": {
-        "url": "https://www.irs.gov/charities-non-profits/charitable-organizations/frequently-asked-questions-about-the-ban-on-political-campaign-intervention-by-501c3-organizations"
+        "url": "https://www.irs.gov/charities-non-profits/charitable-organizations/frequently-asked-questions-about-the-ban-on-political-campaign-intervention-by-501c3-organizations",
+        "nature": "single project"
     },
     "www.harrisbeach.com": {
-        "url": "https://www.harrisbeach.com/insights/eight-critical-steps-to-a-political-campaign/"
+        "url": "https://www.harrisbeach.com/insights/eight-critical-steps-to-a-political-campaign/",
+        "nature": "single project"
     },
     "www.npr.org": {
-        "url": "https://www.npr.org/2023/11/01/1205728664/campaign-finance-donations-election-fec-fundraising-ad-spending"
+        "url": "https://www.npr.org/2023/11/01/1205728664/campaign-finance-donations-election-fec-fundraising-ad-spending",
+        "nature": "single project"
     },
     "www.naicu.edu": {
-        "url": "https://www.naicu.edu/policy-advocacy/issue-brief-index/regulation/political-campaign-activity-on-campus"
+        "url": "https://www.naicu.edu/policy-advocacy/issue-brief-index/regulation/political-campaign-activity-on-campus",
+        "nature": "single project"
     },
     "app.leg.wa.gov": {
-        "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=42.52.180"
+        "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=42.52.180",
+        "nature": "single project"
     },
     "www.facebook.com": {
-        "url": "https://www.facebook.com/government-nonprofits/blog/launching-your-campaign-on-facebook"
+        "url": "https://www.facebook.com/government-nonprofits/blog/launching-your-campaign-on-facebook",
+        "nature": "single project"
     },
     "www.reuters.com": {
-        "url": "https://www.reuters.com/technology/meet-ashley-worlds-first-ai-powered-political-campaign-caller-2023-12-12/"
+        "url": "https://www.reuters.com/technology/meet-ashley-worlds-first-ai-powered-political-campaign-caller-2023-12-12/",
+        "nature": "single project"
     },
     "www.usa.gov": {
-        "url": "https://www.usa.gov/campaign-finance-laws"
+        "url": "https://www.usa.gov/campaign-finance-laws",
+        "nature": "single project"
     },
     "www.amazon.com": {
-        "url": "https://www.amazon.com/Art-Political-Campaign-recognition-connections/dp/1492307890"
+        "url": "https://www.amazon.com/Art-Political-Campaign-recognition-connections/dp/1492307890",
+        "nature": "single project"
     },
     "www.sos.ca.gov": {
-        "url": "https://www.sos.ca.gov/campaign-lobbying"
+        "url": "https://www.sos.ca.gov/campaign-lobbying",
+        "nature": "single project"
     },
     "www.fcc.gov": {
-        "url": "https://www.fcc.gov/rules-political-campaign-calls-and-texts"
+        "url": "https://www.fcc.gov/rules-political-campaign-calls-and-texts",
+        "nature": "single project"
     },
     "www.wisconsin.edu": {
-        "url": "https://www.wisconsin.edu/government-relations/guidance-on-political-campaign-activities-at-university-of-wisconsin-system-institutions/"
+        "url": "https://www.wisconsin.edu/government-relations/guidance-on-political-campaign-activities-at-university-of-wisconsin-system-institutions/",
+        "nature": "single project"
     },
     "ocpf.us": {
-        "url": "https://ocpf.us/"
+        "url": "https://ocpf.us/",
+        "nature": "single project"
     },
     "www.aristotle.com": {
-        "url": "https://www.aristotle.com/campaigns/"
+        "url": "https://www.aristotle.com/campaigns/",
+        "nature": "single project"
     },
     "campaignsandelections.com": {
-        "url": "https://campaignsandelections.com/"
+        "url": "https://campaignsandelections.com/",
+        "nature": "single project"
     },
     "www.thecampaignworkshop.com": {
-        "url": "https://www.thecampaignworkshop.com/blog/pillar/campaign-tactics/political-campaign-strategy"
+        "url": "https://www.thecampaignworkshop.com/blog/pillar/campaign-tactics/political-campaign-strategy",
+        "nature": "single project"
     },
     "www.followthemoney.org": {
-        "url": "https://www.followthemoney.org/"
+        "url": "https://www.followthemoney.org/",
+        "nature": "single project"
     },
     "callhub.io": {
-        "url": "https://callhub.io/blog/political-campaign/political-marketing/"
+        "url": "https://callhub.io/blog/political-campaign/political-marketing/",
+        "nature": "single project"
     },
     "www.sos.la.gov": {
-        "url": "https://www.sos.la.gov/ElectionsAndVoting/BecomeACandidate/UnderstandCampaignRequirements/Pages/default.aspx"
+        "url": "https://www.sos.la.gov/ElectionsAndVoting/BecomeACandidate/UnderstandCampaignRequirements/Pages/default.aspx",
+        "nature": "single project"
     },
     "bipartisanpolicy.org": {
-        "url": "https://bipartisanpolicy.org/report/history-tech-elections/"
+        "url": "https://bipartisanpolicy.org/report/history-tech-elections/",
+        "nature": "single project"
     },
     "www.collinsdictionary.com": {
-        "url": "https://www.collinsdictionary.com/us/dictionary/english/political-campaign"
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/political-campaign",
+        "nature": "single project"
     },
     "thehill.com": {
-        "url": "https://thehill.com/homenews/campaign/"
+        "url": "https://thehill.com/homenews/campaign/",
+        "nature": "single project"
     },
     "abcnews.go.com": {
-        "url": "https://abcnews.go.com/Politics/ai-political-campaigns-raising-red-flags-2024-election/"
+        "url": "https://abcnews.go.com/Politics/ai-political-campaigns-raising-red-flags-2024-election/",
+        "nature": "single project"
     }
 }
