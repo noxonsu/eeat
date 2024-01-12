@@ -7,12 +7,14 @@
     "www.loc.gov": {
         "url": "https://www.loc.gov/classroom-materials/elections/presidential-election-process/persuading-voters-political-campaigns/",
         "nature": "single project",
-        "priceAndPlansCrawled": "http://www.loc.gov/duplicationservices/products-pricing/"
+        "priceAndPlansCrawled": "http://www.loc.gov/duplicationservices/products-pricing/",
+        "5prompt_Hash": "bcf53c3bc7ea75cc9ddc98ee1bcf7288"
     },
     "openelectiondata.net": {
         "url": "https://openelectiondata.net/en/guide/key-categories/election-campaigns/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://openelectiondata.net/en/assessment/forms/campaign-finance/"
+        "priceAndPlansCrawled": "https://openelectiondata.net/en/assessment/forms/campaign-finance/",
+        "5prompt_Hash": "bcf53c3bc7ea75cc9ddc98ee1bcf7288"
     },
     "www.fec.gov": {
         "url": "https://www.fec.gov/introduction-campaign-finance/understanding-ways-support-federal-candidates/",
@@ -72,7 +74,8 @@
     "www.sos.ca.gov": {
         "url": "https://www.sos.ca.gov/campaign-lobbying",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.sos.ca.gov/campaign-lobbying/cal-access-resources/measure-contributions/state-prescription-drug-purchases-pricing-standards-initiative-statute"
+        "priceAndPlansCrawled": "https://www.sos.ca.gov/campaign-lobbying/cal-access-resources/measure-contributions/state-prescription-drug-purchases-pricing-standards-initiative-statute",
+        "5prompt_Hash": "bcf53c3bc7ea75cc9ddc98ee1bcf7288"
     },
     "www.fcc.gov": {
         "url": "https://www.fcc.gov/rules-political-campaign-calls-and-texts",
@@ -87,7 +90,8 @@
     "ocpf.us": {
         "url": "https://ocpf.us/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://ocpf.us/PublicSearch/Index?q=merchantlocal&showContent=true"
+        "priceAndPlansCrawled": "https://ocpf.us/PublicSearch/Index?q=merchantlocal&showContent=true",
+        "5prompt_Hash": "bcf53c3bc7ea75cc9ddc98ee1bcf7288"
     },
     "www.aristotle.com": {
         "url": "https://www.aristotle.com/campaigns/",
@@ -117,7 +121,8 @@
     "www.sos.la.gov": {
         "url": "https://www.sos.la.gov/ElectionsAndVoting/BecomeACandidate/UnderstandCampaignRequirements/Pages/default.aspx",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/CandidateQualifyingFees.pdf"
+        "priceAndPlansCrawled": "https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/CandidateQualifyingFees.pdf",
+        "5prompt_Hash": "bcf53c3bc7ea75cc9ddc98ee1bcf7288"
     },
     "bipartisanpolicy.org": {
         "url": "https://bipartisanpolicy.org/report/history-tech-elections/",

@@ -1,0 +1,258 @@
+{
+    "www.loc.gov": {
+        "political_campaign": {
+            "call_to_action": "persuading voters, advertising, direct contact with voters",
+            "usecases": "persuading voters to vote for a specific candidate, garnering critical votes of electors in the Electoral College",
+            "solutions": "advertising, theme songs, stump speeches, negative campaigning, direct contact between voters and candidates",
+            "key_features": "photographic techniques, statistical analysis, science of influence and affect"
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Digital Files": {
+                    "Crop Fee": 100,
+                    "Oversize Copy": 10,
+                    "Digital File (Hi RES)": 25,
+                    "Digital Scan (Original Material)": 50,
+                    "Digital Scan (Original negative)": 50,
+                    "Microfilm/Fiche Tiff": 1.5,
+                    "Microfilm/Fiche Tiff to PDF": 1.5,
+                    "Microfilm/Fiche Tiff to PDF + OCR": 2,
+                    "Digital Scan (Copy Negative)": 45,
+                    "Digital Scan (Color Trans)": 45,
+                    "Digital Scan (Glass Negative)": 45,
+                    "Digital Photocopy (PDF)": 1.5
+                },
+                "Photographic Prints (Glossy or Matte)": {
+                    "8 X 10 B/W": 35,
+                    "11 X 14 B/W": 45,
+                    "16 X 20 B/W": 55,
+                    "20 X 24 B/W": 75,
+                    "8 X 10 Color": 55,
+                    "11 X 14 Color": 65,
+                    "16 X 20 Color": 100,
+                    "20 X 24 Color": 150,
+                    "Oversize per sq. ft. B/W": 35,
+                    "Oversize per sq. ft. Color": 45
+                },
+                "Certifications": {
+                    "Photocopy Color": 5,
+                    "Photocopy B/W": 20,
+                    "Certification Photo": 75,
+                    "Certification Copy": 50
+                },
+                "Microfilm": {
+                    "Microfilm Positive US Film": 100,
+                    "Microfilm Positive Non US Film": 115
+                },
+                "Service Fees": {
+                    "Process Fee (1 - 5 items)": 25,
+                    "Process Fee (6 - 10 items)": 35,
+                    "Process Fee (11 - 20 items)": 50,
+                    "Process Fee (Over 21 items)": 75,
+                    "Rush Fee 10 Days": 300,
+                    "Rush Fee < 5 Days": 500,
+                    "Special Handling fee": 25
+                },
+                "Shipping and Handling": {
+                    "Shipping US up to $40": 15,
+                    "Shipping US $40.01 - $100": 20,
+                    "Shipping US $100.01 - 200.00": 25,
+                    "Shipping US $200.01 - $300.00": 35,
+                    "Shipping US over $300.01": "15%",
+                    "Shipping Outside US up to $40": 35,
+                    "Shipping Outside US $40.01 - $100": 45,
+                    "Shipping Outside US $100.01 - 200.00": 55,
+                    "Shipping Outside US $200.01 - $300.00": 75,
+                    "Shipping Outside US $300.01": "30%",
+                    "Sent On CD": 15,
+                    "Additional CD": 5,
+                    "Digital Sent to email/FTP/HTTP Min 1 image": 5,
+                    "Digital Sent to email/FTP/HTTP 6 or more per image": 1
+                }
+            }
+        }
+    },
+    "openelectiondata.net": {
+        "campaigns": {
+            "call_to_action": "Sign up for updates",
+            "usecases": [
+                "Presenting ideas and positions to voters",
+                "Reaching voters through traditional and new media",
+                "Delivering messages through public events and written materials",
+                "Establishing physical premises for campaign activities"
+            ],
+            "solutions": "Providing equitable opportunities for contestants to convey their positions to citizens and compete for votes",
+            "key_features": [
+                "Official election campaign timetable",
+                "Campaign regulations and restrictions",
+                "Data on party and candidate operations",
+                "Allocation of public resources for campaigning",
+                "Information about media allocations and decision-making processes",
+                "Data on applications for rally permits"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.sos.ca.gov": {
+        "campaign_finance_and_lobbying_activities": {
+            "call_to_action": "Sign up for e-updates",
+            "usecases": "Campaign finance and lobbying activities",
+            "solutions": "Administers provisions of California's Political Reform Act, including detailed disclosure of the role of money in California politics",
+            "key_features": "Detailed disclosure of contributions and expenditures in connection with campaigns supporting or opposing state and local candidates and ballot measures, as well as the disclosure of expenditures made in connection with lobbying the State Legislature and attempting to influence administrative decisions of state government"
+        },
+        "electronic_filing_information": {
+            "call_to_action": "To File Electronically",
+            "usecases": "Electronic filing of campaign and lobbying documents",
+            "solutions": "Provides information and resources for electronic filing of campaign and lobbying documents",
+            "key_features": "Application for Password, Cal-Online Free Online Filing Forms, Approved Vendor Information"
+        },
+        "campaign_disclosure_and_requirements": {
+            "call_to_action": "Getting Started",
+            "usecases": "Campaign finance disclosure and requirements",
+            "solutions": "Provides information and resources for campaign finance disclosure and requirements",
+            "key_features": "Campaign Forms and Instructions, Penalties for Late Filing"
+        },
+        "lobbying_disclosure_requirements": {
+            "call_to_action": "Ethics Training",
+            "usecases": "Lobbying disclosure requirements",
+            "solutions": "Provides information and resources for lobbying disclosure requirements",
+            "key_features": "Ethics Training, Filing Deadlines, Required Documents for Registration, Amendment, Termination, and Withdrawal, Required Documents for Quarterly Disclosure Reports, Penalties for Late Filing"
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "inSupport": {
+                    "Consumer Watchdog Campaign to Lower Drug Prices, Yes on 61, Major Funding by AIDS Healthcare Foundation": "$312",
+                    "Yes on Prop 61, Californians for Lower Drug Prices, with major funding by AIDS Healthcare Foundation and California Nurses Association PAC": "$19,087,188"
+                },
+                "inOpposition": {
+                    "No on Prop 61 - Californians Against the Deceptive RX Proposition, a Coalition of Veterans Doctors Patient Advocates Seniors Taxpayers and Members of Pharmaceutical Research and Manufacturers of Amer": "$109,106,161"
+                }
+            }
+        }
+    },
+    "ocpf.us": {
+        "product_name": "Massachusetts Office of Campaign and Political Finance",
+        "services": {
+            "Filers": {
+                "criteria": {
+                    "User Interface": "Easy to navigate and find relevant information",
+                    "Information Availability": "Provides information on filers, candidate and committee types, filing schedules, and participating banks",
+                    "Accessibility": "Accessible for filers to log in and organize with OCPF"
+                },
+                "call_to_action": "Filer Listing, Filing Schedules"
+            },
+            "Legal": {
+                "criteria": {
+                    "Database": "Searchable database for legal information",
+                    "Contribution Limits": "Information on contribution limits and agency actions",
+                    "Resources": "Provides campaign finance law, public financing law, OCPF regulations, advisory opinions, interpretive bulletins, memoranda, and guidance letters"
+                },
+                "call_to_action": "Searchable Database, Contribution Limits"
+            },
+            "Reports": {
+                "criteria": {
+                    "Log": "Report log for recent activity",
+                    "Candidate Reports": "Provides reports for legislative races, statewide candidates, mayoral reports, etc.",
+                    "Non-Candidate Filer Reports": "Reports for PACs, ballot questions, local party reports, segregated funds, etc.",
+                    "Independent Spending Reports": "Reports for independent expenditure, electioneering communications, independent ballot question spending, etc."
+                },
+                "call_to_action": "Report Log, Candidate Reports, PAC Reports"
+            },
+            "Data": {
+                "criteria": {
+                    "Searchable Data": "Provides searchable campaign finance data and election charts",
+                    "Download": "Allows users to download data"
+                },
+                "call_to_action": "Searchable Campaign Finance Data, Download Data"
+            },
+            "Forms & Education": {
+                "criteria": {
+                    "Guides & Forms": "Provides guides, forms, and publications for education",
+                    "Support": "Support for clerks and banks"
+                },
+                "call_to_action": "Guides, Forms & Publications, Support"
+            },
+            "About": {
+                "criteria": {
+                    "Information": "Information about OCPF, director's message, career, and contact details"
+                },
+                "call_to_action": "Contact Us"
+            }
+        },
+        "call_to_action": "Filer Listing, Filing Schedules, Searchable Database, Contribution Limits, Report Log, Candidate Reports, PAC Reports, Searchable Campaign Finance Data, Download Data, Guides, Forms & Publications, Support, Contact Us",
+        "usecases": "Campaign finance reporting, legal research, data analysis, educational resources",
+        "solutions": "Access to campaign finance information, legal resources, reports, and data for political campaign management",
+        "key_features": "Searchable database, contribution limits information, report log, candidate reports, downloadable data, educational resources, support",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.sos.la.gov": {
+        "services": {
+            "Commercial Database": {
+                "call_to_action": "Search for Louisiana Business Filings",
+                "usecases": "Searching for business filings in Louisiana",
+                "solutions": "Access to commercial database for business filings in Louisiana",
+                "key_features": "Search functionality, access to business filing records"
+            },
+            "Commercial Online Filing": {
+                "call_to_action": "File Business Documents",
+                "usecases": "Online filing of business documents",
+                "solutions": "Convenient online platform for filing business documents",
+                "key_features": "Online document submission, secure filing process"
+            },
+            "Election Qualifying": {
+                "call_to_action": "Qualify for an Election",
+                "usecases": "Qualifying for an election in Louisiana",
+                "solutions": "Guidance and resources for election qualification process",
+                "key_features": "Qualification criteria, application process"
+            },
+            "Election Results": {
+                "call_to_action": "Find Results & Statistics",
+                "usecases": "Accessing election results and statistics",
+                "solutions": "Provides election outcome data and analysis",
+                "key_features": "Searchable results, historical data"
+            },
+            "Notary Public Database": {
+                "call_to_action": "Search for Louisiana Notaries",
+                "usecases": "Finding registered notaries in Louisiana",
+                "solutions": "Access to notary public database for verification",
+                "key_features": "Notary search functionality, verification of notary status"
+            },
+            "Voter Lists": {
+                "call_to_action": "Purchase Voter Lists",
+                "usecases": "Acquiring voter lists for specific purposes",
+                "solutions": "Provides access to voter lists for authorized use",
+                "key_features": "List purchasing options, data security measures"
+            },
+            "Voter Portal": {
+                "call_to_action": "Register to Vote",
+                "usecases": "Online voter registration",
+                "solutions": "Facilitates voter registration process",
+                "key_features": "User-friendly registration interface, data protection"
+            },
+            "Voter Registration": {
+                "call_to_action": "Register to Vote",
+                "usecases": "Registering to vote in Louisiana",
+                "solutions": "Guidance and resources for voter registration",
+                "key_features": "Registration forms, eligibility verification"
+            },
+            "Locate Historical Records": {
+                "call_to_action": "Research Historical Records",
+                "usecases": "Finding and accessing historical records",
+                "solutions": "Provides access to historical archives and records",
+                "key_features": "Searchable database, archival resources"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    }
+}
