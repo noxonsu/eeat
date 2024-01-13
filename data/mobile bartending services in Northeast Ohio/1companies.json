@@ -2,12 +2,14 @@
     "www.thethirstyfilly.com": {
         "url": "https://www.thethirstyfilly.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.thethirstyfilly.com/services.html"
+        "priceAndPlansCrawled": "https://www.thethirstyfilly.com/services.html",
+        "5prompt_Hash": "f1a9bb3833b68e27aa2eda4f1b24f6e8"
     },
     "www.thethirstygoose.com": {
         "url": "https://www.thethirstygoose.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.thethirstygoose.com/copy-of-rentals-packages"
+        "priceAndPlansCrawled": "https://www.thethirstygoose.com/copy-of-rentals-packages",
+        "5prompt_Hash": "f1a9bb3833b68e27aa2eda4f1b24f6e8"
     },
     "www.theknot.com": {
         "url": "https://www.theknot.com/marketplace/bar-services-cleveland-oh",
@@ -17,17 +19,20 @@
     "www.happycamperbarcar.com": {
         "url": "https://www.happycamperbarcar.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.happycamperbarcar.com/pricing.html"
+        "priceAndPlansCrawled": "https://www.happycamperbarcar.com/pricing.html",
+        "5prompt_Hash": "f1a9bb3833b68e27aa2eda4f1b24f6e8"
     },
     "www.drinkslingersohio.com": {
         "url": "https://www.drinkslingersohio.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.drinkslingersohio.com/pricing"
+        "priceAndPlansCrawled": "https://www.drinkslingersohio.com/pricing",
+        "5prompt_Hash": "f1a9bb3833b68e27aa2eda4f1b24f6e8"
     },
     "twistbartendingservice.com": {
         "url": "https://twistbartendingservice.com/oh/cleveland-bartenders/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://twistbartendingservice.com/complete-bartending-package/"
+        "priceAndPlansCrawled": "https://twistbartendingservice.com/complete-bartending-package/",
+        "5prompt_Hash": "f1a9bb3833b68e27aa2eda4f1b24f6e8"
     },
     "www.thumbtack.com": {
         "url": "https://www.thumbtack.com/oh/cleveland/mobile-bartending-services",
@@ -37,7 +42,8 @@
     "www.thelittlebooziebar.com": {
         "url": "https://www.thelittlebooziebar.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.thelittlebooziebar.com/servicesproducts"
+        "priceAndPlansCrawled": "https://www.thelittlebooziebar.com/servicesproducts",
+        "5prompt_Hash": "f1a9bb3833b68e27aa2eda4f1b24f6e8"
     },
     "www.ohiobartendingservices.com": {
         "url": "https://www.ohiobartendingservices.com/",
@@ -47,12 +53,14 @@
     "bartenza.com": {
         "url": "https://bartenza.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://bartenza.com/mixx-mobile-bar-1"
+        "priceAndPlansCrawled": "https://bartenza.com/mixx-mobile-bar-1",
+        "5prompt_Hash": "f1a9bb3833b68e27aa2eda4f1b24f6e8"
     },
     "www.alpinetapmobilebar.com": {
         "url": "https://www.alpinetapmobilebar.com/mobile-bar",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.alpinetapmobilebar.com/mobile-bar"
+        "priceAndPlansCrawled": "https://www.alpinetapmobilebar.com/mobile-bar",
+        "5prompt_Hash": "f1a9bb3833b68e27aa2eda4f1b24f6e8"
     },
     "www.facebook.com": {
         "url": "http://www.facebook.com/CharBarMobile/",
@@ -102,7 +110,8 @@
     "todaysbride.com": {
         "url": "https://todaysbride.com/vendor/thirsty-filly-mobile-bar-service/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://pros.todaysbride.com/rates/"
+        "priceAndPlansCrawled": "https://pros.todaysbride.com/rates/",
+        "5prompt_Hash": "f1a9bb3833b68e27aa2eda4f1b24f6e8"
     },
     "www.cantonrep.com": {
         "url": "https://www.cantonrep.com/story/lifestyle/food/2023/07/19/nightlife-mobile-bartending-5-things-to-know-about-the-party-on-wheels/70409855007/",
@@ -112,12 +121,14 @@
     "www.clevelandeventbartenders.com": {
         "url": "https://www.clevelandeventbartenders.com/in-home",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.clevelandeventbartenders.com/in-home"
+        "priceAndPlansCrawled": "https://www.clevelandeventbartenders.com/in-home",
+        "5prompt_Hash": "f1a9bb3833b68e27aa2eda4f1b24f6e8"
     },
     "premierpour.com": {
         "url": "https://premierpour.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://premierpour.com/services/"
+        "priceAndPlansCrawled": "https://premierpour.com/services/",
+        "5prompt_Hash": "f1a9bb3833b68e27aa2eda4f1b24f6e8"
     },
     "www.zola.com": {
         "url": "https://www.zola.com/wedding-vendors/wedding-bar-services/the-thirsty-goose-mobile-bar",
@@ -132,7 +143,8 @@
     "socialbutterflymobilebar.com": {
         "url": "https://socialbutterflymobilebar.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://socialbutterflymobilebar.com/services"
+        "priceAndPlansCrawled": "https://socialbutterflymobilebar.com/services",
+        "5prompt_Hash": "f1a9bb3833b68e27aa2eda4f1b24f6e8"
     },
     "aroundtherimbar.com": {
         "url": "https://aroundtherimbar.com/",
@@ -152,17 +164,20 @@
     "www.shortandstoutbar.com": {
         "url": "https://www.shortandstoutbar.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.shortandstoutbar.com/pricing"
+        "priceAndPlansCrawled": "https://www.shortandstoutbar.com/pricing",
+        "5prompt_Hash": "f1a9bb3833b68e27aa2eda4f1b24f6e8"
     },
     "bartenderelite.com": {
         "url": "https://bartenderelite.com/hire-a-mobile-bartender-in-cleveland-ohio-cocktail-parties/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://bartenderelite.com/private-bartender/"
+        "priceAndPlansCrawled": "https://bartenderelite.com/private-bartender/",
+        "5prompt_Hash": "f1a9bb3833b68e27aa2eda4f1b24f6e8"
     },
     "www.mixologyincorporated.llc": {
         "url": "https://www.mixologyincorporated.llc/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.mixologyincorporated.llc/event-details/fathers-day-mix-and-sip"
+        "priceAndPlansCrawled": "https://www.mixologyincorporated.llc/event-details/fathers-day-mix-and-sip",
+        "5prompt_Hash": "f1a9bb3833b68e27aa2eda4f1b24f6e8"
     },
     "www.michaudscatering.com": {
         "url": "https://www.michaudscatering.com/packages/bar-services",
@@ -177,11 +192,13 @@
     "www.elitemobilebar.com": {
         "url": "https://www.elitemobilebar.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.elitemobilebar.com/mobile-bar-service"
+        "priceAndPlansCrawled": "https://www.elitemobilebar.com/mobile-bar-service",
+        "5prompt_Hash": "f1a9bb3833b68e27aa2eda4f1b24f6e8"
     },
     "www.mangosbartending.com": {
         "url": "https://www.mangosbartending.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.mangosbartending.com/packages"
+        "priceAndPlansCrawled": "https://www.mangosbartending.com/packages",
+        "5prompt_Hash": "f1a9bb3833b68e27aa2eda4f1b24f6e8"
     }
 }

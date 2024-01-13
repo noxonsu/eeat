@@ -1,0 +1,552 @@
+{
+    "www.thethirstyfilly.com": {
+        "mobile_bartending_services": [
+            {
+                "name": "The Thirsty Filly",
+                "location": "Northeast Ohio",
+                "call_to_action": "Let's Chat",
+                "usecases": "Weddings, Rehearsal Dinners, Graduations, Corporate Events, Public Events & More",
+                "solutions": "Mobile bartending service with vintage horse trailers converted into bars",
+                "key_features": [
+                    "Custom cocktail menu",
+                    "Draft beer taps",
+                    "Rustic decor",
+                    "Award-winning",
+                    "Customizable menu"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "www.thethirstygoose.com": {
+        "mobile_bartending_services": {
+            "The Thirsty Goose": {
+                "call_to_action": "Contact Us",
+                "usecases": "Weddings, receptions, graduations, social gatherings",
+                "solutions": "Experiential mobile bar service, rental options, bartending services",
+                "key_features": [
+                    "Curated cocktail menu",
+                    "Alcohol ordering and delivery",
+                    "Supply of bar essentials",
+                    "Variety of bar setups"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "found",
+            "priceAndPlans": {
+                "Straight Up": "$5.50/guest",
+                "Shaken, Not Stirred": "$8.50/guest",
+                "On The Rocks": "$7.50/guest",
+                "With A Twist": "$10.50/guest"
+            }
+        }
+    },
+    "www.happycamperbarcar.com": {
+        "mobile_bartending_services": {
+            "Happy Camper": {
+                "call_to_action": "Get A Quote",
+                "usecases": "Event bartending, cocktail catering, mobile bar services",
+                "solutions": "1972 Airstream Bar Car, Shiplap Bars, Photo Booth",
+                "key_features": [
+                    "Experienced bartenders",
+                    "Custom mixers made from scratch with natural ingredients",
+                    "World class cocktails including Moscow Mules and innovative drinks",
+                    "Six tap handles for homemade mixers, signature cocktails, and craft beer on draft"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.drinkslingersohio.com": {
+        "mobile_bartending_services": [
+            {
+                "name": "Drink Slingers",
+                "about": "Northeast Ohio's premier bartending service providing professional bartenders for all occasions. They carry $1,000,000 in liquor liability insurance and aim to make the entire process from planning to event clean-up as easy as possible for the client.",
+                "contact": "Contact Us",
+                "client_reviews": [
+                    {
+                        "reviewer_name": "Michelle W.",
+                        "review": "Kenny was amazing! He was prompt and brought a mobile bar as my venue didn't have one. He even was willing to stay an extra hour when we didn't want the fun to stop! Polite and professional - I will definitely be using their services again in the future!"
+                    },
+                    {
+                        "reviewer_name": "Kellee C.",
+                        "review": "We hired Kenny from Drink Slingers to work our wedding. He was amazing. When he called us the week before to go over details, we had no idea how much alcohol or mixers we would need for the event. He talked us through it and told us exactly how much of each type of liquor and mixers we would need. When it came time for the wedding, he was there early to set up, and our guests were very pleased with his knowledge and professionalism. Thanks for being part of our special day and making there be one less thing for this bride to worry about!"
+                    },
+                    {
+                        "reviewer_name": "Daralyn B.",
+                        "review": "Our venue recommended a bartending service that was way out of our budget, so I turned to Thumbtack to find someone more affordable. I connected with Drink Slingers who was offering the exact same service for half the price. They were responsive in their initial communication, contacted me before my wedding to make sure everything was in order and then I didn't have to worry about a thing from there. I even completely forgot to set aside their payment and they were extremely understanding at the end of the night when I had to Venmo them instead. I would highly recommend Drink Slingers for your wedding or any event!"
+                    },
+                    {
+                        "reviewer_name": "Elaine T.",
+                        "review": "These guys did a great job overall. I received many compliments about them for quick service, good drinks, and very personable. My only issue was they showed up 10 minutes before the start of my daughter's wedding. We had agreed on 2:30 and I agreed to pay them for 2 extra hours, but they didn't get there until 3:20. That was a little stress that I didn't need at that moment!"
+                    },
+                    {
+                        "reviewer_name": "Kate L.",
+                        "review": "Kenny was a great bartender. He set up the bar beautifully and monitored supplies all night. He arrived early to make sure that we had a ready-to-go bar upon our guests' arrival. He was also super friendly with the little kids there!"
+                    },
+                    {
+                        "reviewer_name": "Savannah C.",
+                        "review": "Kenny rocked the show! He bartended our event without a hitch; smooth running machine! Kenny's prices are reasonable and realistic, but his service is exceptional! He was very thorough on our several calls, and also helped with recommendations on what alcohols I should buy and the quantity. I could not have chosen a better person and company for my event. Thank you, Kenny, for being another one of my top-notch vendors!!"
+                    },
+                    {
+                        "reviewer_name": "Alyssa J.",
+                        "review": "Super accommodating. Very friendly and professional. Even let me pay for an extra hour that wasn't scheduled. Everyone was having a blast and I didn't want to kick them out. Great value on great service."
+                    },
+                    {
+                        "reviewer_name": "Rochelle J.",
+                        "review": "Kenny was hired to service a 50th birthday party on 1/11 - the weather turned terrible, he still made it to my event at the time he stated and took care of my guest well. I would suggest anyone who wants a Great Bartender to hire him - hands down. He cleaned up behind himself and boxed up the beverages that were left over. I cannot say enough about his services."
+                    },
+                    {
+                        "reviewer_name": "Samantha B.",
+                        "review": "Kenny and his team are 100% flawless. He was such a help multiple times before my wedding, and was super cool and everyone loved him and his other bartender that he brought. I would absolutely recommend him to everyone and would hire him again in a heartbeat. Thank you so much Drink Slingers!!"
+                    },
+                    {
+                        "reviewer_name": "Kia T.",
+                        "review": "The bartender was fantastic in terms of how he interacted with our guests I loved him! The company itself was very responsive and professional. The only complaint I had was that we had a limited amount of alcohol and he made the drinks very strong at first. We became low on liquor fast. I wouldn't have minded but we only had to mixed drinks in terms of bar service so we only bought six bottles of liquor of each. Just something to discuss with the bartender before the wedding starts or have the day of coordinator discuss is all I'm not upset in the slightest I had a great day and I didn't have to worry about it"
+                    },
+                    {
+                        "reviewer_name": "Tony C.",
+                        "review": "They were great, made for a food night for everyone. Recommend Drink Slingers for any event. Will use them again in a heartbeat"
+                    },
+                    {
+                        "reviewer_name": "Marcy T.",
+                        "review": "While I never actually made it up to the bar myself, countless wedding guests came up to me to say how great the bartenders were! They were so efficient that I never once saw a line at the bar in over 6 hours!! They were personable, knowledgeable, and fast.. I couldn\u2019t have made a better choice. Kenny called the week of to finalize details.. I didn\u2019t have to worry about calling him first. They arrived an hour early to set up and even cut our fruit for garnishes! Don\u2019t choose anyone else.. you won\u2019t regret hiring Kenny and his staff!"
+                    },
+                    {
+                        "reviewer_name": "Nicole M.",
+                        "review": "We could not have been happier with our choice of bartending services for our wedding at Happy Days Lodge. Kenny and his staff were super polite and accommodating to us and all of our guests. We did run out of liquor halfway through the reception... however, we gave Kenny extra cash before the wedding to grab more if needed (which he did), and everything was fine! Kenny was a pleasure to work with and made us feel super comfortable throughout the entire planning process!"
+                    },
+                    {
+                        "reviewer_name": "Gretchen M.",
+                        "review": "We hired Drink Slingers for our casual wedding Reception. Kenny was extremely professional- he responded quickly to my emails/texts & helped me plan our party. Matt was our bartender, he arrived on time, set up his work area quickly & handled our party effortlessly. I can\u2019t say enough good things about Drink Slingers!! Do not hesitate to hire their services for your event!"
+                    },
+                    {
+                        "reviewer_name": "Christina H",
+                        "review": "Kenny and Drink Slingers were wonderful to work with! Kenny was available to answer any questions I had, and was very knowledgeable on how much alcohol I would need for my event. They kept the party going, and handled any problems that came their way. We had an emergency venue change 5 days before our wedding, and Kenny didn't even blink an eye; he just accommodated to what we needed."
+                    }
+                ],
+                "call_to_action": "Contact Us",
+                "usecases": "Weddings, birthday parties, corporate events, casual gatherings",
+                "solutions": "Professional bartenders, guidance on alcohol and mixer quantities, flexible to client needs, portable bar and other event items provided, early set-up and late clean-up at no extra cost, no deposit or booking fee",
+                "key_features": [
+                    "Professional bartenders",
+                    "Guidance on alcohol and mixer quantities",
+                    "Flexible to client needs",
+                    "Portable bar and other event items provided",
+                    "Early set-up and late clean-up at no extra cost",
+                    "No deposit or booking fee"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "twistbartendingservice.com": {
+        "mobile_bartending_services": [
+            {
+                "name": "With A Twist Cleveland Bartending Service",
+                "call_to_action": "GET A QUOTE",
+                "usecases": [
+                    "Weddings",
+                    "Parties",
+                    "Events",
+                    "Custom Events"
+                ],
+                "solutions": "Expert bartenders and bar service for parties of any size, including specialty drink design, alcohol ordering or support, and providing all equipment needed for full bar service.",
+                "key_features": [
+                    "Fully trained and certified staff",
+                    "Liquor and general liability insurance coverage",
+                    "Specialty drink design",
+                    "Alcohol ordering and delivery support",
+                    "Portable bar, ice, soda, mixers, garnish, cups, napkins",
+                    "Customized solutions for unique events"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "Complete Bar Package": {
+                    "price": "New Lower Prices!",
+                    "description": "Affordable | Professional | Includes Bartender, Liquor Liability Insurance, Portable Bar With Linens, Coolers, Disposable Cups, Straws, Beverage Napkins, Water, Mixers, Juice, Soda, Garnish and Ice"
+                }
+            }
+        }
+    },
+    "www.thelittlebooziebar.com": {
+        "The Little Boozie Bar LLC": {
+            "call_to_action": "Get in touch",
+            "usecases": [
+                "Weddings",
+                "Bridal Showers",
+                "Bachelorette/Bachelor parties",
+                "Birthday Parties",
+                "Private Events",
+                "Corporate Events"
+            ],
+            "solutions": "Bringing a vintage horse trailer converted into a mobile bar, along with a wooden stationary bar, and bartending services to events in Northeast Ohio. Offering signature drink menus for various occasions and customizable drink options.",
+            "key_features": [
+                "Vintage horse trailer mobile bar",
+                "Wooden stationary bar",
+                "Bartending services",
+                "Signature drink menus",
+                "Customizable drink options"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": [
+                {
+                    "name": "The Pony",
+                    "description": "Under 100 guest, Certified Bartender, 5 Hours of bartending service, Beer and wine service, Cocktail service, Mixers and garnishes, Ice, Alcohol is not included",
+                    "price": "Inquire for pricing"
+                },
+                {
+                    "name": "The Thoroughbred",
+                    "description": "100-150 guest, Certified Bartender, 5 Hours of bartending service, Beer and wine service, Cocktail service, Mixers and garnishes, Ice, Alcohol is not included",
+                    "price": "Inquire for pricing"
+                },
+                {
+                    "name": "The Draft",
+                    "description": "150 + guest, Certified Bartender, 5 Hours of bartending service, Beer and wine service, Cocktail service, Mixers and garnishes, Ice, Alcohol is not included",
+                    "price": "Inquire for pricing"
+                }
+            ],
+            "businessModel": "Event bartending services with pricing based on the size of the party. Also offers merchandise for purchase."
+        }
+    },
+    "bartenza.com": {
+        "mobile_bartending_services": {
+            "Bartenza": {
+                "call_to_action": "Contact Us",
+                "usecases": "Weddings, special occasions, corporate events, festivals",
+                "solutions": "Mobile bartending, wait staff service, MIXX mobile bar truck, neon sign rental",
+                "key_features": "Craft cocktails, customized drink menus, MIXX mobile bar truck, all occasion neon signs"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.alpinetapmobilebar.com": {
+        "Alpine Tap": {
+            "call_to_action": "BOOK NOW",
+            "usecases": "Mobile bar trailer rental for events and parties",
+            "solutions": "Customized bar service packages for events, including bartenders, custom menu, taps for beer, ice, cups/napkins/straws, water dispenser, and additional add-ons",
+            "key_features": [
+                "Custom menu",
+                "Signature cocktails",
+                "Elevated garnishes",
+                "Liquor liability and general liability insurance"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "mobileBarTrailerRental": "$1250 + PACKAGE PRICE",
+                "packages": [
+                    {
+                        "name": "Package 1",
+                        "price": "$4 per guest",
+                        "includes": "Beer, Wine, Seltzers",
+                        "details": "Up to 5 hours of Bar Service, Two Bartenders, Custom Menu, Taps for Beer, Ice, Cups/Napkins/Straws, Water Dispenser"
+                    },
+                    {
+                        "name": "Package 2",
+                        "price": "$6 per guest",
+                        "includes": "2 Signature Cocktails, Beer, Seltzers, Wine, Liquor",
+                        "details": "Up to 5 hours of Bar Service, Two Bartenders, Custom Cocktail Menu, Elevated Garnishes, 4 mixers (additional charge to add mixer), Taps for Beer, Ice, Cups/Napkins/Straws, Water Dispenser"
+                    },
+                    {
+                        "name": "Package 3",
+                        "price": "$8 per guest",
+                        "includes": "3 Signature Cocktails, Beer, Seltzers, Wine, Liquor",
+                        "details": "Up to 5 hours of Bar Service, Two Bartenders, Custom Cocktail Menu, Elevated Garnishes, 5 mixers (additional charge to add mixer), Taps for Beer, Ice, Cups/Napkins/Straws, Water Dispenser"
+                    }
+                ]
+            }
+        }
+    },
+    "todaysbride.com": {
+        "mobile_bartending_services": [
+            {
+                "name": "The Thirsty Filly",
+                "location": "Northeast Ohio",
+                "phone": "440-563-6225",
+                "description": "The Thirsty Filly is Northeast Ohio\u2019s premier mobile bartending service. They have converted vintage horse trailers into a bartending hotspot with rustic charm and wooden surfaces. They aim to provide rustic cocktail creations for events, weddings, birthdays, and celebrations.",
+                "call_to_action": "Request Pricing",
+                "usecases": [
+                    "Events",
+                    "Weddings",
+                    "Birthdays",
+                    "Celebrations"
+                ],
+                "solutions": "Rustic cocktail creations, vintage horse trailers converted into bartending hotspot",
+                "key_features": [
+                    "Rustic charm",
+                    "Wooden surfaces",
+                    "Vintage horse trailers"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Wedding Show Booths": {
+                    "startingAt": "$500"
+                },
+                "Print Advertisements": {
+                    "startingAt": "$600"
+                },
+                "Online Profile Listings": {
+                    "startingAt": "$300"
+                },
+                "Mega-Marketing Packages": {
+                    "Bronze": {
+                        "startingAt": "$112.50 per month"
+                    },
+                    "Gold": {
+                        "startingAt": "$258.33 per month"
+                    },
+                    "Diamond": {
+                        "startingAt": "$416.67 per month"
+                    }
+                }
+            }
+        }
+    },
+    "www.clevelandeventbartenders.com": {
+        "service_name": "Cleveland Event Bartenders",
+        "call_to_action": "Plan Your Event!",
+        "usecases": [
+            "Professional Bartending Services",
+            "Corporate Events & Private Parties",
+            "In-Home Private Parties",
+            "Whiskey Island Corporate Events",
+            "Private Parties",
+            "In-Home Events",
+            "Event Centers"
+        ],
+        "solutions": "Assistance with setting up a basic bar within specified budget, providing answers to common questions about setting up a home bar, collaboration on creating specialty drink menus, and helping plan a trip to the liquor store for alcohol choices and necessities.",
+        "key_features": {
+            "Professional Bartending Services": "Experienced bartenders with insight to help set up in-home bar areas efficiently.",
+            "Specialty Drink Menus": "Collaboration with clients on tastes and preferences to create unique cocktails for events.",
+            "Assistance with Liquor Store Planning": "Guidance on navigating the liquor store, choosing alcohol, mixes, garnishes, and quantities based on guest list and budget.",
+            "Home Bar Setup Assistance": "Help with setting up a basic bar within specified budget and answering common questions about setting up a home bar."
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "premierpour.com": {
+        "Premier Pour Bartending": {
+            "call_to_action": "Request a Quote",
+            "usecases": [
+                "Weddings",
+                "Corporate Events",
+                "Private Parties",
+                "Fundraisers"
+            ],
+            "solutions": "Full service mobile bartending solution",
+            "key_features": [
+                "Custom Bar Design",
+                "Cost Efficient Drink Services",
+                "Professional Bartending Services",
+                "Simple Process for Event Planning",
+                "Mobile Bartending Service"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "socialbutterflymobilebar.com": {
+        "The Social Butterfly": {
+            "call_to_action": "Book Now",
+            "usecases": [
+                "Weddings",
+                "Bridal Showers",
+                "Birthday Parties",
+                "Family Reunions",
+                "Graduation Parties",
+                "Holiday Parties"
+            ],
+            "solutions": "Bartending services, bar rentals, and self-serve bars for special occasions",
+            "key_features": "Custom cocktails, one-of-a-kind guest experience, travel to customer's location",
+            "additional_info": "Serves Northwest Ohio and southern Michigan, travel fee for locations over 50 miles from Toledo, Ohio",
+            "contact": {
+                "email": "jen.socialbutterflymobilebar@gmail.com",
+                "phone": "419-504-1893"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Pearl\u2019s Pour Service": "$1,230.25",
+                "Pearl\u2019s Craft Service": "$1,330",
+                "Pearl\u2019s Basic Bar Service": "$1,330",
+                "Pearl\u2019s Full Bar Service": "$1,429.75",
+                "Moose\u2019s rental rates": "inquire for details",
+                "Bartending with supplies packages": "$578.75",
+                "Bartenders for hire without supplies": "$455",
+                "Mimosa bars": "$198.64",
+                "Bloody Mary bars": "$244.69"
+            }
+        }
+    },
+    "www.shortandstoutbar.com": {
+        "error": "Unable to access the website for shortandstoutbar.com. Please provide an alternative source or website for analysis.",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "bartenderelite.com": {
+        "mobile_bartending_services": [
+            {
+                "name": "Bartenders On Demand",
+                "call_to_action": "Get A Free Quote",
+                "usecases": [
+                    "Private events",
+                    "Parties",
+                    "Weddings",
+                    "Corporate events"
+                ],
+                "solutions": "Connecting event organizers with experienced and skilled mobile bar companies across the United States",
+                "key_features": [
+                    "Crafted cocktails",
+                    "Professional service",
+                    "Customized menu",
+                    "Experienced and skilled bartenders"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Private Home Event (Non-Wedding)": "$300 per bartender for a minimum of 4 hours",
+                "Wedding Event": "$600 per bartender for a minimum of 4 hours",
+                "Corporate Event": "$500 per bartender for a minimum of 4 hours",
+                "Birthday Celebration": "$300 per bartender for a minimum of 4 hours",
+                "Holiday Party": "$600 per bartender for a minimum of 4 hours",
+                "Graduation Party": "$300 per bartender for a minimum of 4 hours",
+                "Cocktail Party": "$500 per bartender for a minimum of 4 hours",
+                "Fundraising Event": "$500 per bartender for a minimum of 4 hours",
+                "Social Gathering": "$400 per bartender for a minimum of 4 hours",
+                "Anniversary Party": "$400 per bartender for a minimum of 4 hours"
+            }
+        }
+    },
+    "www.mixologyincorporated.llc": {
+        "Mixology Incorporated": {
+            "call_to_action": "Request a consultation",
+            "usecases": [
+                "Wedding events",
+                "Corporate events",
+                "Private parties",
+                "Special occasions",
+                "Kids and teen parties",
+                "Bar training"
+            ],
+            "solutions": "Mobile beverage and bartending services, rentals, bar training",
+            "key_features": [
+                "Customized drink menu",
+                "Signature selections and lavish libations",
+                "Elegance table with cocktails or mocktails",
+                "Champagne walls, fountains, and shooter towers",
+                "Margarita bar with multiple flavors",
+                "Paint and Sip events",
+                "Mix and Sip drink making parties",
+                "The Ultimate Ladies Night",
+                "Kids and Teens events with various offerings",
+                "Bar training and staff consultation"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "fathers day ticket": {
+                    "price": "$25.00",
+                    "serviceFee": "$0.63",
+                    "total": "$25.63"
+                }
+            }
+        }
+    },
+    "www.elitemobilebar.com": {
+        "Elite Mobile Bar": {
+            "call_to_action": "Contact",
+            "usecases": [
+                "Weddings",
+                "Corporate Events",
+                "Bridal Showers",
+                "Baby Showers",
+                "Anniversary Parties",
+                "Birthdays",
+                "Graduations",
+                "Grand Openings",
+                "Pool Parties",
+                "Bachelor/Bachelorette Parties",
+                "Public Events",
+                "Just Because"
+            ],
+            "solutions": "Self-contained mobile bar offering pre-populated packages, customizable experiences, or bartender hire",
+            "key_features": [
+                "Experience & Professionalism",
+                "Certified & Insurance",
+                "Signature cocktails",
+                "Customizable Menus",
+                "High-quality bar equipment",
+                "Excellent communication",
+                "Unmatched Customer Service"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Mobile Bar Base Pricing": {
+                    "0 - 100 Guests": "$1600",
+                    "100+ Guests": "$2400",
+                    "Rental": "4 Hour rental based on availability with one certified bartender. Additional hours & bartenders available."
+                },
+                "Mobile Bar Add-Ons": {
+                    "Hydration Cart": {
+                        "Pick 2": "$150",
+                        "Pick 3": "$195"
+                    },
+                    "Yard Games": "$150",
+                    "Photo Booth": "$450"
+                }
+            }
+        }
+    },
+    "www.mangosbartending.com": {
+        "Mangos Mobile Beverage Co.": {
+            "call_to_action": "Get A Quote",
+            "usecases": "Beverage catering for events, special occasions, soft drink packages, shaved ice",
+            "solutions": "Ultimate beverage catering experience on wheels, renowned for flawless execution, offers unparalleled lemonades, teas, and frozen drinks",
+            "key_features": "1972 converted horse trailer, equipped with beverage cooler, sinks, electricity, and storage, special price package includes 5 hours, 2 bartenders, basic garnishes & mixers, cups, napkins, straws"
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Bartending Only": "$195 Per Bartender, Each additional hour $30.00 per bartender",
+                "Wedding, Corporate Events, Private Events": "$3.50/PP",
+                "Ms. Maretini - Horse Trailer Bar": "Special Intro Price $775 for 5 Hours with 2 Bartenders"
+            },
+            "businessModel": "Mobile beverage services and bartending for events and special occasions, with customizable packages and add-ons"
+        }
+    }
+}
