@@ -1,0 +1,134 @@
+{
+    "title": "Optimized Data Transformation Features",
+    "intro": "This list represents the optimized features for data transformation platforms, gathered from analyzing 24 sites and 70 features.",
+    "features": {
+        "Data Integration": {
+            "title": "Data Integration",
+            "features": {
+                "Supported Data Sources": "100+ data sources including advertising, marketing, CRM, financial, and eCommerce platforms, ad-hoc files, google sheets, cloud storages, relational databases, and real-time data ingestion using webhooks (24)"
+            }
+        },
+        "Orchestration & Scheduling": {
+            "title": "Orchestration & Scheduling",
+            "features": {
+                "Scheduling and Orchestration": "Powerful scheduling and orchestration features with granular control over scheduling down to the exact minute (24)",
+                "Managed orchestration service for multitask workflows": true
+            }
+        },
+        "Data Movement Control": {
+            "title": "Data Movement Control",
+            "features": {
+                "Data Movement Control": "Granular control over what data to move, allowing the ability to choose down to field level what data is needed (24)"
+            }
+        },
+        "Reliability & Scalability": {
+            "title": "Reliability & Scalability",
+            "features": {
+                "Logging and Fault Tolerance": "Extensive logging, fault tolerance, and automated recovery for dependable and reliable pipelines (24)",
+                "Scalability": "Built to scale at an affordable cost, handling billions of rows of data and scaling with the business needs (24)"
+            }
+        },
+        "User Experience": {
+            "title": "User Experience",
+            "features": {
+                "Ease of Use": "Get started in minutes with self-serve UI or with the help of on-boarding experts, extensive documentation support and content available (24)"
+            }
+        },
+        "Data Transformation": {
+            "title": "Data Transformation",
+            "features": {
+                "Reverse ETL": "Activate data with Reverse ETL, sending data to the tools business teams use every day, setting up alerts & notifications, and syncing customer data across all platforms (24)",
+                "predictive_data_transformation": true,
+                "cloud_data_wrangling": true,
+                "generative_ai_analytics": true,
+                "Aggregator": "Performs aggregate calculations (24)",
+                "Data Masking": "Changes sensitive production data to realistic test data (24)",
+                "Expression": "Calculates values in a single row (24)",
+                "Joiner": "Joins source data from two related heterogeneous sources (24)",
+                "Filter": "Filters out rows in a mapping (24)",
+                "Lookup": "Looks up data in a flat file, relational table, view or synonym (24)",
+                "Rank": "Selects top or bottom rank of data (24)",
+                "Router": "Tests data for one or more conditions and routes rows of data (24)",
+                "Union": "Merges data from multiple pipelines or pipeline branches (24)",
+                "XML": "Adds an XML Source Qualifier transformation to a mapping (24)",
+                "Normalizer": "Receives a row that contains multiple-occurring columns and returns a row for each instance of the multiple-occurring data (24)",
+                "H2R and R2H Transformation": "Converts hierarchical data models to relational database and vice versa (24)",
+                "Automatic data quality testing": true,
+                "Efficient compute autoscaling for streaming": true,
+                "Deep visibility for pipeline monitoring and observability": true,
+                "Modular and version-controlled transformations using SQL and Python": true,
+                "Code-based tests for data transformations": true,
+                "Job scheduler for running data transformations on a regular cadence": true,
+                "Gather data from any source": 1,
+                "Securely store all your data": 1,
+                "Clean and harmonize data": 1,
+                "Visualize data where you want it": 1,
+                "SQL editor": 1,
+                " automated data transformation": 1,
+                " incremental transforms": 1,
+                "Code-free data transformation environment": 1,
+                "Data profiling capabilities": 1,
+                "14-day trial available": 1
+            }
+        },
+        "Security & Compliance": {
+            "title": "Security & Compliance",
+            "features": {
+                "Managed Data Warehouse": "Option to use a managed data warehouse offering and later configure own warehouse (24)"
+            }
+        },
+        "Reverse ETL & Embedding": {
+            "title": "Reverse ETL & Embedding",
+            "features": {
+                "Reverse ETL": "Activate data with Reverse ETL, sending data to the tools business teams use every day, setting up alerts & notifications, and syncing customer data across all platforms (24)",
+                "Embedding": true
+            }
+        },
+        "Analytics & Visualization": {
+            "title": "Analytics & Visualization",
+            "features": {
+                "No-code Analytics": "Built for Snowflake (24)",
+                "Cloud Data Warehouse Integration": "Embraces the cloud data warehouse as its lynchpin (24)",
+                "Visualize data where you want it": 1
+            }
+        },
+        "Documentation & Collaboration": {
+            "title": "Documentation & Collaboration",
+            "features": {
+                "Documentation and Discovery": "Captures comprehensive information about the data and facilitates user-generated information (24)",
+                "Collaboration": "Facilitates a collaborative data lifecycle process (24)",
+                "Discovery & Catalog": "Your single source of truths (24)"
+            }
+        },
+        "Data Governance & Metadata Management": {
+            "title": "Data Governance & Metadata Management",
+            "features": {
+                "Data Asset 360": "360\u00b0 visibility for every asset (24)",
+                "Column-Level Lineage": "Map your entire data landscape (24)",
+                "Active Data Governance": "Security at its simplest (24)",
+                "Embedded Collaboration": "Designed to help you flow (24)",
+                "Glossary": "Your business\u2019s second brain (24)",
+                "Personalization & Curation": "Experience the Netflix for data (24)",
+                "Custom Metadata": "All your metadata in one home (24)",
+                "Active Metadata": "Active metadata use cases (24)"
+            }
+        },
+        "Automation & Integration": {
+            "title": "Automation & Integration",
+            "features": {
+                "Intelligent Automation": "Automate your routine work (24)",
+                "Open APIs": "Open by default (24)",
+                "DIY Setup": "Blazing fast, no-code setup (24)"
+            }
+        },
+        "Query & Manipulation": {
+            "title": "Query & Manipulation",
+            "features": {
+                "SQL-based query engine": "Allows real-time data manipulation (24)",
+                "Wide range of transformations": "Filtering, aggregating, joining, pivoting, etc. (24)",
+                "Support for various data sources": "Relational databases, NoSQL databases, cloud storage, Hadoop-based data lakes (24)",
+                "Advanced data transformation capabilities": "Machine learning-based data profiling, data cataloging, automatic schema detection (24)"
+            }
+        }
+    }
+}
