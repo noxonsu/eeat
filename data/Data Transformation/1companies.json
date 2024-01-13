@@ -1,116 +1,154 @@
 {
     "www.stitchdata.com": {
-        "url": "https://www.stitchdata.com/resources/data-transformation/"
+        "url": "https://www.stitchdata.com/resources/data-transformation/",
+        "nature": "single project"
     },
     "www.techtarget.com": {
-        "url": "https://www.techtarget.com/searchdatamanagement/definition/data-transformation"
+        "url": "https://www.techtarget.com/searchdatamanagement/definition/data-transformation",
+        "nature": "single project"
     },
     "www.spiceworks.com": {
-        "url": "https://www.spiceworks.com/tech/big-data/articles/what-is-data-transformation/"
+        "url": "https://www.spiceworks.com/tech/big-data/articles/what-is-data-transformation/",
+        "nature": "single project"
     },
     "en.wikipedia.org": {
-        "url": "https://en.wikipedia.org/wiki/Data_transformation_(statistics)"
+        "url": "https://en.wikipedia.org/wiki/Data_transformation_(statistics)",
+        "nature": "single project"
     },
     "www.geeksforgeeks.org": {
-        "url": "https://www.geeksforgeeks.org/data-transformation-in-data-mining/"
+        "url": "https://www.geeksforgeeks.org/data-transformation-in-data-mining/",
+        "nature": "single project"
     },
     "r4ds.had.co.nz": {
-        "url": "https://r4ds.had.co.nz/transform.html"
+        "url": "https://r4ds.had.co.nz/transform.html",
+        "nature": "single project"
     },
     "www.datachannel.co": {
-        "url": "https://www.datachannel.co/blogs/what-is-data-transformation"
+        "url": "https://www.datachannel.co/blogs/what-is-data-transformation",
+        "nature": "single project"
     },
     "rivery.io": {
-        "url": "https://rivery.io/data-learning-center/data-transformation-tools/"
+        "url": "https://rivery.io/data-learning-center/data-transformation-tools/",
+        "nature": "single project"
     },
     "www.alteryx.com": {
-        "url": "https://www.alteryx.com/glossary/data-transformation"
+        "url": "https://www.alteryx.com/glossary/data-transformation",
+        "nature": "single project"
     },
     "www.informatica.com": {
-        "url": "https://www.informatica.com/resources/articles/what-is-data-transformation.html"
+        "url": "https://www.informatica.com/resources/articles/what-is-data-transformation.html",
+        "nature": "single project"
     },
     "careerfoundry.com": {
-        "url": "https://careerfoundry.com/en/blog/data-analytics/data-transformation/"
+        "url": "https://careerfoundry.com/en/blog/data-analytics/data-transformation/",
+        "nature": "single project"
     },
     "www.precisely.com": {
-        "url": "https://www.precisely.com/blog/big-data/data-transformation-process-four-steps"
+        "url": "https://www.precisely.com/blog/big-data/data-transformation-process-four-steps",
+        "nature": "single project"
     },
     "towardsdatascience.com": {
-        "url": "https://towardsdatascience.com/data-transformation-and-feature-engineering-e3c7dfbb4899"
+        "url": "https://towardsdatascience.com/data-transformation-and-feature-engineering-e3c7dfbb4899",
+        "nature": "single project"
     },
     "www.databricks.com": {
-        "url": "https://www.databricks.com/glossary/what-is-data-transformation"
+        "url": "https://www.databricks.com/glossary/what-is-data-transformation",
+        "nature": "single project"
     },
     "www.cazoomi.com": {
-        "url": "https://www.cazoomi.com/blog/data-transformation-comprehensive-guide-and-best-practices/"
+        "url": "https://www.cazoomi.com/blog/data-transformation-comprehensive-guide-and-best-practices/",
+        "nature": "single project"
     },
     "medium.com": {
-        "url": "https://medium.com/analytics-vidhya/a-guide-to-data-transformation-9e5fa9ae1ca3"
+        "url": "https://medium.com/analytics-vidhya/a-guide-to-data-transformation-9e5fa9ae1ca3",
+        "nature": "single project"
     },
     "www.getdbt.com": {
-        "url": "https://www.getdbt.com/blog/data-transformation-process/"
+        "url": "https://www.getdbt.com/blog/data-transformation-process/",
+        "nature": "single project"
     },
     "www.zuar.com": {
-        "url": "https://www.zuar.com/blog/data-transformation-types-process-benefits-and-definition/"
+        "url": "https://www.zuar.com/blog/data-transformation-types-process-benefits-and-definition/",
+        "nature": "single project"
     },
     "funnel.io": {
-        "url": "https://funnel.io/blog/what-is-data-transformation"
+        "url": "https://funnel.io/blog/what-is-data-transformation",
+        "nature": "single project"
     },
     "www.domo.com": {
-        "url": "https://www.domo.com/glossary/what-is-data-transformation"
+        "url": "https://www.domo.com/glossary/what-is-data-transformation",
+        "nature": "single project"
     },
     "r4ds.hadley.nz": {
-        "url": "https://r4ds.hadley.nz/data-transform.html"
+        "url": "https://r4ds.hadley.nz/data-transform.html",
+        "nature": "single project"
     },
     "www.striim.com": {
-        "url": "https://www.striim.com/blog/data-transformation-101-the-what-why-and-how/"
+        "url": "https://www.striim.com/blog/data-transformation-101-the-what-why-and-how/",
+        "nature": "single project"
     },
     "www.qlik.com": {
-        "url": "https://www.qlik.com/us/data-management/data-transformation-tool"
+        "url": "https://www.qlik.com/us/data-management/data-transformation-tool",
+        "nature": "single project"
     },
     "www.ibm.com": {
-        "url": "https://www.ibm.com/docs/en/ias?topic=procedures-data-transformation"
+        "url": "https://www.ibm.com/docs/en/ias?topic=procedures-data-transformation",
+        "nature": "single project"
     },
     "mozartdata.com": {
-        "url": "https://mozartdata.com/what-is-a-data-transformation-layer/"
+        "url": "https://mozartdata.com/what-is-a-data-transformation-layer/",
+        "nature": "single project"
     },
     "www.integrate.io": {
-        "url": "https://www.integrate.io/blog/data-transformation-explained/"
+        "url": "https://www.integrate.io/blog/data-transformation-explained/",
+        "nature": "single project"
     },
     "www.astera.com": {
-        "url": "https://www.astera.com/type/blog/data-transformation/"
+        "url": "https://www.astera.com/type/blog/data-transformation/",
+        "nature": "single project"
     },
     "coresignal.com": {
-        "url": "https://coresignal.com/blog/data-transformation/"
+        "url": "https://coresignal.com/blog/data-transformation/",
+        "nature": "single project"
     },
     "www.fivetran.com": {
-        "url": "https://www.fivetran.com/blog/what-is-data-transformation"
+        "url": "https://www.fivetran.com/blog/what-is-data-transformation",
+        "nature": "single project"
     },
     "www.rudderstack.com": {
-        "url": "https://www.rudderstack.com/learn/data-transformation/what-is-data-transformation/"
+        "url": "https://www.rudderstack.com/learn/data-transformation/what-is-data-transformation/",
+        "nature": "single project"
     },
     "blog.coupler.io": {
-        "url": "https://blog.coupler.io/what-is-data-transformation/"
+        "url": "https://blog.coupler.io/what-is-data-transformation/",
+        "nature": "single project"
     },
     "engage.safe.com": {
-        "url": "https://engage.safe.com/what-is/data-transformation/"
+        "url": "https://engage.safe.com/what-is/data-transformation/",
+        "nature": "single project"
     },
     "www.datameer.com": {
-        "url": "https://www.datameer.com/what-is-data-transformation-as-a-service-dtaas/"
+        "url": "https://www.datameer.com/what-is-data-transformation-as-a-service-dtaas/",
+        "nature": "single project"
     },
     "online.stat.psu.edu": {
-        "url": "https://online.stat.psu.edu/stat501/lesson/9"
+        "url": "https://online.stat.psu.edu/stat501/lesson/9",
+        "nature": "single project"
     },
     "atlan.com": {
-        "url": "https://atlan.com/data-transformation-101/"
+        "url": "https://atlan.com/data-transformation-101/",
+        "nature": "single project"
     },
     "www.dremio.com": {
-        "url": "https://www.dremio.com/wiki/data-transformation/"
+        "url": "https://www.dremio.com/wiki/data-transformation/",
+        "nature": "single project"
     },
     "www.ncbi.nlm.nih.gov": {
-        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043340/"
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043340/",
+        "nature": "single project"
     },
     "whatagraph.com": {
-        "url": "https://whatagraph.com/blog/articles/etl-data-transformation"
+        "url": "https://whatagraph.com/blog/articles/etl-data-transformation",
+        "nature": "single project"
     }
 }
