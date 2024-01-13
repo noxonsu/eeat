@@ -2,7 +2,8 @@
     "www.stitchdata.com": {
         "url": "https://www.stitchdata.com/resources/data-transformation/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.stitchdata.com/pricing/"
+        "priceAndPlansCrawled": "https://www.stitchdata.com/pricing/",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "www.techtarget.com": {
         "url": "https://www.techtarget.com/searchdatamanagement/definition/data-transformation",
@@ -12,7 +13,8 @@
     "www.spiceworks.com": {
         "url": "https://www.spiceworks.com/tech/big-data/articles/what-is-data-transformation/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.spiceworks.com/pricing/"
+        "priceAndPlansCrawled": "https://www.spiceworks.com/pricing/",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "en.wikipedia.org": {
         "url": "https://en.wikipedia.org/wiki/Data_transformation_(statistics)",
@@ -32,27 +34,32 @@
     "www.datachannel.co": {
         "url": "https://www.datachannel.co/blogs/what-is-data-transformation",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.datachannel.co/pricing"
+        "priceAndPlansCrawled": "https://www.datachannel.co/pricing",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "rivery.io": {
         "url": "https://rivery.io/data-learning-center/data-transformation-tools/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://rivery.io/pricing/"
+        "priceAndPlansCrawled": "https://rivery.io/pricing/",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "www.alteryx.com": {
         "url": "https://www.alteryx.com/glossary/data-transformation",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.alteryx.com/products/pricing"
+        "priceAndPlansCrawled": "https://www.alteryx.com/products/pricing",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "www.informatica.com": {
         "url": "https://www.informatica.com/resources/articles/what-is-data-transformation.html",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.informatica.com/products/cloud-integration/pricing.html"
+        "priceAndPlansCrawled": "https://www.informatica.com/products/cloud-integration/pricing.html",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "careerfoundry.com": {
         "url": "https://careerfoundry.com/en/blog/data-analytics/data-transformation/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://careerfoundry.com/en/blog/data-analytics/best-data-analytics-certification-programs/"
+        "priceAndPlansCrawled": "https://careerfoundry.com/en/blog/data-analytics/best-data-analytics-certification-programs/",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "www.precisely.com": {
         "url": "https://www.precisely.com/blog/big-data/data-transformation-process-four-steps",
@@ -67,12 +74,14 @@
     "www.databricks.com": {
         "url": "https://www.databricks.com/glossary/what-is-data-transformation",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.databricks.com/product/pricing/product-pricing/instance-types"
+        "priceAndPlansCrawled": "https://www.databricks.com/product/pricing/product-pricing/instance-types",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "www.cazoomi.com": {
         "url": "https://www.cazoomi.com/blog/data-transformation-comprehensive-guide-and-best-practices/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.cazoomi.com/pricing/"
+        "priceAndPlansCrawled": "https://www.cazoomi.com/pricing/",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "medium.com": {
         "url": "https://medium.com/analytics-vidhya/a-guide-to-data-transformation-9e5fa9ae1ca3",
@@ -82,7 +91,8 @@
     "www.getdbt.com": {
         "url": "https://www.getdbt.com/blog/data-transformation-process/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.getdbt.com/pricing/"
+        "priceAndPlansCrawled": "https://www.getdbt.com/pricing/",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "www.zuar.com": {
         "url": "https://www.zuar.com/blog/data-transformation-types-process-benefits-and-definition/",
@@ -92,7 +102,8 @@
     "funnel.io": {
         "url": "https://funnel.io/blog/what-is-data-transformation",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://funnel.io/pricing"
+        "priceAndPlansCrawled": "https://funnel.io/pricing",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "www.domo.com": {
         "url": "https://www.domo.com/glossary/what-is-data-transformation",
@@ -107,12 +118,14 @@
     "www.striim.com": {
         "url": "https://www.striim.com/blog/data-transformation-101-the-what-why-and-how/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.striim.com/pricing/"
+        "priceAndPlansCrawled": "https://www.striim.com/pricing/",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "www.qlik.com": {
         "url": "https://www.qlik.com/us/data-management/data-transformation-tool",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.qlik.com/us/pricing/data-integration-products"
+        "priceAndPlansCrawled": "https://www.qlik.com/us/pricing/data-integration-products",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "www.ibm.com": {
         "url": "https://www.ibm.com/docs/en/ias?topic=procedures-data-transformation",
@@ -122,32 +135,38 @@
     "mozartdata.com": {
         "url": "https://mozartdata.com/what-is-a-data-transformation-layer/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://mozartdata.com/pricing/"
+        "priceAndPlansCrawled": "https://mozartdata.com/pricing/",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "www.integrate.io": {
         "url": "https://www.integrate.io/blog/data-transformation-explained/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.integrate.io/pricing/"
+        "priceAndPlansCrawled": "https://www.integrate.io/pricing/",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "www.astera.com": {
         "url": "https://www.astera.com/type/blog/data-transformation/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.astera.com/pricing/"
+        "priceAndPlansCrawled": "https://www.astera.com/pricing/",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "coresignal.com": {
         "url": "https://coresignal.com/blog/data-transformation/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://coresignal.com/pricing/"
+        "priceAndPlansCrawled": "https://coresignal.com/pricing/",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "www.fivetran.com": {
         "url": "https://www.fivetran.com/blog/what-is-data-transformation",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.fivetran.com/pricing"
+        "priceAndPlansCrawled": "https://www.fivetran.com/pricing",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "www.rudderstack.com": {
         "url": "https://www.rudderstack.com/learn/data-transformation/what-is-data-transformation/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.rudderstack.com/pricing/"
+        "priceAndPlansCrawled": "https://www.rudderstack.com/pricing/",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "blog.coupler.io": {
         "url": "https://blog.coupler.io/what-is-data-transformation/",
@@ -157,12 +176,14 @@
     "engage.safe.com": {
         "url": "https://engage.safe.com/what-is/data-transformation/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://engage.safe.com/pricing/enterprise-subscription/"
+        "priceAndPlansCrawled": "https://engage.safe.com/pricing/enterprise-subscription/",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "www.datameer.com": {
         "url": "https://www.datameer.com/what-is-data-transformation-as-a-service-dtaas/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.datameer.com/pricing/"
+        "priceAndPlansCrawled": "https://www.datameer.com/pricing/",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "online.stat.psu.edu": {
         "url": "https://online.stat.psu.edu/stat501/lesson/9",
@@ -172,12 +193,14 @@
     "atlan.com": {
         "url": "https://atlan.com/data-transformation-101/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://atlan.com/pricing/"
+        "priceAndPlansCrawled": "https://atlan.com/pricing/",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "www.dremio.com": {
         "url": "https://www.dremio.com/wiki/data-transformation/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.dremio.com/pricing/"
+        "priceAndPlansCrawled": "https://www.dremio.com/pricing/",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     },
     "www.ncbi.nlm.nih.gov": {
         "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043340/",
@@ -187,6 +210,7 @@
     "whatagraph.com": {
         "url": "https://whatagraph.com/blog/articles/etl-data-transformation",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://whatagraph.com/pricing"
+        "priceAndPlansCrawled": "https://whatagraph.com/pricing",
+        "5prompt_Hash": "476245be385c6a3734e6cc69d6917e35"
     }
 }
