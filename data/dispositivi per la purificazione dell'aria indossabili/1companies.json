@@ -17,7 +17,8 @@
     "www.dyson.it": {
         "url": "https://www.dyson.it/newsroom/overview/press-release/annuncio-dyson-zone-cuffie-purificazione-aria",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.dyson.it/aspirapolvere/senza-filo/v11"
+        "priceAndPlansCrawled": "https://www.dyson.it/aspirapolvere/senza-filo/v11",
+        "5prompt_Hash": "e568caa8cbbd7a05e5b9d91f6a6ffd40"
     },
     "www.hdblog.it": {
         "url": "https://www.hdblog.it/indossabili/articoli/n525614/lg-puricare-wearable-air-purifier-ifa-2020/",
@@ -32,7 +33,8 @@
     "informatori.it": {
         "url": "https://informatori.it/flash-news/ricerca-e-sviluppo/lg-il-purificatore-daria-diventa-un-dispositivo-indossabile/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://informatori.it/flash-news/aziende/dispositivi-medici-europa-operazioni-internazionali/"
+        "priceAndPlansCrawled": "https://informatori.it/flash-news/aziende/dispositivi-medici-europa-operazioni-internazionali/",
+        "5prompt_Hash": "e568caa8cbbd7a05e5b9d91f6a6ffd40"
     },
     "www.wired.it": {
         "url": "https://www.wired.it/attualita/tech/2021/07/23/maschera-purifica-aria-viso-air-ring-tech/",

@@ -1,0 +1,47 @@
+{
+    "www.dyson.it": {
+        "error": "Unable to access the website for analysis. Please provide a different source or website for analysis.",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "informatori.it": {
+        "dispositivi_per_la_purificazione_dell_aria_indossabili": {
+            "brand": "LG",
+            "product_name": "PuriCare Wearable Air Purifier",
+            "availability": "Available in selected markets from the fourth quarter",
+            "use_cases": [
+                "Purification of air",
+                "Alternative to low-quality DIY masks and hard-to-find disposable masks"
+            ],
+            "solutions": [
+                "Utilizes two H13 HEPA filters similar to those used in LG's home air purification products",
+                "Equipped with dual fans and patented respiratory sensor for adjusting fan speed based on breathing cycle and volume",
+                "Ergonomically designed to fit the face shape and minimize air leakage",
+                "Comes with a lightweight 820mAh battery providing up to 8 hours of operation in low mode and 2 hours in high mode",
+                "Includes a case with UV LED lights for germ elimination, filter replacement notification via LG ThinQ mobile app"
+            ],
+            "key_features": {
+                "filters": "Two H13 HEPA filters",
+                "ventilation": "Dual fans with three-speed settings",
+                "respiratory sensor": "Patented sensor for adjusting fan speed based on breathing",
+                "battery": "820mAh battery providing up to 8 hours of operation",
+                "case": "Includes a case with UV LED lights for germ elimination and filter replacement notification"
+            },
+            "call_to_action": "Learn more about the availability and functionality of the PuriCare Wearable Air Purifier"
+        },
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "price": "1 miliardo di dollari",
+                "plans": [
+                    {
+                        "type": "acquisizione",
+                        "percentage": "100%"
+                    }
+                ]
+            }
+        }
+    }
+}
