@@ -1,0 +1,1 @@
+I'm sorry, but it seems that the pricing plans for web development courses on w3schools.com and udemy.com are not available. If you have any other web development companies or specific pricing plans you'd like me to compare, please feel free to provide the details and I'd be happy to assist you further.
