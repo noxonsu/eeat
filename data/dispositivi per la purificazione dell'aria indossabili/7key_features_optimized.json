@@ -1,0 +1,36 @@
+{
+    "title": "Optimized Features for Wearable Air Purification Devices",
+    "intro": "This list represents the optimized features for wearable air purification devices. A total of 5 features were gathered from analyzing 2 companies.",
+    "features": {
+        "Filters": {
+            "title": "Filters",
+            "features": [
+                "Two H13 HEPA filters"
+            ]
+        },
+        "Ventilation": {
+            "title": "Ventilation",
+            "features": [
+                "Dual fans with three-speed settings"
+            ]
+        },
+        "Respiratory Sensor": {
+            "title": "Respiratory Sensor",
+            "features": [
+                "Patented sensor for adjusting fan speed based on breathing"
+            ]
+        },
+        "Battery": {
+            "title": "Battery",
+            "features": [
+                "820mAh battery providing up to 8 hours of operation"
+            ]
+        },
+        "Case": {
+            "title": "Case",
+            "features": [
+                "Includes a case with UV LED lights for germ elimination and filter replacement notification"
+            ]
+        }
+    }
+}
