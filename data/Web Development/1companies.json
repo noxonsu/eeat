@@ -1,34 +1,42 @@
 {
     "en.wikipedia.org": {
         "url": "https://en.wikipedia.org/wiki/Web_development",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.geeksforgeeks.org": {
         "url": "https://www.geeksforgeeks.org/web-development/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "blog.hubspot.com": {
         "url": "https://blog.hubspot.com/website/website-development",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "brainstation.io": {
         "url": "https://brainstation.io/career-guides/what-is-web-development",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.codecademy.com": {
         "url": "https://www.codecademy.com/learn/paths/web-development",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "web.dev": {
         "url": "https://web.dev/learn",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.w3schools.com": {
         "url": "https://www.w3schools.com/whatis/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.w3schools.com/howto/howto_css_pricing_table.asp"
     },
     "www.udemy.com": {
         "url": "https://www.udemy.com/courses/development/web-development/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.udemy.com/"
     }
 }
