@@ -1,0 +1,26 @@
+{
+    "en.wikipedia.org": {
+        "url": "https://en.wikipedia.org/wiki/Web_development"
+    },
+    "www.geeksforgeeks.org": {
+        "url": "https://www.geeksforgeeks.org/web-development/"
+    },
+    "blog.hubspot.com": {
+        "url": "https://blog.hubspot.com/website/website-development"
+    },
+    "brainstation.io": {
+        "url": "https://brainstation.io/career-guides/what-is-web-development"
+    },
+    "www.codecademy.com": {
+        "url": "https://www.codecademy.com/learn/paths/web-development"
+    },
+    "web.dev": {
+        "url": "https://web.dev/learn"
+    },
+    "www.w3schools.com": {
+        "url": "https://www.w3schools.com/whatis/"
+    },
+    "www.udemy.com": {
+        "url": "https://www.udemy.com/courses/development/web-development/"
+    }
+}
