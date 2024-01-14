@@ -1,38 +1,50 @@
 {
     "www.mendelcapital.it": {
-        "url": "https://www.mendelcapital.it/"
+        "url": "https://www.mendelcapital.it/",
+        "nature": "single project"
     },
     "www.farmaciaigea.com": {
-        "url": "https://www.farmaciaigea.com/rinite-allergica/60827-airmed-air-purifier-purificatore-d-aria-indossabile.html"
+        "url": "https://www.farmaciaigea.com/rinite-allergica/60827-airmed-air-purifier-purificatore-d-aria-indossabile.html",
+        "nature": "single project"
     },
     "www.amazon.it": {
-        "url": "https://www.amazon.it/Purificatore-indossabile-portatile-purificare-soggiorno/dp/B0CKHG55CP"
+        "url": "https://www.amazon.it/Purificatore-indossabile-portatile-purificare-soggiorno/dp/B0CKHG55CP",
+        "nature": "single project"
     },
     "www.dyson.it": {
-        "url": "https://www.dyson.it/newsroom/overview/press-release/annuncio-dyson-zone-cuffie-purificazione-aria"
+        "url": "https://www.dyson.it/newsroom/overview/press-release/annuncio-dyson-zone-cuffie-purificazione-aria",
+        "nature": "single project"
     },
     "www.hdblog.it": {
-        "url": "https://www.hdblog.it/indossabili/articoli/n525614/lg-puricare-wearable-air-purifier-ifa-2020/"
+        "url": "https://www.hdblog.it/indossabili/articoli/n525614/lg-puricare-wearable-air-purifier-ifa-2020/",
+        "nature": "single project"
     },
     "www.ilsole24ore.com": {
-        "url": "https://www.ilsole24ore.com/art/ecco-cuffie-che-purificano-l-aria-dyson-entra-mondo-tecnologie-indossabili-AEYxoTNB"
+        "url": "https://www.ilsole24ore.com/art/ecco-cuffie-che-purificano-l-aria-dyson-entra-mondo-tecnologie-indossabili-AEYxoTNB",
+        "nature": "single project"
     },
     "informatori.it": {
-        "url": "https://informatori.it/flash-news/ricerca-e-sviluppo/lg-il-purificatore-daria-diventa-un-dispositivo-indossabile/"
+        "url": "https://informatori.it/flash-news/ricerca-e-sviluppo/lg-il-purificatore-daria-diventa-un-dispositivo-indossabile/",
+        "nature": "single project"
     },
     "www.wired.it": {
-        "url": "https://www.wired.it/attualita/tech/2021/07/23/maschera-purifica-aria-viso-air-ring-tech/"
+        "url": "https://www.wired.it/attualita/tech/2021/07/23/maschera-purifica-aria-viso-air-ring-tech/",
+        "nature": "single project"
     },
     "www.medisanshop.com": {
-        "url": "https://www.medisanshop.com/sterilizzazione-e-sanificazione/dispositivi-multiuso-e-purificatori-d-aria"
+        "url": "https://www.medisanshop.com/sterilizzazione-e-sanificazione/dispositivi-multiuso-e-purificatori-d-aria",
+        "nature": "single project"
     },
     "www.fruugo.it": {
-        "url": "https://www.fruugo.it/purificatore-daria-indossabile-collana-personale-deodorante-per-ambienti-mini-ionizzatore-daria-portatile-120-milioni-di-ioni-negativi-basso-rumore-per-adulti-bambini-nero/p-123597206"
+        "url": "https://www.fruugo.it/purificatore-daria-indossabile-collana-personale-deodorante-per-ambienti-mini-ionizzatore-daria-portatile-120-milioni-di-ioni-negativi-basso-rumore-per-adulti-bambini-nero/p-123597206",
+        "nature": "single project"
     },
     "www.mediaworld.it": {
-        "url": "https://www.mediaworld.it/it/category/purificatori-aria-600907.html"
+        "url": "https://www.mediaworld.it/it/category/purificatori-aria-600907.html",
+        "nature": "single project"
     },
     "www.domusweb.it": {
-        "url": "https://www.domusweb.it/it/citta-sostenibili/gallery/2022/12/07/dyson-zone-cuffie-filtro-aria-prezzo-data-caratteristiche.html"
+        "url": "https://www.domusweb.it/it/citta-sostenibili/gallery/2022/12/07/dyson-zone-cuffie-filtro-aria-prezzo-data-caratteristiche.html",
+        "nature": "single project"
     }
 }
