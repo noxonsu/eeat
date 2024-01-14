@@ -1,26 +1,34 @@
 {
     "en.wikipedia.org": {
-        "url": "https://en.wikipedia.org/wiki/Web_development"
+        "url": "https://en.wikipedia.org/wiki/Web_development",
+        "nature": "single project"
     },
     "www.geeksforgeeks.org": {
-        "url": "https://www.geeksforgeeks.org/web-development/"
+        "url": "https://www.geeksforgeeks.org/web-development/",
+        "nature": "single project"
     },
     "blog.hubspot.com": {
-        "url": "https://blog.hubspot.com/website/website-development"
+        "url": "https://blog.hubspot.com/website/website-development",
+        "nature": "single project"
     },
     "brainstation.io": {
-        "url": "https://brainstation.io/career-guides/what-is-web-development"
+        "url": "https://brainstation.io/career-guides/what-is-web-development",
+        "nature": "single project"
     },
     "www.codecademy.com": {
-        "url": "https://www.codecademy.com/learn/paths/web-development"
+        "url": "https://www.codecademy.com/learn/paths/web-development",
+        "nature": "single project"
     },
     "web.dev": {
-        "url": "https://web.dev/learn"
+        "url": "https://web.dev/learn",
+        "nature": "single project"
     },
     "www.w3schools.com": {
-        "url": "https://www.w3schools.com/whatis/"
+        "url": "https://www.w3schools.com/whatis/",
+        "nature": "single project"
     },
     "www.udemy.com": {
-        "url": "https://www.udemy.com/courses/development/web-development/"
+        "url": "https://www.udemy.com/courses/development/web-development/",
+        "nature": "single project"
     }
 }
