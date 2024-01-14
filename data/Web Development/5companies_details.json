@@ -1,0 +1,56 @@
+{
+    "www.w3schools.com": {
+        "product_name": "W3Schools",
+        "call_to_action": "Sign Up",
+        "usecases": [
+            "Learning web development",
+            "Testing skills with exercises and quizzes",
+            "Getting certified in various programming languages and technologies",
+            "Creating websites and servers",
+            "Accessing references and examples for coding languages"
+        ],
+        "solutions": [
+            "Free tutorials and references",
+            "Exercises and quizzes for testing skills",
+            "Certification courses",
+            "W3Schools Spaces for creating websites without setup",
+            "Code editor for editing and viewing code results",
+            "Video tutorials for learning basics of HTML",
+            "Web hosting with W3Schools Spaces",
+            "Guided paths for beginners",
+            "Color picker tool",
+            "Code game for fun learning"
+        ],
+        "key_features": {
+            "tutorials": [
+                "HTML and CSS tutorials",
+                "Data Analytics tutorials",
+                "JavaScript tutorials",
+                "Backend tutorials"
+            ],
+            "exercises": [
+                "HTML and CSS exercises and quizzes",
+                "Data Analytics exercises and quizzes",
+                "JavaScript exercises and quizzes",
+                "Backend exercises and quizzes"
+            ],
+            "certificates": [
+                "HTML and CSS certificates",
+                "Data Analytics certificates",
+                "JavaScript certificates",
+                "Backend certificates"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.udemy.com": {
+        "error": "Timeout error occurred while trying to access the website for analysis",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    }
+}

@@ -32,11 +32,13 @@
     "www.w3schools.com": {
         "url": "https://www.w3schools.com/whatis/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.w3schools.com/howto/howto_css_pricing_table.asp"
+        "priceAndPlansCrawled": "https://www.w3schools.com/howto/howto_css_pricing_table.asp",
+        "5prompt_Hash": "772748788c08d419ad89d063ec3b125e"
     },
     "www.udemy.com": {
         "url": "https://www.udemy.com/courses/development/web-development/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.udemy.com/"
+        "priceAndPlansCrawled": "https://www.udemy.com/",
+        "5prompt_Hash": "772748788c08d419ad89d063ec3b125e"
     }
 }
