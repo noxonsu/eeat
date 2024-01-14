@@ -1,50 +1,62 @@
 {
     "www.mendelcapital.it": {
         "url": "https://www.mendelcapital.it/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.farmaciaigea.com": {
         "url": "https://www.farmaciaigea.com/rinite-allergica/60827-airmed-air-purifier-purificatore-d-aria-indossabile.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.amazon.it": {
         "url": "https://www.amazon.it/Purificatore-indossabile-portatile-purificare-soggiorno/dp/B0CKHG55CP",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.dyson.it": {
         "url": "https://www.dyson.it/newsroom/overview/press-release/annuncio-dyson-zone-cuffie-purificazione-aria",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.dyson.it/aspirapolvere/senza-filo/v11"
     },
     "www.hdblog.it": {
         "url": "https://www.hdblog.it/indossabili/articoli/n525614/lg-puricare-wearable-air-purifier-ifa-2020/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.ilsole24ore.com": {
         "url": "https://www.ilsole24ore.com/art/ecco-cuffie-che-purificano-l-aria-dyson-entra-mondo-tecnologie-indossabili-AEYxoTNB",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "informatori.it": {
         "url": "https://informatori.it/flash-news/ricerca-e-sviluppo/lg-il-purificatore-daria-diventa-un-dispositivo-indossabile/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://informatori.it/flash-news/aziende/dispositivi-medici-europa-operazioni-internazionali/"
     },
     "www.wired.it": {
         "url": "https://www.wired.it/attualita/tech/2021/07/23/maschera-purifica-aria-viso-air-ring-tech/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.medisanshop.com": {
         "url": "https://www.medisanshop.com/sterilizzazione-e-sanificazione/dispositivi-multiuso-e-purificatori-d-aria",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.fruugo.it": {
         "url": "https://www.fruugo.it/purificatore-daria-indossabile-collana-personale-deodorante-per-ambienti-mini-ionizzatore-daria-portatile-120-milioni-di-ioni-negativi-basso-rumore-per-adulti-bambini-nero/p-123597206",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.mediaworld.it": {
         "url": "https://www.mediaworld.it/it/category/purificatori-aria-600907.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.domusweb.it": {
         "url": "https://www.domusweb.it/it/citta-sostenibili/gallery/2022/12/07/dyson-zone-cuffie-filtro-aria-prezzo-data-caratteristiche.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     }
 }
