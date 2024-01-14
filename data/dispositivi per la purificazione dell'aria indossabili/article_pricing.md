@@ -1,0 +1,1 @@
+I'm sorry, but I couldn't find any specific pricing plans or comparison information for wearable air purifying devices from the provided sources. If you have specific pricing plans and features for different wearable air purifying devices, I'd be happy to help you compare them.
