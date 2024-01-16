@@ -1,0 +1,52 @@
+{
+    "title": "Optimized Mobile Bartending Service Features",
+    "intro": "This list represents the optimized key features of mobile bartending services in Northeast Ohio. A total of 8 companies were analyzed, gathering a total of 11 features.",
+    "features": {
+        "Group 1": {
+            "title": "Bar Packages",
+            "features": [
+                "Package 1 - $4 per guest (8)",
+                "Package 2 - $6 per guest (8)",
+                "Package 3 - $8 per guest (8)"
+            ]
+        },
+        "Group 2": {
+            "title": "Included Items",
+            "features": [
+                "Beer (8)",
+                "Wine and Seltzers (8)",
+                "Up to 5 hours of Bar Service (8)",
+                "Two Bartenders (8)",
+                "Custom Menu (8)",
+                "Taps for Beer (8)",
+                "Ice (8)",
+                "Cups/Napkins/Straws (8)",
+                "Water Dispenser (8)",
+                "2 Signature Cocktails + Beer (8)",
+                "Seltzers (8)",
+                "Wine and Liquor (8)",
+                "Custom Cocktail Menu (8)",
+                "Elevated Garnishes (8)",
+                "4 mixers (additional charge to add mixer) (8)",
+                "5 mixers (additional charge to add mixer) (8)"
+            ]
+        },
+        "Group 3": {
+            "title": "Bar Options",
+            "features": [
+                "Vintage Horse Trailer Mobile Bars (1)",
+                "Wooden Stationary Bar Option (1)",
+                "Custom Bar Design (1)"
+            ]
+        },
+        "Group 4": {
+            "title": "Service Quality",
+            "features": [
+                "Cost Efficient Drink Services (1)",
+                "Professional Bartending Services (1)",
+                "Simple Process for Event Planning (1)",
+                "Mobile Bartending Service (1)"
+            ]
+        }
+    }
+}
