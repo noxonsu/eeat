@@ -2,22 +2,26 @@
     "www.thethirstygoose.com": {
         "url": "https://www.thethirstygoose.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.thethirstygoose.com/copy-of-rentals-packages"
+        "priceAndPlansCrawled": "https://www.thethirstygoose.com/copy-of-rentals-packages",
+        "5prompt_Hash": "0215b83fa20c414745e4e0e8caa34150"
     },
     "www.happycamperbarcar.com": {
         "url": "https://www.happycamperbarcar.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.happycamperbarcar.com/pricing.html"
+        "priceAndPlansCrawled": "https://www.happycamperbarcar.com/pricing.html",
+        "5prompt_Hash": "0215b83fa20c414745e4e0e8caa34150"
     },
     "www.drinkslingersohio.com": {
         "url": "https://www.drinkslingersohio.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.drinkslingersohio.com/"
+        "priceAndPlansCrawled": "https://www.drinkslingersohio.com/",
+        "5prompt_Hash": "0215b83fa20c414745e4e0e8caa34150"
     },
     "www.thelittlebooziebar.com": {
         "url": "https://www.thelittlebooziebar.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.thelittlebooziebar.com/servicesproducts"
+        "priceAndPlansCrawled": "https://www.thelittlebooziebar.com/servicesproducts",
+        "5prompt_Hash": "0215b83fa20c414745e4e0e8caa34150"
     },
     "www.ohiobartendingservices.com": {
         "url": "https://www.ohiobartendingservices.com/",
@@ -32,17 +36,20 @@
     "www.thethirstyfilly.com": {
         "url": "https://www.thethirstyfilly.com/services.html",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.thethirstyfilly.com/services.html"
+        "priceAndPlansCrawled": "https://www.thethirstyfilly.com/services.html",
+        "5prompt_Hash": "0215b83fa20c414745e4e0e8caa34150"
     },
     "www.alpinetapmobilebar.com": {
         "url": "https://www.alpinetapmobilebar.com/mobile-bar",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.alpinetapmobilebar.com/mobile-bar"
+        "priceAndPlansCrawled": "https://www.alpinetapmobilebar.com/mobile-bar",
+        "5prompt_Hash": "0215b83fa20c414745e4e0e8caa34150"
     },
     "bartenza.com": {
         "url": "https://bartenza.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://bartenza.com/mixx-mobile-bar-1"
+        "priceAndPlansCrawled": "https://bartenza.com/mixx-mobile-bar-1",
+        "5prompt_Hash": "0215b83fa20c414745e4e0e8caa34150"
     },
     "lilunstable.com": {
         "url": "https://lilunstable.com/",
@@ -92,7 +99,8 @@
     "premierpour.com": {
         "url": "https://premierpour.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://premierpour.com/services/"
+        "priceAndPlansCrawled": "https://premierpour.com/services/",
+        "5prompt_Hash": "0215b83fa20c414745e4e0e8caa34150"
     },
     "www.sunshinewinebar.com": {
         "url": "https://www.sunshinewinebar.com/",
