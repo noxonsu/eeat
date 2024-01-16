@@ -1,82 +1,102 @@
 {
     "www.thethirstygoose.com": {
         "url": "https://www.thethirstygoose.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.thethirstygoose.com/copy-of-rentals-packages"
     },
     "www.happycamperbarcar.com": {
         "url": "https://www.happycamperbarcar.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.happycamperbarcar.com/pricing.html"
     },
     "www.drinkslingersohio.com": {
         "url": "https://www.drinkslingersohio.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.drinkslingersohio.com/"
     },
     "www.thelittlebooziebar.com": {
         "url": "https://www.thelittlebooziebar.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.thelittlebooziebar.com/servicesproducts"
     },
     "www.ohiobartendingservices.com": {
         "url": "https://www.ohiobartendingservices.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "twistbartendingservice.com": {
         "url": "https://twistbartendingservice.com/oh/cleveland-bartenders/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.thethirstyfilly.com": {
         "url": "https://www.thethirstyfilly.com/services.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.thethirstyfilly.com/services.html"
     },
     "www.alpinetapmobilebar.com": {
         "url": "https://www.alpinetapmobilebar.com/mobile-bar",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.alpinetapmobilebar.com/mobile-bar"
     },
     "bartenza.com": {
         "url": "https://bartenza.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://bartenza.com/mixx-mobile-bar-1"
     },
     "lilunstable.com": {
         "url": "https://lilunstable.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.blackorchidbarservices.com": {
         "url": "https://www.blackorchidbarservices.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.thegatsbymobilebar.com": {
         "url": "https://www.thegatsbymobilebar.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.tapthatmb.com": {
         "url": "https://www.tapthatmb.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.gigsalad.com": {
         "url": "https://www.gigsalad.com/the_thirsty_filly_rome",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.cuginostrattoriabar.com": {
         "url": "https://www.cuginostrattoriabar.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.facebook.com": {
         "url": "https://www.facebook.com/tapthatmb/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.yelp.com": {
         "url": "https://www.yelp.com/search?find_desc=Bartending+Services&find_loc=Cleveland%2C+OH",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "luxe-1874.square.site": {
         "url": "https://luxe-1874.square.site/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "premierpour.com": {
         "url": "https://premierpour.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://premierpour.com/services/"
     },
     "www.sunshinewinebar.com": {
         "url": "https://www.sunshinewinebar.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     }
 }
