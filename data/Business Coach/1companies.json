@@ -1,58 +1,72 @@
 {
     "blog.hubspot.com": {
         "url": "https://blog.hubspot.com/sales/business-coach",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://blog.hubspot.com/sales/business-coach"
     },
     "www.betterup.com": {
         "url": "https://www.betterup.com/blog/business-coaching",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.betterup.com/career-coaching"
     },
     "www.tonyrobbins.com": {
         "url": "https://www.tonyrobbins.com/business-coaching/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.tonyrobbins.com/business-coaching/"
     },
     "www.smallbusinesscoach.org": {
         "url": "https://www.smallbusinesscoach.org/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.smallbusinesscoach.org/small-business-coach-offers-affordable-coaching-packages-by-alan-melton/"
     },
     "www.noomii.com": {
         "url": "https://www.noomii.com/business-coaches",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.noomii.com/articles/8206-how-much-does-it-cost-to-hire-a-business-coach"
     },
     "www.briantracy.com": {
         "url": "https://www.briantracy.com/blog/business-success/business-coaching/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.briantracy.com/coaching/get_coached.aspx"
     },
     "www.nerdwallet.com": {
         "url": "https://www.nerdwallet.com/article/small-business/business-coach",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.nerdwallet.com/article/small-business/business-coach"
     },
     "www.davelabowitz.com": {
         "url": "https://www.davelabowitz.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.deliberatedirections.com": {
         "url": "https://www.deliberatedirections.com/best-business-coaches/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.deliberatedirections.com/business-coaching/"
     },
     "www.score.org": {
         "url": "https://www.score.org/find-mentor",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.strategiccoach.com": {
         "url": "https://www.strategiccoach.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.strategiccoach.com/program/strategic-coach-program/terms-and-conditions/"
     },
     "petracoach.com": {
         "url": "http://petracoach.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://petracoach.com/choose-business-coach/"
     },
     "www.businesscoach.com": {
         "url": "https://www.businesscoach.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.emyth.com": {
         "url": "https://www.emyth.com/inside/what-is-business-coaching",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.emyth.com/coaching-agreement"
     }
 }
