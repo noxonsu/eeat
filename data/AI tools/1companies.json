@@ -1,107 +1,142 @@
 {
     "cloud.google.com": {
-        "url": "https://cloud.google.com/use-cases/free-ai-tools"
+        "url": "https://cloud.google.com/use-cases/free-ai-tools",
+        "nature": "single project"
     },
     "clickup.com": {
-        "url": "https://clickup.com/blog/ai-tools/"
+        "url": "https://clickup.com/blog/ai-tools/",
+        "nature": "single project"
     },
     "www.synthesia.io": {
-        "url": "https://www.synthesia.io/post/ai-tools"
+        "url": "https://www.synthesia.io/post/ai-tools",
+        "nature": "single project"
     },
     "zapier.com": {
-        "url": "https://zapier.com/apps/categories/ai-tools"
+        "url": "https://zapier.com/apps/categories/ai-tools",
+        "nature": "single project"
     },
     "www.forbes.com": {
-        "url": "https://www.forbes.com/sites/bernardmarr/2023/02/28/beyond-chatgpt-14-mind-blowing-ai-tools-everyone-should-be-trying-out-now/"
+        "url": "https://www.forbes.com/sites/bernardmarr/2023/02/28/beyond-chatgpt-14-mind-blowing-ai-tools-everyone-should-be-trying-out-now/",
+        "nature": "single project"
     },
     "ai.google": {
-        "url": "https://ai.google/"
+        "url": "https://ai.google/",
+        "nature": "single project"
     },
     "builtin.com": {
-        "url": "https://builtin.com/artificial-intelligence/ai-tools"
+        "url": "https://builtin.com/artificial-intelligence/ai-tools",
+        "nature": "single project"
     },
     "niftypm.com": {
-        "url": "https://niftypm.com/blog/ai-tools/"
+        "url": "https://niftypm.com/blog/ai-tools/",
+        "nature": "single project"
     },
     "www.cnbc.com": {
-        "url": "https://www.cnbc.com/2024/01/16/amazon-launches-generative-ai-tool-to-answer-shoppers-questions.html"
+        "url": "https://www.cnbc.com/2024/01/16/amazon-launches-generative-ai-tool-to-answer-shoppers-questions.html",
+        "nature": "single project"
     },
     "blog.hootsuite.com": {
-        "url": "https://blog.hootsuite.com/ai-marketing-tools/"
+        "url": "https://blog.hootsuite.com/ai-marketing-tools/",
+        "nature": "single project"
     },
     "openai.com": {
-        "url": "https://openai.com/"
+        "url": "https://openai.com/",
+        "nature": "single project"
     },
     "www.futuretools.io": {
-        "url": "https://www.futuretools.io/"
+        "url": "https://www.futuretools.io/",
+        "nature": "single project"
     },
     "www.futurepedia.io": {
-        "url": "https://www.futurepedia.io/"
+        "url": "https://www.futurepedia.io/",
+        "nature": "single project"
     },
     "bard.google.com": {
-        "url": "https://bard.google.com/"
+        "url": "https://bard.google.com/",
+        "nature": "single project"
     },
     "www.youtube.com": {
-        "url": "https://www.youtube.com/watch?v=qB4HGMvrhwE"
+        "url": "https://www.youtube.com/watch?v=qB4HGMvrhwE",
+        "nature": "single project"
     },
     "research.utk.edu": {
-        "url": "https://research.utk.edu/research-integrity/artificial-intelligence-ai-tools/"
+        "url": "https://research.utk.edu/research-integrity/artificial-intelligence-ai-tools/",
+        "nature": "single project"
     },
     "intellipaat.com": {
-        "url": "https://intellipaat.com/blog/top-artificial-intelligence-tools/"
+        "url": "https://intellipaat.com/blog/top-artificial-intelligence-tools/",
+        "nature": "single project"
     },
     "runwayml.com": {
-        "url": "https://runwayml.com/ai-magic-tools/"
+        "url": "https://runwayml.com/ai-magic-tools/",
+        "nature": "single project"
     },
     "www.aitoolsclub.com": {
-        "url": "https://www.aitoolsclub.com/"
+        "url": "https://www.aitoolsclub.com/",
+        "nature": "single project"
     },
     "www.insidr.ai": {
-        "url": "https://www.insidr.ai/ai-tools/"
+        "url": "https://www.insidr.ai/ai-tools/",
+        "nature": "single project"
     },
     "improvado.io": {
-        "url": "https://improvado.io/blog/best-ai-marketing-tools"
+        "url": "https://improvado.io/blog/best-ai-marketing-tools",
+        "nature": "single project"
     },
     "www.unite.ai": {
-        "url": "https://www.unite.ai/best-ai-tools-for-business/"
+        "url": "https://www.unite.ai/best-ai-tools-for-business/",
+        "nature": "single project"
     },
     "www.thoughtspot.com": {
-        "url": "https://www.thoughtspot.com/data-trends/ai/best-ai-tools-for-business"
+        "url": "https://www.thoughtspot.com/data-trends/ai/best-ai-tools-for-business",
+        "nature": "single project"
     },
     "huit.harvard.edu": {
-        "url": "https://huit.harvard.edu/ai/tools"
+        "url": "https://huit.harvard.edu/ai/tools",
+        "nature": "single project"
     },
     "www.nyu.edu": {
-        "url": "https://www.nyu.edu/life/information-technology/artificial-intelligence-at-nyu/public-generative-ai-tools.html"
+        "url": "https://www.nyu.edu/life/information-technology/artificial-intelligence-at-nyu/public-generative-ai-tools.html",
+        "nature": "single project"
     },
     "www.edureka.co": {
-        "url": "https://www.edureka.co/blog/top-12-artificial-intelligence-tools/"
+        "url": "https://www.edureka.co/blog/top-12-artificial-intelligence-tools/",
+        "nature": "single project"
     },
     "findmyaitool.com": {
-        "url": "https://findmyaitool.com/"
+        "url": "https://findmyaitool.com/",
+        "nature": "single project"
     },
     "oecd.ai": {
-        "url": "https://oecd.ai/en/catalogue/tools"
+        "url": "https://oecd.ai/en/catalogue/tools",
+        "nature": "single project"
     },
     "www.iu.org": {
-        "url": "https://www.iu.org/blog/ai-and-education/best-ai-tools-for-students/"
+        "url": "https://www.iu.org/blog/ai-and-education/best-ai-tools-for-students/",
+        "nature": "single project"
     },
     "www.turing.com": {
-        "url": "https://www.turing.com/resources/generative-ai-tools"
+        "url": "https://www.turing.com/resources/generative-ai-tools",
+        "nature": "single project"
     },
     "www.podium.com": {
-        "url": "https://www.podium.com/article/ai-tools-for-business/"
+        "url": "https://www.podium.com/article/ai-tools-for-business/",
+        "nature": "single project"
     },
     "www.renesas.com": {
-        "url": "https://www.renesas.com/us/en/products/microcontrollers-microprocessors/reality-ai/reality-ai-tools"
+        "url": "https://www.renesas.com/us/en/products/microcontrollers-microprocessors/reality-ai/reality-ai-tools",
+        "nature": "single project"
     },
     "bootcamp.uxdesign.cc": {
-        "url": "https://bootcamp.uxdesign.cc/the-ultimate-list-top-100-ai-tools-in-2023-65c5ea1ccbd9"
+        "url": "https://bootcamp.uxdesign.cc/the-ultimate-list-top-100-ai-tools-in-2023-65c5ea1ccbd9",
+        "nature": "single project"
     },
     "www.zdnet.com": {
-        "url": "https://www.zdnet.com/article/my-5-favorite-ai-tools-for-work/"
+        "url": "https://www.zdnet.com/article/my-5-favorite-ai-tools-for-work/",
+        "nature": "single project"
     },
     "aitoolsdirectory.com": {
-        "url": "https://aitoolsdirectory.com/"
+        "url": "https://aitoolsdirectory.com/",
+        "nature": "single project"
     }
 }
