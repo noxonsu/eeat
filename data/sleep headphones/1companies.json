@@ -1,0 +1,35 @@
+{
+    "www.amazon.com": {
+        "url": "https://www.amazon.com/Sleep-Headphones-Perytong-Ultra-Thin-Meditation/dp/B07SHBQY7Z"
+    },
+    "www.nytimes.com": {
+        "url": "https://www.nytimes.com/wirecutter/reviews/best-sleep-headphones/"
+    },
+    "www.zdnet.com": {
+        "url": "https://www.zdnet.com/article/best-headphones-for-sleeping/"
+    },
+    "www.sleepphones.com": {
+        "url": "https://www.sleepphones.com/"
+    },
+    "www.bestbuy.com": {
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=sleep+headphones"
+    },
+    "www.cnet.com": {
+        "url": "https://www.cnet.com/health/sleep/headphones-for-sleeping/"
+    },
+    "www.cnn.com": {
+        "url": "https://www.cnn.com/cnn-underscored/reviews/best-headphones-for-sleeping"
+    },
+    "time.com": {
+        "url": "https://time.com/shopping/article/best-headphones-for-sleeping/"
+    },
+    "www.bestproducts.com": {
+        "url": "https://www.bestproducts.com/tech/gadgets/g19607167/sleep-headphones-earbuds-reviews/"
+    },
+    "nymag.com": {
+        "url": "https://nymag.com/strategist/article/bluetooth-headphone-headband-review.html"
+    },
+    "www.audiophileon.com": {
+        "url": "https://www.audiophileon.com/news/best-headphones-for-sleeping"
+    }
+}
