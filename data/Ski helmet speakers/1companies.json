@@ -1,98 +1,130 @@
 {
     "www.outdoortechnology.com": {
-        "url": "https://www.outdoortechnology.com/products/chips"
+        "url": "https://www.outdoortechnology.com/products/chips",
+        "nature": "single project"
     },
     "www.aleck.io": {
-        "url": "https://www.aleck.io/products/aleck006"
+        "url": "https://www.aleck.io/products/aleck006",
+        "nature": "single project"
     },
     "www.amazon.com": {
-        "url": "https://www.amazon.com/ski-helmet-speakers/s?k=ski+helmet+speakers"
+        "url": "https://www.amazon.com/ski-helmet-speakers/s?k=ski+helmet+speakers",
+        "nature": "single project"
     },
     "www.cravetheplanet.com": {
-        "url": "https://www.cravetheplanet.com/best-ski-helmet-headphones/"
+        "url": "https://www.cravetheplanet.com/best-ski-helmet-headphones/",
+        "nature": "single project"
     },
     "unigearshop.com": {
-        "url": "https://unigearshop.com/products/ski-bombing-helmet-speakers"
+        "url": "https://unigearshop.com/products/ski-bombing-helmet-speakers",
+        "nature": "single project"
     },
     "outdoormaster.com": {
-        "url": "https://outdoormaster.com/products/wireless-helmet-drop-in-headphone"
+        "url": "https://outdoormaster.com/products/wireless-helmet-drop-in-headphone",
+        "nature": "single project"
     },
     "adventuregearinsider.com": {
-        "url": "https://adventuregearinsider.com/best-ski-helmet-speakers/"
+        "url": "https://adventuregearinsider.com/best-ski-helmet-speakers/",
+        "nature": "single project"
     },
     "www.wildhornoutfitters.com": {
-        "url": "https://www.wildhornoutfitters.com/products/alta-bluetooth-helmet-headphones"
+        "url": "https://www.wildhornoutfitters.com/products/alta-bluetooth-helmet-headphones",
+        "nature": "single project"
     },
     "theproskiandride.com": {
-        "url": "https://theproskiandride.com/products/outdoor-tech-chips-3.0-helmet-headphones"
+        "url": "https://theproskiandride.com/products/outdoor-tech-chips-3.0-helmet-headphones",
+        "nature": "single project"
     },
     "www.christysports.com": {
-        "url": "https://www.christysports.com/product/outdoor-tech-chips-3.0-bluetooth-helmet-speakers/3002919.html"
+        "url": "https://www.christysports.com/product/outdoor-tech-chips-3.0-bluetooth-helmet-speakers/3002919.html",
+        "nature": "single project"
     },
     "www.skitalk.com": {
-        "url": "https://www.skitalk.com/threads/helmet-audio-recommendations.28734/"
+        "url": "https://www.skitalk.com/threads/helmet-audio-recommendations.28734/",
+        "nature": "single project"
     },
     "dreamruns.com": {
-        "url": "https://dreamruns.com/products/dreamruns-ski-and-snowboard-universal-helmet-speakers"
+        "url": "https://dreamruns.com/products/dreamruns-ski-and-snowboard-universal-helmet-speakers",
+        "nature": "single project"
     },
     "skiboards.com": {
-        "url": "https://skiboards.com/product/outdoor-tech-helmet-audio-speakers-wired-rechargeable/"
+        "url": "https://skiboards.com/product/outdoor-tech-helmet-audio-speakers-wired-rechargeable/",
+        "nature": "single project"
     },
     "www.reddit.com": {
-        "url": "https://www.reddit.com/r/skiing/comments/174cdyu/looking_for_good_helmet_headphones/"
+        "url": "https://www.reddit.com/r/skiing/comments/174cdyu/looking_for_good_helmet_headphones/",
+        "nature": "single project"
     },
     "www.walmart.com": {
-        "url": "https://www.walmart.com/c/kp/ski-helmet-speakers"
+        "url": "https://www.walmart.com/c/kp/ski-helmet-speakers",
+        "nature": "single project"
     },
     "www.electronicshub.org": {
-        "url": "https://www.electronicshub.org/best-ski-helmet-headphones/"
+        "url": "https://www.electronicshub.org/best-ski-helmet-headphones/",
+        "nature": "single project"
     },
     "www.ucleardigital.com": {
-        "url": "https://www.ucleardigital.com/product-category-helmet-communications-bluetoothski-snowboard/"
+        "url": "https://www.ucleardigital.com/product-category-helmet-communications-bluetoothski-snowboard/",
+        "nature": "single project"
     },
     "www.sharperimage.com": {
-        "url": "https://www.sharperimage.com/view/product/Wireless+Bluetooth+Ski+Helmet+Speakers/203379"
+        "url": "https://www.sharperimage.com/view/product/Wireless+Bluetooth+Ski+Helmet+Speakers/203379",
+        "nature": "single project"
     },
     "headphonesproreview.com": {
-        "url": "https://headphonesproreview.com/best-ski-helmet-headphones/"
+        "url": "https://headphonesproreview.com/best-ski-helmet-headphones/",
+        "nature": "single project"
     },
     "skibarn.com": {
-        "url": "https://skibarn.com/products/outdoor-tech-chips-3-0"
+        "url": "https://skibarn.com/products/outdoor-tech-chips-3-0",
+        "nature": "single project"
     },
     "www.sunandski.com": {
-        "url": "https://www.sunandski.com/c/speakers-headphones"
+        "url": "https://www.sunandski.com/c/speakers-headphones",
+        "nature": "single project"
     },
     "swagtron.com": {
-        "url": "https://swagtron.com/product/snowtide-smart-ski-and-snowboard-helmet-with-bluetooth/"
+        "url": "https://swagtron.com/product/snowtide-smart-ski-and-snowboard-helmet-with-bluetooth/",
+        "nature": "single project"
     },
     "www.youtube.com": {
-        "url": "https://www.youtube.com/watch?v=TpacGexwoJ8"
+        "url": "https://www.youtube.com/watch?v=TpacGexwoJ8",
+        "nature": "single project"
     },
     "www.snowboardingforum.com": {
-        "url": "https://www.snowboardingforum.com/threads/how-do-i-put-speakers-in-a-helmet.272371/"
+        "url": "https://www.snowboardingforum.com/threads/how-do-i-put-speakers-in-a-helmet.272371/",
+        "nature": "single project"
     },
     "www.sena.com": {
-        "url": "https://www.sena.com/us-en/outdoor/smart-helmet"
+        "url": "https://www.sena.com/us-en/outdoor/smart-helmet",
+        "nature": "single project"
     },
     "www.smithoptics.com": {
-        "url": "https://www.smithoptics.com/en_US/p/accessory/smith-x-aleck-nunchucks-snow-helmet-accessory/ALECK-WIRELESS-AUDIO-KIT.html"
+        "url": "https://www.smithoptics.com/en_US/p/accessory/smith-x-aleck-nunchucks-snow-helmet-accessory/ALECK-WIRELESS-AUDIO-KIT.html",
+        "nature": "single project"
     },
     "prethelmets.com": {
-        "url": "https://prethelmets.com/blogs/news/why-ski-and-snowboard-helmet-speakers-are-better-than-earbuds"
+        "url": "https://prethelmets.com/blogs/news/why-ski-and-snowboard-helmet-speakers-are-better-than-earbuds",
+        "nature": "single project"
     },
     "www.alpinsider.com": {
-        "url": "https://www.alpinsider.com/gear/best-ski-helmet-headphones"
+        "url": "https://www.alpinsider.com/gear/best-ski-helmet-headphones",
+        "nature": "single project"
     },
     "www.rei.com": {
-        "url": "https://www.rei.com/c/snowsports-helmet-accessories/f/f-volume-control"
+        "url": "https://www.rei.com/c/snowsports-helmet-accessories/f/f-volume-control",
+        "nature": "single project"
     },
     "www.fodsports.com": {
-        "url": "https://www.fodsports.com/blog/ski-helmet-headphones/"
+        "url": "https://www.fodsports.com/blog/ski-helmet-headphones/",
+        "nature": "single project"
     },
     "www.newegg.com": {
-        "url": "https://www.newegg.com/p/0TH-07FV-00022"
+        "url": "https://www.newegg.com/p/0TH-07FV-00022",
+        "nature": "single project"
     },
     "www.mac.bid": {
-        "url": "https://www.mac.bid/products/B0B76FD476"
+        "url": "https://www.mac.bid/products/B0B76FD476",
+        "nature": "single project"
     }
 }
