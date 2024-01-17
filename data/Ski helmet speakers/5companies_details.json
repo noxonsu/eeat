@@ -1,0 +1,232 @@
+{
+    "www.aleck.io": {
+        "product_name": "Aleck 006 - Snow Helmet Audio & Comms",
+        "call_to_action": "Buy now with ShopPay",
+        "usecases": [
+            "Enjoy music while skiing or snowboarding",
+            "Stay in touch with group through push-to-talk communication",
+            "Access GPS mapping",
+            "Hands-free conversations using open channel Party Mode or Push-to-Talk"
+        ],
+        "solutions": [
+            "Wireless HiFi Audio",
+            "Unlimited Range Group Comms",
+            "Glove Friendly Controls",
+            "Premium sound and push-to-talk communication capability"
+        ],
+        "key_features": {
+            "bluetooth_spec": {
+                "Bluetooth 5": true,
+                "Dual-mode Bluetooth": true,
+                "AVRCP v1.5": true,
+                "A2DP v1.3": true,
+                "HFP v1.7": true
+            },
+            "battery": {
+                "Rechargeable Lithium-Polymer": true,
+                "Capacity": "250mAh",
+                "All day battery life": true
+            },
+            "inputs": {
+                "Micro USB Charging": true,
+                "3.5mm Audio Input": true
+            },
+            "audio_spec": {
+                "Qualcomm cVc audio technology": true,
+                "Impedance": "32 ohms",
+                "Drivers": "2 x 40mm titanium drivers"
+            },
+            "additional_specs": {
+                "IPX4 water and sweat resistant": true,
+                "Max decibels": 120,
+                "Dimensions": "2.1\u201d x 2.1\u201d x 0.57\u201d | 54mm x 54mm x 14.6mm",
+                "Weight": "2.68 ounces | 76g"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "1-Pack": "$79.95",
+                "2-Pack": "$149.95"
+            }
+        }
+    },
+    "headphonesproreview.com": {
+        "skiHelmetSpeakers": {
+            "OutdoorTechnologyChips2.0": {
+                "callToAction": "Buy on Amazon",
+                "useCases": [
+                    "Skiing",
+                    "Snowboarding"
+                ],
+                "solutions": [
+                    "Tidy and clear audio with high bass",
+                    "Sweat-resistant",
+                    "Glove-friendly buttons for easy usage",
+                    "Compatible with most helmets"
+                ],
+                "keyFeatures": {
+                    "audioQuality": "Clear and crisp with high bass",
+                    "durability": "Sweat-resistant and durable build",
+                    "convenience": "Glove-friendly controls",
+                    "compatibility": "Compatible with most helmets"
+                }
+            },
+            "AltaWirelessBluetoothHelmetDropInHeadphones": {
+                "callToAction": "Buy on Amazon",
+                "useCases": [
+                    "Skiing",
+                    "Snowboarding"
+                ],
+                "solutions": [
+                    "Clear sound and compact pads that fit into most ski helmets",
+                    "Glove-friendly controls for easy operation",
+                    "Suitable for extreme temperatures",
+                    "Hands-free calling and voice control"
+                ],
+                "keyFeatures": {
+                    "userFriendliness": "Glove-friendly controls and hands-free calling",
+                    "durability": "Sweat-resistant and tested in subzero temperatures",
+                    "audioQuality": "Balanced sound with hands-free calling"
+                }
+            },
+            "OutdoorMasterWirelessBluetooth5.0HelmetDropInHeadphones": {
+                "callToAction": "Buy on Amazon",
+                "useCases": [
+                    "Skiing",
+                    "Snowboarding"
+                ],
+                "solutions": [
+                    "Bluetooth 5.0 technology for excellent audio quality",
+                    "Built-in microphone for voice control and calls",
+                    "Ergonomic design to fit most helmets",
+                    "Ideal gift with high-quality carry pouch"
+                ],
+                "keyFeatures": {
+                    "technology": "Bluetooth 5.0 for excellent audio quality",
+                    "convenience": "Built-in microphone for voice control and calls",
+                    "durability": "Ergonomic design to fit most helmets"
+                }
+            },
+            "BEHeadwearBluetoothHeadset": {
+                "callToAction": "Buy on Amazon",
+                "useCases": [
+                    "Skiing",
+                    "Snowboarding"
+                ],
+                "solutions": [
+                    "Comfortable over-ear design",
+                    "Compatible with all audio-ready helmets",
+                    "Affordable with good battery life",
+                    "Works with BE Bluetooth beanies"
+                ],
+                "keyFeatures": {
+                    "audioQuality": "Good sound clarity and comfort",
+                    "compatibility": "Compatible with all audio-ready helmets",
+                    "affordability": "Affordable with good battery life"
+                }
+            },
+            "IASUSTheXSound2.1HelmetSpeakers": {
+                "callToAction": "Buy on Amazon",
+                "useCases": [
+                    "Skiing",
+                    "Snowboarding"
+                ],
+                "solutions": [
+                    "Large circumference for better bass projection",
+                    "Crisp and clear sound quality",
+                    "Comfortable cushions and positioning pad",
+                    "Affordable with added extension cord"
+                ],
+                "keyFeatures": {
+                    "audioQuality": "Crisp and clear sound with good bass",
+                    "comfort": "Comfortable cushions and positioning pad",
+                    "affordability": "Affordable with added extension cord"
+                }
+            },
+            "RTUSIASmallBluetoothHeadphonesWrapAroundHead": {
+                "callToAction": "Buy on Amazon",
+                "useCases": [
+                    "Skiing",
+                    "Snowboarding"
+                ],
+                "solutions": [
+                    "Very comfortable fit",
+                    "Fold easily and portable",
+                    "Good sound plus bass",
+                    "Lightweight and stylish design"
+                ],
+                "keyFeatures": {
+                    "design": "Comfortable and stylish design",
+                    "portability": "Foldable and portable",
+                    "audioQuality": "Good sound plus bass"
+                }
+            },
+            "SenaUnisex-AdultSnowtalk2-UniversalBluetoothHeadset": {
+                "callToAction": "Buy on Amazon",
+                "useCases": [
+                    "Skiing",
+                    "Snowboarding"
+                ],
+                "solutions": [
+                    "Fits easily into the ear pad pockets of a ski or snowboard helmet",
+                    "Intercom communication with good range",
+                    "Bluetooth Intercom for up to four individuals",
+                    "Long-enough flexible cord"
+                ],
+                "keyFeatures": {
+                    "intercom": "Intercom communication with good range",
+                    "flexibility": "Long-enough flexible cord",
+                    "compatibility": "Fits easily into the ear pad pockets"
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "prethelmets.com": {
+        "products": [
+            {
+                "name": "Cirque X",
+                "call_to_action": "Shop All",
+                "usecases": "Skiing, snowboarding",
+                "solutions": "Allows ambient noise, secure comfort, clearer communication, glove-friendly controls, compatibility",
+                "key_features": "HALEO Antimicrobial Foam, audio drop-in compatible, universal fit, all-day battery, voice-activated functions, IPX4 water and sweat resistance, GPS friend-finder, group communication app"
+            },
+            {
+                "name": "Fury X",
+                "call_to_action": "Check it out",
+                "usecases": "Skiing, snowboarding",
+                "solutions": "Adaptable to various conditions, unmatched protection, modern design, easy to use",
+                "key_features": "Adaptable design, unmatched protection, modern design, easy to use"
+            },
+            {
+                "name": "Refuge X",
+                "call_to_action": "Check it out",
+                "usecases": "Skiing, snowboarding",
+                "solutions": "Comfort, protection, style",
+                "key_features": "Comfortable, protective, stylish design"
+            },
+            {
+                "name": "Corona X",
+                "call_to_action": "Check it out",
+                "usecases": "Skiing, snowboarding",
+                "solutions": "Comfort, style, compatibility",
+                "key_features": "Comfortable, stylish design, audio drop-in compatible"
+            },
+            {
+                "name": "Moxie X",
+                "call_to_action": "Check it out",
+                "usecases": "Skiing, snowboarding",
+                "solutions": "Comfort, protection, compatibility",
+                "key_features": "Comfortable, protective, audio drop-in compatible"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    }
+}
