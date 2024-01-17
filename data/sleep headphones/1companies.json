@@ -1,35 +1,46 @@
 {
     "www.amazon.com": {
-        "url": "https://www.amazon.com/Sleep-Headphones-Perytong-Ultra-Thin-Meditation/dp/B07SHBQY7Z"
+        "url": "https://www.amazon.com/Sleep-Headphones-Perytong-Ultra-Thin-Meditation/dp/B07SHBQY7Z",
+        "nature": "single project"
     },
     "www.nytimes.com": {
-        "url": "https://www.nytimes.com/wirecutter/reviews/best-sleep-headphones/"
+        "url": "https://www.nytimes.com/wirecutter/reviews/best-sleep-headphones/",
+        "nature": "single project"
     },
     "www.zdnet.com": {
-        "url": "https://www.zdnet.com/article/best-headphones-for-sleeping/"
+        "url": "https://www.zdnet.com/article/best-headphones-for-sleeping/",
+        "nature": "single project"
     },
     "www.sleepphones.com": {
-        "url": "https://www.sleepphones.com/"
+        "url": "https://www.sleepphones.com/",
+        "nature": "single project"
     },
     "www.bestbuy.com": {
-        "url": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=sleep+headphones"
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=sleep+headphones",
+        "nature": "single project"
     },
     "www.cnet.com": {
-        "url": "https://www.cnet.com/health/sleep/headphones-for-sleeping/"
+        "url": "https://www.cnet.com/health/sleep/headphones-for-sleeping/",
+        "nature": "single project"
     },
     "www.cnn.com": {
-        "url": "https://www.cnn.com/cnn-underscored/reviews/best-headphones-for-sleeping"
+        "url": "https://www.cnn.com/cnn-underscored/reviews/best-headphones-for-sleeping",
+        "nature": "single project"
     },
     "time.com": {
-        "url": "https://time.com/shopping/article/best-headphones-for-sleeping/"
+        "url": "https://time.com/shopping/article/best-headphones-for-sleeping/",
+        "nature": "single project"
     },
     "www.bestproducts.com": {
-        "url": "https://www.bestproducts.com/tech/gadgets/g19607167/sleep-headphones-earbuds-reviews/"
+        "url": "https://www.bestproducts.com/tech/gadgets/g19607167/sleep-headphones-earbuds-reviews/",
+        "nature": "single project"
     },
     "nymag.com": {
-        "url": "https://nymag.com/strategist/article/bluetooth-headphone-headband-review.html"
+        "url": "https://nymag.com/strategist/article/bluetooth-headphone-headband-review.html",
+        "nature": "single project"
     },
     "www.audiophileon.com": {
-        "url": "https://www.audiophileon.com/news/best-headphones-for-sleeping"
+        "url": "https://www.audiophileon.com/news/best-headphones-for-sleeping",
+        "nature": "single project"
     }
 }
