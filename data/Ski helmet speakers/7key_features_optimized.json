@@ -1,0 +1,38 @@
+{
+    "title": "Optimized Ski Helmet Speaker Features",
+    "intro": "This list represents the optimized features of ski helmet speakers. It was gathered from analyzing 3 companies, resulting in a total of 15 features.",
+    "features": {
+        "Connectivity": {
+            "title": "Connectivity",
+            "Bluetooth Version": 2,
+            "Dual-mode Bluetooth": 1,
+            "AVRCP Version": 1,
+            "A2DP Version": 1,
+            "HFP Version": 1
+        },
+        "Battery": {
+            "title": "Battery",
+            "Rechargeable Type": 1,
+            "Capacity": 1,
+            "Battery Life": 1
+        },
+        "Inputs": {
+            "title": "Inputs",
+            "Charging Port": 1,
+            "Audio Input": 1
+        },
+        "Audio Specifications": {
+            "title": "Audio Specifications",
+            "Audio Technology": 1,
+            "Impedance": 1,
+            "Driver Size": 1
+        },
+        "Additional Specifications": {
+            "title": "Additional Specifications",
+            "Water and Sweat Resistance": 1,
+            "Max Decibels": 1,
+            "Dimensions": 1,
+            "Weight": 1
+        }
+    }
+}
