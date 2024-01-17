@@ -12,17 +12,20 @@
     "www.bernaqua.ch": {
         "url": "https://www.bernaqua.ch/de-ch/wellness/massage/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.bernaqua.ch/fr-ch/infos/tarifs/"
+        "priceAndPlansCrawled": "https://www.bernaqua.ch/fr-ch/infos/tarifs/",
+        "5prompt_Hash": "91f6f54566fce1f3b672cc41a6718cb9"
     },
     "www.aqua-spa-resorts.ch": {
         "url": "http://www.aqua-spa-resorts.ch/en/hammam-spa-oktogon-bern/vouchers/hammam-ritual-massage",
         "nature": "single project",
-        "priceAndPlansCrawled": "http://www.aqua-spa-resorts.ch/en/hammam-spa-oktogon-bern/prices"
+        "priceAndPlansCrawled": "http://www.aqua-spa-resorts.ch/en/hammam-spa-oktogon-bern/prices",
+        "5prompt_Hash": "91f6f54566fce1f3b672cc41a6718cb9"
     },
     "www.physiozentrum.ch": {
         "url": "https://www.physiozentrum.ch/en/bern-bahnhof/massage/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.physiozentrum.ch/en/order-vouchers/"
+        "priceAndPlansCrawled": "https://www.physiozentrum.ch/en/order-vouchers/",
+        "5prompt_Hash": "91f6f54566fce1f3b672cc41a6718cb9"
     },
     "www.nuumassage.ch": {
         "url": "https://www.nuumassage.ch/de/",
@@ -52,12 +55,14 @@
     "newbernmassagestudio.com": {
         "url": "https://newbernmassagestudio.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://newbernmassagestudio.com/"
+        "priceAndPlansCrawled": "https://newbernmassagestudio.com/",
+        "5prompt_Hash": "91f6f54566fce1f3b672cc41a6718cb9"
     },
     "aegeanmedspa.com": {
         "url": "https://aegeanmedspa.com/massage/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://aegeanmedspa.com/med-spa-services/"
+        "priceAndPlansCrawled": "https://aegeanmedspa.com/med-spa-services/",
+        "5prompt_Hash": "91f6f54566fce1f3b672cc41a6718cb9"
     },
     "www.integri.ch": {
         "url": "https://www.integri.ch/medizinische-massage/uebersicht-medizinische-massage",
@@ -67,7 +72,8 @@
     "www.massagebook.com": {
         "url": "https://www.massagebook.com/biz/crystal-coast-massage-and-wellness",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.massagebook.com/marketing/raise-massage-prices-without-losing-clients/"
+        "priceAndPlansCrawled": "https://www.massagebook.com/marketing/raise-massage-prices-without-losing-clients/",
+        "5prompt_Hash": "91f6f54566fce1f3b672cc41a6718cb9"
     },
     "www.facebook.com": {
         "url": "https://www.facebook.com/guidedhandstherapeuticmassage/",
@@ -82,7 +88,8 @@
     "www.rinnovaspa.com": {
         "url": "https://www.rinnovaspa.com/medical-spa-services-new-bern/body-treatments/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.rinnovaspa.com/medical-spa-services-new-bern/facials-peels/"
+        "priceAndPlansCrawled": "https://www.rinnovaspa.com/medical-spa-services-new-bern/facials-peels/",
+        "5prompt_Hash": "91f6f54566fce1f3b672cc41a6718cb9"
     },
     "www.drflemming.com": {
         "url": "https://www.drflemming.com/chiropractic-massage-therapy",

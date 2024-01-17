@@ -1,0 +1,343 @@
+{
+    "www.bernaqua.ch": {
+        "massage-bern": {
+            "pricing": {
+                "average_price": "CHF 75.-",
+                "pricing_options": "Aroma\u00f6l-Massage, Thai-Massage, Thai-Fussmassage, Hot Stone Massage, Mama Balance, Fussreflexzonenmassage, Deep Tissue Massage"
+            },
+            "call_to_action": "Jetzt buchen",
+            "usecases": "Relaxation, Wellness, Stress Relief",
+            "solutions": "Offering a variety of massages for relaxation and stress relief",
+            "key_features": "Aroma\u00f6l-Massage, Thai-Massage, Hot Stone Massage, Deep Tissue Massage"
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "parcAquatique": {
+                    "entreeSimple": {
+                        "journee": "45.-",
+                        "2h": "33.-"
+                    },
+                    "abonnement": "CHF 1200.-",
+                    "abonnements": "d\u00e8s CHF 480.-"
+                },
+                "fitness": {
+                    "abonnements": "d\u00e8s CHF 480.-"
+                },
+                "wellness": {
+                    "abonnement": "CHF 1200.-",
+                    "abonnements": "d\u00e8s CHF 480.-"
+                },
+                "sauna": {
+                    "abonnement": "CHF 1200.-",
+                    "abonnements": "d\u00e8s CHF 480.-"
+                }
+            }
+        }
+    },
+    "www.aqua-spa-resorts.ch": {
+        "massage-bern": {
+            "call_to_action": "Book online",
+            "usecases": [
+                "Hammam Ritual",
+                "Treatments & Massages",
+                "Events",
+                "Gift vouchers",
+                "Wellness day"
+            ],
+            "solutions": "Spa ritual, Roof top pool, Hammam Ritual Packages, Offers for two, Relax Cards, Bestsellers, Voucher checker, FAQ gift vouchers",
+            "key_features": [
+                "Hammam Ritual",
+                "Treatments & Massages",
+                "Events",
+                "Gift vouchers",
+                "Wellness day"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.physiozentrum.ch": {
+        "product_name": "Massage at Bern station",
+        "call_to_action": "Book an appointment",
+        "usecases": [
+            "Relieving pain",
+            "Addressing discomfort",
+            "Preventive care"
+        ],
+        "solutions": "Relief from pain, discomfort, and preventive care through various massage techniques",
+        "key_features": {
+            "Variety of massage methods": "Classic massage, sports massage, foot reflexology, pregnancy massage, connective tissue massage, lymphatic drainage",
+            "Individualized treatment plan": "Assessment of complaints, goal setting, and personalized treatment plan",
+            "Treatment duration options": "25 min, 40 min, 55 min",
+            "Professional massage specialists": "Experienced and trained masseurs and masseuses",
+            "Location convenience": "Practice located at Bern station, easily accessible by public transport"
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "25 min": {
+                    "normalPrice": "CHF 70",
+                    "cantonZurichPrice": "CHF 75"
+                },
+                "40 min": {
+                    "normalPrice": "CHF 110",
+                    "cantonZurichPrice": "CHF 120"
+                },
+                "55 min": {
+                    "normalPrice": "CHF 145",
+                    "cantonZurichPrice": "CHF 160"
+                },
+                "85 min": {
+                    "normalPrice": "CHF 210",
+                    "cantonZurichPrice": "CHF 230"
+                }
+            }
+        }
+    },
+    "newbernmassagestudio.com": {
+        "massage-bern": {
+            "call_to_action": "Call For Appointment",
+            "usecases": "Relaxation, Pain Relief, Stress Reduction",
+            "solutions": "Swedish, Deep Tissue, Myofascial Release, MediCupping Sessions",
+            "key_features": [
+                "20+ years of experience",
+                "Custom-made Sessions",
+                "Use of Hot towel, Pesticide-free, unscented natural Jojoba oil, CBD oil, Hot stones",
+                "By appointment only"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "30 minutes": "$40",
+                "60 minutes": "$80",
+                "75 minutes": "$95",
+                "90 minutes": "$110"
+            },
+            "businessModel": "Service-based"
+        }
+    },
+    "aegeanmedspa.com": {
+        "product_name": "Aegean Med Spa Massage Services",
+        "call_to_action": "schedule your massage today! Call 252-617-7234",
+        "usecases": [
+            "Relaxation",
+            "Stress reduction",
+            "Pain relief",
+            "Muscle tension release",
+            "Improved circulation and energy",
+            "Lowering heart rate and blood pressure",
+            "Improving immune function"
+        ],
+        "solutions": "Personalized massage treatments to address various health and wellbeing needs",
+        "key_features": {
+            "Swedish Massage": {
+                "duration_options": [
+                    "30 Minutes",
+                    "60 Minutes",
+                    "90 Minutes"
+                ],
+                "price_options": [
+                    "$50",
+                    "$90",
+                    "$125"
+                ],
+                "customization": "Completely customized to fit individual needs"
+            },
+            "Deep Tissue Massage": {
+                "duration_options": [
+                    "30 Minutes",
+                    "60 Minutes",
+                    "90 Minutes"
+                ],
+                "price_options": [
+                    "$65",
+                    "$100",
+                    "$135"
+                ],
+                "focus": "Realigning deeper layers of connective and muscle tissue"
+            },
+            "Hot Stone Massage": {
+                "duration_options": [
+                    "30 Minutes",
+                    "60 Minutes",
+                    "90 Minutes"
+                ],
+                "price_options": [
+                    "$65",
+                    "$100"
+                ],
+                "technique": "Uses heat to relax the muscles"
+            },
+            "Prenatal Massage": {
+                "duration_options": [
+                    "30 Minutes",
+                    "60 Minutes",
+                    "90 Minutes"
+                ],
+                "price_options": [
+                    "$50",
+                    "$90",
+                    "$125"
+                ],
+                "suitable_for": "Expecting mothers past their first trimester"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "www.massagebook.com": {
+        "massage-bern": {
+            "call_to_action": "Book now",
+            "usecases": [
+                "Relaxation",
+                "Injury treatment and rehabilitation",
+                "Prenatal care",
+                "Crystal healing and chakra balancing"
+            ],
+            "solutions": "Personalized therapies for body and mind, treatment and rehabilitation of injuries, prenatal care, crystal healing, and chakra balancing",
+            "key_features": {
+                "60 Minute Deep Tissue Massage": {
+                    "Description": "Designed to remove severe tension, improve range of motion, and heal injuries below the surface",
+                    "Price": "$85",
+                    "Duration": "60min"
+                },
+                "90 Minute Deep Tissue Massage": {
+                    "Description": "Designed to remove severe tension, improve range of motion, and heal injuries below the surface",
+                    "Price": "$130",
+                    "Duration": "90min"
+                },
+                "60 Minute Therapeutic Massage": {
+                    "Description": "Combination of Swedish & Deep Tissue techniques tailored for deep relaxation",
+                    "Price": "$80",
+                    "Duration": "60min"
+                },
+                "90 Minute Therapeutic Massage": {
+                    "Description": "Combination of Swedish & Deep Tissue techniques tailored for deep relaxation",
+                    "Price": "$120",
+                    "Duration": "90min"
+                },
+                "60 Minute Swedish Massage": {
+                    "Description": "Uses firm but gentle pressure to promote relaxation and ease muscle tension",
+                    "Price": "$75",
+                    "Duration": "60min"
+                },
+                "90 Minute Swedish Massage": {
+                    "Description": "Uses firm but gentle pressure to promote relaxation and ease muscle tension",
+                    "Price": "$110",
+                    "Duration": "90min"
+                },
+                "30 Minute Medicupping": {
+                    "Description": "Modern adaptation of cupping therapy using negative pressure to lift and expand body's soft tissues",
+                    "Price": "$55",
+                    "Duration": "30min"
+                },
+                "60 Minute Prenatal Massage": {
+                    "Description": "Focuses on addressing the special needs of expecting women",
+                    "Price": "$75",
+                    "Duration": "60min"
+                },
+                "15 Minute Chair Massage": {
+                    "Description": "Performed in a specially designed chair for relaxation",
+                    "Price": "$20",
+                    "Duration": "15min"
+                },
+                "2 Hour Massage - 120 minutes": {
+                    "Description": "Any Swedish, Therapeutic or Deep Tissue massage at the length of 120 minutes",
+                    "Price": "$165",
+                    "Duration": "120min"
+                },
+                "90 Minute Prenatal Massage": {
+                    "Description": "Focuses on addressing the special needs of expecting women",
+                    "Price": "$115",
+                    "Duration": "90min"
+                },
+                "30 Minute Massage": {
+                    "Description": "Any Swedish, Therapeutic or Deep Tissue massage for the length of 30 minutes",
+                    "Price": "$45",
+                    "Duration": "30min"
+                },
+                "45 Minute Massage": {
+                    "Description": "Focusing solely on specific areas",
+                    "Price": "$60",
+                    "Duration": "45min"
+                },
+                "60 minute Crystal Fusion massage": {
+                    "Description": "Incorporates crystal therapy infused with Swedish or Therapeutic massage",
+                    "Price": "$105",
+                    "Duration": "75min"
+                },
+                "90 minute Crystal Fusion massage": {
+                    "Description": "Incorporates crystals with Swedish or Therapeutic massage",
+                    "Price": "$145",
+                    "Duration": "105min"
+                },
+                "45 Minute Crystal Healing Session": {
+                    "Description": "Vibrational energy-based system of healing using precisely placed crystals",
+                    "Price": "$60",
+                    "Duration": "45min"
+                },
+                "Chakra Balancing": {
+                    "Description": "Extra time focused on balancing chakras at the end of the massage",
+                    "Price": "$15",
+                    "Duration": "15min"
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "www.rinnovaspa.com": {
+        "services": {
+            "Body Treatments": {
+                "Hydrating Body Treatment": {
+                    "duration": "60 min",
+                    "price": "$160",
+                    "description": "Full body skin treatment including dry brushing, hydrating body mask, and thermal wrap for essential nutrients and vitamins."
+                },
+                "Detoxifying Body Treatment": {
+                    "duration": "75 min",
+                    "price": "$200",
+                    "description": "Full body skin treatment with dry sauna, dry body brushing, seaweed mask for detoxification and hydration, and heated wrap."
+                },
+                "Fascia therapy and lymphatic drainage Body Treatment": {
+                    "duration": "90 min",
+                    "price": "$250",
+                    "description": "Full body skin treatment with dry sauna, dry body brushing, body firming and contouring creme for toning and tightening loose skin."
+                }
+            }
+        },
+        "call_to_action": "Reserve your spa treatments",
+        "usecases": "Relaxation, Skin revitalization, Detoxification, Body toning",
+        "solutions": "Full body skin treatments with various techniques and products to revitalize, detoxify, and tone the skin.",
+        "key_features": "Dry brushing, Body masks, Thermal wraps, Seaweed mask, Body firming and contouring creme",
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Rinnova Relaxation Facial / 60 min.": "$90",
+                "Skin Perfecting Custom Facial / 75 min.": "$110",
+                "Skin Perfecting Custom Facial Plus / 90 min.": "$140",
+                "Gentleman's Skin Treatment / 60 min.": "$95",
+                "Gentleman's Skin Treatment Plus / 75 min.": "$105",
+                "SaltFacial\u2122 Skin Renewal / 60 min.": "$300",
+                "Rejuvapen": "$275",
+                "Clear & Brilliant Mini Fraxel Laser Treatment / 30 min.": "$400",
+                "Aesthetician Consult / 30 min.": "$30",
+                "Back Treatment / 60 min.": "$90",
+                "Dermaplane Treatment / 30 min.": "$55",
+                "Teen Facial / 30 min.": "$60",
+                "Prenatal Facial / 45 min.": "$80",
+                "Express Facial / 30 min.": "$60",
+                "Hydrafacial MD\u00ae - Standard / 45 min.": "$195",
+                "Vi Peel / 30 min.": "$250"
+            }
+        }
+    }
+}
