@@ -1,74 +1,92 @@
 {
     "www.tripadvisor.com": {
         "url": "https://www.tripadvisor.com/Attractions-g188052-Activities-c40-Bern_Bern_Mittelland_District_Canton_of_Bern.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.yelp.com": {
         "url": "https://www.yelp.com/search?cflt=massage&find_loc=bern",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.bernaqua.ch": {
         "url": "https://www.bernaqua.ch/de-ch/wellness/massage/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.bernaqua.ch/fr-ch/infos/tarifs/"
     },
     "www.aqua-spa-resorts.ch": {
         "url": "http://www.aqua-spa-resorts.ch/en/hammam-spa-oktogon-bern/vouchers/hammam-ritual-massage",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "http://www.aqua-spa-resorts.ch/en/hammam-spa-oktogon-bern/prices"
     },
     "www.physiozentrum.ch": {
         "url": "https://www.physiozentrum.ch/en/bern-bahnhof/massage/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.physiozentrum.ch/en/order-vouchers/"
     },
     "www.nuumassage.ch": {
         "url": "https://www.nuumassage.ch/de/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.sportsmassagezone.ch": {
         "url": "https://www.sportsmassagezone.ch/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.jenni-wellbeing.ch": {
         "url": "https://www.jenni-wellbeing.ch/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "bern-massagepraxis.ch": {
         "url": "https://bern-massagepraxis.ch/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.der-massoer.ch": {
         "url": "https://www.der-massoer.ch/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "newbernmassagestudio.com": {
         "url": "https://newbernmassagestudio.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://newbernmassagestudio.com/"
     },
     "aegeanmedspa.com": {
         "url": "https://aegeanmedspa.com/massage/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://aegeanmedspa.com/med-spa-services/"
     },
     "www.integri.ch": {
         "url": "https://www.integri.ch/medizinische-massage/uebersicht-medizinische-massage",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.massagebook.com": {
         "url": "https://www.massagebook.com/biz/crystal-coast-massage-and-wellness",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.massagebook.com/marketing/raise-massage-prices-without-losing-clients/"
     },
     "www.facebook.com": {
         "url": "https://www.facebook.com/guidedhandstherapeuticmassage/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "uplevelbodywork.com": {
         "url": "https://uplevelbodywork.com/spa-menu/massage-therapy/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.rinnovaspa.com": {
         "url": "https://www.rinnovaspa.com/medical-spa-services-new-bern/body-treatments/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.rinnovaspa.com/medical-spa-services-new-bern/facials-peels/"
     },
     "www.drflemming.com": {
         "url": "https://www.drflemming.com/chiropractic-massage-therapy",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     }
 }
