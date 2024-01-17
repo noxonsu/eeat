@@ -1,0 +1,29 @@
+{
+    "cloud.google.com": {
+        "url": "https://cloud.google.com/learn/what-is-cloud-hosting"
+    },
+    "www.hostinger.com": {
+        "url": "https://www.hostinger.com/cloud-hosting"
+    },
+    "www.techtarget.com": {
+        "url": "https://www.techtarget.com/searchstorage/definition/cloud-hosting"
+    },
+    "www.cloudways.com": {
+        "url": "https://www.cloudways.com/en/"
+    },
+    "www.pcmag.com": {
+        "url": "https://www.pcmag.com/picks/the-best-cloud-web-hosting-services"
+    },
+    "www.digitalocean.com": {
+        "url": "https://www.digitalocean.com/"
+    },
+    "www.forbes.com": {
+        "url": "https://www.forbes.com/advisor/business/software/best-cloud-hosting/"
+    },
+    "aws.amazon.com": {
+        "url": "https://aws.amazon.com/what-is/cloud-hosting/"
+    },
+    "www.businessnewsdaily.com": {
+        "url": "https://www.businessnewsdaily.com/5030-what-is-cloud-hosting.html"
+    }
+}
