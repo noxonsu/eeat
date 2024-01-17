@@ -1,44 +1,58 @@
 {
     "blog.hubspot.com": {
-        "url": "https://blog.hubspot.com/sales/business-coach"
+        "url": "https://blog.hubspot.com/sales/business-coach",
+        "nature": "single project"
     },
     "www.betterup.com": {
-        "url": "https://www.betterup.com/blog/business-coaching"
+        "url": "https://www.betterup.com/blog/business-coaching",
+        "nature": "single project"
     },
     "www.tonyrobbins.com": {
-        "url": "https://www.tonyrobbins.com/business-coaching/"
+        "url": "https://www.tonyrobbins.com/business-coaching/",
+        "nature": "single project"
     },
     "www.smallbusinesscoach.org": {
-        "url": "https://www.smallbusinesscoach.org/"
+        "url": "https://www.smallbusinesscoach.org/",
+        "nature": "single project"
     },
     "www.noomii.com": {
-        "url": "https://www.noomii.com/business-coaches"
+        "url": "https://www.noomii.com/business-coaches",
+        "nature": "single project"
     },
     "www.briantracy.com": {
-        "url": "https://www.briantracy.com/blog/business-success/business-coaching/"
+        "url": "https://www.briantracy.com/blog/business-success/business-coaching/",
+        "nature": "single project"
     },
     "www.nerdwallet.com": {
-        "url": "https://www.nerdwallet.com/article/small-business/business-coach"
+        "url": "https://www.nerdwallet.com/article/small-business/business-coach",
+        "nature": "single project"
     },
     "www.davelabowitz.com": {
-        "url": "https://www.davelabowitz.com/"
+        "url": "https://www.davelabowitz.com/",
+        "nature": "single project"
     },
     "www.deliberatedirections.com": {
-        "url": "https://www.deliberatedirections.com/best-business-coaches/"
+        "url": "https://www.deliberatedirections.com/best-business-coaches/",
+        "nature": "single project"
     },
     "www.score.org": {
-        "url": "https://www.score.org/find-mentor"
+        "url": "https://www.score.org/find-mentor",
+        "nature": "single project"
     },
     "www.strategiccoach.com": {
-        "url": "https://www.strategiccoach.com/"
+        "url": "https://www.strategiccoach.com/",
+        "nature": "single project"
     },
     "petracoach.com": {
-        "url": "http://petracoach.com/"
+        "url": "http://petracoach.com/",
+        "nature": "single project"
     },
     "www.businesscoach.com": {
-        "url": "https://www.businesscoach.com/"
+        "url": "https://www.businesscoach.com/",
+        "nature": "single project"
     },
     "www.emyth.com": {
-        "url": "https://www.emyth.com/inside/what-is-business-coaching"
+        "url": "https://www.emyth.com/inside/what-is-business-coaching",
+        "nature": "single project"
     }
 }
