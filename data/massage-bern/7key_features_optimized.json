@@ -1,0 +1,44 @@
+{
+    "title": "Optimized Massage Features",
+    "intro": "This list represents the optimized features gathered from analyzing 7 massage companies. A total of 39 features were gathered and optimized to provide a clear and informative list of features for massage services.",
+    "features": {
+        "Massage Types": {
+            "Aroma\u00f6l-Massage": 1,
+            "Thai-Massage": 1,
+            "Hot Stone Massage": 1,
+            "Deep Tissue Massage": 1,
+            "Swedish Massage": 1,
+            "Prenatal Massage": 1,
+            "Crystal Fusion Massage": 2,
+            "Medicupping": 1
+        },
+        "Customization Options": {
+            "Duration Options": 1,
+            "Price Options": 1,
+            "Customized Sessions": 1
+        },
+        "Specialized Treatments": {
+            "Hammam Ritual": 1,
+            "Chakra Balancing": 1,
+            "Crystal Healing Session": 1
+        },
+        "Wellness Packages": {
+            "Treatments & Massages": 1,
+            "Wellness Day": 1
+        },
+        "Gifts and Events": {
+            "Gift Vouchers": 1,
+            "Events": 1
+        },
+        "Expertise and Professionalism": {
+            "Professional Massage Specialists": 1,
+            "20+ Years of Experience": 1,
+            "Location Convenience": 1,
+            "By Appointment Only": 1
+        },
+        "Additional Therapeutic Elements": {
+            "Individualized Treatment Plan": 1,
+            "Use of Hot Towel, Natural Oils, CBD, Hot Stones": 1
+        }
+    }
+}
