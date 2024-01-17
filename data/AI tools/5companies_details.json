@@ -1,0 +1,2684 @@
+{
+    "cloud.google.com": {
+        "AI_tools": {
+            "Google_Cloud": {
+                "call_to_action": "Get started for free",
+                "usecases": [
+                    "AI-powered language translation",
+                    "AI image detection and analysis",
+                    "Speech-to-text transcription",
+                    "Text-to-speech generation",
+                    "Analyze unstructured text",
+                    "Label and analyze video with AI"
+                ],
+                "solutions": "Free offers for common AI use cases, including translation, image and video analysis, speech-to-text, and more.",
+                "key_features": {
+                    "Translation Basic": "Translate and localize text in real time with support for 100+ language pairs",
+                    "Translation Advanced": "Translation support for batch text and formatted documents, custom models, and romanized text",
+                    "Cloud Vision": "Detect faces, properties, landmarks, logos, text, and more in images",
+                    "Speech-to-Text": "Accurately convert speech into text using domain-specific models to improve quality",
+                    "Text-to-Speech": "Convert text into natural-sounding speech with human intonation",
+                    "Natural Language API": "Identify and analyze entities and sentiments in unstructured text",
+                    "Video Intelligence": "Detect shots, faces, celebrities, explicit content, logos, text, and more in video"
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "pricing": "$999 USD for early bird pricing for Google Cloud Next '24",
+                "businessModel": "Pay-as-you-go with automatic savings based on monthly usage and discounted rates for prepaid resources"
+            }
+        }
+    },
+    "clickup.com": {
+        "AI_tools": {
+            "ClickUp": {
+                "call_to_action": "Sign up for a free trial",
+                "usecases": [
+                    "Project management",
+                    "Content creation",
+                    "Coding",
+                    "Meetings"
+                ],
+                "solutions": "Centralized work hub, AI-powered prompts, role-based AI solution, translation, document summarization, project views, automations, integrations, template library",
+                "key_features": [
+                    "Role-based AI-powered prompts",
+                    "Translate action in 12 languages",
+                    "Thread summaries",
+                    "Customizable project views",
+                    "Automations",
+                    "Whiteboards, Docs, Mind Maps, and Chat",
+                    "Over 1,000 integrations",
+                    "Template Library"
+                ]
+            },
+            "ChatGPT": {
+                "call_to_action": "Sign up for free",
+                "usecases": [
+                    "Content creation",
+                    "Conversational AI"
+                ],
+                "solutions": "Content generation, conversation, explanation, code generation",
+                "key_features": [
+                    "Intuitive and minimalist UI",
+                    "Natural language and prompt engineering capabilities",
+                    "Supports over 50 languages",
+                    "Expansive knowledge base"
+                ]
+            },
+            "Jasper": {
+                "call_to_action": "Book a demo",
+                "usecases": [
+                    "Content creation",
+                    "Long-form writing"
+                ],
+                "solutions": "Long-form content creation, idea generation, chat feature",
+                "key_features": [
+                    "Create detailed outlines",
+                    "Tailor responses to different tones",
+                    "Generate ideas quickly",
+                    "Chat feature"
+                ]
+            },
+            "GrammarlyGO": {
+                "call_to_action": "Sign up for free",
+                "usecases": [
+                    "Content creation",
+                    "Grammar and spell-checking"
+                ],
+                "solutions": "Brainstorming, drafting, suggestion feature, plagiarism detection",
+                "key_features": [
+                    "Produce content using unique prompts or suggestions",
+                    "Specify formality and tone",
+                    "Built-in plagiarism detector",
+                    "Integration with other work tools"
+                ]
+            },
+            "Copy.ai": {
+                "call_to_action": "Sign up for free trial",
+                "usecases": [
+                    "Content creation",
+                    "Creative content generation"
+                ],
+                "solutions": "Error-free creative content generation, AI-generated suggestions",
+                "key_features": [
+                    "Machine-learning technology",
+                    "AI copywriter for a wider range of content",
+                    "Straightforward and easy-to-use interface",
+                    "AI-generated suggestions"
+                ]
+            },
+            "Wordtune": {
+                "call_to_action": "Sign up for free",
+                "usecases": [
+                    "Content creation",
+                    "Content editing"
+                ],
+                "solutions": "Content creation, rephrasing, video content repurposing",
+                "key_features": [
+                    "Integration with common work tools",
+                    "Synonyms feature",
+                    "Repurpose video content into written blogs"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "www.synthesia.io": {
+        "AI_tools": {
+            "Synthesia": {
+                "call_to_action": "Book a demo",
+                "use_cases": [
+                    "Learning and Development",
+                    "Sales Enablement",
+                    "Information Technology",
+                    "Marketing",
+                    "Customer Service",
+                    "Enterprise"
+                ],
+                "solutions": "AI video generation with human presenters",
+                "key_features": [
+                    "Intuitive and easy to use",
+                    "Supports over 120 languages",
+                    "High-quality avatars",
+                    "Many templates available"
+                ]
+            },
+            "Runway": {
+                "call_to_action": "Talk to team",
+                "use_cases": [],
+                "solutions": "Video editing and enhancement",
+                "key_features": [
+                    "Various video editing capabilities",
+                    "Video generation from scratch",
+                    "Video generation from images"
+                ]
+            },
+            "Unscreen": {
+                "call_to_action": "Sign up",
+                "use_cases": [],
+                "solutions": "Automatic background removal from videos",
+                "key_features": [
+                    "Supports different video formats",
+                    "Allows addition of new background",
+                    "Can be used via After Effects or Premiere Pro extensions"
+                ]
+            },
+            "VREW": {
+                "call_to_action": "Sign up",
+                "use_cases": [],
+                "solutions": "AI-based video caption generation",
+                "key_features": [
+                    "Easy to use",
+                    "Generates captions based on video",
+                    "Supports script-based caption generation"
+                ]
+            },
+            "Descript": {
+                "call_to_action": "Sign up",
+                "use_cases": [],
+                "solutions": "Comprehensive AI video editing",
+                "key_features": [
+                    "Dynamic caption creation",
+                    "Automatic filler word removal",
+                    "End-to-end video editing experience"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": [
+                {
+                    "name": "Starter",
+                    "billingCycle": "monthly",
+                    "price": 29,
+                    "features": "1 editor & 3 guests, 10 minutes of video/month, 70+ AI avatars, 120+ languages and voices, AI script assistant, built-in screen recorder, image, video & music uploads"
+                },
+                {
+                    "name": "Creator",
+                    "billingCycle": "monthly",
+                    "price": 89,
+                    "features": "1 editor & 5 guests, 30 minutes of video/month, 90+ AI avatars, 120+ languages and voices, AI script assistant, built-in screen recorder, image, video & music uploads"
+                },
+                {
+                    "name": "Enterprise",
+                    "billingCycle": "custom",
+                    "price": "Contact sales",
+                    "features": "Custom # of editors & guests, Unlimited videos, 140+ AI avatars, 120+ languages and voices, AI script assistant, built-in screen recorder, image, video & music uploads, teams & collaboration, 1-click translations, priority support"
+                }
+            ],
+            "businessModel": "Subscription-based"
+        }
+    },
+    "zapier.com": {
+        "AI Tools": {
+            "Zapier Automation Platform": {
+                "call_to_action": "Join Zapier Early Access",
+                "usecases": [
+                    "Lead management",
+                    "Sales pipeline",
+                    "Marketing campaigns",
+                    "Customer support",
+                    "Data management",
+                    "Project management",
+                    "Tickets and incidents"
+                ],
+                "solutions": "No-code automation across 6,000+ apps",
+                "key_features": "Build flexible workflows, App integrations with 6,000+ app connections, Tables, Interfaces, Chatbots, AI features",
+                "strengths": "Wide range of app integrations, No-code automation, AI features",
+                "areas_for_improvement": "May require technical knowledge for advanced automations"
+            },
+            "ChatGPT": {
+                "call_to_action": "Explore ChatGPT integration",
+                "usecases": [
+                    "Conversational automation"
+                ],
+                "solutions": "AI tool for conversational automation",
+                "key_features": "Enables conversational automation",
+                "strengths": "Powerful OpenAI integration, Conversational automation capabilities",
+                "areas_for_improvement": "May require familiarity with OpenAI models"
+            },
+            "OpenAI (GPT-3, DALL-E, Whisper)": {
+                "call_to_action": "Explore OpenAI integration",
+                "usecases": [
+                    "AI powered workflows"
+                ],
+                "solutions": "Build AI powered workflows with OpenAI\u2019s powerful models",
+                "key_features": "AI powered workflows with GPT-3, DALL-E, Whisper",
+                "strengths": "Powerful AI models, AI powered workflows",
+                "areas_for_improvement": "May require understanding of AI models"
+            },
+            "Mem": {
+                "call_to_action": "Explore Mem",
+                "usecases": [
+                    "Capture, share, and access information"
+                ],
+                "solutions": "Tool for capturing, sharing, and accessing information",
+                "key_features": "Capture, share, and access information",
+                "strengths": "Information management capabilities",
+                "areas_for_improvement": "Limited information on advanced features"
+            },
+            "Browse AI": {
+                "call_to_action": "Explore Browse AI",
+                "usecases": [
+                    "Web data extraction and monitoring"
+                ],
+                "solutions": "Web automation tool for data extraction and monitoring",
+                "key_features": "Extract and monitor data from any website",
+                "strengths": "Web data extraction capabilities",
+                "areas_for_improvement": "May require technical knowledge for setup"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Free": {
+                    "price": "0 USD/mo",
+                    "features": [
+                        "Two-step Zaps",
+                        "Visual editor",
+                        "Unlimited Zaps"
+                    ]
+                },
+                "Starter": {
+                    "price": "19.99 USD/mo (Billed annually)",
+                    "features": [
+                        "Multi-step Zaps",
+                        "Zapier data tools",
+                        "Zap versions"
+                    ]
+                },
+                "Professional": {
+                    "price": "49 USD/mo (Billed annually)",
+                    "features": [
+                        "Conditional Zaps",
+                        "Advanced Zap settings",
+                        "Unlimited Premium apps"
+                    ]
+                },
+                "Team": {
+                    "price": "69 USD/mo (Billed annually)",
+                    "features": [
+                        "Unlimited users",
+                        "Shared app connections",
+                        "Shared workspace",
+                        "Premier Support"
+                    ]
+                },
+                "Company": {
+                    "price": "Contact Sales",
+                    "features": [
+                        "SAML single sign-on (SSO)",
+                        "Advanced admin permissions",
+                        "Custom data retention"
+                    ]
+                }
+            }
+        }
+    },
+    "ai.google": {
+        "AI_tools": {
+            "Google_AI": {
+                "call_to_action": "Explore the site, Watch the story, Read the technical report, Build now",
+                "usecases": [
+                    "Improving skin tone evaluation in machine learning",
+                    "Accelerating scientific discovery",
+                    "Building a useful quantum computer"
+                ],
+                "solutions": "Developing and harnessing artificial intelligence for the benefit of humanity",
+                "key_features": "Generative AI, Gemini, PaLM 2, Science AI, Quantum AI, AI Blogs, Research, Machine Learning, Social Good"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Cloud TPU v5p": {
+                    "Evaluation Price (USD)": "Starting at $4.2000 per chip-hour",
+                    "1-year commitment (USD)": "Starting at $2.9400 per chip-hour",
+                    "3-year commitment (USD)": "Starting at $1.8900 per chip-hour"
+                },
+                "Cloud TPU v5e": {
+                    "Evaluation Price (USD)": "Starting at $1.2000 per chip-hour",
+                    "1-year commitment (USD)": "Starting at $0.8400 per chip-hour",
+                    "3-year commitment (USD)": "Starting at $0.5400 per chip-hour"
+                }
+            }
+        }
+    },
+    "niftypm.com": {
+        "AI Tools": {
+            "Nifty": {
+                "call_to_action": "Get Started Free",
+                "usecases": [
+                    "Agile Development",
+                    "Client Management",
+                    "Digital Agencies",
+                    "Legal Case Management",
+                    "Marketing Teams",
+                    "Product Teams"
+                ],
+                "solutions": "Nifty is a project management tool that offers features such as discussions, milestones, tasks, docs & files, time tracking, reporting, project home, and project portfolios.",
+                "key_features": [
+                    "Milestones (Gantt Chart)",
+                    "Tasks",
+                    "Docs & Files",
+                    "Time Tracking",
+                    "Reporting",
+                    "Project Home",
+                    "Project Portfolios"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Free": {
+                    "price": "$0",
+                    "features": {
+                        "Storage Space": "100 MB",
+                        "Active Projects": "2",
+                        "Tasks": true,
+                        "Milestones": true,
+                        "Discussions": true,
+                        "Docs": true,
+                        "Files": true,
+                        "Team Chat": true,
+                        "Portfolios": true,
+                        "Recurring Tasks": true,
+                        "Task Dependencies": true,
+                        "Milestone Dependencies": true,
+                        "Two-Factor Authentication": true,
+                        "Self-Serve Help Center": true
+                    }
+                },
+                "Personal": {
+                    "price": "$5 per member, per month",
+                    "features": {
+                        "Storage Space": "100 GB",
+                        "Active Projects": "40",
+                        "Guests & Clients per paid seat": "2",
+                        "Tasks": true,
+                        "Milestones": true,
+                        "Discussions": true,
+                        "Docs": true,
+                        "Files": true,
+                        "Team Chat": true,
+                        "Portfolios": true,
+                        "Recurring Tasks": true,
+                        "Task Dependencies": true,
+                        "Milestone Dependencies": true,
+                        "Custom Fields": true,
+                        "Budget Tracking": true,
+                        "Time Tracking & Reporting": true,
+                        "Two-Factor Authentication": true,
+                        "Self-Serve Help Center": true
+                    }
+                },
+                "Pro": {
+                    "price": "$10 per member, per month",
+                    "features": {
+                        "Storage Space": "250 GB",
+                        "Active Projects": "100",
+                        "Guests & Clients per paid seat": "5",
+                        "Tasks": true,
+                        "Milestones": true,
+                        "Discussions": true,
+                        "Docs": true,
+                        "Files": true,
+                        "Team Chat": true,
+                        "Portfolios": true,
+                        "Recurring Tasks": true,
+                        "Task Dependencies": true,
+                        "Milestone Dependencies": true,
+                        "Custom Fields": true,
+                        "Budget Tracking": true,
+                        "Time Tracking & Reporting": true,
+                        "Workflow Automations": true,
+                        "File Proofing": true,
+                        "Cross-Project Overviews": true,
+                        "Two-Factor Authentication": true,
+                        "Google SSO": true,
+                        "Self-Serve Help Center": true
+                    }
+                },
+                "Business": {
+                    "price": "$16 per member, per month",
+                    "features": {
+                        "Storage Space": "Unlimited",
+                        "Active Projects": "Unlimited",
+                        "Guests & Clients": "Unlimited",
+                        "Tasks": true,
+                        "Milestones": true,
+                        "Discussions": true,
+                        "Docs": true,
+                        "Files": true,
+                        "Team Chat": true,
+                        "Portfolios": true,
+                        "Recurring Tasks": true,
+                        "Task Dependencies": true,
+                        "Milestone Dependencies": true,
+                        "Custom Fields": true,
+                        "Budget Tracking": true,
+                        "Time Tracking & Reporting": true,
+                        "Workflow Automations": true,
+                        "File Proofing": true,
+                        "Cross-Project Overviews": true,
+                        "Goals Tracking": true,
+                        "Team Workloads": true,
+                        "Custom Roles & Permissions": true,
+                        "Two-Factor Authentication": true,
+                        "Google SSO": true,
+                        "Microsoft SSO": true,
+                        "Open API": true,
+                        "Self-Serve Help Center": true,
+                        "Priority Support": true
+                    }
+                }
+            }
+        }
+    },
+    "www.cnbc.com": {
+        "AI_tools": {
+            "Amazon AI Tool": {
+                "call_to_action": "Create free account",
+                "usecases": [
+                    "Answering shoppers' questions about a product",
+                    "Summarizing product reviews and listings",
+                    "Assisting third-party sellers with writing listings and generating photos for ads",
+                    "Forecasting inventory and determining last-mile routes for drivers"
+                ],
+                "solutions": "Improving shopping experience by providing quick answers to product-related questions",
+                "key_features": [
+                    "Generative AI-powered question answering",
+                    "Summarization of product reviews",
+                    "AI-generated images for advertisements",
+                    "AI chatbot for companies",
+                    "Generative AI service for Amazon Web Services customers"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "openai.com": {
+        "AI_tools": {
+            "OpenAI": {
+                "call_to_action": "Try ChatGPT",
+                "usecases": "Research, API, ChatGPT, Safety, Company",
+                "solutions": "Generative models, API platform, ChatGPT, Safety best practices",
+                "key_features": "Latest models, Safety best practices, Enterprise solutions",
+                "potential_areas_for_improvement": "Limited information on specific use cases and industries targeted"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "GPT-4": {
+                    "models": [
+                        {
+                            "model": "gpt-4-1106-preview",
+                            "inputPrice": "$0.01 / 1K tokens",
+                            "outputPrice": "$0.03 / 1K tokens"
+                        },
+                        {
+                            "model": "gpt-4-1106-vision-preview",
+                            "inputPrice": "$0.01 / 1K tokens",
+                            "outputPrice": "$0.03 / 1K tokens"
+                        }
+                    ]
+                },
+                "GPT-4 Turbo": {
+                    "model": "gpt-4-1106-preview",
+                    "inputPrice": "$0.01 / 1K tokens",
+                    "outputPrice": "$0.03 / 1K tokens"
+                },
+                "GPT-4-32k": {
+                    "model": "gpt-4",
+                    "inputPrice": "$0.06 / 1K tokens",
+                    "outputPrice": "$0.12 / 1K tokens"
+                },
+                "GPT-3.5 Turbo": {
+                    "models": [
+                        {
+                            "model": "gpt-3.5-turbo-1106",
+                            "inputPrice": "$0.0010 / 1K tokens",
+                            "outputPrice": "$0.0020 / 1K tokens"
+                        },
+                        {
+                            "model": "gpt-3.5-turbo-instruct",
+                            "inputPrice": "$0.0015 / 1K tokens",
+                            "outputPrice": "$0.0020 / 1K tokens"
+                        }
+                    ]
+                },
+                "Assistants API": {
+                    "codeInterpreter": "$0.03 / session",
+                    "retrieval": "$0.20 / GB / assistant / day (free until 02/01/2024)"
+                },
+                "Fine-tuning models": {
+                    "models": [
+                        {
+                            "model": "gpt-3.5-turbo",
+                            "trainingPrice": "$0.0080 / 1K tokens",
+                            "inputUsagePrice": "$0.0030 / 1K tokens",
+                            "outputUsagePrice": "$0.0060 / 1K tokens"
+                        },
+                        {
+                            "model": "davinci-002",
+                            "trainingPrice": "$0.0060 / 1K tokens",
+                            "inputUsagePrice": "$0.0120 / 1K tokens",
+                            "outputUsagePrice": "$0.0120 / 1K tokens"
+                        },
+                        {
+                            "model": "babbage-002",
+                            "trainingPrice": "$0.0004 / 1K tokens",
+                            "inputUsagePrice": "$0.0016 / 1K tokens",
+                            "outputUsagePrice": "$0.0016 / 1K tokens"
+                        }
+                    ]
+                },
+                "Embedding models": {
+                    "adaV2": "$0.0001 / 1K tokens"
+                },
+                "Base models": {
+                    "davinci-002": "$0.0020 / 1K tokens",
+                    "babbage-002": "$0.0004 / 1K tokens"
+                },
+                "Image models": {
+                    "DALL-E 3": [
+                        {
+                            "quality": "Standard",
+                            "resolution": "1024x1024",
+                            "price": "$0.040 / image"
+                        },
+                        {
+                            "quality": "Standard",
+                            "resolution": "1024x1792, 1792x1024",
+                            "price": "$0.080 / image"
+                        },
+                        {
+                            "quality": "HD",
+                            "resolution": "1024x1024",
+                            "price": "$0.080 / image"
+                        },
+                        {
+                            "quality": "HD",
+                            "resolution": "1024x1792, 1792x1024",
+                            "price": "$0.120 / image"
+                        }
+                    ],
+                    "DALL-E 2": [
+                        {
+                            "resolution": "1024x1024",
+                            "price": "$0.020 / image"
+                        },
+                        {
+                            "resolution": "512x512",
+                            "price": "$0.018 / image"
+                        },
+                        {
+                            "resolution": "256x256",
+                            "price": "$0.016 / image"
+                        }
+                    ]
+                },
+                "Audio models": {
+                    "Whisper": "$0.006 / minute (rounded to the nearest second)",
+                    "TTS": "$0.015 / 1K characters",
+                    "TTS HD": "$0.030 / 1K characters"
+                }
+            }
+        }
+    },
+    "www.futuretools.io": {
+        "AI_tools": [
+            {
+                "name": "TimeHero",
+                "description": "A tool to plan tasks, projects, and schedules for remote teams.",
+                "category": "Productivity",
+                "upvotes": 6,
+                "downvotes": 6,
+                "total_votes": 6,
+                "call_to_action": "book a demo",
+                "usecases": [
+                    "task planning",
+                    "project management",
+                    "scheduling"
+                ],
+                "solutions": [
+                    "remote team collaboration"
+                ],
+                "key_features": [
+                    "task planning",
+                    "project scheduling",
+                    "team collaboration"
+                ]
+            },
+            {
+                "name": "Typho",
+                "description": "An iOS app to generate self-portraits from text.",
+                "category": "Generative Art",
+                "upvotes": 4,
+                "downvotes": 4,
+                "total_votes": 4,
+                "call_to_action": "talk to team",
+                "usecases": [
+                    "self-portrait generation",
+                    "creative expression"
+                ],
+                "solutions": [
+                    "text-based art generation"
+                ],
+                "key_features": [
+                    "self-portrait generation",
+                    "text-based art"
+                ]
+            },
+            {
+                "name": "MakeShorts AI",
+                "description": "A tool to generate video shorts from YouTube videos.",
+                "category": "Social Media",
+                "upvotes": 13,
+                "downvotes": 13,
+                "total_votes": 13,
+                "call_to_action": "sign up",
+                "usecases": [
+                    "video short generation",
+                    "content creation"
+                ],
+                "solutions": [
+                    "social media content generation"
+                ],
+                "key_features": [
+                    "video short generation",
+                    "YouTube video conversion"
+                ]
+            },
+            {
+                "name": "Checksub",
+                "description": "A tool to manage video subtitling, dubbing, and global distribution",
+                "category": "Translation",
+                "upvotes": 2,
+                "downvotes": 2,
+                "total_votes": 2,
+                "call_to_action": "book a demo",
+                "usecases": [
+                    "video subtitling",
+                    "dubbing management",
+                    "global distribution"
+                ],
+                "solutions": [
+                    "multilingual video management"
+                ],
+                "key_features": [
+                    "subtitling management",
+                    "dubbing control",
+                    "global distribution"
+                ]
+            },
+            {
+                "name": "Lutra",
+                "description": "A nocode tool to integrate AI into workflows.",
+                "category": "Productivity",
+                "upvotes": 1,
+                "downvotes": 1,
+                "total_votes": 1,
+                "call_to_action": "talk to a manager",
+                "usecases": [
+                    "AI integration",
+                    "workflow automation"
+                ],
+                "solutions": [
+                    "nocode AI integration"
+                ],
+                "key_features": [
+                    "workflow automation",
+                    "nocode AI integration"
+                ]
+            },
+            {
+                "name": "Moncelo",
+                "description": "A tool for tracking progress and project management.",
+                "category": "Productivity",
+                "upvotes": 4,
+                "downvotes": 4,
+                "total_votes": 4,
+                "call_to_action": "sign up",
+                "usecases": [
+                    "progress tracking",
+                    "project management"
+                ],
+                "solutions": [
+                    "task progress monitoring"
+                ],
+                "key_features": [
+                    "progress tracking",
+                    "project management"
+                ]
+            },
+            {
+                "name": "FaceVary",
+                "description": "A tool to swap faces using customizable templates for diverse images.",
+                "category": "Image Improvement",
+                "upvotes": 15,
+                "downvotes": 15,
+                "total_votes": 15,
+                "call_to_action": "book a demo",
+                "usecases": [
+                    "face swapping",
+                    "image enhancement"
+                ],
+                "solutions": [
+                    "diverse image manipulation"
+                ],
+                "key_features": [
+                    "face swapping",
+                    "template-based image enhancement"
+                ]
+            },
+            {
+                "name": "Beloga",
+                "description": "A tool to assist research, note-taking, and idea generation.",
+                "category": "Productivity",
+                "upvotes": 2,
+                "downvotes": 2,
+                "total_votes": 2,
+                "call_to_action": "talk to team",
+                "usecases": [
+                    "research assistance",
+                    "note-taking",
+                    "idea generation"
+                ],
+                "solutions": [
+                    "research support"
+                ],
+                "key_features": [
+                    "note-taking",
+                    "idea generation",
+                    "research assistance"
+                ]
+            },
+            {
+                "name": "Zoviz",
+                "description": "A tool to create professional logos and brand assets kit.",
+                "category": "Generative Art",
+                "upvotes": 9,
+                "downvotes": 9,
+                "total_votes": 9,
+                "call_to_action": "sign up",
+                "usecases": [
+                    "logo creation",
+                    "brand asset generation"
+                ],
+                "solutions": [
+                    "professional branding"
+                ],
+                "key_features": [
+                    "logo creation",
+                    "brand asset generation"
+                ]
+            },
+            {
+                "name": "Schemawriter.ai",
+                "description": "A tool to automate webpage schema creation for SEO.",
+                "category": "Marketing",
+                "upvotes": 3,
+                "downvotes": 3,
+                "total_votes": 3,
+                "call_to_action": "book a demo",
+                "usecases": [
+                    "webpage schema automation",
+                    "SEO optimization"
+                ],
+                "solutions": [
+                    "SEO-friendly schema generation"
+                ],
+                "key_features": [
+                    "schema automation",
+                    "SEO optimization"
+                ]
+            },
+            {
+                "name": "SciPubPlus",
+                "description": "A tool for researchers to automate academic writing tasks.",
+                "category": "Research",
+                "upvotes": 3,
+                "downvotes": 3,
+                "total_votes": 3,
+                "call_to_action": "sign up",
+                "usecases": [
+                    "academic writing automation",
+                    "research support"
+                ],
+                "solutions": [
+                    "research writing automation"
+                ],
+                "key_features": [
+                    "academic writing automation",
+                    "research support"
+                ]
+            },
+            {
+                "name": "SearchPlus",
+                "description": "A tool to question and summarize PDFs.",
+                "category": "Research",
+                "upvotes": 4,
+                "downvotes": 4,
+                "total_votes": 4,
+                "call_to_action": "talk to a manager",
+                "usecases": [
+                    "PDF questioning",
+                    "summary generation"
+                ],
+                "solutions": [
+                    "PDF analysis and summarization"
+                ],
+                "key_features": [
+                    "PDF questioning",
+                    "summary generation"
+                ]
+            },
+            {
+                "name": "Ginger",
+                "description": "A tool to refine writing, correct grammar and errors.",
+                "category": "Productivity",
+                "upvotes": 1,
+                "downvotes": 1,
+                "total_votes": 1,
+                "call_to_action": "talk to team",
+                "usecases": [
+                    "writing refinement",
+                    "grammar correction"
+                ],
+                "solutions": [
+                    "writing improvement"
+                ],
+                "key_features": [
+                    "grammar correction",
+                    "writing refinement"
+                ]
+            },
+            {
+                "name": "Cline AI",
+                "description": "A tool to conduct A/B and split tests for website optimization.",
+                "category": "Marketing",
+                "upvotes": 5,
+                "downvotes": 5,
+                "total_votes": 5,
+                "call_to_action": "book a demo",
+                "usecases": [
+                    "A/B testing",
+                    "website optimization"
+                ],
+                "solutions": [
+                    "website testing and optimization"
+                ],
+                "key_features": [
+                    "A/B testing",
+                    "split testing"
+                ]
+            },
+            {
+                "name": "Items.Design",
+                "description": "A library of AI-designed assets for various creative projects.",
+                "category": "Generative Art",
+                "upvotes": 4,
+                "downvotes": 4,
+                "total_votes": 4,
+                "call_to_action": "sign up",
+                "usecases": [
+                    "AI-designed assets",
+                    "creative project support"
+                ],
+                "solutions": [
+                    "creative asset library"
+                ],
+                "key_features": [
+                    "AI-designed assets",
+                    "creative project support"
+                ]
+            },
+            {
+                "name": "Manja.ai",
+                "description": "A tool to optimize sales with AI coaching and analytics.",
+                "category": "Productivity",
+                "upvotes": 3,
+                "downvotes": 3,
+                "total_votes": 3,
+                "call_to_action": "talk to a manager",
+                "usecases": [
+                    "sales optimization",
+                    "AI coaching"
+                ],
+                "solutions": [
+                    "AI-driven sales analytics"
+                ],
+                "key_features": [
+                    "sales optimization",
+                    "AI coaching",
+                    "analytics"
+                ]
+            },
+            {
+                "name": "UserWise",
+                "description": "A tool to collect, analyze & optimize customer feedback for data-driven actionable insights.",
+                "category": "Productivity",
+                "upvotes": 1,
+                "downvotes": 1,
+                "total_votes": 1,
+                "call_to_action": "talk to team",
+                "usecases": [
+                    "customer feedback collection",
+                    "data-driven insights"
+                ],
+                "solutions": [
+                    "feedback analysis and optimization"
+                ],
+                "key_features": [
+                    "feedback collection",
+                    "data-driven insights"
+                ]
+            },
+            {
+                "name": "ChatHelp",
+                "description": "A tool to use an AI assistant for study and business tasks.",
+                "category": "Chat",
+                "upvotes": 2,
+                "downvotes": 2,
+                "total_votes": 2,
+                "call_to_action": "sign up",
+                "usecases": [
+                    "AI assistant for study",
+                    "AI assistant for business tasks"
+                ],
+                "solutions": [
+                    "AI-based task assistance"
+                ],
+                "key_features": [
+                    "AI assistant for study",
+                    "AI assistant for business tasks"
+                ]
+            },
+            {
+                "name": "SEOpital",
+                "description": "A tool to generate SEO optimized content.",
+                "category": "Copywriting",
+                "upvotes": 26,
+                "downvotes": 26,
+                "total_votes": 26,
+                "call_to_action": "book a demo",
+                "usecases": [
+                    "SEO content generation",
+                    "content optimization"
+                ],
+                "solutions": [
+                    "SEO-friendly content creation"
+                ],
+                "key_features": [
+                    "SEO content generation",
+                    "content optimization"
+                ]
+            },
+            {
+                "name": "Beacons",
+                "description": "A platform for content creation and management for creators.",
+                "category": "Marketing",
+                "upvotes": 4,
+                "downvotes": 4,
+                "total_votes": 4,
+                "call_to_action": "sign up",
+                "usecases": [
+                    "content creation",
+                    "content management"
+                ],
+                "solutions": [
+                    "creator content support"
+                ],
+                "key_features": [
+                    "content creation",
+                    "content management"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "pricingModel": "Freemium",
+                "price": "$20 per month or $200/year",
+                "freeTrial": true
+            }
+        }
+    },
+    "www.futurepedia.io": {
+        "AI_tools": {
+            "KeywordSpy": {
+                "call_to_action": "Get Deal",
+                "usecases": [
+                    "SEO research"
+                ],
+                "solutions": "Optimized SEO research output",
+                "key_features": "SEO research output"
+            },
+            "WPTurbo": {
+                "call_to_action": "Get Deal",
+                "usecases": [
+                    "WordPress development"
+                ],
+                "solutions": "AI-powered WordPress development tools",
+                "key_features": "WordPress development tools"
+            },
+            "Ideabuddy": {
+                "call_to_action": "Get Deal",
+                "usecases": [
+                    "Business planning"
+                ],
+                "solutions": "Easy-to-use planning software for business launch",
+                "key_features": "Business planning software"
+            },
+            "MapDeduce": {
+                "call_to_action": "Get Deal",
+                "usecases": [
+                    "Document comprehension"
+                ],
+                "solutions": "AI-powered document comprehension",
+                "key_features": "Document comprehension"
+            },
+            "Writeseed": {
+                "call_to_action": "Get Deal",
+                "usecases": [
+                    "SEO-optimized content creation"
+                ],
+                "solutions": "Create SEO-optimized content for blogs and websites",
+                "key_features": "SEO-optimized content creation"
+            },
+            "Humata AI": {
+                "call_to_action": "Freemium",
+                "usecases": [
+                    "ChatGPT for files",
+                    "Education",
+                    "Generative AI tools",
+                    "Research",
+                    "Customer support",
+                    "Human resources",
+                    "Legal",
+                    "Summarizer",
+                    "Productivity"
+                ],
+                "solutions": "ChatGPT for files and various other use cases",
+                "key_features": "ChatGPT, Generative AI tools, Summarizer, Productivity"
+            },
+            "Linguix": {
+                "call_to_action": "Freemium",
+                "usecases": [
+                    "Content fixing and rewriting"
+                ],
+                "solutions": "Fix and rewrite content on millions of websites",
+                "key_features": "Content fixing and rewriting"
+            },
+            "Checklist.gg": {
+                "call_to_action": "Get Deal",
+                "usecases": [
+                    "AI-driven checklists and processes management"
+                ],
+                "solutions": "AI-driven checklists, processes & SOPs management tool",
+                "key_features": "AI-driven checklists and processes management"
+            },
+            "Vizologi": {
+                "call_to_action": "Get Deal",
+                "usecases": [
+                    "Business strategy boosting"
+                ],
+                "solutions": "Boost business strategy with Vizologi",
+                "key_features": "Business strategy boosting"
+            },
+            "HoopsAI": {
+                "call_to_action": "Visit",
+                "usecases": [
+                    "Real-time trading insights and analysis for retail investors"
+                ],
+                "solutions": "Real-time trading insights and analysis",
+                "key_features": "Real-time trading insights and analysis"
+            },
+            "Airbrush": {
+                "call_to_action": "Get Deal",
+                "usecases": [
+                    "AI-powered image creation"
+                ],
+                "solutions": "Create original images with AI in seconds",
+                "key_features": "AI-powered image creation"
+            },
+            "Spikes Studio": {
+                "call_to_action": "Visit",
+                "usecases": [
+                    "Video editing",
+                    "Text to video transformation"
+                ],
+                "solutions": "Video editing and transformation of lengthy videos into viral clips",
+                "key_features": "Video editing, Text to video transformation"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Free": "$0, 1M characters one time",
+                "Basic": "$49/month, 3M characters per month",
+                "Plus": "$499/month, 62M characters per month",
+                "Enterprise": "Custom pricing, 300M+ characters per month"
+            }
+        }
+    },
+    "intellipaat.com": {
+        "AI_tools": {
+            "ChatGPT4": {
+                "call_to_action": "Sign up for ChatGPT4",
+                "usecases": [
+                    "Generating text",
+                    "Translation",
+                    "Creating creative content"
+                ],
+                "solutions": "Large language model for generating text, translation, and creative content",
+                "key_features": [
+                    "Customizes educational materials and teaching approaches",
+                    "Analyzes intricate data for valuable insights",
+                    "Adjusts communication style to align with user's personality"
+                ]
+            },
+            "Google Bard": {
+                "call_to_action": "Sign up for Google Bard",
+                "usecases": [
+                    "Conversational AI",
+                    "Language model for generating content"
+                ],
+                "solutions": "Large language model by Google AI, trained on vast text and code dataset",
+                "key_features": [
+                    "Enables real-time translation of conversations",
+                    "Adjusts responses and suggestions to match conversation context",
+                    "Generates a range of content from poems and stories to essays"
+                ]
+            },
+            "Chatsonic": {
+                "call_to_action": "Sign up for Chatsonic",
+                "usecases": [
+                    "AI-powered chatbot platform"
+                ],
+                "solutions": "AI-powered chatbot platform",
+                "key_features": [
+                    "Generates eye-catching and shareable social media posts",
+                    "Understands emotions in text messages",
+                    "Delivers swift, precise, and customized customer assistance"
+                ]
+            },
+            "Midjourney": {
+                "call_to_action": "Sign up for Midjourney",
+                "usecases": [
+                    "AI-powered text-to-image generator"
+                ],
+                "solutions": "AI-powered text-to-image generator",
+                "key_features": [
+                    "Design and visualize realistic product prototypes",
+                    "Craft lifelike portraits",
+                    "Reimagine historical events and create realistic scenes"
+                ]
+            },
+            "DALL-E 3": {
+                "call_to_action": "Sign up for DALL-E 3",
+                "usecases": [
+                    "AI-powered image generator"
+                ],
+                "solutions": "AI-powered image generator",
+                "key_features": [
+                    "Transform cinematic concepts into reality",
+                    "Generates visual solutions for complex challenges",
+                    "Helps in language comprehension by visually representing idioms and expressions"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "pricingStructure": {
+                    "dataTransfer": {
+                        "first10TB": "$0.0125 per GB",
+                        "after10TB": "$0.01 per GB"
+                    },
+                    "taskCreation": "$0.40 per task per day",
+                    "freeTier": {
+                        "activeTasks": "Up to 5",
+                        "filesTransferredPerTask": "Up to 10,000",
+                        "dataTransferredPerTask": "Up to 5GB per month"
+                    }
+                },
+                "businessModel": "Based on quantity of data, number of tasks, and destination storage service."
+            }
+        }
+    },
+    "runwayml.com": {
+        "AI_tools": {
+            "Runway Research": {
+                "call_to_action": "Try Runway for Free",
+                "usecases": [
+                    "Enabling the impossible",
+                    "Building multimodal AI systems",
+                    "Ushering in a new era of human creativity"
+                ],
+                "solutions": "AI Magic Tools, Gen-2 Footage Packs",
+                "key_features": [
+                    "Text to Video",
+                    "Video to Video",
+                    "AI Training",
+                    "Text to Image",
+                    "Image to Image",
+                    "Expand Image",
+                    "Frame Interpolation",
+                    "Erase and Replace",
+                    "Infinite Image",
+                    "Backdrop Remix",
+                    "Image Variation",
+                    "3D Texture",
+                    "Inpainting",
+                    "Text to Color Grade (LUT)",
+                    "Super-Slow Motion",
+                    "Blur Faces",
+                    "Depth of Field",
+                    "Scene Detection",
+                    "Clean Audio",
+                    "Remove Silence",
+                    "Transcript",
+                    "Subtitles",
+                    "Add Color",
+                    "Upscale Image",
+                    "Motion Tracking",
+                    "Green Screen"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Basic": {
+                    "price": "Free Forever",
+                    "features": {
+                        "credits": "125 credits",
+                        "limitations": [
+                            "Can't buy more credits",
+                            "Can't upscale resolution or remove watermarks on Gen-1 and Gen-2",
+                            "Limited image export options"
+                        ]
+                    }
+                },
+                "Standard": {
+                    "price": "$12 per user per month (billed annually as $144)",
+                    "features": {
+                        "credits": "625 credits/month",
+                        "additionalFeatures": [
+                            "Credits reset to 625 every month",
+                            "Upscale resolution and remove watermarks on Gen-1 and Gen-2",
+                            "Video editor exports in 4K & Green Screen alpha matte"
+                        ]
+                    }
+                },
+                "Pro": {
+                    "price": "$28 per user per month (billed annually as $336)",
+                    "features": {
+                        "credits": "2250 credits/month",
+                        "additionalFeatures": [
+                            "Credits reset to 2250 every month",
+                            "Up to 10 editors",
+                            "All video editor exports from Standard, plus PNG & ProRes for video editor compositions"
+                        ]
+                    }
+                },
+                "Unlimited": {
+                    "price": "$76 per user per month (billed annually as $912)",
+                    "features": {
+                        "unlimitedGenerations": "Unlimited video generations",
+                        "includesAllProPlanFeatures": true
+                    }
+                },
+                "Enterprise": {
+                    "price": "Contact Us",
+                    "features": "Custom credit amounts, Model customizations, Advanced security and compliance, Ongoing success program, Enterprise-wide Support, Custom storage, Integration with internal tools"
+                }
+            }
+        }
+    },
+    "www.aitoolsclub.com": {
+        "AI_tools": {
+            "Aragon": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Image Generation",
+                    "Design"
+                ],
+                "solutions": "Get stunning professional headshots effortlessly with Aragon. Utilize the latest in A.I. technology to create high-quality headshots of yourself",
+                "key_features": [
+                    "Professional headshot generation",
+                    "Effortless process"
+                ]
+            },
+            "Columns Ai": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Business Intelligence",
+                    "Data Integration"
+                ],
+                "solutions": "Experience the dynamic storytelling of Columns Ai, a lightweight BI tool for agile teams. Effortlessly integrate data from various sources",
+                "key_features": [
+                    "Business Intelligence",
+                    "Data integration"
+                ]
+            },
+            "Spikes Studio": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Video Editing"
+                ],
+                "solutions": "Spikes Studio instantly transforms long videos into viral clips with its AI editor. Take control with easy trimming, extending",
+                "key_features": [
+                    "Video editing",
+                    "AI editor"
+                ]
+            },
+            "Checklist.gg": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Productivity",
+                    "Workflow Management"
+                ],
+                "solutions": "Revolutionize efficiency with Checklist.gg, an AI-driven tool that creates tailored checklists in seconds. Organize workflows, collaborate, and track progress",
+                "key_features": [
+                    "Workflow management",
+                    "AI-driven checklists"
+                ]
+            },
+            "Civitai": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Image Generation",
+                    "Video Generation"
+                ],
+                "solutions": "Civitai is like a worldwide hub where people come together to explore, make, and spread awesome resources and art",
+                "key_features": [
+                    "Resource sharing",
+                    "Art creation hub"
+                ]
+            },
+            "Suno AI": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Music Creation"
+                ],
+                "solutions": "Suno AI envisions a world where everyone, from casual crooners to top-charting artists, can effortlessly create incredible music",
+                "key_features": [
+                    "Music creation",
+                    "Accessible to all"
+                ]
+            },
+            "PixAI.Art": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Image Generation"
+                ],
+                "solutions": "PixAI.Art is an online platform specializing in generating anime-style art using cutting-edge artificial intelligence",
+                "key_features": [
+                    "Anime-style art generation",
+                    "Cutting-edge AI"
+                ]
+            },
+            "Remix AI": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Image Generation"
+                ],
+                "solutions": "Welcome to Remix AI: where imagination thrives. Create, share, and remix AI to spark new trends",
+                "key_features": [
+                    "Imagination-driven",
+                    "Trend sparking"
+                ]
+            },
+            "Dezgo": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Image Generation"
+                ],
+                "solutions": "Dezgo is a cutting-edge online image creator that taps into the power of AI through StableDiffusion",
+                "key_features": [
+                    "Online image creation",
+                    "StableDiffusion AI"
+                ]
+            },
+            "Cutout.pro": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Photo Editing",
+                    "Image Generation"
+                ],
+                "solutions": "Cutout.pro is an innovative visual design platform supercharged by AI. It's your go-to for effortlessly creating stunning visuals",
+                "key_features": [
+                    "Visual design platform",
+                    "AI supercharged"
+                ]
+            },
+            "Pi": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Chatbot"
+                ],
+                "solutions": "Meet Pi, your own personal AI companion! Pi is designed to be your helpful, sweet, and entertaining digital friend",
+                "key_features": [
+                    "Personal AI companion",
+                    "Entertaining chatbot"
+                ]
+            },
+            "Character.ai": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Chatbot"
+                ],
+                "solutions": "Character.ai is a thrilling platform that unleashes your creativity by enabling you to craft and engage with unique characters",
+                "key_features": [
+                    "Unique character engagement",
+                    "Creativity enhancement"
+                ]
+            },
+            "Stylar": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Photo Editing"
+                ],
+                "solutions": "Stylar is the ultimate AI image editor, offering precise layout adjustments through its layer-based composition board",
+                "key_features": [
+                    "Layer-based composition",
+                    "Precise layout adjustments"
+                ]
+            },
+            "Respeecher Voice Marketplace": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Voice Generation"
+                ],
+                "solutions": "Transform your content with Respeecher Voice Marketplace - the ultimate tool for flawless voice cloning",
+                "key_features": [
+                    "Flawless voice cloning",
+                    "Voice content transformation"
+                ]
+            },
+            "Vocol AI": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Business",
+                    "Speech AI",
+                    "Productivity"
+                ],
+                "solutions": "The Ultimate Voice-to-Text Platform. Harness the power of AI to transform your voice into valuable insights, enhancing collaboration and efficiency",
+                "key_features": [
+                    "Voice-to-text platform",
+                    "Collaboration enhancement"
+                ]
+            },
+            "Replai.so": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Chrome Extension",
+                    "Social Media"
+                ],
+                "solutions": "Boost your social media presence effortlessly with Replai.so! Enjoy 10x growth using AI-crafted replies that make you sound clever",
+                "key_features": [
+                    "Social media presence boosting",
+                    "AI-crafted replies"
+                ]
+            },
+            "Final Round AI": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Career",
+                    "AI Assistant"
+                ],
+                "solutions": "Get ready for an exciting recruitment season with Final Round AI, ACE! This powerful tool suite is your AI sidekick",
+                "key_features": [
+                    "Recruitment tool suite",
+                    "AI sidekick"
+                ]
+            },
+            "RADAAR": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Social Media",
+                    "Productivity"
+                ],
+                "solutions": "The ultimate social media command center! Perfect for brands, agencies, and startups to engage, publish, and measure",
+                "key_features": [
+                    "Social media command center",
+                    "Engagement measurement"
+                ]
+            },
+            "Raycast": {
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Productivity",
+                    "Automation"
+                ],
+                "solutions": "Boost your productivity with Raycast: the ultra-fast, fully customizable launcher! Experience AI-enhanced efficiency, personalize with custom themes",
+                "key_features": [
+                    "Customizable launcher",
+                    "AI-enhanced efficiency"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "found",
+            "priceAndPlans": {
+                "Free Plan": "$0/month for 20 new ideas and up to 3 questions per day",
+                "Professional Plan": "$9.9/month for 20 new ideas and up to 1000 daily questions with support for the Big Bang feature",
+                "Master Plan": "$29.9/month for Custom numbers of ideas, Unlimited questions with Access to more AI models and advanced techniques"
+            }
+        }
+    },
+    "www.insidr.ai": {
+        "AI Tools": {
+            "call_to_action": "Submit AI Tool",
+            "usecases": [
+                "AI for Business",
+                "Marketing",
+                "Social Media",
+                "Content Creation",
+                "Copywriting",
+                "SEO",
+                "Video",
+                "Image & Art",
+                "Email Writer & Assistant",
+                "Ecommerce",
+                "CRM & Automation",
+                "AI Crypto Trading Bots",
+                "AI Stock Trading Bots",
+                "Website & Funnel",
+                "Customer Service",
+                "Free Tools",
+                "AI Chatbots",
+                "ChatGPT plugins",
+                "Tool Reviews"
+            ],
+            "solutions": {
+                "AI Image Generator Blueprint": "A visual prompt engineering template for creating AI images",
+                "AI-Proof Your Business With Insidr Solutions": "Elevate your business from outdated to AI-adopters"
+            },
+            "key_features": [
+                "AI Tools Directory",
+                "Productivity",
+                "Text-to-Speech",
+                "AI Detector",
+                "AI Art Generator",
+                "Low Code No Code"
+            ]
+        },
+        "AImReply": {
+            "call_to_action": "Visit tool",
+            "usecases": [
+                "Email Assistant"
+            ],
+            "solutions": "An AI-powered email writer and assistant designed to enhance email productivity",
+            "key_features": [
+                "Personalized emails",
+                "Automatic email analysis",
+                "Support for 16 languages",
+                "Privacy and data security prioritization",
+                "Adaptability for various devices and operating systems"
+            ]
+        },
+        "Julius AI": {
+            "call_to_action": "Visit tool",
+            "usecases": [
+                "AI Analytics"
+            ],
+            "solutions": "A versatile AI data analyst for analyzing structured data effortlessly",
+            "key_features": [
+                "Modeling and projections",
+                "Quick data exports",
+                "Sleek visualizations"
+            ]
+        },
+        "Spikes": {
+            "call_to_action": "Visit tool",
+            "usecases": [
+                "Social Media",
+                "Video"
+            ],
+            "solutions": "Generative AI video tool that repurposes long videos into dynamic short clips",
+            "key_features": [
+                "Repurposing long videos into short clips",
+                "Adding clear calls to action"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "improvado.io": {
+        "AI_tools": {
+            "Improvado_AI_Assistant": {
+                "call_to_action": "Schedule a call to see how Improvado AI Assistant can speed up your marketing analytics routines",
+                "usecases": [
+                    "Ensuring alignment among all team members",
+                    "Cross-Channel Analytics",
+                    "Budget Pacing",
+                    "Data Exploration & QA"
+                ],
+                "solutions": "Improvado AI Assistant is an AI-powered revenue analytics copilot that connects to all marketing and sales platforms, aggregates data, applies transformations, and prepares it for further analysis. It eliminates the need to know SQL or understand database structure, allowing direct communication with data in plain English within a chat-like UI.",
+                "key_features": [
+                    "Natural language query for Ad-Hoc analytics",
+                    "Data aggregation and transformation",
+                    "Cross-Channel Analytics",
+                    "Budget Pacing tools",
+                    "Data Exploration & QA tools"
+                ]
+            },
+            "ChatGPT_Plugins": {
+                "call_to_action": "Download",
+                "usecases": [
+                    "Audience Segmentation",
+                    "Campaign Performance Visualization",
+                    "A/B Testing Analysis"
+                ],
+                "solutions": "ChatGPT with specialized plugins allows for streamlined and efficient data analysis, including audience segmentation, campaign performance visualization, and A/B testing analysis.",
+                "key_features": [
+                    "Advanced data analysis with Python integration",
+                    "Real-time data visualization",
+                    "Practical prompts and performance boosters"
+                ]
+            },
+            "Jasper.ai": {
+                "call_to_action": "Explore Jasper.ai",
+                "usecases": [
+                    "Context-aware writing assistance",
+                    "SEO optimization",
+                    "AI-powered art generation"
+                ],
+                "solutions": "Jasper.ai offers context-aware writing assistance, SEO optimization features, and AI-powered art generation, streamlining the content creation process from ideation to publication.",
+                "key_features": [
+                    "Context-aware writing assistance",
+                    "SEO optimization",
+                    "Industry-specific templates",
+                    "Integration with CMS and SEO tools"
+                ]
+            },
+            "Grammarly": {
+                "call_to_action": "Add to Chrome",
+                "usecases": [
+                    "Grammar and style checking",
+                    "Tone detection",
+                    "Context-specific language recommendations"
+                ],
+                "solutions": "Grammarly enhances written communication by checking for grammar, spelling, punctuation, and style errors, providing real-time suggestions to improve clarity, word choice, and sentence structure.",
+                "key_features": [
+                    "Grammar and style checking",
+                    "Tone detection",
+                    "Context-specific language recommendations"
+                ]
+            },
+            "SurferSEO": {
+                "call_to_action": "Start 7-day trial",
+                "usecases": [
+                    "Search engine optimization",
+                    "Content enhancement"
+                ],
+                "solutions": "SurferSEO assists with search engine optimization (SEO) and content enhancement by analyzing website content against ranking factors and providing actionable recommendations.",
+                "key_features": [
+                    "SEO analysis and recommendations",
+                    "Content optimization",
+                    "Keyword and term suggestions"
+                ]
+            },
+            "ManyChat": {
+                "call_to_action": "Get started",
+                "usecases": [
+                    "Automated responses",
+                    "Broadcast messages",
+                    "Chatbot creation"
+                ],
+                "solutions": "ManyChat automates and enhances customer interaction through popular messaging platforms, offering features such as automated responses, message broadcasting, and chatbot creation.",
+                "key_features": [
+                    "Automated responses",
+                    "Broadcast messages",
+                    "Chatbot creation"
+                ]
+            },
+            "Conversica": {
+                "call_to_action": "Request a demo",
+                "usecases": [
+                    "Automated lead engagement",
+                    "Intent and sentiment interpretation",
+                    "Lead nurturing"
+                ],
+                "solutions": "Conversica introduces Intelligent Virtual Assistants (IVA) that automate the engagement process, reaching out to potential leads and customers via email or messaging platforms, interpreting intent and sentiment, and nurturing leads until they are ready for direct interaction with sales representatives.",
+                "key_features": [
+                    "Automated lead engagement",
+                    "Intent and sentiment interpretation",
+                    "Lead nurturing"
+                ]
+            },
+            "SproutSocial": {
+                "call_to_action": "Start your free trial",
+                "usecases": [
+                    "Social media management",
+                    "Audience behavior analysis",
+                    "Chatbot creation"
+                ],
+                "solutions": "Sprout Social streamlines social media management, utilizes AI to understand audience behavior, optimize post timings, suggest content themes, and identify influencers and brand advocates.",
+                "key_features": [
+                    "Social media management",
+                    "Audience behavior analysis",
+                    "Chatbot creation"
+                ]
+            },
+            "FeedHive": {
+                "call_to_action": "Sign up for free",
+                "usecases": [
+                    "Social media management",
+                    "Optimal posting schedules",
+                    "Content recycling"
+                ],
+                "solutions": "FeedHive leverages AI to optimize posting strategies, simplify content creation, suggest optimal posting schedules, and facilitate content recycling.",
+                "key_features": [
+                    "Optimal posting schedules",
+                    "Content recycling",
+                    "AI-driven content suggestions"
+                ]
+            },
+            "Trellis": {
+                "call_to_action": "Request a demo",
+                "usecases": [
+                    "Ad campaign optimization",
+                    "Dynamic pricing",
+                    "Performance trend analysis"
+                ],
+                "solutions": "Trellis leverages AI for ad campaign optimization, dynamic pricing, and performance trend analysis to improve ad performance and pricing strategies.",
+                "key_features": [
+                    "Ad campaign optimization",
+                    "Dynamic pricing",
+                    "Performance trend analysis"
+                ]
+            },
+            "Evolv.ai": {
+                "call_to_action": "Request a demo",
+                "usecases": [
+                    "A/B and multivariate testing",
+                    "User interaction analysis",
+                    "Rapid experimentation"
+                ],
+                "solutions": "Evolv.ai streamlines website optimization through A/B and multivariate testing, focusing on learning from user interactions, rapid experimentation, and incremental improvements.",
+                "key_features": [
+                    "A/B and multivariate testing",
+                    "User interaction analysis",
+                    "Rapid experimentation"
+                ]
+            },
+            "SeventhSense": {
+                "call_to_action": "Request a demo",
+                "usecases": [
+                    "Email marketing optimization",
+                    "Recipient engagement analysis",
+                    "Audience segmentation"
+                ],
+                "solutions": "Seventh Sense optimizes email marketing through AI algorithms that analyze recipient engagement patterns, determine optimal send times and frequencies, and segment audiences based on engagement levels.",
+                "key_features": [
+                    "Email marketing optimization",
+                    "Recipient engagement analysis",
+                    "Audience segmentation"
+                ]
+            },
+            "FullStory": {
+                "call_to_action": "Start your free trial",
+                "usecases": [
+                    "Digital experience intelligence",
+                    "User behavior analysis",
+                    "Session replay"
+                ],
+                "solutions": "FullStory uses AI to analyze user interactions, identify behavior patterns, troubleshoot issues, and provide insights to enhance the user experience.",
+                "key_features": [
+                    "Digital experience intelligence",
+                    "User behavior analysis",
+                    "Session replay"
+                ]
+            },
+            "Zapier": {
+                "call_to_action": "Create your own AI-powered chatbot",
+                "usecases": [
+                    "Workflow automation",
+                    "AI-powered chatbot creation",
+                    "Interactive knowledge base"
+                ],
+                "solutions": "Zapier is a workflow automation platform that connects to over 3,000 apps and allows users to create their own AI-powered chatbot using Zapier interfaces, with multiple use cases including corporate jargon translation, press release generation, and risk assessment.",
+                "key_features": [
+                    "AI-powered chatbot creation",
+                    "Interactive knowledge base",
+                    "Multiple chatbot templates"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found"
+        }
+    },
+    "www.thoughtspot.com": {
+        "AI_tools": {
+            "ThoughtSpot": {
+                "call_to_action": "Start free trial",
+                "usecases": [
+                    "AI-Powered Analytics",
+                    "Self-service analytics",
+                    "Business intelligence"
+                ],
+                "solutions": [
+                    "Banking",
+                    "Financial Services",
+                    "Retail & E-commerce",
+                    "Manufacturing & Logistics",
+                    "Healthcare & Life Sciences",
+                    "Media & Communications",
+                    "Procurement",
+                    "Public Sector"
+                ],
+                "key_features": [
+                    "AI-powered, natural language search",
+                    "AI-generated answers",
+                    "AI-powered search suggestions",
+                    "Human in the loop feedback system",
+                    "AI-assisted data modeling",
+                    "Live-query data cloud or lake",
+                    "Balance self-service with enterprise-scale control",
+                    "Liveboards for business pulse monitoring",
+                    "Automated analysis, monitoring, and alerting",
+                    "Schedule and sync cloud data directly to business apps",
+                    "Live data on mobile",
+                    "Search to create visualizations from data in Microsoft Excel and Google Sheets",
+                    "Embedded analytics experiences into any app",
+                    "AI-powered analytics for modern data stack"
+                ]
+            },
+            "ChatGPT": {
+                "call_to_action": "Sign up for a 30-day free trial",
+                "usecases": [
+                    "Conversational AI",
+                    "Natural language understanding",
+                    "Contextual responses"
+                ],
+                "solutions": [],
+                "key_features": [
+                    "Natural language understanding",
+                    "Contextual responses",
+                    "Multi-lingual support",
+                    "Knowledge base integration",
+                    "Instructional response customization"
+                ]
+            },
+            "Google_Bard_and_Duet": {
+                "call_to_action": "N/A",
+                "usecases": [
+                    "Conversational AI",
+                    "Interactive voice assistant",
+                    "Document summarization"
+                ],
+                "solutions": [],
+                "key_features": [
+                    "Uses the most sophisticated LLM, PaLM 2",
+                    "Interactive voice assistant",
+                    "Synchronization with other Google products",
+                    "Export code to more places",
+                    "Intelligent document summarization"
+                ]
+            },
+            "Jasper": {
+                "call_to_action": "N/A",
+                "usecases": [
+                    "Content creation",
+                    "AI-powered writing assistant"
+                ],
+                "solutions": [],
+                "key_features": [
+                    "Engaging content creation",
+                    "Tailored AI for brand voice",
+                    "Real-time information retrieval",
+                    "Integrate AI directly into workflow",
+                    "Secure, scalable, and customizable writing assistant"
+                ]
+            },
+            "ChatSpot.ai_by_HubSpot": {
+                "call_to_action": "N/A",
+                "usecases": [
+                    "Conversational CRM bot",
+                    "Sales and marketing productivity"
+                ],
+                "solutions": [],
+                "key_features": [
+                    "Conversational CRM bot",
+                    "Assemble required CRM data directly in chat interface",
+                    "Prospecting templates for swift outreach opportunities",
+                    "Create AI-generated images from texts",
+                    "Delve extensively into company data"
+                ]
+            },
+            "theGist": {
+                "call_to_action": "N/A",
+                "usecases": [
+                    "AI productivity tool",
+                    "Unified workspace for notifications and communications"
+                ],
+                "solutions": [],
+                "key_features": [
+                    "Provides up-to-date data from multiple sources",
+                    "Top-notch privacy and security",
+                    "Set up custom alerts for specific events",
+                    "Easy-to-use interface",
+                    "Transform information consumption habits and enhance productivity"
+                ]
+            },
+            "Fireflies.ai": {
+                "call_to_action": "N/A",
+                "usecases": [
+                    "Automated meeting transcription",
+                    "AI-powered note taking",
+                    "Action item tracking"
+                ],
+                "solutions": [],
+                "key_features": [
+                    "Automated meeting transcription",
+                    "AI-powered note taking",
+                    "Action item tracking",
+                    "CRM integration",
+                    "Collaboration tools"
+                ]
+            },
+            "Lavender.ai": {
+                "call_to_action": "N/A",
+                "usecases": [
+                    "AI email assistant",
+                    "Email communication optimization"
+                ],
+                "solutions": [],
+                "key_features": [
+                    "AI email coaching",
+                    "Personalization assistant",
+                    "Real-time optimization",
+                    "Email intelligence",
+                    "Sentiment analysis"
+                ]
+            },
+            "Motion": {
+                "call_to_action": "N/A",
+                "usecases": [
+                    "AI productivity tool",
+                    "Task scheduling and prioritization"
+                ],
+                "solutions": [],
+                "key_features": [
+                    "Task prioritization",
+                    "Calendar conflict resolution",
+                    "Intelligent scheduling",
+                    "Team collaboration",
+                    "Native integrations"
+                ]
+            },
+            "Frase.io": {
+                "call_to_action": "N/A",
+                "usecases": [
+                    "Content creation and optimization",
+                    "SEO-focused content creation"
+                ],
+                "solutions": [],
+                "key_features": [
+                    "Questions and topics research",
+                    "AI-generated content briefs",
+                    "Content optimization",
+                    "Frase answer engine",
+                    "Competitors' content analysis"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Team": {
+                    "monthlyPrice": 95,
+                    "users": 5,
+                    "rowsLimit": "Up to 5 million",
+                    "permissionGroups": 1,
+                    "organization": 1,
+                    "features": [
+                        "Natural language search",
+                        "In-app and community-based support"
+                    ]
+                },
+                "Essentials": {
+                    "monthlyPrice": 1250,
+                    "users": 20,
+                    "rowsLimit": "Up to 25 million",
+                    "permissionGroups": 5,
+                    "organization": 1,
+                    "features": [
+                        "Natural language search",
+                        "Automated insights",
+                        "Row-level security"
+                    ]
+                },
+                "Pro": {
+                    "customPricing": true,
+                    "features": [
+                        "Unlimited users",
+                        "Natural language search",
+                        "Automated insights",
+                        "In-app and 24x7 support",
+                        "Pro level support"
+                    ]
+                },
+                "Enterprise": {
+                    "customPricing": true,
+                    "features": [
+                        "Unlimited users",
+                        "Unlimited data",
+                        "Natural language search",
+                        "Automated insights",
+                        "In-app and 24x7 support",
+                        "Enterprise level support",
+                        "Enterprise security controls"
+                    ]
+                }
+            }
+        }
+    },
+    "findmyaitool.com": {
+        "AI Tools": {
+            "findmyaitool": {
+                "call_to_action": "Create an Account, Save Tools, and Stay Updated",
+                "usecases": [
+                    "Email drafting",
+                    "Text content generation",
+                    "Cloud-native application development",
+                    "Text-based adventure creation",
+                    "Customer support automation",
+                    "Name generation",
+                    "AI application development",
+                    "Information organization",
+                    "Video editing",
+                    "SOP essay crafting",
+                    "Personal AI for coaching and support",
+                    "Custom chat AI creation",
+                    "Professional headshot generation",
+                    "Real-time AI meeting assistant",
+                    "Social media post creation and automation"
+                ],
+                "solutions": [
+                    "Addy AI - AI email assistant",
+                    "FlowGPT - Text content generation",
+                    "Nolej - Cloud-native application development",
+                    "AIDungeon - Text-based adventure creation",
+                    "Cohere - Customer support automation",
+                    "NameSnack - Name generation",
+                    "Continual - AI application development",
+                    "ChatMind - Information organization",
+                    "Muvi Live - Video editing",
+                    "SopCreator - SOP essay crafting",
+                    "Kin, Personal AI - Personal AI for coaching and support",
+                    "HappyML - Custom chat AI creation",
+                    "Corporate Headshots AI - Professional headshot generation",
+                    "Sanctum AI - Real-time AI meeting assistant",
+                    "Clearword AI - Real-time AI meeting assistant",
+                    "Nuelink - Social media post creation and automation"
+                ],
+                "key_features": {
+                    "Addy AI": "AI email drafting based on conversation context and preferred tone",
+                    "FlowGPT": "Text content generation using GPT-3",
+                    "Nolej": "Visual interface for cloud-native application development",
+                    "AIDungeon": "Text-based adventure creation powered by deep learning",
+                    "Cohere": "Customer support automation and ticket management",
+                    "NameSnack": "Catchy and creative name generation",
+                    "Continual": "AI application development using generative models",
+                    "ChatMind": "AI tools for information organization",
+                    "Muvi Live": "Enterprise-grade live streaming platform",
+                    "SopCreator": "AI-assisted SOP essay crafting",
+                    "Kin, Personal AI": "Personalized coaching and support AI",
+                    "HappyML": "Custom chat AI creation for customer interactions",
+                    "Corporate Headshots AI": "Professional headshot generation using AI",
+                    "Sanctum AI": "Private AI tool for chat with privacy",
+                    "Clearword AI": "Real-time AI meeting assistant for summary notes and actions",
+                    "Nuelink": "Social media post creation and automation"
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Basic Plan": "$29 per month (paid annually)",
+                "Boss Plan": "$49 per month (paid annually)"
+            }
+        }
+    },
+    "oecd.ai": {
+        "AI_tools": {
+            "OECD_AI_Principles": {
+                "call_to_action": "Sign up for OECD artificial intelligence newsletter",
+                "usecases": [
+                    "AI policy events",
+                    "Investing in AI R&D",
+                    "Fostering a digital ecosystem for AI",
+                    "Providing an enabling policy environment for AI",
+                    "Building human capacity and preparing for labour market transition",
+                    "International co-operation for trustworthy AI"
+                ],
+                "solutions": "Policy areas overview in various sectors such as agriculture, competition, corporate governance, development, digital economy, education, employment, environment, finance and insurance, health, industry and entrepreneurship, innovation, investment, public governance, science and technology, social and welfare issues, tax, trade, and transport.",
+                "key_features": "Inclusive growth, sustainable development, human-centred values, fairness, transparency and explainability, robustness, security and safety, accountability"
+            },
+            "Catalogue_of_AI_Tools": {
+                "call_to_action": "Submit a tool",
+                "usecases": [
+                    "Content generation",
+                    "Event/anomaly detection",
+                    "Forecasting/prediction",
+                    "Goal-driven optimisation",
+                    "Interaction support/chatbots",
+                    "Personalisation/recommenders",
+                    "Reasoning with knowledge structures/planning",
+                    "Recognition/object detection"
+                ],
+                "solutions": "Tools and metrics designed to help AI actors develop and use trustworthy AI systems and applications that respect human rights and are fair, transparent, explainable, robust, secure, and safe.",
+                "key_features": "Tool readiness, target group(s), target user(s), target sector(s), impacted stakeholders, purpose(s), lifecycle stage(s), usage rights, origin, stakeholder group, country of origin, organisation, type, and approach"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "www.turing.com": {
+        "AI_tools": {
+            "ChatGPT": {
+                "call_to_action": "Sign up for ChatGPT",
+                "usecases": [
+                    "Revolutionized customer support by powering interactive chatbots for businesses.",
+                    "Enhances content creation, from articles to marketing materials, streamlining the writing process.",
+                    "Help writers in brainstorming sessions, overcoming creative blocks with innovative ideas."
+                ],
+                "solutions": "Dynamic language model for lifelike text generation, natural conversations, and insightful answers.",
+                "key_features": [
+                    "Generates lifelike text",
+                    "Engages in natural conversations",
+                    "Provides detailed and insightful answers",
+                    "Supports creative writing endeavors",
+                    "Understands and responds in contextually relevant ways"
+                ]
+            },
+            "Scribe": {
+                "call_to_action": "Sign up for Scribe",
+                "usecases": [
+                    "Utilized by journalists, students, and professionals in research and content creation.",
+                    "Useful for generating high-quality documentation and visuals.",
+                    "Creates onboarding materials for new hires, and makes onboarding easy for hiring managers."
+                ],
+                "solutions": "AI writing assistant for diverse content generation and documentation needs.",
+                "key_features": [
+                    "Dedicated AI writing assistant",
+                    "Generates content in diverse styles and formats",
+                    "Summarizes articles and aids academic writing",
+                    "Assists in training and documentation",
+                    "Simplifies documenting complex tasks"
+                ]
+            },
+            "AlphaCode": {
+                "call_to_action": "Sign up for AlphaCode",
+                "usecases": [
+                    "Streamline coding workflows to accelerate project development.",
+                    "Automate repetitive tasks for enhanced productivity.",
+                    "Facilitate rapid learning of new programming languages."
+                ],
+                "solutions": "Revolutionary coding assistant leveraging generative AI for developers.",
+                "key_features": [
+                    "Utilizes advanced generative AI for coding assistance",
+                    "Supports various programming languages and paradigms",
+                    "Offers real-time code suggestions and bug fixes",
+                    "Provides code optimization solutions",
+                    "Assists in collaborative coding with shared suggestions"
+                ]
+            },
+            "GitHub Copilot": {
+                "call_to_action": "Sign up for GitHub Copilot",
+                "usecases": [
+                    "Accelerates the coding process, enabling developers to meet deadlines more effectively.",
+                    "Serves as an educational tool, helping programmers grasp new programming concepts.",
+                    "Elevates code quality by promoting adherence to coding best practices and standards."
+                ],
+                "solutions": "Revolutionizes coding through collaborative features and integration with popular code editors.",
+                "key_features": [
+                    "Seamlessly integrates with popular code editors",
+                    "Generates code snippets, explanations, and contextual information",
+                    "Provides instant and relevant suggestions for code completion",
+                    "Offers a diverse range of programming language support",
+                    "Learns from usage patterns, adapting to individual developer preferences"
+                ]
+            },
+            "GPT-4": {
+                "call_to_action": "Sign up for GPT-4",
+                "usecases": [
+                    "Vital in content creation, aiding writers, bloggers, and marketers with engaging material.",
+                    "Empowers natural language processing tasks, enhancing sentiment analysis and language understanding.",
+                    "Serves as a creative writing companion, sparking inspiration for authors and screenwriters."
+                ],
+                "solutions": "AI language model for enhanced text generation and natural language processing tasks.",
+                "key_features": [
+                    "Generates high-quality text across diverse subjects",
+                    "Produces more coherent and nuanced responses",
+                    "Tackles intricate questions and tasks with greater accuracy",
+                    "Empowers users to steer the tone, style, and specifics of generated text"
+                ]
+            },
+            "Bard": {
+                "call_to_action": "Join Bard Waitlist",
+                "usecases": [
+                    "Aids in brainstorming ideas, generating code snippets and solving programming-related queries.",
+                    "Assists in drafting written content, articles, blog posts, and creative pieces.",
+                    "Help users in research and provide concise information on a wide range of topics."
+                ],
+                "solutions": "Cutting-edge chatbot and content-generation tool leveraging LaMDA, a robust transformer-based model.",
+                "key_features": [
+                    "Harnesses the power of LaMDA",
+                    "Limited-access waitlist catering to select customers in the US and UK",
+                    "Incorporates a user response rating mechanism",
+                    "Accessible via individual Google accounts",
+                    "Empowers users with assistance in software development and programming-related tasks"
+                ]
+            },
+            "Cohere Generate": {
+                "call_to_action": "Sign up for Cohere Generate",
+                "usecases": [
+                    "Empowers companies to build interactive chatbots for enhanced user experiences.",
+                    "Streamlines customer communication through automated responses.",
+                    "Facilitates the creation of personalized messages, enhancing client engagement."
+                ],
+                "solutions": "Versatile capabilities for diverse natural language generation tasks and personalized content creation.",
+                "key_features": [
+                    "Tailored for diverse natural language generation tasks",
+                    "Creates interactive conversational agents with ease",
+                    "Proficient in crafting personalized email content",
+                    "Delivers human-like responses for authentic interactions"
+                ]
+            },
+            "Dall-E2": {
+                "call_to_action": "Sign up for Dall-E2",
+                "usecases": [
+                    "Empowers artists to envision ideas.",
+                    "Designers can create novel visual concepts.",
+                    "Content creators can generate captivating custom images."
+                ],
+                "solutions": "Generative AI model specializing in image synthesis for artists, designers, and content creators.",
+                "key_features": [
+                    "Specializes in image synthesis",
+                    "Transforms textual prompts into intricate visual content",
+                    "Accommodates a wide range of image styles and genres",
+                    "Offers control over image attributes like composition and lighting",
+                    "Supports both high-level concept visualization and detailed imagery"
+                ]
+            },
+            "Claude": {
+                "call_to_action": "Sign up for Claude",
+                "usecases": [
+                    "Assists programmers in coding tasks across languages.",
+                    "Streamlines business processes for enhanced efficiency.",
+                    "Supports students with interactive educational experiences."
+                ],
+                "solutions": "State-of-the-art AI assistant for extensive text data processing, natural conversations, and multilingual proficiency.",
+                "key_features": [
+                    "Proficiently handles extensive text data processing",
+                    "Engages in natural and fluent conversations",
+                    "Displays multilingual proficiency",
+                    "Streamlines and automates complex workflows",
+                    "Seamlessly adapts to user feedback for continuous improvement"
+                ]
+            },
+            "Synthesia": {
+                "call_to_action": "Sign up for Synthesia",
+                "usecases": [
+                    "Assist marketers in creating advertisements and marketing campaigns.",
+                    "Content creators can develop tutorials and personalized video messages.",
+                    "Educators can produce educational videos and presentations."
+                ],
+                "solutions": "AI-powered platform for efficient conversion of text to lifelike videos with automated voice synthesis.",
+                "key_features": [
+                    "Converts text to videos efficiently",
+                    "Creates dynamic visuals, avatars, and scenes",
+                    "Automated voice synthesis for seamless audio",
+                    "Users can tweak visuals, text, and voice style",
+                    "Rapidly produce multiple videos simultaneously"
+                ]
+            },
+            "Duet AI": {
+                "call_to_action": "Join Duet AI Beta",
+                "usecases": [
+                    "Help users with tasks such as writing, organizing, and visualizing data.",
+                    "Aids seasoned developers by swiftly suggesting optimized code for complex projects.",
+                    "Assist users in preparing for meetings, organizing their day, and visualizing solutions."
+                ],
+                "solutions": "Seamless integration with Google applications for text generation, code assistance, and intelligent business applications.",
+                "key_features": [
+                    "Leverages generative AI capabilities for text generation",
+                    "Provides AI-driven code assistance for cloud users",
+                    "Easy image generation based on prompts",
+                    "Enables users to create intelligent business applications",
+                    "Build workflows within Google Workspace using natural language commands"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.podium.com": {
+        "AI_tools": {
+            "Podium": {
+                "call_to_action": "Get a demo",
+                "usecases": [
+                    "Lead generation and conversion",
+                    "Webchat",
+                    "Text marketing",
+                    "Online phone calls",
+                    "Storage solutions"
+                ],
+                "solutions": "AI-powered lead generation and conversion platform",
+                "key_features": [
+                    "Webchat",
+                    "Text marketing",
+                    "Online phone calls",
+                    "AI response generator",
+                    "Customer surveys"
+                ]
+            },
+            "ChatGPT": {
+                "call_to_action": "Learn more",
+                "usecases": [
+                    "Enhancing customer support",
+                    "Streamlining business operations",
+                    "Providing data insights",
+                    "Automating repetitive tasks",
+                    "Content creation"
+                ],
+                "solutions": "Generative AI technology for various business sectors",
+                "key_features": [
+                    "Quick and accurate responses to queries",
+                    "Automating repetitive tasks",
+                    "Content creation for websites and social media",
+                    "Adaptability across business sectors"
+                ]
+            },
+            "Google Bard": {
+                "call_to_action": "Learn more",
+                "usecases": [
+                    "Simulating human conversations",
+                    "Streamlining content creation process",
+                    "Empowering businesses"
+                ],
+                "solutions": "Powerful chatbot for content creation",
+                "key_features": [
+                    "Simulating human conversations",
+                    "Content creation for business blogs and social media",
+                    "Predictive engine for relevant responses"
+                ]
+            },
+            "Crayon AI": {
+                "call_to_action": "Learn more",
+                "usecases": [
+                    "Competitive intelligence",
+                    "Market insights",
+                    "Data-driven decision-making"
+                ],
+                "solutions": "Competitive intelligence platform using AI",
+                "key_features": [
+                    "Real-time monitoring of competitors",
+                    "End-to-end AI solutions",
+                    "Powerful algorithms for business processes"
+                ]
+            },
+            "Otter.ai": {
+                "call_to_action": "Learn more",
+                "usecases": [
+                    "Automatic transcription",
+                    "Real-time transcription",
+                    "Note-taking during meetings"
+                ],
+                "solutions": "AI-driven automatic transcription service",
+                "key_features": [
+                    "Real-time transcription",
+                    "Automation of note-taking during meetings",
+                    "AI assistant for participating in meetings"
+                ]
+            },
+            "DALL\u00b7E 2": {
+                "call_to_action": "Learn more",
+                "usecases": [
+                    "Generating relevant images from written prompts",
+                    "Creating visuals for SEO and marketing campaigns",
+                    "Generating synthetic data"
+                ],
+                "solutions": "Advanced AI system for image generation",
+                "key_features": [
+                    "Generating relevant images from written prompts",
+                    "Creating visuals for SEO and marketing campaigns",
+                    "Generating synthetic data"
+                ]
+            },
+            "Bricabrac AI": {
+                "call_to_action": "Learn more",
+                "usecases": [
+                    "Streamlining web application creation",
+                    "Turning ideas into functional applications",
+                    "Optimizing workflow"
+                ],
+                "solutions": "AI tool for creating web applications",
+                "key_features": [
+                    "Streamlining web application creation",
+                    "Turning ideas into functional applications",
+                    "Optimizing workflow"
+                ]
+            },
+            "Grammarly": {
+                "call_to_action": "Learn more",
+                "usecases": [
+                    "Writing and editing assistance",
+                    "Improving written content quality",
+                    "Remote team support"
+                ],
+                "solutions": "AI writing and editing tool",
+                "key_features": [
+                    "Grammar, spelling, and punctuation checking",
+                    "Plagiarism detection",
+                    "Industry-specific terms in custom dictionary"
+                ]
+            },
+            "Jasper.ai": {
+                "call_to_action": "Learn more",
+                "usecases": [
+                    "Generating high-quality marketing copy",
+                    "Content creation for various needs",
+                    "Fast content generation"
+                ],
+                "solutions": "AI writing tool for marketing and content creation",
+                "key_features": [
+                    "Fast content generation",
+                    "Content templates",
+                    "Unlimited AI image generation"
+                ]
+            },
+            "Eightify": {
+                "call_to_action": "Learn more",
+                "usecases": [
+                    "Summarizing YouTube videos",
+                    "Extracting main ideas and important information",
+                    "Cost-effective video summarization"
+                ],
+                "solutions": "AI tool for summarizing YouTube videos",
+                "key_features": [
+                    "Summarizing YouTube videos",
+                    "Extracting main ideas and important information",
+                    "Cost-effective video summarization"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Essentials": {
+                    "price": 249,
+                    "currency": "USD",
+                    "description": "Ideal for small businesses who are getting started or for the self-employed",
+                    "contacts": 1000,
+                    "teamMembers": 3
+                },
+                "Standard": {
+                    "price": 409,
+                    "currency": "USD",
+                    "description": "Perfect for businesses that are expanding, online and in person",
+                    "contacts": "Unlimited",
+                    "teamMembers": "Unlimited"
+                },
+                "Professional": {
+                    "price": 599,
+                    "currency": "USD",
+                    "description": "All the advanced business solutions a mature business needs",
+                    "contacts": "Unlimited",
+                    "teamMembers": "Unlimited"
+                }
+            }
+        }
+    },
+    "www.zdnet.com": {
+        "AI_tools": {
+            "Bing_Chat": {
+                "call_to_action": "Sign up for free",
+                "usecases": [
+                    "Conversational search engine",
+                    "Proofreading grammar",
+                    "Rewriting text",
+                    "Writing messages, proposals, or other types of content"
+                ],
+                "solutions": "Conversational search engine, grammar proofreading, content generation",
+                "key_features": [
+                    "AI image generation",
+                    "Web-informed answers",
+                    "Conversational search",
+                    "Source verification",
+                    "Proofreading and rewriting assistance"
+                ]
+            },
+            "Canva_Pro": {
+                "call_to_action": "Start free trial",
+                "usecases": [
+                    "Graphic design",
+                    "Creating social media posts",
+                    "Designing invitations, flyers, and presentations"
+                ],
+                "solutions": "Graphic design, social media content creation, visual design automation",
+                "key_features": [
+                    "Magic Edit",
+                    "Magic Design",
+                    "Magic Eraser",
+                    "Background Remover",
+                    "Magic Studio with AI-infused tools"
+                ]
+            },
+            "Otter.ai": {
+                "call_to_action": "Sign up for free",
+                "usecases": [
+                    "Voice recording transcription",
+                    "Creating meeting notes",
+                    "Transcribing interviews"
+                ],
+                "solutions": "Voice recording transcription, meeting note creation, interview transcription",
+                "key_features": [
+                    "Voice recording transcription",
+                    "Speaker designations",
+                    "Time stamps",
+                    "Accurate transcription"
+                ]
+            },
+            "ChatPDF": {
+                "call_to_action": "Use for free",
+                "usecases": [
+                    "Summarizing PDFs",
+                    "Answering questions about PDF content",
+                    "Providing detailed summaries"
+                ],
+                "solutions": "PDF summarization, content clarification, information retrieval",
+                "key_features": [
+                    "PDF scanning",
+                    "Question answering",
+                    "Detailed summaries"
+                ]
+            },
+            "Grammarly": {
+                "call_to_action": "Add to Chrome",
+                "usecases": [
+                    "Spelling and grammar checking",
+                    "Conciseness checking",
+                    "Advanced writing assistance"
+                ],
+                "solutions": "Spelling and grammar checking, writing assistance, tone and formality adjustments",
+                "key_features": [
+                    "Spelling and grammar checking",
+                    "Conciseness checking",
+                    "Generative AI integration",
+                    "Tone and formality adjustments"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "aitoolsdirectory.com": {
+        "AI_Tools_Directory": {
+            "call_to_action": "Sign up for access",
+            "usecases": [
+                "Natural Language Processing",
+                "Machine Learning",
+                "Data Analytics",
+                "Computer Vision"
+            ],
+            "solutions": "Provides a comprehensive directory of AI tools and resources for various applications.",
+            "key_features": [
+                "Search and filter tools based on categories and use cases",
+                "Access to detailed information about each tool",
+                "User reviews and ratings for tools"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Starter Plan": {
+                    "queries": "6000",
+                    "priceMonthly": "$19",
+                    "priceYearly": "$9.99"
+                },
+                "Boost Plan": {
+                    "queries": "Unlimited",
+                    "priceMonthly": "$49",
+                    "priceYearly": "$25.99"
+                },
+                "Elite Plan": {
+                    "queries": "Unlimited",
+                    "priceMonthly": "$119",
+                    "priceYearly": "$69.99"
+                },
+                "Enterprise Plan": {
+                    "description": "Pay as you go",
+                    "setupFee": "$50",
+                    "billing": "Billed annually"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Optimized AI Tools Features",
+    "intro": "This list represents the optimized features of AI tools gathered from analyzing 22 sites and 19 features.",
+    "features": {
+        "Productivity": {
+            "title": "Productivity",
+            "features": [
+                "Automatic email analysis (1)",
+                "Quick data exports (1)"
+            ]
+        },
+        "Text-to-Speech": {
+            "title": "Text-to-Speech",
+            "features": [
+                "Support for 16 languages (1)"
+            ]
+        },
+        "AI Detector": {
+            "title": "AI Detector",
+            "features": [
+                "Privacy and data security prioritization (1)"
+            ]
+        },
+        "AI Art Generator": {
+            "title": "AI Art Generator",
+            "features": [
+                "Modeling and projections (1)",
+                "Sleek visualizations (1)"
+            ]
+        },
+        "Low Code No Code": {
+            "title": "Low Code No Code",
+            "features": [
+                "Repurposing long videos into short clips (1)",
+                "Adding clear calls to action (1)"
+            ]
+        },
+        "AI Tools Directory": {
+            "title": "AI Tools Directory",
+            "features": [
+                "Search and filter tools based on categories and use cases (1)",
+                "Access to detailed information about each tool (1)",
+                "User reviews and ratings for tools (1)"
+            ]
+        }
+    }
+}
