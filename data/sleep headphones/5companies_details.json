@@ -1,0 +1,790 @@
+{
+    "www.amazon.com": {
+        "error": "Timeout 30000ms exceeded. Unable to access the website for analysis.",
+        "pricesAndPlans": {
+            "status": "Not found"
+        }
+    },
+    "www.nytimes.com": {
+        "sleep_headphones": {
+            "Wirecutter": {
+                "AcousticSheep SleepPhones Wireless": {
+                    "call_to_action": "Sign Up for our newsletter",
+                    "usecases": [
+                        "For people who dislike wearing earplugs or earbuds",
+                        "For people who need to block or mask sounds"
+                    ],
+                    "solutions": [
+                        "Headband-style sleep headphones with different sizes and fabrics",
+                        "Wireless earbuds that physically block out noises and can play preloaded sounds or stream audio from your phone"
+                    ],
+                    "key_features": [
+                        "Different sizes and fabrics available",
+                        "Wireless streaming via Bluetooth",
+                        "Comfortable fit for most head sizes and ear shapes",
+                        "Long battery life (24 hours)",
+                        "Effective noise isolation",
+                        "Easy to clean",
+                        "Minimal latency and good sound quality"
+                    ]
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.zdnet.com": {
+        "sleep_headphones": [
+            {
+                "product_name": "Soundcore by Anker Sleep A10 Earbuds",
+                "price": "90",
+                "battery_life": "10 hours",
+                "form_factor": "In-ear",
+                "key_features": [
+                    "In-ear alarm feature",
+                    "Sleep tracking capabilities",
+                    "Pre-set sleep sounds"
+                ],
+                "pros": [
+                    "In-ear alarm feature",
+                    "Tracks your sleep when worn overnight",
+                    "Choose from pre-set sleep sounds"
+                ],
+                "cons": [
+                    "Small size might get lost in bed when tossing and turning",
+                    "Not the most comfortable for side sleepers"
+                ]
+            },
+            {
+                "product_name": "QuietOn 3.1 sleep earbuds",
+                "price": "289",
+                "battery_life": "28 hours",
+                "form_factor": "In-ear",
+                "key_features": [
+                    "Lightweight",
+                    "Great for side sleepers",
+                    "Advanced ANC technology"
+                ],
+                "pros": [
+                    "Lightweight",
+                    "Great for side sleepers",
+                    "Fantastic ANC"
+                ],
+                "cons": [
+                    "No music playback, just white noise",
+                    "Pricey"
+                ]
+            },
+            {
+                "product_name": "Bedphones Wireless",
+                "price": "149",
+                "battery_life": "13 hours",
+                "form_factor": "Over-ear",
+                "key_features": [
+                    "Long battery life",
+                    "Comfortable for side sleepers",
+                    "Adjustable hooks for secure fit"
+                ],
+                "pros": [
+                    "Long battery life",
+                    "Comfortable for side sleepers",
+                    "Secure fit with adjustable hooks"
+                ],
+                "cons": [
+                    "Expensive"
+                ]
+            },
+            {
+                "product_name": "Perytong Sleep Headphones",
+                "price": "16",
+                "battery_life": "10 hours",
+                "form_factor": "On-ear",
+                "key_features": [
+                    "Affordable",
+                    "Comfortable to wear",
+                    "Soft, machine-washable, breathable material"
+                ],
+                "pros": [
+                    "Affordable",
+                    "Comfortable to wear"
+                ],
+                "cons": [
+                    "No auto-off feature",
+                    "Volume can be loud even on the lowest setting"
+                ]
+            },
+            {
+                "product_name": "Musicozy Wireless Sleep Mask Headphones",
+                "price": "10",
+                "battery_life": "10+ hours",
+                "form_factor": "Over-ear",
+                "key_features": [
+                    "2-in-1 mask/headphone design",
+                    "Plenty of color options",
+                    "Breathable fabric"
+                ],
+                "pros": [
+                    "2-in-1 mask/headphone design",
+                    "Plenty of color options"
+                ],
+                "cons": [
+                    "Loud voice narration for incoming calls",
+                    "Some sizing and comfort issues"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Soundcore by Anker Sleep A10 Earbuds": "$90",
+                "QuietOn 3.1 sleep earbuds": "$289",
+                "Bedphones Wireless": "$149",
+                "Perytong Sleep Headphones": "$16",
+                "Musicozy Wireless Sleep Mask Headphones": "$10"
+            }
+        }
+    },
+    "www.sleepphones.com": {
+        "product_name": "SleepPhones",
+        "call_to_action": "Contact Us",
+        "usecases": [
+            "Promote sound sleep and healthy lifestyles",
+            "Listening to audio while sleeping next to a snorer",
+            "Managing stress or worry",
+            "Listening to music and TV in bed at night while partner sleeps",
+            "Listening to music while traveling or commuting",
+            "Listening to music while working out, stationary biking, walking, or jogging"
+        ],
+        "solutions": "Designed to sit over the ear making them comfortable even for side sleepers. Contains thin, padded removable speakers to play any type of music, audiobooks, meditation, white noise, or talk radio. Available in corded or wireless versions in a wide variety of colors and different fabrics.",
+        "key_features": {
+            "Comfortable design": "Designed to be comfortable for side sleepers",
+            "Thin, padded removable speakers": "Allows for playing various types of audio",
+            "Corded and wireless versions": "Provides options for different preferences",
+            "Wide variety of colors and fabrics": "Allows for customization"
+        },
+        "pricesAndPlans": {
+            "status": "found",
+            "priceAndPlans": {
+                "product": "SleepPhones Wireless (Bluetooth Sleep Headphones)",
+                "price": "$99.95",
+                "features": {
+                    "Stream audio via Bluetooth": true,
+                    "Fall asleep faster, stay asleep longer, and wake up refreshed": true,
+                    "Reduce ambient noise, conversations, traffic sounds, and snoring": true,
+                    "Relieve stress by listening to your favorite tunes, soothing meditation sounds, radio, sleep-enhancing rhythms, audiobooks, or any other preferred music": true,
+                    "No uncomfortable earbuds or bulky ear enclosures": true,
+                    "Bluetooth": "5.0 AAC",
+                    "Wireless Range": "15-30 feet (5-10 meters)",
+                    "Rechargeable Battery": "Full charge lasts 24 hours",
+                    "Charging Time": "4 hours via micro-USB cable (included)",
+                    "Frequency Range": "20Hz-20kHz"
+                }
+            }
+        }
+    },
+    "www.bestbuy.com": {
+        "error": "Timeout error occurred while trying to access the website. Unable to retrieve data for analysis.",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.cnet.com": {
+        "sleep_headphones": [
+            {
+                "product_name": "Google Pixel Buds Pro",
+                "price": 156,
+                "best_for_sleep": true,
+                "noise_cancellation": true,
+                "comfort": true,
+                "sound_quality": true,
+                "price_category": "High",
+                "additional_details": {
+                    "headphone_type": "In-ear",
+                    "connection_type": "Bluetooth",
+                    "ANC": "Active noise canceling"
+                }
+            },
+            {
+                "product_name": "Soundcore by Anker Sleep A10 Earbuds",
+                "price": 130,
+                "best_for_sleep": true,
+                "noise_cancellation": false,
+                "comfort": true,
+                "sound_quality": true,
+                "price_category": "Medium",
+                "additional_details": {
+                    "headphone_type": "In-ear",
+                    "connection_type": "Bluetooth",
+                    "ANC": "Passive noise canceling"
+                }
+            },
+            {
+                "product_name": "Bedphones Sleep Headphones",
+                "price": 89,
+                "best_for_sleep": true,
+                "noise_cancellation": false,
+                "comfort": true,
+                "sound_quality": true,
+                "price_category": "Medium",
+                "additional_details": {
+                    "headphone_type": "On-ear",
+                    "connection_type": "Bluetooth or wired",
+                    "ANC": "Noise masking"
+                }
+            },
+            {
+                "product_name": "QuietOn 3.1",
+                "price": 289,
+                "best_for_sleep": true,
+                "noise_cancellation": true,
+                "comfort": true,
+                "sound_quality": true,
+                "price_category": "High",
+                "additional_details": {
+                    "headphone_type": "In-ear",
+                    "connection_type": "None",
+                    "ANC": "Active noise canceling"
+                }
+            },
+            {
+                "product_name": "Dormi Headband Headphones",
+                "price": 50,
+                "best_for_sleep": true,
+                "noise_cancellation": false,
+                "comfort": true,
+                "sound_quality": true,
+                "price_category": "Low",
+                "additional_details": {
+                    "headphone_type": "Over-ear",
+                    "connection_type": "Bluetooth",
+                    "ANC": "Noise masking"
+                }
+            },
+            {
+                "product_name": "Lightimetunnel Sleep Headphones",
+                "price": 23,
+                "best_for_sleep": true,
+                "noise_cancellation": true,
+                "comfort": true,
+                "sound_quality": true,
+                "price_category": "Low",
+                "additional_details": {
+                    "headphone_type": "On-ear",
+                    "connection_type": "Bluetooth",
+                    "ANC": "Noise masking"
+                }
+            },
+            {
+                "product_name": "SoundOff Sleep Noise Masking Device",
+                "price": 160,
+                "best_for_sleep": true,
+                "noise_cancellation": true,
+                "comfort": true,
+                "sound_quality": true,
+                "price_category": "High",
+                "additional_details": {
+                    "headphone_type": "In-ear",
+                    "connection_type": "None",
+                    "ANC": "Noise masking"
+                }
+            },
+            {
+                "product_name": "Maxrock Sleep Earbuds",
+                "price": 12,
+                "best_for_sleep": true,
+                "noise_cancellation": false,
+                "comfort": true,
+                "sound_quality": true,
+                "price_category": "Low",
+                "additional_details": {
+                    "headphone_type": "In-ear",
+                    "connection_type": "Wired",
+                    "ANC": "Passive noise canceling"
+                }
+            },
+            {
+                "product_name": "Hoomband Headband",
+                "price": 80,
+                "best_for_sleep": true,
+                "noise_cancellation": false,
+                "comfort": true,
+                "sound_quality": true,
+                "price_category": "Medium",
+                "additional_details": {
+                    "headphone_type": "On-ear",
+                    "connection_type": "Bluetooth",
+                    "ANC": "Noise masking"
+                }
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "www.cnn.com": {
+        "error": "Timeout error occurred while trying to access the website. Please provide an alternative source or specific sleep headphones products for analysis.",
+        "pricesAndPlans": {
+            "status": "Error: Timeout",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "time.com": {
+        "sleep_headphones_products": [
+            {
+                "product_name": "Sony WH-1000XM4 Wireless Noise Canceling Headphones",
+                "price": "$349.99",
+                "headphone_type": "Wireless",
+                "battery_life": "30 hours",
+                "noise_canceling": true,
+                "return_policy": "Within 30 days",
+                "warranty": "1 year",
+                "key_features": [
+                    "Active noise cancelation",
+                    "Five hours of battery on a ten-minute charge",
+                    "Hands-free calling",
+                    "Automatically pauses playback when you take them off"
+                ],
+                "call_to_action": "Buy Now",
+                "usecases": [
+                    "Ideal for back sleepers",
+                    "Great for wireless convenience and noise cancelation"
+                ],
+                "solutions": [
+                    "Provides excellent noise cancellation and comfort for sleep",
+                    "Exceptional comfort, good noise canceling, and wireless convenience for relaxed sleep"
+                ]
+            },
+            {
+                "product_name": "Apple AirPods Pro (2nd Generation)",
+                "price": "$249",
+                "headphone_type": "Wireless earbuds",
+                "battery_life": "Six hours",
+                "noise_canceling": true,
+                "return_policy": "Within 14 days",
+                "warranty": "1 year",
+                "key_features": [
+                    "Touch controls",
+                    "Four sizes of silicone tip included, for perfect fit"
+                ],
+                "call_to_action": "Buy Now",
+                "usecases": [
+                    "Suitable for those who prefer wireless earbuds",
+                    "Ideal for individuals looking for a comfortable fit and noise isolation"
+                ],
+                "solutions": [
+                    "Provides a comfortable fit, wireless convenience, and decent noise isolation",
+                    "Contributes to a good sleep experience with noise isolation and secure fit"
+                ]
+            },
+            {
+                "product_name": "Moondrop CHU High Performance Dynamic Driver IEMs in-Ear Earphone",
+                "price": "$19.99",
+                "headphone_type": "Wired earbuds",
+                "battery_life": "N/A",
+                "noise_canceling": false,
+                "return_policy": "Within 30 days, if bought through Amazon",
+                "warranty": "Not listed",
+                "key_features": [
+                    "Extremely inexpensive",
+                    "Amazing sound quality for the price"
+                ],
+                "call_to_action": "Buy Now",
+                "usecases": [
+                    "Great for individuals seeking affordable wired earbuds",
+                    "Ideal for those looking for good sound quality at a low price"
+                ],
+                "solutions": [
+                    "Offers surprising sound quality at an affordable price",
+                    "Provides a budget-friendly option for those seeking wired earbuds"
+                ]
+            },
+            {
+                "product_name": "SleepPhones Wireless",
+                "price": "$99.95",
+                "headphone_type": "Wireless headband",
+                "battery_life": "24 hours",
+                "noise_canceling": false,
+                "return_policy": "Within 30 days",
+                "warranty": "1 year",
+                "key_features": [
+                    "Comfortable",
+                    "Good for all types of sleepers"
+                ],
+                "call_to_action": "Buy Now",
+                "usecases": [
+                    "Suitable for all types of sleepers",
+                    "Ideal for individuals who prefer a headband-style design"
+                ],
+                "solutions": [
+                    "Designed specifically for sleep and suitable for side sleepers",
+                    "Soft, comfortable, and convenient for side sleepers"
+                ]
+            },
+            {
+                "product_name": "CozyPhones Sleep Headphones - Over Ear Headphones from Ultra Thin Cool Mesh Wired",
+                "price": "$19.99",
+                "headphone_type": "Wired headband",
+                "battery_life": "N/A",
+                "noise_canceling": false,
+                "return_policy": "Within 30 days, if bought through Amazon",
+                "warranty": "Not listed",
+                "key_features": [
+                    "Extremely inexpensive"
+                ],
+                "call_to_action": "Buy Now",
+                "usecases": [
+                    "Great for individuals seeking affordable over-ear headphones",
+                    "Ideal for those who want a headband with ultra-thin, adjustable-position speakers"
+                ],
+                "solutions": [
+                    "Offers a comfortable fit and a peaceful sleep experience",
+                    "Soft headband design, flat speakers, and a comfortable fit for a peaceful sleep"
+                ]
+            },
+            {
+                "product_name": "Kokoon Nightbuds",
+                "price": "$249.99",
+                "headphone_type": "Wireless sleep tracking headphones",
+                "battery_life": "10 hours",
+                "noise_canceling": false,
+                "return_policy": "Within 30 days",
+                "warranty": "Not listed",
+                "key_features": [
+                    "Innovative",
+                    "App also offers selection of sleep-friendly audio, including meditations and binaural soundscapes"
+                ],
+                "call_to_action": "Buy Now",
+                "usecases": [
+                    "Ideal for individuals who want sleep tracking features",
+                    "Great for those who want to monitor their sleep throughout the night"
+                ],
+                "solutions": [
+                    "Pairs with an app that tracks your slumber throughout the night",
+                    "Monitors your heart rate and provides a daily summary of your sleep"
+                ]
+            },
+            {
+                "product_name": "MAXROCK Sleep Earplugs",
+                "price": "$11.99",
+                "headphone_type": "Wired earbuds",
+                "battery_life": "N/A",
+                "noise_canceling": true,
+                "return_policy": "Within 30 days, if bought through Amazon",
+                "warranty": "3 months",
+                "key_features": [
+                    "Extremely inexpensive"
+                ],
+                "call_to_action": "Buy Now",
+                "usecases": [
+                    "Great for individuals seeking budget-friendly earbuds",
+                    "Ideal for those looking for dual-purpose headphones or earplugs"
+                ],
+                "solutions": [
+                    "Shockingly good reviews with soft earbuds and dual-purpose design",
+                    "Provides a budget-friendly option for those seeking wired earbuds"
+                ]
+            },
+            {
+                "product_name": "Bose QuietComfort Earbuds II",
+                "price": "$299",
+                "headphone_type": "Wireless earbuds",
+                "battery_life": "6 hours",
+                "noise_canceling": true,
+                "return_policy": "Within 90 days",
+                "warranty": "1 year",
+                "key_features": [
+                    "Excellent sound quality",
+                    "Moisture resistant"
+                ],
+                "call_to_action": "Buy Now",
+                "usecases": [
+                    "Ideal for individuals obsessed with audio quality",
+                    "Great for those who want world-class noise cancelation"
+                ],
+                "solutions": [
+                    "Provides world-class noise cancelation and comfortable earbuds",
+                    "Offers excellent sound quality and moisture resistance"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "www.bestproducts.com": {
+        "sleep_headphones": [
+            {
+                "product_name": "SleepPhones Wireless Sleep Headphones",
+                "price": "$100",
+                "best_for": "Overall",
+                "comfort": "Highly comfortable for all types of sleepers",
+                "audio_quality": "Decent",
+                "battery_life": "Lasts for 8 hours",
+                "use_cases": [
+                    "Improving sleep quality",
+                    "Minimizing disruptions during the night"
+                ],
+                "solutions": [
+                    "Easy setup",
+                    "Onboard controls",
+                    "Good fit",
+                    "Lack of wires"
+                ],
+                "key_features": [
+                    "Comes in multiple sizes",
+                    "Two fabric options",
+                    "Five different colors"
+                ]
+            },
+            {
+                "product_name": "Joseche Wireless Sleep Mask Sleep Headphones",
+                "price": "Shop at Amazon",
+                "best_for": "Budget Bluetooth",
+                "comfort": "Allows users to drift off to sleep in complete darkness",
+                "audio_quality": "Good",
+                "battery_life": "Offers 9 hours of juice",
+                "use_cases": [
+                    "Listening to soothing sounds",
+                    "Blocking out light"
+                ],
+                "solutions": [
+                    "Pairs with smartphone or tablet over Bluetooth",
+                    "Breathable material",
+                    "Machine-washable fabric"
+                ],
+                "key_features": [
+                    "Velcro strap for tight fit",
+                    "Built-in microphone",
+                    "Easy-to-access controls"
+                ]
+            },
+            {
+                "product_name": "Perytong Sleep Headphones Wireless",
+                "price": "$20 at Amazon, $39 at Walmart",
+                "best_for": "Super Soft and Comfy Headband",
+                "comfort": "Super-soft and lightweight with stretchy fit",
+                "audio_quality": "Good",
+                "battery_life": "Lasts up to 10 hours",
+                "use_cases": [
+                    "Lulling to sleep",
+                    "Taking calls outdoors"
+                ],
+                "solutions": [
+                    "Fully washable",
+                    "Built-in rechargeable battery",
+                    "Wireless Bluetooth connection"
+                ],
+                "key_features": [
+                    "Control panel for skipping tracks",
+                    "Adjusting volume",
+                    "Breathable inner mesh lining"
+                ]
+            },
+            {
+                "product_name": "soundcore Sleep A10 Bluetooth Earbuds",
+                "price": "$130 at Amazon",
+                "best_for": "Blocking Background Noise",
+                "comfort": "Inexpensive and comfortable",
+                "audio_quality": "Clear and loud",
+                "battery_life": "Lasts for over 6 hours",
+                "use_cases": [
+                    "Quieting the mind",
+                    "Blocking external noises"
+                ],
+                "solutions": [
+                    "Small and easy to travel with",
+                    "Conveniently doubles as a charger",
+                    "Various tips and wings for secure fit"
+                ],
+                "key_features": [
+                    "Bluetooth connectivity",
+                    "Use of any app as a music source",
+                    "Auto-sleep mode for battery saving"
+                ]
+            },
+            {
+                "product_name": "HoomBand Sleep Headphones",
+                "price": "$80 at Amazon",
+                "best_for": "Audio Library",
+                "comfort": "Elastic lightweight fabric",
+                "audio_quality": "Decent",
+                "battery_life": "Lengthy 10-hour battery",
+                "use_cases": [
+                    "Listening to hypnotic stories",
+                    "Guided meditations",
+                    "Relaxing nature sounds"
+                ],
+                "solutions": [
+                    "Complimentary app with plenty of content",
+                    "Two sizes to accommodate various head sizes"
+                ],
+                "key_features": [
+                    "Padding on speakers for comfort",
+                    "Useful LED light for pairing indication"
+                ]
+            },
+            {
+                "product_name": "CozyPhones Contour Series Sleep Headphones",
+                "price": "$17 at Amazon",
+                "best_for": "Wired Pair",
+                "comfort": "Breathable fabric with mesh lining",
+                "audio_quality": "Clear and loud",
+                "battery_life": "N/A (wired)",
+                "use_cases": [
+                    "Affordable and comfortable option",
+                    "No need for charging"
+                ],
+                "solutions": [
+                    "Long cord for convenience",
+                    "Braided cable that never gets tangled"
+                ],
+                "key_features": [
+                    "Mesh lining for breathability",
+                    "Clear sound quality"
+                ]
+            },
+            {
+                "product_name": "Kokoon Nightbuds Sleep Headphones",
+                "price": "\n\u00a3232 at kokoon.io",
+                "best_for": "Earbuds-Style",
+                "comfort": "In-ear design with tight seal",
+                "audio_quality": "Good",
+                "battery_life": "Impressive 10-hour battery life",
+                "use_cases": [
+                    "Blocking background noise",
+                    "Listening to calming music and sounds"
+                ],
+                "solutions": [
+                    "Heart rate sensor for sleep tracking",
+                    "Bluetooth connectivity for streaming"
+                ],
+                "key_features": [
+                    "Travel case included",
+                    "Numerous-sized ear tips for secure fit"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "nymag.com": {
+        "sleep_headphones_products": [
+            {
+                "name": "LC-dolida Sleep Headphones",
+                "price": "$20",
+                "sound_quality": "clear, no tinny static or flattened sound, decent volume range",
+                "battery_life": "two or three full nights between charges, fast charging",
+                "comfort": "soft, stretchy material, flat speakers, stays put during sleep",
+                "noise_cancellation": "not suitable for noise-canceling purposes",
+                "design": "control panel on top is cumbersome, wider than typical headband",
+                "usecases": [
+                    "sleeping",
+                    "traveling",
+                    "dog walking",
+                    "gym"
+                ],
+                "call_to_action": "buy",
+                "solutions": "allows for comfortable sleep with background noise without disturbing others",
+                "key_features": {
+                    "speaker_placement": "manipulatable for custom fit",
+                    "comfortable_material": "soft, stretchy material",
+                    "sound_quality": "clear, decent volume range",
+                    "battery_life": "long-lasting, fast charging"
+                }
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "found",
+            "priceAndPlans": {
+                "price": "$20",
+                "plans": [
+                    "Buy at Amazon",
+                    "Buy at Amazon"
+                ]
+            }
+        }
+    },
+    "www.audiophileon.com": {
+        "sleep_headphones_products": [
+            {
+                "product_name": "Sleepphones Effortless",
+                "pros": [
+                    "The fleece-lined headband is exceptionally soft and comfortable",
+                    "The low profile design enables side sleeping",
+                    "The sound is smooth and relaxed",
+                    "Bluetooth enhances your freedom"
+                ],
+                "cons": [
+                    "More expensive than wired headphones",
+                    "It can get a little hot in warmer climates with no air conditioning"
+                ],
+                "review": "The Sleepphones Effortless are the best headphones for sleeping. They are also wireless and feature induction charging, making them the most intuitive and easy to live with. It's the absolute best of all the models I have ever tried and something that completely transformed my sleep patterns. They are a headband design that is a highly comfortable way to sleep as it is less prone to coming dislodged when rolling about in your sleep. Traditional headphone slips off, and earbuds can be pulled out. With the Sleepphones, I found, more often than not, when I woke up in the morning, they were still on my head the way I had left them the night before. Another essential feature is the Sleepphones use extremely thin speaker diaphragms that are flexible and don't cause discomfort when side sleeping. The materials used allow them to be flexible, so they conform with your ears, and the whole thing is covered with generous padding to enhance comfort further. Finally, the essential feature of the Sleepphones is wireless. No longer will you be tethered in your sleep. If you wake up and need to go to the bathroom or get a glass of water, you don\u2019t have to go through the routine of disconnecting your phone or music player and resetting everything when you return. It\u2019s remarkably freeing and the one reason I recommend this model over all others. Battery life is a fantastic 12 hours; they can be recharged in just 2 hours.",
+                "buy_link": "Buy on Amazon"
+            },
+            {
+                "product_name": "SZHTFX Sleep Earbuds",
+                "pros": [
+                    "Small, low profile and very comfortable",
+                    "Integrated ear hook for stability",
+                    "Better than Bose Sleepbuds at a fraction of the cost"
+                ],
+                "cons": [
+                    "Proprietary silicone tips",
+                    "4-hour battery life (tested)"
+                ],
+                "review": "The name is terrible, that\u2019s for sure; I\u2019d like to buy a vowel. But these are the best wireless earbuds for sleeping we tested this year. It\u2019s hard to explain and something you need to get in hand to understand just how small the SZHTFX is. They are ergonomically one of the most comfortable sets on our test and cause no discomfort when side sleeping. Despite the small size, you still get Bluetooth 5.3 for better efficiency and connection. Built-in touch controls and 4 hours of battery life will help you get to sleep. They won\u2019t last the whole night, but if you are looking for something for those first few hours and don\u2019t like sleeping with cables or using bulky headbands, this could be perfect. As a side, not they also work great as day-to-day earphones.",
+                "buy_link": "Buy on Amazon"
+            },
+            {
+                "product_name": "MaxRocks Sleeping earphones",
+                "pros": [
+                    "The petite size makes them disappear in the ear",
+                    "Double flange eartips keep them securely locked in place while you sleep",
+                    "They are very inexpensive and can also be used as regular earbuds"
+                ],
+                "cons": [
+                    "Many phones do not have a headphone jack, so users may need a separate device or dongle to play music."
+                ],
+                "review": "These are great headphones for side sleepers. My number three pick is the Maxrock Sleep Earphones. Traditionally, I would advocate sleeping with earphones because when you roll to your side, they push more profoundly into your ear canal and cause discomfort. The Maxrock, though, is so small and unobtrusive that I can comfortably sleep with them all night, yet at the same time, if you lose them in the dark, good luck finding them.",
+                "buy_link": "Buy on Amazon"
+            },
+            {
+                "product_name": "Toppoint Wireless Sleep Headphones and Eyemask",
+                "pros": [
+                    "Similar functionality to the Sleephones model listed above",
+                    "Very affordable with competitive pricing",
+                    "Comfortable inner liner material that breathes well"
+                ],
+                "cons": [
+                    "Speakers are thicker than Sleephones, making them less ideal for people who side sleep"
+                ],
+                "review": "These non-brand models are popping up and can be found by several sellers online. They are an all-in-one system that combines an eye mask and headphones into one package. Many people will like this because it saves the fumble in the dark for two items instead of just one. I was initially skeptical, but they have held up well, cost less than 20 dollars, and go for 9 hours on a single charge. However, there is a noticeable difference in the quality and design between these and the Sleepphones we listed as number 1. They are a little less robust and have much thicker speakers, which can lead to a bit of discomfort with hard pillows.",
+                "buy_link": "Buy on Amazon"
+            },
+            {
+                "product_name": "Adaptive Sound Technologies Sound + Sleep",
+                "pros": [
+                    "A great alternative if you can\u2019t use headphones when sleeping",
+                    "Lots of preset sounds to choose from",
+                    "Intuitive button layout"
+                ],
+                "cons": [
+                    "Best used alone or with someone who doesn't mind having ambient sound playing whilst sleeping"
+                ],
+                "review": "It might not be headphones, but Sound+ Sleep is one of the market's most advanced sleep speakers and ambient noise machines. I was impressed with the new Sound + Sleep, so I thought it was worthy of inclusion on this list. Headphones might not work for you, but plenty of options remain to get a good night\u2019s rest. During my battles with lifelong insomnia, I have tried numerous white noise machines, but none have been as intuitive and versatile as Sound Sleep. After a few days of use, you will know the button layout well enough to use it in the dark, and despite having many options, it\u2019s very intuitive. This unit is a noise machine with multiple settings and realistic sounds that can be easily adjusted through the panel controls. There are ten sounds, but you can modify them by adjusting the ambient and richness settings. The only negative is that the large twist dial isn\u2019t for adjusting volume but for selecting the sound you wish to use to help you sleep. For me, volume adjustment here would have been better. It is the best speaker of this kind I have tried, and it stops me from using my phone in bed.",
+                "buy_link": "Buy on Amazon"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    }
+}
