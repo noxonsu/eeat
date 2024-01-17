@@ -1,142 +1,177 @@
 {
     "cloud.google.com": {
         "url": "https://cloud.google.com/use-cases/free-ai-tools",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://cloud.google.com/pricing"
     },
     "clickup.com": {
         "url": "https://clickup.com/blog/ai-tools/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://clickup.com/pricing"
     },
     "www.synthesia.io": {
         "url": "https://www.synthesia.io/post/ai-tools",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.synthesia.io/pricing"
     },
     "zapier.com": {
         "url": "https://zapier.com/apps/categories/ai-tools",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://zapier.com/pricing"
     },
     "www.forbes.com": {
         "url": "https://www.forbes.com/sites/bernardmarr/2023/02/28/beyond-chatgpt-14-mind-blowing-ai-tools-everyone-should-be-trying-out-now/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "ai.google": {
         "url": "https://ai.google/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://ai.google/tools/cloud-tpus/"
     },
     "builtin.com": {
         "url": "https://builtin.com/artificial-intelligence/ai-tools",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "niftypm.com": {
         "url": "https://niftypm.com/blog/ai-tools/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://niftypm.com/pricing/"
     },
     "www.cnbc.com": {
         "url": "https://www.cnbc.com/2024/01/16/amazon-launches-generative-ai-tool-to-answer-shoppers-questions.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.cnbc.com/2023/11/06/openai-announces-more-powerful-gpt-4-turbo-and-cuts-prices.html"
     },
     "blog.hootsuite.com": {
         "url": "https://blog.hootsuite.com/ai-marketing-tools/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "openai.com": {
         "url": "https://openai.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://openai.com/pricing"
     },
     "www.futuretools.io": {
         "url": "https://www.futuretools.io/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.futuretools.io/tools/bearlyai"
     },
     "www.futurepedia.io": {
         "url": "https://www.futurepedia.io/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.futurepedia.io/tool/unreal-speech"
     },
     "bard.google.com": {
         "url": "https://bard.google.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.youtube.com": {
         "url": "https://www.youtube.com/watch?v=qB4HGMvrhwE",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "research.utk.edu": {
         "url": "https://research.utk.edu/research-integrity/artificial-intelligence-ai-tools/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "intellipaat.com": {
         "url": "https://intellipaat.com/blog/top-artificial-intelligence-tools/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://intellipaat.com/blog/aws-datasync/"
     },
     "runwayml.com": {
         "url": "https://runwayml.com/ai-magic-tools/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://runwayml.com/pricing/"
     },
     "www.aitoolsclub.com": {
         "url": "https://www.aitoolsclub.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.aitoolsclub.com/meet-ahaapple-an-ai-tool-that-uses-brainstorming-techniques-to-bring-innovative-ideas-and-inspiration/"
     },
     "www.insidr.ai": {
         "url": "https://www.insidr.ai/ai-tools/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.insidr.ai/how-to-price-ai-automation-agency-services-beginners-guide/"
     },
     "improvado.io": {
         "url": "https://improvado.io/blog/best-ai-marketing-tools",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://improvado.io/pricing"
     },
     "www.unite.ai": {
         "url": "https://www.unite.ai/best-ai-tools-for-business/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.thoughtspot.com": {
         "url": "https://www.thoughtspot.com/data-trends/ai/best-ai-tools-for-business",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.thoughtspot.com/pricing"
     },
     "huit.harvard.edu": {
         "url": "https://huit.harvard.edu/ai/tools",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.nyu.edu": {
         "url": "https://www.nyu.edu/life/information-technology/artificial-intelligence-at-nyu/public-generative-ai-tools.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.edureka.co": {
         "url": "https://www.edureka.co/blog/top-12-artificial-intelligence-tools/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "findmyaitool.com": {
         "url": "https://findmyaitool.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://findmyaitool.com/tool/postwise"
     },
     "oecd.ai": {
         "url": "https://oecd.ai/en/catalogue/tools",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://oecd.ai/en/catalogue/tools/unsupervised-learning-for-anomaly-detection-in-options-pricing"
     },
     "www.iu.org": {
         "url": "https://www.iu.org/blog/ai-and-education/best-ai-tools-for-students/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.turing.com": {
         "url": "https://www.turing.com/resources/generative-ai-tools",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.turing.com/services/blog/ai-pricing-platform"
     },
     "www.podium.com": {
         "url": "https://www.podium.com/article/ai-tools-for-business/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.podium.com/pricing/"
     },
     "www.renesas.com": {
         "url": "https://www.renesas.com/us/en/products/microcontrollers-microprocessors/reality-ai/reality-ai-tools",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "bootcamp.uxdesign.cc": {
         "url": "https://bootcamp.uxdesign.cc/the-ultimate-list-top-100-ai-tools-in-2023-65c5ea1ccbd9",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.zdnet.com": {
         "url": "https://www.zdnet.com/article/my-5-favorite-ai-tools-for-work/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.zdnet.com/article/cloud-computing-pricing-beware-the-bill-shock/"
     },
     "aitoolsdirectory.com": {
         "url": "https://aitoolsdirectory.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://link.aitoolsdirectory.com/merlin"
     }
 }
