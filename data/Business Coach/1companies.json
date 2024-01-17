@@ -2,37 +2,44 @@
     "blog.hubspot.com": {
         "url": "https://blog.hubspot.com/sales/business-coach",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://blog.hubspot.com/sales/business-coach"
+        "priceAndPlansCrawled": "https://blog.hubspot.com/sales/business-coach",
+        "5prompt_Hash": "9322e175730db72aa9fdc9bbd1ed033e"
     },
     "www.betterup.com": {
         "url": "https://www.betterup.com/blog/business-coaching",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.betterup.com/career-coaching"
+        "priceAndPlansCrawled": "https://www.betterup.com/career-coaching",
+        "5prompt_Hash": "9322e175730db72aa9fdc9bbd1ed033e"
     },
     "www.tonyrobbins.com": {
         "url": "https://www.tonyrobbins.com/business-coaching/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.tonyrobbins.com/business-coaching/"
+        "priceAndPlansCrawled": "https://www.tonyrobbins.com/business-coaching/",
+        "5prompt_Hash": "9322e175730db72aa9fdc9bbd1ed033e"
     },
     "www.smallbusinesscoach.org": {
         "url": "https://www.smallbusinesscoach.org/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.smallbusinesscoach.org/small-business-coach-offers-affordable-coaching-packages-by-alan-melton/"
+        "priceAndPlansCrawled": "https://www.smallbusinesscoach.org/small-business-coach-offers-affordable-coaching-packages-by-alan-melton/",
+        "5prompt_Hash": "9322e175730db72aa9fdc9bbd1ed033e"
     },
     "www.noomii.com": {
         "url": "https://www.noomii.com/business-coaches",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.noomii.com/articles/8206-how-much-does-it-cost-to-hire-a-business-coach"
+        "priceAndPlansCrawled": "https://www.noomii.com/articles/8206-how-much-does-it-cost-to-hire-a-business-coach",
+        "5prompt_Hash": "9322e175730db72aa9fdc9bbd1ed033e"
     },
     "www.briantracy.com": {
         "url": "https://www.briantracy.com/blog/business-success/business-coaching/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.briantracy.com/coaching/get_coached.aspx"
+        "priceAndPlansCrawled": "https://www.briantracy.com/coaching/get_coached.aspx",
+        "5prompt_Hash": "9322e175730db72aa9fdc9bbd1ed033e"
     },
     "www.nerdwallet.com": {
         "url": "https://www.nerdwallet.com/article/small-business/business-coach",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.nerdwallet.com/article/small-business/business-coach"
+        "priceAndPlansCrawled": "https://www.nerdwallet.com/article/small-business/business-coach",
+        "5prompt_Hash": "9322e175730db72aa9fdc9bbd1ed033e"
     },
     "www.davelabowitz.com": {
         "url": "https://www.davelabowitz.com/",
@@ -42,7 +49,8 @@
     "www.deliberatedirections.com": {
         "url": "https://www.deliberatedirections.com/best-business-coaches/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.deliberatedirections.com/business-coaching/"
+        "priceAndPlansCrawled": "https://www.deliberatedirections.com/business-coaching/",
+        "5prompt_Hash": "9322e175730db72aa9fdc9bbd1ed033e"
     },
     "www.score.org": {
         "url": "https://www.score.org/find-mentor",
@@ -52,12 +60,14 @@
     "www.strategiccoach.com": {
         "url": "https://www.strategiccoach.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.strategiccoach.com/program/strategic-coach-program/terms-and-conditions/"
+        "priceAndPlansCrawled": "https://www.strategiccoach.com/program/strategic-coach-program/terms-and-conditions/",
+        "5prompt_Hash": "9322e175730db72aa9fdc9bbd1ed033e"
     },
     "petracoach.com": {
         "url": "http://petracoach.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://petracoach.com/choose-business-coach/"
+        "priceAndPlansCrawled": "https://petracoach.com/choose-business-coach/",
+        "5prompt_Hash": "9322e175730db72aa9fdc9bbd1ed033e"
     },
     "www.businesscoach.com": {
         "url": "https://www.businesscoach.com/",
@@ -67,6 +77,7 @@
     "www.emyth.com": {
         "url": "https://www.emyth.com/inside/what-is-business-coaching",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.emyth.com/coaching-agreement"
+        "priceAndPlansCrawled": "https://www.emyth.com/coaching-agreement",
+        "5prompt_Hash": "9322e175730db72aa9fdc9bbd1ed033e"
     }
 }
