@@ -1,56 +1,74 @@
 {
     "www.tripadvisor.com": {
-        "url": "https://www.tripadvisor.com/Attractions-g188052-Activities-c40-Bern_Bern_Mittelland_District_Canton_of_Bern.html"
+        "url": "https://www.tripadvisor.com/Attractions-g188052-Activities-c40-Bern_Bern_Mittelland_District_Canton_of_Bern.html",
+        "nature": "single project"
     },
     "www.yelp.com": {
-        "url": "https://www.yelp.com/search?cflt=massage&find_loc=bern"
+        "url": "https://www.yelp.com/search?cflt=massage&find_loc=bern",
+        "nature": "single project"
     },
     "www.bernaqua.ch": {
-        "url": "https://www.bernaqua.ch/de-ch/wellness/massage/"
+        "url": "https://www.bernaqua.ch/de-ch/wellness/massage/",
+        "nature": "single project"
     },
     "www.aqua-spa-resorts.ch": {
-        "url": "http://www.aqua-spa-resorts.ch/en/hammam-spa-oktogon-bern/vouchers/hammam-ritual-massage"
+        "url": "http://www.aqua-spa-resorts.ch/en/hammam-spa-oktogon-bern/vouchers/hammam-ritual-massage",
+        "nature": "single project"
     },
     "www.physiozentrum.ch": {
-        "url": "https://www.physiozentrum.ch/en/bern-bahnhof/massage/"
+        "url": "https://www.physiozentrum.ch/en/bern-bahnhof/massage/",
+        "nature": "single project"
     },
     "www.nuumassage.ch": {
-        "url": "https://www.nuumassage.ch/de/"
+        "url": "https://www.nuumassage.ch/de/",
+        "nature": "single project"
     },
     "www.sportsmassagezone.ch": {
-        "url": "https://www.sportsmassagezone.ch/"
+        "url": "https://www.sportsmassagezone.ch/",
+        "nature": "single project"
     },
     "www.jenni-wellbeing.ch": {
-        "url": "https://www.jenni-wellbeing.ch/"
+        "url": "https://www.jenni-wellbeing.ch/",
+        "nature": "single project"
     },
     "bern-massagepraxis.ch": {
-        "url": "https://bern-massagepraxis.ch/"
+        "url": "https://bern-massagepraxis.ch/",
+        "nature": "single project"
     },
     "www.der-massoer.ch": {
-        "url": "https://www.der-massoer.ch/"
+        "url": "https://www.der-massoer.ch/",
+        "nature": "single project"
     },
     "newbernmassagestudio.com": {
-        "url": "https://newbernmassagestudio.com/"
+        "url": "https://newbernmassagestudio.com/",
+        "nature": "single project"
     },
     "aegeanmedspa.com": {
-        "url": "https://aegeanmedspa.com/massage/"
+        "url": "https://aegeanmedspa.com/massage/",
+        "nature": "single project"
     },
     "www.integri.ch": {
-        "url": "https://www.integri.ch/medizinische-massage/uebersicht-medizinische-massage"
+        "url": "https://www.integri.ch/medizinische-massage/uebersicht-medizinische-massage",
+        "nature": "single project"
     },
     "www.massagebook.com": {
-        "url": "https://www.massagebook.com/biz/crystal-coast-massage-and-wellness"
+        "url": "https://www.massagebook.com/biz/crystal-coast-massage-and-wellness",
+        "nature": "single project"
     },
     "www.facebook.com": {
-        "url": "https://www.facebook.com/guidedhandstherapeuticmassage/"
+        "url": "https://www.facebook.com/guidedhandstherapeuticmassage/",
+        "nature": "single project"
     },
     "uplevelbodywork.com": {
-        "url": "https://uplevelbodywork.com/spa-menu/massage-therapy/"
+        "url": "https://uplevelbodywork.com/spa-menu/massage-therapy/",
+        "nature": "single project"
     },
     "www.rinnovaspa.com": {
-        "url": "https://www.rinnovaspa.com/medical-spa-services-new-bern/body-treatments/"
+        "url": "https://www.rinnovaspa.com/medical-spa-services-new-bern/body-treatments/",
+        "nature": "single project"
     },
     "www.drflemming.com": {
-        "url": "https://www.drflemming.com/chiropractic-massage-therapy"
+        "url": "https://www.drflemming.com/chiropractic-massage-therapy",
+        "nature": "single project"
     }
 }
