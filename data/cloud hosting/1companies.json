@@ -1,29 +1,38 @@
 {
     "cloud.google.com": {
-        "url": "https://cloud.google.com/learn/what-is-cloud-hosting"
+        "url": "https://cloud.google.com/learn/what-is-cloud-hosting",
+        "nature": "single project"
     },
     "www.hostinger.com": {
-        "url": "https://www.hostinger.com/cloud-hosting"
+        "url": "https://www.hostinger.com/cloud-hosting",
+        "nature": "single project"
     },
     "www.techtarget.com": {
-        "url": "https://www.techtarget.com/searchstorage/definition/cloud-hosting"
+        "url": "https://www.techtarget.com/searchstorage/definition/cloud-hosting",
+        "nature": "single project"
     },
     "www.cloudways.com": {
-        "url": "https://www.cloudways.com/en/"
+        "url": "https://www.cloudways.com/en/",
+        "nature": "single project"
     },
     "www.pcmag.com": {
-        "url": "https://www.pcmag.com/picks/the-best-cloud-web-hosting-services"
+        "url": "https://www.pcmag.com/picks/the-best-cloud-web-hosting-services",
+        "nature": "single project"
     },
     "www.digitalocean.com": {
-        "url": "https://www.digitalocean.com/"
+        "url": "https://www.digitalocean.com/",
+        "nature": "single project"
     },
     "www.forbes.com": {
-        "url": "https://www.forbes.com/advisor/business/software/best-cloud-hosting/"
+        "url": "https://www.forbes.com/advisor/business/software/best-cloud-hosting/",
+        "nature": "single project"
     },
     "aws.amazon.com": {
-        "url": "https://aws.amazon.com/what-is/cloud-hosting/"
+        "url": "https://aws.amazon.com/what-is/cloud-hosting/",
+        "nature": "single project"
     },
     "www.businessnewsdaily.com": {
-        "url": "https://www.businessnewsdaily.com/5030-what-is-cloud-hosting.html"
+        "url": "https://www.businessnewsdaily.com/5030-what-is-cloud-hosting.html",
+        "nature": "single project"
     }
 }
