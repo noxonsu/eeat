@@ -1,98 +1,130 @@
 {
     "www.camperverzekerd.nl": {
-        "url": "https://www.camperverzekerd.nl/"
+        "url": "https://www.camperverzekerd.nl/",
+        "nature": "single project"
     },
     "www.avecoverzekeringen.nl": {
-        "url": "https://www.avecoverzekeringen.nl/camperverzekering/"
+        "url": "https://www.avecoverzekeringen.nl/camperverzekering/",
+        "nature": "single project"
     },
     "www.nkc.nl": {
-        "url": "https://www.nkc.nl/verzekeringen/camperverzekering/"
+        "url": "https://www.nkc.nl/verzekeringen/camperverzekering/",
+        "nature": "single project"
     },
     "www.anwb.nl": {
-        "url": "https://www.anwb.nl/verzekeringen/camperverzekering"
+        "url": "https://www.anwb.nl/verzekeringen/camperverzekering",
+        "nature": "single project"
     },
     "www.unive.nl": {
-        "url": "https://www.unive.nl/camperverzekering"
+        "url": "https://www.unive.nl/camperverzekering",
+        "nature": "single project"
     },
     "www.centraalbeheer.nl": {
-        "url": "https://www.centraalbeheer.nl/verzekeringen/camperverzekering"
+        "url": "https://www.centraalbeheer.nl/verzekeringen/camperverzekering",
+        "nature": "single project"
     },
     "www.interpolis.nl": {
-        "url": "https://www.interpolis.nl/verzekeren/camperverzekering"
+        "url": "https://www.interpolis.nl/verzekeren/camperverzekering",
+        "nature": "single project"
     },
     "www.alpina.nl": {
-        "url": "https://www.alpina.nl/camperverzekering/"
+        "url": "https://www.alpina.nl/camperverzekering/",
+        "nature": "single project"
     },
     "www.de-camperverzekering.nl": {
-        "url": "https://www.de-camperverzekering.nl/"
+        "url": "https://www.de-camperverzekering.nl/",
+        "nature": "single project"
     },
     "www.unigarant.nl": {
-        "url": "https://www.unigarant.nl/verzekeringen/camperverzekering/"
+        "url": "https://www.unigarant.nl/verzekeringen/camperverzekering/",
+        "nature": "single project"
     },
     "www.pasar.be": {
-        "url": "https://www.pasar.be/camperverzekering"
+        "url": "https://www.pasar.be/camperverzekering",
+        "nature": "single project"
     },
     "turien.nl": {
-        "url": "https://turien.nl/verzekeringen/particulier/recreatie/camperverzekering"
+        "url": "https://turien.nl/verzekeringen/particulier/recreatie/camperverzekering",
+        "nature": "single project"
     },
     "www.depremievergelijker.nl": {
-        "url": "https://www.depremievergelijker.nl/camperverzekering/"
+        "url": "https://www.depremievergelijker.nl/camperverzekering/",
+        "nature": "single project"
     },
     "www.asr.nl": {
-        "url": "https://www.asr.nl/verzekeringen/camperverzekering"
+        "url": "https://www.asr.nl/verzekeringen/camperverzekering",
+        "nature": "single project"
     },
     "www.nh1816.nl": {
-        "url": "https://www.nh1816.nl/verzekeringen/camperverzekering"
+        "url": "https://www.nh1816.nl/verzekeringen/camperverzekering",
+        "nature": "single project"
     },
     "www.vanbruggen.nl": {
-        "url": "https://www.vanbruggen.nl/financieel-advies/verzekeringsadvies/camperverzekering"
+        "url": "https://www.vanbruggen.nl/financieel-advies/verzekeringsadvies/camperverzekering",
+        "nature": "single project"
     },
     "www.kampeermeneer.nl": {
-        "url": "https://www.kampeermeneer.nl/welke-camperverzekering/"
+        "url": "https://www.kampeermeneer.nl/welke-camperverzekering/",
+        "nature": "single project"
     },
     "www.rabobank.nl": {
-        "url": "https://www.rabobank.nl/particulieren/verzekering/camperverzekering"
+        "url": "https://www.rabobank.nl/particulieren/verzekering/camperverzekering",
+        "nature": "single project"
     },
     "www.kieszeker.nl": {
-        "url": "https://www.kieszeker.nl/camper-verzekeren/"
+        "url": "https://www.kieszeker.nl/camper-verzekeren/",
+        "nature": "single project"
     },
     "www.honigenhonig.nl": {
-        "url": "https://www.honigenhonig.nl/camperverzekering"
+        "url": "https://www.honigenhonig.nl/camperverzekering",
+        "nature": "single project"
     },
     "verzekeren.vereende.nl": {
-        "url": "https://verzekeren.vereende.nl/motorrijtuigverzekering/camperverzekering"
+        "url": "https://verzekeren.vereende.nl/motorrijtuigverzekering/camperverzekering",
+        "nature": "single project"
     },
     "www.zichtadviseurs.nl": {
-        "url": "https://www.zichtadviseurs.nl/particulier/verzekeringen/camperverzekering/"
+        "url": "https://www.zichtadviseurs.nl/particulier/verzekeringen/camperverzekering/",
+        "nature": "single project"
     },
     "www.acsi.eu": {
-        "url": "https://www.acsi.eu/nl/verzekering/camperverzekering/"
+        "url": "https://www.acsi.eu/nl/verzekering/camperverzekering/",
+        "nature": "single project"
     },
     "www.bynomads.nl": {
-        "url": "https://www.bynomads.nl/camper-bouwen/camperverzekering/"
+        "url": "https://www.bynomads.nl/camper-bouwen/camperverzekering/",
+        "nature": "single project"
     },
     "www.safetrip.nl": {
-        "url": "https://www.safetrip.nl/"
+        "url": "https://www.safetrip.nl/",
+        "nature": "single project"
     },
     "www.goboony.be": {
-        "url": "https://www.goboony.be/blog/dit-zijn-de-aanbieders-van-een-camperverzekering-in-belgie"
+        "url": "https://www.goboony.be/blog/dit-zijn-de-aanbieders-van-een-camperverzekering-in-belgie",
+        "nature": "single project"
     },
     "www.onlinecamperverzekering.nl": {
-        "url": "https://www.onlinecamperverzekering.nl/"
+        "url": "https://www.onlinecamperverzekering.nl/",
+        "nature": "single project"
     },
     "www.verzekering.nl": {
-        "url": "https://www.verzekering.nl/camperverzekering/"
+        "url": "https://www.verzekering.nl/camperverzekering/",
+        "nature": "single project"
     },
     "camperverzekeringvergelijker.nl": {
-        "url": "https://camperverzekeringvergelijker.nl/"
+        "url": "https://camperverzekeringvergelijker.nl/",
+        "nature": "single project"
     },
     "www.goboony.nl": {
-        "url": "https://www.goboony.nl/blog/wat-is-de-beste-camperverzekering"
+        "url": "https://www.goboony.nl/blog/wat-is-de-beste-camperverzekering",
+        "nature": "single project"
     },
     "ansvar-idea.nl": {
-        "url": "https://ansvar-idea.nl/verzekeringen/particulier/ansvar-bewust/bewust-camperverzekering"
+        "url": "https://ansvar-idea.nl/verzekeringen/particulier/ansvar-bewust/bewust-camperverzekering",
+        "nature": "single project"
     },
     "tiogatours.nl": {
-        "url": "https://tiogatours.nl/praktische-info/vraagbaak/camperhuur/camperverzekering/"
+        "url": "https://tiogatours.nl/praktische-info/vraagbaak/camperhuur/camperverzekering/",
+        "nature": "single project"
     }
 }
