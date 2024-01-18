@@ -1,0 +1,36 @@
+{
+    "title": "Optimized Camperverzekering Key Features",
+    "intro": "This list represents the key features of camperverzekering gathered from analyzing 2 companies, with a total of 10 features.",
+    "features": {
+        "Coverage": {
+            "title": "Coverage",
+            "features": [
+                "Biedt verschillende dekkingen zoals WA, WA beperkt casco, en All-Risk (2)"
+            ]
+        },
+        "Additional Options": {
+            "title": "Additional Options",
+            "features": [
+                "Mogelijkheid tot meeverzekeren van de inventaris van de camper (2)",
+                "Mogelijkheid tot overname korting van 1e auto (1)",
+                "Afkoop eigen risico (1)",
+                "Dekking van bepaalde door de verhuurder uitgesloten cascoschades (1)",
+                "Aanvullende dekking voor bestuurdersaansprakelijkheid en rechtsbijstand (1)",
+                "Goedkopere en volledigere optie dan de SLI-verzekering van de verhuurder (1)"
+            ]
+        },
+        "Services": {
+            "title": "Services",
+            "features": [
+                "Inclusief gratis verhaalservice bij schade (2)",
+                "Inclusief groene kaart voor verzekering in het buitenland (2)"
+            ]
+        },
+        "Permissions": {
+            "title": "Permissions",
+            "features": [
+                "Toestaan van uitlenen van de camper (1)"
+            ]
+        }
+    }
+}
