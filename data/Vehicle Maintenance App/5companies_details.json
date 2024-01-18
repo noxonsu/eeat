@@ -1,0 +1,113 @@
+{
+    "simplyauto.app": {
+        "product_name": "Simply Auto",
+        "call_to_action": "Sign In, Purchase Pro Version",
+        "usecases": [
+            "Managing fuel consumption",
+            "Tracking maintenance and expenses",
+            "Tracking mileage for tax deductions or reimbursements"
+        ],
+        "solutions": "Simply Auto is a car management app designed for managing fuel consumption, maintenance, and expenses of vehicles. It also helps keep track of mileage for tax deductions or reimbursements.",
+        "key_features": {
+            "fill-ups": "Record fill-ups for all cars and monitor car efficiency",
+            "automatic_mileage_recording": "Track business mileage with auto trip feature",
+            "service_reminders": "Log services and receive reminders when due",
+            "control_expenses": "Know vehicle running costs and plan for expenses",
+            "secure_cloud_backup": "Access data from anywhere with cloud backup",
+            "schedule_report": "Run or schedule reports for fill-ups, mileage, and expenses"
+        },
+        "pricing": {
+            "free_version": "$0.00",
+            "gold_version": "$9.99 (one-time payment)",
+            "platinum_version": "$9.99/year",
+            "features_included": {
+                "unlimited_fill-ups_services_expenses": true,
+                "unlimited_manual_trips": true,
+                "in-depth_analysis_reports": true,
+                "reminders_based_on_mileage_date": true,
+                "voice_activated_input": true,
+                "sync_data_between_multiple_devices": true,
+                "add_unlimited_services_expenses": true,
+                "add_multiple_vehicles": "Up to 4",
+                "instant_backup_to_cloud": "Only Log",
+                "automatic_trip_logging": "15 trips/month",
+                "export_to_google_drive": "Only Log",
+                "sync_data_between_multiple_drivers": "Up to 3",
+                "generate_reports": "Cannot attach raw data and receipts",
+                "access_data_on_web": true,
+                "add_multiple_receipts": true,
+                "attach_pdf_files_as_receipts": true,
+                "gps_tracking_in_manual_trips": true,
+                "change_quantity_unit_for_fill-ups": true,
+                "no_ads": true,
+                "schedule_automated_reports": true,
+                "receive_maintenance_reminder_via_email": true,
+                "view_saved_trips_on_maps": true,
+                "automatically_fill_station_names": true,
+                "upload_documents_for_vehicles": true
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "oneTimePurchase": "$5.99",
+                "yearly": "$9.99/year (with extra features)",
+                "cloudPlan": "$6.99/year",
+                "webAccessPlan": "$5.99/year",
+                "premiumPlan": "$59.99/year"
+            }
+        }
+    },
+    "autosist.com": {
+        "product_name": "AUTOsist Fleet Maintenance Software",
+        "call_to_action": "Schedule a live demo or start a free trial",
+        "use_cases": [
+            "Fleet maintenance management",
+            "Preventative maintenance scheduling",
+            "Digital inspections",
+            "GPS and fuel card integrations",
+            "Safety dash cameras and driver monitoring"
+        ],
+        "solutions": "AUTOsist's fleet maintenance software and mobile app provide a simple and affordable solution to manage entire fleets more efficiently without compromising on usability, features, or price. It offers preventative maintenance, safety dash cameras, digital inspections, and GPS & fuel card integrations.",
+        "key_features": {
+            "Preventative Maintenance Schedules": "Track completed maintenance with receipt and document upload",
+            "Digital Inspections": "Build custom checklists with notifications for items marked not in proper working order",
+            "Reminders": "Push notifications and email reminders by date and/or odometer",
+            "Service History Tracking": "Easily track all completed maintenance for the fleet. Attach receipts and other documents and keep everything organized",
+            "Work Orders": "Track fleet maintenance work orders for efficient business operations",
+            "Fuel Management": "Track fill ups and costs for fuel. Integrate easily with fuel cards or upload data",
+            "Parts Inventory Management": "Track parts and keep inventory counts. Get alerts when stock is running low",
+            "User Management": "Assign users to specific vehicles/assets with permission control",
+            "Trip Log": "Track miles or hours for units and differentiate business from personal use",
+            "Document Management": "Manage miscellaneous documents such as registration, insurance, warranty, and more",
+            "Custom Reports": "See monthly/annual spending on maintenance, service, and more",
+            "Equipment Management": "Ensure proper maintenance of equipment and trailers for maximum productivity and longevity",
+            "GPS Tracking and Safety Cameras": "Track fleet's location, odometer readings, DTC fault code alerts, and dual-facing cameras for driver safety",
+            "Safety Dash Cams": "Two-way facing HD dash cams with live feeds for safety, insurance compliance, and accident risk prevention"
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Maintenance Package": {
+                    "Starting at": "$5 per asset, per month (billed annually) or $6 if paying monthly",
+                    "Features": "Unlimited Users, Unlimited Assets, Maintenance Reminders & Scheduling, Preventative Maintenance Work Orders, Custom DVIR Digital Inspection Forms, Parts Inventory Management, Fuel Card Integrations, Real-Time Odometer Syncs, User Permission & Access Control, 24/7 Email & Phone Support, Fleet Management Reports"
+                },
+                "Maintenance Package + GPS": {
+                    "Starting at": "$27 per asset, per month (billed annually) or $30 if paying monthly",
+                    "Additional Features": "GPS Hardware Included, GPS Tracking With Geofencing, DTC Engine Code Alerts, Real-Time Driving Behavior Metrics, Automatic Mileage-Based Work Orders, Driver Scorecards, Driver Reward Program, Bridgestone/Firestone Discounts"
+                },
+                "Maintenance Package + GPS + Safety Cameras": {
+                    "Starting at": "$54 per asset, per month (billed annually) or $60 if paying monthly",
+                    "Additional Features": "GPS + Safety Camera Hardware Included, Dual-Facing In-Cab HD Safety Cameras, In-Cab Alerts, Live Camera Feed, AI Video Telematics, Driver Behavior Metrics, Expert Support On Call"
+                }
+            }
+        }
+    },
+    "www.fleetio.com": {
+        "error": "Timeout error occurred while trying to access the website",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    }
+}

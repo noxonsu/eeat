@@ -42,7 +42,8 @@
     "simplyauto.app": {
         "url": "https://simplyauto.app/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://simplyauto.app/comparison.php"
+        "priceAndPlansCrawled": "https://simplyauto.app/comparison.php",
+        "5prompt_Hash": "8991ea8f24b21b45f978ace2fcdb82a2"
     },
     "cars.usnews.com": {
         "url": "https://cars.usnews.com/cars-trucks/advice/car-maintenance-apps-that-will-save-you-money",
@@ -52,7 +53,8 @@
     "autosist.com": {
         "url": "https://autosist.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://autosist.com/pricing/"
+        "priceAndPlansCrawled": "https://autosist.com/pricing/",
+        "5prompt_Hash": "8991ea8f24b21b45f978ace2fcdb82a2"
     },
     "www.laurenwantstoknow.com": {
         "url": "https://www.laurenwantstoknow.com/7-best-car-maintenance-reminder-apps-for-android-iphone/",
@@ -82,7 +84,8 @@
     "www.fleetio.com": {
         "url": "https://www.fleetio.com/blog/12-features-the-best-fleet-vehicle-maintenance-app-should-have",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.fleetio.com/pricing"
+        "priceAndPlansCrawled": "https://www.fleetio.com/pricing",
+        "5prompt_Hash": "8991ea8f24b21b45f978ace2fcdb82a2"
     },
     "www.defensivedriving.org": {
         "url": "https://www.defensivedriving.org/dmv-handbook/the-14-best-car-maintenance-apps-available/",
