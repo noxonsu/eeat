@@ -17,7 +17,8 @@
     "www.abcanimals.org": {
         "url": "https://www.abcanimals.org/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.abcanimals.org/en/products/privat-hundtraning"
+        "priceAndPlansCrawled": "https://www.abcanimals.org/en/products/privat-hundtraning",
+        "5prompt_Hash": "7c3ddc796604f5b19f4bf1bc1ec14301"
     },
     "www.klemminghundar.se": {
         "url": "https://www.klemminghundar.se/beloningsbaserad-kontra-bestraffningsbaserad-inlarning/",
@@ -57,7 +58,8 @@
     "www.hundigt.se": {
         "url": "https://www.hundigt.se/valptraning-till-vardag-och-fest",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.hundigt.se/terms"
+        "priceAndPlansCrawled": "https://www.hundigt.se/terms",
+        "5prompt_Hash": "7c3ddc796604f5b19f4bf1bc1ec14301"
     },
     "rabalderhundkunskap.com": {
         "url": "https://rabalderhundkunskap.com/",
@@ -77,7 +79,8 @@
     "nimishundskola.se": {
         "url": "https://nimishundskola.se/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://nimishundskola.se/store/product/privat-tr%C3%A4ning-2-veckor"
+        "priceAndPlansCrawled": "https://nimishundskola.se/store/product/privat-tr%C3%A4ning-2-veckor",
+        "5prompt_Hash": "7c3ddc796604f5b19f4bf1bc1ec14301"
     },
     "stud.epsilon.slu.se": {
         "url": "https://stud.epsilon.slu.se/3011/1/isaksson_s_110704.pdf",
@@ -117,7 +120,8 @@
     "klickerforlaget.se": {
         "url": "https://klickerforlaget.se/butik/valptraning-till-vardag-och-fest-beloningsbaserad-fagelhundstraning/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://klickerforlaget.se/hundkurser/"
+        "priceAndPlansCrawled": "https://klickerforlaget.se/hundkurser/",
+        "5prompt_Hash": "7c3ddc796604f5b19f4bf1bc1ec14301"
     },
     "hundlaroverket.se": {
         "url": "https://hundlaroverket.se/",
