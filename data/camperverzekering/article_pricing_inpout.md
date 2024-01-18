@@ -1,0 +1,1 @@
+{"www.alpina.nl": {"status": "Not found", "priceAndPlans": []}, "tiogatours.nl": {"status": "Error: Timeout", "priceAndPlans": "Not found"}}
