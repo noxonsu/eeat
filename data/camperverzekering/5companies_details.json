@@ -1,0 +1,49 @@
+{
+    "www.alpina.nl": {
+        "camperverzekering": {
+            "call_to_action": "Bereken je premie",
+            "usecases": [
+                "Verzekeren van campers voor particulier en zakelijk gebruik",
+                "Vergelijken van verschillende camperverzekeringen",
+                "Inclusief groene kaart",
+                "Overname korting 1e auto",
+                "Uitlenen toegestaan"
+            ],
+            "solutions": [
+                "Biedt verzekeringen voor campers met verschillende dekkingen zoals WA, WA beperkt casco, en All-Risk",
+                "Inclusief groene kaart voor verzekering in het buitenland",
+                "Mogelijkheid tot vergelijken van verschillende verzekeringen voor de beste keuze",
+                "Mogelijkheid tot direct online afsluiten van de verzekering"
+            ],
+            "key_features": {
+                "Gratis verhaalservice": "Inclusief gratis verhaalservice bij schade",
+                "Dekkingen": "Biedt verschillende dekkingen zoals WA, WA beperkt casco, en All-Risk",
+                "Inventaris verzekeren": "Mogelijkheid tot meeverzekeren van de inventaris van de camper",
+                "Groene kaart": "Inclusief groene kaart voor verzekering in het buitenland",
+                "Overname korting": "Mogelijkheid tot overname korting van 1e auto",
+                "Uitlenen toegestaan": "Toestaan van uitlenen van de camper"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "tiogatours.nl": {
+        "camperverzekering": {
+            "call_to_action": "Neem contact met ons op",
+            "usecases": "De camperverzekering van a.s.r. via Tioga Tours is bedoeld voor mensen die een camper huren in Amerika en Canada en behoefte hebben aan afkoop van eigen risico, dekking van bepaalde uitsluitingen van de verhuurder, aanvullende dekking voor bestuurdersaansprakelijkheid en rechtsbijstand, en een volledigere en goedkopere optie dan de SLI-verzekering van de verhuurder.",
+            "solutions": "De camperverzekering biedt afkoop van eigen risico, dekking van bepaalde door de verhuurder uitgesloten cascoschades, aanvullende dekking voor bestuurdersaansprakelijkheid en rechtsbijstand, en is altijd goedkoper en vollediger dan de SLI-verzekering van de verhuurder.",
+            "key_features": [
+                "Afkoop eigen risico",
+                "Dekking van bepaalde door de verhuurder uitgesloten cascoschades",
+                "Aanvullende dekking voor bestuurdersaansprakelijkheid en rechtsbijstand",
+                "Goedkopere en volledigere optie dan de SLI-verzekering van de verhuurder"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Error: Timeout",
+            "priceAndPlans": "Not found"
+        }
+    }
+}

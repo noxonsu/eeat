@@ -37,7 +37,8 @@
     "www.alpina.nl": {
         "url": "https://www.alpina.nl/camperverzekering/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.alpina.nl/en/camper-insurance/prijs/"
+        "priceAndPlansCrawled": "https://www.alpina.nl/en/camper-insurance/prijs/",
+        "5prompt_Hash": "57a2ac25fd4724b240a4867cee17968c"
     },
     "www.de-camperverzekering.nl": {
         "url": "https://www.de-camperverzekering.nl/",
@@ -157,6 +158,7 @@
     "tiogatours.nl": {
         "url": "https://tiogatours.nl/praktische-info/vraagbaak/camperhuur/camperverzekering/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://tiogatours.nl/static/uploads/downloads/camperhuur/escape-campervans/insurance-options-2021.vh4d6dac43cf.pdf"
+        "priceAndPlansCrawled": "https://tiogatours.nl/static/uploads/downloads/camperhuur/escape-campervans/insurance-options-2021.vh4d6dac43cf.pdf",
+        "5prompt_Hash": "57a2ac25fd4724b240a4867cee17968c"
     }
 }
