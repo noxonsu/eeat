@@ -1,83 +1,110 @@
 {
     "apps.apple.com": {
-        "url": "https://apps.apple.com/us/app/vehicle-maintenance-tracker/id1315913699"
+        "url": "https://apps.apple.com/us/app/vehicle-maintenance-tracker/id1315913699",
+        "nature": "single project"
     },
     "play.google.com": {
-        "url": "https://play.google.com/store/apps/details?id=mrigapps.andriod.fuelcons&hl=en_US&gl=US"
+        "url": "https://play.google.com/store/apps/details?id=mrigapps.andriod.fuelcons&hl=en_US&gl=US",
+        "nature": "single project"
     },
     "www.familyhandyman.com": {
-        "url": "https://www.familyhandyman.com/article/best-maintenance-apps-for-your-car/"
+        "url": "https://www.familyhandyman.com/article/best-maintenance-apps-for-your-car/",
+        "nature": "single project"
     },
     "www.progressive.com": {
-        "url": "https://www.progressive.com/lifelanes/on-the-road/auto-maintenance-tracking-apps/"
+        "url": "https://www.progressive.com/lifelanes/on-the-road/auto-maintenance-tracking-apps/",
+        "nature": "single project"
     },
     "www.carfax.com": {
-        "url": "https://www.carfax.com/Service/"
+        "url": "https://www.carfax.com/Service/",
+        "nature": "single project"
     },
     "www.d1autobody.com": {
-        "url": "https://www.d1autobody.com/blog/7-best-free-car-maintenance-apps"
+        "url": "https://www.d1autobody.com/blog/7-best-free-car-maintenance-apps",
+        "nature": "single project"
     },
     "www.nimbleappgenie.com": {
-        "url": "https://www.nimbleappgenie.com/blogs/car-maintenance-app/"
+        "url": "https://www.nimbleappgenie.com/blogs/car-maintenance-app/",
+        "nature": "single project"
     },
     "www.makeuseof.com": {
-        "url": "https://www.makeuseof.com/best-apps-car-maintenance-and-tips/"
+        "url": "https://www.makeuseof.com/best-apps-car-maintenance-and-tips/",
+        "nature": "single project"
     },
     "simplyauto.app": {
-        "url": "https://simplyauto.app/"
+        "url": "https://simplyauto.app/",
+        "nature": "single project"
     },
     "cars.usnews.com": {
-        "url": "https://cars.usnews.com/cars-trucks/advice/car-maintenance-apps-that-will-save-you-money"
+        "url": "https://cars.usnews.com/cars-trucks/advice/car-maintenance-apps-that-will-save-you-money",
+        "nature": "single project"
     },
     "autosist.com": {
-        "url": "https://autosist.com/"
+        "url": "https://autosist.com/",
+        "nature": "single project"
     },
     "www.laurenwantstoknow.com": {
-        "url": "https://www.laurenwantstoknow.com/7-best-car-maintenance-reminder-apps-for-android-iphone/"
+        "url": "https://www.laurenwantstoknow.com/7-best-car-maintenance-reminder-apps-for-android-iphone/",
+        "nature": "single project"
     },
     "www.akveo.com": {
-        "url": "https://www.akveo.com/blog/how-to-choose-the-best-fleet-vehicle-maintenance-app-the-ultimate-guide"
+        "url": "https://www.akveo.com/blog/how-to-choose-the-best-fleet-vehicle-maintenance-app-the-ultimate-guide",
+        "nature": "single project"
     },
     "www.carfax.ca": {
-        "url": "https://www.carfax.ca/Service/"
+        "url": "https://www.carfax.ca/Service/",
+        "nature": "single project"
     },
     "www.phmazda.com": {
-        "url": "https://www.phmazda.com/The-5-Best-Appsto-Keep-Up-With-Your-Car-Maintenance/"
+        "url": "https://www.phmazda.com/The-5-Best-Appsto-Keep-Up-With-Your-Car-Maintenance/",
+        "nature": "single project"
     },
     "www.leasefetcher.co.uk": {
-        "url": "https://www.leasefetcher.co.uk/guides/car-maintenance/car-maintenance-apps"
+        "url": "https://www.leasefetcher.co.uk/guides/car-maintenance/car-maintenance-apps",
+        "nature": "single project"
     },
     "www.fleetio.com": {
-        "url": "https://www.fleetio.com/blog/12-features-the-best-fleet-vehicle-maintenance-app-should-have"
+        "url": "https://www.fleetio.com/blog/12-features-the-best-fleet-vehicle-maintenance-app-should-have",
+        "nature": "single project"
     },
     "www.defensivedriving.org": {
-        "url": "https://www.defensivedriving.org/dmv-handbook/the-14-best-car-maintenance-apps-available/"
+        "url": "https://www.defensivedriving.org/dmv-handbook/the-14-best-car-maintenance-apps-available/",
+        "nature": "single project"
     },
     "www.youtube.com": {
-        "url": "https://www.youtube.com/watch?v=Zyyr5NBAlGg"
+        "url": "https://www.youtube.com/watch?v=Zyyr5NBAlGg",
+        "nature": "single project"
     },
     "autoalt.com": {
-        "url": "https://autoalt.com/"
+        "url": "https://autoalt.com/",
+        "nature": "single project"
     },
     "en.softonic.com": {
-        "url": "https://en.softonic.com/top/car-maintenance-apps"
+        "url": "https://en.softonic.com/top/car-maintenance-apps",
+        "nature": "single project"
     },
     "www.carcareclinicjetlube.com": {
-        "url": "https://www.carcareclinicjetlube.com/travel-tips/use-app-to-track-your-maintenance"
+        "url": "https://www.carcareclinicjetlube.com/travel-tips/use-app-to-track-your-maintenance",
+        "nature": "single project"
     },
     "bullocksbuzz.com": {
-        "url": "https://bullocksbuzz.com/best-vehicle-maintenance-apps/"
+        "url": "https://bullocksbuzz.com/best-vehicle-maintenance-apps/",
+        "nature": "single project"
     },
     "protectmycar.com": {
-        "url": "https://protectmycar.com/blog/top-10-maintenance-apps"
+        "url": "https://protectmycar.com/blog/top-10-maintenance-apps",
+        "nature": "single project"
     },
     "www.jotform.com": {
-        "url": "https://www.jotform.com/app-templates/car-maintenance-app"
+        "url": "https://www.jotform.com/app-templates/car-maintenance-app",
+        "nature": "single project"
     },
     "www.getapp.com": {
-        "url": "https://www.getapp.com/operations-management-software/fleet-tracking/"
+        "url": "https://www.getapp.com/operations-management-software/fleet-tracking/",
+        "nature": "single project"
     },
     "www.amazon.com": {
-        "url": "https://www.amazon.com/Car-Maintenance-App/s?k=Car+Maintenance+App"
+        "url": "https://www.amazon.com/Car-Maintenance-App/s?k=Car+Maintenance+App",
+        "nature": "single project"
     }
 }
