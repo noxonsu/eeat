@@ -1,89 +1,118 @@
 {
     "www.amazon.com": {
-        "url": "https://www.amazon.com/Waterproof-Protector-Colostomy-Ileostomy-Accessory/dp/B0BDVG9WQ1"
+        "url": "https://www.amazon.com/Waterproof-Protector-Colostomy-Ileostomy-Accessory/dp/B0BDVG9WQ1",
+        "nature": "single project"
     },
     "www.etsy.com": {
-        "url": "https://www.etsy.com/market/stoma_bandage"
+        "url": "https://www.etsy.com/market/stoma_bandage",
+        "nature": "single project"
     },
     "www.ebay.com": {
-        "url": "https://www.ebay.com/itm/154223478810"
+        "url": "https://www.ebay.com/itm/154223478810",
+        "nature": "single project"
     },
     "basko.com": {
-        "url": "https://basko.com/en-en/Products/Orthoses-and-bandages/Torso/Details/Stomacare-bandage-Standaard-Plus"
+        "url": "https://basko.com/en-en/Products/Orthoses-and-bandages/Torso/Details/Stomacare-bandage-Standaard-Plus",
+        "nature": "single project"
     },
     "www.mediplast.com": {
-        "url": "https://www.mediplast.com/products/stoma/other-ostomy-products"
+        "url": "https://www.mediplast.com/products/stoma/other-ostomy-products",
+        "nature": "single project"
     },
     "www.vitego-shop.de": {
-        "url": "https://www.vitego-shop.de/bandage-back-bort-stoma-bandage"
+        "url": "https://www.vitego-shop.de/bandage-back-bort-stoma-bandage",
+        "nature": "single project"
     },
     "www.rcs-pro.com": {
-        "url": "https://www.rcs-pro.com/en/Hygiene-Washing/Stoma-care/Stoma-Bandage-Neoprene.html"
+        "url": "https://www.rcs-pro.com/en/Hygiene-Washing/Stoma-care/Stoma-Bandage-Neoprene.html",
+        "nature": "single project"
     },
     "hytape.com": {
-        "url": "https://hytape.com/stoma-care/treating-irritated-skin-around-the-stoma/"
+        "url": "https://hytape.com/stoma-care/treating-irritated-skin-around-the-stoma/",
+        "nature": "single project"
     },
     "www.siilostomy.com": {
-        "url": "https://www.siilostomy.com/de/stoma-bandage-bandeanzug/"
+        "url": "https://www.siilostomy.com/de/stoma-bandage-bandeanzug/",
+        "nature": "single project"
     },
     "member.wocn.org": {
-        "url": "https://member.wocn.org/link.asp?ymlink=506962357"
+        "url": "https://member.wocn.org/link.asp?ymlink=506962357",
+        "nature": "single project"
     },
     "www.hopkinsmedicine.org": {
-        "url": "https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/colostomy"
+        "url": "https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/colostomy",
+        "nature": "single project"
     },
     "www.nomamed.de": {
-        "url": "https://www.nomamed.de/shop/de/stoma/bandagen/"
+        "url": "https://www.nomamed.de/shop/de/stoma/bandagen/",
+        "nature": "single project"
     },
     "www.stoma-na-und.de": {
-        "url": "https://www.stoma-na-und.de/Stomabandagen"
+        "url": "https://www.stoma-na-und.de/Stomabandagen",
+        "nature": "single project"
     },
     "www.orthomed.de": {
-        "url": "https://www.orthomed.de/stomabeutel/stomabandagen/"
+        "url": "https://www.orthomed.de/stomabeutel/stomabandagen/",
+        "nature": "single project"
     },
     "myhealth.alberta.ca": {
-        "url": "https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx?hwid=ud1233"
+        "url": "https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx?hwid=ud1233",
+        "nature": "single project"
     },
     "www.va.gov": {
-        "url": "https://www.va.gov/formularyadvisor/class/XA401"
+        "url": "https://www.va.gov/formularyadvisor/class/XA401",
+        "nature": "single project"
     },
     "my.clevelandclinic.org": {
-        "url": "https://my.clevelandclinic.org/health/treatments/24996-kock-pouch"
+        "url": "https://my.clevelandclinic.org/health/treatments/24996-kock-pouch",
+        "nature": "single project"
     },
     "www.mskcc.org": {
-        "url": "https://www.mskcc.org/cancer-care/patient-education/about-your-ileostomy-closure-surgery-01"
+        "url": "https://www.mskcc.org/cancer-care/patient-education/about-your-ileostomy-closure-surgery-01",
+        "nature": "single project"
     },
     "www.exmed.net": {
-        "url": "https://www.exmed.net/ostomy-barrier-rings-seals"
+        "url": "https://www.exmed.net/ostomy-barrier-rings-seals",
+        "nature": "single project"
     },
     "www.walmart.com": {
-        "url": "https://www.walmart.com/ip/Unisex-stoma-belt-skin-supply-respiratory-bandage-post-colostomy-abdominal-back-belts-available-3-sizes/1117407258"
+        "url": "https://www.walmart.com/ip/Unisex-stoma-belt-skin-supply-respiratory-bandage-post-colostomy-abdominal-back-belts-available-3-sizes/1117407258",
+        "nature": "single project"
     },
     "parthenoninc.com": {
-        "url": "https://parthenoninc.com/floor-grade-lister-bandage-scissors/"
+        "url": "https://parthenoninc.com/floor-grade-lister-bandage-scissors/",
+        "nature": "single project"
     },
     "www.cincinnatichildrens.org": {
-        "url": "https://www.cincinnatichildrens.org/health/d/decannulation"
+        "url": "https://www.cincinnatichildrens.org/health/d/decannulation",
+        "nature": "single project"
     },
     "www.claravital.de": {
-        "url": "https://www.claravital.de/Stoma-Unterwaesche-Bandagen"
+        "url": "https://www.claravital.de/Stoma-Unterwaesche-Bandagen",
+        "nature": "single project"
     },
     "www.rehaland.com": {
-        "url": "https://www.rehaland.com/inkontinenz/stomaversorgung/stomabandagen/stoma-bandage-mit-variabler-stoma-aussparung/"
+        "url": "https://www.rehaland.com/inkontinenz/stomaversorgung/stomabandagen/stoma-bandage-mit-variabler-stoma-aussparung/",
+        "nature": "single project"
     },
     "www.coloplast-homecare.de": {
-        "url": "https://www.coloplast-homecare.de/lp/brochures-und-magazine/brava-bandage/"
+        "url": "https://www.coloplast-homecare.de/lp/brochures-und-magazine/brava-bandage/",
+        "nature": "single project"
     },
     "www.konwedamedical.com": {
-        "url": "https://www.konwedamedical.com/products/waterproof-ostomy-bag-shower-cover-10x10-stoma-bath-protector-shield-film-adhesive-dressing-bandage-for-ostomy-supply-guard-accessory"
+        "url": "https://www.konwedamedical.com/products/waterproof-ostomy-bag-shower-cover-10x10-stoma-bath-protector-shield-film-adhesive-dressing-bandage-for-ostomy-supply-guard-accessory",
+        "nature": "single project"
     },
     "www.gosupps.com": {
-        "url": "https://www.gosupps.com/25-pcs-waterproof-stoma-shower-cover-9-x9-ostomy-bag-protector-shield-film-bandage-adhesive-dressing-for-colostomy-pouch-supply-bath-guard-accessory-9x9-inch-pack-of-25.html"
+        "url": "https://www.gosupps.com/25-pcs-waterproof-stoma-shower-cover-9-x9-ostomy-bag-protector-shield-film-bandage-adhesive-dressing-for-colostomy-pouch-supply-bath-guard-accessory-9x9-inch-pack-of-25.html",
+        "nature": "single project"
     },
     "stomaplex.com": {
-        "url": "https://stomaplex.com/"
+        "url": "https://stomaplex.com/",
+        "nature": "single project"
     },
     "www.bort.com": {
-        "url": "https://www.bort.com/de/produktdetail.html?product=104090"
+        "url": "https://www.bort.com/de/produktdetail.html?product=104090",
+        "nature": "single project"
     }
 }
