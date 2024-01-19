@@ -1,0 +1,1 @@
+{"www.designhotels.com": {"status": "Not found", "priceAndPlans": null}}
