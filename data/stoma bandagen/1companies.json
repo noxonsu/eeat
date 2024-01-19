@@ -17,12 +17,14 @@
     "basko.com": {
         "url": "https://basko.com/en-en/Products/Orthoses-and-bandages/Torso/Details/Stomacare-bandage-Standaard-Plus",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://basko.com/de-ch/Produkte/Orthesen-und-Bandagen/Rumpf/Details/Stomacare-Bandage-HydroActive"
+        "priceAndPlansCrawled": "https://basko.com/de-ch/Produkte/Orthesen-und-Bandagen/Rumpf/Details/Stomacare-Bandage-HydroActive",
+        "5prompt_Hash": "76f4bf18680a2b3b4b402126e9abfe49"
     },
     "www.mediplast.com": {
         "url": "https://www.mediplast.com/products/stoma/other-ostomy-products",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.mediplast.com/media/3tmpdfi5/customerorderform_v6-1_editable.pdf"
+        "priceAndPlansCrawled": "https://www.mediplast.com/media/3tmpdfi5/customerorderform_v6-1_editable.pdf",
+        "5prompt_Hash": "76f4bf18680a2b3b4b402126e9abfe49"
     },
     "www.vitego-shop.de": {
         "url": "https://www.vitego-shop.de/bandage-back-bort-stoma-bandage",
@@ -42,7 +44,8 @@
     "www.siilostomy.com": {
         "url": "https://www.siilostomy.com/de/stoma-bandage-bandeanzug/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.siilostomy.com/de/stoma-bandage-bandeanzug/"
+        "priceAndPlansCrawled": "https://www.siilostomy.com/de/stoma-bandage-bandeanzug/",
+        "5prompt_Hash": "76f4bf18680a2b3b4b402126e9abfe49"
     },
     "member.wocn.org": {
         "url": "https://member.wocn.org/link.asp?ymlink=506962357",
@@ -62,17 +65,20 @@
     "www.stoma-na-und.de": {
         "url": "https://www.stoma-na-und.de/Stomabandagen",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.stoma-na-und.de/ostomybandages"
+        "priceAndPlansCrawled": "https://www.stoma-na-und.de/ostomybandages",
+        "5prompt_Hash": "76f4bf18680a2b3b4b402126e9abfe49"
     },
     "www.orthomed.de": {
         "url": "https://www.orthomed.de/stomabeutel/stomabandagen/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.orthomed.de/stomabeutel/"
+        "priceAndPlansCrawled": "https://www.orthomed.de/stomabeutel/",
+        "5prompt_Hash": "76f4bf18680a2b3b4b402126e9abfe49"
     },
     "myhealth.alberta.ca": {
         "url": "https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx?hwid=ud1233",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://myhealth.alberta.ca/Health/pages/conditions.aspx?hwid=zx3463"
+        "priceAndPlansCrawled": "https://myhealth.alberta.ca/Health/pages/conditions.aspx?hwid=zx3463",
+        "5prompt_Hash": "76f4bf18680a2b3b4b402126e9abfe49"
     },
     "www.va.gov": {
         "url": "https://www.va.gov/formularyadvisor/class/XA401",
@@ -102,12 +108,14 @@
     "parthenoninc.com": {
         "url": "https://parthenoninc.com/floor-grade-lister-bandage-scissors/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://parthenoninc.com/ostomy-supplies/coloplast-ostomy-supplies/"
+        "priceAndPlansCrawled": "https://parthenoninc.com/ostomy-supplies/coloplast-ostomy-supplies/",
+        "5prompt_Hash": "76f4bf18680a2b3b4b402126e9abfe49"
     },
     "www.cincinnatichildrens.org": {
         "url": "https://www.cincinnatichildrens.org/health/d/decannulation",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.cincinnatichildrens.org/research/cores/pluripotent-stem-cell-facility/prices"
+        "priceAndPlansCrawled": "https://www.cincinnatichildrens.org/research/cores/pluripotent-stem-cell-facility/prices",
+        "5prompt_Hash": "76f4bf18680a2b3b4b402126e9abfe49"
     },
     "www.claravital.de": {
         "url": "https://www.claravital.de/Stoma-Unterwaesche-Bandagen",
@@ -122,7 +130,8 @@
     "www.coloplast-homecare.de": {
         "url": "https://www.coloplast-homecare.de/lp/brochures-und-magazine/brava-bandage/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.coloplast-homecare.de/produkte/stoma/versorgung/stoma-bandagen/"
+        "priceAndPlansCrawled": "https://www.coloplast-homecare.de/produkte/stoma/versorgung/stoma-bandagen/",
+        "5prompt_Hash": "76f4bf18680a2b3b4b402126e9abfe49"
     },
     "www.konwedamedical.com": {
         "url": "https://www.konwedamedical.com/products/waterproof-ostomy-bag-shower-cover-10x10-stoma-bath-protector-shield-film-adhesive-dressing-bandage-for-ostomy-supply-guard-accessory",
@@ -142,6 +151,7 @@
     "www.bort.com": {
         "url": "https://www.bort.com/de/produktdetail.html?product=104090",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.bort.com/files/public/products/downloads/Mass_Leib_Ruecken-Bandagen.pdf"
+        "priceAndPlansCrawled": "https://www.bort.com/files/public/products/downloads/Mass_Leib_Ruecken-Bandagen.pdf",
+        "5prompt_Hash": "76f4bf18680a2b3b4b402126e9abfe49"
     }
 }

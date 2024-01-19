@@ -1,0 +1,658 @@
+{
+    "basko.com": {
+        "stoma_bandagen_products": {
+            "Stomacare Standard Plus Ostomy Belt - Height 10 cm": {
+                "call_to_action": "Contact Form",
+                "usecases": [
+                    "Abdominal wall support and hernia prevention",
+                    "Compensating for insufficient muscle function",
+                    "Keeping stoma collection pouch in proper position"
+                ],
+                "solutions": "Supports the abdominal wall, prevents hernia, and keeps the stoma collection pouch in the proper position.",
+                "key_features": {
+                    "Coolmax material": "Offers high user comfort and pleasant temperature regulation",
+                    "Integrated Multiflex ring": "Offers proper hygiene and ensures a solid and stable stoma aperture",
+                    "Thin and unelastic front panel": "Supports the abdominal wall to prevent prolapse/hernia",
+                    "Integrated prolapse cover": "For ostomy shielding",
+                    "Available in four heights": "Tailored to individual needs"
+                }
+            },
+            "Stomacare Standard Plus Ostomy Belt - Height 15 cm": {
+                "call_to_action": "Contact Form",
+                "usecases": [
+                    "Abdominal wall support and hernia prevention",
+                    "Compensating for insufficient muscle function",
+                    "Keeping stoma collection pouch in proper position"
+                ],
+                "solutions": "Supports the abdominal wall, prevents hernia, and keeps the stoma collection pouch in the proper position.",
+                "key_features": {
+                    "Coolmax material": "Offers high user comfort and pleasant temperature regulation",
+                    "Integrated Multiflex ring": "Offers proper hygiene and ensures a solid and stable stoma aperture",
+                    "Thin and unelastic front panel": "Supports the abdominal wall to prevent prolapse/hernia",
+                    "Integrated prolapse cover": "For ostomy shielding",
+                    "Available in four heights": "Tailored to individual needs"
+                }
+            },
+            "Stomacare Standard Plus Ostomy Belt - Height 19 cm": {
+                "call_to_action": "Contact Form",
+                "usecases": [
+                    "Abdominal wall support and hernia prevention",
+                    "Compensating for insufficient muscle function",
+                    "Keeping stoma collection pouch in proper position"
+                ],
+                "solutions": "Supports the abdominal wall, prevents hernia, and keeps the stoma collection pouch in the proper position.",
+                "key_features": {
+                    "Coolmax material": "Offers high user comfort and pleasant temperature regulation",
+                    "Integrated Multiflex ring": "Offers proper hygiene and ensures a solid and stable stoma aperture",
+                    "Thin and unelastic front panel": "Supports the abdominal wall to prevent prolapse/hernia",
+                    "Integrated prolapse cover": "For ostomy shielding",
+                    "Available in four heights": "Tailored to individual needs"
+                }
+            },
+            "Stomacare Standard Plus Ostomy Belt - Height 23 cm": {
+                "call_to_action": "Contact Form",
+                "usecases": [
+                    "Abdominal wall support and hernia prevention",
+                    "Compensating for insufficient muscle function",
+                    "Keeping stoma collection pouch in proper position"
+                ],
+                "solutions": "Supports the abdominal wall, prevents hernia, and keeps the stoma collection pouch in the proper position.",
+                "key_features": {
+                    "Coolmax material": "Offers high user comfort and pleasant temperature regulation",
+                    "Integrated Multiflex ring": "Offers proper hygiene and ensures a solid and stable stoma aperture",
+                    "Thin and unelastic front panel": "Supports the abdominal wall to prevent prolapse/hernia",
+                    "Integrated prolapse cover": "For ostomy shielding",
+                    "Available in four heights": "Tailored to individual needs"
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.mediplast.com": {
+        "stoma_bandagen_products": {
+            "market": [
+                "Sweden",
+                "Denmark",
+                "Norway",
+                "Finland",
+                "Germany",
+                "Benelux",
+                "Italy",
+                "Australia",
+                "Spain"
+            ],
+            "products": {
+                "stoma_bandagen": {
+                    "usecases": "Stoma care and management",
+                    "solutions": "Products for irrigation and continent stomas, adaptable and drainable pediatric products, accessories for dressing around a suprapubic catheter or gastrostomy",
+                    "key_features": [
+                        "Skin-friendly hydrocolloid technology",
+                        "Variety of hole sizes for different stoma requirements",
+                        "Different dimensions and packing sizes available",
+                        "Specialized products for pediatric and continent stomas",
+                        "Accessories for dressing around catheters"
+                    ],
+                    "call_to_action": "Contact us for product range specific to desired market"
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Error: Timeout 30000ms exceeded"
+        }
+    },
+    "www.siilostomy.com": {
+        "product_name": "Stoma-Bandage Badeanzug",
+        "price": "38,99\u20ac",
+        "rating": "5/5",
+        "description": "Stoma-Band for the swimming pool. One-piece stoma band with super soft, draped fabric for concealing the bag and for maximum comfort with your stoma bag. The inner pocket is suitable for any stoma: colostomy, ileostomy, or urostomy.",
+        "size_options": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "composition": "80% MICRO PA, 20% EA",
+        "call_to_action": "Kaufen",
+        "usecases": [
+            "Swimming with a stoma",
+            "Concealing the stoma bag",
+            "Providing comfort and support"
+        ],
+        "solutions": [
+            "Concealing the stoma bag while swimming",
+            "Providing comfort and support for individuals with a stoma"
+        ],
+        "key_features": [
+            "One-piece design",
+            "Super soft fabric",
+            "Concealing inner pocket",
+            "Suitable for various stoma types"
+        ],
+        "delivery_information": {
+            "Europe": {
+                "Standard": "7-11 days",
+                "Express": "4 days",
+                "Free Shipping Threshold": "100\u20ac"
+            },
+            "USA and Canada": {
+                "Standard": "7-14 days",
+                "Express": "4-5 days",
+                "Free Shipping Threshold": "120\u20ac"
+            },
+            "Spain": {
+                "Free Shipping Threshold": "40\u20ac"
+            },
+            "Other Countries": "Costs displayed after entering the destination country"
+        },
+        "payment_methods": "Various payment methods available",
+        "related_products": [
+            "Stoma Bademode LUNA",
+            "Stoma Bademode Nara",
+            "Stoma Bademode SIWA",
+            "Stoma Bademode Oman"
+        ],
+        "customer_service": [
+            "R\u00dcCKSENDUNGEN & UMTAUSCH",
+            "GR\u00d6\u00dfENTABELLE",
+            "ABOUT US",
+            "KONTAKT"
+        ],
+        "social_media_links": [
+            "Instagram",
+            "Facebook"
+        ],
+        "legal_information": [
+            "DATENSCHUTZRICHTLINIE",
+            "COOKIES POLITIK",
+            "BEDINGUNGEN UND KONDITIONEN"
+        ],
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Stoma-Bandage Bandeanzug": "38,99\u20ac",
+                "Stoma Bademode LUNA": "59,99\u20ac",
+                "Stoma Bademode Nara": "59,99\u20ac",
+                "Stoma Bademode SIWA": "59,99\u20ac",
+                "Stoma Bademode Oman": "59,99\u20ac"
+            },
+            "businessModel": "E-commerce for ostomy products"
+        }
+    },
+    "www.stoma-na-und.de": {
+        "products": [
+            {
+                "name": "Quokka Stoma Storage Kulturtasche",
+                "price": "35,00 \u20ac",
+                "material": "Neopren",
+                "usecases": [
+                    "Stoma storage",
+                    "Kulturtasche"
+                ],
+                "solutions": [
+                    "Stoma storage",
+                    "Travel convenience"
+                ],
+                "key_features": [
+                    "Neopren material",
+                    "Suitable for stoma storage and travel"
+                ],
+                "call_to_action": "Talk to a manager"
+            },
+            {
+                "name": "Numbat Stomabandage Neopren",
+                "price": "60,00 \u20ac",
+                "material": "Neopren",
+                "usecases": [
+                    "Stomabandage"
+                ],
+                "solutions": [
+                    "Support for stoma patients"
+                ],
+                "key_features": [
+                    "Neopren material",
+                    "Support for stoma patients"
+                ],
+                "call_to_action": "Talk to a manager"
+            },
+            {
+                "name": "Bilby+ Stomabandage Baumwolle",
+                "price": "25,00 \u20ac",
+                "material": "Baumwolle",
+                "usecases": [
+                    "Stomabandage"
+                ],
+                "solutions": [
+                    "Comfort for stoma patients"
+                ],
+                "key_features": [
+                    "Baumwolle material",
+                    "Comfort for stoma patients"
+                ],
+                "call_to_action": "Talk to a manager"
+            },
+            {
+                "name": "Sugarglider Stomag\u00fcrtel Spitze",
+                "price": "40,00 \u20ac",
+                "material": "Spitze",
+                "usecases": [
+                    "Stomag\u00fcrtel"
+                ],
+                "solutions": [
+                    "Stylish and functional support for stoma patients"
+                ],
+                "key_features": [
+                    "Spitze material",
+                    "Stylish and functional support for stoma patients"
+                ],
+                "call_to_action": "Talk to a manager"
+            },
+            {
+                "name": "Koala Urinbeutel Beintasche Neopren",
+                "price": "120,00 \u20ac",
+                "material": "Neopren",
+                "usecases": [
+                    "Urinbeutel Beintasche"
+                ],
+                "solutions": [
+                    "Comfort and support for urinary needs"
+                ],
+                "key_features": [
+                    "Neopren material",
+                    "Comfort and support for urinary needs"
+                ],
+                "call_to_action": "Talk to a manager"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "found",
+            "priceAndPlans": {
+                "Quokka": {
+                    "product": "Ostomy Storage",
+                    "price": "35.00 \u20ac"
+                },
+                "Quokki": {
+                    "product": "Stoma Storage",
+                    "price": "25.00 \u20ac"
+                },
+                "StomOdor Neutraliser": {
+                    "product": "ileostomy / urostomy / colostomy",
+                    "price": "17.15 \u20ac"
+                },
+                "StomFoam cleaning foam": {
+                    "product": "ileostomy / colostomy / urostomy",
+                    "price": "15.00 \u20ac"
+                },
+                "Emergency Exit": {
+                    "product": "Crohn\u2019s disease - up to sigma resection",
+                    "price": "12.80 \u20ac"
+                },
+                "Numbat": {
+                    "product": "ostomy bandage neoprene",
+                    "price": "60.00 \u20ac"
+                },
+                "Kangaroo": {
+                    "product": "ostomy bandage neoprene inside pocket",
+                    "price": "75.00 \u20ac"
+                },
+                "Wombat": {
+                    "product": "Ostomy belt neoprene outside pocket hernia",
+                    "price": "85.00 \u20ac"
+                },
+                "Kusu": {
+                    "product": "ostomy belt neoprene outside pocket hernia",
+                    "price": "90.00 \u20ac"
+                },
+                "Opossum": {
+                    "product": "ostomy belt neoprene soft ileostomy / urostomy",
+                    "price": "40.00 \u20ac"
+                },
+                "Bilby": {
+                    "product": "ostomy wrap cotton ileostomy / urostomy",
+                    "price": "22.00 \u20ac"
+                },
+                "Bilby One": {
+                    "product": "ostomy wrap cotton for low hanger",
+                    "price": "25.00 \u20ac"
+                },
+                "Bilby+": {
+                    "product": "Ostomy wrap cotton Urostomy",
+                    "price": "25.00 \u20ac"
+                },
+                "Bilby Smile": {
+                    "product": "ostomy wrap cotton jersey ileostomy / urostomy",
+                    "price": "22.00 \u20ac"
+                },
+                "Bilby Slim": {
+                    "product": "Ostomy bandage cotton for crosswise carrier",
+                    "price": "22.00 \u20ac"
+                },
+                "Bilby Activ": {
+                    "product": "ostomy wrap Poly/Elastan ileostomy / urostomy",
+                    "price": "25.00 \u20ac"
+                },
+                "Bilby One Activ": {
+                    "product": "ostomy wrap Poly/Elastan for low hanger",
+                    "price": "30.00 \u20ac"
+                },
+                "Bilby Slim Aktiv": {
+                    "product": "Ostomy wrap Poly/Elastan crosswise carrier",
+                    "price": "25.00 \u20ac"
+                },
+                "Bilby Venus": {
+                    "product": "ostomy wrap cotton and lace trim ostomy / ileostomy",
+                    "price": "25.00 \u20ac"
+                },
+                "Sugarglider": {
+                    "product": "Ostomy lace belt Urostomy / ileostomy / colostomy",
+                    "price": "40.00 \u20ac"
+                },
+                "Sugarglider solo": {
+                    "product": "Ostomy lace belt with a small inside pocket",
+                    "price": "20.00 \u20ac"
+                },
+                "Skippy Venus": {
+                    "product": "ostomy shorts ostomy / ileostomy / urostomy",
+                    "price": "35.00 \u20ac"
+                },
+                "Asia Skippy Venus": {
+                    "product": "ostomy shorts is unique",
+                    "price": "35.00 \u20ac"
+                },
+                "Skippy Mars": {
+                    "product": "Ostomy shorts ileostomy / urostomy",
+                    "price": "35.00 \u20ac"
+                },
+                "Couscous": {
+                    "product": "Japanese Obi ostomybelt Colostomy / Ileostomy / Urostomy",
+                    "price": "20.00 \u20ac"
+                },
+                "Mole": {
+                    "product": "ostomy pouch cover ileostomy / uostomy",
+                    "price": "15.00 \u20ac"
+                },
+                "Mole Smile": {
+                    "product": "ostomy cover ileostomy / urostomy",
+                    "price": "15.00 \u20ac"
+                },
+                "Mole Slide": {
+                    "product": "ostomy cover ileostomy / urostomy",
+                    "price": "15.00 \u20ac"
+                },
+                "Bumper": {
+                    "product": "ostomy protection neoprene ileostomy / urostomy",
+                    "price": "10.00 \u20ac"
+                },
+                "Koala": {
+                    "product": "urin legbag neoprene urinary catheter / renal fistula",
+                    "price": "120.00 \u20ac"
+                }
+            }
+        }
+    },
+    "www.orthomed.de": {
+        "products": [
+            {
+                "name": "BORT Stomabandage",
+                "price": "64,95 \u20ac",
+                "original_price": "109,95 \u20ac",
+                "manufacturer": "BORT"
+            },
+            {
+                "name": "COLOPLAST Brava Stomabandage",
+                "price": "83,95 \u20ac",
+                "original_price": "108,95 \u20ac",
+                "manufacturer": "COLOPLAST"
+            },
+            {
+                "name": "Basko Stomacare EasyCut Plus Stomabandage 10-19cm hoch",
+                "price": "ab 59,95 \u20ac",
+                "original_price": "87,95 \u20ac",
+                "manufacturer": "Basko"
+            },
+            {
+                "name": "Basko Stomacare HydroActive Stomabandage zum Schwimmen",
+                "price": "62,95 \u20ac",
+                "original_price": "99,95 \u20ac",
+                "manufacturer": "Basko"
+            },
+            {
+                "name": "BORT Vario Stomabandage",
+                "price": "74,95 \u20ac",
+                "original_price": "109,95 \u20ac",
+                "manufacturer": "BORT"
+            }
+        ],
+        "call_to_action": "Vereinbaren Sie hierf\u00fcr am besten gleich einen Termin.",
+        "usecases": "Stomabandagen werden zur postoperativen Unterst\u00fctzung der Bauchwand eingesetzt sowie dauerhaft angewendet, um Br\u00fcche zu verhindern.",
+        "solutions": "Stomabandagen st\u00fctzen die Bauchwand von au\u00dfen, halten dem Druck entgegen und st\u00fctzen die Muskulatur, um Risikopatienten ein sicheres Tragegef\u00fchl zu vermitteln.",
+        "key_features": "Postoperative Unterst\u00fctzung, Pr\u00e4vention von Br\u00fcchen, individuelle Anpassung nach Ma\u00df, verordnungsf\u00e4hig",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "myhealth.alberta.ca": {
+        "stoma_bandagen_products": [
+            {
+                "product_name": "StomaCare",
+                "call_to_action": "book a demo",
+                "usecases": [
+                    "For individuals with colostomy, ileostomy, or urostomy",
+                    "To provide protection and support for the stoma",
+                    "To manage ostomy output and prevent leakage"
+                ],
+                "solutions": [
+                    "Offers a range of stoma bandages for different stoma types",
+                    "Provides secure and comfortable fit for the stoma",
+                    "Helps in maintaining skin health around the stoma area"
+                ],
+                "key_features": [
+                    "Variety of sizes and shapes for different stoma types",
+                    "Skin-friendly adhesive for comfort and protection",
+                    "Waterproof and odor-proof materials for discretion and confidence"
+                ]
+            },
+            {
+                "product_name": "OstoGuard",
+                "call_to_action": "talk to a manager",
+                "usecases": [
+                    "For post-operative care following colostomy or ileostomy surgery",
+                    "To provide gentle care and protection for the stoma and surrounding skin"
+                ],
+                "solutions": [
+                    "Offers soft and flexible stoma bandages for comfort",
+                    "Helps in reducing irritation and discomfort around the stoma",
+                    "Assists in managing stoma output and minimizing odor"
+                ],
+                "key_features": [
+                    "Hypoallergenic materials for sensitive skin",
+                    "Adjustable and secure fit for active lifestyles",
+                    "Integrated charcoal filter for odor control"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "parthenoninc.com": {
+        "stoma_bandagen_products": [
+            {
+                "name": "Coloplast Ostomy Scissors",
+                "brand": "Coloplast",
+                "price": "$6.10",
+                "key_features": [
+                    "Designed for cutting ostomy appliances",
+                    "Curved blades for easy access",
+                    "Blunted ends for safety"
+                ],
+                "call_to_action": "Add to Cart",
+                "usecases": [
+                    "Cutting ostomy appliances",
+                    "Medical procedures"
+                ],
+                "solutions": [
+                    "Facilitates easy and safe cutting of ostomy appliances",
+                    "Ensures precision during medical procedures"
+                ]
+            },
+            {
+                "name": "1449 Tubigrip Elastic Compression Bandage",
+                "brand": "Molnlycke",
+                "price": "$47.81",
+                "key_features": [
+                    "Elastic compression bandage",
+                    "Provides support and compression",
+                    "Easy to apply"
+                ],
+                "call_to_action": "Add to Cart",
+                "usecases": [
+                    "Compression therapy",
+                    "Support for injured or weak muscles"
+                ],
+                "solutions": [
+                    "Aids in compression therapy for various medical conditions",
+                    "Offers support and stability to injured or weak muscles"
+                ]
+            },
+            {
+                "name": "Unna-FLEX\u00ae Compression Bandage Plus Venous Ulcer Kit",
+                "brand": "ConvaTec",
+                "price": "$24.95",
+                "key_features": [
+                    "Venous ulcer kit",
+                    "Includes compression bandage",
+                    "Promotes healing"
+                ],
+                "call_to_action": "Add to Cart",
+                "usecases": [
+                    "Treatment of venous ulcers",
+                    "Promoting wound healing"
+                ],
+                "solutions": [
+                    "Comprehensive kit for managing venous ulcers",
+                    "Aids in promoting the healing process of wounds"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Coloplast SenSura Mio One Piece High Output Ostomy Bag (10/bx)": "$101.15",
+                "Coloplast SenSura Click Xpro Convex Light Skin Barrier (5/bx)": "$44.80",
+                "Coloplast SenSura Click Drainable Stoma Bags (20/bx)": "$60.10",
+                "Coloplast SenSura Flex Ostomy Skin Barrier, 5/bx": "$29.95",
+                "Coloplast SenSura\u00ae Xpro One-Piece Closed Pouch (30/bx)": "$89.15",
+                "Coloplast Sensura\u00ae Mio One-Piece Closed Ostomy Pouch, Deep Convex (10/bx)": "$38.80",
+                "Coloplast Sensura\u00ae Mio Two-Piece Drainage Pouch (10/bx)": "$46.55",
+                "Coloplast Sensura\u00ae Mio One-Piece Urostomy Pouch (10/bx)": "$89.99",
+                "Coloplast Assura\u00ae Two-Piece Drainable Ostomy Pouch (10/bx)": "$32.45",
+                "Coloplast Assura\u00ae Two-Piece Skin Barrier (5/BX)": "$29.95"
+            }
+        }
+    },
+    "www.cincinnatichildrens.org": {
+        "stoma_bandagen_products": [
+            {
+                "name": "Product A",
+                "call_to_action": "book a demo",
+                "usecases": "For patients undergoing decannulation process, stoma care, and post-decannulation care",
+                "solutions": "Provides bandages for stoma care, helps in maintaining stoma hygiene, and supports the healing process post-decannulation",
+                "key_features": "Hypoallergenic materials, breathable design, gentle adhesive, waterproof"
+            },
+            {
+                "name": "Product B",
+                "call_to_action": "talk to a manager",
+                "usecases": "For stoma care during decannulation, post-decannulation, and everyday use",
+                "solutions": "Offers specialized bandages for stoma care, helps in preventing infections, and supports everyday activities with a stoma",
+                "key_features": "Antimicrobial properties, secure fit, skin-friendly materials, discreet design"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Cincinnati Children's Hospital Medical Center Employees": "View on Centerlink*",
+                "External Customers": {
+                    "Email": "Christopher.Mayhew@cchmc.org",
+                    "Phone": "513-636-9254"
+                }
+            }
+        }
+    },
+    "www.coloplast-homecare.de": {
+        "stoma_bandagen": {
+            "call_to_action": "Rufen Sie uns an, um eine Beratung zu erhalten",
+            "usecases": [
+                "Vorbeugung oder konservative Therapieform bei einer Hernie/Bruch",
+                "Erleichterung und Unterst\u00fctzung f\u00fcr Stomatr\u00e4ger",
+                "Regulierung des Tragekomforts durch Auswahl der richtigen Gr\u00f6\u00dfe"
+            ],
+            "solutions": "Die Brava Stoma Bandage bietet Erleichterung und Unterst\u00fctzung f\u00fcr Stomatr\u00e4ger, indem sie das Schweregef\u00fchl der Hernie mindert. Sie erm\u00f6glicht eine individuelle Lochzuschnitt und ist einfach anzuwenden mit einem integrierten Handschuhverschluss.",
+            "key_features": {
+                "atmungsaktives_elastisches_material": "Das komfortable, elastische 4-Wege-Stretchmaterial passt sich optimal der K\u00f6rperform an und ist bei 40 Grad in der Waschmaschine waschbar.",
+                "individueller_lochzuschnitt": "Entsprechend des Bedarfs kann eine \u00d6ffnung ohne sp\u00e4teres Ausfransen f\u00fcr die Stomaversorgung einfach per Zuschnitt an der Bandage vorgenommen werden.",
+                "einfach_anzuwenden": "Mit einem integrierten Handschuhverschluss ist die Bandage einfach anzulegen, zu verschlie\u00dfen und zu \u00f6ffnen."
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.bort.com": {
+        "products": [
+            {
+                "name": "BORT Stoma-Bandage",
+                "product_features": {
+                    "material": "Unelastischer Veloursverbundstoff, elastischer Einsatz im R\u00fccketeil",
+                    "support_bars": "Zwei St\u00fctzst\u00e4be",
+                    "closure": "Einklettbare Verst\u00e4rkungsplatte aus Kunststoff",
+                    "heights": "15 cm, 22 cm",
+                    "color": "wei\u00df",
+                    "additional_features": [
+                        "Variable Stoma-Durchtritts\u00f6ffnung durch Klettverschluss in der Weite regulierbar",
+                        "Gro\u00dffl\u00e4chige hautfreundliche Auflage um den Stomabereich",
+                        "Einfaches Anlegen und Positionieren der Stoma-Durchtritts\u00f6ffnung durch Klettverschluss rechts und links im Abdominalbereich",
+                        "Waschbar bei 60\u00b0C"
+                    ],
+                    "accessories": "REF 104099 | BORT Stoma-Protektor"
+                },
+                "indications": [
+                    "Bauchwandl\u00e4hmung",
+                    "Bauchwandbruch",
+                    "Zustand nach Ileostomie und Kolostomie mit begleitender Bindegewebeinsuffizienz"
+                ],
+                "sizes_and_measurement_points": "Available in multiple sizes with corresponding measurement points",
+                "accessories_and_replacements": "Verst\u00e4rkungs-Platte and BORT Stoma-Protektor available as replacements and accessories",
+                "downloads": "Gebrauchsanweisung and other downloads available"
+            }
+        ],
+        "call_to_action": "Contact BORT for more information or to purchase the product",
+        "usecases": "For individuals with specific medical conditions such as Bauchwandl\u00e4hmung, Bauchwandbruch, or Zustand nach Ileostomie and Kolostomie with begleitender Bindegewebeinsuffizienz",
+        "solutions": "Provides support and comfort for individuals with stoma-related medical needs",
+        "key_features": {
+            "material": "Unelastischer Veloursverbundstoff, elastischer Einsatz im R\u00fccketeil",
+            "support_bars": "Zwei St\u00fctzst\u00e4be",
+            "closure": "Einklettbare Verst\u00e4rkungsplatte aus Kunststoff",
+            "heights": "15 cm, 22 cm",
+            "color": "wei\u00df",
+            "additional_features": [
+                "Variable Stoma-Durchtritts\u00f6ffnung durch Klettverschluss in der Weite regulierbar",
+                "Gro\u00dffl\u00e4chige hautfreundliche Auflage um den Stomabereich",
+                "Einfaches Anlegen und Positionieren der Stoma-Durchtritts\u00f6ffnung durch Klettverschluss rechts und links im Abdominalbereich",
+                "Waschbar bei 60\u00b0C"
+            ],
+            "accessories": "REF 104099 | BORT Stoma-Protektor"
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    }
+}
