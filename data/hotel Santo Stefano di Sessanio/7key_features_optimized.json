@@ -1,0 +1,36 @@
+{
+    "title": "Optimized Hotel Features",
+    "intro": "The following list represents the optimized features of hotel Santo Stefano di Sessanio. The features were gathered from analyzing 1 company.",
+    "features": {
+        "Architecture": {
+            "title": "Architecture",
+            "features": [
+                "Carefully modernized by local architects while preserving the town's history (1)"
+            ]
+        },
+        "Interior Design": {
+            "title": "Interior Design",
+            "features": [
+                "Simple spaces with stone walls, wood ceilings, and fireplaces (1)"
+            ]
+        },
+        "Originals": {
+            "title": "Authenticity Emphasis",
+            "features": [
+                "Emphasis on authenticity and cultural value (1)"
+            ]
+        },
+        "Location": {
+            "title": "Location",
+            "features": [
+                "Santo Stefano di Sessanio, Italy - a historic European destination (1)"
+            ]
+        },
+        "Rooms & Suites": {
+            "title": "Accommodation",
+            "features": [
+                "30 guestrooms spread along the narrow, cobblestone streets of the village (1)"
+            ]
+        }
+    }
+}
