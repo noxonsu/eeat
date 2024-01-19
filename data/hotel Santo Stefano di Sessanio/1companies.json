@@ -1,62 +1,77 @@
 {
     "www.sextantio.it": {
         "url": "https://www.sextantio.it/en/santostefano/abruzzo/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.tripadvisor.com": {
         "url": "https://www.tripadvisor.com/Hotel_Review-g1061123-d1047747-Reviews-Sextantio_Albergo_Diffuso-Santo_Stefano_di_Sessanio_Province_of_L_Aquila_Abruzzo.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.booking.com": {
         "url": "https://www.booking.com/city/it/santo-stefano-di-sessanio.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "guide.michelin.com": {
         "url": "https://guide.michelin.com/us/en/hotels-stays/santo-stefano-di-sessanio/sextantio-442",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.myboutiquehotel.com": {
         "url": "https://www.myboutiquehotel.com/en/boutique-hotels-santo-stefano-di-sessanio/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.designhotels.com": {
         "url": "https://www.designhotels.com/hotels/italy/santo-stefano-di-sessanio/sextantio-albergo-diffuso/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.designhotels.com/hotels/italy/santo-stefano-di-sessanio/sextenio-santo-stefano/"
     },
     "www.mrandmrssmith.com": {
         "url": "https://www.mrandmrssmith.com/luxury-hotels/sextantio-albergo-diffuso",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.agoda.com": {
         "url": "https://www.agoda.com/city/santo-stefano-di-sessanio-it.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.hote-italia.com": {
         "url": "https://www.hote-italia.com/en/abruzzo/luxury-hotel-santo-stefano-di-sessanio.php",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.hotels.com": {
         "url": "https://www.hotels.com/de712760/hotels-santo-stefano-di-sessanio-italy/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.kayak.com": {
         "url": "https://www.kayak.com/Santo-Stefano-di-Sessanio-Hotels.60175.hotel.ksp",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.authentichotels.com": {
         "url": "https://www.authentichotels.com/en/hotels/sextantio-albergo-diffuso",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.hrs.com": {
         "url": "https://www.hrs.com/en/hotel/sextantio-albergo-diffuso/a-418963/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "reserving.com": {
         "url": "https://reserving.com/hotels/europe/italy/abruzzo/l-aquila/santo-stefano-di-sessanio",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.luxurylink.com": {
         "url": "http://www.luxurylink.com/5star/hotels/santo-stefano-di-sessanio-italy/sextantio-albergo-diffuso",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     }
 }

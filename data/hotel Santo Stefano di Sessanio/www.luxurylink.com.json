@@ -1,4 +1,5 @@
 {
     "summary": "Request unsuccessful. Incapsula incident ID:\n76000350014202096-20831824046196938\n\n",
-    "links": "[]"
+    "links": "[]",
+    "priceAndPlans": "Error: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs =========================== navigating to\n\"Not found\", waiting until \"load\"\n============================================================\n\n"
 }
