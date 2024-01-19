@@ -1,0 +1,25 @@
+{
+    "www.designhotels.com": {
+        "hotel Santo Stefano di Sessanio": {
+            "call_to_action": "Reserve Now",
+            "usecases": [
+                "Accommodation for travelers",
+                "Exploration of historic Italian village",
+                "Experience local cuisine and wine",
+                "Participate in recreational activities such as biking, hiking, and courses"
+            ],
+            "solutions": "Provides accommodation in a meticulously restored medieval hamlet, offering a unique and historic experience for guests. It also features local cuisine, recreational activities, and meeting facilities.",
+            "key_features": {
+                "Architecture": "Carefully modernized by local architects while preserving the town's history",
+                "Interior Design": "Simple spaces with stone walls, wood ceilings, and fireplaces",
+                "Originals": "Emphasis on authenticity and cultural value",
+                "Location": "Santo Stefano di Sessanio, Italy - a historic European destination",
+                "Rooms & Suites": "30 guestrooms spread along the narrow, cobblestone streets of the village"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    }
+}

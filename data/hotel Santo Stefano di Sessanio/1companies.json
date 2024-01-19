@@ -27,7 +27,8 @@
     "www.designhotels.com": {
         "url": "https://www.designhotels.com/hotels/italy/santo-stefano-di-sessanio/sextantio-albergo-diffuso/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.designhotels.com/hotels/italy/santo-stefano-di-sessanio/sextenio-santo-stefano/"
+        "priceAndPlansCrawled": "https://www.designhotels.com/hotels/italy/santo-stefano-di-sessanio/sextenio-santo-stefano/",
+        "5prompt_Hash": "601ade5c3ca31272d53625db25faab2b"
     },
     "www.mrandmrssmith.com": {
         "url": "https://www.mrandmrssmith.com/luxury-hotels/sextantio-albergo-diffuso",
