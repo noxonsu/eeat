@@ -148,7 +148,7 @@ def main():
     summaries = load_from_json_file("1companies.json", "data/" + INDUSTRY_KEYWORD)
     
     # Filter the summaries to get only those with nature "single project"
-    filtered_summaries = {k: v for k, v in summaries.items() if v.get('nature') == "single project" and v.get('5prompt_Hash') != prompt_hash and v.get('priceAndPlansCrawled') != 'Not found'}
+    filtered_summaries = {k: v for k, v in summaries.items() if v.get('nature') == "single project" and v.get('5prompt_Hash') != prompt_hash}
     total=len(filtered_summaries)
     print (total)
     # Load existing company details
