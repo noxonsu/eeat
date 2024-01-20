@@ -1,0 +1,40 @@
+{
+    "title": "ChatGPT Integration Features",
+    "intro": "This list represents the optimized product feature list for ChatGPT Integration. A total of 9 companies were analyzed, and 22 features were gathered.",
+    "features": {
+        "Workflow and Integration": {
+            "Visual workflow creation": 1,
+            "No-code integration and automation": 1,
+            "Ready-made app integrations": 1,
+            "Template library": 1,
+            "Seamless integration for SaaS users": 1
+        },
+        "OpenAI API Integration": {
+            "Use of OpenAI API key": 1,
+            "Creation and testing of Sendbird bot": 1,
+            "Adding bot to Group Channels": 1,
+            "Real-time chat with ChatGPT-powered bot": 1,
+            "Call Text Completion function to make a call to OpenAI's Completion model": 1,
+            "Call Image Generation function to make a call to OpenAI's Create Image model": 1,
+            "Set API Key to make calls to the OpenAI API in the app": 1,
+            "Set API Request Settings using lists and Objects blocks": 1,
+            "Get API Key being used to make calls to the OpenAI API in the app": 1,
+            "Get API Request Settings of the call to the OpenAI API": 1
+        },
+        "AI Models": {
+            "ChatGPT (gpt-3.5-turbo)": 1,
+            "ChatGPT (gpt-3.5-turbo-16k)": 1,
+            "ChatGPT (gpt-3.5-turbo-16k-instruct)": 1,
+            "Custom fine-tuned model": 1,
+            "Custom fine-tuned model (Instruct)": 1,
+            "GPT-4": 1
+        },
+        "Prompt and Response Customization": {
+            "Prompt Design": 1,
+            "Token Number": 1,
+            "Temperature Setting": 1,
+            "Ability to use ChatGPT for generating ticket replies, summaries, and improving response readability": 1,
+            "Custom prompt creation for ChatGPT": 1
+        }
+    }
+}
