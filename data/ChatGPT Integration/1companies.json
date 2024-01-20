@@ -1,126 +1,157 @@
 {
     "openai.com": {
         "url": "https://openai.com/blog/introducing-chatgpt-and-whisper-apis",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://openai.com/pricing"
     },
     "zapier.com": {
         "url": "https://zapier.com/apps/chatgpt/integrations",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.make.com": {
         "url": "https://www.make.com/en/blog/chatgpt-integrations-guide",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.make.com/en/pricing"
     },
     "blog.hubspot.com": {
         "url": "https://blog.hubspot.com/website/chatgpt-integration",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "sendbird.com": {
         "url": "https://sendbird.com/developer/tutorials/chatgpt-integration-build-a-chatgpt-powered-chatbot-part-1",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://sendbird.com/pricing"
     },
     "docs.thunkable.com": {
         "url": "https://docs.thunkable.com/blocks/advanced-app-features/openai-services-chatgpt-integration-blocks",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://docs.thunkable.com/"
     },
     "sendpulse.com": {
         "url": "https://sendpulse.com/knowledge-base/chatbot/integrations/openai",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://sendpulse.com/prices"
     },
     "help.openai.com": {
         "url": "https://help.openai.com/en/articles/7039783-how-can-i-access-the-chatgpt-api",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://openai.com/pricing"
     },
     "geekyants.com": {
         "url": "https://geekyants.com/blog/how-to-incorporate-chatgpt-into-your-application/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.volkswagen-newsroom.com": {
         "url": "https://www.volkswagen-newsroom.com/en/press-releases/world-premiere-at-ces-volkswagen-integrates-chatgpt-into-its-vehicles-18048",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.linkedin.com": {
         "url": "https://www.linkedin.com/pulse/integrating-chatgpt-your-current-system-step-by-step-guide-joshi",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "10clouds.com": {
         "url": "https://10clouds.com/services/chat-gpt-integration/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "asperbrothers.com": {
         "url": "https://asperbrothers.com/blog/chatgpt-integration/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.daffodilsw.com": {
         "url": "https://www.daffodilsw.com/chatgpt-integration-services/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "help.zoho.com": {
         "url": "https://help.zoho.com/portal/en/kb/salesiq-2-0/integration-guides/artificial-intelligence/articles/integrating-chatgpt-with-zoho-salesiq",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.jitbit.com": {
         "url": "https://www.jitbit.com/helpdesk/helpdesk-chatgpt-integration/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.jitbit.com/saas-helpdesk/purchase/"
     },
     "www.leewayhertz.com": {
         "url": "https://www.leewayhertz.com/chatgpt-integration-service/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "medium.com": {
         "url": "https://medium.com/@brucelim/chatgpt-api-integration-made-easy-everything-you-need-to-know-8d90e51f2141",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "marketplace.atlassian.com": {
         "url": "https://marketplace.atlassian.com/apps/1231597/chatgpt-integration-for-jira",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.zoho.com": {
         "url": "https://www.zoho.com/analytics/help/zia-chatgpt-integration.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "indatalabs.com": {
         "url": "https://indatalabs.com/services/chatgpt-integration",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://indatalabs.com/industry/marketing-and-advertising"
     },
     "waverleysoftware.com": {
         "url": "https://waverleysoftware.com/chatgpt-integration-services/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "apps.odoo.com": {
         "url": "https://apps.odoo.com/apps/modules/16.0/is_chatgpt_integration/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "zigiwave.com": {
         "url": "https://zigiwave.com/chatgpt-integration/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://zigiwave.com/zigiops-pricing/"
     },
     "www.drupal.org": {
         "url": "https://www.drupal.org/project/openai",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "appsource.microsoft.com": {
         "url": "https://appsource.microsoft.com/en-us/product/web-apps/click2cloudinc1590020733701.chatgpt_integration_services?tab=overview",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "gowombat.team": {
         "url": "https://gowombat.team/chatgpt-integration-services",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "community.home-assistant.io": {
         "url": "https://community.home-assistant.io/t/chatgpt-integration-for-home-assistant-enhance-your-smart-home-with-ai/553344",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "support.manychat.com": {
         "url": "https://support.manychat.com/support/solutions/articles/36000440957-chatgpt-integration",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "investors.datadoghq.com": {
         "url": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-integrates-openai-chatgpt-help-organizations-monitor-ai",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "stormotion.io": {
         "url": "https://stormotion.io/blog/chatgpt-integration/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     }
 }
