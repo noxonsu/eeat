@@ -2,7 +2,8 @@
     "openai.com": {
         "url": "https://openai.com/blog/introducing-chatgpt-and-whisper-apis",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://openai.com/pricing"
+        "priceAndPlansCrawled": "https://openai.com/pricing",
+        "5prompt_Hash": "3a7dfbf7f6e37137d4255161224b2627"
     },
     "zapier.com": {
         "url": "https://zapier.com/apps/chatgpt/integrations",
@@ -12,7 +13,8 @@
     "www.make.com": {
         "url": "https://www.make.com/en/blog/chatgpt-integrations-guide",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.make.com/en/pricing"
+        "priceAndPlansCrawled": "https://www.make.com/en/pricing",
+        "5prompt_Hash": "3a7dfbf7f6e37137d4255161224b2627"
     },
     "blog.hubspot.com": {
         "url": "https://blog.hubspot.com/website/chatgpt-integration",
@@ -22,22 +24,26 @@
     "sendbird.com": {
         "url": "https://sendbird.com/developer/tutorials/chatgpt-integration-build-a-chatgpt-powered-chatbot-part-1",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://sendbird.com/pricing"
+        "priceAndPlansCrawled": "https://sendbird.com/pricing",
+        "5prompt_Hash": "3a7dfbf7f6e37137d4255161224b2627"
     },
     "docs.thunkable.com": {
         "url": "https://docs.thunkable.com/blocks/advanced-app-features/openai-services-chatgpt-integration-blocks",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://docs.thunkable.com/"
+        "priceAndPlansCrawled": "https://docs.thunkable.com/",
+        "5prompt_Hash": "3a7dfbf7f6e37137d4255161224b2627"
     },
     "sendpulse.com": {
         "url": "https://sendpulse.com/knowledge-base/chatbot/integrations/openai",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://sendpulse.com/prices"
+        "priceAndPlansCrawled": "https://sendpulse.com/prices",
+        "5prompt_Hash": "3a7dfbf7f6e37137d4255161224b2627"
     },
     "help.openai.com": {
         "url": "https://help.openai.com/en/articles/7039783-how-can-i-access-the-chatgpt-api",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://openai.com/pricing"
+        "priceAndPlansCrawled": "https://openai.com/pricing",
+        "5prompt_Hash": "3a7dfbf7f6e37137d4255161224b2627"
     },
     "geekyants.com": {
         "url": "https://geekyants.com/blog/how-to-incorporate-chatgpt-into-your-application/",
@@ -77,7 +83,8 @@
     "www.jitbit.com": {
         "url": "https://www.jitbit.com/helpdesk/helpdesk-chatgpt-integration/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.jitbit.com/saas-helpdesk/purchase/"
+        "priceAndPlansCrawled": "https://www.jitbit.com/saas-helpdesk/purchase/",
+        "5prompt_Hash": "3a7dfbf7f6e37137d4255161224b2627"
     },
     "www.leewayhertz.com": {
         "url": "https://www.leewayhertz.com/chatgpt-integration-service/",
@@ -102,7 +109,8 @@
     "indatalabs.com": {
         "url": "https://indatalabs.com/services/chatgpt-integration",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://indatalabs.com/industry/marketing-and-advertising"
+        "priceAndPlansCrawled": "https://indatalabs.com/industry/marketing-and-advertising",
+        "5prompt_Hash": "3a7dfbf7f6e37137d4255161224b2627"
     },
     "waverleysoftware.com": {
         "url": "https://waverleysoftware.com/chatgpt-integration-services/",
@@ -117,7 +125,8 @@
     "zigiwave.com": {
         "url": "https://zigiwave.com/chatgpt-integration/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://zigiwave.com/zigiops-pricing/"
+        "priceAndPlansCrawled": "https://zigiwave.com/zigiops-pricing/",
+        "5prompt_Hash": "3a7dfbf7f6e37137d4255161224b2627"
     },
     "www.drupal.org": {
         "url": "https://www.drupal.org/project/openai",
