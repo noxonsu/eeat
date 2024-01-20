@@ -1,0 +1,344 @@
+{
+    "cloud.google.com": {
+        "cloud_hosting_products": [
+            {
+                "name": "Google Cloud",
+                "call_to_action": "Contact Us",
+                "usecases": [
+                    "Accelerate digital transformation",
+                    "AI and ML solutions",
+                    "Multicloud deployment",
+                    "Global infrastructure building",
+                    "Data Cloud for smarter decisions",
+                    "Open cloud scaling",
+                    "Trust and security for data compliance",
+                    "Productivity and collaboration with AI-powered apps"
+                ],
+                "solutions": [
+                    "Industry-specific solutions for retail, financial services, healthcare, media, telecommunications, games, manufacturing, supply chain, government, and education",
+                    "Application modernization with tools for migration, modernizing traditional applications, and software delivery",
+                    "AI solutions including contact center AI, document AI, and product discovery",
+                    "APIs and applications for innovation and legacy application modernization",
+                    "Databases solutions for migration, modernization, and management",
+                    "Smart analytics solutions for instant insights and data-driven transformation",
+                    "Digital transformation solutions for business recovery, operational efficiency, and COVID-19 challenges",
+                    "Infrastructure modernization for SAP, high-performance computing, Windows, and data center migration",
+                    "Productivity and collaboration tools for teams and enterprises",
+                    "Security and identity solutions for threat detection, compliance, and resilience",
+                    "Serverless environment for developing, deploying, and scaling apps",
+                    "Storage solutions for secure, durable, and scalable object storage"
+                ],
+                "key_features": {
+                    "AI_and_ML": "Enterprise-ready AI solutions",
+                    "Multicloud": "Ability to run apps wherever needed",
+                    "Global_infrastructure": "Build on the same infrastructure as Google",
+                    "Data_Cloud": "Unified data for smarter decisions",
+                    "Open_cloud": "Scalability with open, flexible technology",
+                    "Trust_and_security": "Data security and compliance",
+                    "Productivity_and_collaboration": "AI-powered apps for team connectivity"
+                }
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.hostinger.com": {
+        "cloud_hosting": {
+            "name": "Hostinger Cloud Hosting",
+            "call_to_action": "Start Now",
+            "usecases": [
+                "Optimized for business and eCommerce websites",
+                "Suitable for high-traffic websites and resource-intensive projects",
+                "Ideal for small and large businesses looking to improve website speed and end-user experience"
+            ],
+            "solutions": [
+                "Managed Cloud Hosting",
+                "Guaranteed 99.9% Uptime",
+                "Superior Performance",
+                "Powerful Control Panel",
+                "Room for Growth",
+                "4x More Speed",
+                "Maximum Flexibility",
+                "Instant Setup",
+                "Top-Level Data Backups",
+                "Change Cloud Server\u2019s Location Easily",
+                "Integrated Caching",
+                "Free Domain & SSL"
+            ],
+            "key_features": {
+                "Cloud Startup": {
+                    "Websites": 300,
+                    "NVMe Storage": "200 GB",
+                    "RAM": "3 GB",
+                    "CPU Cores": 2,
+                    "Backups": "Daily",
+                    "Free SSL": "Unlimited",
+                    "Bandwidth": "Unlimited",
+                    "Free Domain": true,
+                    "Free CDN": true,
+                    "Dedicated IP Address": true,
+                    "Managed WordPress": true,
+                    "No-Code Website Builder": true,
+                    "Security": "Enhanced DDoS Protection, Web Application Firewall, Malware Scanner, Secure Access Manager, Free Domain WHOIS Privacy Protection",
+                    "Service and Support": "30-Day Money-Back Guarantee, 99.9% Uptime Guarantee, Global Data Centers, 24/7 Customer Support, Priority Support"
+                },
+                "Cloud Professional": {
+                    "Websites": 300,
+                    "NVMe Storage": "250 GB",
+                    "RAM": "6 GB",
+                    "CPU Cores": 4,
+                    "Backups": "Daily",
+                    "Free SSL": "Unlimited",
+                    "Bandwidth": "Unlimited",
+                    "Free Domain": true,
+                    "Free CDN": true,
+                    "Dedicated IP Address": true,
+                    "Managed WordPress": true,
+                    "No-Code Website Builder": true,
+                    "Security": "Enhanced DDoS Protection, Web Application Firewall, Malware Scanner, Secure Access Manager, Free Domain WHOIS Privacy Protection",
+                    "Service and Support": "30-Day Money-Back Guarantee, 99.9% Uptime Guarantee, Global Data Centers, 24/7 Customer Support, Priority Support"
+                },
+                "Cloud Enterprise": {
+                    "Websites": 300,
+                    "NVMe Storage": "300 GB",
+                    "RAM": "12 GB",
+                    "CPU Cores": 6,
+                    "Backups": "Daily",
+                    "Free SSL": "Unlimited",
+                    "Bandwidth": "Unlimited",
+                    "Free Domain": true,
+                    "Free CDN": true,
+                    "Dedicated IP Address": true,
+                    "Managed WordPress": true,
+                    "No-Code Website Builder": true,
+                    "Security": "Enhanced DDoS Protection, Web Application Firewall, Malware Scanner, Secure Access Manager, Free Domain WHOIS Privacy Protection",
+                    "Service and Support": "30-Day Money-Back Guarantee, 99.9% Uptime Guarantee, Global Data Centers, 24/7 Customer Support, Priority Support"
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "aiWebsiteBuilder": {
+                    "name": "AI Website Builder",
+                    "price": "$2.49 /mo",
+                    "discountedPrice": "$7.99 /mowhen you renew",
+                    "features": [
+                        "Free Domain ($9.99 value)",
+                        "Free Email",
+                        "eCommerce Features",
+                        "Marketing Integrations",
+                        "24/7 Customer Support",
+                        "AI Features",
+                        "Up to 100 Websites",
+                        "Unmetered Traffic (Unlimited GB)",
+                        "Unlimited Free SSL",
+                        "Web Hosting included"
+                    ]
+                }
+            }
+        }
+    },
+    "www.cloudways.com": {
+        "product_name": "Cloudways Autonomous",
+        "call_to_action": "Start Free Trial",
+        "usecases": [
+            "Agency Hosting",
+            "Ecommerce Hosting",
+            "Developers",
+            "SMB Hosting",
+            "Multisite Hosting",
+            "Bloggers & Publishers Hosting"
+        ],
+        "solutions": [
+            "Managed Applications on Top Cloud Providers",
+            "Cloudflare Enterprise CDN",
+            "WordPress Migrator Plugin",
+            "Breeze Cache Plugin",
+            "Cloudways Autonomous Beta"
+        ],
+        "key_features": {
+            "Performance": "Optimized stack with built-in advanced cache and CDN",
+            "24/7 Support": "Expert support available round the clock",
+            "Security": "Ironclad security with firewalls, SSL certificates, and more",
+            "Ease of Use": "1-click hosting solution with zero complexities",
+            "WordPress Vulnerability Scanner": "For scanning & timely notifications to improve WordPress site's security",
+            "Cloudways Cron Optimizer": "Automatically schedule cron jobs for reduced server loads and faster performance",
+            "Enterprise-Grade Security": "Cloudflare Enterprise, firewalls, SSL certificates & more",
+            "Easy Team Collaboration": "Seamlessly collaborate with and add team members to projects"
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.pcmag.com": {
+        "cloud_hosting_products": [
+            {
+                "name": "Amazon Web Services (AWS)",
+                "call_to_action": "Sign up for AWS Free Tier",
+                "usecases": [
+                    "Web hosting",
+                    "Big data storage and processing",
+                    "Content delivery",
+                    "Backup and disaster recovery"
+                ],
+                "solutions": "Offers a wide range of cloud services including computing power, storage options, networking, and databases.",
+                "key_features": [
+                    "Scalability",
+                    "Reliability",
+                    "Security",
+                    "Flexibility"
+                ]
+            },
+            {
+                "name": "Microsoft Azure",
+                "call_to_action": "Sign up for Azure Free Account",
+                "usecases": [
+                    "App hosting",
+                    "Data storage and analytics",
+                    "AI and machine learning",
+                    "IoT solutions"
+                ],
+                "solutions": "Provides cloud services for building, deploying, and managing applications through Microsoft's global network of data centers.",
+                "key_features": [
+                    "Hybrid capabilities",
+                    "Developer productivity",
+                    "Enterprise-grade security",
+                    "Integrated tools"
+                ]
+            },
+            {
+                "name": "Google Cloud Platform (GCP)",
+                "call_to_action": "Get started with GCP",
+                "usecases": [
+                    "Compute and hosting",
+                    "Data storage and databases",
+                    "Machine learning and AI",
+                    "Internet of Things (IoT)"
+                ],
+                "solutions": "Offers cloud computing services for running applications and storing data on Google's infrastructure.",
+                "key_features": [
+                    "Global network",
+                    "Data analytics",
+                    "Containerization",
+                    "Serverless computing"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "found",
+            "priceAndPlans": {
+                "ChatGPT": {
+                    "tier": "professional",
+                    "price": "$42 per month",
+                    "features": [
+                        "faster response times",
+                        "uninterrupted access",
+                        "priority access to upcoming features"
+                    ]
+                }
+            }
+        }
+    },
+    "www.digitalocean.com": {
+        "cloud_hosting_products": [
+            {
+                "name": "DigitalOcean",
+                "call_to_action": "Reach out to our cloud experts",
+                "usecases": [
+                    "Web & Mobile Apps",
+                    "Game Development",
+                    "Video Streaming",
+                    "Virtual Machines",
+                    "Blockchain",
+                    "Website Hosting",
+                    "VPS Hosting"
+                ],
+                "solutions": [
+                    "Managed hosting",
+                    "Virtual machines",
+                    "Kubernetes",
+                    "App Platform",
+                    "Managed databases",
+                    "Storage"
+                ],
+                "key_features": {
+                    "Globally distributed datacenters": true,
+                    "Uptime SLA for Droplets and Volumes block storage": "99.99%",
+                    "Customers building with DigitalOcean": ">600k",
+                    "Predictable pricing": true,
+                    "Leading price-to-performance ratio": true,
+                    "Dedicated support": true
+                }
+            },
+            {
+                "name": "Cloudways",
+                "call_to_action": "Start my free trial",
+                "usecases": [
+                    "Managed WordPress",
+                    "Managed Woocommerce",
+                    "Managed Magento"
+                ],
+                "solutions": [
+                    "Managed cloud hosting"
+                ],
+                "key_features": {
+                    "Fully-managed cloud hosting solution": true,
+                    "Performance without complexity": true
+                }
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Droplets": {
+                    "startingAt": "$4/month",
+                    "description": "Highly-efficient virtual machines"
+                },
+                "Kubernetes": {
+                    "startingAt": "$12/month",
+                    "description": "Simple, managed Kubernetes"
+                },
+                "App Platform": {
+                    "startingAt": "$0/month",
+                    "description": "Simple, fully-managed infrastructure solution"
+                },
+                "Functions": {
+                    "startingAt": "$0/month",
+                    "description": "Serverless computing solution"
+                },
+                "Databases": {
+                    "startingAt": "$15/month",
+                    "description": "Fully managed and maintained"
+                },
+                "Spaces": {
+                    "startingAt": "$5/month",
+                    "description": "Simple, scalable object storage"
+                },
+                "Volumes": {
+                    "startingAt": "$10/month",
+                    "description": "Business-ready block storage"
+                },
+                "Load Balancers": {
+                    "startingAt": "$12/month",
+                    "description": "Load balancing, simplified"
+                },
+                "Container Registry": {
+                    "startingAt": "$0/month",
+                    "description": "Easily store and manage private container images"
+                },
+                "Support Plans": {
+                    "startingAt": "$0/month",
+                    "description": "Unlimited customized support"
+                },
+                "Uptime": {
+                    "startingAt": "$0/month",
+                    "description": "Automated endpoint alerts"
+                }
+            }
+        }
+    }
+}

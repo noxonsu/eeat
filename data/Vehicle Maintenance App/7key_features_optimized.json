@@ -1,0 +1,52 @@
+{
+    "title": "Optimized Vehicle Maintenance App Features",
+    "intro": "This list represents the optimized features for a Vehicle Maintenance App, gathered from analyzing 3 companies and a total of 20 features.",
+    "features": {
+        "Vehicle Monitoring": {
+            "title": "Vehicle Monitoring",
+            "features": {
+                "fill-ups": 1,
+                "automatic_mileage_recording": 1,
+                "schedule_report": 1,
+                "GPS Tracking and Safety Cameras": 1,
+                "Trip Log": 1
+            }
+        },
+        "Maintenance Tracking": {
+            "title": "Maintenance Tracking",
+            "features": {
+                "service_reminders": 1,
+                "Preventative Maintenance Schedules": 1,
+                "Digital Inspections": 1,
+                "Reminders": 1,
+                "Service History Tracking": 1,
+                "Work Orders": 1,
+                "Fuel Management": 1,
+                "Parts Inventory Management": 1,
+                "Equipment Management": 1
+            }
+        },
+        "Data Management": {
+            "title": "Data Management",
+            "features": {
+                "secure_cloud_backup": 1,
+                "Document Management": 1,
+                "User Management": 1
+            }
+        },
+        "Reporting and Analysis": {
+            "title": "Reporting and Analysis",
+            "features": {
+                "schedule_report": 1,
+                "Custom Reports": 1
+            }
+        },
+        "Safety and Compliance": {
+            "title": "Safety and Compliance",
+            "features": {
+                "GPS Tracking and Safety Cameras": 1,
+                "Safety Dash Cams": 1
+            }
+        }
+    }
+}

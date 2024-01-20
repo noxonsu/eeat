@@ -1,0 +1,485 @@
+{
+    "openai.com": {
+        "products": {
+            "ChatGPT API": {
+                "call_to_action": "Get started",
+                "usecases": [
+                    "Integrate ChatGPT and Whisper models into apps and products",
+                    "Use ChatGPT for language capabilities beyond chat",
+                    "Use Whisper for speech-to-text capabilities"
+                ],
+                "solutions": [
+                    "Cutting-edge language and speech-to-text capabilities",
+                    "Continuous model improvements",
+                    "Option to choose dedicated capacity for deeper control over the models"
+                ],
+                "key_features": {
+                    "Model": "gpt-3.5-turbo",
+                    "Pricing": "$0.002 per 1k tokens",
+                    "ChatGPT Model Input Format": "Chat Markup Language (ChatML)",
+                    "Dedicated Instances": "Offered for deeper control over model version and system performance"
+                }
+            },
+            "Whisper API": {
+                "call_to_action": "Get started",
+                "usecases": [
+                    "Integrate Whisper speech-to-text model into apps and products"
+                ],
+                "solutions": [
+                    "Convenient on-demand access to speech-to-text capabilities",
+                    "Faster performance compared to other services"
+                ],
+                "key_features": {
+                    "Model": "whisper-1",
+                    "Pricing": "$0.006 per minute",
+                    "Accepts Formats": "m4a, mp3, mp4, mpeg, mpga, wav, webm"
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "found",
+            "priceAndPlans": {
+                "languageModels": {
+                    "GPT-4 Turbo": {
+                        "gpt-4-1106-preview": {
+                            "input": "$0.01 / 1K tokens",
+                            "output": "$0.03 / 1K tokens"
+                        },
+                        "gpt-4-1106-vision-preview": {
+                            "input": "$0.01 / 1K tokens",
+                            "output": "$0.03 / 1K tokens"
+                        }
+                    },
+                    "GPT-4": {
+                        "gpt-4": {
+                            "input": "$0.03 / 1K tokens",
+                            "output": "$0.06 / 1K tokens"
+                        },
+                        "gpt-4-32k": {
+                            "input": "$0.06 / 1K tokens",
+                            "output": "$0.12 / 1K tokens"
+                        }
+                    },
+                    "GPT-3.5 Turbo": {
+                        "gpt-3.5-turbo-1106": {
+                            "input": "$0.0010 / 1K tokens",
+                            "output": "$0.0020 / 1K tokens"
+                        },
+                        "gpt-3.5-turbo-instruct": {
+                            "input": "$0.0015 / 1K tokens",
+                            "output": "$0.0020 / 1K tokens"
+                        }
+                    }
+                },
+                "assistantsAPI": {
+                    "CodeInterpreter": "$0.03 / session",
+                    "Retrieval": "$0.20 / GB / assistant / day (free until 02/01/2024)"
+                },
+                "fineTuningModels": {
+                    "gpt-3.5-turbo": {
+                        "training": "$0.0080 / 1K tokens",
+                        "inputUsage": "$0.0030 / 1K tokens",
+                        "outputUsage": "$0.0060 / 1K tokens"
+                    },
+                    "davinci-002": {
+                        "training": "$0.0060 / 1K tokens",
+                        "inputUsage": "$0.0120 / 1K tokens",
+                        "outputUsage": "$0.0120 / 1K tokens"
+                    },
+                    "babbage-002": {
+                        "training": "$0.0004 / 1K tokens",
+                        "inputUsage": "$0.0016 / 1K tokens",
+                        "outputUsage": "$0.0016 / 1K tokens"
+                    }
+                },
+                "embeddingModels": {
+                    "ada v2": "$0.0001 / 1K tokens"
+                },
+                "baseModels": {
+                    "davinci-002": "$0.0020 / 1K tokens",
+                    "babbage-002": "$0.0004 / 1K tokens"
+                },
+                "imageModels": {
+                    "DALL\u00c6 3": {
+                        "Standard_1024x1024": "$0.040 / image",
+                        "Standard_1024x1792_1792x1024": "$0.080 / image",
+                        "HD_1024x1024": "$0.080 / image",
+                        "HD_1024x1792_1792x1024": "$0.120 / image"
+                    },
+                    "DALL\u00c6 2": {
+                        "1024x1024": "$0.020 / image",
+                        "512x512": "$0.018 / image",
+                        "256x256": "$0.016 / image"
+                    }
+                },
+                "audioModels": {
+                    "Whisper": "$0.006 / minute (rounded to the nearest second)",
+                    "TTS": "$0.015 / 1K characters",
+                    "TTS HD": "$0.030 / 1K characters"
+                }
+            }
+        }
+    },
+    "www.make.com": {
+        "product_name": "Make",
+        "call_to_action": "Get started free",
+        "use_cases": [
+            "Marketing",
+            "Sales",
+            "Operations",
+            "IT",
+            "HR"
+        ],
+        "solutions": "Visual platform for workflow automation",
+        "key_features": [
+            "Visual workflow creation",
+            "No-code integration and automation",
+            "Ready-made app integrations",
+            "Template library"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "sendbird.com": {
+        "product_name": "ChatGPT Integration with Sendbird",
+        "call_to_action": "Request a demo",
+        "usecases": [
+            "Integrating ChatGPT with Sendbird for in-app chatbots",
+            "Creating interactive and engaging ChatGPT-powered bots within applications",
+            "Enhancing user engagement and driving customer loyalty"
+        ],
+        "solutions": "Enabling businesses to integrate ChatGPT with Sendbird to provide highly contextual and valuable answers to users through conversational interfaces.",
+        "key_features": [
+            "Integration with Sendbird Dashboard",
+            "Use of OpenAI API key",
+            "Creation and testing of Sendbird bot",
+            "Adding bot to Group Channels",
+            "Real-time chat with ChatGPT-powered bot"
+        ],
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Developer": {
+                    "price": "Free",
+                    "features": [
+                        "All pro features",
+                        "No credit card required",
+                        "Community support"
+                    ]
+                },
+                "Starter": {
+                    "price": "$399/month",
+                    "MAU": "5K",
+                    "peakConcurrentConnections": "100K",
+                    "features": [
+                        "Modern messaging essentials",
+                        "Basic moderation",
+                        "Ticketed support"
+                    ]
+                },
+                "Pro": {
+                    "price": "$599/month",
+                    "MAU": "5K",
+                    "peakConcurrentConnections": "100K",
+                    "features": [
+                        "All Starter features",
+                        "Message translation",
+                        "Moderation plus",
+                        "Ticketed support"
+                    ]
+                },
+                "Enterprise": {
+                    "price": "Custom pricing with millions of MAU",
+                    "features": [
+                        "All Pro features",
+                        "Data export",
+                        "Option for dedicated servers",
+                        "Priority support"
+                    ]
+                }
+            }
+        }
+    },
+    "docs.thunkable.com": {
+        "product_name": "OpenAI ChatGPT Integration in Thunkable",
+        "call_to_action": "Integrate OpenAI ChatGPT into your Thunkable app",
+        "usecases": [
+            "Utilize the OpenAI ChatGPT model in Thunkable apps",
+            "Tap into the power of AI and natural language generation"
+        ],
+        "solutions": [
+            "Create an OpenAI account and generate a secret API key",
+            "Setup the OpenAI integration in Thunkable",
+            "Design a Thunkable project using the OpenAI integration"
+        ],
+        "key_features": [
+            "Call Text Completion function to make a call to OpenAI's Completion model",
+            "Call Image Generation function to make a call to OpenAI's Create Image model",
+            "Set API Key to make calls to the OpenAI API in the app",
+            "Set API Request Settings using lists and Objects blocks",
+            "Get API Key being used to make calls to the OpenAI API in the app",
+            "Get API Request Settings of the call to the OpenAI API"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "sendpulse.com": {
+        "product_name": "SendPulse ChatGPT Integration",
+        "call_to_action": "Talk to Sales",
+        "usecases": [
+            "Business Q&A",
+            "Encyclopedia Q&A",
+            "Solving Life Issues",
+            "Solving Math Tasks",
+            "Text Optimization",
+            "Code Decryption",
+            "Text Generation"
+        ],
+        "solutions": [
+            "Connect the GPT model from OpenAI to your chatbot",
+            "Provide proficient automated replies",
+            "Help users solve additional tasks",
+            "Manage conversations with clients",
+            "Provide facts and information on various topics",
+            "Offer advice on life situations",
+            "Help with math tasks",
+            "Optimize text for SEO and SMM tasks",
+            "Explain and generate code",
+            "Create text for advertising campaigns"
+        ],
+        "key_features": {
+            "AI Models": [
+                "ChatGPT (gpt-3.5-turbo)",
+                "ChatGPT (gpt-3.5-turbo-16k)",
+                "ChatGPT (gpt-3.5-turbo-16k-instruct)",
+                "Custom fine-tuned model",
+                "Custom fine-tuned model (Instruct)",
+                "GPT-4"
+            ],
+            "Prompt Design": "Allows adding prompts to limit certain topics, tailor the bot to a specific character or person, or add text sentiment or information about the company",
+            "Token Number": "Specifies the maximum number of tokens in a reply to a subscriber",
+            "Temperature Setting": "Affects the response abstractness, allowing for more random or comprehensive answers"
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "monthlySubscription": {
+                    "Free": {
+                        "subscribersLimit": "Up to 500",
+                        "price": "Free"
+                    },
+                    "Standard": {
+                        "subscribersLimit": "1 - 500",
+                        "price": "$7.20 /month"
+                    },
+                    "Pro": {
+                        "subscribersLimit": "1 - 500",
+                        "price": "$8.64 /month"
+                    },
+                    "Enterprise": {
+                        "subscribersLimit": "1 - 500",
+                        "price": "$10.75 /month"
+                    }
+                },
+                "payAsYouGo": {
+                    "1 - 10,000 emails": "$32 (0.0032 per email)",
+                    "1 - 25,000 emails": "$38.40 (0.0038 per email)",
+                    "1 - 50,000 emails": "$53.76 (0.0054 per email)"
+                }
+            }
+        }
+    },
+    "help.openai.com": {
+        "error": "Unable to analyze the ChatGPT Integration products as the provided input does not contain relevant information about the products.",
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "GPT-4 Turbo": {
+                    "gpt-4-1106-preview": {
+                        "input": "$0.01 / 1K tokens",
+                        "output": "$0.03 / 1K tokens"
+                    },
+                    "gpt-4-1106-vision-preview": {
+                        "input": "$0.01 / 1K tokens",
+                        "output": "$0.03 / 1K tokens"
+                    }
+                },
+                "GPT-4": {
+                    "gpt-4": {
+                        "input": "$0.03 / 1K tokens",
+                        "output": "$0.06 / 1K tokens"
+                    },
+                    "gpt-4-32k": {
+                        "input": "$0.06 / 1K tokens",
+                        "output": "$0.12 / 1K tokens"
+                    }
+                },
+                "GPT-3.5 Turbo": {
+                    "gpt-3.5-turbo-1106": {
+                        "input": "$0.0010 / 1K tokens",
+                        "output": "$0.0020 / 1K tokens"
+                    },
+                    "gpt-3.5-turbo-instruct": {
+                        "input": "$0.0015 / 1K tokens",
+                        "output": "$0.0020 / 1K tokens"
+                    }
+                },
+                "Assistants API": {
+                    "Code interpreter": "$0.03 / session",
+                    "Retrieval": "$0.20 / GB / assistant / day (free until 02/01/2024)"
+                },
+                "Fine-tuning models": {
+                    "gpt-3.5-turbo": {
+                        "training": "$0.0080 / 1K tokens",
+                        "input usage": "$0.0030 / 1K tokens",
+                        "output usage": "$0.0060 / 1K tokens"
+                    },
+                    "davinci-002": {
+                        "training": "$0.0060 / 1K tokens",
+                        "input usage": "$0.0120 / 1K tokens",
+                        "output usage": "$0.0120 / 1K tokens"
+                    },
+                    "babbage-002": {
+                        "training": "$0.0004 / 1K tokens",
+                        "input usage": "$0.0016 / 1K tokens",
+                        "output usage": "$0.0016 / 1K tokens"
+                    }
+                },
+                "Embedding models": {
+                    "ada v2": "$0.0001 / 1K tokens"
+                },
+                "Base models": {
+                    "davinci-002": "$0.0020 / 1K tokens",
+                    "babbage-002": "$0.0004 / 1K tokens"
+                },
+                "Image models": {
+                    "DALL\u00b7E 3": {
+                        "Standard 1024x1024": "$0.040 / image",
+                        "Standard 1024x1792, 1792x1024": "$0.080 / image",
+                        "HD 1024x1024": "$0.080 / image",
+                        "HD 1024x1792, 1792x1024": "$0.120 / image"
+                    },
+                    "DALL\u00b7E 2": {
+                        "1024x1024": "$0.020 / image",
+                        "512x512": "$0.018 / image",
+                        "256x256": "$0.016 / image"
+                    }
+                },
+                "Audio models": {
+                    "Whisper": "$0.006 / minute (rounded to the nearest second)",
+                    "TTS": "$0.015 / 1K characters",
+                    "TTS HD": "$0.030 / 1K characters"
+                }
+            }
+        }
+    },
+    "www.jitbit.com": {
+        "product_name": "Jitbit HelpDesk with ChatGPT Integration",
+        "call_to_action": "Enable ChatGPT Integration",
+        "usecases": [
+            "Automatically generate ticket replies and summaries",
+            "Improve the readability of support responses",
+            "Customize prompts to ChatGPT"
+        ],
+        "solutions": "Streamline customer support processes by integrating ChatGPT to automatically generate ticket replies and summaries, improve response readability, and customize prompts.",
+        "key_features": [
+            "Seamless integration for SaaS users",
+            "Ability to use ChatGPT for generating ticket replies, summaries, and improving response readability",
+            "Custom prompt creation for ChatGPT"
+        ],
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "SaaS": {
+                    "Freelancer": {
+                        "monthly": 29,
+                        "annual": 24.92
+                    },
+                    "Startup": {
+                        "monthly": 69,
+                        "annual": 58.25
+                    },
+                    "Company": {
+                        "monthly": 129,
+                        "annual": 108.25
+                    },
+                    "Enterprise": {
+                        "monthly": 249,
+                        "annual": 208.25
+                    }
+                },
+                "Self-hosted": "Not found"
+            }
+        }
+    },
+    "indatalabs.com": {
+        "ChatGPT_Integration_Services": {
+            "Call_to_Action": "Consult an expert",
+            "Usecases": [
+                "Automation",
+                "Cost Optimization",
+                "Business Process Reinvention",
+                "Personalization at-Scale",
+                "Generative AI Consulting",
+                "GPT Integrations into Existing Systems",
+                "Model Fine-Tuning",
+                "Custom Solution Development Based on GPT",
+                "Content Creation",
+                "Virtual Assistants",
+                "Analysis & Research",
+                "Document Management",
+                "Sentiment Analysis",
+                "Business Process Automation"
+            ],
+            "Solutions": [
+                "Generative AI Consulting",
+                "GPT Integrations into Existing Systems",
+                "Model Fine-Tuning",
+                "Custom Solution Development Based on GPT",
+                "Virtual Assistant Tool",
+                "Custom Large Language Models",
+                "Natural Language Processing",
+                "Consumer Sentiment Analysis",
+                "Text Analysis",
+                "AI Call Center Solutions",
+                "Predictive Analytics",
+                "Recommendation systems",
+                "Computer Vision",
+                "Image Recognition",
+                "Pose Estimation",
+                "Data Capture & OCR"
+            ],
+            "Key_Features": {
+                "Automation": "Streamline repetitive tasks and increase business productivity",
+                "Cost_Optimization": "Eliminate cost bottlenecks in low-value tasks",
+                "Business_Process_Reinvention": "Enhance productivity and prepare for the future",
+                "Personalization_at_Scale": "Automate tailored response generation based on customer data",
+                "Generative_AI_Consulting": "Plan solutions built on leading foundation models",
+                "GPT_Integrations_into_Existing_Systems": "Enhance functionality of existing software",
+                "Model_Fine-Tuning": "Customize generative AI tools to maximize benefits",
+                "Custom_Solution_Development_Based_on_GPT": "Develop innovative services for custom enterprise AI applications",
+                "Content_Creation": "Automated marketing copy generation and global translation",
+                "Virtual_Assistants": "Create intelligent chatbots with human-like conversational capabilities",
+                "Analysis_&_Research": "Automate time-consuming research tasks",
+                "Document_Management": "Minimize burden of regulatory document analysis",
+                "Sentiment_Analysis": "Identify sentiment in customer feedback",
+                "Business_Process_Automation": "Increase internal efficiency by automating key processes"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "zigiwave.com": {
+        "error": "Timeout error occurred while accessing the website",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    }
+}

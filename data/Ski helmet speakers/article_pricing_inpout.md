@@ -1,0 +1,1 @@
+{"www.aleck.io": {"status": "Success", "priceAndPlans": {"1-Pack": "$79.95", "2-Pack": "$149.95"}}, "headphonesproreview.com": {"status": "Not found", "priceAndPlans": {}}, "prethelmets.com": {"status": "Not found", "priceAndPlans": {}}}

@@ -1,0 +1,68 @@
+{
+    "www.amazon.com": {
+        "url": "https://www.amazon.com/Sleep-Headphones-Perytong-Ultra-Thin-Meditation/dp/B07SHBQY7Z",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.amazon.com/Sleep-Headphones-Perytong-Ultra-Thin-Meditation/dp/B07SHBQY7Z",
+        "5prompt_Hash": "81f1b413dcdd67c4d23e6c69b0e4d6ae"
+    },
+    "www.nytimes.com": {
+        "url": "https://www.nytimes.com/wirecutter/reviews/best-sleep-headphones/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.nytimes.com/wirecutter/sleep/sleep-gear/",
+        "5prompt_Hash": "81f1b413dcdd67c4d23e6c69b0e4d6ae"
+    },
+    "www.zdnet.com": {
+        "url": "https://www.zdnet.com/article/best-headphones-for-sleeping/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.zdnet.com/article/best-headphones-for-sleeping/",
+        "5prompt_Hash": "81f1b413dcdd67c4d23e6c69b0e4d6ae"
+    },
+    "www.sleepphones.com": {
+        "url": "https://www.sleepphones.com/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.sleepphones.com/sleepphones/bluetooth-sleep-headphones",
+        "5prompt_Hash": "81f1b413dcdd67c4d23e6c69b0e4d6ae"
+    },
+    "www.bestbuy.com": {
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=sleep+headphones",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.bestbuy.com/site/sleepphones-wireless-headband-headphones-one-size-fits-most-midnight-black/8681138.p?skuId=8681138",
+        "5prompt_Hash": "81f1b413dcdd67c4d23e6c69b0e4d6ae"
+    },
+    "www.cnet.com": {
+        "url": "https://www.cnet.com/health/sleep/headphones-for-sleeping/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.cnet.com/health/sleep/headphones-for-sleep/",
+        "5prompt_Hash": "81f1b413dcdd67c4d23e6c69b0e4d6ae"
+    },
+    "www.cnn.com": {
+        "url": "https://www.cnn.com/cnn-underscored/reviews/best-headphones-for-sleeping",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.cnn.com/cnn-underscored/reviews/bose-sleepbuds-2",
+        "5prompt_Hash": "81f1b413dcdd67c4d23e6c69b0e4d6ae"
+    },
+    "time.com": {
+        "url": "https://time.com/shopping/article/best-headphones-for-sleeping/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://time.com/shopping/article/best-headphones-for-sleeping/",
+        "5prompt_Hash": "81f1b413dcdd67c4d23e6c69b0e4d6ae"
+    },
+    "www.bestproducts.com": {
+        "url": "https://www.bestproducts.com/tech/gadgets/g19607167/sleep-headphones-earbuds-reviews/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.bestproducts.com/tech/gadgets/g19607167/sleep-headphones-earbuds-reviews/",
+        "5prompt_Hash": "81f1b413dcdd67c4d23e6c69b0e4d6ae"
+    },
+    "nymag.com": {
+        "url": "https://nymag.com/strategist/article/bluetooth-headphone-headband-review.html",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://nymag.com/strategist/article/bluetooth-headphone-headband-review.html",
+        "5prompt_Hash": "81f1b413dcdd67c4d23e6c69b0e4d6ae"
+    },
+    "www.audiophileon.com": {
+        "url": "https://www.audiophileon.com/news/best-headphones-for-sleeping",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.audiophileon.com/news/best-headphones-for-sleeping",
+        "5prompt_Hash": "81f1b413dcdd67c4d23e6c69b0e4d6ae"
+    }
+}

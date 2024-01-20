@@ -1,0 +1,734 @@
+{
+    "blog.hubspot.com": {
+        "business_coach_products": [
+            {
+                "name": "Noomii",
+                "call_to_action": "Browse Coaches",
+                "usecases": [
+                    "Life coaching",
+                    "Business coaching",
+                    "Career coaching",
+                    "Executive coaching"
+                ],
+                "solutions": "Provides resources in 50 countries, offers coaching for various aspects of life and business",
+                "key_features": [
+                    "Largest directory of coaches",
+                    "Resources in 50 countries",
+                    "Coaching for various aspects of life and business"
+                ]
+            },
+            {
+                "name": "Anthony John Amyx",
+                "call_to_action": "Contact for Coaching",
+                "usecases": [
+                    "Sales coaching",
+                    "Career coaching",
+                    "Professional development"
+                ],
+                "solutions": "Specializes in helping professionals break through earnings caps and take control of their time",
+                "key_features": [
+                    "Specializes in sales coaching",
+                    "Focuses on professional development",
+                    "Helps in taking control of time"
+                ]
+            },
+            {
+                "name": "CEO of Your Life",
+                "call_to_action": "Contact for Coaching",
+                "usecases": [
+                    "Life coaching",
+                    "Personal development coaching",
+                    "Business coaching"
+                ],
+                "solutions": "Offers flexible, popular courses to help determine core values, life purpose, and create a big picture vision",
+                "key_features": [
+                    "Flexible, popular courses",
+                    "Focuses on personal development",
+                    "Helps in creating a big picture vision"
+                ]
+            },
+            {
+                "name": "John Mattone",
+                "call_to_action": "Contact for Coaching",
+                "usecases": [
+                    "Small business coaching",
+                    "Entrepreneur coaching",
+                    "Sales leadership coaching"
+                ],
+                "solutions": "Offers Intelligent Leadership Executive Coaching Process and certification as an Intelligent Leadership Executive Coach",
+                "key_features": [
+                    "Intelligent Leadership Executive Coaching Process",
+                    "Certification as an Intelligent Leadership Executive Coach",
+                    "Focuses on small business and sales leadership coaching"
+                ]
+            },
+            {
+                "name": "Business Success Solution",
+                "call_to_action": "Contact for Coaching",
+                "usecases": [
+                    "Business coaching",
+                    "Obstacle removal coaching",
+                    "Value identification coaching"
+                ],
+                "solutions": "Helps identify and clear obstacles to success, understand value, and embrace the messiness of success",
+                "key_features": [
+                    "Obstacle removal coaching",
+                    "Value identification coaching",
+                    "Embracing the messiness of success"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.betterup.com": {
+        "business_coach_products": {
+            "BetterUp Lead": {
+                "call_to_action": "Request a demo",
+                "usecases": [
+                    "Building leaders that accelerate team performance and engagement"
+                ],
+                "solutions": [
+                    "Leadership development",
+                    "Team performance enhancement"
+                ],
+                "key_features": [
+                    "AI-powered growth journeys",
+                    "Curated leadership development"
+                ]
+            },
+            "BetterUp Manage": {
+                "call_to_action": "Request a demo",
+                "usecases": [
+                    "Unlocking performance potential at scale"
+                ],
+                "solutions": [
+                    "AI-powered curated growth journeys"
+                ],
+                "key_features": [
+                    "AI-powered growth journeys",
+                    "Curated leadership development"
+                ]
+            },
+            "BetterUp Care": {
+                "call_to_action": "Request a demo",
+                "usecases": [
+                    "Building resilience, well-being, and agility"
+                ],
+                "solutions": [
+                    "Resilience and well-being enhancement"
+                ],
+                "key_features": [
+                    "Resilience and well-being programs",
+                    "Agility development"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "careerCoaching": [
+                    {
+                        "type": "individual",
+                        "sessionDuration": "30 minutes",
+                        "sessionFrequency": "1-4x a month",
+                        "priceRange": "$50 to $250 per hour"
+                    }
+                ]
+            }
+        }
+    },
+    "www.tonyrobbins.com": {
+        "business_coach_products": {
+            "Tony_Robbins_Business_Coaching_Services": {
+                "call_to_action": "Schedule your session",
+                "usecases": [
+                    "Achieving geometric business growth",
+                    "Breaking through limiting beliefs",
+                    "Identifying opportunities and strategies for business growth",
+                    "Becoming a more effective leader",
+                    "Thriving in hard times",
+                    "Recruiting and retaining top talent"
+                ],
+                "solutions": "1:1 meetings every 10-14 days, expert guidance, setting clear goals, mapping action plans, breaking through limiting beliefs, identifying opportunities and strategies for business growth, building leadership skills, developing strategies for overcoming hurdles, fostering employee leadership, retaining high-performers",
+                "key_features": {
+                    "Increase_revenue": "Optimizing costs, customer experience, culture, and market factors",
+                    "Effective_leadership": "Building leadership skills, becoming a master of execution, developing strategies for thriving in hard times",
+                    "Recruit_and_retain_top_talent": "Learning how to create a growth culture, fostering employee leadership, retaining high-performers"
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.smallbusinesscoach.org": {
+        "business_coach_products": [
+            {
+                "name": "Small BusinessCoach Associates",
+                "call_to_action": "BOOK FREE STRATEGY SESSION NOW",
+                "usecases": [
+                    "Helping business owners achieve business freedom",
+                    "Improving sales growth and profitability",
+                    "Reducing burnout and chaos in business operations",
+                    "Providing guidance for finding good employees",
+                    "Assisting with recession and AI concerns"
+                ],
+                "solutions": [
+                    "One-on-one business coaching services",
+                    "Business consulting",
+                    "Business roadmap development"
+                ],
+                "key_features": [
+                    "Customized business plan creation",
+                    "Weekly, bi-weekly, or monthly coaching sessions",
+                    "Focus on clarity and accountability",
+                    "Support for various industries and business sizes",
+                    "Strategic planning and leadership development"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "startup": "Not found",
+                "grow": "Not found",
+                "group": "Not found",
+                "one-to-one": "Starting at $497"
+            }
+        }
+    },
+    "www.noomii.com": {
+        "business_coaches": [
+            {
+                "name": "Russ Katzman MBA",
+                "location": "Tampa, Florida 33647",
+                "contact": "8658168299",
+                "specialization": [
+                    "Business Coach",
+                    "Entrepreneurship Coach",
+                    "Executive Coach"
+                ],
+                "noomii_score": 10.0,
+                "reviews": 18,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "Marla Williams BA",
+                "location": "Seattle, Washington 98282",
+                "contact": "425-985-3398",
+                "specialization": [
+                    "Life Coach",
+                    "Business Coach",
+                    "Career Coach"
+                ],
+                "noomii_score": 10.0,
+                "reviews": 19,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "John Bulman MBA",
+                "location": "Las Vegas, Nevada 89107",
+                "contact": "714-271-1200",
+                "specialization": [
+                    "Business Coach",
+                    "Executive Coach",
+                    "Entrepreneurship Coach"
+                ],
+                "noomii_score": 10.0,
+                "reviews": 6,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "Liz Wolfe",
+                "location": "New York, New York 10031",
+                "contact": "1-646-334-9427",
+                "specialization": [
+                    "Business Coach",
+                    "Money and Finance Coach",
+                    "Entrepreneurship Coach"
+                ],
+                "noomii_score": 10.0,
+                "reviews": 18,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "Don Markland",
+                "location": "Jacksonville, Florida 32256",
+                "contact": "8013880929",
+                "specialization": [
+                    "Business Coach",
+                    "Entrepreneurship Coach",
+                    "Executive Coach"
+                ],
+                "noomii_score": 10.0,
+                "reviews": 12,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "Jenna Rykiel",
+                "location": "Columbia, Maryland 21044",
+                "contact": "707-985-8524",
+                "specialization": [
+                    "Business Coach",
+                    "Family Coach",
+                    "Money and Finance Coach"
+                ],
+                "noomii_score": 10.0,
+                "reviews": 12,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "Andrew Lamppa",
+                "location": "Grand Rapids, Michigan 49525",
+                "contact": "6168214690",
+                "specialization": [
+                    "Business Coach",
+                    "Entrepreneurship Coach",
+                    "Life Coach"
+                ],
+                "noomii_score": 10.0,
+                "reviews": 3,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "Terry Hildebrandt",
+                "location": "Montrose, Colorado 81403",
+                "contact": "+1 720-318-6625",
+                "specialization": [
+                    "Executive Coach",
+                    "Business Coach",
+                    "Leadership Coach"
+                ],
+                "noomii_score": 10.0,
+                "reviews": 13,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "John Guanci",
+                "location": "Boston, Massachusetts 02101",
+                "contact": "617-686-5608",
+                "specialization": [
+                    "Business Coach",
+                    "Executive Coach",
+                    "Life Coach"
+                ],
+                "noomii_score": 10.0,
+                "reviews": 7,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "Sifu Karl Romain",
+                "location": "Edgewater, New Jersey 07020",
+                "contact": "8449226224",
+                "specialization": [
+                    "Business Coach",
+                    "Career Coach",
+                    "Relationship Coach"
+                ],
+                "noomii_score": 10.0,
+                "reviews": 27,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "Grant Melbye",
+                "location": "Denver, Colorado 80241",
+                "contact": "970-988-4709",
+                "specialization": [
+                    "Business Coach",
+                    "Life Coach",
+                    "Performance Coach"
+                ],
+                "noomii_score": 9.9,
+                "reviews": 13,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "Paul Inselman",
+                "location": "Pompano Beach, Florida 33076",
+                "contact": "9547574256",
+                "specialization": [
+                    "Business Coach",
+                    "Life Coach",
+                    "Money and Finance Coach"
+                ],
+                "noomii_score": 9.9,
+                "reviews": 7,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "Benjamin Fitzgerald",
+                "location": "New York, New York 10031",
+                "contact": "Not provided",
+                "specialization": [
+                    "Career Coach",
+                    "Business Coach",
+                    "Life Coach"
+                ],
+                "noomii_score": 10.0,
+                "reviews": 16,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "Jen Joe",
+                "location": "Houston, Texas 77098",
+                "contact": "Not provided",
+                "specialization": [
+                    "Entrepreneurship Coach",
+                    "Business Coach",
+                    "Career Coach"
+                ],
+                "noomii_score": 10.0,
+                "reviews": 27,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "Mark Brenner",
+                "location": "Los Angeles, California 91505",
+                "contact": "818-987-7782",
+                "specialization": [
+                    "Career Coach",
+                    "Executive Coach",
+                    "Business Coach"
+                ],
+                "noomii_score": 10.0,
+                "reviews": 16,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "Andrew Clemence",
+                "location": "+44 (0)203 287 3398",
+                "contact": "Not provided",
+                "specialization": [
+                    "Business Coach",
+                    "Leadership Coach",
+                    "Career Coach"
+                ],
+                "noomii_score": 9.8,
+                "reviews": 3,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "Laura Roeven",
+                "location": "Stoughton, Wisconsin 53589",
+                "contact": "608-492-2060",
+                "specialization": [
+                    "Life Coach",
+                    "Relationship Coach",
+                    "Business Coach"
+                ],
+                "noomii_score": 9.8,
+                "reviews": 12,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "Brett Morris",
+                "location": "Sarasota, Florida 34236",
+                "contact": "512-468-4725",
+                "specialization": [
+                    "Business Coach",
+                    "Leadership Coach",
+                    "Executive Coach"
+                ],
+                "noomii_score": 9.6,
+                "reviews": 10,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "Jamey Gadoury",
+                "location": "Scottsdale, Arizona 85254",
+                "contact": "2542317951",
+                "specialization": [
+                    "Leadership Coach",
+                    "Executive Coach",
+                    "Business Coach"
+                ],
+                "noomii_score": 9.8,
+                "reviews": 12,
+                "request_consultation_link": "Request Free Consultation"
+            },
+            {
+                "name": "Kerry Walls",
+                "location": "Cambridge, Massachusetts 02140",
+                "contact": "503.888.7362",
+                "specialization": [
+                    "Executive Coach",
+                    "Business Coach",
+                    "Team Coach"
+                ],
+                "noomii_score": 9.4,
+                "reviews": 6,
+                "request_consultation_link": "Request Free Consultation"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "businessCoaching": {
+                    "practicality": {
+                        "range": "$175 - $500 per month",
+                        "details": "Fees range from $175 - $500 a month, offer a complementary session to start, and don\u2019t hold anyone to a contract."
+                    },
+                    "prestige": {
+                        "range": "$25,000 - $50,000 annually",
+                        "details": "Coaches with well-known brand, licensed platform, lots of tools and dashboards, Ivy league educated advisors, corporate executive background, travel-required meetings, class A office space, specific industry knowledge, tiered offerings, and hiring them is a badge of honor."
+                    },
+                    "inBetween": {
+                        "range": "$150 - $700 per month",
+                        "details": "Coaches usually local, can work virtually, in business for a while, somewhat known, some tools, B or C class office space, advertise industry knowledge, follow a less formal curriculum, structured, and have different products to choose from."
+                    },
+                    "basic": {
+                        "range": "$50 - $125 per month",
+                        "details": "Coaches are local, newer to the industry, home office, less structured, worked as an executive or middle management prior to opening a practice, and solo entrepreneurs."
+                    }
+                }
+            }
+        }
+    },
+    "www.briantracy.com": {
+        "business_coach_product": {
+            "name": "Business Coaching Services",
+            "call_to_action": "Book a Demo",
+            "usecases": [
+                "Small business owners seeking personalized guidance",
+                "Business owners looking to grow and improve their company",
+                "Entrepreneurs aiming to achieve their business goals"
+            ],
+            "solutions": [
+                "Personalized guidance and advice from experienced business coaches",
+                "Assistance in defining business goals and vision",
+                "Development of strategies and action plans to achieve business goals",
+                "Support in navigating challenges and making informed decisions"
+            ],
+            "key_features": [
+                "Personalized coaching tailored to unique business needs",
+                "Experienced business coaches with entrepreneurial expertise",
+                "Goal setting and strategy development",
+                "Guidance in overcoming business challenges",
+                "Improved productivity and job satisfaction"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.nerdwallet.com": {
+        "business_coach_products": [
+            {
+                "name": "Business Coaching Services",
+                "call_to_action": "Get a free consultation",
+                "usecases": [
+                    "Developing business ideas",
+                    "Setting and achieving business goals",
+                    "Feedback on business ideas",
+                    "Creating business plans",
+                    "Connecting with industry resources",
+                    "Accountability and deadlines",
+                    "Coursework and group training"
+                ],
+                "solutions": "Helping entrepreneurs set and achieve their business goals, providing feedback, tools, and resources, and offering accountability and training.",
+                "key_features": [
+                    "Personalized coaching",
+                    "Industry-specific expertise",
+                    "Feedback and idea generation",
+                    "Business planning tools",
+                    "Resource connections",
+                    "Accountability support",
+                    "Customized training"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.deliberatedirections.com": {
+        "business_coaches": [
+            {
+                "name": "Marshall Goldsmith",
+                "website": "marshallgoldsmith.com",
+                "call_to_action": "Follow on Facebook for updates",
+                "usecases": "Effective leadership and business ownership",
+                "solutions": "Articles and videos",
+                "key_features": "Updates on new material through Facebook"
+            },
+            {
+                "name": "Allison Dunn (Deliberate Directions)",
+                "website": "deliberatedirections.com",
+                "call_to_action": "Subscribe for exclusive tips, content, and a welcome gift",
+                "usecases": "Scaling business and advancing leadership skills",
+                "solutions": "Blog, YouTube, Deliberate Leaders Podcast",
+                "key_features": "Exclusive tips, content, and a welcome gift through subscription"
+            },
+            {
+                "name": "Tony Robbins",
+                "website": "tonyrobbins.com",
+                "call_to_action": "Follow on Facebook for more updates",
+                "usecases": "Self-assessments and personal development",
+                "solutions": "Podcast episodes, business articles, videos",
+                "key_features": "Assessments on the website, podcast episodes with celebrities and leading thinkers"
+            },
+            {
+                "name": "Jay Abraham",
+                "website": "abraham.com",
+                "call_to_action": "Follow on Facebook for updates",
+                "usecases": "Problem-solving in business",
+                "solutions": "YouTube channel, podcast, blog",
+                "key_features": "Entire keynotes and book study notes available for free"
+            },
+            {
+                "name": "Nick Loper (Side Hustle Nation)",
+                "website": "sidehustlenation.com",
+                "call_to_action": "Follow blog and Facebook for updates",
+                "usecases": "Earning money outside traditional jobs and growing side hustles",
+                "solutions": "Podcast, blog",
+                "key_features": "Popular podcast on iTunes or Android"
+            },
+            {
+                "name": "John Maxwell",
+                "website": "johnmaxwell.com",
+                "call_to_action": "Follow blog and Facebook for ongoing advice",
+                "usecases": "Leadership advice",
+                "solutions": "Blog, Facebook",
+                "key_features": "Ongoing bite-sized leadership advice"
+            },
+            {
+                "name": "Barry Moltz (The Unstuck Guy)",
+                "website": "barrymoltz.com",
+                "call_to_action": "Follow on Facebook for updates",
+                "usecases": "Overcoming business stagnation",
+                "solutions": "Small business podcast, books",
+                "key_features": "Popular books 'How to Get Unstuck' and 'Small Business Hacks'"
+            },
+            {
+                "name": "Tammy Adams (Local Small Business Coach)",
+                "website": "localsmallbusinesscoach.com",
+                "call_to_action": "Subscribe for exclusive tips, content, and a welcome gift",
+                "usecases": "Starting a local business",
+                "solutions": "Ebook, YouTube, podcast, courses",
+                "key_features": "Exclusive tips, content, and a welcome gift through subscription"
+            },
+            {
+                "name": "John Mattone",
+                "website": "johnmattone.com",
+                "call_to_action": "Follow on Facebook for updates",
+                "usecases": "Leadership development",
+                "solutions": "Blog",
+                "key_features": "Updates when new articles are released through Facebook"
+            },
+            {
+                "name": "Alan Melton (Small Business Coach Associates)",
+                "website": "smallbusinesscoach.org",
+                "call_to_action": "Follow on Facebook for updates",
+                "usecases": "Planning, team building, sales, personal development",
+                "solutions": "Facebook, blog, webinars",
+                "key_features": "Tips on various aspects of business development"
+            },
+            {
+                "name": "Melinda Emerson (The Small Biz Lady)",
+                "website": "succeedasyourownboss.com",
+                "call_to_action": "Follow on Facebook for updates",
+                "usecases": "Starting and running a small business",
+                "solutions": "Blog, ebooks",
+                "key_features": "Tips on marketing, social media, accounting, finance"
+            },
+            {
+                "name": "Tristan Wright (Evolve to Grow)",
+                "website": "evolvetogrow.com.au",
+                "call_to_action": "Join Facebook Group for business insights",
+                "usecases": "Business growth and development",
+                "solutions": "Ebook, Facebook, LinkedIn, Facebook Group",
+                "key_features": "Business insights on Facebook and LinkedIn, Facebook Group for community interaction"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.strategiccoach.com": {
+        "business_coach_products": [
+            {
+                "name": "Strategic Coach",
+                "call_to_action": "Book A Call",
+                "usecases": "Business coaching for growth-minded entrepreneurs",
+                "solutions": "World-class business coaching, an elite entrepreneurial community, and the mindsets needed to multiply success and impact",
+                "key_features": "Membership for entrepreneurs with 3+ years' experience, personal net income of at least $200K per year, growth-focused, open-minded, and ambitious"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "petracoach.com": {
+        "business_coach_products": {
+            "Petra": {
+                "call_to_action": "Signup for Daily Scaling Tips & Tricks",
+                "usecases": [
+                    "Coaching for hyper-growth organizations",
+                    "Implementing Rockefeller Habits",
+                    "Scaling businesses",
+                    "Improving team engagement"
+                ],
+                "solutions": "Coaching programs for different organizational needs, access to experts, implementation of proven methodologies and frameworks",
+                "key_features": "Dedicated Coach and Accountability Coach, Member Discovery, Member Kickoff, In Between Plannings, Period Planning, Access to Online Education, Petra Perks, Unlimited access to Coaches and ACs, Petra Forum Groups, Trusted by Leaders around the World, Proven Methodology and Process, Action Docs"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "found",
+            "priceAndPlans": {
+                "Everest": {
+                    "type": "In-person coaching",
+                    "price": "$24,000 - $60,000 per year"
+                },
+                "Kilimanjaro": {
+                    "type": "Virtual coaching",
+                    "price": "Not specified"
+                },
+                "Rainier": {
+                    "type": "Virtual planning & coaching",
+                    "price": "Not specified"
+                },
+                "Matterhorn": {
+                    "type": "Group planning & coaching",
+                    "price": "Not specified"
+                },
+                "Aravali": {
+                    "type": "1:1 Executive coaching",
+                    "price": "Not specified"
+                }
+            }
+        }
+    },
+    "www.emyth.com": {
+        "business_coach_products": [
+            {
+                "name": "EMyth Business Coaching",
+                "call_to_action": "Request a free coaching session with a Certified EMyth Coach",
+                "usecases": [
+                    "Strategic development of a successful company",
+                    "Building a successful business with intention",
+                    "Stabilizing and growing a business",
+                    "Empowering and developing independence in business owners"
+                ],
+                "solutions": "Collaborative relationship between business owner/CEO and professional business coach, guidance, support, and accountability to achieve business goals, systematizing every area of the business",
+                "key_features": [
+                    "Trusted partnership with curiosity and courage",
+                    "Clear roadmap for business development",
+                    "Focus on empowerment and independence",
+                    "Professional characteristics: Experience, skill level, training, approach and philosophy, certification(s), program, curriculum or methodology used"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    }
+}

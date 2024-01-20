@@ -1,0 +1,51 @@
+Based on the information provided, I have gathered pricing plans for stoma bandages from various companies. Here is a comparison review of the available options:
+
+| Company | Product | Price (in €) |
+|---------|---------|--------------|
+| www.siilostomy.com | Stoma-Bandage Bandeanzug | 38.99 |
+| www.siilostomy.com | Stoma Bademode LUNA | 59.99 |
+| www.siilostomy.com | Stoma Bademode Nara | 59.99 |
+| www.siilostomy.com | Stoma Bademode SIWA | 59.99 |
+| www.siilostomy.com | Stoma Bademode Oman | 59.99 |
+| www.stoma-na-und.de | Quokka | 35.00 |
+| www.stoma-na-und.de | Quokki | 25.00 |
+| www.stoma-na-und.de | StomOdor Neutraliser | 17.15 |
+| www.stoma-na-und.de | StomFoam cleaning foam | 15.00 |
+| www.stoma-na-und.de | Emergency Exit | 12.80 |
+| www.stoma-na-und.de | Numbat | 60.00 |
+| www.stoma-na-und.de | Kangaroo | 75.00 |
+| www.stoma-na-und.de | Wombat | 85.00 |
+| www.stoma-na-und.de | Kusu | 90.00 |
+| www.stoma-na-und.de | Opossum | 40.00 |
+| www.stoma-na-und.de | Bilby | 22.00 |
+| www.stoma-na-und.de | Bilby One | 25.00 |
+| www.stoma-na-und.de | Bilby+ | 25.00 |
+| www.stoma-na-und.de | Bilby Smile | 22.00 |
+| www.stoma-na-und.de | Bilby Slim | 22.00 |
+| www.stoma-na-und.de | Bilby Activ | 25.00 |
+| www.stoma-na-und.de | Bilby One Activ | 30.00 |
+| www.stoma-na-und.de | Bilby Slim Aktiv | 25.00 |
+| www.stoma-na-und.de | Bilby Venus | 25.00 |
+| www.stoma-na-und.de | Sugarglider | 40.00 |
+| www.stoma-na-und.de | Sugarglider solo | 20.00 |
+| www.stoma-na-und.de | Skippy Venus | 35.00 |
+| www.stoma-na-und.de | Asia Skippy Venus | 35.00 |
+| www.stoma-na-und.de | Skippy Mars | 35.00 |
+| www.stoma-na-und.de | Couscous | 20.00 |
+| www.stoma-na-und.de | Mole | 15.00 |
+| www.stoma-na-und.de | Mole Smile | 15.00 |
+| www.stoma-na-und.de | Mole Slide | 15.00 |
+| www.stoma-na-und.de | Bumper | 10.00 |
+| www.stoma-na-und.de | Koala | 120.00 |
+| parthenoninc.com | Coloplast SenSura Mio One Piece High Output Ostomy Bag (10/bx) | $101.15 |
+| parthenoninc.com | Coloplast SenSura Click Xpro Convex Light Skin Barrier (5/bx) | $44.80 |
+| parthenoninc.com | Coloplast SenSura Click Drainable Stoma Bags (20/bx) | $60.10 |
+| parthenoninc.com | Coloplast SenSura Flex Ostomy Skin Barrier, 5/bx | $29.95 |
+| parthenoninc.com | Coloplast SenSura® Xpro One-Piece Closed Pouch (30/bx) | $89.15 |
+| parthenoninc.com | Coloplast Sensura® Mio One-Piece Closed Ostomy Pouch, Deep Convex (10/bx) | $38.80 |
+| parthenoninc.com | Coloplast Sensura® Mio Two-Piece Drainage Pouch (10/bx) | $46.55 |
+| parthenoninc.com | Coloplast Sensura® Mio One-Piece Urostomy Pouch (10/bx) | $89.99 |
+| parthenoninc.com | Coloplast Assura® Two-Piece Drainable Ostomy Pouch (10/bx) | $32.45 |
+| parthenoninc.com | Coloplast Assura® Two-Piece Skin Barrier (5/BX) | $29.95 |
+
+Please note that the prices are in euros unless specified otherwise. It's important to consider the specific features and materials of each product when making a decision. Additionally, some companies offer a wide range of products, including ostomy bags, skin barriers, and other accessories, so it's essential to choose the right combination for individual needs.

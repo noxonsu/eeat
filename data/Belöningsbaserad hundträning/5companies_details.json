@@ -1,0 +1,251 @@
+{
+    "www.abcanimals.org": {
+        "products": [
+            {
+                "name": "FRTS | Fr\u00e5n reaktivitet till samspel",
+                "call_to_action": "Boka din tr\u00e4ningspass",
+                "usecases": [
+                    "FRTS",
+                    "Fr\u00e5n reaktivitet till samspel"
+                ],
+                "solutions": [
+                    "Tr\u00e4ningspass f\u00f6r att g\u00e5 fr\u00e5n reaktivitet till samspel"
+                ],
+                "key_features": [
+                    "Tr\u00e4ningspass",
+                    "Fokus p\u00e5 att minska reaktivitet och fr\u00e4mja samspel"
+                ]
+            },
+            {
+                "name": "Hundrastning",
+                "call_to_action": "Boka hundrastning",
+                "usecases": [
+                    "Hundrastning"
+                ],
+                "solutions": [
+                    "M\u00f6jlighet att boka hundrastning i olika omr\u00e5den"
+                ],
+                "key_features": [
+                    "Bokning av hundrastning i olika omr\u00e5den"
+                ]
+            },
+            {
+                "name": "Kattpassning",
+                "call_to_action": "Boka kattpassning",
+                "usecases": [
+                    "Kattpassning"
+                ],
+                "solutions": [
+                    "M\u00f6jlighet att boka kattpassning"
+                ],
+                "key_features": [
+                    "Bokning av kattpassning"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "ABC ANIMALS | Hundhagen (Vallentuna) / 1 hour": "740 kr",
+                "ABC ANIMALS | Hundhagen (Vallentuna) / 3 hour package": "1 880 kr",
+                "ABC ANIMALS | Hundhagen (Vallentuna) / 5 hour package": "2 960 kr",
+                "STOCKHOLM | Inside the tolls / 1 hour": "1 220 kr",
+                "STOCKHOLM | Inside the tolls / 3 hour package": "3 110 kr",
+                "STOCKHOLM | Inside the tolls / 5 hour package": "4 880 kr",
+                "Indoor facility | Central Stockholm (Karma Dog Center) / 1 hour": "1 400 kr",
+                "Indoor facility | Central Stockholm (Karma Dog Center) / 3 hour package": "3 600 kr",
+                "Vallentuna/T\u00e4by Kyrkby/Brottby / 1 hour": "840 kr",
+                "Vallentuna/T\u00e4by Kyrkby/Brottby / 3 hour package": "2 140 kr",
+                "Vallentuna/T\u00e4by Kyrkby/Brottby / 5 hour package": "3 360 kr",
+                "Uppland's V\u00e4sby / 1 hour": "890 kr",
+                "Uppland's V\u00e4sby / 3 hour package": "2 270 kr",
+                "Uppland's V\u00e4sby / 5 hour package": "3 560 kr",
+                "K\u00e5rsta / 1 hour": "940 kr",
+                "K\u00e5rsta / 3 hour package": "2 390 kr",
+                "K\u00e5rsta / 5 hour package": "3 760 kr",
+                "T\u00e4by / 1 hour": "940 kr",
+                "T\u00e4by / 3 hour package": "2 390 kr",
+                "T\u00e4by / 5 hour package": "3 760 kr",
+                "\u00c5kersberga / 1 hour": "990 kr",
+                "\u00c5kersberga / 3 hour package": "2 520 kr",
+                "\u00c5kersberga / 5 hour package": "3 960 kr",
+                "Danderyd / 1 hour": "990 kr",
+                "Danderyd / 3 hour package": "2 520 kr",
+                "Danderyd / 5 hour package": "3 960 kr",
+                "Sollentuna / 1 hour": "990 kr",
+                "Sollentuna / 3 hour package": "2 520 kr",
+                "Sollentuna / 5 hour package": "3 960 kr",
+                "Solna / 1 hour": "1 040 kr",
+                "Solna / 3 hour package": "2 650 kr",
+                "Solna / 5 hour package": "4 160 kr",
+                "Vaxholm / 1 hour": "1 040 kr",
+                "Vaxholm / 3 hour package": "2 650 kr",
+                "Vaxholm / 5 hour package": "4 160 kr",
+                "J\u00e4rf\u00e4lla / 1 hour": "1 090 kr",
+                "J\u00e4rf\u00e4lla / 3 hour package": "2 780 kr",
+                "J\u00e4rf\u00e4lla / 5 hour package": "4 360 kr",
+                "Sundbyberg / 1 hour": "1 090 kr",
+                "Sundbyberg / 3 hour package": "2 780 kr",
+                "Sundbyberg / 5 hour package": "4 360 kr",
+                "Liding\u00f6 / 1 hour": "1 090 kr",
+                "Liding\u00f6 / 3 hour package": "2 780 kr",
+                "Liding\u00f6 / 5 hour package": "4 360 kr",
+                "Norrt\u00e4lje / 1 hour": "1 280 kr",
+                "Norrt\u00e4lje / 3 hour package": "3 260 kr",
+                "Norrt\u00e4lje / 5 hour package": "5 120 kr",
+                "Uppsala / 1 hour": "1 460 kr",
+                "Uppsala / 3 hour package": "3 720 kr",
+                "Uppsala / 5 hour package": "5 840 kr",
+                "Nacka / 1 hour": "1 580 kr",
+                "Nacka / 3 hour package": "4 020 kr",
+                "Nacka / 5 hour package": "6 320 kr",
+                "S\u00f6dert\u00e4lje / 1 hour": "1 720 kr",
+                "S\u00f6dert\u00e4lje / 3 hour package": "4 380 kr",
+                "S\u00f6dert\u00e4lje / 5 hour package": "6 880 kr"
+            }
+        }
+    },
+    "www.hundigt.se": {
+        "products": {
+            "Valptr\u00e4ning till vardag och fest, f\u00e5gelhundstr\u00e4ning": {
+                "manufacturer": "Klickerf\u00f6rlaget",
+                "price": "340,00 kr",
+                "description": "En bok om valptr\u00e4ning f\u00f6r f\u00e5gelhundar, med fokus p\u00e5 jakttr\u00e4ning och prov. Inneh\u00e5ller \u00e4ven tillg\u00e5ng till filmer f\u00f6r att underl\u00e4tta f\u00f6rst\u00e5elsen av \u00f6vningarna. F\u00f6rfattare: Elsa Blomster och Lena Gunnarsson.",
+                "availability": "I lager"
+            },
+            "RAUH \u00c4lgchips - tuggben": {
+                "description": "\u00c4lgchips tillverkat av \u00e4lghud, en naturlig produkt utan tillsatser. Passar alla hundar, s\u00e4rskilt de med k\u00e4nsliga magar eller stort tuggbehov.",
+                "price": "Fr\u00e5n 30,00 kr"
+            },
+            "RAUH Miniflisa - tuggben": {
+                "description": "Naturligt tuggben av n\u00f6tskinn, perfekt f\u00f6r sm\u00e5 hundar och de som har sv\u00e5rt att tugga.",
+                "price": "Fr\u00e5n 10,00 kr"
+            },
+            "\u00c4lgpinne - moose stick - gott hundgodis fr\u00e5n RAUH": {
+                "description": "\u00c4lgpinne av h\u00f6gkvalitativa r\u00e5varor, naturlig och utan tillsatser. Passar alla hundar som bel\u00f6ning vid tr\u00e4ning eller som tuggben.",
+                "price": "Fr\u00e5n 25,00 kr"
+            },
+            "Klicker med spiralarmband": {
+                "description": "Klicker f\u00f6r tr\u00e4ning, underl\u00e4ttar inl\u00e4rning och bel\u00f6ning. En rolig och effektiv tr\u00e4ningsmetod.",
+                "price": "45,00 kr"
+            }
+        },
+        "call_to_action": "K\u00f6p",
+        "usecases": [
+            "Valptr\u00e4ning f\u00f6r f\u00e5gelhundar",
+            "Tuggben f\u00f6r hundar",
+            "Hundgodis och bel\u00f6ningar",
+            "Tr\u00e4ningsredskap f\u00f6r hundar"
+        ],
+        "solutions": [
+            "Boken 'Valptr\u00e4ning till vardag och fest, f\u00e5gelhundstr\u00e4ning' erbjuder v\u00e4gledning f\u00f6r valptr\u00e4ning och jakttr\u00e4ning f\u00f6r f\u00e5gelhundar.",
+            "Tuggben och hundgodis fr\u00e5n RAUH tillhandah\u00e5ller naturliga bel\u00f6ningar f\u00f6r hundar under tr\u00e4ning.",
+            "Klicker med spiralarmband underl\u00e4ttar inl\u00e4rning och bel\u00f6ning under hundtr\u00e4ning."
+        ],
+        "key_features": {
+            "Valptr\u00e4ning till vardag och fest, f\u00e5gelhundstr\u00e4ning": [
+                "Inneh\u00e5ller tillg\u00e5ng till filmer f\u00f6r att underl\u00e4tta f\u00f6rst\u00e5elsen av \u00f6vningarna",
+                "Fokus p\u00e5 jakttr\u00e4ning och prov f\u00f6r f\u00e5gelhundar"
+            ],
+            "RAUH \u00c4lgchips - tuggben": [
+                "Tillverkat av \u00e4lghud",
+                "Naturlig produkt utan tillsatser",
+                "Passar alla hundar, s\u00e4rskilt de med k\u00e4nsliga magar eller stort tuggbehov"
+            ],
+            "RAUH Miniflisa - tuggben": [
+                "Naturligt tuggben av n\u00f6tskinn",
+                "Perfekt f\u00f6r sm\u00e5 hundar och de som har sv\u00e5rt att tugga"
+            ],
+            "\u00c4lgpinne - moose stick - gott hundgodis fr\u00e5n RAUH": [
+                "Tillverkat av h\u00f6gkvalitativa r\u00e5varor",
+                "Naturlig och utan tillsatser",
+                "Passar alla hundar som bel\u00f6ning vid tr\u00e4ning eller som tuggben"
+            ],
+            "Klicker med spiralarmband": [
+                "Effektiv tr\u00e4ningsmetod",
+                "Underl\u00e4ttar inl\u00e4rning och bel\u00f6ning under hundtr\u00e4ning"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "nimishundskola.se": {
+        "Bel\u00f6ningsbaserad hundtr\u00e4ning": {
+            "call_to_action": "Kontakta oss",
+            "usecases": [
+                "Hundkurser",
+                "Onlineutmaningar",
+                "Prisrosetter",
+                "Hundprodukter"
+            ],
+            "solutions": "Bel\u00f6ningsbaserad hundtr\u00e4ning med fokus p\u00e5 hund och \u00e4gare utformat p\u00e5 ett proffsigt, pedagogiskt och positivt s\u00e4tt. Erbjuder hundkurser, onlineutmaningar, prisrosetter och hundprodukter. Brinner f\u00f6r kreativ hundtr\u00e4ning och f\u00f6respr\u00e5kar 'Ta det du har d\u00e4r du \u00e4r just nu'.",
+            "key_features": [
+                "Hundkurser fr\u00e4mst inom tricktr\u00e4ning, rallylydnad och vardagsaktivering",
+                "Onlineutmaningar som passar olika typer av hundar och uppmuntrar till aktivitet",
+                "Prisrosetter av \u00e4kta hantverk fr\u00e5n S\u00f6rmland",
+                "Fokus p\u00e5 att skapa en fantastisk relation mellan hund och \u00e4gare genom positiv f\u00f6rst\u00e4rkning"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Privat tr\u00e4nig \u2013 2 veckor": {
+                    "price": "SEK 360.00",
+                    "taxRate": "25.00%",
+                    "finalPriceInclTax": "SEK 450.00"
+                }
+            }
+        }
+    },
+    "klickerforlaget.se": {
+        "product_name": "Valptr\u00e4ning till vardag och fest \u2013 bel\u00f6ningsbaserad f\u00e5gelhundstr\u00e4ning",
+        "author": "Elsa Blomster & Lena Gunnarsson",
+        "average_rating": 4.82,
+        "price": 340,
+        "availability": "I lager",
+        "description": "Valptr\u00e4ning till vardag och fest \u2013 bel\u00f6ningsbaserad f\u00e5gelhundstr\u00e4ning is a book aimed at bird dog puppy training, providing tips and exercises for creating good routines and training methods that bring joy for both the owner and the puppy. The book includes videos demonstrating the exercises and is authored by experienced dog trainers Elsa Blomster and Lena Gunnarsson.",
+        "key_features": [
+            "Bel\u00f6ningsbaserad tr\u00e4ning",
+            "Fokus p\u00e5 jakttr\u00e4ning",
+            "Inkluderar videos p\u00e5 \u00f6vningar",
+            "Skapar goda rutiner f\u00f6r valptr\u00e4ning"
+        ],
+        "call_to_action": "L\u00e4gg i varukorg",
+        "usecases": [
+            "Training bird dog puppies",
+            "Creating good routines for puppy training",
+            "Learning positive and joyful training methods"
+        ],
+        "solutions": [
+            "Provides detailed exercises and tips for bird dog puppy training",
+            "Includes videos for visual demonstration of training exercises",
+            "Promotes positive and joyful training methods"
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Kurser": [
+                    {
+                        "name": "Fr\u00e5n kastad leksak till apporterad f\u00e5gel - retrieverkurs med jaktdag",
+                        "price": "14900 kr"
+                    },
+                    {
+                        "name": "Efterfesten - kluriga apporteringsuppl\u00e4gg och roliga analyser - IRL",
+                        "price": "3000 kr"
+                    },
+                    {
+                        "name": "Onlinekurs: Boosta din jaktfot p\u00e5 30 dagar - med \u00e5terkoppling",
+                        "price": "750 kr - 1500 kr"
+                    },
+                    {
+                        "name": "Fr\u00e5n kastad k\u00f6ttbulle till uppflog p\u00e5 fasan - spanielkurs f\u00f6r unghunden",
+                        "price": "14500 kr"
+                    }
+                ]
+            },
+            "businessModel": "The business appears to offer a range of dog training courses and materials, with varying prices per course. They also provide options for online courses and have a selection of instructors available."
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Optimized Sleep Headphones Features",
+    "intro": "This list represents an analysis of sleep headphones features from 11 companies. A total of 4 features were gathered and optimized for relevance and informativeness.",
+    "features": {
+        "Comfort": {
+            "title": "Comfort",
+            "features": [
+                "Designed for side sleepers (1)"
+            ]
+        },
+        "Audio": {
+            "title": "Audio",
+            "features": [
+                "Thin, padded removable speakers for various audio (1)"
+            ]
+        },
+        "Versatility": {
+            "title": "Versatility",
+            "features": [
+                "Corded and wireless versions for different preferences (1)"
+            ]
+        },
+        "Customization": {
+            "title": "Customization",
+            "features": [
+                "Wide variety of colors and fabrics for personalization (1)"
+            ]
+        }
+    }
+}

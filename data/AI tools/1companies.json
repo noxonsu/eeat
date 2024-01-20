@@ -1,0 +1,199 @@
+{
+    "cloud.google.com": {
+        "url": "https://cloud.google.com/use-cases/free-ai-tools",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://cloud.google.com/pricing",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "clickup.com": {
+        "url": "https://clickup.com/blog/ai-tools/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://clickup.com/pricing",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "www.synthesia.io": {
+        "url": "https://www.synthesia.io/post/ai-tools",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.synthesia.io/pricing",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "zapier.com": {
+        "url": "https://zapier.com/apps/categories/ai-tools",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://zapier.com/pricing",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "www.forbes.com": {
+        "url": "https://www.forbes.com/sites/bernardmarr/2023/02/28/beyond-chatgpt-14-mind-blowing-ai-tools-everyone-should-be-trying-out-now/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "ai.google": {
+        "url": "https://ai.google/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://ai.google/tools/cloud-tpus/",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "builtin.com": {
+        "url": "https://builtin.com/artificial-intelligence/ai-tools",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "niftypm.com": {
+        "url": "https://niftypm.com/blog/ai-tools/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://niftypm.com/pricing/",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "www.cnbc.com": {
+        "url": "https://www.cnbc.com/2024/01/16/amazon-launches-generative-ai-tool-to-answer-shoppers-questions.html",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.cnbc.com/2023/11/06/openai-announces-more-powerful-gpt-4-turbo-and-cuts-prices.html",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "blog.hootsuite.com": {
+        "url": "https://blog.hootsuite.com/ai-marketing-tools/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "openai.com": {
+        "url": "https://openai.com/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://openai.com/pricing",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "www.futuretools.io": {
+        "url": "https://www.futuretools.io/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.futuretools.io/tools/bearlyai",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "www.futurepedia.io": {
+        "url": "https://www.futurepedia.io/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.futurepedia.io/tool/unreal-speech",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "bard.google.com": {
+        "url": "https://bard.google.com/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.youtube.com": {
+        "url": "https://www.youtube.com/watch?v=qB4HGMvrhwE",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "research.utk.edu": {
+        "url": "https://research.utk.edu/research-integrity/artificial-intelligence-ai-tools/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "intellipaat.com": {
+        "url": "https://intellipaat.com/blog/top-artificial-intelligence-tools/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://intellipaat.com/blog/aws-datasync/",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "runwayml.com": {
+        "url": "https://runwayml.com/ai-magic-tools/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://runwayml.com/pricing/",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "www.aitoolsclub.com": {
+        "url": "https://www.aitoolsclub.com/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.aitoolsclub.com/meet-ahaapple-an-ai-tool-that-uses-brainstorming-techniques-to-bring-innovative-ideas-and-inspiration/",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "www.insidr.ai": {
+        "url": "https://www.insidr.ai/ai-tools/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.insidr.ai/how-to-price-ai-automation-agency-services-beginners-guide/",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "improvado.io": {
+        "url": "https://improvado.io/blog/best-ai-marketing-tools",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://improvado.io/pricing",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "www.unite.ai": {
+        "url": "https://www.unite.ai/best-ai-tools-for-business/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.thoughtspot.com": {
+        "url": "https://www.thoughtspot.com/data-trends/ai/best-ai-tools-for-business",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.thoughtspot.com/pricing",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "huit.harvard.edu": {
+        "url": "https://huit.harvard.edu/ai/tools",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.nyu.edu": {
+        "url": "https://www.nyu.edu/life/information-technology/artificial-intelligence-at-nyu/public-generative-ai-tools.html",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.edureka.co": {
+        "url": "https://www.edureka.co/blog/top-12-artificial-intelligence-tools/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "findmyaitool.com": {
+        "url": "https://findmyaitool.com/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://findmyaitool.com/tool/postwise",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "oecd.ai": {
+        "url": "https://oecd.ai/en/catalogue/tools",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://oecd.ai/en/catalogue/tools/unsupervised-learning-for-anomaly-detection-in-options-pricing",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "www.iu.org": {
+        "url": "https://www.iu.org/blog/ai-and-education/best-ai-tools-for-students/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.turing.com": {
+        "url": "https://www.turing.com/resources/generative-ai-tools",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.turing.com/services/blog/ai-pricing-platform",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "www.podium.com": {
+        "url": "https://www.podium.com/article/ai-tools-for-business/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.podium.com/pricing/",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "www.renesas.com": {
+        "url": "https://www.renesas.com/us/en/products/microcontrollers-microprocessors/reality-ai/reality-ai-tools",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "bootcamp.uxdesign.cc": {
+        "url": "https://bootcamp.uxdesign.cc/the-ultimate-list-top-100-ai-tools-in-2023-65c5ea1ccbd9",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.zdnet.com": {
+        "url": "https://www.zdnet.com/article/my-5-favorite-ai-tools-for-work/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.zdnet.com/article/cloud-computing-pricing-beware-the-bill-shock/",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    },
+    "aitoolsdirectory.com": {
+        "url": "https://aitoolsdirectory.com/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://link.aitoolsdirectory.com/merlin",
+        "5prompt_Hash": "2d392403415d242cc0903daed181c33d"
+    }
+}

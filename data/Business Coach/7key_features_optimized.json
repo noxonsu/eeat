@@ -1,0 +1,36 @@
+{
+    "title": "Optimized Business Coach Features",
+    "intro": "This list represents the optimized features of business coaches gathered from analyzing 11 companies. A total of 5 features were gathered and optimized.",
+    "features": {
+        "Personalized Coaching": {
+            "title": "Coaching",
+            "features": [
+                "Tailored to unique business needs (1)"
+            ]
+        },
+        "Expertise": {
+            "title": "Expertise",
+            "features": [
+                "Experienced business coaches with entrepreneurial expertise (1)"
+            ]
+        },
+        "Strategy Development": {
+            "title": "Strategy",
+            "features": [
+                "Goal setting and strategy development (1)"
+            ]
+        },
+        "Guidance": {
+            "title": "Guidance",
+            "features": [
+                "Overcoming business challenges (1)"
+            ]
+        },
+        "Productivity Improvement": {
+            "title": "Productivity",
+            "features": [
+                "Improved productivity and job satisfaction (1)"
+            ]
+        }
+    }
+}

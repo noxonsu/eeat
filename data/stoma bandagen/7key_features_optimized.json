@@ -1,0 +1,52 @@
+{
+    "title": "Optimized Stoma Bandage Features",
+    "intro": "This list represents the optimized features of stoma bandages. A total of 10 companies were analyzed, and 14 features were gathered.",
+    "features": {
+        "One-piece Design": 1,
+        "Super Soft Fabric": 1,
+        "Concealing Inner Pocket": 1,
+        "Suitable for Various Stoma Types": 1,
+        "Material": {
+            "title": "Material",
+            "features": [
+                "Unelastischer Veloursverbundstoff",
+                "Elastischer Einsatz im R\u00fcckenteil"
+            ]
+        },
+        "Support": {
+            "title": "Support",
+            "features": [
+                "Two Support Bars",
+                "Closure: Reinforcing plastic plate with Velcro closure"
+            ]
+        },
+        "Height": {
+            "title": "Height",
+            "features": [
+                "15 cm",
+                "22 cm"
+            ]
+        },
+        "Color": {
+            "title": "Color",
+            "features": [
+                "White"
+            ]
+        },
+        "Additional Features": {
+            "title": "Additional Features",
+            "features": [
+                "Variable Stoma Opening adjustable with Velcro closure",
+                "Large skin-friendly pad around the stoma area",
+                "Easy positioning of the stoma opening with Velcro closures on the right and left in the abdominal area",
+                "Washable at 60\u00b0C"
+            ]
+        },
+        "Accessories": {
+            "title": "Accessories",
+            "features": [
+                "REF 104099 | BORT Stoma Protector"
+            ]
+        }
+    }
+}

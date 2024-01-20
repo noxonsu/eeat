@@ -1,0 +1,52 @@
+{
+    "cloud.google.com": {
+        "url": "https://cloud.google.com/learn/what-is-cloud-hosting",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://cloud.google.com/ai-platform/pricing",
+        "5prompt_Hash": "49859dff7dcf81691376505a53f974a8"
+    },
+    "www.hostinger.com": {
+        "url": "https://www.hostinger.com/cloud-hosting",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.hostinger.com/ai-website-builder",
+        "5prompt_Hash": "49859dff7dcf81691376505a53f974a8"
+    },
+    "www.techtarget.com": {
+        "url": "https://www.techtarget.com/searchstorage/definition/cloud-hosting",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.cloudways.com": {
+        "url": "https://www.cloudways.com/en/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.cloudways.com/en/pricing.php",
+        "5prompt_Hash": "49859dff7dcf81691376505a53f974a8"
+    },
+    "www.pcmag.com": {
+        "url": "https://www.pcmag.com/picks/the-best-cloud-web-hosting-services",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.pcmag.com/news/not-cheap-paid-version-of-chatgpt-costs-42-per-month",
+        "5prompt_Hash": "49859dff7dcf81691376505a53f974a8"
+    },
+    "www.digitalocean.com": {
+        "url": "https://www.digitalocean.com/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.digitalocean.com/pricing",
+        "5prompt_Hash": "49859dff7dcf81691376505a53f974a8"
+    },
+    "www.forbes.com": {
+        "url": "https://www.forbes.com/advisor/business/software/best-cloud-hosting/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "aws.amazon.com": {
+        "url": "https://aws.amazon.com/what-is/cloud-hosting/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://aws.amazon.com/augmented-ai/pricing/"
+    },
+    "www.businessnewsdaily.com": {
+        "url": "https://www.businessnewsdaily.com/5030-what-is-cloud-hosting.html",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    }
+}
