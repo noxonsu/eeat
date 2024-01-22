@@ -1,0 +1,3369 @@
+{
+    "apps.apple.com": {
+        "Goal Achievement App": {
+            "Strides: Goal & Habit Tracker": {
+                "call_to_action": "Download today to get organized and create the perfect routine with Strides.",
+                "usecases": "Track good or bad habits, SMART goals, and more. Keep up with reminders to hold you accountable and charts to keep you motivated. Explore new ways to manage your life with over 150 templates and the ability to create your own trackers.",
+                "solutions": "Organize daily checklist, progress reports, reminders, and notes. Track habits and goals with various types of trackers. Integration with Apple Health and sync between iPhone, iPad & Mac.",
+                "key_features": [
+                    "150+ templates to choose from, or create your own customized tracker",
+                    "Progress Reports with everything in one place",
+                    "View charts with history, streak, success rate and more",
+                    "Unlimited reminders to set yourself up for success",
+                    "Integration with Apple Health",
+                    "Sync between iPhone, iPad & Mac",
+                    "Add notes to logs and trackers",
+                    "Reminders to keep you on track"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "reclaim.ai": {
+        "goal_tracker_apps": [
+            {
+                "name": "ClickUp",
+                "key_features": [
+                    "Goal-setting",
+                    "Habit-tracking",
+                    "Tasks",
+                    "Prioritization",
+                    "Time-blocking",
+                    "Time-tracking",
+                    "Analytics & reporting",
+                    "Reminders",
+                    "Templates",
+                    "Visual progress",
+                    "Calendar view",
+                    "Collaboration",
+                    "Note-taking",
+                    "Integrations",
+                    "Syncs across devices"
+                ],
+                "limitations": [
+                    "Steep learning curve for some users",
+                    "Designed for complex project management",
+                    "Limitations in time-blocking feature"
+                ],
+                "pricing": "Free \u2192 paid plans start at $7/month"
+            },
+            {
+                "name": "Reclaim.ai",
+                "key_features": [
+                    "Goal tracking",
+                    "Habit-tracking",
+                    "Tasks",
+                    "Prioritization",
+                    "Time-blocking",
+                    "Time-tracking",
+                    "Analytics & reporting",
+                    "Reminders",
+                    "Templates",
+                    "Calendar view",
+                    "Collaboration",
+                    "Integrations"
+                ],
+                "limitations": [
+                    "Currently only supports Google Calendar (Outlook coming soon)"
+                ],
+                "pricing": "Free \u2192 paid plans start at $8/month"
+            },
+            {
+                "name": "Todoist",
+                "key_features": [
+                    "Goal-setting",
+                    "Habit-tracking",
+                    "Tasks",
+                    "Prioritization",
+                    "Reminders",
+                    "Templates",
+                    "Visual progress",
+                    "Collaboration",
+                    "Note-taking",
+                    "Integrations",
+                    "Syncs across devices"
+                ],
+                "limitations": [
+                    "No time-blocking features",
+                    "Limited detailed analytics and stats",
+                    "No native calendar view",
+                    "No native notetaking features"
+                ],
+                "pricing": "Free \u2192 paid plans start at $4/month"
+            },
+            {
+                "name": "TickTick",
+                "key_features": [
+                    "Goal-setting",
+                    "Habit-tracking",
+                    "Tasks",
+                    "Prioritization",
+                    "Analytics & reporting",
+                    "Reminders",
+                    "Templates",
+                    "Visual progress",
+                    "Calendar view",
+                    "Collaboration",
+                    "Integrations",
+                    "Syncs across devices"
+                ],
+                "limitations": [
+                    "No time-tracking or time-blocking features",
+                    "Most features locked behind premium plans"
+                ],
+                "pricing": "Free \u2192 $3.99/month"
+            },
+            {
+                "name": "Way of Life",
+                "key_features": [
+                    "Goal-setting",
+                    "Habit-tracking",
+                    "Analytics & reporting",
+                    "Reminders",
+                    "Visual progress",
+                    "Note-taking"
+                ],
+                "limitations": [
+                    "Interface may be unintuitive",
+                    "Highly focused on habits",
+                    "Lacks time tracking and time blocking features",
+                    "No pre-designed templates for common habits",
+                    "No collaboration features",
+                    "Only available as a mobile app",
+                    "No integrations with third-party apps"
+                ],
+                "pricing": "Free \u2192 $4.99/month"
+            },
+            {
+                "name": "aTracker",
+                "key_features": [
+                    "Goal-setting",
+                    "Habit-tracking",
+                    "Tasks",
+                    "Prioritization",
+                    "Time blocking",
+                    "Time-tracking",
+                    "Analytics & reporting",
+                    "Visual progress",
+                    "Calendar view",
+                    "Note-taking",
+                    "Syncs across devices"
+                ],
+                "limitations": [
+                    "Heavily reliant on manual inputs",
+                    "No pre-designed templates for common habits or tasks",
+                    "No collaboration features",
+                    "Does not integrate with third-party apps or tools",
+                    "Time blocking features are limited"
+                ],
+                "pricing": "Free \u2192 $2.99/month"
+            },
+            {
+                "name": "Strides",
+                "key_features": [
+                    "Goal-setting",
+                    "Habit-tracking",
+                    "Analytics & reporting",
+                    "Reminders",
+                    "Visual progress",
+                    "Calendar view",
+                    "Syncs across devices"
+                ],
+                "limitations": [
+                    "Only available on Apple devices",
+                    "Focused primarily on habit tracking",
+                    "No time blocking or time tracking features",
+                    "No pre-designed templates for common habits",
+                    "No collaboration features",
+                    "No integrations with third-party apps or tools"
+                ],
+                "pricing": "Free \u2192 $4.99/month"
+            },
+            {
+                "name": "Coach.me",
+                "key_features": [
+                    "Goal-setting",
+                    "Habit-tracking",
+                    "Analytics & reporting",
+                    "Reminders",
+                    "Templates",
+                    "Visual progress",
+                    "Collaboration",
+                    "Certified coaches"
+                ],
+                "limitations": [
+                    "Highly focused on paid coaching features",
+                    "No time-tracking or time-blocking features",
+                    "No task management features",
+                    "No calendar view",
+                    "No note-taking or journal features"
+                ],
+                "pricing": "Free \u2192 $25+/week for coaching"
+            },
+            {
+                "name": "Habitica",
+                "key_features": [
+                    "Habit-tracking",
+                    "Tasks",
+                    "Reminders",
+                    "Collaboration",
+                    "Gamification",
+                    "Integrations",
+                    "Syncs across devices"
+                ],
+                "limitations": [
+                    "Gamification features may deter serious goal-tracking",
+                    "Lacks explicit goal-tracking features",
+                    "No visual progress, statistics, analytics, or reporting features",
+                    "Restricted to list view with no calendar views",
+                    "No pre-designed templates for common tasks or habits",
+                    "No way to prioritize tasks beyond manual sorting",
+                    "No time blocking or time tracking features",
+                    "No native note-taking or journal features"
+                ],
+                "pricing": "Free \u2192 $9/month +$3 per member for teams"
+            },
+            {
+                "name": "LifeRPG",
+                "key_features": [
+                    "Habit-tracking",
+                    "Tasks",
+                    "Prioritization",
+                    "Analytics & reporting",
+                    "Visual progress",
+                    "Gamification",
+                    "Note-taking"
+                ],
+                "limitations": [
+                    "Overly reliant on manual input",
+                    "No explicit goal-setting features",
+                    "No time blocking or time tracking features",
+                    "No pre-designed templates for common tasks or habits",
+                    "No calendar view",
+                    "No collaboration features",
+                    "No integrations with third-party apps or tools",
+                    "Only available as a mobile app"
+                ],
+                "pricing": "Free"
+            },
+            {
+                "name": "Toodledo",
+                "key_features": [
+                    "Goal-setting",
+                    "Habit-tracking",
+                    "Tasks",
+                    "Prioritization",
+                    "Time-blocking",
+                    "Time-tracking",
+                    "Analytics & reporting",
+                    "Reminders",
+                    "Templates",
+                    "Calendar view",
+                    "Collaboration",
+                    "Note-taking",
+                    "Integrations",
+                    "Syncs across devices"
+                ],
+                "limitations": [
+                    "UI is relatively dated",
+                    "Limited ways to visually track progress",
+                    "Time blocking features are limited"
+                ],
+                "pricing": "Free \u2192 $5.99/month"
+            },
+            {
+                "name": "GoalsonTrack",
+                "key_features": [
+                    "Goal-setting",
+                    "Habit-tracking",
+                    "Tasks",
+                    "Time-tracking",
+                    "Analytics & reporting",
+                    "Templates",
+                    "Visual progress",
+                    "Calendar view",
+                    "Collaboration",
+                    "Note-taking"
+                ],
+                "limitations": [
+                    "UI is very dated",
+                    "Overly reliant on manual input",
+                    "No time-blocking features",
+                    "No integrations with third-party apps or tools"
+                ],
+                "pricing": "$5/month"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Lite": {
+                    "price": "Free per user/month",
+                    "description": "To start getting your calendar under control."
+                },
+                "Starter": {
+                    "price": "$8 per user/month",
+                    "description": "For busy teams who need to optimize meetings & get more focus time on the calendar."
+                },
+                "Business": {
+                    "price": "$12 per user/month",
+                    "description": "For companies who are prioritizing productivity & work-life balance for employees."
+                },
+                "Enterprise": {
+                    "price": "$18 per user/month",
+                    "description": "For organizations who need enterprise-grade support & security."
+                }
+            }
+        }
+    },
+    "blog.superhuman.com": {
+        "goal_achievement_apps": {
+            "Superhuman": {
+                "call_to_action": "Get Superhuman for Email",
+                "usecases": [
+                    "Goal tracking and measuring",
+                    "Habit building",
+                    "Task management",
+                    "Email productivity"
+                ],
+                "solutions": "Superhuman Mail - Keyboard shortcuts, AI triage, Reminders, Scheduled sends, Beautiful design",
+                "key_features": [
+                    "Keyboard shortcuts",
+                    "AI triage",
+                    "Reminders",
+                    "Scheduled sends",
+                    "Beautiful design"
+                ]
+            },
+            "Strides": {
+                "call_to_action": "Available for iPhone or desktop iOS users",
+                "usecases": [
+                    "Comprehensive goal-setting",
+                    "Measuring progress over time",
+                    "Daily habit reminders",
+                    "Regular progress reports"
+                ],
+                "solutions": "Daily habit reminders, Regular progress reports, Dashboard with progress charts and graphs",
+                "key_features": [
+                    "Daily habit reminders",
+                    "Regular progress reports",
+                    "Dashboard with progress charts and graphs"
+                ]
+            },
+            "Way of Life": {
+                "call_to_action": "Available for both Android and iOS",
+                "usecases": [
+                    "Visual goal tracking",
+                    "Reinforcing good habits",
+                    "Banishing bad habits",
+                    "Daily reminders"
+                ],
+                "solutions": "Daily reminders, Bar charts, Pie graphs, Trendlines for statistical measures of progress",
+                "key_features": [
+                    "Daily reminders",
+                    "Bar charts",
+                    "Pie graphs",
+                    "Trendlines for statistical measures of progress"
+                ]
+            },
+            "GoalsOnTrack": {
+                "call_to_action": "Available for iOS",
+                "usecases": [
+                    "Breaking down goals into actionable subgoals",
+                    "Fitting within the SMART Goals framework"
+                ],
+                "solutions": "Breaking down goals into actionable subgoals, Fitting within the SMART Goals framework",
+                "key_features": [
+                    "Breaking down goals into actionable subgoals",
+                    "Fitting within the SMART Goals framework"
+                ]
+            },
+            "Habitica": {
+                "call_to_action": "Available on Android and iOS",
+                "usecases": [
+                    "Turning personal goals into a game",
+                    "Social aspects and rewards for building new habits"
+                ],
+                "solutions": "Turning personal goals into a game, Social aspects and rewards for building new habits",
+                "key_features": [
+                    "Turning personal goals into a game",
+                    "Social aspects and rewards for building new habits"
+                ]
+            },
+            "Coach.me": {
+                "call_to_action": "Available on Android and iOS",
+                "usecases": [
+                    "Leading habit tracking app",
+                    "Social aspect for challenges and networking",
+                    "Option to hire a personal coach"
+                ],
+                "solutions": "Social aspect for challenges and networking, Option to hire a personal coach",
+                "key_features": [
+                    "Social aspect for challenges and networking",
+                    "Option to hire a personal coach"
+                ]
+            },
+            "ATracker": {
+                "call_to_action": "Available on Android and iOS",
+                "usecases": [
+                    "Easy habit tracker for daily goals",
+                    "Insights about time spent on habits"
+                ],
+                "solutions": "Easy habit tracker for daily goals, Insights about time spent on habits",
+                "key_features": [
+                    "Easy habit tracker for daily goals",
+                    "Insights about time spent on habits"
+                ]
+            },
+            "Toodledo": {
+                "call_to_action": "Available on Android and iOS",
+                "usecases": [
+                    "Task manager for reaching goals",
+                    "Creating due dates and reminders",
+                    "Custom notifications"
+                ],
+                "solutions": "Creating due dates and reminders, Custom notifications",
+                "key_features": [
+                    "Creating due dates and reminders",
+                    "Custom notifications"
+                ]
+            },
+            "ClickUp": {
+                "call_to_action": "Available for Android and iOS",
+                "usecases": [
+                    "Customizable goal setting",
+                    "Tracking progress toward targets",
+                    "Automatically generating scorecards"
+                ],
+                "solutions": "Customizable goal setting, Tracking progress toward targets, Automatically generating scorecards",
+                "key_features": [
+                    "Customizable goal setting",
+                    "Tracking progress toward targets",
+                    "Automatically generating scorecards"
+                ]
+            },
+            "ToDoist": {
+                "call_to_action": "Available for Android and iOS",
+                "usecases": [
+                    "Flexible task management",
+                    "Organizing different goals as separate widgets",
+                    "Collaboration and note-taking"
+                ],
+                "solutions": "Flexible task management, Organizing different goals as separate widgets, Collaboration and note-taking",
+                "key_features": [
+                    "Flexible task management",
+                    "Organizing different goals as separate widgets",
+                    "Collaboration and note-taking"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.lifewire.com": {
+        "goal_tracker_apps": [
+            {
+                "name": "Strides",
+                "what_we_like": "Completely flexible interface with four unique tracker types. Handy dashboard to see everything at a glance.",
+                "what_we_dont_like": "A bit overwhelming for beginners. Not available for Android. May not be ideal for those seeking a simple app.",
+                "description": "Strides is one of the most powerful and easy-to-use goal settings apps out there. You can set up reminders so that you never forget to maintain daily habits that lead to bigger achievements. Simply choose a goal (or use a suggested one given by the app), set a target by inputting a goal value or a certain date, and then specify the action you need to do to turn it into a habit. The Strides app lets you track by day, week, month, year, or on a rolling average. Your data is synced to your account, so you always see your latest stats, whether you access it from the web, a mobile device, or anywhere else.",
+                "download_for": "iOS"
+            },
+            {
+                "name": "Coach.me",
+                "what_we_like": "Simple and easy to use. Hire a real coach for an affordable price.",
+                "what_we_dont_like": "Lack of community engagement and activity. Not necessarily ideal for fitness coaches.",
+                "description": "Coach.me claims to be the leading habit tracking app. It offers personalized coaching and leadership coaching as part of its services, in addition to its free mobile app. The user interface is slick and beautiful to use. Simply select a goal, track your progress, earn rewards for sticking with it, and take advantage of the community aspect by getting involved and asking questions. If you end up loving it, you can hire a real coach for as little as $15.",
+                "download_for": "iOS, Android"
+            },
+            {
+                "name": "Way of Life",
+                "what_we_like": "Track both good habits and bad habits. Simple and intuitive interface.",
+                "what_we_dont_like": "Upgrade to a premium app to track more than three habits. Tracking unlimited habits may cause you to set unattainable goals.",
+                "description": "If you love to look at charts and graphs of your progress, you'll love Way of Life. Pick a goal action and tell the app whether the action is good or bad for you. You get daily reminders to input what you did or didn't do toward reaching your goals. Over time, there's enough data to show you chains, bar charts with trend lines, pie charts, and all sorts of other nifty details.",
+                "download_for": "iOS, Android"
+            },
+            {
+                "name": "ATracker",
+                "what_we_like": "Start and stop tracking tasks with a single tap. Great customization with themes and colors.",
+                "what_we_dont_like": "Restricts the number of tasks in the free version. The premium version for iOS is almost twice the cost of the premium version for Android.",
+                "description": "ATracker offers more insights into how you spend your time. For repetitive routines like getting ready in the morning, commuting, answering emails, studying, watching TV, spending time online, and other routine tasks, it can help you manage it all so that you don't go overboard on the wrong things. Once you start tracking your time for your daily habits, you'll see a nice breakdown of it in a pie chart. You can also get a bigger picture look by looking at your breakdown over the past week, past month, or other preset range.",
+                "download_for": "iOS, Android"
+            },
+            {
+                "name": "Habitica",
+                "what_we_like": "Fight monsters and go on quests. A progression and reward system for completing goals.",
+                "what_we_dont_like": "Some bugs. Pricey monthly subscription.",
+                "description": "If you're a fan of video games and want to set real-world goals, you might enjoy Habitica. It's a goal-setting app that seeks to gamify your life. It offers in-game rewards and punishments as a form of motivation, along with a social network for inspiration and support. As you check off tasks, you level up your avatar and earn things like battle armor, pets, magic skills, and more. Then, battle monsters with other Habiticans and use the gold you earn to buy more rewards, like watching an episode of your favorite TV show.",
+                "download_for": "iOS, Android"
+            },
+            {
+                "name": "Toodledo",
+                "what_we_like": "A variety of organizational features. Audible pop-up alarms. Syncing between devices. Customizable widgets.",
+                "what_we_dont_like": "Some features reportedly not working properly in the Android version.",
+                "description": "Toodledo is an app with flexibility. It offers to-do lists, the ability to write long notes, make custom lists, create structured outlines, track your habits, and more. You can collaborate with friends, family, and co-workers. You can also sync everything in the cloud. The app offers a variety of organizational options, like folders, tags, a hotlist, and search filters. You can also ignore all the bells and whistles and keep things simple.",
+                "download_for": "iOS, Android"
+            },
+            {
+                "name": "Lifetick",
+                "what_we_like": "Journaling. Progress charts. Intuitive software.",
+                "what_we_dont_like": "No mobile apps.",
+                "description": "Lifetick promises an intuitive process that makes setting goals simple. Establish your core values in life, then achieve your goals using the S.M.A.R.T. method. You can write in a journal, track various aspects of your life, chart your progress, and more. Unlike other entries on this list, Lifetick doesn't have mobile apps; it's only available through a web browser. Lifetick offers three subscription plans: Free, Individual ($5/month), and Team ($10/month).",
+                "download_for": "Web"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Error",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "play.google.com": {
+        "goal_achievement_apps": {
+            "Dreamfora": {
+                "call_to_action": "Download Dreamfora today for smarter planning and start your AI-powered journey to success",
+                "usecases": [
+                    "AI-Powered Dream Planner",
+                    "Enhance Your Journey with Productivity and Joy",
+                    "Join a Thriving Community of Over 1.7 Million Dreamfora Users",
+                    "Discover Daily Motivation and Inspiration to Fuel Your Journey"
+                ],
+                "solutions": "Unleash the power of AI to transform dreams into reality with achievable habits and tasks.",
+                "key_features": [
+                    "AI-Powered Dream Planner",
+                    "Personalized pathways to objectives",
+                    "Progress-tracking system",
+                    "Visually appealing interface",
+                    "Community engagement",
+                    "Daily motivation and inspiration"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Error: Timeout 30000ms exceeded."
+        }
+    },
+    "www.lifehack.org": {
+        "goal_tracker_apps": [
+            {
+                "name": "The Time Flow System App",
+                "call_to_action": "Try the Time Flow System App",
+                "usecases": [
+                    "Setting optimal North Stars and milestones",
+                    "Tracking initiatives and focus blocks",
+                    "Aligning tasks with overarching objectives"
+                ],
+                "solutions": "Efficiently steering users towards their ambitions with the help of an AI copilot",
+                "key_features": [
+                    "North Stars for setting grand milestones",
+                    "Initiatives for actionable strategies",
+                    "Focus Blocks for specific time blocks",
+                    "AI assistance for task alignment",
+                    "Efficient time allocation for tangible progress"
+                ]
+            },
+            {
+                "name": "Strides",
+                "call_to_action": "Try Strides for a full view of your goals",
+                "usecases": [
+                    "Tracking habits, milestones, and projects",
+                    "Setting incremental milestones with the Target tracker"
+                ],
+                "solutions": "Eliminating guesswork and providing clear progress visualization",
+                "key_features": [
+                    "Variety of trackers for comprehensive goal tracking",
+                    "Target tracker for setting incremental milestones",
+                    "Charts for progress visualization"
+                ]
+            },
+            {
+                "name": "Way of Life",
+                "call_to_action": "Try Way of Life for habit-focused tracking",
+                "usecases": [
+                    "Focusing on daily habits and choices",
+                    "Categorizing actions as 'good' or 'bad' for goals"
+                ],
+                "solutions": "Promoting honesty and self-awareness through daily habit tracking",
+                "key_features": [
+                    "Daily habit tracking",
+                    "Custom tagging for in-depth analysis"
+                ]
+            },
+            {
+                "name": "Habitica",
+                "call_to_action": "Try Habitica to gamify your goals",
+                "usecases": [
+                    "Turning goals into 'quests' and bad habits into 'monsters'",
+                    "Engaging in social challenges for accountability"
+                ],
+                "solutions": "Gamifying goal achievement and fostering social accountability",
+                "key_features": [
+                    "Gamification of goals",
+                    "Social challenges for accountability"
+                ]
+            },
+            {
+                "name": "Coach.me",
+                "call_to_action": "Try Coach.me for personalized coaching",
+                "usecases": [
+                    "Tracking goals and receiving personalized coaching",
+                    "Engaging with a supportive community"
+                ],
+                "solutions": "Offering personalized coaching and fostering a supportive community",
+                "key_features": [
+                    "Personalized coaching",
+                    "Community support"
+                ]
+            },
+            {
+                "name": "ATracker",
+                "call_to_action": "Try ATracker for time management",
+                "usecases": [
+                    "Tracking time usage for goal alignment",
+                    "Reviewing time allocation for smarter choices"
+                ],
+                "solutions": "Providing insights into time usage for smarter goal-oriented decisions",
+                "key_features": [
+                    "Time usage tracking",
+                    "Daily summary for review"
+                ]
+            },
+            {
+                "name": "ClickUp",
+                "call_to_action": "Try ClickUp for all-in-one goal management",
+                "usecases": [
+                    "Visualizing goals in various formats",
+                    "Sequencing tasks with the Dependency feature"
+                ],
+                "solutions": "Offering diverse visualization options and task sequencing for goal management",
+                "key_features": [
+                    "Multiple views for goal visualization",
+                    "Dependency feature for task sequencing"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "crm.org": {
+        "goal_tracking_apps": {
+            "Way of Life": {
+                "best_for": "Best overall",
+                "pricing": "Free plan; $9.99 one-time purchase",
+                "website": "Visit site",
+                "pros": [
+                    "Simple and intuitive interface",
+                    "Rich with features",
+                    "Different themes to choose from",
+                    "Note-taking functionality",
+                    "Customizable habit categories",
+                    "Interactive walk-through",
+                    "Offers charts and graphs of your progress"
+                ],
+                "cons": [
+                    "The free plan lets you track up to three goals",
+                    "No option to track OKRs"
+                ]
+            },
+            "Habitica": {
+                "best_for": "Gamification",
+                "pricing": "Free",
+                "website": "Visit site",
+                "pros": [
+                    "Free to use",
+                    "Great for people who love games",
+                    "Task completion rewards",
+                    "Active community"
+                ],
+                "cons": [
+                    "Steep learning curve",
+                    "No desktop apps, only mobile apps"
+                ]
+            },
+            "Coach.me": {
+                "best_for": "Access to personal coaches",
+                "pricing": "Free plan; $25/week for personal coaching",
+                "website": "Visit site",
+                "pros": [
+                    "Comes with a free plan",
+                    "Simple and intuitive to use",
+                    "You can hire a personal coach",
+                    "Community support",
+                    "A good deal of unique features"
+                ],
+                "cons": [
+                    "Can be buggy at times",
+                    "Personal coaching is pricey"
+                ]
+            },
+            "aTracker": {
+                "best_for": "Daily goals",
+                "pricing": "Free plan; $2.99 /month",
+                "website": "Visit site",
+                "pros": [
+                    "Free option",
+                    "Comes with an affordable one-time cost",
+                    "Time-tracking functionality",
+                    "Fully customizable user interface",
+                    "Categorize tasks with tags",
+                    "Suitable for tracking personal, work, and school-related goals"
+                ],
+                "cons": [
+                    "The Android app is not as refined as the iOS"
+                ]
+            },
+            "ClickUp": {
+                "best_for": "Tracking business goals",
+                "pricing": "Free plan; $5/user/month",
+                "website": "Visit site",
+                "pros": [
+                    "Generous free version with unlimited users",
+                    "Easy-to-use interface",
+                    "Integrates with third-party software",
+                    "Fully customizable",
+                    "Comes with a time-tracking functionality"
+                ],
+                "cons": [
+                    "Not suitable for users who want to track small personal goals"
+                ]
+            },
+            "GoalsOnTrack": {
+                "best_for": "Tracking personal progress",
+                "pricing": "$67.99/year",
+                "website": "Visit site",
+                "pros": [
+                    "Set SMART goals",
+                    "Supports both personal and business goals",
+                    "Build detailed and organized action plans",
+                    "Set recurring tasks",
+                    "Automatically tracks your habit strength and daily execution",
+                    "Comes with great features, such as a built-in journal and vision board tool"
+                ],
+                "cons": [
+                    "No free plan"
+                ]
+            },
+            "Strides": {
+                "best_for": "Tracking life goals",
+                "pricing": "Free plan; $4.99/month or $79.99 one-time fee",
+                "website": "Visit site",
+                "pros": [
+                    "Simple and intuitive",
+                    "Track good and bad habits",
+                    "Daily, weekly, and monthly goals",
+                    "Apple Health integration for iPhone, syncs to Mac",
+                    "Progress reports",
+                    "Green/red pace line system to stay on track"
+                ],
+                "cons": [
+                    "Lacks an Android app",
+                    "It\u2019s geared toward individual use"
+                ]
+            },
+            "Habit \u2013 Daily Tracker": {
+                "best_for": "Best free",
+                "pricing": "Free",
+                "website": "Visit site",
+                "pros": [
+                    "Modern interface with color customization",
+                    "Completely free to use",
+                    "Track unlimited habits",
+                    "Dark mode",
+                    "Has more than 900,000 users",
+                    "Ad-free experience"
+                ],
+                "cons": [
+                    "Available only on iOS devices"
+                ]
+            },
+            "Apple Notes": {
+                "best_for": "macOS/iOS users",
+                "pricing": "Free",
+                "website": "Visit site",
+                "pros": [
+                    "Free to use",
+                    "Ad-free",
+                    "Simple and intuitive",
+                    "Great for personal use",
+                    "Add attachments - photos, maps, web links, documents, and more",
+                    "Secure sensitive or personal data in a locked note",
+                    "Use your finger or Apple Pencil on an iPad to sketch your note"
+                ],
+                "cons": [
+                    "Available only to Apple users"
+                ]
+            },
+            "GoalsWon": {
+                "best_for": "Android users",
+                "pricing": "$3.00/day or $90/month",
+                "website": "Visit site",
+                "pros": [
+                    "Personalized support",
+                    "Available on Android and iOS",
+                    "7 days a week service",
+                    "Free onboarding video call",
+                    "Dedicated GoalsWon coach"
+                ],
+                "cons": [
+                    "Expensive monthly plans"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "free": {
+                    "monthlyPrice": "/",
+                    "annualPrice": "/"
+                },
+                "premium": {
+                    "monthlyPrice": "$2.99",
+                    "annualPrice": "$19.99"
+                },
+                "nonProfitPricing": "Not found",
+                "couponCodes": "Not found"
+            }
+        }
+    },
+    "hive.com": {
+        "goal_tracking_apps": [
+            {
+                "name": "Hive",
+                "call_to_action": "Try Hive totally free for 14 days",
+                "use_cases": [
+                    "Project management",
+                    "Resource management",
+                    "Project planning",
+                    "Time tracking",
+                    "Cross-company collaboration",
+                    "Client engagement"
+                ],
+                "solutions": "Boost productivity and stay on track, collaborate on tasks, share updates in chats, take meeting notes, set goals, visualize progress, and keep everyone aligned in one centralized dashboard",
+                "key_features": [
+                    "Task management",
+                    "Timesheets, time-tracking, and workflow automation",
+                    "Over 1,000 integration options, including Jira, Gmail, Zoom, and Salesforce",
+                    "Collaborative note-taking",
+                    "Native chat and email integrations",
+                    "Detailed, real-time analytics",
+                    "Web and desktop apps"
+                ]
+            },
+            {
+                "name": "Todoist",
+                "call_to_action": "Download Here: iPhone & iPad, Android",
+                "use_cases": [],
+                "solutions": "Improve workflow by creating to-do lists, see single day or 'Next 7' days tasks, Gmail integration, and chrome extension",
+                "key_features": [
+                    "Granular task management",
+                    "Great integrations",
+                    "Easy task update and creation",
+                    "Available as a free version, or upgrade to Pro ($3) or Business ($5)"
+                ]
+            },
+            {
+                "name": "Coach.me",
+                "call_to_action": "Download Here: iPhone & iPad, Android",
+                "use_cases": [],
+                "solutions": "Helps build and encourage good habits, track progress with reminders and weekly reports, join the Coach.me community for support",
+                "key_features": [
+                    "Build and encourage good habits",
+                    "Uses a questionnaire to find goals",
+                    "Support community",
+                    "Available as a free download, or upgrade to $25 for coaching services"
+                ]
+            },
+            {
+                "name": "LifeRPG",
+                "call_to_action": "Download Here: Not available for iPhone or iPad, Android",
+                "use_cases": [],
+                "solutions": "Tracking app that approaches tasks as a game, uses a reward system to encourage task completion",
+                "key_features": [
+                    "Many icons or emojis to use with custom missions",
+                    "Uses a reward system to encourage task completion",
+                    "Fun, gamified approach to tracking personal goals"
+                ]
+            },
+            {
+                "name": "Strides",
+                "call_to_action": "Download Here: iPhone & iPad, Not available for Android",
+                "use_cases": [],
+                "solutions": "Powerful and easy-to-use goal-tracking app with integrated features, track progress at granular level, set reminders for daily habits, and set target goals by date",
+                "key_features": [
+                    "4 unique tracking screens to pick from",
+                    "Progress reports capture all tasks completed and in-progress",
+                    "Fully synced across all your IOS devices, including the Apple watch",
+                    "Free, but offers in-app purchases"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": [
+                {
+                    "name": "Free",
+                    "price": "$0/ free forever",
+                    "description": "Best for light project management."
+                },
+                {
+                    "name": "Starter",
+                    "price": "$5 / month per user",
+                    "description": "Entry-level plan for project management."
+                },
+                {
+                    "name": "Teams",
+                    "price": "$12/ month per user",
+                    "description": "Work with no limits and customize your project management experience."
+                },
+                {
+                    "name": "Enterprise",
+                    "price": "Get in touch",
+                    "description": "If you need more flexibility, extra support, and security."
+                }
+            ]
+        }
+    },
+    "hubstaff.com": {
+        "apps": [
+            {
+                "name": "Todoist",
+                "call_to_action": "Sign in, Contact sales, Try Hubstaff free",
+                "usecases": "Managing tasks and to-do lists, setting reminders, creating subtasks, integrating with other apps, organizing workflow, tracking productivity",
+                "solutions": "Task and project management, productivity tracking",
+                "key_features": [
+                    "To-do lists",
+                    "Task priority levels",
+                    "Reminders, deadlines, and recurring due dates",
+                    "Kanban boards",
+                    "Task delegation",
+                    "Productivity charts"
+                ]
+            },
+            {
+                "name": "Habitica",
+                "call_to_action": "Free for personal use, Group ($9 base fee + $3/member per month)",
+                "usecases": "Gamifying goals, creating tasks, habit tracking, RPG-inspired character customization, team challenges",
+                "solutions": "Goal gamification, habit building, team collaboration",
+                "key_features": [
+                    "To-do lists",
+                    "Recurring tasks",
+                    "Habit tracking",
+                    "RPG-inspired character customization",
+                    "Cooperative features"
+                ]
+            },
+            {
+                "name": "HabitShare",
+                "call_to_action": "Free to use",
+                "usecases": "Social goal-tracking, habit sharing, competition with friends, insights and analytics",
+                "solutions": "Social platform for habit tracking, habit sharing with friends",
+                "key_features": [
+                    "Habit tracking",
+                    "Reminders",
+                    "Social media features",
+                    "Privacy settings"
+                ]
+            },
+            {
+                "name": "Streaks",
+                "call_to_action": "One-time payment of $4.99",
+                "usecases": "Building healthy habits, incentivizing daily goals, Apple ecosystem integration",
+                "solutions": "Habit tracking, Apple Watch integration",
+                "key_features": [
+                    "Habit tracking for individual tasks",
+                    "Break days",
+                    "Reminders",
+                    "Task timer",
+                    "iOS Health app integration"
+                ]
+            },
+            {
+                "name": "Momentum",
+                "call_to_action": "Costs $10 per month",
+                "usecases": "Task and progress tracking, task management, realistic productivity",
+                "solutions": "Task and progress tracking, task management",
+                "key_features": [
+                    "Task and progress tracking",
+                    "Clean, simple interface",
+                    "Weekly and monthly views",
+                    "Print view for hard copies"
+                ]
+            },
+            {
+                "name": "Fabulous",
+                "call_to_action": "Fabulous Premium plan costs $39.99 every three months",
+                "usecases": "Self-care, lifestyle habit improvement, personalized coaching",
+                "solutions": "Self-care, lifestyle habit improvement, personalized coaching",
+                "key_features": [
+                    "To-do lists",
+                    "Habit coaching",
+                    "Community discussions",
+                    "Deep work timers"
+                ]
+            },
+            {
+                "name": "GoalsOnTrack",
+                "call_to_action": "Annual subscription that costs $68 per year",
+                "usecases": "Prioritizing and scheduling goals, SMART goal setting, progress monitoring",
+                "solutions": "Goal prioritization, SMART goal monitoring, journaling",
+                "key_features": [
+                    "To-do lists",
+                    "SMART goals and subtasks",
+                    "Time tracking",
+                    "Calendar view",
+                    "Goal journal",
+                    "Team goals and conversations"
+                ]
+            },
+            {
+                "name": "Way of Life",
+                "call_to_action": "Free version and a paid version that costs $4.99 per month",
+                "usecases": "Visualizing long-term habits, progress visualization, habit tagging",
+                "solutions": "Habit visualization, progress tracking, habit tagging",
+                "key_features": [
+                    "To-do lists",
+                    "Progress graphs and trends",
+                    "Tags and reminders"
+                ]
+            },
+            {
+                "name": "HabitBull",
+                "call_to_action": "Free plan and a Premium plan that costs $4.99 per month",
+                "usecases": "Habit tracking, goal setting, progress monitoring, community engagement",
+                "solutions": "Habit tracking, goal monitoring, community engagement",
+                "key_features": [
+                    "To-do lists",
+                    "Detailed performance graphs and trends",
+                    "Exportable reports"
+                ]
+            },
+            {
+                "name": "Hubstaff",
+                "call_to_action": "Contact sales, Try Hubstaff free",
+                "usecases": "Time tracking, workforce management, productivity analysis, team collaboration",
+                "solutions": "Time tracking, workforce management, productivity analysis, team collaboration",
+                "key_features": [
+                    "Time tracking and to-do lists",
+                    "Activity reports",
+                    "Idle time detection",
+                    "Work breaks",
+                    "Project budgeting and client invoicing"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "pricing": "Not found",
+                "plans": "Not found"
+            }
+        }
+    },
+    "www.fingerprintforsuccess.com": {
+        "goal_tracking_apps": [
+            {
+                "name": "Trello",
+                "call_to_action": "Sign up for free",
+                "use_cases": [
+                    "Tracking business goals",
+                    "Task management",
+                    "Team collaboration"
+                ],
+                "solutions": [
+                    "Visual collaboration for organizing tasks and projects",
+                    "Customizable boards, lists, and cards",
+                    "Time tracking and automation for task management"
+                ],
+                "key_features": [
+                    "Multiple views for goal-tracking",
+                    "Ready-made templates for tasks",
+                    "Kanban board structure",
+                    "Checklists within cards",
+                    "Integration with external apps and services"
+                ]
+            },
+            {
+                "name": "ClickUp",
+                "call_to_action": "Start for free",
+                "use_cases": [
+                    "Business goal tracking",
+                    "Task management",
+                    "Time tracking"
+                ],
+                "solutions": [
+                    "Aligning daily tasks with long-term goals",
+                    "Custom templates and automation for task management"
+                ],
+                "key_features": [
+                    "Real-time progress tracking",
+                    "Goal dashboards and detailed reports",
+                    "Task updates and automation",
+                    "Habit tracking templates"
+                ]
+            },
+            {
+                "name": "Todoist",
+                "call_to_action": "Take the free assessment and set up your goals",
+                "use_cases": [
+                    "Personal goal tracking",
+                    "Task management",
+                    "To-do list organization"
+                ],
+                "solutions": [
+                    "Comprehensive to-do lists and task management",
+                    "Synchronization with calendar and productivity tools"
+                ],
+                "key_features": [
+                    "Pre-designed templates for tasks",
+                    "Synchronize tasks with calendar",
+                    "Collaborative features for sharing tasks and projects"
+                ]
+            },
+            {
+                "name": "Clockify",
+                "call_to_action": "Get started for free",
+                "use_cases": [
+                    "Goal tracking with time management",
+                    "Task and project planning",
+                    "Productivity enhancement"
+                ],
+                "solutions": [
+                    "Time tracking and goal visualization",
+                    "Reports and insights for performance evaluation"
+                ],
+                "key_features": [
+                    "Auto tracker for time monitoring",
+                    "Dashboard for goal tracking and time optimization",
+                    "Project planning and to-do list templates"
+                ]
+            },
+            {
+                "name": "Fingerprint for Success (F4S)",
+                "call_to_action": "Take the free assessment and set up your goals",
+                "use_cases": [
+                    "AI coaching for personal and team development",
+                    "Goal setting and tracking",
+                    "Behavioral and cognitive insights"
+                ],
+                "solutions": [
+                    "AI and human coaching for personalized development programs",
+                    "Tracking coaching progress and insights"
+                ],
+                "key_features": [
+                    "Detailed insights into work style motivations",
+                    "AI and human coaching",
+                    "Benchmarking work and personal motivations"
+                ]
+            },
+            {
+                "name": "Habitica",
+                "call_to_action": "Get started for free",
+                "use_cases": [
+                    "Gamified habit tracking",
+                    "Personal and group goal tracking",
+                    "Task management with rewards system"
+                ],
+                "solutions": [
+                    "Transforming tasks and goals into a role-playing game",
+                    "Visual progress tracking and habit-building"
+                ],
+                "key_features": [
+                    "Goal visualization and time tracking",
+                    "Personalized in-game character and rewards system",
+                    "Self-improvement program through social accountability"
+                ]
+            },
+            {
+                "name": "Way of Life",
+                "call_to_action": "Download the app",
+                "use_cases": [
+                    "Positive habit and goal tracking",
+                    "Breaking unwanted routines",
+                    "Personal accountability tool"
+                ],
+                "solutions": [
+                    "Categorizing daily actions for accountability",
+                    "Visualizing productivity trends and habit patterns"
+                ],
+                "key_features": [
+                    "Categorization and color-coded tracking",
+                    "Daily progress tracking and accountability graphics",
+                    "Trend analysis and habit patterns visualization"
+                ]
+            },
+            {
+                "name": "Strides",
+                "call_to_action": "Download the app",
+                "use_cases": [
+                    "Versatile goal and habit tracking",
+                    "SMART goal setting",
+                    "Comprehensive progress tracking"
+                ],
+                "solutions": [
+                    "Flexible task management and progress tracking",
+                    "SMART Goals and visual progress charts"
+                ],
+                "key_features": [
+                    "Intuitive interface with flexible task management",
+                    "SMART Goals and visual progress tracking",
+                    "Comprehensive progress reports and sync across devices"
+                ],
+                "pricing_options": "Free version available with paid plans starting from US$4.99 per month"
+            },
+            {
+                "name": "Toodledo",
+                "call_to_action": "Sign up for free",
+                "use_cases": [
+                    "Flexible goal and habit tracking",
+                    "To-do list organization",
+                    "Task management with customization"
+                ],
+                "solutions": [
+                    "Task organization and collaboration",
+                    "Customization features for task management"
+                ],
+                "key_features": [
+                    "Flexible task management and customization",
+                    "Visual progress charts and graphs",
+                    "Comprehensive progress reports and sync across devices"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Starter": {
+                    "type": "Personal",
+                    "price": "Free"
+                },
+                "Team": {
+                    "type": "Team",
+                    "price": "$11.99/month/user or $719.40/year for 5 users"
+                },
+                "Enterprise": {
+                    "type": "Enterprise",
+                    "price": "Speak to us"
+                },
+                "Personal Boost Pack": {
+                    "type": "Personal",
+                    "price": "$9.60/month"
+                }
+            }
+        }
+    },
+    "everhour.com": {
+        "goal_tracking_apps": [
+            {
+                "name": "Everhour",
+                "call_to_action": "Try free",
+                "usecases": [
+                    "Time tracking",
+                    "Shift scheduling",
+                    "Project time tracking"
+                ],
+                "solutions": [
+                    "Time tracking",
+                    "Timesheets",
+                    "Time clock",
+                    "Attendance tracker",
+                    "Project budgeting",
+                    "Visual planning",
+                    "Expenses",
+                    "Reporting",
+                    "Invoicing",
+                    "Shift scheduling"
+                ],
+                "key_features": [
+                    "Real-time task monitoring",
+                    "Task categorization",
+                    "Collaboration and communication",
+                    "Integration and synchronization",
+                    "User-Friendly Accessibility"
+                ]
+            },
+            {
+                "name": "Evernote",
+                "call_to_action": "Explore",
+                "usecases": [
+                    "Bullet-style journaling",
+                    "Daily to-do list"
+                ],
+                "solutions": [
+                    "Journaling",
+                    "To-do list management"
+                ],
+                "key_features": [
+                    "Bullet-style journaling",
+                    "Daily to-do list"
+                ]
+            },
+            {
+                "name": "ClickUp",
+                "call_to_action": "Try free",
+                "usecases": [
+                    "Goal tracking",
+                    "Task management",
+                    "Team collaboration"
+                ],
+                "solutions": [
+                    "Goal tracking",
+                    "Task management",
+                    "Team collaboration"
+                ],
+                "key_features": [
+                    "Task management",
+                    "Team collaboration",
+                    "Deadline setting",
+                    "Reminder notifications"
+                ]
+            },
+            {
+                "name": "Strides",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Goal tracking",
+                    "SMART goal setting"
+                ],
+                "solutions": [
+                    "Goal tracking",
+                    "SMART goal setting"
+                ],
+                "key_features": [
+                    "SMART goal setting",
+                    "Progress tracking",
+                    "Reminder notifications"
+                ]
+            },
+            {
+                "name": "Weekdone",
+                "call_to_action": "Try free",
+                "usecases": [
+                    "OKR tracking",
+                    "Employee performance management"
+                ],
+                "solutions": [
+                    "OKR tracking",
+                    "Employee performance management"
+                ],
+                "key_features": [
+                    "OKR tracking",
+                    "Employee performance management",
+                    "Goal prioritization"
+                ]
+            },
+            {
+                "name": "nTask",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Kanban board goal tracking",
+                    "Deadline management"
+                ],
+                "solutions": [
+                    "Kanban board goal tracking",
+                    "Deadline management"
+                ],
+                "key_features": [
+                    "Kanban board goal tracking",
+                    "Deadline management",
+                    "Task details visibility"
+                ]
+            },
+            {
+                "name": "Habitica",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Gamified goal tracking",
+                    "Character-based progress tracking"
+                ],
+                "solutions": [
+                    "Gamified goal tracking",
+                    "Character-based progress tracking"
+                ],
+                "key_features": [
+                    "Gamified goal tracking",
+                    "Character-based progress tracking",
+                    "Progress-based rewards"
+                ]
+            },
+            {
+                "name": "Lifetick",
+                "call_to_action": "Try free",
+                "usecases": [
+                    "SMART goal setting",
+                    "Social goal sharing"
+                ],
+                "solutions": [
+                    "SMART goal setting",
+                    "Social goal sharing"
+                ],
+                "key_features": [
+                    "SMART goal setting",
+                    "Social goal sharing",
+                    "Progress sharing"
+                ]
+            },
+            {
+                "name": "ProProfs Project",
+                "call_to_action": "Try free",
+                "usecases": [
+                    "Project management",
+                    "Team goal tracking"
+                ],
+                "solutions": [
+                    "Project management",
+                    "Team goal tracking"
+                ],
+                "key_features": [
+                    "Project management",
+                    "Team goal tracking",
+                    "Timesheet app",
+                    "Performance reports"
+                ]
+            },
+            {
+                "name": "Coach.me",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Goal coaching",
+                    "Community goal tracking"
+                ],
+                "solutions": [
+                    "Goal coaching",
+                    "Community goal tracking"
+                ],
+                "key_features": [
+                    "Goal coaching",
+                    "Community goal tracking",
+                    "Progress tracking"
+                ]
+            },
+            {
+                "name": "Way of Life",
+                "call_to_action": "Try free",
+                "usecases": [
+                    "Habit tracking",
+                    "Personal goal setting"
+                ],
+                "solutions": [
+                    "Habit tracking",
+                    "Personal goal setting"
+                ],
+                "key_features": [
+                    "Habit tracking",
+                    "Personal goal setting",
+                    "Color-coded progress tracking"
+                ]
+            },
+            {
+                "name": "Apple Notes",
+                "call_to_action": "Try free",
+                "usecases": [
+                    "Simple goal tracking",
+                    "Personal progress tracking"
+                ],
+                "solutions": [
+                    "Simple goal tracking",
+                    "Personal progress tracking"
+                ],
+                "key_features": [
+                    "Simple goal tracking",
+                    "Personal progress tracking",
+                    "Intuitive interface"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "free": {
+                    "description": "Time tracking for freelancers and micro teams",
+                    "price": "0 $",
+                    "seats": "up to 5"
+                },
+                "team": {
+                    "description": "All features and integrations for businesses",
+                    "price": "8.50$",
+                    "billingType": "Monthly seat cost when paid yearly",
+                    "minimumSeats": "5",
+                    "features": [
+                        "Unlimited seats",
+                        "Integrations",
+                        "Billing & budgeting",
+                        "Invoicing",
+                        "Time approval",
+                        "Time off",
+                        "Expenses",
+                        "Optional screenshots",
+                        "SSO",
+                        "API",
+                        "Much more..."
+                    ]
+                }
+            }
+        }
+    },
+    "www.focalityapp.com": {
+        "goal_achievement_apps": [
+            {
+                "name": "Focality",
+                "call_to_action": "Download the app or use it directly in your browser",
+                "usecases": [
+                    "Achieving goals with deep planning, reflection, and data-driven insights",
+                    "Strategic life planning and adjustment",
+                    "Self-improvement and self-reflection"
+                ],
+                "solutions": "Focality offers a goal achievement app for iOS, Android, and the web, allowing users to plan, reflect, and gain insights on achieving their goals across multiple devices.",
+                "key_features": [
+                    "Deep planning with hierarchy-based approach",
+                    "Self-reflection tool integrated into the planning process",
+                    "Native apps for iOS and Android, as well as a browser version with data syncing",
+                    "Data-driven insights for self-improvement"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "blog.bit.ai": {
+        "goal_achievement_apps": [
+            {
+                "name": "Dreamfora",
+                "platform": "Play Store",
+                "pricing": "Free",
+                "key_features": [
+                    "One-tap goal setting",
+                    "Planning wizard",
+                    "Daily checklist",
+                    "Progress analysis",
+                    "Motivation quotes and tips"
+                ],
+                "call_to_action": "Download on Play Store",
+                "usecases": "Goal setting, progress tracking, habit building"
+            },
+            {
+                "name": "Habitica",
+                "platform": "App Store, Play Store, Web",
+                "pricing": "$47.99/year, Free version available",
+                "key_features": [
+                    "Role-playing game approach",
+                    "Character leveling",
+                    "Party and adventure features"
+                ],
+                "call_to_action": "Download on App Store/Play Store/Web",
+                "usecases": "Goal tracking gamification, habit building"
+            },
+            {
+                "name": "Way of Life",
+                "platform": "App Store, Play Store",
+                "pricing": "$6 for Premium, Free version available",
+                "key_features": [
+                    "Easy goal tracking",
+                    "Minimalistic interface",
+                    "Weekly, quarterly, yearly progress view",
+                    "Accountability tool"
+                ],
+                "call_to_action": "Download on App Store/Play Store",
+                "usecases": "Goal tracking, habit formation, progress analysis"
+            },
+            {
+                "name": "Streaks",
+                "platform": "App Store",
+                "pricing": "$4.99",
+                "key_features": [
+                    "Affordable goal tracking",
+                    "Habit and task tracking",
+                    "Integration with Apple Health"
+                ],
+                "call_to_action": "Download on App Store",
+                "usecases": "Habit tracking, goal setting, health tracking"
+            },
+            {
+                "name": "Done",
+                "platform": "App Store",
+                "pricing": "$59.99/year, Free version available",
+                "key_features": [
+                    "Clean, easy-to-use interface",
+                    "Daily, weekly, monthly, yearly habit tracking",
+                    "Development of good habits"
+                ],
+                "call_to_action": "Download on App Store",
+                "usecases": "Goal tracking, habit formation, productivity improvement"
+            },
+            {
+                "name": "Goals on Track",
+                "platform": "App Store, Play Store, Web",
+                "pricing": "$68/year, 30-day money-back guarantee",
+                "key_features": [
+                    "Customizable goal tracking",
+                    "Action plan creation",
+                    "Real-time progress updates",
+                    "Offline time tracker"
+                ],
+                "call_to_action": "Download on App Store/Play Store/Web",
+                "usecases": "Productivity improvement, goal setting, progress tracking"
+            },
+            {
+                "name": "Toodledo",
+                "platform": "App Store, Play Store, Web",
+                "pricing": "Free",
+                "key_features": [
+                    "Personal and professional life organization",
+                    "Data import from other applications",
+                    "Team progress tracking",
+                    "Customizable dashboard"
+                ],
+                "call_to_action": "Download on App Store/Play Store/Web",
+                "usecases": "Task organization, team collaboration, progress tracking"
+            },
+            {
+                "name": "Lifetick",
+                "platform": "Web",
+                "pricing": "$1/week for individuals, Free version available",
+                "key_features": [
+                    "SMART goal setting",
+                    "Due dates, charts, reminders",
+                    "Journaling",
+                    "Goal sharing with friends and family"
+                ],
+                "call_to_action": "Sign up on website",
+                "usecases": "SMART goal setting, progress tracking, goal sharing"
+            },
+            {
+                "name": "Atracker",
+                "platform": "App Store, Play Store, Web",
+                "pricing": "Free version available, Pro version for $4.99 (one time) or $2.99/month",
+                "key_features": [
+                    "Time-tracking focus",
+                    "Task and time overview",
+                    "Pie chart analysis",
+                    "Time management improvement"
+                ],
+                "call_to_action": "Download on App Store/Play Store/Web",
+                "usecases": "Time tracking, time management, productivity improvement"
+            },
+            {
+                "name": "Goals",
+                "platform": "Web",
+                "pricing": "Free account with basic features, Paid version for teams and businesses",
+                "key_features": [
+                    "Goal templates",
+                    "Colorful to-do lists and vision boards",
+                    "Mobile access",
+                    "Text and email notifications"
+                ],
+                "call_to_action": "Sign up on website",
+                "usecases": "Goal creation, tracking, team collaboration"
+            },
+            {
+                "name": "Strides",
+                "platform": "App Store",
+                "pricing": "Free, or $4.99/month, $29.99/year, $79.99/lifetime access",
+                "key_features": [
+                    "Data-driven goal tracking",
+                    "Different trackers (Target, Average, Project, Habit)",
+                    "Visualization and monitoring tools",
+                    "Customizable dashboard"
+                ],
+                "call_to_action": "Download on App Store",
+                "usecases": "Data-driven goal tracking, habit monitoring, progress visualization"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Error: Timeout",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "lifetick.com": {
+        "goal_achievement_app": {
+            "call_to_action": "Sign up",
+            "usecases": [
+                "Employee Performance Management",
+                "Life Coaching effectiveness",
+                "Student academic success",
+                "Addiction Recovery Services"
+            ],
+            "solutions": "Lifetick is an online goal setting app that helps individuals, school principals, life coaches, HR managers, and small business owners create and manage their goals for success.",
+            "key_features": [
+                "Establish core values",
+                "Follow S.M.A.R.T. methodology",
+                "Write journal entries",
+                "Track any area of life",
+                "Capture dreams",
+                "Chart progress",
+                "Share goals with others",
+                "Write journal entries",
+                "Get detailed reports"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Individual": {
+                    "Free": "Free forever!",
+                    "Premium": {
+                        "Price": "$52 per year or $16 per quarter",
+                        "Custom Core Values": true,
+                        "S.M.A.R.T. Goals": "Unlimited",
+                        "Single Tasks with Reminders": true,
+                        "Recurring tasks": true,
+                        "Sub tasks": false,
+                        "Financial Goals": false,
+                        "Shared Goals": true,
+                        "Task assignment on shared goals": true,
+                        "Supporters for Goals": true,
+                        "Comments from sharees on goals": true,
+                        "Dreams": true,
+                        "Journal entries": true,
+                        "Personalized Trackers": false,
+                        "Reporting on Goals, Tasks, Journal, Activity": true,
+                        "Reporting on Trackers": false
+                    }
+                },
+                "Organization": {
+                    "Essentials": {
+                        "Price": "$4 / user / month",
+                        "Features": [
+                            "No lock in contract: month to month",
+                            "Unlimited S.M.A.R.T. Goals per user",
+                            "Single, Repeating and Sub tasks (with reminders)",
+                            "Leader Dashboards with drill down and comparisons of user groups and time periods",
+                            "Dashboards for Individuals",
+                            "Bespoke organizational core values",
+                            "Graphical and (exportable) Tabular Reports",
+                            "Messaging between Leaders and Groups/Individuals",
+                            "Super capability for senior leaders to view and interact with all users"
+                        ]
+                    },
+                    "Professional": {
+                        "Price": "$9 / user / month",
+                        "Minimum": 100,
+                        "Features": [
+                            "Everything in Essentials plus...",
+                            "Single Sign On (SSO)",
+                            "Dedicated onboarding support for configuration and user set up",
+                            "Custom Reporting",
+                            "Customer Service Rep to manage your user admin and account",
+                            "Priority customer service"
+                        ]
+                    },
+                    "Enterprise": {
+                        "Contact": "Let's talk",
+                        "Minimum": 1000,
+                        "Features": [
+                            "Everything in Professional plus...",
+                            "Bespoke Onboarding Program",
+                            "Dedicated Customer Service personnel assigned to your organization",
+                            "Custom Integration",
+                            "Scheduled progress check ins and evaluation with your leadership team",
+                            "Dedicated Customer Service phone number",
+                            "Flexible billing options"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "evantarver.com": {
+        "goal_apps": [
+            {
+                "name": "Strides",
+                "usecases": "Habit tracker and project management tool",
+                "solutions": "Helps in setting personal SMART goals and managing related projects",
+                "price": "Free up to three goals, $5/month for unlimited goals",
+                "key_features": [
+                    "Habit/Goal Categories",
+                    "Project Management",
+                    "Goal-Tracking Options",
+                    "Additional Offerings"
+                ]
+            },
+            {
+                "name": "Coach.Me",
+                "usecases": "Kicking bad habits and building good ones with live, personalized coaching and support",
+                "solutions": "Offers a clean interface to track unlimited habits for free and provides personalized coaching options",
+                "price": "Free to track unlimited goals with personal coaching for $20/week, leadership coaching for $249/month",
+                "key_features": [
+                    "Habit/Goal Categories",
+                    "Online Community",
+                    "Free Habit-Forming Advice",
+                    "Premium Coaching"
+                ]
+            },
+            {
+                "name": "Habitica",
+                "usecases": "Goal-setting gamification through virtual avatars that show the positive and negative effects of actions",
+                "solutions": "Gamifies goal-setting and achieving process with avatars earning rewards or punishments based on meeting or missing goals",
+                "price": "Free for basic app and multiple-user options for $9/month plus $3/user",
+                "key_features": [
+                    "Gamification",
+                    "Single Player or Multiplayer Options"
+                ]
+            },
+            {
+                "name": "Productive",
+                "usecases": "Helps users build positive habits and routines into their day-to-day",
+                "solutions": "Allows users to choose from a list of daily habits or customize their own and track them",
+                "price": "Free for 5 habits with unlimited habit tracking for $6.99 a month to $29.99 annually",
+                "key_features": [
+                    "Habit/Goal Categories",
+                    "Daily Habit Tracking",
+                    "Don't Break the Chain Approach"
+                ]
+            },
+            {
+                "name": "Way of Life",
+                "usecases": "Building daily accountability without spending excessive time on the phone",
+                "solutions": "Built around brief daily interactions to assess progress towards goals and understand how to improve habits",
+                "price": "Free to track three goals or habits, with unlimited tracking for $3.99/month",
+                "key_features": [
+                    "Daily Accountability",
+                    "Daily Journal",
+                    "Clean Interface"
+                ]
+            },
+            {
+                "name": "Stickk",
+                "usecases": "Building habits through negative incentives rather than positive incentives",
+                "solutions": "Focuses on loss aversion to help users commit to behavior change",
+                "price": "Free with option to deposit money for further accountability",
+                "key_features": [
+                    "Use of Negative Incentives",
+                    "Commitment Journal",
+                    "Group Wagers"
+                ]
+            },
+            {
+                "name": "ATracker",
+                "usecases": "Building good habits through better time management",
+                "solutions": "Allows users to track and categorize time spent and manage tasks",
+                "price": "Free basic app with ad-free ATracker Pro between $2.99 and $4.99, as well as web-syncable Premium version for $2.99/month",
+                "key_features": [
+                    "Time-Tracking Functionality",
+                    "Calendar View"
+                ]
+            },
+            {
+                "name": "GoalsOnTrack",
+                "usecases": "Achieving professional goals through customized goal templates and action plans",
+                "solutions": "Helps in creating SMART goals through templates and tracking manually or by subgoals, tasks, and outcomes",
+                "price": "$68 annually for unlimited access to the web and mobile applications",
+                "key_features": [
+                    "Custom Professional Dashboard",
+                    "Professional Templates & Tools"
+                ]
+            },
+            {
+                "name": "Streaks",
+                "usecases": "Building fitness-focused habits with support from iOS Health app and Apple Watch",
+                "solutions": "Focuses on achieving health-related goals and integrates with iOS Health app and Apple Watch",
+                "price": "Track up to twelve habits for better health and well-being for $4.99",
+                "key_features": [
+                    "Health & Wellness Goals"
+                ]
+            },
+            {
+                "name": "Habit-Bull",
+                "usecases": "Helping beginners build good habits through a simple interface and the use of motivation",
+                "solutions": "Adheres to the \"don\u2019t break the chain\" philosophy and offers motivational support",
+                "price": "Free version tracks 5 goals while Premium version between $4.99/monthly to $19.99/annually tracks up to 100 habits",
+                "key_features": [
+                    "Motivational Focus",
+                    "Clean Interface & Design"
+                ]
+            },
+            {
+                "name": "Toodledo",
+                "usecases": "Setting team goals and managing associated team projects",
+                "solutions": "Organizes personal, professional, and household tasks to optimize productivity and supports project management by sharing and assigning tasks",
+                "price": "Four options including a free version as well as pricing from $2.99/month to $4.99/month, with a custom-priced business option",
+                "key_features": [
+                    "Team-Focused Goals",
+                    "Prioritized Task List & Scheduler",
+                    "Customization Options"
+                ]
+            },
+            {
+                "name": "Lifetick",
+                "usecases": "Building good habits by understanding core values and the 'why' behind actions",
+                "solutions": "Takes a philosophical approach to goal-setting and helps link goals to core values",
+                "price": "Free individual version for up to four goals or unlimited goals for $5/month; team version costs $10/month and up",
+                "key_features": [
+                    "Value-Based Goal-Setting",
+                    "Reminders & Reports",
+                    "Multi-User Collaboration"
+                ]
+            },
+            {
+                "name": "Fabulous",
+                "usecases": "Building habits and self-discipline through a gentle, step-by-step plan",
+                "solutions": "Focuses on health and wellness, and provides a step-by-step approach to self-improvement",
+                "price": "Subscription only service costs $9.99/month or $95.99/year",
+                "key_features": [
+                    "Plans & Programs",
+                    "Rigid Structure"
+                ]
+            },
+            {
+                "name": "Habitify",
+                "usecases": "Achieving goals with performance data and number crunching",
+                "solutions": "Drills down on hourly and day of the week trends to help assess stumbling blocks and improve performance",
+                "price": "Free to track 3 goals, with unlimited goals for $4.99/month, $30/year or $39.99 one-time payment",
+                "key_features": [
+                    "Analyzer & Data-Exporter"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "timelyapp.com": {
+        "goal_achievement_apps": [
+            {
+                "name": "Timely",
+                "call_to_action": "Book a demo",
+                "usecases": "Time tracking, goal and task tracking for personal and business use",
+                "solutions": "Automated time tracking, goal and task tracking, surveillance-free environment",
+                "key_features": [
+                    "Track time",
+                    "Track projects",
+                    "Track teams",
+                    "Track plans"
+                ]
+            },
+            {
+                "name": "Strides",
+                "call_to_action": "Download for free, In-app purchase for premium features",
+                "usecases": "Goal tracking for personal and business use",
+                "solutions": "Tracking habits, targets, averages, and projects, progress reports",
+                "key_features": [
+                    "Habit tracking",
+                    "Target tracking",
+                    "Average tracking",
+                    "Project tracking"
+                ]
+            },
+            {
+                "name": "Trello",
+                "call_to_action": "Paid plans starting at $5 per user per month",
+                "usecases": "Goal tracking for work",
+                "solutions": "Kanban board for goal and task tracking, customizable cards and progress tracking",
+                "key_features": [
+                    "Kanban board",
+                    "Customizable cards",
+                    "Progress tracking"
+                ]
+            },
+            {
+                "name": "ClickUp",
+                "call_to_action": "Try it out for free, Paid plans starting at $5 per user per month",
+                "usecases": "Goal tracking for work and personal use",
+                "solutions": "High-level goal setting, target tracking, progress visualization",
+                "key_features": [
+                    "High-level goal setting",
+                    "Target tracking",
+                    "Progress visualization"
+                ]
+            },
+            {
+                "name": "Weekdone",
+                "call_to_action": "Free for up to 3 people, Pricing structure for larger teams",
+                "usecases": "OKR platform for business use",
+                "solutions": "Quarterly objective setting, weekly progress updates",
+                "key_features": [
+                    "OKR setting",
+                    "Weekly progress updates"
+                ]
+            },
+            {
+                "name": "Way of Life",
+                "call_to_action": "In-app purchases for premium version",
+                "usecases": "Personal goal tracking",
+                "solutions": "Daily habit tracking, visual progress cues",
+                "key_features": [
+                    "Daily habit tracking",
+                    "Visual progress cues"
+                ]
+            },
+            {
+                "name": "Habitica",
+                "call_to_action": "Free trial, Paid options starting at $5 per month",
+                "usecases": "Goal setting in the form of a game",
+                "solutions": "Reward-based goal setting, character progression",
+                "key_features": [
+                    "Reward-based goal setting",
+                    "Character progression"
+                ]
+            },
+            {
+                "name": "GoalsOnTrack",
+                "call_to_action": "Free trial, Annual plan available",
+                "usecases": "Goal setting for high achievers",
+                "solutions": "SMART goal setting, subtask creation, time tracking",
+                "key_features": [
+                    "SMART goal setting",
+                    "Subtask creation",
+                    "Time tracking"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "monthly": {
+                    "Solo / Micro business": {
+                        "Starter": "$11usd/mo",
+                        "Premium": "$20usd/mo",
+                        "Unlimited": "$28usd/mo"
+                    }
+                },
+                "yearly": {
+                    "Solo / Micro business": {
+                        "Starter": "$9usd/mo",
+                        "Premium": "$16usd/mo",
+                        "Unlimited": "$22usd/mo"
+                    }
+                }
+            }
+        }
+    },
+    "weekplan.net": {
+        "goal_achievement_apps": [
+            {
+                "name": "Week Plan",
+                "call_to_action": "Try Week Plan",
+                "usecases": [
+                    "Time management",
+                    "Goal setting and tracking",
+                    "Team alignment"
+                ],
+                "solutions": "Tailored planners for various purposes, objective key results, SMART goals, subtasks and milestones, high-impact tasks, journaling, calendar view, weekly activity review, daily summary, track progress, add teams",
+                "key_features": [
+                    "Objective Key Results",
+                    "SMART goals",
+                    "Subtasks and milestones",
+                    "Journaling",
+                    "High-impact tasks"
+                ]
+            },
+            {
+                "name": "ClickUp",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Daily goal tracking",
+                    "Team goal alignment",
+                    "Progress tracking"
+                ],
+                "solutions": "Goal timelines, progress tracking, multiple target types, objective key results (OKR), goal folders, shareable goals, add teams",
+                "key_features": [
+                    "Objective Key Results",
+                    "Multiple Target Types",
+                    "Shareable Goals"
+                ]
+            },
+            {
+                "name": "Strides",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Habit tracking",
+                    "Personal goal setting",
+                    "SMART goal tracking"
+                ],
+                "solutions": "Goals tracking, habits tracker, multiple tracker types, habit reports, SMART goals, daily goals, habit streaks",
+                "key_features": [
+                    "Different Tracker Types",
+                    "Daily Routines",
+                    "Progress Reports"
+                ]
+            },
+            {
+                "name": "Weekdone",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Team goal tracking",
+                    "OKR implementation",
+                    "KPI tracking"
+                ],
+                "solutions": "Goals tracking, OKRs, weekly progress, KPIs, color coded progress, TV dashboards, team connections, automated reports, connection with apps",
+                "key_features": [
+                    "Objective Key Results",
+                    "Hierarchy View and More",
+                    "Automatic Reports"
+                ]
+            },
+            {
+                "name": "GoalsOnTrack",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Multi-level goal tracking",
+                    "Habit tracking",
+                    "Team goal setting"
+                ],
+                "solutions": "Goals dashboard, SMART goals, multi-level goals, goal templates, progress track, habit tracking, task management, team goals, team conversations, journal",
+                "key_features": [
+                    "Goal Templates",
+                    "Multi-level Goals",
+                    "Dashboard View"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Week Plan": {
+                    "monthlyPlan": "$10.83 per month",
+                    "yearlyPlan": "$104 annually"
+                }
+            }
+        }
+    },
+    "www.goalsontrack.com": {
+        "GoalsOnTrack": {
+            "call_to_action": "Sign up",
+            "usecases": [
+                "Set SMART goals and stay on track",
+                "Build action plans and take focused action",
+                "Build habits to make progress on autopilot",
+                "Visualize success to motivate yourself",
+                "Keep a journal for your goals",
+                "Goal templates with detailed action plans",
+                "Keep team goals on track"
+            ],
+            "solutions": "Goal setting and goal management software for high achievers to set, track and achieve goals.",
+            "key_features": [
+                "Set SMART goals",
+                "Break down long-term goals into milestones or sub-goals",
+                "Organize goals with categories",
+                "Build detailed action plans",
+                "Recurring tasks for flexible task scheduling",
+                "Build habits and link them to goals",
+                "Visualization tool for practicing visualization",
+                "Built-in journal tool for organizing goals",
+                "Goal templates with detailed action plans",
+                "Team goal sharing and progress tracking",
+                "Customizable look",
+                "Responsive design for all screen sizes",
+                "Data sync with favorite calendars",
+                "One-click backup feature",
+                "Thousands of satisfied goal achievers",
+                "Unlimited access to web and mobile apps",
+                "Free upgrade on new features and future add-ons",
+                "Free technical support on software usage",
+                "Free access to all downloadable resources",
+                "Bonus e-books on success and motivation"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "found",
+            "priceAndPlans": {
+                "membershipCost": "$68 per year",
+                "monthlyCost": "about $5/month",
+                "benefits": [
+                    "Unlimited access to GoalsOnTrack web application",
+                    "Unlimited access to GoalsOnTrack mobile apps",
+                    "Unlimited goals, tasks, habits, journal entries, etc.",
+                    "Daily backup of your data",
+                    "Free goal templates and future add-ons",
+                    "Free upgrade on new features and future add-ons",
+                    "Bonus e-books on success and motivation",
+                    "Free technical support"
+                ]
+            }
+        }
+    },
+    "clockify.me": {
+        "apps": [
+            {
+                "name": "Clockify",
+                "call_to_action": "Sign up FREE",
+                "usecases": [
+                    "Time and cost tracking",
+                    "Managing time",
+                    "Managing tasks",
+                    "Managing teams"
+                ],
+                "solutions": "Helps track progress on tasks or projects, suitable for personal and team use",
+                "key_features": [
+                    "Accurate tracking of goal progression",
+                    "Detailed reports on time use",
+                    "Unlimited number of goals, projects, progress reports, and users in the free plan"
+                ]
+            },
+            {
+                "name": "Coach.me",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Personal growth"
+                ],
+                "solutions": "Community-driven accountability app with consultation calls with various coaches",
+                "key_features": [
+                    "Community tied to each goal",
+                    "Option to hire specialized coach",
+                    "Positive reinforcement"
+                ]
+            },
+            {
+                "name": "Habitica",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Gameful way of setting goals"
+                ],
+                "solutions": "Gamified goal-tracking app with rewards for completing tasks",
+                "key_features": [
+                    "Create character and choose a class",
+                    "Team up with friends and family or join a guild",
+                    "Colorful and visually inviting interface"
+                ]
+            },
+            {
+                "name": "Evernote",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Keeping a goal-based journal"
+                ],
+                "solutions": "Customizable goal tracking in the form of a journal",
+                "key_features": [
+                    "High level of customizability",
+                    "Time-tracking integration",
+                    "Ability to upload photos, pictures, links, and notes"
+                ]
+            },
+            {
+                "name": "Way of Life",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Breaking bad habits"
+                ],
+                "solutions": "Uses a unique color-coded system to visually track progress and motivate users",
+                "key_features": [
+                    "Color-coded system for tracking habits",
+                    "Simple lists for goal tracking",
+                    "Option to write notes for each day"
+                ]
+            },
+            {
+                "name": "Strides",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Setting SMART goals"
+                ],
+                "solutions": "Extremely flexible app for tracking progress on various types of goals",
+                "key_features": [
+                    "Clear dashboard for goal tracking",
+                    "Ability to create smart goals",
+                    "Visual indicators for tracking progress"
+                ]
+            },
+            {
+                "name": "GoalsOnTrack",
+                "call_to_action": "Sign up for free trial",
+                "usecases": [
+                    "Keeping a journal for goals"
+                ],
+                "solutions": "Goal management software for setting SMART goals and breaking them down into smaller subgoals",
+                "key_features": [
+                    "Detailed action plans with to-do tasks and reminders",
+                    "Built-in journal tool",
+                    "Goal creation from built-in goal templates"
+                ]
+            },
+            {
+                "name": "nTask",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Agile enthusiasts"
+                ],
+                "solutions": "Project management features with interactive Kanban board and custom statuses for goal tracking",
+                "key_features": [
+                    "Interactive Kanban board for goal tracking",
+                    "Setting deadlines, updating statuses, creating milestones",
+                    "Task status tracking"
+                ]
+            },
+            {
+                "name": "Toodledo",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "To-do list lovers"
+                ],
+                "solutions": "Extensive to-do lists, notes, custom lists, and habit tracking features with customizable alarms",
+                "key_features": [
+                    "Customizable alarms for task reminders",
+                    "Location-based reminders",
+                    "Habit tracking with check, number, or star rating"
+                ]
+            },
+            {
+                "name": "ClickUp",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Helping teams keep their goals on track"
+                ],
+                "solutions": "Measurable targets and progress tracking for teams using the OKR goal-setting framework",
+                "key_features": [
+                    "Creating measurable targets for goals",
+                    "Sharing goals inside the organization",
+                    "Different types of targets: numerical, monetary, true/false, or task targets"
+                ]
+            },
+            {
+                "name": "Lifetick",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Making dreams come true"
+                ],
+                "solutions": "Uses the SMART goal methodology for setting and tracking various types of goals",
+                "key_features": [
+                    "Sharing goals with friends, family, or colleagues",
+                    "Personal diary for tracking metrics and accomplishments",
+                    "Detailed reports with various charts"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Error",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.developgoodhabits.com": {
+        "Goal Achievement Apps": [
+            {
+                "name": "Goals on Track",
+                "call_to_action": "Upgrade to premium for more features",
+                "usecases": [
+                    "Goal tracking",
+                    "Task management",
+                    "SMART goal setting",
+                    "Sub-goal creation",
+                    "Journaling",
+                    "Visualization (Vision Board)"
+                ],
+                "solutions": "Helps users become more productive by providing goal tracking, task management, and visualization features.",
+                "key_features": [
+                    "Goal Dashboard",
+                    "Tasks for the Day",
+                    "SMART Goal setting",
+                    "Sub-Goals",
+                    "Journal",
+                    "Reports",
+                    "Vision Board"
+                ]
+            },
+            {
+                "name": "Way of Life App",
+                "call_to_action": "Subscribe to premium for cloud storage access",
+                "usecases": [
+                    "Habit tracking",
+                    "Color-coded progress tracking",
+                    "Customizable tagging",
+                    "Note-taking",
+                    "Reminder system",
+                    "Streaks and trends tracking"
+                ],
+                "solutions": "Helps users develop and track habits with a focus on visual progress representation.",
+                "key_features": [
+                    "Habit tracking",
+                    "Color-coded progress tracking",
+                    "Customizable tagging",
+                    "Note-taking",
+                    "Reminder system",
+                    "Streaks and trends tracking"
+                ]
+            },
+            {
+                "name": "Strides",
+                "call_to_action": "Upgrade to premium for more features",
+                "usecases": [
+                    "Flexible goal setting and tracking",
+                    "Target setting with pace system",
+                    "Project milestones",
+                    "Habit tracking with reminders",
+                    "Average statistics tracking",
+                    "Habit stacking"
+                ],
+                "solutions": "Provides flexible goal tracking options and habit stacking for achieving multiple goals.",
+                "key_features": [
+                    "Target setting with pace system",
+                    "Project milestones",
+                    "Habit tracking with reminders",
+                    "Average statistics tracking",
+                    "Habit stacking"
+                ]
+            },
+            {
+                "name": "LifeRPG",
+                "call_to_action": "In-app purchases available",
+                "usecases": [
+                    "Gamified goal setting",
+                    "Mission difficulty, urgency, and fear parameters",
+                    "Sub-mission assignment",
+                    "Reminders and reward points",
+                    "Habit stacking"
+                ],
+                "solutions": "Utilizes gamified design elements for goal setting and tracking with a focus on mission parameters and rewards.",
+                "key_features": [
+                    "Mission difficulty, urgency, and fear parameters",
+                    "Sub-mission assignment",
+                    "Reminders and reward points",
+                    "Habit stacking"
+                ]
+            },
+            {
+                "name": "Dreamfora",
+                "call_to_action": "Free for Android devices",
+                "usecases": [
+                    "Minimal effort goal setting",
+                    "Planning wizard",
+                    "Goal achievement plan",
+                    "Milestones, habits, tasks, and notes",
+                    "Statistical reports",
+                    "Motivational quotes and tips"
+                ],
+                "solutions": "Provides minimal effort goal setting and tracking with a focus on planning and actionable steps.",
+                "key_features": [
+                    "Planning wizard",
+                    "Goal achievement plan",
+                    "Milestones, habits, tasks, and notes",
+                    "Statistical reports",
+                    "Motivational quotes and tips"
+                ]
+            },
+            {
+                "name": "Repeat Habit Tracker",
+                "call_to_action": "Free with optional ad disablement",
+                "usecases": [
+                    "Focus on habit formation",
+                    "Reminders with voice assistant",
+                    "Progress interface",
+                    "Motivational quotes"
+                ],
+                "solutions": "Aims to help users form habits by providing reminders and visual progress tracking.",
+                "key_features": [
+                    "Reminders with voice assistant",
+                    "Progress interface",
+                    "Motivational quotes"
+                ]
+            },
+            {
+                "name": "Lifetick",
+                "call_to_action": "Upgrade to premium for more features",
+                "usecases": [
+                    "Long-term goal accomplishment",
+                    "Guide questions for goal setting",
+                    "Personal core values establishment",
+                    "Journaling and progress tracking",
+                    "Collaboration on group goals"
+                ],
+                "solutions": "Supports systematic long-term goal accomplishment with features for personal values, journaling, and collaboration.",
+                "key_features": [
+                    "Guide questions for goal setting",
+                    "Personal core values establishment",
+                    "Journaling and progress tracking",
+                    "Collaboration on group goals"
+                ]
+            },
+            {
+                "name": "Coach.me",
+                "call_to_action": "Free to use with coaching services available for a fee",
+                "usecases": [
+                    "Habit development",
+                    "Community support",
+                    "Coaching services"
+                ],
+                "solutions": "Focuses on habit development with community support and coaching services.",
+                "key_features": [
+                    "Community support",
+                    "Coaching services"
+                ]
+            },
+            {
+                "name": "Fabulous",
+                "call_to_action": "Free with in-app purchases available",
+                "usecases": [
+                    "Healthy habit development",
+                    "Preset and customized journeys",
+                    "Reminder and timer features"
+                ],
+                "solutions": "Promotes healthy habit development with preset and customized journeys, reminders, and timers.",
+                "key_features": [
+                    "Preset and customized journeys",
+                    "Reminder and timer features"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "goalscape.com": {
+        "product_name": "Goalscape",
+        "call_to_action": "Try for Free",
+        "usecases": [
+            "Visual goal management",
+            "Team collaboration",
+            "Project planning",
+            "Goal prioritization"
+        ],
+        "solutions": "Goalscape uses a simple radial map to define, track, and achieve goals. It provides a visual overview of goals, priorities, and progress, and offers features for managing information, focusing on important tasks, and communicating with purpose.",
+        "key_features": {
+            "Goal Radial Map": "Visual representation of goals, priorities, and progress",
+            "Information Management": "Add goal background details, insert notes and attachments, set timescales, assign responsibility, and add contextual tags",
+            "Focus Tools": "Filter goals, create action lists, share goals with others, use 'Now' and 'Next' tags",
+            "Communication Features": "Goal-focused communication, commenting on goals, email notifications"
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Free": {
+                    "price": "$0",
+                    "description": "14-Day Trial"
+                },
+                "Pro": {
+                    "YearlyPlan": {
+                        "price": "$99 billed annually",
+                        "monthlyPrice": "$8.25"
+                    },
+                    "MonthlyPlan": {
+                        "price": "$118.80 per year",
+                        "monthlyPrice": "$9.90"
+                    }
+                },
+                "Enterprise": {
+                    "CorporateCloud": "Starts at $2,148 per year"
+                }
+            }
+        }
+    },
+    "www.opentimeclock.com": {
+        "goal_tracker_apps": [
+            {
+                "name": "MyGoals",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Setting and tracking goals in different categories such as health and fitness, business, money, career, family, and personal growth",
+                    "Tracking progress and receiving progress reports"
+                ],
+                "solutions": [
+                    "Allows users to set goals and track progress",
+                    "Provides progress reports to stay on top of goals"
+                ],
+                "key_features": [
+                    "Different categories of goals to choose from",
+                    "Progress tracking",
+                    "Progress reports"
+                ]
+            },
+            {
+                "name": "Coach.me",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Setting and tracking goals",
+                    "Joining communities for group encouragement and professional advice"
+                ],
+                "solutions": [
+                    "Provides an easy-to-use system for setting and tracking goals",
+                    "Allows joining communities for support and advice"
+                ],
+                "key_features": [
+                    "Easy-to-use system for setting and tracking goals",
+                    "Community support and advice"
+                ]
+            },
+            {
+                "name": "Way of Life",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Setting up and tracking habits to reach goals",
+                    "Creating and breaking habits"
+                ],
+                "solutions": [
+                    "Helps in setting up and tracking habits",
+                    "Facilitates creating and breaking habits"
+                ],
+                "key_features": [
+                    "Habit tracking",
+                    "Creating and breaking habits"
+                ]
+            },
+            {
+                "name": "Usetime",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Setting long-term goals with deadlines",
+                    "Reviewing daily and weekly plans to reach goals"
+                ],
+                "solutions": [
+                    "Allows setting long-term goals with deadlines",
+                    "Facilitates reviewing daily and weekly plans"
+                ],
+                "key_features": [
+                    "Setting long-term goals with deadlines",
+                    "Reviewing daily and weekly plans"
+                ]
+            },
+            {
+                "name": "LifeTick",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Tracking goals with useful metrics and charts"
+                ],
+                "solutions": [
+                    "Allows tracking goals with useful metrics and charts"
+                ],
+                "key_features": [
+                    "Tracking goals with metrics and charts"
+                ]
+            },
+            {
+                "name": "Beeminder",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Setting and sticking to benchmarks to reach goals"
+                ],
+                "solutions": [
+                    "Makes it easier to set and stick to benchmarks"
+                ],
+                "key_features": [
+                    "Setting and sticking to benchmarks"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Free Plan": {
+                    "price": 0,
+                    "description": "Free, unlimited users"
+                },
+                "Paid Plan": {
+                    "price": 29.95,
+                    "description": "Unlimited users, access reports page to download pdf/excel files"
+                },
+                "NPO Plan": {
+                    "price": 0,
+                    "description": "Free, unlimited users for government, school, hospital, or other non-profit organizations"
+                },
+                "Group Plan": {
+                    "price": 99,
+                    "description": "Yearly fee for unlimited users, minimum order 10 companies, access full features"
+                }
+            }
+        }
+    },
+    "friday.app": {
+        "goal_tracking_apps": [
+            {
+                "app_name": "ClickUp",
+                "call_to_action": "Sign up for ClickUp for free, no credit card required!",
+                "usecases": "Project management, productivity, goal tracking",
+                "solutions": "All-in-one project management and productivity tool with goal-tracking feature",
+                "key_features": [
+                    "Clear timelines, measurable targets, and automatic progress tracking",
+                    "Customized targets and goal organization into folders",
+                    "Task, project, and goal management in one place"
+                ]
+            },
+            {
+                "app_name": "Clockify",
+                "call_to_action": "Sign up for Clockify",
+                "usecases": "Goal tracking, time management, project management",
+                "solutions": "Unlimited goal tracking with progress monitoring and time tracking",
+                "key_features": [
+                    "Break down goals into manageable tasks",
+                    "Pomodoro timer for focused work",
+                    "Dashboard analytics for progress tracking"
+                ]
+            },
+            {
+                "app_name": "Ambition",
+                "call_to_action": "Contact sales for pricing",
+                "usecases": "Sales gamification, goal tracking, team performance",
+                "solutions": "Customizable sales gamification tool for driving team performance",
+                "key_features": [
+                    "Break down business goals into daily, weekly, and monthly activities",
+                    "Custom metrics by role for understanding success factors",
+                    "Customize and automate notifications with Workflows"
+                ]
+            },
+            {
+                "app_name": "Lattice",
+                "call_to_action": "Request a demo",
+                "usecases": "Performance management, goal tracking, employee engagement",
+                "solutions": "People and performance management platform with goal tracking tools",
+                "key_features": [
+                    "Goal progress tracking with performance management",
+                    "Employee engagement with 1:1s and performance check-ins",
+                    "Actionable insights with advanced people analytics"
+                ]
+            },
+            {
+                "app_name": "Strides",
+                "call_to_action": "Sign up for Strides",
+                "usecases": "Flexible goal tracking, habit development, progress reporting",
+                "solutions": "Goal tracking app with SMART goal setting and progress visualization",
+                "key_features": [
+                    "SMART goal setting process",
+                    "Daily goal logging for focus",
+                    "On-track pace system for motivation"
+                ]
+            },
+            {
+                "app_name": "GoalsOnTrack",
+                "call_to_action": "Sign up for GoalsOnTrack",
+                "usecases": "Goal setting, task management, progress tracking",
+                "solutions": "Goal achieving system with interactive stats chart for progress visualization",
+                "key_features": [
+                    "SMART Goals creation",
+                    "Multi-level structure for breaking down goals",
+                    "Progress tracking by sub-goals, tasks, and outcomes"
+                ]
+            },
+            {
+                "app_name": "Trello",
+                "call_to_action": "Sign up for Trello",
+                "usecases": "Task and project management, goal tracking, team collaboration",
+                "solutions": "Versatile tool for managing tasks, projects, and goals with visual board",
+                "key_features": [
+                    "Simple interface with integration options",
+                    "Automation tools and features",
+                    "Powerful mobile application"
+                ]
+            },
+            {
+                "app_name": "Hive",
+                "call_to_action": "Try Hive for free",
+                "usecases": "Project management, goal tracking, team collaboration",
+                "solutions": "Cloud collaborative software for project management and goal tracking",
+                "key_features": [
+                    "AI features for custom workflows and collaboration",
+                    "Native third-party integrations",
+                    "Resource utilization charts for productivity tracking"
+                ]
+            },
+            {
+                "app_name": "Habitica",
+                "call_to_action": "Subscribe to Habitica",
+                "usecases": "Gamified goal tracking, habit development, team motivation",
+                "solutions": "Goal tracking app with gamification for virtual rewards and punishments",
+                "key_features": [
+                    "Fully customizable goal tracking and habit development",
+                    "Easy integration with various apps",
+                    "API for easy integration"
+                ]
+            },
+            {
+                "app_name": "Profit.co",
+                "call_to_action": "Start with Profit.co for free",
+                "usecases": "OKR management, task management, team alignment",
+                "solutions": "Task management software with OKR approach for team alignment and efficiency",
+                "key_features": [
+                    "Highly customizable and easy to use goal setting software",
+                    "Step-by-step guides and templates for instant OKRs",
+                    "Visual dashboard for progress visualization"
+                ]
+            },
+            {
+                "app_name": "Todoist",
+                "call_to_action": "Sign up for Todoist",
+                "usecases": "Task and project management, goal tracking, workflow organization",
+                "solutions": "Productivity app for managing and tracking projects and tasks with core features",
+                "key_features": [
+                    "Integration with other notable tools and applications",
+                    "Personalized projects with versatile board view",
+                    "Ready to use board templates for project kickstart"
+                ]
+            },
+            {
+                "app_name": "Weekdone",
+                "call_to_action": "Sign up for Weekdone",
+                "usecases": "OKR management, team coordination, progress tracking",
+                "solutions": "Goal tracking app with OKR features for structured goal setting and progress tracking",
+                "key_features": [
+                    "Tracking OKR progress and goals",
+                    "Cloud-based platform for easy access",
+                    "Collaboration and productivity improvement through feedback"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Free Forever Plan": "Free",
+                "Unlimited Plan": "$9 per user per month",
+                "Business Plan": "$19 per user per month",
+                "Business Plus Plan": "$29 per user per month",
+                "Enterprise Plan": "Custom pricing based on organization's needs"
+            }
+        }
+    },
+    "www.tability.io": {
+        "goal_achievement_app": {
+            "call_to_action": "Book a demo",
+            "usecases": [
+                "Goal setting with AI assistance",
+                "Tracking goals and OKRs",
+                "Reporting on-demand",
+                "Aligning efforts across the company",
+                "Tracking initiatives and tasks in relation to objectives",
+                "Conducting standups for quick daily check-ins"
+            ],
+            "solutions": [
+                "Automated goal tracking with AI assistance",
+                "Generating relevant action items for goal strategies",
+                "Quickly aligning teams with the built-in Strategy Map",
+                "Easily cascading goals through the organization",
+                "Automating accountability with weekly check-ins and data-sync",
+                "Instantly sharing health digests with stakeholders",
+                "Accelerating success with live progress dashboards"
+            ],
+            "key_features": {
+                "AI-assisted goal editing": "Helps in setting better goals",
+                "OKR and goal tracking": "Provides everything needed to stay on track with OKRs and goals",
+                "On-demand reporting": "Keeps users updated with the latest information",
+                "Alignment view": "Offers a full-company view of all goals without configuration",
+                "Initiatives and tasks tracking": "Allows tracking of important tasks and milestones in relation to objectives",
+                "Standups": "Enables quick daily check-ins to maintain focus throughout the week",
+                "Strategy Map": "Helps in quickly aligning teams and identifying areas that require attention",
+                "Cascading goals": "Facilitates easy creation of relationships between goals to map dependencies",
+                "Automated accountability": "Automates weekly check-ins and data-sync for objectives",
+                "Instant reporting": "Enables instant sharing of health digests with stakeholders",
+                "Live progress dashboards": "Provides visual progress tracking for informed decision-making"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Error",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "insideoutmastery.com": {
+        "Goals on Track": {
+            "call_to_action": "Get Goals on Track",
+            "usecases": [
+                "Personal goal-setting and tracking",
+                "Task management",
+                "Habit tracking",
+                "Vision board creation",
+                "Journaling",
+                "Document management"
+            ],
+            "solutions": "Comprehensive and structured digital app for personal goal-setting and tracking, task management, habit tracking, vision board creation, journaling, and document management.",
+            "key_features": {
+                "SMART goal-setting system": "Enables users to set Specific, Measurable, Achievable, Relevant, and Time-bound goals",
+                "Comprehensive task management system": "Allows users to create and manage tasks related to their goals",
+                "Integrated habit tracker": "Enables users to track and build new habits",
+                "Vision board": "Allows users to upload images reflecting their life goals",
+                "Journaling section": "Provides a space for users to reflect on their day, note thoughts, reminders, and ideas",
+                "Document uploads": "Enables users to upload files related to their goals"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "price": "$68/year",
+                "freeTrial": true
+            }
+        }
+    },
+    "clickup.com": {
+        "goal_achievement_apps": {
+            "ClickUp": {
+                "call_to_action": "Download ClickUp and access it on any device, anytime",
+                "usecases": [
+                    "Goal setting",
+                    "Project management"
+                ],
+                "solutions": "Goal setting and project management software",
+                "key_features": [
+                    "Automated goal tracking systems",
+                    "Dashboards and progress reports",
+                    "Workstreams for breaking down goals into simple to-dos",
+                    "Text and email notifications for staying on top of deadlines",
+                    "Mobile apps for revisiting goals on the go",
+                    "Weekly scorecards",
+                    "Dashboards",
+                    "Checklists",
+                    "Reminders",
+                    "Statuses",
+                    "Native time tracking",
+                    "Notepad",
+                    "Recurring tasks",
+                    "Views",
+                    "Mind maps",
+                    "Custom notifications",
+                    "Templates"
+                ]
+            },
+            "Databox": {
+                "call_to_action": "via Databox",
+                "usecases": [
+                    "Performance management",
+                    "KPI tracking"
+                ],
+                "solutions": "Performance management and KPI tracking tool",
+                "key_features": [
+                    "Visualizing goal progress in dashboards",
+                    "Monitoring progress using progress bars, tables, line or bar charts",
+                    "Notifications for goal achievement",
+                    "Assigning goals to teams and individuals"
+                ]
+            },
+            "Goalscape": {
+                "call_to_action": "via Goalscape",
+                "usecases": [
+                    "Visual goal setting",
+                    "Goal hierarchy management"
+                ],
+                "solutions": "Visual goal setting and hierarchy management tool",
+                "key_features": [
+                    "Setting and managing goals visually",
+                    "Assigning responsibility for goals",
+                    "Real-time progress tracking",
+                    "Setting goal priorities"
+                ]
+            },
+            "Goals.com": {
+                "call_to_action": "via Goals.com",
+                "usecases": [
+                    "Personal goal setting",
+                    "Habit tracking"
+                ],
+                "solutions": "Personal goal setting and habit tracking app",
+                "key_features": [
+                    "Built-in habit tracker",
+                    "Messaging platform for communication",
+                    "Regular progress reports and success summaries",
+                    "Creating a vision board"
+                ]
+            },
+            "Goals On Track": {
+                "call_to_action": "via Goals On Track",
+                "usecases": [
+                    "Goal setting and management",
+                    "Habit tracking"
+                ],
+                "solutions": "Goal setting and management tool with habit tracking feature",
+                "key_features": [
+                    "Creating goals from pre-made templates",
+                    "Time tracking and habit tracking features",
+                    "Interactive chart and goal report for personal goals and OKRs",
+                    "Setting recurring goals"
+                ]
+            },
+            "Engagedly": {
+                "call_to_action": "via Engagedly",
+                "usecases": [
+                    "Performance management",
+                    "Feedback culture"
+                ],
+                "solutions": "Performance management and feedback culture tool",
+                "key_features": [
+                    "Strategic goal and OKR tracking",
+                    "Real-time feedback",
+                    "Multiple ways to view team and individual goal progress"
+                ]
+            },
+            "Lattice": {
+                "call_to_action": "via Lattice",
+                "usecases": [
+                    "Employee performance management",
+                    "Professional skills growth"
+                ],
+                "solutions": "Employee performance management and professional skills growth tool",
+                "key_features": [
+                    "Separate products for performance, goals, and continuous improvement",
+                    "Dashboards for tracking team and individual goal progress"
+                ]
+            },
+            "Weekdone": {
+                "call_to_action": "via Weekdone",
+                "usecases": [
+                    "OKR tracking",
+                    "Weekly planning"
+                ],
+                "solutions": "OKR tracking and weekly planning tool",
+                "key_features": [
+                    "Weekly plan and check-in feature",
+                    "Reporting and data visualization",
+                    "Weekly progress emails"
+                ]
+            },
+            "Profit.co OKRs": {
+                "call_to_action": "via Profit.co",
+                "usecases": [
+                    "Team performance improvement",
+                    "OKR management"
+                ],
+                "solutions": "Team performance improvement and OKR management tool",
+                "key_features": [
+                    "Alignment dashboards",
+                    "Seven types of key results",
+                    "Linking tasks with key results"
+                ]
+            },
+            "15five": {
+                "call_to_action": "via 15five",
+                "usecases": [
+                    "Performance tracking",
+                    "OKR management"
+                ],
+                "solutions": "Performance tracking and OKR management tool",
+                "key_features": [
+                    "Tracking OKRs and team goals",
+                    "Real-time feedback",
+                    "Live dashboard for progress tracking"
+                ]
+            },
+            "Trakstar": {
+                "call_to_action": "via Trakstar",
+                "usecases": [
+                    "Business goal tracking",
+                    "Performance management"
+                ],
+                "solutions": "Business goal tracking and performance management tool",
+                "key_features": [
+                    "SMART goal feature",
+                    "Performance reviews and continuous feedback",
+                    "Automated email reminders"
+                ]
+            },
+            "Joe's Goals": {
+                "call_to_action": "via Joe's Goals",
+                "usecases": [
+                    "Personal goal setting",
+                    "Activity tracking"
+                ],
+                "solutions": "Personal goal setting and activity tracking app",
+                "key_features": [
+                    "Custom checklists for goals",
+                    "Logbook for jotting down activities and goals",
+                    "Daily score for tracking goals"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.business.com": {
+        "goal_setting_and_tracking_tools": {
+            "Asana": {
+                "call_to_action": "Sign up",
+                "usecases": "Collaboration, goal tracking",
+                "solutions": "Handy tracking tools, goal setting, progress tracking",
+                "key_features": [
+                    "Collaboration tools",
+                    "Goal setting",
+                    "Progress tracking"
+                ]
+            },
+            "Trello": {
+                "call_to_action": "Sign up",
+                "usecases": "Productivity, collaboration",
+                "solutions": "Kanban-style approach, productivity tracking, seamless collaboration",
+                "key_features": [
+                    "Kanban approach",
+                    "Productivity tracking",
+                    "Seamless collaboration"
+                ]
+            },
+            "Engagedly": {
+                "call_to_action": "Book a demo",
+                "usecases": "Performance management, employee engagement",
+                "solutions": "Performance execution, goal accomplishment strategies, OKRs and progress bars",
+                "key_features": [
+                    "Performance management",
+                    "Employee engagement",
+                    "OKRs and progress bars"
+                ]
+            },
+            "Friday": {
+                "call_to_action": "Talk to team",
+                "usecases": "Intranet solution for remote and hybrid teams",
+                "solutions": "Goal-tracking functionality, employee directories, workflow integration",
+                "key_features": [
+                    "Intranet solution",
+                    "Goal-tracking functionality",
+                    "Workflow integration"
+                ]
+            },
+            "15Five": {
+                "call_to_action": "Talk to team",
+                "usecases": "Performance management, HR",
+                "solutions": "Continuous performance management, insights for goal alignment",
+                "key_features": [
+                    "Continuous performance management",
+                    "Goal alignment insights"
+                ]
+            },
+            "Jira": {
+                "call_to_action": "Talk to team",
+                "usecases": "Agile teams, software development",
+                "solutions": "Agile task tracking, flexible planning, extensive reporting",
+                "key_features": [
+                    "Agile task tracking",
+                    "Flexible planning",
+                    "Extensive reporting"
+                ]
+            },
+            "Lattice": {
+                "call_to_action": "Book a demo",
+                "usecases": "Success platform, performance management",
+                "solutions": "Continuous performance management, integration with popular platforms",
+                "key_features": [
+                    "Continuous performance management",
+                    "Integration with popular platforms"
+                ]
+            },
+            "Weekdone": {
+                "call_to_action": "Sign up",
+                "usecases": "OKR software for small businesses and startups",
+                "solutions": "Goal-oriented culture, OKR reports, goal-based coaching",
+                "key_features": [
+                    "Goal-oriented culture",
+                    "OKR reports",
+                    "Goal-based coaching"
+                ]
+            },
+            "Namely": {
+                "call_to_action": "Talk to team",
+                "usecases": "HR, talent management",
+                "solutions": "Personalized attention to employees, tracking progress, linking objectives",
+                "key_features": [
+                    "Personalized attention",
+                    "Progress tracking",
+                    "Objective linking"
+                ]
+            },
+            "Databox": {
+                "call_to_action": "Sign up",
+                "usecases": "Central dashboard for performance tracking",
+                "solutions": "Multiple tools and functions, mix and match metrics",
+                "key_features": [
+                    "Central dashboard",
+                    "Mix and match metrics"
+                ]
+            },
+            "Goalscape": {
+                "call_to_action": "Sign up",
+                "usecases": "Visual goal setting and tracking",
+                "solutions": "Dynamic graph of priorities, sharing work with team members",
+                "key_features": [
+                    "Dynamic graph of priorities",
+                    "Team collaboration"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "successindepth.com": {
+        "goal_tracking_apps": [
+            {
+                "name": "Strides",
+                "platform": "iOS",
+                "usecases": "Helps achieve desired goals, sets reminders for daily habits, allows setting daily, weekly, or monthly goals, measures progress with graphs and charts",
+                "solutions": "Boosts productivity and goal accomplishment",
+                "key_features": [
+                    "Reminder setting",
+                    "Progress measurement",
+                    "Graphs and charts for progress visualization"
+                ]
+            },
+            {
+                "name": "LifeRPG",
+                "platform": "Android",
+                "usecases": "Visualizes progress, based on role-playing game format, features social media-style feed for sharing tips and encouragement",
+                "solutions": "Urges users to reach their objectives, transforms life",
+                "key_features": [
+                    "Visual progress tracking",
+                    "Role-playing game format",
+                    "Social media-style feed"
+                ]
+            },
+            {
+                "name": "Coach.me",
+                "platform": "iOS | Android",
+                "usecases": "Tracks habits, establishes accountability, provides weekly and monthly trend views of goal progress, creates custom reminders, offers built-in coaching system",
+                "solutions": "Encourages healthy habits, provides guidance from coaches",
+                "key_features": [
+                    "Habit tracking",
+                    "Accountability establishment",
+                    "Custom reminders",
+                    "Built-in coaching system"
+                ]
+            },
+            {
+                "name": "Habitica",
+                "platform": "iOS | Android",
+                "usecases": "Turns habit development into a game, allows setting tasks and goals, earns points for completing tasks, features leaderboards and achievements",
+                "solutions": "Makes habit development fun and rewarding",
+                "key_features": [
+                    "Gamified habit development",
+                    "Task and goal setting",
+                    "Points and rewards system",
+                    "Leaderboards and achievements"
+                ]
+            },
+            {
+                "name": "GoalsOnTrack",
+                "platform": "iOS",
+                "usecases": "Sets SMART goals, breaks goals into manageable steps, provides progress tracking and reminders, offers comprehensive reports and resources",
+                "solutions": "Streamlines goal-setting and success achievement",
+                "key_features": [
+                    "SMART goal setting",
+                    "Progress tracking",
+                    "Reminder setting",
+                    "Comprehensive reports and resources"
+                ]
+            },
+            {
+                "name": "Todoist",
+                "platform": "iOS | Android",
+                "usecases": "Task management, to-do list creation, reminder setting",
+                "solutions": "Prevents procrastination and helps attain goals",
+                "key_features": [
+                    "Task management",
+                    "To-do list creation",
+                    "Reminder setting"
+                ]
+            },
+            {
+                "name": "Way of Life",
+                "platform": "iOS | Android",
+                "usecases": "Tracks daily habits, provides progress tracking, offers community aspect for sharing progress and encouragement",
+                "solutions": "Motivates and aids in goal achievement",
+                "key_features": [
+                    "Habit tracking",
+                    "Progress tracking",
+                    "Community aspect for sharing progress"
+                ]
+            },
+            {
+                "name": "Toodledo",
+                "platform": "iOS | Android",
+                "usecases": "Goal setting, time management, task lists creation, due dates and reminders setting, progress tracking",
+                "solutions": "Aids in time management and goal achievement",
+                "key_features": [
+                    "Goal setting",
+                    "Time management",
+                    "Task lists creation",
+                    "Progress tracking"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.bestproducts.com": {
+        "goal_achievement_apps": [
+            {
+                "name": "DONE",
+                "price": "Free, or $39.99/year",
+                "features": "Neatly combines goal- and habit-tracking, custom color display, easy-to-edit multiple reminders, passcode protection, weekly, monthly, and yearly summaries, data export to CSV file",
+                "call_to_action": "Download Now",
+                "usecases": "Encourages users to meet or stay beneath a designated number per day, week, or month, provides summaries for progress tracking",
+                "solutions": "Encourages users to continue their success streak, provides gentle accountability, helps in breaking down goals into smaller, doable tasks"
+            },
+            {
+                "name": "Aloe Bud",
+                "price": "Free, or $4.99 for a lifetime subscription",
+                "features": "Focus on self-care, 8-bit graphics, 11 different categories of tracking, choice to check off a habit on a particular schedule or pause to reflect, customizable messaging with paid subscription",
+                "call_to_action": "Download Now",
+                "usecases": "Tracking self-care activities, providing gentle and motivational reminders",
+                "solutions": "Encourages self-care activities, provides gentle reminders for habit tracking"
+            },
+            {
+                "name": "Strides",
+                "price": "Free, or $4.99/month, $29.99/year, $79.99/lifetime access",
+                "features": "Uses SMART goal categories, daily habit tracking, accountability through color-coded highlights, relevant to achieving any goal",
+                "call_to_action": "Download Now",
+                "usecases": "Setting and tracking daily habits relevant to achieving any goal, holding oneself accountable to goals",
+                "solutions": "Encourages setting SMART goals, provides daily habit tracking and accountability"
+            },
+            {
+                "name": "Forest: Stay Focused",
+                "price": "$1.99 for lifetime access",
+                "features": "Pomodoro-style timer, distraction-busting, gamified approach, syncs with desktop Chrome Extension, rewards with coins for focused work",
+                "call_to_action": "Download Now",
+                "usecases": "Helping users stay focused and avoid distractions, gamified approach to work",
+                "solutions": "Encourages focused work, provides rewards for maintaining focus"
+            },
+            {
+                "name": "Way of Life",
+                "price": "Free, or $7.99 for lifetime access",
+                "features": "Top-rated habit-tracker, daily checklist approach, note-taking functionality, progress visualization, chain approach for visible encouragement",
+                "call_to_action": "Download Now",
+                "usecases": "Daily habit tracking, note-taking for context, progress visualization",
+                "solutions": "Encourages daily habit tracking, provides progress visualization and visible encouragement"
+            },
+            {
+                "name": "Fabulous",
+                "price": "Free, or $35.99/year",
+                "features": "Science-based approach, pre-planned sessions for happier mornings and more productive workdays, integrates various programs for dieting, fitness, and mindfulness exercises",
+                "call_to_action": "Download Now",
+                "usecases": "Fine-tuning daily routines, experiencing happier mornings and more productive workdays",
+                "solutions": "Provides science-based approach, integrates programs for various aspects of wellness"
+            },
+            {
+                "name": "HabitBull",
+                "price": "Free, or $5.00 for lifetime access",
+                "features": "Clean, colorful interface, flexible goal-setting style, push notifications, tracking of up to 100 habits with premium version",
+                "call_to_action": "Download Now",
+                "usecases": "Tracking various habits, flexible goal-setting, push notifications for reminders",
+                "solutions": "Provides flexibility in goal-setting, offers push notifications for reminders"
+            },
+            {
+                "name": "Loop Habit Tracker",
+                "price": "Free",
+                "features": "Simple design, intuitive setup, progress visualization, notifications for push in the right direction",
+                "call_to_action": "Download Now",
+                "usecases": "Checking off tasks, progress visualization, notifications for encouragement",
+                "solutions": "Encourages completion of tasks, provides progress visualization and notifications"
+            },
+            {
+                "name": "Streaks",
+                "price": "$4.99 for lifetime access",
+                "features": "Emphasis on daily and weekly habit-tracking, highly customizable user interface, integration with iOS Health app",
+                "call_to_action": "Download Now",
+                "usecases": "Daily and weekly habit-tracking, customization of user interface, integration with iOS Health app",
+                "solutions": "Encourages daily and weekly habit-tracking, provides customization and health app integration"
+            },
+            {
+                "name": "Productive",
+                "price": "Free, or $6.99/month, $29.99/year",
+                "features": "Prioritizes habit streaks, time-of-day reminders, streak statistics, week-over-week progress tracking with paid version",
+                "call_to_action": "Download Now",
+                "usecases": "Prioritizing habit streaks, tracking progress, setting time-of-day reminders",
+                "solutions": "Encourages habit streaks, provides progress tracking and reminders"
+            },
+            {
+                "name": "Trello",
+                "price": "Free",
+                "features": "Project-manager mindset, to-do list management, recurring reminders, color-coded tasks, scheduling future events",
+                "call_to_action": "Download Now",
+                "usecases": "Managing to-dos, recurring reminders, task delegation, project management",
+                "solutions": "Provides task management, reminders, and project coordination"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    }
+}
