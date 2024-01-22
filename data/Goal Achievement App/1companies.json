@@ -1,89 +1,118 @@
 {
     "apps.apple.com": {
-        "url": "https://apps.apple.com/us/app/strides-goal-habit-tracker/id672401817"
+        "url": "https://apps.apple.com/us/app/strides-goal-habit-tracker/id672401817",
+        "nature": "single project"
     },
     "reclaim.ai": {
-        "url": "https://reclaim.ai/blog/goal-tracker-apps"
+        "url": "https://reclaim.ai/blog/goal-tracker-apps",
+        "nature": "single project"
     },
     "blog.superhuman.com": {
-        "url": "https://blog.superhuman.com/apps-for-goal-tracking/"
+        "url": "https://blog.superhuman.com/apps-for-goal-tracking/",
+        "nature": "single project"
     },
     "www.lifewire.com": {
-        "url": "https://www.lifewire.com/best-goal-setting-apps-3485941"
+        "url": "https://www.lifewire.com/best-goal-setting-apps-3485941",
+        "nature": "single project"
     },
     "play.google.com": {
-        "url": "https://play.google.com/store/apps/details?id=com.dreamfora.dreamfora&hl=en_US&gl=US"
+        "url": "https://play.google.com/store/apps/details?id=com.dreamfora.dreamfora&hl=en_US&gl=US",
+        "nature": "single project"
     },
     "www.lifehack.org": {
-        "url": "https://www.lifehack.org/855964/goal-tracking-app"
+        "url": "https://www.lifehack.org/855964/goal-tracking-app",
+        "nature": "single project"
     },
     "crm.org": {
-        "url": "https://crm.org/news/best-goal-tracking-app"
+        "url": "https://crm.org/news/best-goal-tracking-app",
+        "nature": "single project"
     },
     "hive.com": {
-        "url": "https://hive.com/blog/goal-tracking-apps/"
+        "url": "https://hive.com/blog/goal-tracking-apps/",
+        "nature": "single project"
     },
     "hubstaff.com": {
-        "url": "https://hubstaff.com/blog/goal-tracking-apps/"
+        "url": "https://hubstaff.com/blog/goal-tracking-apps/",
+        "nature": "single project"
     },
     "www.fingerprintforsuccess.com": {
-        "url": "https://www.fingerprintforsuccess.com/blog/goal-tracking-app"
+        "url": "https://www.fingerprintforsuccess.com/blog/goal-tracking-app",
+        "nature": "single project"
     },
     "everhour.com": {
-        "url": "https://everhour.com/blog/best-goal-tracking-apps/"
+        "url": "https://everhour.com/blog/best-goal-tracking-apps/",
+        "nature": "single project"
     },
     "www.focalityapp.com": {
-        "url": "https://www.focalityapp.com/en/goal-achievement-app/"
+        "url": "https://www.focalityapp.com/en/goal-achievement-app/",
+        "nature": "single project"
     },
     "blog.bit.ai": {
-        "url": "https://blog.bit.ai/goal-tracking-apps-and-tools/"
+        "url": "https://blog.bit.ai/goal-tracking-apps-and-tools/",
+        "nature": "single project"
     },
     "lifetick.com": {
-        "url": "https://lifetick.com/"
+        "url": "https://lifetick.com/",
+        "nature": "single project"
     },
     "evantarver.com": {
-        "url": "https://evantarver.com/best-goal-setting-app/"
+        "url": "https://evantarver.com/best-goal-setting-app/",
+        "nature": "single project"
     },
     "timelyapp.com": {
-        "url": "https://timelyapp.com/blog/8-best-goal-tracking-apps-for-your-team"
+        "url": "https://timelyapp.com/blog/8-best-goal-tracking-apps-for-your-team",
+        "nature": "single project"
     },
     "weekplan.net": {
-        "url": "https://weekplan.net/best-goal-setting-apps/"
+        "url": "https://weekplan.net/best-goal-setting-apps/",
+        "nature": "single project"
     },
     "www.goalsontrack.com": {
-        "url": "https://www.goalsontrack.com/"
+        "url": "https://www.goalsontrack.com/",
+        "nature": "single project"
     },
     "clockify.me": {
-        "url": "https://clockify.me/blog/apps-tools/best-goal-tracker-apps/"
+        "url": "https://clockify.me/blog/apps-tools/best-goal-tracker-apps/",
+        "nature": "single project"
     },
     "www.developgoodhabits.com": {
-        "url": "https://www.developgoodhabits.com/goal-apps/"
+        "url": "https://www.developgoodhabits.com/goal-apps/",
+        "nature": "single project"
     },
     "goalscape.com": {
-        "url": "https://goalscape.com/"
+        "url": "https://goalscape.com/",
+        "nature": "single project"
     },
     "www.opentimeclock.com": {
-        "url": "https://www.opentimeclock.com/blog1/The11BestgoaltrackerappstoHelpYo.html"
+        "url": "https://www.opentimeclock.com/blog1/The11BestgoaltrackerappstoHelpYo.html",
+        "nature": "single project"
     },
     "friday.app": {
-        "url": "https://friday.app/p/goal-tracking-apps"
+        "url": "https://friday.app/p/goal-tracking-apps",
+        "nature": "single project"
     },
     "www.tability.io": {
-        "url": "https://www.tability.io/"
+        "url": "https://www.tability.io/",
+        "nature": "single project"
     },
     "insideoutmastery.com": {
-        "url": "https://insideoutmastery.com/goals-on-track-review/"
+        "url": "https://insideoutmastery.com/goals-on-track-review/",
+        "nature": "single project"
     },
     "clickup.com": {
-        "url": "https://clickup.com/blog/goal-setting-software/"
+        "url": "https://clickup.com/blog/goal-setting-software/",
+        "nature": "single project"
     },
     "www.business.com": {
-        "url": "https://www.business.com/articles/11-best-tools-for-setting-and-tracking-goals/"
+        "url": "https://www.business.com/articles/11-best-tools-for-setting-and-tracking-goals/",
+        "nature": "single project"
     },
     "successindepth.com": {
-        "url": "https://successindepth.com/best-goal-tracking-apps/"
+        "url": "https://successindepth.com/best-goal-tracking-apps/",
+        "nature": "single project"
     },
     "www.bestproducts.com": {
-        "url": "https://www.bestproducts.com/tech/apps/g18727990/goal-and-habit-tracking-apps/"
+        "url": "https://www.bestproducts.com/tech/apps/g18727990/goal-and-habit-tracking-apps/",
+        "nature": "single project"
     }
 }
