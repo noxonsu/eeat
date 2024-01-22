@@ -1,0 +1,82 @@
+{
+    "title": "Optimized Goal Achievement App Features",
+    "intro": "This list represents the optimized features of goal achievement apps. A total of 29 sites and 49 features were analyzed to create this comprehensive and streamlined list.",
+    "features": {
+        "Core Functionality": {
+            "title": "Core Functionality",
+            "features": [
+                "Establish core values (1)",
+                "Follow S.M.A.R.T. methodology (1)",
+                "Set SMART goals (1)",
+                "Break down long-term goals into milestones or sub-goals (1)",
+                "Organize goals with categories (1)",
+                "Build detailed action plans (1)",
+                "Recurring tasks for flexible task scheduling (1)",
+                "Build habits and link them to goals (1)"
+            ]
+        },
+        "Visualization and Organization": {
+            "title": "Visualization and Organization",
+            "features": [
+                "Chart progress (1)",
+                "Goal Radial Map: Visual representation of goals, priorities, and progress (1)",
+                "Information Management: Add goal background details, insert notes and attachments, set timescales, assign responsibility, and add contextual tags (1)",
+                "Focus Tools: Filter goals, create action lists, share goals with others, use 'Now' and 'Next' tags (1)",
+                "Goal templates with detailed action plans (1)",
+                "Team goal sharing and progress tracking (1)",
+                "Customizable look (1)"
+            ]
+        },
+        "Communication and Collaboration": {
+            "title": "Communication and Collaboration",
+            "features": [
+                "Share goals with others (1)",
+                "Communication Features: Goal-focused communication, commenting on goals, email notifications (1)",
+                "Team goal sharing and progress tracking (1)"
+            ]
+        },
+        "Data Management and Accessibility": {
+            "title": "Data Management and Accessibility",
+            "features": [
+                "Write journal entries (1)",
+                "Capture dreams (1)",
+                "Built-in journal tool for organizing goals (1)",
+                "Data sync with favorite calendars (1)",
+                "One-click backup feature (1)",
+                "Unlimited access to web and mobile apps (1)",
+                "Responsive design for all screen sizes (1)",
+                "Free access to all downloadable resources (1)",
+                "Document uploads: Enables users to upload files related to their goals (1)"
+            ]
+        },
+        "Advanced Features": {
+            "title": "Advanced Features",
+            "features": [
+                "Get detailed reports (1)",
+                "AI-assisted goal editing: Helps in setting better goals (1)",
+                "OKR and goal tracking: Provides everything needed to stay on track with OKRs and goals (1)",
+                "On-demand reporting: Keeps users updated with the latest information (1)",
+                "Alignment view: Offers a full-company view of all goals without configuration (1)",
+                "Initiatives and tasks tracking: Allows tracking of important tasks and milestones in relation to objectives (1)",
+                "Standups: Enables quick daily check-ins to maintain focus throughout the week (1)",
+                "Strategy Map: Helps in quickly aligning teams and identifying areas that require attention (1)",
+                "Cascading goals: Facilitates easy creation of relationships between goals to map dependencies (1)",
+                "Automated accountability: Automates weekly check-ins and data-sync for objectives (1)",
+                "Instant reporting: Enables instant sharing of health digests with stakeholders (1)",
+                "Live progress dashboards: Provides visual progress tracking for informed decision-making (1)",
+                "Comprehensive task management system: Allows users to create and manage tasks related to their goals (1)",
+                "Integrated habit tracker: Enables users to track and build new habits (1)",
+                "Vision board: Allows users to upload images reflecting their life goals (1)",
+                "Journaling section: Provides a space for users to reflect on their day, note thoughts, reminders, and ideas (1)"
+            ]
+        },
+        "Additional Benefits": {
+            "title": "Additional Benefits",
+            "features": [
+                "Free upgrade on new features and future add-ons (1)",
+                "Free technical support on software usage (1)",
+                "Bonus e-books on success and motivation (1)"
+            ]
+        }
+    }
+}
