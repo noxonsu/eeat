@@ -1,0 +1,1749 @@
+{
+    "www.pharmaceutical-technology.com": {
+        "medicine_manufacturers": {
+            "Johnson & Johnson": {
+                "call_to_action": "talk to a manager",
+                "usecases": [
+                    "development of a vaccine to fight COVID-19",
+                    "pharmaceutical business",
+                    "consumer health segment"
+                ],
+                "solutions": [
+                    "immunology portfolio",
+                    "oncology portfolio",
+                    "COVID-19 vaccine development"
+                ],
+                "key_features": [
+                    "Ad26 vector technology",
+                    "PER.C6 manufacturing platform"
+                ]
+            },
+            "Pfizer": {
+                "call_to_action": "book a demo",
+                "usecases": [
+                    "biopharma segment",
+                    "consumer healthcare businesses",
+                    "pharmaceutical business"
+                ],
+                "solutions": [
+                    "joint venture with GSK",
+                    "acquisition of Array BioPharma and Therachon Holding"
+                ],
+                "key_features": [
+                    "BNT162 mRNA COVID-19 vaccine",
+                    "joint venture with GSK"
+                ]
+            },
+            "Roche": {
+                "call_to_action": "talk to team",
+                "usecases": [
+                    "pharmaceutical division",
+                    "oncology drugs",
+                    "biosimilars business"
+                ],
+                "solutions": [
+                    "Tecentriq in oncology",
+                    "Actemra/RoActemra in immunology",
+                    "COVID-19 pneumonia treatment"
+                ],
+                "key_features": [
+                    "cobas SARS-CoV-2 test",
+                    "oncology drugs"
+                ]
+            },
+            "Novartis": {
+                "call_to_action": "sign up",
+                "usecases": [
+                    "innovative medicines division",
+                    "Sandoz division",
+                    "international markets"
+                ],
+                "solutions": [
+                    "spin-off of the Alcon segment",
+                    "acquisition of The Medicines Company",
+                    "collaborations for COVID-19 research"
+                ],
+                "key_features": [
+                    "Zolgensma for spinal muscular atrophy",
+                    "Beovu for age-related macular degeneration"
+                ]
+            },
+            "Merck & Co.": {
+                "call_to_action": "talk to team",
+                "usecases": [
+                    "oncology division",
+                    "human health vaccines",
+                    "animal health division"
+                ],
+                "solutions": [
+                    "acquisition of clinical-stage biopharmaceutical companies",
+                    "collaboration with Institute for Systems Biology"
+                ],
+                "key_features": [
+                    "Keytruda for cancer treatment",
+                    "experimental COVID-19 vaccine candidate"
+                ]
+            },
+            "GlaxoSmithKline": {
+                "call_to_action": "book a demo",
+                "usecases": [
+                    "pharmaceuticals and vaccines products",
+                    "consumer health division",
+                    "collaborations for COVID-19 vaccine development"
+                ],
+                "solutions": [
+                    "acquisition of Tesaro",
+                    "collaboration with Sanofi for COVID-19 vaccine"
+                ],
+                "key_features": [
+                    "Shingrix shingles vaccine",
+                    "respiratory drugs Trelegy and Nucala"
+                ]
+            },
+            "Sanofi": {
+                "call_to_action": "talk to team",
+                "usecases": [
+                    "flagship products of pharmaceutical division",
+                    "emerging markets",
+                    "collaborations for COVID-19 treatment"
+                ],
+                "solutions": [
+                    "approval of Libtayo for cutaneous squamous cell carcinoma",
+                    "collaboration with Luminostics for self-testing solution"
+                ],
+                "key_features": [
+                    "Lantus insulin drug",
+                    "Libtayo for cancer treatment"
+                ]
+            },
+            "AbbVie": {
+                "call_to_action": "sign up",
+                "usecases": [
+                    "flagship products including Humira",
+                    "international markets",
+                    "acquisition of Allergan"
+                ],
+                "solutions": [
+                    "evaluation of IMBRUVICA for COVID-19 treatment",
+                    "collaboration with health authorities for COVID-19 therapies"
+                ],
+                "key_features": [
+                    "Humira for rheumatoid arthritis",
+                    "IMBRUVICA for cancer treatment"
+                ]
+            },
+            "Takeda": {
+                "call_to_action": "talk to team",
+                "usecases": [
+                    "sales from Shire acquisition",
+                    "gastroenterology products",
+                    "divestment of assets"
+                ],
+                "solutions": [
+                    "acquisition of Shire",
+                    "divestment of non-core products",
+                    "development of hyperimmune globulin treatment for COVID-19"
+                ],
+                "key_features": [
+                    "ENTYVIO for gastrointestinal diseases",
+                    "VELCADE for cancer treatment"
+                ]
+            },
+            "Shanghai Pharmaceuticals Holding": {
+                "call_to_action": "book a demo",
+                "usecases": [
+                    "pharmaceutical service segment",
+                    "pharmaceutical manufacturing segment",
+                    "collaborations for drug development"
+                ],
+                "solutions": [
+                    "collaboration with Russian biopharmaceutical company BIOCAD",
+                    "reverse consolidation by merger with Oncternal"
+                ],
+                "key_features": [
+                    "collaboration with colleges and universities for drug development",
+                    "increase in production of anti-virus and immune regulation drugs"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.empr.com": {
+        "medicine_manufacturers": {
+            "Azurity Pharmaceuticals": {
+                "call_to_action": "Contact Us",
+                "usecases": [
+                    "Pediatric medications",
+                    "Geriatric medications",
+                    "Specialized formulations"
+                ],
+                "solutions": "Develops and manufactures high-quality, safe, and effective medications for various age groups and medical needs.",
+                "key_features": {
+                    "1": "Specialized formulations for specific patient populations",
+                    "2": "Focus on safety and effectiveness",
+                    "3": "Diverse range of medications for different therapeutic categories"
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "pricesAndPlans": {
+                "Repatha": "$5,850 per year"
+            },
+            "businessModel": "Subscription and Advertising"
+        }
+    },
+    "www.fiercepharma.com": {
+        "medicine_manufacturers": {
+            "Fierce Pharma": {
+                "call_to_action": "Subscribe",
+                "usecases": [
+                    "Pharma news and updates",
+                    "Insights into pharmaceutical industry",
+                    "Information on drug delivery and manufacturing facilities"
+                ],
+                "solutions": "Provides news, reports, and resources related to the pharmaceutical industry",
+                "key_features": "Insights into vaccines, cell & gene therapy, drug delivery, manufacturing facilities, recalls, warning letters, and executives"
+            },
+            "Fierce Biotech": {
+                "call_to_action": "Subscribe",
+                "usecases": [
+                    "Biotech news and updates",
+                    "Insights into biotechnology industry",
+                    "Information on biotech research and development"
+                ],
+                "solutions": "Offers news, reports, and resources related to the biotechnology industry",
+                "key_features": "Insights into biotech research, development, and industry events"
+            },
+            "Fierce Healthcare": {
+                "call_to_action": "Subscribe",
+                "usecases": [
+                    "Healthcare news and updates",
+                    "Insights into healthcare industry",
+                    "Information on healthcare facilities and services"
+                ],
+                "solutions": "Delivers news, reports, and resources related to the healthcare industry",
+                "key_features": "Insights into healthcare facilities, services, and industry events"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.drugs.com": {
+        "medicine_manufacturers": {
+            "A-S Medication Solutions": {
+                "call_to_action": "Contact a manager for more information",
+                "usecases": "Manufacturing and distributing pharmaceutical products",
+                "solutions": "Providing a wide range of pharmaceutical products",
+                "key_features": "Diverse product portfolio, manufacturing capabilities"
+            },
+            "Abbott Laboratories": {
+                "call_to_action": "Book a demo for their products",
+                "usecases": "Developing and selling medical devices, diagnostics, and branded generic pharmaceuticals",
+                "solutions": "Offering a variety of healthcare products and services",
+                "key_features": "Innovative medical devices, diagnostics, pharmaceuticals"
+            },
+            "AbbVie": {
+                "call_to_action": "Talk to their team for collaboration opportunities",
+                "usecases": "Researching and developing pharmaceutical products",
+                "solutions": "Focusing on immunology, oncology, neuroscience, and virology",
+                "key_features": "Specialization in specific therapeutic areas, research-driven approach"
+            },
+            "Acorda Therapeutics": {
+                "call_to_action": "Sign up for updates on their products",
+                "usecases": "Developing therapies for neurological disorders",
+                "solutions": "Providing treatments for conditions such as Parkinson's disease and multiple sclerosis",
+                "key_features": "Neurology-focused therapies, disease-specific treatments"
+            },
+            "AstraZeneca": {
+                "call_to_action": "Request a consultation with their experts",
+                "usecases": "Researching, developing, and manufacturing prescription medicines",
+                "solutions": "Offering medications in various therapeutic areas including cardiovascular, respiratory, and oncology",
+                "key_features": "Diverse therapeutic areas, focus on innovation"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "phrma.org": {
+        "medicine_manufacturers": {
+            "company_name": "Pharmaceutical Research and Manufacturers of America (PhRMA)",
+            "call_to_action": "Contact Us",
+            "usecases": [
+                "Driving patient-centered progress in innovation, affordability, and access to life-saving prescription medicines",
+                "Developing new treatments to improve patients' health and save lives",
+                "Reducing healthcare costs and improving access to medicines",
+                "Improving health outcomes for patients in underserved communities",
+                "Addressing misaligned incentives in the healthcare system"
+            ],
+            "solutions": "PhRMA is working to drive patient-centered progress in innovation, affordability, and access to life-saving prescription medicines. They are committed to developing new treatments to improve patients' health and save lives, reducing healthcare costs, improving access to medicines, and addressing misaligned incentives in the healthcare system.",
+            "key_features": {
+                "1": "Driving patient-centered progress in innovation, affordability, and access to life-saving prescription medicines",
+                "2": "Developing new treatments to improve patients' health and save lives",
+                "3": "Reducing healthcare costs and improving access to medicines",
+                "4": "Improving health outcomes for patients in underserved communities",
+                "5": "Addressing misaligned incentives in the healthcare system"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.iqvia.com": {
+        "medicine_manufacturers": {
+            "IQVIA": {
+                "call_to_action": "Contact Us",
+                "usecases": [
+                    "Clinical development optimization",
+                    "Real world evidence generation",
+                    "Commercial model enhancement",
+                    "Integrated compliance orchestration",
+                    "End-to-end life sciences intelligence"
+                ],
+                "solutions": [
+                    "Research & Development",
+                    "Real World Evidence",
+                    "Commercialization",
+                    "Safety & Regulatory Compliance",
+                    "Technologies"
+                ],
+                "key_features": {
+                    "Research & Development": [
+                        "Clinical Trials",
+                        "Functional Services",
+                        "Decentralized Trials",
+                        "Consulting",
+                        "Therapeutic Expertise",
+                        "Site and Investigators"
+                    ],
+                    "Real World Evidence": [
+                        "Real World & Health Data Sets",
+                        "Medical Affairs",
+                        "Health Data Apps & AI",
+                        "Health Data Transformation",
+                        "Study Design",
+                        "Evidence Networks",
+                        "Health Economics & Value",
+                        "Regulatory and Safety",
+                        "Natural Language Processing",
+                        "Real World Evidence Library"
+                    ],
+                    "Commercialization": [
+                        "COVID-19 & Commercialization",
+                        "Launch Strategy & Management",
+                        "Brand Strategy & Management",
+                        "Pricing & Market Access",
+                        "Healthcare Professional Engagement",
+                        "Patient Engagement",
+                        "Promotional Strategy"
+                    ],
+                    "Safety & Regulatory Compliance": [
+                        "Safety Pharmacovigilance",
+                        "Regulatory Compliance",
+                        "Quality Compliance",
+                        "Medical Information",
+                        "Commercial Compliance"
+                    ],
+                    "Technologies": [
+                        "Orchestrated Clinical Trials",
+                        "Enterprise Information Management",
+                        "Performance Management & Insights",
+                        "Provider Reference Data Network",
+                        "Customer Engagement",
+                        "Commercial Compliance",
+                        "Safety, Regulatory, Quality Compliance",
+                        "Developer",
+                        "Partner Programs",
+                        "Technology Insights"
+                    ]
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.drugwatch.com": {
+        "medicine_manufacturers": {
+            "Big_Pharma": {
+                "call_to_action": "Get a Free Case Review",
+                "usecases": "Pharmaceuticals, prescription drugs, medical devices",
+                "solutions": "Providing reliable, trusted information about medications, medical devices, and general health; connecting people injured by drugs and medical devices with top-ranked national law firms",
+                "key_features": "Empowering patients, connecting with legal partners, providing reliable information"
+            },
+            "Top_Medical_Devices_Companies": {
+                "call_to_action": "Get a Free Case Review",
+                "usecases": "Medical devices, surgical implants, diagnostic machines",
+                "solutions": "Assisting patients and their families, helping people find legal help, providing medical and legal information",
+                "key_features": "A+ rating from the Better Business Bureau, 5-star reviewed medical and legal information site"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "accesstomedicinefoundation.org": {
+        "medicine_manufacturers": {
+            "Access To Medicine Foundation": {
+                "call_to_action": "Contact the Access To Medicine Foundation for more information",
+                "usecases": [
+                    "Assessing pharmaceutical companies' efforts to expand access to medicine in low- and middle-income countries",
+                    "Ranking and assessing pharmaceutical companies based on their performance in access to medicine priorities",
+                    "Providing insights and analysis on the pharmaceutical industry's progress in addressing access to medicine challenges"
+                ],
+                "solutions": "Publishing report cards and company profiles that assess the actions companies are taking to address key access-to-medicine priorities, setting out opportunities for improvement. Companies analyzed by the Index and the AMR Benchmark are also scored and ranked on their performance.",
+                "key_features": {
+                    "Access to Medicine Index": "Assesses 20 of the world\u2019s largest pharmaceutical companies in relation to their efforts to expand access to medicine for people living in 108 low- and middle-income countries",
+                    "AMR Benchmark": "Assesses how pharma companies tackle drug resistance & ensure appropriate access",
+                    "Generic & Biosimilar Medicines Programme": "Assesses major generic and biosimilar medicine manufacturers' efforts to expand access to their essential products in low- and middle-income countries"
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "company": "Generic and biosimilar medicine manufacturers",
+                "businessModel": "Provide large quantities of medicines, and sell them at lower prices and smaller profit margins than originator companies. Focus on producing and distributing generic or biosimilar versions of off-patent drugs, as well as in-licensed products via licensing agreements with originator companies."
+            }
+        }
+    },
+    "www.pfizer.com": {
+        "manufacturer": "Pfizer",
+        "products": {
+            "how_drugs_are_made": {
+                "branded_vs_generic": "Pfizer provides information on the difference between branded and generic drugs, highlighting the importance of quality and safety.",
+                "biologics_and_biosimilars": "Pfizer offers information on biologics and biosimilars, emphasizing the significance of cures found in nature.",
+                "commitment_to_quality": "Pfizer demonstrates its commitment to maintaining the highest standards of quality in drug manufacturing.",
+                "global_supply": "Pfizer highlights its strategic manufacturing locations for ensuring a global supply of medicines.",
+                "manufacturing_sites": "Pfizer provides information on the locations where its medicines are manufactured in the U.S."
+            },
+            "medicine_safety": {
+                "health_literacy": "Pfizer offers resources for patients to learn about health literacy and being well.",
+                "treatment_choices": "Pfizer provides information to help patients understand treatment decisions.",
+                "partnering_with_patients": "Pfizer encourages patients to report side effects and participate in improving medication safety.",
+                "tips_for_patients": "Pfizer provides tips for patients to prevent medication errors.",
+                "reporting_adverse_events": "Pfizer emphasizes the importance of reporting adverse events for medication safety.",
+                "counterfeiting": "Pfizer addresses the issue of preventing medication errors and counterfeit drugs.",
+                "product_safety": "Pfizer focuses on ensuring the safety of its products."
+            }
+        },
+        "call_to_action": "Explore Our Pipeline",
+        "usecases": "Pfizer's products and resources cater to patients, healthcare professionals, and individuals interested in understanding drug manufacturing and safety.",
+        "solutions": "Pfizer offers a range of solutions including information on drug manufacturing, safety resources for patients, and commitment to maintaining high-quality standards.",
+        "key_features": {
+            "branded_vs_generic": "Information on the difference between branded and generic drugs",
+            "biologics_and_biosimilars": "Emphasis on cures found in nature",
+            "commitment_to_quality": "Demonstration of maintaining highest standards of quality",
+            "global_supply": "Strategic manufacturing locations for global supply",
+            "manufacturing_sites": "Information on locations of medicine manufacturing",
+            "health_literacy": "Resources for patients to learn about health literacy",
+            "treatment_choices": "Information to help patients understand treatment decisions",
+            "partnering_with_patients": "Encouragement for patients to report side effects and improve medication safety",
+            "tips_for_patients": "Providing tips for patients to prevent medication errors",
+            "reporting_adverse_events": "Emphasis on the importance of reporting adverse events",
+            "counterfeiting": "Addressing the issue of preventing medication errors and counterfeit drugs",
+            "product_safety": "Focus on ensuring the safety of products"
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.horiba.com": {
+        "medicine_manufacturers": {
+            "company_name": "HORIBA",
+            "products": {
+                "FLIMera": {
+                    "usecases": "Dynamic FLIM studies at real time video rates",
+                    "solutions": "SPAD array imaging camera",
+                    "key_features": "Real-time video rates, SPAD array imaging"
+                },
+                "ViewSizer 3000": {
+                    "usecases": "Simultaneous Multi-Laser Nanoparticle Tracking Analysis (NTA)",
+                    "solutions": "Nanoparticle tracking analysis",
+                    "key_features": "Simultaneous multi-laser, Nanoparticle tracking"
+                },
+                "Aqualog - Water Treatment Plant Analyzer": {
+                    "usecases": "Automated Organic Analysis & Early Warning Sentinel",
+                    "solutions": "Organic analysis and early warning system",
+                    "key_features": "Automated analysis, Early warning system"
+                },
+                "LabRAM Soleil Nano": {
+                    "usecases": "Real-time and Direct Correlative Nanoscopy",
+                    "solutions": "Correlative nanoscopy",
+                    "key_features": "Real-time imaging, Correlative nanoscopy"
+                },
+                "LAQUA 21 CFR Part 11 Software": {
+                    "usecases": "Compliance with 21 CFR Part 11 regulations",
+                    "solutions": "Software for regulatory compliance",
+                    "key_features": "Regulatory compliance, CFR Part 11"
+                }
+            },
+            "call_to_action": "Contact for product demo",
+            "usecases": "Medicine manufacturing technologies",
+            "solutions": "Innovative technologies for drug manufacturing",
+            "key_features": "Fluorescence spectroscopy, Raman spectroscopy, Particle size analyzers, Capacitance manometer, Gas monitor Micropole systems"
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "themedicinemaker.com": {
+        "medicine_manufacturers": {
+            "company_name": "The Medicine Maker",
+            "services": {
+                "Analytical Science": {
+                    "criteria": {
+                        "Quality of Analytical Equipment": "High-quality analytical equipment for accurate testing and analysis",
+                        "Expertise in Analytical Method Development": "Experienced in developing analytical methods for pharmaceutical products",
+                        "Regulatory Compliance": "Adherence to regulatory standards for analytical testing"
+                    },
+                    "call_to_action": "Talk to a manager",
+                    "usecases": "Used for testing and analyzing pharmaceutical products to ensure quality and compliance",
+                    "solutions": "Provides analytical equipment, method development services, and regulatory compliance support",
+                    "key_features": [
+                        "High-quality analytical equipment",
+                        "Experienced method development",
+                        "Regulatory adherence"
+                    ]
+                },
+                "Clinical Trials": {
+                    "criteria": {
+                        "Patient Recruitment and Retention": "Effective strategies for patient recruitment and retention in clinical trials",
+                        "Data Management and Analysis": "Robust data management and analysis capabilities",
+                        "Compliance with Good Clinical Practice (GCP)": "Adherence to GCP standards for conducting clinical trials"
+                    },
+                    "call_to_action": "Book a demo",
+                    "usecases": "Utilized for conducting clinical trials for pharmaceutical products",
+                    "solutions": "Offers patient recruitment strategies, data management tools, and GCP compliance support",
+                    "key_features": [
+                        "Patient recruitment strategies",
+                        "Data management tools",
+                        "GCP compliance support"
+                    ]
+                },
+                "Contract Development Services": {
+                    "criteria": {
+                        "Customized Formulation Development": "Ability to develop customized formulations for pharmaceutical products",
+                        "Efficient Dosage Form Development": "Expertise in developing efficient dosage forms for drug delivery",
+                        "Translational Science Capabilities": "Strong capabilities in translational science for product development"
+                    },
+                    "call_to_action": "Talk to team",
+                    "usecases": "Engaged for outsourcing formulation and dosage form development services",
+                    "solutions": "Provides customized formulation development, efficient dosage form services, and translational science expertise",
+                    "key_features": [
+                        "Customized formulation development",
+                        "Efficient dosage form expertise",
+                        "Translational science capabilities"
+                    ]
+                },
+                "Dosage Forms": {
+                    "criteria": {
+                        "Diverse Dosage Form Options": "Offering a wide range of dosage form options for drug delivery",
+                        "Innovative Drug Delivery Technologies": "Incorporating innovative technologies for drug delivery",
+                        "Quality Control and Assurance": "Stringent quality control and assurance measures for dosage forms"
+                    },
+                    "call_to_action": "Sign up",
+                    "usecases": "Used for selecting appropriate dosage forms for pharmaceutical products",
+                    "solutions": "Provides diverse dosage form options, innovative drug delivery technologies, and quality control measures",
+                    "key_features": [
+                        "Diverse dosage form options",
+                        "Innovative drug delivery technologies",
+                        "Stringent quality control"
+                    ]
+                },
+                "Drug Delivery": {
+                    "criteria": {
+                        "Targeted Drug Delivery Systems": "Expertise in developing targeted drug delivery systems",
+                        "Biocompatible Delivery Platforms": "Utilization of biocompatible platforms for drug delivery",
+                        "Sustained Release Formulations": "Capability to develop sustained release formulations"
+                    },
+                    "call_to_action": "Talk to a manager",
+                    "usecases": "Engaged for specialized drug delivery system development",
+                    "solutions": "Offers targeted delivery system development, biocompatible platforms, and sustained release formulations",
+                    "key_features": [
+                        "Targeted delivery systems",
+                        "Biocompatible platforms",
+                        "Sustained release formulations"
+                    ]
+                },
+                "Drug Discovery": {
+                    "criteria": {
+                        "Innovative Screening Technologies": "Utilization of innovative screening technologies for drug discovery",
+                        "Lead Optimization Capabilities": "Strong capabilities in lead optimization for drug development",
+                        "Biomarker Identification": "Expertise in identifying biomarkers for drug discovery"
+                    },
+                    "call_to_action": "Book a demo",
+                    "usecases": "Utilized for drug discovery and lead optimization",
+                    "solutions": "Provides innovative screening technologies, lead optimization services, and biomarker identification",
+                    "key_features": [
+                        "Innovative screening technologies",
+                        "Lead optimization capabilities",
+                        "Biomarker identification"
+                    ]
+                },
+                "Formulation": {
+                    "criteria": {
+                        "Stability and Compatibility Testing": "Conducts thorough stability and compatibility testing for formulations",
+                        "Formulation Optimization Services": "Expertise in optimizing formulations for stability and efficacy",
+                        "Regulatory Support for Formulation Development": "Assistance in regulatory compliance for formulation development"
+                    },
+                    "call_to_action": "Sign up",
+                    "usecases": "Engaged for formulation stability and optimization services",
+                    "solutions": "Offers stability testing, formulation optimization, and regulatory support",
+                    "key_features": [
+                        "Stability and compatibility testing",
+                        "Formulation optimization",
+                        "Regulatory compliance support"
+                    ]
+                },
+                "Ingredients": {
+                    "criteria": {
+                        "High-Quality Raw Materials": "Access to high-quality raw materials for pharmaceutical ingredient manufacturing",
+                        "Sustainable Sourcing Practices": "Emphasis on sustainable sourcing practices for ingredients",
+                        "Compliance with Pharmacopeial Standards": "Adherence to pharmacopeial standards for ingredient quality"
+                    },
+                    "call_to_action": "Talk to team",
+                    "usecases": "Utilized for sourcing pharmaceutical ingredients",
+                    "solutions": "Provides high-quality raw materials, sustainable sourcing, and compliance with pharmacopeial standards",
+                    "key_features": [
+                        "High-quality raw materials",
+                        "Sustainable sourcing practices",
+                        "Pharmacopeial standards compliance"
+                    ]
+                },
+                "Translational Science": {
+                    "criteria": {
+                        "Preclinical to Clinical Translation": "Expertise in translating preclinical findings to clinical applications",
+                        "Biomarker Development": "Capability to develop biomarkers for translational research",
+                        "Clinical Trial Design Support": "Assistance in designing clinical trials for translational research"
+                    },
+                    "call_to_action": "Talk to a manager",
+                    "usecases": "Engaged for translational research and clinical trial design support",
+                    "solutions": "Offers preclinical to clinical translation expertise, biomarker development, and trial design support",
+                    "key_features": [
+                        "Preclinical to clinical translation",
+                        "Biomarker development",
+                        "Trial design support"
+                    ]
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "en.wikipedia.org": {
+        "medicine_manufacturers": {
+            "company_name": "Pharmaceutical Industry",
+            "services": {
+                "research_and_development": {
+                    "criteria": {
+                        "drug_discovery": "Universities and research institutions traditionally carry out early-stage drug discovery. Modern biotechnology focuses on understanding metabolic pathways related to disease states or pathogens and manipulating these pathways using molecular biology or biochemistry.",
+                        "drug_development": "Activities undertaken after a compound is identified as a potential drug to establish its suitability as a medication. Research in these areas generally includes a combination of in vitro studies, in vivo studies, and clinical trials. Large multinational corporations exhibit vertical integration, participating in a broad range of drug discovery and development, manufacturing and quality control, marketing, sales, and distribution."
+                    },
+                    "call_to_action": "Talk to a manager",
+                    "usecases": "To discover or design potential drugs and establish their suitability as medications.",
+                    "solutions": "Drug discovery and drug development services.",
+                    "key_features": "Early-stage drug discovery, drug development, clinical trials, and vertical integration."
+                },
+                "product_approval": {
+                    "criteria": {
+                        "approval_process": "New pharmaceutical products must be approved by the Food and Drug Administration (FDA) in the United States as being both safe and effective. This process generally involves submission of an Investigational New Drug filing with sufficient pre-clinical data to support proceeding with human trials. Following successful completion of phase III testing, a New Drug Application is submitted to the FDA for approval to market the product in the US.",
+                        "post_approval_surveillance": "A fourth phase of post-approval surveillance is often required due to the fact that even the largest clinical trials cannot effectively predict the prevalence of rare side-effects. Postmarketing surveillance ensures that after marketing the safety of a drug is monitored closely."
+                    },
+                    "call_to_action": "Book a demo",
+                    "usecases": "To gain approval for new pharmaceutical products and ensure post-approval surveillance for drug safety.",
+                    "solutions": "Product approval and post-approval surveillance services.",
+                    "key_features": "FDA approval process, post-approval surveillance, and Orange Book site for approved drugs."
+                },
+                "cost_of_innovation": {
+                    "criteria": {
+                        "research_and_investment": "The pharmaceuticals and biotechnology industry spends more than 15% of its net sales for Research & Development, which is by far the highest share compared to other industries. Industry-wide research and investment reached a record $65.3 billion in 2009.",
+                        "cost_estimates": "The cost of developing a successful new drug has been estimated at US$1.3 billion (not including marketing expenses). Some estimates also take into account the opportunity cost of investing capital many years before revenues are realized.",
+                        "regulatory_requirements": "In many non-US western countries, a 'fourth hurdle' of cost effectiveness analysis has developed before new technologies can be provided. Treatments must represent 'value for money' and a net benefit to society."
+                    },
+                    "call_to_action": "Talk to team",
+                    "usecases": "To understand the cost of innovation in drug discovery and development, research and investment, and regulatory requirements.",
+                    "solutions": "Cost of innovation analysis and regulatory compliance services.",
+                    "key_features": "High R&D investment, cost estimates, and regulatory compliance."
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Error: Timeout 30000ms exceeded"
+        }
+    },
+    "www.sac-isc.gc.ca": {
+        "medicine_manufacturers": {
+            "AA PHARMA INCORPORATED": {
+                "key_features": [
+                    "Wide range of pharmaceutical products",
+                    "Focus on quality and safety standards",
+                    "Strong distribution network"
+                ],
+                "call_to_action": "Talk to a manager",
+                "usecases": "Supplying pharmaceutical products to healthcare institutions and pharmacies",
+                "solutions": "Pharmaceutical manufacturing and distribution",
+                "other_information": ""
+            },
+            "ABBOTT LABORATORIES LIMITED": {
+                "key_features": [
+                    "Diverse portfolio of healthcare products",
+                    "Innovative research and development",
+                    "Global presence"
+                ],
+                "call_to_action": "Book a demo",
+                "usecases": "Providing a wide range of medical devices, diagnostics, and branded generic pharmaceuticals",
+                "solutions": "Healthcare products and solutions",
+                "other_information": ""
+            },
+            "ABBVIE CORPORATION": {
+                "key_features": [
+                    "Specialized in biopharmaceuticals",
+                    "Focus on research and development",
+                    "Patient-centric approach"
+                ],
+                "call_to_action": "Talk to team",
+                "usecases": "Developing and delivering advanced therapies for complex and serious diseases",
+                "solutions": "Biopharmaceutical products and therapies",
+                "other_information": ""
+            },
+            "ACCORD HEALTHCARE INCORPORATED": {
+                "key_features": [
+                    "Extensive product portfolio",
+                    "Affordable generic medications",
+                    "Commitment to quality and compliance"
+                ],
+                "call_to_action": "Sign up",
+                "usecases": "Supplying high-quality and cost-effective generic pharmaceuticals",
+                "solutions": "Generic pharmaceuticals manufacturing and distribution",
+                "other_information": ""
+            },
+            "ACTAVIS GROUP PTC EHF": {
+                "key_features": [
+                    "Global pharmaceutical company",
+                    "Focus on complex generics and specialty pharmaceuticals",
+                    "Innovative drug delivery technologies"
+                ],
+                "call_to_action": "Talk to a manager",
+                "usecases": "Developing and commercializing complex generic and specialty pharmaceuticals",
+                "solutions": "Specialty pharmaceuticals and drug delivery technologies",
+                "other_information": ""
+            },
+            "ACCEL PHARMA INCORPORATED": {
+                "key_features": [
+                    "Specialized in oncology and supportive care products",
+                    "Patient-focused approach",
+                    "Collaboration with healthcare professionals"
+                ],
+                "call_to_action": "Book a demo",
+                "usecases": "Providing oncology and supportive care medications",
+                "solutions": "Oncology and supportive care pharmaceuticals",
+                "other_information": ""
+            },
+            "ADAMS LABS LIMITED": {
+                "key_features": [
+                    "Innovative research and development",
+                    "Focus on respiratory and allergy medications",
+                    "Patient education and support programs"
+                ],
+                "call_to_action": "Talk to team",
+                "usecases": "Developing and marketing respiratory and allergy medications",
+                "solutions": "Respiratory and allergy pharmaceuticals",
+                "other_information": ""
+            },
+            "AVEVA DRUG DELIVERY SYSTEMS INCORPORATED": {
+                "key_features": [
+                    "Expertise in drug delivery systems",
+                    "Customized drug delivery solutions",
+                    "Collaboration with pharmaceutical companies"
+                ],
+                "call_to_action": "Sign up",
+                "usecases": "Providing advanced drug delivery systems to pharmaceutical manufacturers",
+                "solutions": "Drug delivery technologies and solutions",
+                "other_information": ""
+            },
+            "ALCON CANADA INCORPORATED": {
+                "key_features": [
+                    "Leader in eye care products",
+                    "Innovative vision care solutions",
+                    "Global presence"
+                ],
+                "call_to_action": "Talk to a manager",
+                "usecases": "Supplying a wide range of eye care products and vision care solutions",
+                "solutions": "Eye care and vision products",
+                "other_information": ""
+            },
+            "ALK ABELLO A/S": {
+                "key_features": [
+                    "Specialized in allergy immunotherapy",
+                    "Research-driven company",
+                    "Focus on personalized medicine"
+                ],
+                "call_to_action": "Book a demo",
+                "usecases": "Developing and providing allergy immunotherapy products",
+                "solutions": "Allergy immunotherapy medications",
+                "other_information": ""
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.tevapharm.com": {
+        "medicine_manufacturer": {
+            "name": "Teva Pharmaceutical Industries Ltd.",
+            "location": "Global",
+            "focus": "Generic Medicines, Innovative Therapeutic Areas, Biopharmaceuticals, Research & Development, Medical Information, Consumer Healthcare, Out-Licensing Generic Pharmaceuticals, Teva api",
+            "values": "Quality, accessibility, and innovation without compromise",
+            "impact_areas": "ESG Progress Report, Access to Medicine, Protecting our Planet, Ethics & Compliance, Economic Impact, Responsible Suppliers, Community Giving",
+            "work_culture": "Inclusion & Diversity, Growth at Teva, Benefits & Wellbeing, Changing Industry, How we Hire, Our People"
+        },
+        "call_to_action": "Contact Us",
+        "usecases": [
+            "Increasing access to medicines",
+            "Addressing the impact of various medical conditions",
+            "Delivering high-quality medicines with integrity and ethical business practices"
+        ],
+        "solutions": [
+            "Generic medicines",
+            "Innovative therapeutic areas",
+            "Biopharmaceuticals",
+            "Out-licensing generic pharmaceuticals",
+            "Teva api"
+        ],
+        "key_features": {
+            "1": "Strong focus on generic medicines and innovative therapeutic areas",
+            "2": "Commitment to quality, accessibility, and innovation",
+            "3": "Diverse impact areas including ESG progress, access to medicine, and community giving",
+            "4": "Inclusive work culture with a focus on growth, benefits & wellbeing, and diversity"
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.reuters.com": {
+        "medicine_manufacturers": {
+            "company_name": "Reuters",
+            "website": "https://www.reuters.com/",
+            "call_to_action": "Subscribe for exclusive news, data, and analytics",
+            "usecases": [
+                "Financial market professionals seeking exclusive news, data, and analytics"
+            ],
+            "solutions": "Provides business, financial, national, and international news to professionals via desktop terminals, media organizations, industry events, and directly to consumers",
+            "key_features": "Exclusive news, data, analytics, comprehensive financial information"
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.astrazeneca.com": {
+        "manufacturer": "AstraZeneca",
+        "call_to_action": "Explore our precision medicine approach",
+        "usecases": [
+            "Oncology",
+            "BioPharmaceuticals",
+            "Cardiovascular, Renal and Metabolism",
+            "Respiratory & Immunology",
+            "Vaccines and Immune Therapies",
+            "Rare Disease"
+        ],
+        "solutions": "Precision medicine, transformative science, data science & AI, clinical innovation, digital health, next generation therapeutics",
+        "key_features": {
+            "pipeline_projects": 167,
+            "global_science_centres": 3,
+            "recent_developments": [
+                "Imfinzi plus transarterial chemoembolisation (TACE) and bevacizumab reduced the risk of disease progression or death by 23% vs. TACE in liver cancer eligible for embolisation",
+                "Voydeya (danicopan) granted first-ever regulatory approval in Japan for adults with PNH to be used in combination with C5 inhibitor therapy"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "medicalcountermeasures.gov": {
+        "medicine_manufacturers": {
+            "Corning Incorporated (Corning Pharmaceutical Technologies)": {
+                "product_name": "Corning glass tubing and bulk vials",
+                "description": "This award expands the domestic industrial base capacity of advanced, high-quality Corning glass tubing as well as converted vials to reduce supply chain risk and ensure rapid delivery of medical countermeasures (MCMs).",
+                "base_award_amount": "$103,796,898.00",
+                "cost_share": "Yes",
+                "call_to_action": "Learn More",
+                "usecases": [
+                    "Reducing supply chain risk",
+                    "Ensuring rapid delivery of medical countermeasures"
+                ],
+                "solutions": [
+                    "Expansion of domestic industrial base capacity"
+                ],
+                "key_features": [
+                    "Advanced, high-quality Corning glass tubing",
+                    "Converted vials"
+                ]
+            },
+            "Gerresheimer Glass Inc.": {
+                "product_name": "Vials",
+                "description": "This effort proposes vial manufacturing capacity expansion of Gerresheimer Glass\u2019 existing facility to address the shortage of domestic vial manufacturing capacity and to secure national defense requirements for response to current and future pandemic threats.",
+                "base_award_amount": "$65,591,077.00",
+                "cost_share": "Yes",
+                "call_to_action": "Learn More",
+                "usecases": [
+                    "Addressing shortage of domestic vial manufacturing capacity",
+                    "Securing national defense requirements"
+                ],
+                "solutions": [
+                    "Vial manufacturing capacity expansion"
+                ],
+                "key_features": [
+                    "Expansion of existing facility",
+                    "Addressing shortage of domestic vial manufacturing capacity"
+                ]
+            },
+            "Croda": {
+                "product_name": "Domestic capacity expansion of raw materials for lipid nanoparticle technology",
+                "description": "Croda will expand existing plant capacity of lipids to support the domestic manufacturing supply chain for the lipid nanoparticle technology used in mRNA vaccine production.",
+                "base_award_amount": "$75,000,000",
+                "cost_share": "Yes",
+                "call_to_action": "Learn More",
+                "usecases": [
+                    "Supporting domestic manufacturing supply chain for lipid nanoparticle technology"
+                ],
+                "solutions": [
+                    "Expansion of plant capacity of lipids"
+                ],
+                "key_features": [
+                    "Expansion of plant capacity",
+                    "Supporting domestic manufacturing supply chain"
+                ]
+            },
+            "Jubilant HollisterStier LLC (JHS)": {
+                "product_name": "Expansion of Aseptic Fill-Finish BSL-1 Capacity",
+                "description": "This award will double the company\u2019s annual fill-finish capacity with the addition of two Biosafety Level 1 (BSL-1) lines equipped with state-of-the-art technology.",
+                "base_award_amount": "$149,684,100",
+                "cost_share": "Yes",
+                "call_to_action": "Learn More",
+                "usecases": [
+                    "Doubling annual fill-finish capacity",
+                    "Adding BSL-1 lines with state-of-the-art technology"
+                ],
+                "solutions": [
+                    "Expansion of fill-finish capacity"
+                ],
+                "key_features": [
+                    "Biosafety Level 1 (BSL-1) lines",
+                    "State-of-the-art technology"
+                ]
+            },
+            "Evonik": {
+                "product_name": "Domestic capacity expansion of raw materials for lipid nanoparticle technology",
+                "description": "Evonik will expand domestic manufacturing capacity for critical lipids used in mRNA vaccine production.",
+                "base_award_amount": "$149,100,000",
+                "cost_share": "Yes",
+                "call_to_action": "Learn More",
+                "usecases": [
+                    "Expanding domestic manufacturing capacity for critical lipids"
+                ],
+                "solutions": [
+                    "Expansion of domestic manufacturing capacity"
+                ],
+                "key_features": [
+                    "Expansion of domestic manufacturing capacity",
+                    "Critical lipids used in mRNA vaccine production"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Error: Timeout",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.wolterskluwer.com": {
+        "medicine_manufacturers": {
+            "Wolters Kluwer": {
+                "call_to_action": "Contact CT Corporation",
+                "usecases": [
+                    "Drug manufacturing licensing requirements",
+                    "Business license managed services"
+                ],
+                "solutions": [
+                    "CT Corporation manages the lifecycle of all your business licenses and provides ongoing support for your core business license program."
+                ],
+                "key_features": "Provides support for understanding industry nuances, searching and synthesizing statutes and regulations relating to business law."
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.gsk.com": {
+        "medicine_manufacturer": {
+            "name": "GSK",
+            "location": "Global",
+            "website": "https://www.gsk.com/",
+            "call_to_action": "Contact us",
+            "usecases": [
+                "Research and development of medicines",
+                "Manufacturing and supply of pharmaceutical products",
+                "Clinical trials and data transparency",
+                "Partnerships for healthcare innovation"
+            ],
+            "solutions": "GSK focuses on uniting science, technology, and talent to positively impact the health of 2.5 billion people by the end of 2030. Their R&D focus is on infectious diseases, HIV, respiratory/immunology, and oncology.",
+            "key_features": {
+                "1": "Research and development approach",
+                "2": "Pipeline of therapeutic areas",
+                "3": "Clinical trials and data transparency",
+                "4": "Partnership opportunities",
+                "5": "Global health and health security initiatives",
+                "6": "Environmental commitments",
+                "7": "Diversity, equity, and inclusion efforts"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.bls.gov": {
+        "error": "Unable to access the website for Medicine Manufacturers. Please provide specific information or criteria to analyze the products of the medicine manufacturers.",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.ifpma.org": {
+        "medicine_manufacturers": {
+            "company_name": "International Federation of Pharmaceutical Manufacturers and Associations (IFPMA)",
+            "areas_of_work": [
+                "Fostering a thriving innovation ecosystem",
+                "Advancing sustainable health systems",
+                "Improving health security and pandemic preparedness",
+                "Strengthening regulatory systems",
+                "Upholding ethics and business integrity",
+                "Supporting Africa's health ecosystem"
+            ],
+            "initiatives": [
+                "50 Years of Progress",
+                "#AlwaysInnovating",
+                "Global Health Progress",
+                "Covid-19 Hub"
+            ],
+            "contact_information": {
+                "address": "Chemin des Mines 9, 1202 Geneva, Switzerland",
+                "phone": "+41 22 338 32 00",
+                "email": "info@ifpma.org"
+            },
+            "call_to_action": "Contact us for more information",
+            "usecases": "Representing over 90 of the most forward-looking companies and associations in the world.",
+            "solutions": "The IFPMA represents the innovative pharmaceutical industry at the international level and in official relations with the United Nations.",
+            "key_features": "Collaborating for global health progress, representing forward-looking companies and associations, fostering innovation ecosystem, advancing sustainable health systems, improving health security and pandemic preparedness, strengthening regulatory systems, upholding ethics and business integrity, supporting Africa's health ecosystem"
+        },
+        "pricesAndPlans": {
+            "status": "Error",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "accessiblemeds.org": {
+        "medicine_manufacturers": {
+            "Association for Accessible Medicines": {
+                "call_to_action": "Join",
+                "usecases": "Improving access to safe, quality, effective medicine",
+                "solutions": "Advocacy for lowering barriers to entry for manufacturers of generic and biosimilar medicines, combatting anti-competitive abuses by some brand drug companies, providing accurate, timely data to educate policymakers and promote general public knowledge regarding the positive impact of affordable generic and biosimilar medicines",
+                "key_features": "Advocacy, promoting competition in the pharmaceutical industry, providing accurate, timely data, improving access to safe, quality, effective medicine"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Error: Timeout",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.cms.gov": {
+        "medicine_manufacturers": {
+            "manufacturer_discount_program": {
+                "participation_criteria": "Manufacturers must sign an agreement with CMS to provide discounts on applicable drugs. Beginning in 2025, manufacturers must obtain a pending contract number ('P number') from CMS to participate in the Manufacturer Discount Program.",
+                "downloads": [
+                    "Request For P Number-2025 (PDF)",
+                    "Manufacturer Discount Program \u2013 Instructions for Submitting Required Ownership Information (PDF)",
+                    "Manufacturer Discount Program \u2013 Final Guidance (PDF)",
+                    "Manufacturer Discount Program \u2013 Specified and Specified Small Manufacturer Methodology (PDF)",
+                    "Manufacturer Discount Program \u2013 Manufacturer Agreement (PDF)",
+                    "Manufacturer Discount Program \u2013 TPA Agreement (PDF)",
+                    "Medicare-Coverage-Gap-Discount-Program-January-2024-Labeler-Code-File (ZIP)",
+                    "BIN_PCN_2024_010424 (ZIP)",
+                    "Manufacturer Coverage Gap Discount Guidance (v.052017) (ZIP)",
+                    "Medicare Part D Contract Plan BIN PCN Files 2015-2023 (ZIP)",
+                    "Medicare Part D CGDP Calendar - 2023-2028 (PDF)",
+                    "Labeler Code Calendar Updates (12.20.2023) (PDF)",
+                    "Medicare Coverage Gap Discount Program- Program Invoicing Dates (PDF)",
+                    "Medicare Coverage Gap Discount Program-Manufacturer's Agreement (05.2018) (PDF)",
+                    "Coverage Gap Discount Program - Timely Payment Determination (PDF)",
+                    "Medicare Coverage Gap Discount Program - Part D Sponsor Program Guidance (5/21/10) (ZIP)",
+                    "Medicare Coverage Gap Discount Program - Maximum Discount (ZIP)",
+                    "Medicare Coverage Gap Discount Program - Dispute Resolution (PDF)",
+                    "Coverage Gap Discount Program Appeal Decision Letters (ZIP)",
+                    "Medicare Coverage Gap Discount Program Third Party Administrators Agreement (v042017) (PDF)"
+                ],
+                "related_links": [
+                    "Medicare Coverage Gap Discount Program - Independent Review Entity for Manufacturer Appeals",
+                    "Plan Payment"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.fda.gov": {
+        "medicine_manufacturers": {
+            "company_name": "U.S. Food and Drug Administration",
+            "call_to_action": "Contact FDA",
+            "usecases": "Regulatory oversight, drug quality control, national security, advanced manufacturing",
+            "solutions": "Regulatory and policy initiatives, emerging technology program, intramural and extramural research, promoting domestic manufacturing",
+            "key_features": {
+                "1": "Regulatory oversight of drug manufacturing facilities",
+                "2": "Analysis of API manufacturing facilities for all regulated drug products",
+                "3": "Promotion of advanced manufacturing technologies",
+                "4": "Collaboration with industry and federal agencies"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "time.com": {
+        "medicine_manufacturers": {
+            "company_name": "Mylan",
+            "location": "USA",
+            "call_to_action": "Contact Us",
+            "usecases": [
+                "Manufacturing and marketing of pharmaceutical products",
+                "Developing new treatments and conducting clinical trials"
+            ],
+            "solutions": [
+                "Providing a variety of discounts off the list price",
+                "Negotiating with PBMs and insurers to establish prices"
+            ],
+            "key_features": {
+                "1": "Manufacturing and marketing of pharmaceutical products",
+                "2": "Developing new treatments and conducting clinical trials",
+                "3": "Providing discounts off the list price",
+                "4": "Negotiating with PBMs and insurers to establish prices"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.globaldata.com": {
+        "medicine_manufacturers": {
+            "Johnson & Johnson": {
+                "market_cap": 402750,
+                "revenues": 94943,
+                "employees": 152700,
+                "headquarters": "United States of America",
+                "sector": "Pharmaceuticals and Healthcare",
+                "key_features": [
+                    "diverse product portfolio",
+                    "global presence",
+                    "strong revenue growth"
+                ],
+                "call_to_action": "talk to a manager",
+                "usecases": [
+                    "pharmaceutical products",
+                    "medical devices",
+                    "consumer products"
+                ],
+                "solutions": "research, develop, manufacture, and sell pharmaceutical products, medical devices, and consumer products"
+            },
+            "Eli Lilly and Co": {
+                "market_cap": 327055,
+                "revenues": 28541,
+                "employees": 39000,
+                "headquarters": "United States of America",
+                "sector": "Pharmaceuticals and Healthcare",
+                "key_features": [
+                    "medicines for various health conditions",
+                    "significant revenue",
+                    "large employee base"
+                ],
+                "call_to_action": "book a demo",
+                "usecases": [
+                    "medicines for cardiovascular conditions",
+                    "diabetes",
+                    "cancer",
+                    "neurological problems",
+                    "immune disorders",
+                    "men's health",
+                    "musculoskeletal problems"
+                ],
+                "solutions": "offer medicines for various health conditions"
+            },
+            "AbbVie Inc": {
+                "market_cap": 281151,
+                "revenues": null,
+                "employees": null,
+                "headquarters": "United States of America",
+                "sector": "Pharmaceuticals and Healthcare",
+                "key_features": [
+                    "not available"
+                ],
+                "call_to_action": "talk to team",
+                "usecases": [
+                    "not available"
+                ],
+                "solutions": "not available"
+            },
+            "Merck & Co Inc": {
+                "market_cap": 264664,
+                "revenues": null,
+                "employees": null,
+                "headquarters": "United States of America",
+                "sector": "Pharmaceuticals and Healthcare",
+                "key_features": [
+                    "not available"
+                ],
+                "call_to_action": "sign up",
+                "usecases": [
+                    "not available"
+                ],
+                "solutions": "not available"
+            },
+            "Pfizer Inc": {
+                "market_cap": 181179,
+                "revenues": null,
+                "employees": null,
+                "headquarters": "United States of America",
+                "sector": "Pharmaceuticals and Healthcare",
+                "key_features": [
+                    "not available"
+                ],
+                "call_to_action": "talk to team",
+                "usecases": [
+                    "not available"
+                ],
+                "solutions": "not available"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.getreskilled.com": {
+        "medicine_manufacturers": {
+            "Pfizer Inc": {
+                "rank": 1,
+                "total_revenue": "$100.3 billion",
+                "percent_revenue_pharmaceutical_drug_sales": "100%",
+                "estimated_r&d_spend": "$13.8 billion",
+                "number_of_employees": "83,000",
+                "revenue_per_employee": "$1,208,000",
+                "headquarters": "Groton, Connecticut, America",
+                "top_selling_product": "Covid-19 vaccine (Comirnaty)",
+                "key_features": [
+                    "Leading research-based pharmaceutical company",
+                    "Diverse range of medicines and vaccines",
+                    "Significant R&D investment"
+                ],
+                "call_to_action": "Talk to a manager",
+                "usecases": [
+                    "Treatment of various diseases including oncology, infections, cardiology, etc."
+                ],
+                "solutions": [
+                    "Medicines and vaccines for a wide range of health conditions"
+                ]
+            },
+            "AbbVie Inc": {
+                "rank": 2,
+                "total_revenue": "$58.00 billion",
+                "percent_revenue_pharmaceutical_drug_sales": "100%",
+                "estimated_r&d_spend": "$6.50 billion",
+                "number_of_employees": "50,000",
+                "revenue_per_employee": "$1,160,000",
+                "headquarters": "US",
+                "top_selling_product": "Humira",
+                "key_features": [
+                    "Biopharmaceutical company",
+                    "Specializes in small molecule drugs",
+                    "Focus on therapy areas such as dermatology, oncology, neurological disorders, and metabolic diseases"
+                ],
+                "call_to_action": "Book a demo",
+                "usecases": [
+                    "Treatment of dermatological, oncological, and neurological disorders"
+                ],
+                "solutions": [
+                    "Small molecule drugs for various health conditions"
+                ]
+            },
+            "Johnson & Johnson": {
+                "rank": 3,
+                "total_revenue": "$95.00 billion",
+                "percent_revenue_pharmaceutical_drug_sales": "55.3%",
+                "estimated_r&d_spend": "$14.60 billion",
+                "number_of_employees": "155,800",
+                "revenue_per_employee": "$609,000",
+                "headquarters": "New Brunswick, New Jersey, US",
+                "top_selling_product": "Humira",
+                "key_features": [
+                    "Multinational company",
+                    "Manufactures medical devices, pharmaceuticals, and consumer packaged goods",
+                    "Diverse product portfolio"
+                ],
+                "call_to_action": "Talk to team",
+                "usecases": [
+                    "Medical devices, pharmaceuticals, consumer packaged goods"
+                ],
+                "solutions": [
+                    "Wide range of healthcare products and medications"
+                ]
+            },
+            "Merck & Co., Inc": {
+                "rank": 4,
+                "total_revenue": "$59.28 billion",
+                "percent_revenue_pharmaceutical_drug_sales": "87%",
+                "estimated_r&d_spend": "$13.54 billion",
+                "number_of_employees": "69,000",
+                "revenue_per_employee": "$859,000",
+                "headquarters": "Whitehouse Station, New Jersey, US",
+                "top_selling_product": "Unknown",
+                "key_features": [
+                    "American pharmaceutical company",
+                    "Focus on research and development",
+                    "Large employee base"
+                ],
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Research and development of pharmaceutical drugs"
+                ],
+                "solutions": [
+                    "Innovative pharmaceutical products"
+                ]
+            },
+            "Novartis International AG": {
+                "rank": 5,
+                "total_revenue": "$50.54 billion",
+                "percent_revenue_pharmaceutical_drug_sales": "100%",
+                "estimated_r&d_spend": "$9.96 billion",
+                "number_of_employees": "101,000",
+                "revenue_per_employee": "$500,300",
+                "headquarters": "Basel, Switzerland",
+                "top_selling_product": "Various drugs including Clozapine, Diclofenac, Carbamazepine, Valsartan (Diovan), and Glivec",
+                "key_features": [
+                    "Multinational pharmaceutical company",
+                    "Diverse product range",
+                    "Long-standing presence in the industry"
+                ],
+                "call_to_action": "Talk to team",
+                "usecases": [
+                    "Treatment of various diseases and conditions"
+                ],
+                "solutions": [
+                    "Wide range of pharmaceutical products"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.proclinical.com": {
+        "medicine_manufacturers": {
+            "GSK": {
+                "revenue": "US$36.15 (+11%)",
+                "specialization": "pharmaceutical, biologics, vaccines, consumer healthcare",
+                "key_features": "focus on biopharmaceuticals, innovative vaccines, and specialty medicines",
+                "call_to_action": "talk to a manager",
+                "usecases": "treatment of various diseases, including shingles, respiratory syncytial virus (RSV)",
+                "solutions": "biopharmaceuticals, vaccines, specialty medicines"
+            },
+            "AstraZeneca": {
+                "revenue": "US$44.35 (+16%)",
+                "specialization": "oncology, cardiovascular, gastrointestinal, infection, neuroscience, respiratory, inflammation",
+                "key_features": "record 34 approvals in major markets, high potential medicines in late-stage trials",
+                "call_to_action": "book a demo",
+                "usecases": "treatment of major disease areas",
+                "solutions": "solutions for oncology, cardiovascular, gastrointestinal, infection, neuroscience, respiratory, inflammation"
+            },
+            "Sanofi": {
+                "revenue": "US$45.22 (+1%)",
+                "specialization": "speciality care, vaccines, general medicines",
+                "key_features": "healthy sales for Dupixent, strong pipelines for innovative medicine in oncology, inflammation, immunology",
+                "call_to_action": "talk to team",
+                "usecases": "providing healthcare solutions to over 100 countries worldwide",
+                "solutions": "speciality care, vaccines, general medicines"
+            },
+            "Bristol-Myers Squibb": {
+                "revenue": "US$46.16 (0%)",
+                "specialization": "oncology, hematology, immunology, cardiovascular disease",
+                "key_features": "significant medical advances in various disease areas",
+                "call_to_action": "sign up",
+                "usecases": "making significant medical advances in various disease areas",
+                "solutions": "oncology, hematology, immunology, cardiovascular disease"
+            },
+            "Roche": {
+                "revenue": "US$50.38 (+4%)",
+                "specialization": "oncology, immunology, infectious diseases, ophthalmology, neuroscience",
+                "key_features": "solid underlying growth in both divisions, leadership in various therapeutic areas",
+                "call_to_action": "talk to a manager",
+                "usecases": "development of medicines and diagnostics",
+                "solutions": "pharma and diagnostics"
+            },
+            "Novartis": {
+                "revenue": "US$50.54 (-2%)",
+                "specialization": "innovative medicines, generics, biosimilars",
+                "key_features": "streamlining to improve innovation capabilities, focus on becoming a purely medicines focused company",
+                "call_to_action": "book a demo",
+                "usecases": "development, manufacturing, marketing of breakthrough medicines",
+                "solutions": "innovative medicines, generics, biosimilars"
+            },
+            "Merck & Co": {
+                "revenue": "US$52.01 (+7%)",
+                "specialization": "pharmaceuticals, vaccines, animal health",
+                "key_features": "contributions to diabetes and cancer care, focus on pharmaceuticals, vaccines, animal health",
+                "call_to_action": "talk to team",
+                "usecases": "pharmaceuticals, vaccines, animal health solutions",
+                "solutions": "pharmaceuticals, vaccines, animal health"
+            },
+            "Johnson & Johnson": {
+                "revenue": "US$52.6 (+2%)",
+                "specialization": "pharmaceuticals, medical devices, consumer health goods",
+                "key_features": "sales growth driven by key performers in pharmaceutical division",
+                "call_to_action": "sign up",
+                "usecases": "development and production of pharmaceuticals, medical devices, consumer health goods",
+                "solutions": "pharmaceuticals, medical devices, consumer health goods"
+            },
+            "AbbVie": {
+                "revenue": "US$58.05 (+3%)",
+                "specialization": "therapeutic areas including immunology, oncology, neuroscience",
+                "key_features": "driving R&D efforts towards difficult-to-cure diseases, acquisition of Allergan",
+                "call_to_action": "talk to a manager",
+                "usecases": "development of breakthrough medicines in therapeutic areas",
+                "solutions": "therapeutic areas including immunology, oncology, neuroscience"
+            },
+            "Pfizer": {
+                "revenue": "US$100.33 (+19%)",
+                "specialization": "medicines and vaccines across various disciplines",
+                "key_features": "focus on discovery, development, manufacturing, marketing, sales and distribution of biopharmaceutical products",
+                "call_to_action": "book a demo",
+                "usecases": "development, manufacturing, marketing, sales and distribution of biopharmaceutical products",
+                "solutions": "medicines and vaccines across various disciplines"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "jamanetwork.com": {
+        "medicine_manufacturers": {
+            "company_name": "JAMA Network Open",
+            "website": "https://jamanetwork.com/journals/jamanetworkopen",
+            "call_to_action": "Subscribe",
+            "usecases": [
+                "Publishing medical research articles",
+                "Providing access to medical journals",
+                "Disseminating medical knowledge"
+            ],
+            "solutions": [
+                "Online access to medical journals",
+                "Platform for publishing medical research",
+                "Sharing medical knowledge and findings"
+            ],
+            "key_features": {
+                "1": "Access to a wide range of medical journals",
+                "2": "Platform for researchers to publish their work",
+                "3": "Provides access to research findings and medical knowledge"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "qualitymatters.usp.org": {
+        "medicine_manufacturers": {
+            "USP_Medicine_Supply_Map": {
+                "call_to_action": "Learn more about USP's Medicine Supply Map",
+                "usecases": "Early warning of potential supply chain disruptions, prioritize supply chain investments to reduce drug shortages",
+                "solutions": "Machine learning techniques, Natural Language Processing, mapping manufacturing locations, identifying risk and resilience in the upstream medicines supply chain",
+                "key_features": "Identifies, characterizes, and quantifies risk and resilience in the upstream medicines supply chain, aids early detection of risk factors that can lead to drug shortages"
+            },
+            "India_Manufacturing_Hub": {
+                "call_to_action": "Learn more about India's manufacturing capabilities",
+                "usecases": "Leading manufacturing hub for essential medicines, pharmacy of the world",
+                "solutions": "Manufacturing essential medicines, contributing to global pharmaceutical supply",
+                "key_features": "Leading manufacturing hub for essential medicines, contributes to global pharmaceutical supply"
+            },
+            "Nitrosamine_Impurities_Research": {
+                "call_to_action": "Read more about nitrosamine impurities research",
+                "usecases": "Research on nitrosamine impurities in pharmaceuticals",
+                "solutions": "Collaborative research with LHASA Limited, AstraZeneca, Sai Life Sciences, and Merck",
+                "key_features": "Collaborative research on nitrosamine impurities in pharmaceuticals"
+            },
+            "Drug_Supply_Chain_Resilience": {
+                "call_to_action": "Read more about building a more resilient medicines supply chain",
+                "usecases": "Strengthening the medicine supply chain and global public health resilience",
+                "solutions": "Multi-disciplinary, cross-functional coordination, strengthening the medicine supply chain",
+                "key_features": "Strengthening the medicine supply chain, global public health resilience"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.mrlcg.com": {
+        "medicine_manufacturers": {
+            "Johnson & Johnson": {
+                "key_features": [
+                    "Extensive research and development",
+                    "Manufacturing and sales of healthcare products",
+                    "Significant contributions to medical field"
+                ],
+                "call_to_action": "Talk to a manager",
+                "usecases": "Therapeutic areas, medical devices",
+                "solutions": "Consumer goods, pharmaceuticals",
+                "strengths": "Extensive R&D, diverse product portfolio",
+                "areas_for_improvement": "Potential for more innovation"
+            },
+            "Eli Lilly & Co": {
+                "key_features": [
+                    "Pioneering role in healthcare milestones",
+                    "Extensive product portfolio",
+                    "Focus on research, development, and innovation"
+                ],
+                "call_to_action": "Book a demo",
+                "usecases": "Health conditions like cardiovascular diseases, diabetes, endocrinology, cancer, etc.",
+                "solutions": "Medications for various health conditions",
+                "strengths": "Pioneering role in healthcare milestones, diverse product portfolio",
+                "areas_for_improvement": "Potential for more innovation"
+            },
+            "AbbVie Inc": {
+                "key_features": [
+                    "Focus on complex and chronic disease treatment",
+                    "Researching, developing, manufacturing, and selling products",
+                    "Innovating medical treatments"
+                ],
+                "call_to_action": "Talk to team",
+                "usecases": "Potential therapies for ailments such as Crohn's disease, Parkinson's disease, cancer",
+                "solutions": "Complex and chronic disease treatments",
+                "strengths": "Focus on complex and chronic disease treatment, innovation",
+                "areas_for_improvement": "Potential for more diverse product portfolio"
+            },
+            "Merck & Co Inc": {
+                "key_features": [
+                    "Operations from research through marketing",
+                    "Specialization in prescription medications, biological therapies, vaccines, and animal health products",
+                    "Focus on oncology and diabetes"
+                ],
+                "call_to_action": "Sign up",
+                "usecases": "Oncology, diabetes, biological therapies",
+                "solutions": "Prescription medications, biological therapies, vaccines, animal health products",
+                "strengths": "Diverse product portfolio, focus on oncology and diabetes",
+                "areas_for_improvement": "Potential for more innovation"
+            },
+            "Pfizer Inc": {
+                "key_features": [
+                    "Advancement, production, and distribution of biopharmaceuticals",
+                    "Diverse portfolio of healthcare products",
+                    "Rich history of achievements"
+                ],
+                "call_to_action": "Talk to a manager",
+                "usecases": "Cardiovascular ailments, women's health concerns, etc.",
+                "solutions": "Biopharmaceuticals for various medical conditions",
+                "strengths": "Diverse portfolio, rich history of achievements",
+                "areas_for_improvement": "Potential for more innovation"
+            },
+            "Bristol-Myers Squibb Co": {
+                "key_features": [
+                    "Exceptional research capabilities",
+                    "Production of innovative drugs",
+                    "Focus on therapeutic areas"
+                ],
+                "call_to_action": "Book a demo",
+                "usecases": "Antipsychotic drugs, blood thinners, heart disease, diabetes",
+                "solutions": "Innovative drugs for various health conditions",
+                "strengths": "Exceptional research capabilities, focus on therapeutic areas",
+                "areas_for_improvement": "Potential for more diverse product portfolio"
+            },
+            "Amgen Inc": {
+                "key_features": [
+                    "Discovery, development, manufacturing, and marketing of innovative medicines",
+                    "Focus on various therapeutic areas",
+                    "Approach known as \"biology first\""
+                ],
+                "call_to_action": "Talk to team",
+                "usecases": "Cardiovascular health, oncology/hematology, inflammation, etc.",
+                "solutions": "Innovative medicines for serious diseases",
+                "strengths": "Focus on various therapeutic areas, innovative approach",
+                "areas_for_improvement": "Potential for more diverse product portfolio"
+            },
+            "Gilead Sciences Inc": {
+                "key_features": [
+                    "Discovery, development, and commercialization of medicines",
+                    "Collaboration with research institutions and pharmaceutical companies",
+                    "Leadership in HIV treatment"
+                ],
+                "call_to_action": "Sign up",
+                "usecases": "HIV treatment, various healthcare issues",
+                "solutions": "Medicines across therapeutic areas",
+                "strengths": "Leadership in HIV treatment, collaboration with research institutions",
+                "areas_for_improvement": "Potential for more diverse product portfolio"
+            },
+            "Regeneron Pharmaceuticals Inc": {
+                "key_features": [
+                    "Discovery, development, manufacturing, and marketing of transformative medicines",
+                    "Focus on addressing various health challenges",
+                    "Leveraging proprietary technology platforms"
+                ],
+                "call_to_action": "Talk to a manager",
+                "usecases": "Cancer, allergic and inflammatory diseases, eye diseases, etc.",
+                "solutions": "Transformative medicines for severe medical conditions",
+                "strengths": "Focus on addressing various health challenges, leveraging technology platforms",
+                "areas_for_improvement": "Potential for more innovation"
+            },
+            "Vertex Pharmaceuticals Inc": {
+                "key_features": [
+                    "Discovery, development, and commercialization of groundbreaking drugs",
+                    "Focus on specific medical conditions",
+                    "Global presence"
+                ],
+                "call_to_action": "Book a demo",
+                "usecases": "Cystic fibrosis, sickle cell disease, beta thalassemia, etc.",
+                "solutions": "Groundbreaking drugs for serious and life-threatening diseases",
+                "strengths": "Focus on specific medical conditions, global presence",
+                "areas_for_improvement": "Potential for more diverse product portfolio"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.cbo.gov": {
+        "medicine_manufacturers": {
+            "company_1": {
+                "name": "Pharmaceutical Research and Manufacturers of America (PhRMA)",
+                "location": "United States",
+                "services": {
+                    "R&D Spending": {
+                        "criteria": {
+                            "R&D Intensity": "PhRMA member firms' R&D intensity averaged about 19% over the past two decades, exceeding 25% in 2018 and 2019",
+                            "R&D Spending Trends": "R&D spending in the pharmaceutical industry has trended upward, with a nearly 50% increase between 2015 and 2019"
+                        },
+                        "call_to_action": "Talk to a manager",
+                        "usecases": "PhRMA member firms' R&D spending covers a variety of activities including invention, development, incremental innovation, product differentiation, and safety monitoring",
+                        "solutions": "PhRMA member firms focus on developing and testing new drugs, conducting clinical trials, developing incremental innovations, and conducting post-approval testing for safety monitoring or marketing purposes",
+                        "key_features": "R&D intensity, R&D spending trends"
+                    },
+                    "New Drug Development": {
+                        "criteria": {
+                            "Average Annual Approvals": "FDA approved about 38 new drugs per year from 2010 through 2019, with a peak of 59 in 2018",
+                            "Types of New Drugs in Development": "Emphasizing treatments for cancer and nervous system disorders like Alzheimer\u2019s disease and Parkinson\u2019s disease"
+                        },
+                        "call_to_action": "Book a demo",
+                        "usecases": "Developing and introducing new drugs, focusing on treatments for cancer and nervous system disorders",
+                        "solutions": "Introducing growing numbers of new drugs annually, with an emphasis on treatments for cancer and nervous system disorders",
+                        "key_features": "Average annual approvals, types of new drugs in development"
+                    }
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "pharmanewsintel.com": {
+        "medicine_manufacturers": {
+            "PharmaNewsIntelligence": {
+                "call_to_action": "Sign up for newsletter",
+                "usecases": "News, Features, Podcasts, Research, White Papers & Webcasts, Events",
+                "solutions": "Provides information and resources related to pharmaceutical industry",
+                "key_features": "Wide range of topics covered, access to industry reports and resources"
+            },
+            "Eli Lilly and Company": {
+                "call_to_action": "Talk to a manager",
+                "usecases": "Digital healthcare tool for managing and supporting patients with obesity, migraine, and diabetes",
+                "solutions": "LillyDirect platform for disease management and support",
+                "key_features": "Digital platform, disease management services"
+            },
+            "Leiters Health": {
+                "call_to_action": "Book a demo",
+                "usecases": "Manufacturing intravenous (IV) drugs",
+                "solutions": "Production of IV drugs",
+                "key_features": "Specialized in IV drug manufacturing"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.nbcnews.com": {
+        "medicine_manufacturers": {
+            "Akorn Pharmaceuticals": {
+                "call_to_action": "Contact a representative for more information",
+                "usecases": "Production of 75 generic drugs, drugs used in veterinary medicine",
+                "solutions": "Manufacturing generic drugs, veterinary drugs, and eye care products",
+                "key_features": "Produced 75 generic drugs, sole supplier of certain products, wide range of drug offerings"
+            },
+            "Lannett Co.": {
+                "call_to_action": "Contact a representative for more information",
+                "usecases": "Generic drug manufacturing",
+                "solutions": "Manufacturing generic drugs",
+                "key_features": "Specializes in generic drug manufacturing, filing for Chapter 11 bankruptcy"
+            },
+            "Teva Pharmaceuticals": {
+                "call_to_action": "Contact a representative for more information",
+                "usecases": "Generic drug manufacturing",
+                "solutions": "Manufacturing generic drugs",
+                "key_features": "Major generic drug manufacturer, based in Israel, cutting back on generic manufacturing"
+            },
+            "Aurobindo Pharma": {
+                "call_to_action": "Contact a representative for more information",
+                "usecases": "Generic drug manufacturing",
+                "solutions": "Manufacturing generic drugs",
+                "key_features": "Closed its U.S. generic manufacturing facility in New Jersey"
+            },
+            "Intas Pharmaceuticals": {
+                "call_to_action": "Contact a representative for more information",
+                "usecases": "Generic drug manufacturing",
+                "solutions": "Manufacturing generic drugs",
+                "key_features": "Suspended production after FDA inspection, causing widespread shortage of chemotherapy drug"
+            },
+            "Global Pharma": {
+                "call_to_action": "Contact a representative for more information",
+                "usecases": "Generic drug manufacturing",
+                "solutions": "Manufacturing generic drugs",
+                "key_features": "Recalled products linked to drug-resistant bacterial infections"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    }
+}
