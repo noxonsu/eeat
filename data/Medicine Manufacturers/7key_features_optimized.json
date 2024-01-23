@@ -1,0 +1,74 @@
+{
+    "title": "Optimized Medicine Manufacturers Features",
+    "intro": "This list represents the optimized features of medicine manufacturers gathered from analyzing 34 sites and 39 features.",
+    "features": {
+        "Research and Publications": {
+            "title": "Research and Publications",
+            "Access to a wide range of medical journals": 1,
+            "Platform for researchers to publish their work": 1,
+            "Provides access to research findings and medical knowledge": 1
+        },
+        "Pricing and Supply Chain": {
+            "title": "Pricing and Supply Chain",
+            "Negotiating with PBMs and insurers to establish prices": 1,
+            "global_supply": 1,
+            "manufacturing_sites": 1
+        },
+        "Patient Education and Safety": {
+            "title": "Patient Education and Safety",
+            "health_literacy": 1,
+            "treatment_choices": 1,
+            "partnering_with_patients": 1,
+            "tips_for_patients": 1,
+            "reporting_adverse_events": 1,
+            "counterfeiting": 1,
+            "product_safety": 1
+        },
+        "Drug Information": {
+            "title": "Drug Information",
+            "branded_vs_generic": 1,
+            "biologics_and_biosimilars": 1
+        },
+        "Quality Assurance": {
+            "title": "Quality Assurance",
+            "commitment_to_quality": 1
+        },
+        "Technology and Innovation": {
+            "title": "Technology and Innovation",
+            "Fluorescence spectroscopy": 1,
+            "Raman spectroscopy": 1,
+            "Particle size analyzers": 1,
+            "Capacitance manometer": 1,
+            "Gas monitor Micropole systems": 1
+        },
+        "Financial Information": {
+            "title": "Financial Information",
+            "exclusive news": 1,
+            "data": 1,
+            "analytics": 1,
+            "comprehensive financial information": 1
+        },
+        "Global Initiatives": {
+            "title": "Global Initiatives",
+            "global_health_and_health_security_initiatives": 1,
+            "Collaborating for global health progress": 1,
+            "representing forward-looking companies and associations": 1,
+            "fostering innovation ecosystem": 1,
+            "advancing sustainable health systems": 1,
+            "improving health security and pandemic preparedness": 1,
+            "strengthening regulatory systems": 1,
+            "upholding ethics and business integrity": 1,
+            "supporting Africa's health ecosystem": 1
+        },
+        "Recent Developments": {
+            "title": "Recent Developments",
+            "pipeline_projects": 1,
+            "recent_developments": 1
+        },
+        "Environmental and Social Responsibility": {
+            "title": "Environmental and Social Responsibility",
+            "Environmental commitments": 1,
+            "Diversity, equity, and inclusion efforts": 1
+        }
+    }
+}
