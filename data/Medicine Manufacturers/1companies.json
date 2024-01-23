@@ -1,138 +1,172 @@
 {
     "www.pharmaceutical-technology.com": {
         "url": "https://www.pharmaceutical-technology.com/features/top-ten-pharma-companies-in-2020/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.pharmaceutical-technology.com/pricing-and-market-access/"
     },
     "www.empr.com": {
         "url": "https://www.empr.com/manufactures/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.empr.com/home/news/repatha-price-cut-in-an-effort-to-reduce-patient-out-of-pocket-costs/"
     },
     "www.fiercepharma.com": {
         "url": "https://www.fiercepharma.com/pharma/top-10-generic-drugmakers-2021-revenue",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.drugs.com": {
         "url": "https://www.drugs.com/pharmaceutical-companies.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.drugs.com/price-guide/"
     },
     "phrma.org": {
         "url": "https://phrma.org/en",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.iqvia.com": {
         "url": "https://www.iqvia.com/solutions/industry-segments/pharmaceutical-manufacturers",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.iqvia.com/solutions/commercialization/pricing-and-market-access"
     },
     "www.drugwatch.com": {
         "url": "https://www.drugwatch.com/manufacturers/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.drugwatch.com/manufacturers/eli-lilly/"
     },
     "accesstomedicinefoundation.org": {
         "url": "https://accesstomedicinefoundation.org/sectors-and-research/index-ranking",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://accesstomedicinefoundation.org/resource/companies-are-using-access-strategies-to-expand-access-to-their-products-in-lmics-yet-efforts-fall-short-for-the-poorest-patients"
     },
     "www.pfizer.com": {
         "url": "https://www.pfizer.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.pfizer.com/sites/default/files/investors/financial_reports/annual_reports/2018/our-business/understanding-external-environment/pricing/index.html?ref=home"
     },
     "www.horiba.com": {
         "url": "https://www.horiba.com/int/products/by-industry/health-care/pharmaceuticals-and-medicine-manufacturing/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.horiba.com/fra/products/detail/action/show/Product/smart-se-1105/"
     },
     "themedicinemaker.com": {
         "url": "https://themedicinemaker.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "en.wikipedia.org": {
         "url": "https://en.wikipedia.org/wiki/Pharmaceutical_industry",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.sac-isc.gc.ca": {
         "url": "https://www.sac-isc.gc.ca/eng/1573682062274/1573682081432",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.sac-isc.gc.ca/eng/1590168766044/1590168799917"
     },
     "www.tevapharm.com": {
         "url": "https://www.tevapharm.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.reuters.com": {
         "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/indian-drug-manufacturers-benefit-big-pharma-interest-beyond-china-2023-11-27/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.astrazeneca.com": {
         "url": "https://www.astrazeneca.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.astrazeneca.com/content/dam/az-ch/pdf/2022/december/2022-12-price-list-AZ-EN.pdf"
     },
     "medicalcountermeasures.gov": {
         "url": "https://medicalcountermeasures.gov/barda/influenza-and-emerging-infectious-diseases/coronavirus/pharmaceutical-manufacturing-in-america",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.wolterskluwer.com": {
         "url": "https://www.wolterskluwer.com/en/expert-insights/drug-manufacturing-licensing-requirements",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.wolterskluwer.com/en/solutions/medi-span/price-rx"
     },
     "www.gsk.com": {
         "url": "https://www.gsk.com/en-gb/home/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.bls.gov": {
         "url": "https://www.bls.gov/oes/current/naics4_325400.htm",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.ifpma.org": {
         "url": "https://www.ifpma.org/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "accessiblemeds.org": {
         "url": "https://accessiblemeds.org/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.cms.gov": {
         "url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/part-d-information-pharmaceutical-manufacturers",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.fda.gov": {
         "url": "https://www.fda.gov/news-events/congressional-testimony/safeguarding-pharmaceutical-supply-chains-global-economy-10302019",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "time.com": {
         "url": "https://time.com/5564547/drug-prices-medicine/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://time.com/6308892/drug-price-negotiations/"
     },
     "www.globaldata.com": {
         "url": "https://www.globaldata.com/companies/top-companies-by-sector/healthcare/us-companies-by-market-cap/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.globaldata.com/marketplace/pharmaceuticals/pharmaceutical-prices-poli-database/"
     },
     "www.getreskilled.com": {
         "url": "https://www.getreskilled.com/pharmaceutical-companies/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.getreskilled.com/manufacturing-safe-medicines/"
     },
     "www.proclinical.com": {
         "url": "https://www.proclinical.com/blogs/2023-7/the-top-10-pharmaceutical-companies-in-the-world-2023",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "jamanetwork.com": {
         "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2802393",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "qualitymatters.usp.org": {
         "url": "https://qualitymatters.usp.org/geographic-concentration-pharmaceutical-manufacturing",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://qualitymatters.usp.org/qa-building-more-resilient-medicines-supply-chain"
     },
     "www.mrlcg.com": {
         "url": "https://www.mrlcg.com/resources/blog/top-10-pharmaceutical-companies-in-the-us/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.cbo.gov": {
         "url": "https://www.cbo.gov/publication/57126",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "pharmanewsintel.com": {
         "url": "https://pharmanewsintel.com/news/fundamentals-of-the-pharmaceutical-supply-chain",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://pharmanewsintel.com/features/analyzing-2023-drug-list-price-increases-by-pharmaceutical-companies"
     },
     "www.nbcnews.com": {
         "url": "https://www.nbcnews.com/health/health-news/akorn-us-drugmaker-closure-escalating-drug-shortage-rcna91402",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     }
 }
