@@ -1,104 +1,138 @@
 {
     "www.pharmaceutical-technology.com": {
-        "url": "https://www.pharmaceutical-technology.com/features/top-ten-pharma-companies-in-2020/"
+        "url": "https://www.pharmaceutical-technology.com/features/top-ten-pharma-companies-in-2020/",
+        "nature": "single project"
     },
     "www.empr.com": {
-        "url": "https://www.empr.com/manufactures/"
+        "url": "https://www.empr.com/manufactures/",
+        "nature": "single project"
     },
     "www.fiercepharma.com": {
-        "url": "https://www.fiercepharma.com/pharma/top-10-generic-drugmakers-2021-revenue"
+        "url": "https://www.fiercepharma.com/pharma/top-10-generic-drugmakers-2021-revenue",
+        "nature": "single project"
     },
     "www.drugs.com": {
-        "url": "https://www.drugs.com/pharmaceutical-companies.html"
+        "url": "https://www.drugs.com/pharmaceutical-companies.html",
+        "nature": "single project"
     },
     "phrma.org": {
-        "url": "https://phrma.org/en"
+        "url": "https://phrma.org/en",
+        "nature": "single project"
     },
     "www.iqvia.com": {
-        "url": "https://www.iqvia.com/solutions/industry-segments/pharmaceutical-manufacturers"
+        "url": "https://www.iqvia.com/solutions/industry-segments/pharmaceutical-manufacturers",
+        "nature": "single project"
     },
     "www.drugwatch.com": {
-        "url": "https://www.drugwatch.com/manufacturers/"
+        "url": "https://www.drugwatch.com/manufacturers/",
+        "nature": "single project"
     },
     "accesstomedicinefoundation.org": {
-        "url": "https://accesstomedicinefoundation.org/sectors-and-research/index-ranking"
+        "url": "https://accesstomedicinefoundation.org/sectors-and-research/index-ranking",
+        "nature": "single project"
     },
     "www.pfizer.com": {
-        "url": "https://www.pfizer.com/"
+        "url": "https://www.pfizer.com/",
+        "nature": "single project"
     },
     "www.horiba.com": {
-        "url": "https://www.horiba.com/int/products/by-industry/health-care/pharmaceuticals-and-medicine-manufacturing/"
+        "url": "https://www.horiba.com/int/products/by-industry/health-care/pharmaceuticals-and-medicine-manufacturing/",
+        "nature": "single project"
     },
     "themedicinemaker.com": {
-        "url": "https://themedicinemaker.com/"
+        "url": "https://themedicinemaker.com/",
+        "nature": "single project"
     },
     "en.wikipedia.org": {
-        "url": "https://en.wikipedia.org/wiki/Pharmaceutical_industry"
+        "url": "https://en.wikipedia.org/wiki/Pharmaceutical_industry",
+        "nature": "single project"
     },
     "www.sac-isc.gc.ca": {
-        "url": "https://www.sac-isc.gc.ca/eng/1573682062274/1573682081432"
+        "url": "https://www.sac-isc.gc.ca/eng/1573682062274/1573682081432",
+        "nature": "single project"
     },
     "www.tevapharm.com": {
-        "url": "https://www.tevapharm.com/"
+        "url": "https://www.tevapharm.com/",
+        "nature": "single project"
     },
     "www.reuters.com": {
-        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/indian-drug-manufacturers-benefit-big-pharma-interest-beyond-china-2023-11-27/"
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/indian-drug-manufacturers-benefit-big-pharma-interest-beyond-china-2023-11-27/",
+        "nature": "single project"
     },
     "www.astrazeneca.com": {
-        "url": "https://www.astrazeneca.com/"
+        "url": "https://www.astrazeneca.com/",
+        "nature": "single project"
     },
     "medicalcountermeasures.gov": {
-        "url": "https://medicalcountermeasures.gov/barda/influenza-and-emerging-infectious-diseases/coronavirus/pharmaceutical-manufacturing-in-america"
+        "url": "https://medicalcountermeasures.gov/barda/influenza-and-emerging-infectious-diseases/coronavirus/pharmaceutical-manufacturing-in-america",
+        "nature": "single project"
     },
     "www.wolterskluwer.com": {
-        "url": "https://www.wolterskluwer.com/en/expert-insights/drug-manufacturing-licensing-requirements"
+        "url": "https://www.wolterskluwer.com/en/expert-insights/drug-manufacturing-licensing-requirements",
+        "nature": "single project"
     },
     "www.gsk.com": {
-        "url": "https://www.gsk.com/en-gb/home/"
+        "url": "https://www.gsk.com/en-gb/home/",
+        "nature": "single project"
     },
     "www.bls.gov": {
-        "url": "https://www.bls.gov/oes/current/naics4_325400.htm"
+        "url": "https://www.bls.gov/oes/current/naics4_325400.htm",
+        "nature": "single project"
     },
     "www.ifpma.org": {
-        "url": "https://www.ifpma.org/"
+        "url": "https://www.ifpma.org/",
+        "nature": "single project"
     },
     "accessiblemeds.org": {
-        "url": "https://accessiblemeds.org/"
+        "url": "https://accessiblemeds.org/",
+        "nature": "single project"
     },
     "www.cms.gov": {
-        "url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/part-d-information-pharmaceutical-manufacturers"
+        "url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/part-d-information-pharmaceutical-manufacturers",
+        "nature": "single project"
     },
     "www.fda.gov": {
-        "url": "https://www.fda.gov/news-events/congressional-testimony/safeguarding-pharmaceutical-supply-chains-global-economy-10302019"
+        "url": "https://www.fda.gov/news-events/congressional-testimony/safeguarding-pharmaceutical-supply-chains-global-economy-10302019",
+        "nature": "single project"
     },
     "time.com": {
-        "url": "https://time.com/5564547/drug-prices-medicine/"
+        "url": "https://time.com/5564547/drug-prices-medicine/",
+        "nature": "single project"
     },
     "www.globaldata.com": {
-        "url": "https://www.globaldata.com/companies/top-companies-by-sector/healthcare/us-companies-by-market-cap/"
+        "url": "https://www.globaldata.com/companies/top-companies-by-sector/healthcare/us-companies-by-market-cap/",
+        "nature": "single project"
     },
     "www.getreskilled.com": {
-        "url": "https://www.getreskilled.com/pharmaceutical-companies/"
+        "url": "https://www.getreskilled.com/pharmaceutical-companies/",
+        "nature": "single project"
     },
     "www.proclinical.com": {
-        "url": "https://www.proclinical.com/blogs/2023-7/the-top-10-pharmaceutical-companies-in-the-world-2023"
+        "url": "https://www.proclinical.com/blogs/2023-7/the-top-10-pharmaceutical-companies-in-the-world-2023",
+        "nature": "single project"
     },
     "jamanetwork.com": {
-        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2802393"
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2802393",
+        "nature": "single project"
     },
     "qualitymatters.usp.org": {
-        "url": "https://qualitymatters.usp.org/geographic-concentration-pharmaceutical-manufacturing"
+        "url": "https://qualitymatters.usp.org/geographic-concentration-pharmaceutical-manufacturing",
+        "nature": "single project"
     },
     "www.mrlcg.com": {
-        "url": "https://www.mrlcg.com/resources/blog/top-10-pharmaceutical-companies-in-the-us/"
+        "url": "https://www.mrlcg.com/resources/blog/top-10-pharmaceutical-companies-in-the-us/",
+        "nature": "single project"
     },
     "www.cbo.gov": {
-        "url": "https://www.cbo.gov/publication/57126"
+        "url": "https://www.cbo.gov/publication/57126",
+        "nature": "single project"
     },
     "pharmanewsintel.com": {
-        "url": "https://pharmanewsintel.com/news/fundamentals-of-the-pharmaceutical-supply-chain"
+        "url": "https://pharmanewsintel.com/news/fundamentals-of-the-pharmaceutical-supply-chain",
+        "nature": "single project"
     },
     "www.nbcnews.com": {
-        "url": "https://www.nbcnews.com/health/health-news/akorn-us-drugmaker-closure-escalating-drug-shortage-rcna91402"
+        "url": "https://www.nbcnews.com/health/health-news/akorn-us-drugmaker-closure-escalating-drug-shortage-rcna91402",
+        "nature": "single project"
     }
 }
