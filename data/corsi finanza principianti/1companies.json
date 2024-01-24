@@ -1,86 +1,107 @@
 {
     "www.udemy.com": {
         "url": "https://www.udemy.com/course/finanza-e-investimenti-il-corso-completo/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.imparalafinanza.it": {
         "url": "https://www.imparalafinanza.it/mooc/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.youtube.com": {
         "url": "https://www.youtube.com/watch?v=k12YJLqJ2Xc",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.corsi.it": {
         "url": "https://www.corsi.it/corsi/educazione-finanziaria",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.corsi.it/corso/microsoft-excel-da-principiante-ad-avanzato"
     },
     "fds.mate.polimi.it": {
         "url": "https://fds.mate.polimi.it/?arg=mooc&id_pagina=364",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "it.linkedin.com": {
         "url": "https://it.linkedin.com/learning/topics/finanza-e-contabilita",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.consob.it": {
         "url": "https://www.consob.it/web/investor-education/conoscenze-finanziarie-di-base",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "mataandassociates.com": {
         "url": "https://mataandassociates.com/pacchetti",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://mataandassociates.com/fondi-comuni-di-investimento-no-grazie"
     },
     "www.lezione-online.it": {
         "url": "https://www.lezione-online.it/corso/basi-di-finanza-investire-in-modo-semplice/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.lezione-online.it/shop/?orderby=price"
     },
     "www.redige.it": {
         "url": "https://www.redige.it/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.etoro.com": {
         "url": "https://www.etoro.com/it/academy/courses/investing-101/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "masterinfinanzapersonale.com": {
         "url": "https://masterinfinanzapersonale.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.metaskill.com": {
         "url": "https://www.metaskill.com/corsi/finanza-personale/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.corsi.net": {
         "url": "https://www.corsi.net/corso-di-formazione-online-con-attestato/trading-online-per-principianti-la-guida-completa-alla-professione-di-trader/242",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.corsi.net/catalogo-corsi-di-formazione?r=1&theme_id=38&sort=price&level=Master"
     },
     "www.keytolearn.it": {
         "url": "https://www.keytolearn.it/finanza/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.borsaitaliana.it": {
         "url": "https://www.borsaitaliana.it/borsaitaliana/academy/academy/formazione-academy.htm",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.fef.academy": {
         "url": "http://www.fef.academy/i-nostri-corsi/videocorso-di-economia-completo-18-lezioni/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.comune.verona.it": {
         "url": "https://www.comune.verona.it/nqcontent.cfm?a_id=75249&tt=verona_agid",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.comune.verona.it/nqcontent.cfm?a_id=59251&tt=verona_agid"
     },
     "www.amazon.it": {
         "url": "https://www.amazon.it/BASI-DELLA-FINANZA-principianti-economia/dp/B087SFKYVZ",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.unipi.it": {
         "url": "https://www.unipi.it/index.php/lauree/regolamento/10445",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.monetizzando.it": {
         "url": "https://www.monetizzando.it/corsi-di-finanza-per-principianti/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     }
 }
