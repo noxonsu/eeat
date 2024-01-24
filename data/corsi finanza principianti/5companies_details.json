@@ -1,0 +1,476 @@
+{
+    "www.udemy.com": {
+        "error": "Unable to access the website for analysis at this time. Please try again later.",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.youtube.com": {
+        "error": "Unable to access the website for corsi finanza principianti. Please provide alternative sources or specific products for analysis.",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "www.corsi.it": {
+        "corsi_finanza_principianti": {
+            "call_to_action": "Registrati ora",
+            "usecases": [
+                "Apprendimento delle dinamiche delle leggi economiche",
+                "Valutazione delle performance delle imprese quotate in borsa",
+                "Comprensione dei mercati finanziari e dei meccanismi di base del mercato",
+                "Acquisizione di conoscenze sulle tecniche di trading"
+            ],
+            "solutions": "I corsi offrono formazione approfondita sull'educazione finanziaria, con focus su trading, investimenti, finanza, economia e startup.",
+            "key_features": [
+                "Corsi con attestato di formazione e garanzia soddisfatti o 100% rimborsati",
+                "Diversi corsi tenuti da esperti nel settore finanziario",
+                "Possibilit\u00e0 di apprendere analisi tecnica, trading sul Forex, gestione del bilancio familiare, investimenti in immobili, ottimizzazione fiscale, guadagnare in borsa con dividendi azionari, e altro",
+                "Opzioni premium per corsi avanzati",
+                "Possibilit\u00e0 di regalare corsi"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "price": "49,95 +IVA",
+                "plan": "Microsoft Excel: da principiante ad avanzato"
+            }
+        }
+    },
+    "fds.mate.polimi.it": {
+        "corsi_finanza_principianti": {
+            "call_to_action": "Iscriviti al corso online Mooc for Citizens - Finanza per tutti sulla piattaforma POK (Polimi Open Knowledge) del Politecnico",
+            "usecases": [
+                "Fornire strumenti necessari per affrontare scelte finanziarie con cognizione di causa",
+                "Affrontare le principali questioni finanziarie, come scegliere un mutuo, investire i risparmi, confrontarsi con la banca",
+                "Apprendere concetti finanziari di base",
+                "Completamente gratuito e non richiede conoscenze pregresse di Matematica"
+            ],
+            "solutions": "Il corso fornisce gli strumenti necessari per affrontare scelte finanziarie con cognizione di causa, affrontare le principali questioni finanziarie, apprendere concetti finanziari di base, e non richiede conoscenze pregresse di Matematica.",
+            "key_features": "Gratuito, accessibile online, fornisce strumenti per affrontare scelte finanziarie, affronta le principali questioni finanziarie, non richiede conoscenze pregresse di Matematica"
+        },
+        "pricesAndPlans": {
+            "status": "Error: Timeout",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "it.linkedin.com": {
+        "corsi_finanza_principianti": {
+            "call_to_action": "Inizia la tua prova gratuita",
+            "usecases": [
+                "Apprendimento dei principi di contabilit\u00e0 e finanza",
+                "Acquisizione di conoscenze finanziarie di base",
+                "Comprendere i fondamenti della gestione finanziaria",
+                "Esplorare argomenti correlati come finanza aziendale e finanze personali"
+            ],
+            "solutions": "I corsi offrono una variet\u00e0 di soluzioni per l'apprendimento finanziario di base, inclusi argomenti come contabilit\u00e0, finanza aziendale, finanze personali e analisi dei dati.",
+            "key_features": [
+                "Corsi di varia durata, da pochi minuti a diverse ore",
+                "Insegnanti esperti nel settore finanziario",
+                "Ampia gamma di argomenti finanziari trattati",
+                "Disponibilit\u00e0 di video e corsi tradizionali"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.consob.it": {
+        "corsi_finanza_principianti": {
+            "call_to_action": "Prenota una demo",
+            "usecases": [
+                "Apprendimento delle conoscenze finanziarie di base",
+                "Educazione finanziaria per principianti",
+                "Formazione su investimenti e mercati finanziari"
+            ],
+            "solutions": "Offerta formativa su nozioni e strumenti finanziari, video, risorse e giochi, conferenze e percorsi specifici per PMI",
+            "key_features": [
+                "Apprendimento sull'inflazione",
+                "Conoscenza dei mercati finanziari",
+                "Informazioni sugli operatori finanziari",
+                "Approfondimento su azioni, obbligazioni, fondi comuni, derivati e criptovalute",
+                "Formazione sui servizi di investimento e documenti da leggere prima dell'investimento"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "error",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "mataandassociates.com": {
+        "error": "Unable to access the website for analysis. Please provide alternative sources or information for the corsi finanza principianti products.",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.lezione-online.it": {
+        "corsi_finanza_principianti": {
+            "call_to_action": "ISCRIVITI GRATIS, PRENOTA UNA CONSULENZA LIVE, ACQUISTA CON 18APP, ACQUISTA CON CARTA DEL DOCENTE",
+            "usecases": [
+                "Apprendimento delle basi della finanza",
+                "Creazione di rendimenti a lungo termine",
+                "Acquisizione di consapevolezza nella gestione del denaro e del budget personale",
+                "Riconoscimento di un Broker 'sicuro'",
+                "Gestione del rischio",
+                "Capacit\u00e0 di agire e prendere decisioni nell'ambito dei mercati finanziari"
+            ],
+            "solutions": [
+                "Accesso illimitato e subito disponibile",
+                "Attestato di frequenza",
+                "Visibile su tutti i dispositivi",
+                "Attestato di merito con test finale",
+                "Chat con il docente"
+            ],
+            "key_features": {
+                "Videolezioni": "23",
+                "Durata video": "2 ore",
+                "Livello": "Base",
+                "Durata totale": "3 ore"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Tentativi per test finale": "15,00\u20ac",
+                "Disegno realistico a matita \u2013 Kit Base": "25,00\u20ac",
+                "Crediti ECP \u2013 fino a 20 ore": "30,00\u20ac",
+                "Balloon Artist \u2013 Kit Base": "36,00\u20ac",
+                "Truccabimbi \u2013 Kit Base": "37,50\u20ac",
+                "Disegno a matita \u2013 Kit Base": "38,00\u20ac",
+                "Crediti ECP \u2013 pi\u00f9 di 20 ore": "45,00\u20ac",
+                "Pacchetto Base (3 corsi a scelta)": "47,00\u20ac",
+                "Tavola di Modellistica Semplificata": "50,00\u20ac",
+                "Ritratto a matita - Kit Base": "60,00\u20ac",
+                "Coffee Brewing: il caff\u00e8 filtrato - Kit 1": "65,00\u20ac",
+                "Coffee Brewing: il caff\u00e8 filtrato - Kit 2": "88,40\u20ac",
+                "Il caff\u00e8 con la Moka - Kit": "103,80\u20ac"
+            }
+        }
+    },
+    "www.redige.it": {
+        "corsi_finanza_principianti": {
+            "call_to_action": "Inizia gratis, Inizia adesso, Scegli il corso, Scopri di piu, Vedi tutti i corsi, Compila il form",
+            "usecases": [
+                "Imparare con casi studio reali come lavorano nel concreto aziende, fondi di investimento, startup e banche",
+                "Apprendere skills pratiche utili al mondo del lavoro o per le proprie passioni",
+                "Analizzare strumenti finanziari e aziende come fanno fondi e professionisti",
+                "Utilizzare gli strumenti che usano le aziende per analizzare e pianificare il proprio Business",
+                "Analizzare i mercati finanziari come fanno gli specialisti del settore",
+                "Valutare una Startup per analizzare e pianificare il proprio Business",
+                "Capire le basi per la Finanza"
+            ],
+            "solutions": [
+                "Imparare con casi studio reali",
+                "Apprendere skills pratiche",
+                "Analizzare strumenti finanziari e aziende",
+                "Utilizzare gli strumenti aziendali",
+                "Analizzare i mercati finanziari",
+                "Valutare una Startup",
+                "Capire le basi per la Finanza"
+            ],
+            "key_features": [
+                "Corsi Finanza",
+                "Python per la Finanza",
+                "Excel per la Finanza",
+                "Valutazione Azionaria",
+                "Discounted Cash Flow",
+                "Startup Valuation",
+                "Introduzione alla Finanza",
+                "Business Plan",
+                "Cash Flow",
+                "Riclassifica di Bilancio",
+                "Python - Analisi Bilancio",
+                "Investimenti",
+                "Azienda",
+                "Mercati Finanziari",
+                "Startup",
+                "Basi di Finanza"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.etoro.com": {
+        "corsi_finanza_principianti": {
+            "website": "www.etoro.com",
+            "security_check": {
+                "connection_status": "secure",
+                "javascript_and_cookies_required": true,
+                "performance_security_provider": "Cloudflare"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.metaskill.com": {
+        "corsi_finanza_principianti": {
+            "call_to_action": "Acquista ora il percorso",
+            "usecases": [
+                "Per coloro che non hanno conoscenze in campo finanziario",
+                "Per chi vuole imparare la gestione della finanza personale e attuare le strategie operative spiegate nel percorso"
+            ],
+            "solutions": [
+                "Percorso completo per proteggere e gestire i tuoi risparmi fatto da professionisti certificati",
+                "Apprendi una procedura guidata professionale che ti permette di diventare il consulente finanziario di te stesso",
+                "Ottimizzazione previdenziale indipendente dai mercati, agisce tagliando i costi e quindi i risultati sono certi"
+            ],
+            "key_features": {
+                "Durata": "46 ore",
+                "Formato": "Video corso",
+                "Modalit\u00e0": "100% online",
+                "Docenti": "Alessandro Moretti, Danilo Zanni",
+                "Moduli_di_approfondimento_teorico_delle_lezioni": 40,
+                "Ore_di_lezioni_online_da_vedere_come_e_quando_vuoi": 46,
+                "Extra_Bonus_dal_valore_commerciale_di_594\u20ac": 2,
+                "Skill_comprese_in_un_unico_percorso_pratico": 12
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.corsi.net": {
+        "error": "Unable to access the website for corsi finanza principianti. Please provide alternative information or criteria to analyze the products.",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.keytolearn.it": {
+        "corsi_finanza_principianti": {
+            "name": "Key To Learn",
+            "location": "Corso Svizzera 185, 10149 Torino",
+            "contact": "+39 011 69 85 824",
+            "email": "info@keytolearn.it",
+            "courses": {
+                "salute_igiene_sicurezza": {
+                    "Sicurezza sul lavoro": true,
+                    "Salute e Igiene nei Luoghi di Lavoro": true
+                },
+                "marketing_comunicazione_vendita": {
+                    "Marketing": true,
+                    "Comunicazione": true,
+                    "Vendita": true
+                },
+                "amministrazione_gestione": {
+                    "Contabilit\u00e0": true,
+                    "Amministrazione Aziendale": true,
+                    "Gestione aziendale": true,
+                    "Fiscalit\u00e0": true,
+                    "Finanza aziendale": true
+                },
+                "corsi_fad_webinar": {
+                    "Corsi in FAD": true,
+                    "Corsi in webinar": true
+                }
+            },
+            "services": {
+                "formazione_finanziata": true,
+                "digital_academy": true,
+                "universit\u00e0_telematica": true
+            },
+            "certifications": {
+                "ISO_9001_2015": true
+            },
+            "privacy_policy": true,
+            "cookie_policy": true,
+            "call_to_action": "Contattaci",
+            "usecases": "Formazione finanziata, Digital Academy, Universit\u00e0 telematica",
+            "solutions": "Corsi di formazione in vari settori, Certificazioni ISO, Politiche sulla privacy e sui cookie",
+            "key_features": "Agenzia formativa accreditata, Ampia gamma di corsi in vari settori, Corsi in FAD e webinar, Certificazione di Qualit\u00e0 ISO 9001:2015"
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.borsaitaliana.it": {
+        "corsi_finanza_principianti": {
+            "call_to_action": "Consulta il calendario corsi",
+            "usecases": [
+                "Formazione finanziaria",
+                "Corsi e Seminari",
+                "Corsi per aziende",
+                "Corsi online",
+                "MiFID 2",
+                "Esame Market Maker",
+                "Studenti"
+            ],
+            "solutions": "La nostra missione \u00e8 fornire un osservatorio privilegiato e un punto di riferimento per lo sviluppo di competenze nell\u2019ambito del mercato finanziario nazionale e internazionale. Offriamo corsi e seminari sponsorizzati, corsi per aziende, corsi online, certificazione per Market Maker sul mercato Idem, e formazione per studenti delle scuole secondarie superiori.",
+            "key_features": "Consolidata esperienza, corpo docenti di professionisti del settore finanziario, esperienza internazionale, metodologie didattiche innovative, tecnologie all\u2019avanguardia, certificazione ISO 9001, supporto ai mercati emergenti e internazionali."
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.fef.academy": {
+        "corsi_finanza_principianti": {
+            "call_to_action": "Iscriviti ai nostri videocorsi",
+            "usecases": [
+                "Formazione online",
+                "Formazione in aula",
+                "Formazione individuale"
+            ],
+            "solutions": "Videocorso di Economia e Finanza Completo",
+            "key_features": [
+                "Videocorso base e avanzato",
+                "Attestato di frequenza firmato da Warren Mosler",
+                "Incluso nuovo libro di Stephanie Kelton",
+                "Prerequisiti aperti a tutti",
+                "Lezioni dettagliate su economia, finanza, mercati e storia economica"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.comune.verona.it": {
+        "corsi_finanza_principianti": {
+            "call_to_action": "Iscriversi ai corsi",
+            "usecases": [
+                "Aspiranti volontari/e",
+                "Operatori/operatrici sociali",
+                "Cittadini interessati"
+            ],
+            "solutions": "Formazione dedicata all'educazione finanziaria e al bilancio familiare",
+            "key_features": [
+                "Corso online sulla piattaforma Zoom",
+                "Corso in presenza presso STEPSpoint",
+                "Prioritariamente per cittadini della 3^ circoscrizione",
+                "Rivolto agli aspiranti volontari/e, operatori/operatrici sociali e cittadini interessati"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.amazon.it": {
+        "corsi_finanza_principianti": {
+            "call_to_action": "Acquista ora",
+            "usecases": [
+                "Apprendere le basi della finanza",
+                "Capire come investire denaro",
+                "Comprendere i mercati finanziari",
+                "Sviluppare una conoscenza di base sulla criptovaluta e bitcoin"
+            ],
+            "solutions": "Il libro fornisce informazioni su come investire denaro, comprendere i mercati finanziari e capire le dinamiche delle criptovalute.",
+            "key_features": [
+                "Spiega le basi della finanza",
+                "Fornisce informazioni su come investire denaro",
+                "Approfondisce i concetti legati ai mercati finanziari",
+                "Esplora le caratteristiche delle criptovalute e del bitcoin"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.unipi.it": {
+        "corsi_finanza_principianti": {
+            "call_to_action": "Iscriviti",
+            "usecases": [
+                "Studenti universitari che desiderano studiare finanza e mercati finanziari",
+                "Persone interessate a una carriera nel settore finanziario",
+                "Individui che cercano di acquisire conoscenze di base in economia aziendale, statistica, economia politica, matematica finanziaria, etc."
+            ],
+            "solutions": "Il corso offre una vasta gamma di materie che coprono argomenti fondamentali in finanza e mercati finanziari, come economia aziendale, statistica, economia politica, matematica finanziaria, diritto privato, economia monetaria, finanza aziendale, economia dei mercati finanziari, economia e tecnica bancaria, storia delle teorie monetarie, bancarie e finanziarie, etc.",
+            "key_features": [
+                "Ampia variet\u00e0 di materie offerte",
+                "Focus su argomenti fondamentali in finanza e mercati finanziari",
+                "Possibilit\u00e0 di scelta di attivit\u00e0 formative a libera scelta",
+                "Opportunit\u00e0 di svolgere stage per il riconoscimento di crediti",
+                "Prova finale per verificare il grado di autonomia e conoscenze acquisite"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.monetizzando.it": {
+        "corsi_finanza_principianti": {
+            "courses": [
+                {
+                    "course_name": "Corso completo finanza e investimenti",
+                    "author": "Gianluca Sidoti",
+                    "price": "49,99 \n",
+                    "link": "https://www.udemy.com/course/finanza-e-investimenti-il-corso-completo/",
+                    "number_of_reviews": 364,
+                    "average_rating": "4.2 stelle su 5",
+                    "duration": "8 ore e 20 minuti",
+                    "sections": 33,
+                    "key_features": [
+                        "Le basi dell\u2019economia",
+                        "L\u2019offerta",
+                        "Gli indicatori finanziari",
+                        "Le imprese",
+                        "Gli strumenti finanziari",
+                        "TraDetector (una membership con diversi percorsi di formazione ed una community privata)"
+                    ]
+                },
+                {
+                    "course_name": "Investire in Borsa",
+                    "author": "Matteo Rocchi",
+                    "price": "129,99 \n",
+                    "link": "https://www.udemy.com/course/investire-in-borsa-prendi-in-mano-il-tuo-futuro-finanziario/",
+                    "number_of_reviews": 219,
+                    "average_rating": "4.3 stelle su 5",
+                    "duration": "10 ore e 22 minuti",
+                    "sections": 13,
+                    "key_features": [
+                        "Dal mindeset al come creare ricchezza",
+                        "Gli strumenti alla trappola degli investitori",
+                        "Dollar cost averaging",
+                        "L\u2019interesse composto",
+                        "Investire in ETF",
+                        "Come costruirsi una rendita con le azioni da dividendi"
+                    ]
+                },
+                {
+                    "course_name": "Forex Trading Per tutti",
+                    "author": "Massimiliano Alfieri",
+                    "price": "84,99 \n",
+                    "link": "https://www.udemy.com/course/forex-trading-per-tutti-corso-completo-con-esempi-pratici/",
+                    "number_of_reviews": 1152,
+                    "average_rating": "4.4 stelle su 5",
+                    "duration": "10 ore e 32 minuti",
+                    "sections": 50,
+                    "key_features": [
+                        "Analisi tecnica",
+                        "MT4 versione desktop",
+                        "Sezione teorica",
+                        "Calendario economico"
+                    ]
+                }
+            ],
+            "call_to_action": "Scopri Ora il Corso",
+            "usecases": [
+                "Migliorare le competenze in ambito finanziario",
+                "Apprendere le basi dell\u2019economia e finanza",
+                "Investire in azioni, obbligazioni, ETF e forex trading"
+            ],
+            "solutions": [
+                "Fornisce un\u2019infarinatura introduttiva su finanza ed economia",
+                "Offre una buona infarinatura di partenza per il trading nel mercato forex",
+                "Approccio ai temi trattati con informazioni tecniche ed argomenti complessi resi comprensibili anche per chi non ha nessuna conoscenza in materia"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    }
+}
