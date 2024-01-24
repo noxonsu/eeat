@@ -1,71 +1,94 @@
 {
     "www.activemind.de": {
-        "url": "https://www.activemind.de/datenschutz/datenschutzbeauftragter/"
+        "url": "https://www.activemind.de/datenschutz/datenschutzbeauftragter/",
+        "nature": "single project"
     },
     "www.dataguard.de": {
-        "url": "https://www.dataguard.de/externer-datenschutzbeauftragter"
+        "url": "https://www.dataguard.de/externer-datenschutzbeauftragter",
+        "nature": "single project"
     },
     "www.tuvsud.com": {
-        "url": "https://www.tuvsud.com/de-de/dienstleistungen/cyber-security/datenschutz/externer-datenschutzbeauftragter"
+        "url": "https://www.tuvsud.com/de-de/dienstleistungen/cyber-security/datenschutz/externer-datenschutzbeauftragter",
+        "nature": "single project"
     },
     "www.iitr.de": {
-        "url": "https://www.iitr.de/produkte-services/externer-datenschutzbeauftragter"
+        "url": "https://www.iitr.de/produkte-services/externer-datenschutzbeauftragter",
+        "nature": "single project"
     },
     "www.intersoft-consulting.de": {
-        "url": "https://www.intersoft-consulting.de/externer-datenschutzbeauftragter/"
+        "url": "https://www.intersoft-consulting.de/externer-datenschutzbeauftragter/",
+        "nature": "single project"
     },
     "www.datenschutzexperte.de": {
-        "url": "https://www.datenschutzexperte.de/externer-datenschutzbeauftragter/"
+        "url": "https://www.datenschutzexperte.de/externer-datenschutzbeauftragter/",
+        "nature": "single project"
     },
     "www.bvdnet.de": {
-        "url": "https://www.bvdnet.de/datenschutzbeauftragten-finden/"
+        "url": "https://www.bvdnet.de/datenschutzbeauftragten-finden/",
+        "nature": "single project"
     },
     "fed-ev.de": {
-        "url": "https://fed-ev.de/"
+        "url": "https://fed-ev.de/",
+        "nature": "single project"
     },
     "www.ibs.de": {
-        "url": "https://www.ibs.de/datenschutz/datenschutzbeauftragter/"
+        "url": "https://www.ibs.de/datenschutz/datenschutzbeauftragter/",
+        "nature": "single project"
     },
     "dsgvo-nord.de": {
-        "url": "https://dsgvo-nord.de/"
+        "url": "https://dsgvo-nord.de/",
+        "nature": "single project"
     },
     "www.riske-it.de": {
-        "url": "https://www.riske-it.de/leistungen/externer-datenschutzbeauftragter/"
+        "url": "https://www.riske-it.de/leistungen/externer-datenschutzbeauftragter/",
+        "nature": "single project"
     },
     "www.haufe.de": {
-        "url": "https://www.haufe.de/compliance/recht-politik/datenschutzbeauftragter/externer-datenschutzbeauftragter_230132_457396.html"
+        "url": "https://www.haufe.de/compliance/recht-politik/datenschutzbeauftragter/externer-datenschutzbeauftragter_230132_457396.html",
+        "nature": "single project"
     },
     "www.180-datenschutz.de": {
-        "url": "https://www.180-datenschutz.de/externer-datenschutzbeauftragter/"
+        "url": "https://www.180-datenschutz.de/externer-datenschutzbeauftragter/",
+        "nature": "single project"
     },
     "www.zepedes.com": {
-        "url": "https://www.zepedes.com/startseite/der-externe-datenschutzbeauftragte/"
+        "url": "https://www.zepedes.com/startseite/der-externe-datenschutzbeauftragte/",
+        "nature": "single project"
     },
     "www.suedwest-datenschutz.com": {
-        "url": "https://www.suedwest-datenschutz.com/leistungen/datenschutzbeauftragter/"
+        "url": "https://www.suedwest-datenschutz.com/leistungen/datenschutzbeauftragter/",
+        "nature": "single project"
     },
     "www.priolan.de": {
-        "url": "https://www.priolan.de/externer-datenschutzbeauftragter/"
+        "url": "https://www.priolan.de/externer-datenschutzbeauftragter/",
+        "nature": "single project"
     },
     "www.2b-advice.com": {
-        "url": "https://www.2b-advice.com/de/loesungen/datenschutz/externer-datenschutzbeauftragter/"
+        "url": "https://www.2b-advice.com/de/loesungen/datenschutz/externer-datenschutzbeauftragter/",
+        "nature": "single project"
     },
     "www.althammer-kill.de": {
-        "url": "https://www.althammer-kill.de/leistungen/datenschutz/externer-datenschutzbeauftragter"
+        "url": "https://www.althammer-kill.de/leistungen/datenschutz/externer-datenschutzbeauftragter",
+        "nature": "single project"
     },
     "www.datenschutzbeauftragter-leipzig.de": {
-        "url": "https://www.datenschutzbeauftragter-leipzig.de/"
+        "url": "https://www.datenschutzbeauftragter-leipzig.de/",
+        "nature": "single project"
     },
     "sicherheitsingenieur.nrw": {
-        "url": "https://sicherheitsingenieur.nrw/datenschutzberatung-externe-datenschutzbeauftragte/"
+        "url": "https://sicherheitsingenieur.nrw/datenschutzberatung-externe-datenschutzbeauftragte/",
+        "nature": "single project"
     },
     "www.rdp-law.de": {
-        "url": "https://www.rdp-law.de/de/rechtsgebiete/datenschutzrecht/externe-datenschutzbeauftragte.html"
+        "url": "https://www.rdp-law.de/de/rechtsgebiete/datenschutzrecht/externe-datenschutzbeauftragte.html",
+        "nature": "single project"
     },
     "www.reisswolf.com": {
-        "url": "https://www.reisswolf.com/leistungsbereiche/angebote-von-partnerunternehmen/online-datenschutzberatung/"
+        "url": "https://www.reisswolf.com/leistungsbereiche/angebote-von-partnerunternehmen/online-datenschutzberatung/",
+        "nature": "single project"
     },
     "www.kinast.eu": {
-        "url": "https://www.kinast.eu/externer-datenschutzbeauftragter/"
+        "url": "https://www.kinast.eu/externer-datenschutzbeauftragter/",
+        "nature": "single project"
     }
 }
