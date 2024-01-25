@@ -1,0 +1,218 @@
+{
+    "apps.apple.com": {
+        "habit_tracker_products": [
+            {
+                "name": "Habit Tracker",
+                "developer": "Davetech Co., Ltd.",
+                "platforms": [
+                    "iPad",
+                    "iPhone",
+                    "Apple Watch"
+                ],
+                "price": "Free with In-App Purchases",
+                "ratings": "4.8 out of 5",
+                "reviews": "86.8K Ratings",
+                "call_to_action": "Download now",
+                "usecases": [
+                    "Build habits & reach goals",
+                    "Remind users when needed",
+                    "Track habits with stats and notes",
+                    "Analyze habits with charts",
+                    "Motivate users toward success",
+                    "Share habits with friends to track together"
+                ],
+                "solutions": [
+                    "Auto tracking of various activities powered by Apple Health",
+                    "Tracking both good habits and quitting bad habits",
+                    "Goal units tracking with volume and units",
+                    "Group habits tracking with people you care about",
+                    "Detailed stats and habit reports",
+                    "Mood tracking for mental wellness",
+                    "Customizable reminders and repeated reminders",
+                    "Widgets for home screen and lock screen",
+                    "Habit memo for personal habit diary",
+                    "Yearly view for comprehensive habit tracking",
+                    "Focus time for habits with time units",
+                    "Cloud backup & sync for data across devices",
+                    "Daily words for motivation",
+                    "Safety lock with faceID or touchID",
+                    "Compete with friends",
+                    "Dark mode",
+                    "Habit ideas for discovering new habits",
+                    "Upcoming features like enhanced water tracker & step counter"
+                ],
+                "key_features": {
+                    "auto_tracking": true,
+                    "goal_units_tracking": true,
+                    "group_habits_tracking": true,
+                    "detailed_stats": true,
+                    "mood_tracking": true,
+                    "customizable_reminders": true,
+                    "widgets": true,
+                    "cloud_backup_sync": true,
+                    "safety_lock": true,
+                    "compete_with_friends": true,
+                    "dark_mode": true,
+                    "habit_ideas": true
+                }
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "jamesclear.com": {
+        "habit_trackers": [
+            {
+                "name": "Habit Journal",
+                "call_to_action": "Purchase Habit Journal",
+                "usecases": [
+                    "Tracking daily, weekly, and monthly habits",
+                    "Building new habits or maintaining existing ones",
+                    "Motivating and reminding users to act on their habits"
+                ],
+                "solutions": [
+                    "Provides habit tracker templates for each month",
+                    "Encourages tracking small, easy-to-complete habits",
+                    "Helps users visualize and record their habit streaks"
+                ],
+                "key_features": [
+                    "Provides habit tracker templates for each month",
+                    "Encourages tracking small, easy-to-complete habits",
+                    "Helps users visualize and record their habit streaks"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "play.google.com": {
+        "habit_tracker_products": [
+            {
+                "name": "Habit Tracker - Habit Diary",
+                "developer": "Leap Fitness Group",
+                "rating": 4.8,
+                "reviews": "90.6K",
+                "downloads": "5M+",
+                "price": "Contains ads, In-app purchases",
+                "description": "Habit Tracker - Habit Diary is designed to help users break bad habits and build good ones through customizable daily habits, 30-day challenges, time management, statistics tracking, and multitype to-do lists. It aims to motivate users to maintain a healthy and productive lifestyle.",
+                "call_to_action": "Install",
+                "usecases": [
+                    "Breaking bad habits and building good ones",
+                    "Planning daily habits and goals",
+                    "Boosting productivity and focus",
+                    "Improving sleep quality and energy levels",
+                    "Developing a healthier lifestyle"
+                ],
+                "solutions": "The app provides customizable habit plans and to-do lists, detailed statistics for progress tracking, built-in timer and white noises for focus and productivity, and 30-day challenges based on a scientifically proven habit-building method.",
+                "key_features": [
+                    "Customizable daily habits",
+                    "30-day challenges",
+                    "Time management tools",
+                    "Statistics tracking",
+                    "Multitype to-do lists"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.notion.so": {
+        "product_name": "Notion",
+        "call_to_action": "Request a demo",
+        "usecases": [
+            "Personal use",
+            "Remote work",
+            "Startups",
+            "Education",
+            "Nonprofits",
+            "Engineering",
+            "Product",
+            "Design",
+            "Managers"
+        ],
+        "solutions": "Notion offers solutions for various team sizes and functions, including enterprise, small business, and personal use. It is also tailored for remote work, startups, education, and nonprofits.",
+        "key_features": [
+            "AIIntegrated AI assistant",
+            "DocsSimple & powerful",
+            "WikisCentralize your knowledge",
+            "ProjectsFor every team or size",
+            "CalendarNewTime and work, together",
+            "Template gallerySetups to get you started",
+            "Customer storiesSee how teams use Notion",
+            "ConnectionsConnect your tools to Notion",
+            "iOS & Android",
+            "Mac & Windows",
+            "Calendar",
+            "Web Clipper"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.habitify.me": {
+        "Habitify": {
+            "call_to_action": "Try Habitify Free",
+            "usecases": [
+                "Streamline everyday routines",
+                "Achieve personal goals",
+                "Boost productivity",
+                "Improve fitness",
+                "Form healthier daily habits"
+            ],
+            "solutions": "Personalized habit tracker app to organize, execute, and triumph in daily routines and goals. It offers insightful metrics, challenges, and innovative tools for habit mastery.",
+            "key_features": {
+                "Organized Schedule": "Clear, organized schedule for the day",
+                "Progress Tracking": "Insightful metrics to track progress",
+                "Challenges": "Engage in friendly competitions and monthly challenges",
+                "Innovative Tools": "Built-in timer, notes, mood tracking, privacy lock, health data sync, API access, integration with Apple Calendar, Zapier, and IFTT",
+                "Success Stories": "Testimonials from users in various fields"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.dailyhabits.xyz": {
+        "product_name": "DailyHabits",
+        "call_to_action": "Start DailyHabits today",
+        "use_cases": [
+            "Building Great Habits",
+            "Breaking Habits",
+            "Tracking Bad Habits",
+            "Changing Habits",
+            "Tracking Habits on a Calendar",
+            "Forming Habits",
+            "Journaling Habits",
+            "Tracking Habits Daily",
+            "Tracking Habits Weekly",
+            "Tracking Habits Monthly"
+        ],
+        "solutions": "Helping users achieve their full potential by tracking and visualizing their habits, promoting self-awareness and reflection, and providing a simple and flexible habit tracking experience.",
+        "key_features": [
+            "Visualize entire month at a glance with calendar view",
+            "Set flexible goals instead of streaks",
+            "Make notes to reflect on the habit journey",
+            "Fully responsive on mobile"
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "free": true,
+                "inAppPurchases": [
+                    {
+                        "price": "$4.99 to $79.99",
+                        "type": "Lifetime membership"
+                    }
+                ]
+            }
+        }
+    }
+}

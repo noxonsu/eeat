@@ -2,32 +2,38 @@
     "apps.apple.com": {
         "url": "https://apps.apple.com/us/app/habit-tracker/id1438388363",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "7f8219e5d4a2e71f8f92fc0a59a56e66"
     },
     "jamesclear.com": {
         "url": "https://jamesclear.com/habit-tracker",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "7f8219e5d4a2e71f8f92fc0a59a56e66"
     },
     "play.google.com": {
         "url": "https://play.google.com/store/apps/details?id=habittracker.todolist.tickit.daily.planner&hl=en_US&gl=US",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "7f8219e5d4a2e71f8f92fc0a59a56e66"
     },
     "www.notion.so": {
         "url": "https://www.notion.so/templates/habit-tracker-24",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "7f8219e5d4a2e71f8f92fc0a59a56e66"
     },
     "www.habitify.me": {
         "url": "https://www.habitify.me/",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "7f8219e5d4a2e71f8f92fc0a59a56e66"
     },
     "www.dailyhabits.xyz": {
         "url": "https://www.dailyhabits.xyz/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.dailyhabits.xyz/habit-tracker-app/strides"
+        "priceAndPlansCrawled": "https://www.dailyhabits.xyz/habit-tracker-app/strides",
+        "5prompt_Hash": "7f8219e5d4a2e71f8f92fc0a59a56e66"
     },
     "www.passionplanner.com": {
         "url": "https://www.passionplanner.com/products/habit-tracker",
