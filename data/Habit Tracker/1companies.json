@@ -1,30 +1,37 @@
 {
     "apps.apple.com": {
         "url": "https://apps.apple.com/us/app/habit-tracker/id1438388363",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "jamesclear.com": {
         "url": "https://jamesclear.com/habit-tracker",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "play.google.com": {
         "url": "https://play.google.com/store/apps/details?id=habittracker.todolist.tickit.daily.planner&hl=en_US&gl=US",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.notion.so": {
         "url": "https://www.notion.so/templates/habit-tracker-24",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.habitify.me": {
         "url": "https://www.habitify.me/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.dailyhabits.xyz": {
         "url": "https://www.dailyhabits.xyz/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.dailyhabits.xyz/habit-tracker-app/strides"
     },
     "www.passionplanner.com": {
         "url": "https://www.passionplanner.com/products/habit-tracker",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     }
 }
