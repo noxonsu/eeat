@@ -1,23 +1,30 @@
 {
     "apps.apple.com": {
-        "url": "https://apps.apple.com/us/app/habit-tracker/id1438388363"
+        "url": "https://apps.apple.com/us/app/habit-tracker/id1438388363",
+        "nature": "single project"
     },
     "jamesclear.com": {
-        "url": "https://jamesclear.com/habit-tracker"
+        "url": "https://jamesclear.com/habit-tracker",
+        "nature": "single project"
     },
     "play.google.com": {
-        "url": "https://play.google.com/store/apps/details?id=habittracker.todolist.tickit.daily.planner&hl=en_US&gl=US"
+        "url": "https://play.google.com/store/apps/details?id=habittracker.todolist.tickit.daily.planner&hl=en_US&gl=US",
+        "nature": "single project"
     },
     "www.notion.so": {
-        "url": "https://www.notion.so/templates/habit-tracker-24"
+        "url": "https://www.notion.so/templates/habit-tracker-24",
+        "nature": "single project"
     },
     "www.habitify.me": {
-        "url": "https://www.habitify.me/"
+        "url": "https://www.habitify.me/",
+        "nature": "single project"
     },
     "www.dailyhabits.xyz": {
-        "url": "https://www.dailyhabits.xyz/"
+        "url": "https://www.dailyhabits.xyz/",
+        "nature": "single project"
     },
     "www.passionplanner.com": {
-        "url": "https://www.passionplanner.com/products/habit-tracker"
+        "url": "https://www.passionplanner.com/products/habit-tracker",
+        "nature": "single project"
     }
 }
