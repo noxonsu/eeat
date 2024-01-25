@@ -7,3 +7,4 @@
 4. **Step 5 (visual.py):** This script creates a comparative article about companies and products based on the provided data. The result is presented in Markdown format.
 
 5. **Step 1.1 (loadSerp.py):** This script is used to extract a list of company URLs from Google search results and saves them in JSON format.
+

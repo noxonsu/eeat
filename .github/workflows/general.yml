@@ -16,6 +16,10 @@ on:
       ADDITIONAL_INFO_FOR_FILTERING_PROJECTS:
         description: 'ex: '
         required: true
+        default: '' # You can change the default value  
+      MY_OPENAI_KEY:
+        description: 'sk-... '
+        required: false
         default: '' # You can change the default value        
 
 jobs:
@@ -66,13 +70,14 @@ jobs:
         git config pull.rebase false
     - name: Run python scripts
       env:
-        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        OPENAI_API_KEY_DEFAULT: ${{ secrets.OPENAI_API_KEY }}
         INDUSTRY_KEYWORD: ${{ github.event.inputs.INDUSTRY_KEYWORD }}
         SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         SERP_PRICES_EXT: ${{ github.event.inputs.SERP_PRICES_EXT }}
         ADDITIONAL_INFO_FOR_FILTERING_PROJECTS: ${{ github.event.inputs.ADDITIONAL_INFO_FOR_FILTERING_PROJECTS }}
         BASE_GPTV: "gpt-3.5-turbo-1106"
         SMART_GPTV: "gpt-3.5-turbo-1106"
+        MY_OPENAI_KEY: ${{ github.event.inputs.MY_OPENAI_KEY }}
       run: |
         python 1loadSerp.py
         git add -A

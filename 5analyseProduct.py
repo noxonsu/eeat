@@ -34,6 +34,10 @@ SERP_PRICES_EXT = os.getenv('SERP_PRICES_EXT')
 BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
 SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-1106')
 
+OPENAI_API_KEY = os.environ.get('MY_OPENAI_KEY', os.environ.get('OPENAI_API_KEY_DEFAULT'))
+openai.api_key = OPENAI_API_KEY  # Set the OpenAI API key
+
+
 cfl = load_from_json_file("7key_features_optimized.json","data/"+INDUSTRY_KEYWORD)
 # Check if exists.
 if cfl:

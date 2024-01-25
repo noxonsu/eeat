@@ -1,0 +1,2040 @@
+{
+    "wordpress.org": {
+        "product": "Chatbot ChatGPT for WordPress",
+        "developer": "Kognetiks.com",
+        "version": "1.8.0",
+        "last_updated": "19 hours ago",
+        "active_installations": "700+",
+        "wordpress_version_required": "5.5 or higher",
+        "tested_up_to": "6.4.2",
+        "php_version_required": "7.0 or higher",
+        "languages": [
+            "Dutch",
+            "English (US)"
+        ],
+        "ratings": {
+            "5_stars": 9,
+            "4_stars": 0,
+            "3_stars": 1,
+            "2_stars": 0,
+            "1_star": 2
+        },
+        "call_to_action": [
+            "Get Chatbot ChatGPT today",
+            "Visit us at Kognetiks.com for more information"
+        ],
+        "use_cases": [
+            "Visitor engagement",
+            "Handling FAQs",
+            "Managing bookings",
+            "Offering customized suggestions"
+        ],
+        "solutions": [
+            "Enhanced visitor engagement with AI",
+            "Personalized digital interaction",
+            "Multiple GPT Assistants for varied roles",
+            "Knowledge Navigator for content mapping"
+        ],
+        "key_features": {
+            "Integration_and_Compatibility": {
+                "WordPress_Compatibility": {
+                    "Supports_latest_WordPress_version": true,
+                    "Backward_compatibility_with_previous_WordPress_versions": true
+                },
+                "Third-party_Integration": {
+                    "Integration_with_popular_WordPress_plugins": true,
+                    "API_support_for_external_software": true
+                }
+            },
+            "User_Experience": {
+                "Ease_of_Use": {
+                    "Intuitive_user_interface": true,
+                    "Simple_setup_process": true
+                },
+                "Interactivity": {
+                    "Real-time_conversation_capability": true,
+                    "User_input_recognition_and_response": true
+                }
+            },
+            "Functionality": {
+                "Content_Generation": {
+                    "Automated_blog_post_creation": false,
+                    "Dynamic_content_suggestions": true
+                },
+                "Customization": {
+                    "Customizable_chatbot_responses": true,
+                    "Adjustable_AI_behavior_settings": true
+                }
+            },
+            "Performance_and_Optimization": {
+                "Efficiency": {
+                    "Low_resource_usage": true,
+                    "Optimized_for_speed_and_responsiveness": true
+                },
+                "SEO_Enhancement": {
+                    "SEO-friendly_content_generation": true,
+                    "Support_for_metadata_optimization": false
+                }
+            },
+            "Support_and_Maintenance": {
+                "Documentation_and_Help": {
+                    "Comprehensive_documentation": true,
+                    "Accessible_support_channels": true
+                },
+                "Updates_and_Upgrades": {
+                    "Regular_feature_updates": true,
+                    "Security_patches_and_improvements": true
+                }
+            }
+        },
+        "tools_to_add_AI_to_WordPress": [
+            "Chatbot ChatGPT plugin",
+            "Knowledge Navigator",
+            "Customizable avatars",
+            "Customizable buttons"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.elegantthemes.com": {
+        "products": [
+            {
+                "name": "Divi Theme & Builder",
+                "call_to_action": "Get Divi Today",
+                "use_cases": [
+                    "Web Design Agencies",
+                    "Web Design Freelancers",
+                    "Small Business Owners",
+                    "Online Store Owners"
+                ],
+                "solutions": [
+                    "No-Code Design",
+                    "Theme Builder",
+                    "Ecommerce",
+                    "Workflow",
+                    "Marketing",
+                    "Developers"
+                ],
+                "key_features": {
+                    "Integration and Compatibility": {
+                        "WordPress Compatibility": [
+                            "Supports latest WordPress version",
+                            "Backward compatibility with previous WordPress versions"
+                        ],
+                        "Third-party Integration": [
+                            "Integration with popular WordPress plugins",
+                            "API support for external software"
+                        ]
+                    },
+                    "User Experience": {
+                        "Ease of Use": [
+                            "Intuitive user interface",
+                            "Simple setup process"
+                        ],
+                        "Interactivity": [
+                            "Real-time conversation capability",
+                            "User input recognition and response"
+                        ]
+                    },
+                    "Functionality": {
+                        "Content Generation": [
+                            "Automated blog post creation",
+                            "Dynamic content suggestions"
+                        ],
+                        "Customization": [
+                            "Customizable chatbot responses",
+                            "Adjustable AI behavior settings"
+                        ]
+                    },
+                    "Performance and Optimization": {
+                        "Efficiency": [
+                            "Low resource usage",
+                            "Optimized for speed and responsiveness"
+                        ],
+                        "SEO Enhancement": [
+                            "SEO-friendly content generation",
+                            "Support for metadata optimization"
+                        ]
+                    },
+                    "Support and Maintenance": {
+                        "Documentation and Help": [
+                            "Comprehensive documentation",
+                            "Accessible support channels"
+                        ],
+                        "Updates and Upgrades": [
+                            "Regular feature updates",
+                            "Security patches and improvements"
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "Divi AI",
+                "call_to_action": "Explore Divi AI",
+                "use_cases": [
+                    "Generating Web Content",
+                    "SEO Optimization",
+                    "User Engagement",
+                    "Creating Plugins",
+                    "Writing and Debugging Code",
+                    "Generating Outlines",
+                    "Researching Blog Post Ideas"
+                ],
+                "solutions": [
+                    "Build Divi Websites With AI",
+                    "Generate text and images within Divi Builder"
+                ],
+                "key_features": {
+                    "Integration and Compatibility": {
+                        "WordPress Compatibility": [
+                            "Supports latest WordPress version"
+                        ],
+                        "Third-party Integration": [
+                            "Seamless integration with Divi Builder"
+                        ]
+                    },
+                    "User Experience": {
+                        "Ease of Use": [
+                            "Intuitive AI content generation within the builder"
+                        ],
+                        "Interactivity": [
+                            "Interactive AI suggestions based on layout and content"
+                        ]
+                    },
+                    "Functionality": {
+                        "Content Generation": [
+                            "AI-generated text for web pages and posts",
+                            "AI-generated image suggestions"
+                        ],
+                        "Customization": [
+                            "Customizable AI-generated content settings"
+                        ]
+                    },
+                    "Performance and Optimization": {
+                        "Efficiency": [
+                            "Streamlines content creation process"
+                        ],
+                        "SEO Enhancement": [
+                            "Generates SEO-friendly titles and meta descriptions"
+                        ]
+                    },
+                    "Support and Maintenance": {
+                        "Documentation and Help": [
+                            "Guides on using AI within Divi"
+                        ],
+                        "Updates and Upgrades": [
+                            "Continuous improvements to AI capabilities"
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "AI Engine",
+                "call_to_action": "Join To Download",
+                "use_cases": [
+                    "Generating Blog Post Ideas",
+                    "Creating Chatbots",
+                    "Generating Images",
+                    "Writing Code"
+                ],
+                "solutions": [
+                    "AI-powered content generation",
+                    "Chatbot integration for customer engagement"
+                ],
+                "key_features": {
+                    "Integration and Compatibility": {
+                        "WordPress Compatibility": [
+                            "Supports latest WordPress version"
+                        ],
+                        "Third-party Integration": [
+                            "Requires API key from OpenAI"
+                        ]
+                    },
+                    "User Experience": {
+                        "Ease of Use": [
+                            "User-friendly interface for content generation"
+                        ],
+                        "Interactivity": [
+                            "Chatbot functionality for user engagement"
+                        ]
+                    },
+                    "Functionality": {
+                        "Content Generation": [
+                            "Generates blog posts, titles, and excerpts",
+                            "Generates code snippets"
+                        ],
+                        "Customization": [
+                            "Customizable content parameters (tone, style, length)"
+                        ]
+                    },
+                    "Performance and Optimization": {
+                        "Efficiency": [
+                            "Cost-effective content generation"
+                        ],
+                        "SEO Enhancement": [
+                            "Can be used to generate SEO-optimized content"
+                        ]
+                    },
+                    "Support and Maintenance": {
+                        "Documentation and Help": [
+                            "Setup guides for API key and plugin usage"
+                        ],
+                        "Updates and Upgrades": [
+                            "Updates based on OpenAI's API changes"
+                        ]
+                    }
+                }
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "themeisle.com": {
+        "products": [
+            {
+                "name": "AIomatic",
+                "call_to_action": "Purchase a regular license",
+                "use_cases": [
+                    "Automatically creating blog posts",
+                    "Writing product reviews",
+                    "Generating topic ideas",
+                    "Updating old posts with fresh content"
+                ],
+                "solutions": [
+                    "Automated content generation",
+                    "Affiliate link automation",
+                    "AI-generated featured images"
+                ],
+                "key_features": {
+                    "Integration_and_Compatibility": {
+                        "WordPress_Compatibility": {
+                            "Supports_latest_WordPress_version": true,
+                            "Backward_compatibility_with_previous_WordPress_versions": null
+                        },
+                        "Third-party_Integration": {
+                            "Integration_with_popular_WordPress_plugins": null,
+                            "API_support_for_external_software": true
+                        }
+                    },
+                    "User_Experience": {
+                        "Ease_of_Use": {
+                            "Intuitive_user_interface": true,
+                            "Simple_setup_process": null
+                        },
+                        "Interactivity": {
+                            "Real-time_conversation_capability": null,
+                            "User_input_recognition_and_response": null
+                        }
+                    },
+                    "Functionality": {
+                        "Content_Generation": {
+                            "Automated_blog_post_creation": true,
+                            "Dynamic_content_suggestions": null
+                        },
+                        "Customization": {
+                            "Customizable_chatbot_responses": null,
+                            "Adjustable_AI_behavior_settings": null
+                        }
+                    },
+                    "Performance_and_Optimization": {
+                        "Efficiency": {
+                            "Low_resource_usage": null,
+                            "Optimized_for_speed_and_responsiveness": null
+                        },
+                        "SEO_Enhancement": {
+                            "SEO-friendly_content_generation": null,
+                            "Support_for_metadata_optimization": null
+                        }
+                    },
+                    "Support_and_Maintenance": {
+                        "Documentation_and_Help": {
+                            "Comprehensive_documentation": null,
+                            "Accessible_support_channels": true
+                        },
+                        "Updates_and_Upgrades": {
+                            "Regular_feature_updates": null,
+                            "Security_patches_and_improvements": null
+                        }
+                    }
+                },
+                "pricing": "$49 for a regular license with six months of support"
+            },
+            {
+                "name": "ContentBot AI Writer",
+                "call_to_action": "Sign up for ContentBot account",
+                "use_cases": [
+                    "Generating ideas and content within WordPress dashboard"
+                ],
+                "solutions": [
+                    "Content generation for bloggers",
+                    "Summarizing long content",
+                    "Creating value propositions"
+                ],
+                "key_features": {
+                    "Integration_and_Compatibility": {
+                        "WordPress_Compatibility": {
+                            "Supports_latest_WordPress_version": null,
+                            "Backward_compatibility_with_previous_WordPress_versions": true
+                        },
+                        "Third-party_Integration": {
+                            "Integration_with_popular_WordPress_plugins": null,
+                            "API_support_for_external_software": true
+                        }
+                    },
+                    "User_Experience": {
+                        "Ease_of_Use": {
+                            "Intuitive_user_interface": true,
+                            "Simple_setup_process": true
+                        },
+                        "Interactivity": {
+                            "Real-time_conversation_capability": null,
+                            "User_input_recognition_and_response": null
+                        }
+                    },
+                    "Functionality": {
+                        "Content_Generation": {
+                            "Automated_blog_post_creation": null,
+                            "Dynamic_content_suggestions": true
+                        },
+                        "Customization": {
+                            "Customizable_chatbot_responses": null,
+                            "Adjustable_AI_behavior_settings": null
+                        }
+                    },
+                    "Performance_and_Optimization": {
+                        "Efficiency": {
+                            "Low_resource_usage": null,
+                            "Optimized_for_speed_and_responsiveness": null
+                        },
+                        "SEO_Enhancement": {
+                            "SEO-friendly_content_generation": null,
+                            "Support_for_metadata_optimization": null
+                        }
+                    },
+                    "Support_and_Maintenance": {
+                        "Documentation_and_Help": {
+                            "Comprehensive_documentation": null,
+                            "Accessible_support_channels": null
+                        },
+                        "Updates_and_Upgrades": {
+                            "Regular_feature_updates": null,
+                            "Security_patches_and_improvements": null
+                        }
+                    }
+                },
+                "pricing": "Free plugin with premium plans starting at $19 per month"
+            },
+            {
+                "name": "AI Mojo",
+                "call_to_action": "Get an API key from OpenAI or AI21 Studio",
+                "use_cases": [
+                    "Generating article sections",
+                    "Creating complete posts and images"
+                ],
+                "solutions": [
+                    "Content generation for blogs",
+                    "Paraphrasing and rewriting content"
+                ],
+                "key_features": {
+                    "Integration_and_Compatibility": {
+                        "WordPress_Compatibility": {
+                            "Supports_latest_WordPress_version": true,
+                            "Backward_compatibility_with_previous_WordPress_versions": null
+                        },
+                        "Third-party_Integration": {
+                            "Integration_with_popular_WordPress_plugins": null,
+                            "API_support_for_external_software": true
+                        }
+                    },
+                    "User_Experience": {
+                        "Ease_of_Use": {
+                            "Intuitive_user_interface": true,
+                            "Simple_setup_process": null
+                        },
+                        "Interactivity": {
+                            "Real-time_conversation_capability": null,
+                            "User_input_recognition_and_response": null
+                        }
+                    },
+                    "Functionality": {
+                        "Content_Generation": {
+                            "Automated_blog_post_creation": true,
+                            "Dynamic_content_suggestions": null
+                        },
+                        "Customization": {
+                            "Customizable_chatbot_responses": null,
+                            "Adjustable_AI_behavior_settings": null
+                        }
+                    },
+                    "Performance_and_Optimization": {
+                        "Efficiency": {
+                            "Low_resource_usage": null,
+                            "Optimized_for_speed_and_responsiveness": null
+                        },
+                        "SEO_Enhancement": {
+                            "SEO-friendly_content_generation": null,
+                            "Support_for_metadata_optimization": null
+                        }
+                    },
+                    "Support_and_Maintenance": {
+                        "Documentation_and_Help": {
+                            "Comprehensive_documentation": null,
+                            "Accessible_support_channels": null
+                        },
+                        "Updates_and_Upgrades": {
+                            "Regular_feature_updates": null,
+                            "Security_patches_and_improvements": null
+                        }
+                    }
+                },
+                "pricing": "Free plugin, API key required from OpenAI or AI21 Studio"
+            },
+            {
+                "name": "AI Engine",
+                "call_to_action": "Use for free with an OpenAI account",
+                "use_cases": [
+                    "Creating a ChatGPT-like chatbot",
+                    "Generating content and images",
+                    "Filling out WooCommerce product fields"
+                ],
+                "solutions": [
+                    "Chatbot creation",
+                    "Content brainstorming",
+                    "SEO optimization"
+                ],
+                "key_features": {
+                    "Integration_and_Compatibility": {
+                        "WordPress_Compatibility": {
+                            "Supports_latest_WordPress_version": true,
+                            "Backward_compatibility_with_previous_WordPress_versions": null
+                        },
+                        "Third-party_Integration": {
+                            "Integration_with_popular_WordPress_plugins": null,
+                            "API_support_for_external_software": true
+                        }
+                    },
+                    "User_Experience": {
+                        "Ease_of_Use": {
+                            "Intuitive_user_interface": true,
+                            "Simple_setup_process": null
+                        },
+                        "Interactivity": {
+                            "Real-time_conversation_capability": true,
+                            "User_input_recognition_and_response": true
+                        }
+                    },
+                    "Functionality": {
+                        "Content_Generation": {
+                            "Automated_blog_post_creation": null,
+                            "Dynamic_content_suggestions": true
+                        },
+                        "Customization": {
+                            "Customizable_chatbot_responses": true,
+                            "Adjustable_AI_behavior_settings": true
+                        }
+                    },
+                    "Performance_and_Optimization": {
+                        "Efficiency": {
+                            "Low_resource_usage": null,
+                            "Optimized_for_speed_and_responsiveness": null
+                        },
+                        "SEO_Enhancement": {
+                            "SEO-friendly_content_generation": true,
+                            "Support_for_metadata_optimization": null
+                        }
+                    },
+                    "Support_and_Maintenance": {
+                        "Documentation_and_Help": {
+                            "Comprehensive_documentation": null,
+                            "Accessible_support_channels": null
+                        },
+                        "Updates_and_Upgrades": {
+                            "Regular_feature_updates": null,
+                            "Security_patches_and_improvements": null
+                        }
+                    }
+                },
+                "pricing": "Free plugin, OpenAI account required"
+            },
+            {
+                "name": "ChatBot for WordPress",
+                "call_to_action": "Purchase the plugin",
+                "use_cases": [
+                    "Building conversational forms",
+                    "Collecting customer details",
+                    "Providing live chat support",
+                    "Retargeting campaigns"
+                ],
+                "solutions": [
+                    "Improving store UX",
+                    "Customer engagement",
+                    "Conversational marketing"
+                ],
+                "key_features": {
+                    "Integration_and_Compatibility": {
+                        "WordPress_Compatibility": {
+                            "Supports_latest_WordPress_version": true,
+                            "Backward_compatibility_with_previous_WordPress_versions": null
+                        },
+                        "Third-party_Integration": {
+                            "Integration_with_popular_WordPress_plugins": true,
+                            "API_support_for_external_software": true
+                        }
+                    },
+                    "User_Experience": {
+                        "Ease_of_Use": {
+                            "Intuitive_user_interface": true,
+                            "Simple_setup_process": null
+                        },
+                        "Interactivity": {
+                            "Real-time_conversation_capability": true,
+                            "User_input_recognition_and_response": true
+                        }
+                    },
+                    "Functionality": {
+                        "Content_Generation": {
+                            "Automated_blog_post_creation": null,
+                            "Dynamic_content_suggestions": null
+                        },
+                        "Customization": {
+                            "Customizable_chatbot_responses": true,
+                            "Adjustable_AI_behavior_settings": true
+                        }
+                    },
+                    "Performance_and_Optimization": {
+                        "Efficiency": {
+                            "Low_resource_usage": null,
+                            "Optimized_for_speed_and_responsiveness": null
+                        },
+                        "SEO_Enhancement": {
+                            "SEO-friendly_content_generation": null,
+                            "Support_for_metadata_optimization": null
+                        }
+                    },
+                    "Support_and_Maintenance": {
+                        "Documentation_and_Help": {
+                            "Comprehensive_documentation": true,
+                            "Accessible_support_channels": true
+                        },
+                        "Updates_and_Upgrades": {
+                            "Regular_feature_updates": null,
+                            "Security_patches_and_improvements": null
+                        }
+                    }
+                },
+                "pricing": "Starting from $29"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "Personal": {
+                    "price": "\u20ac69/year",
+                    "discountedFrom": "\u20ac129/year",
+                    "features": [
+                        "Unlimited Sites usage",
+                        "Header & Footer Booster",
+                        "Blog Booster",
+                        "Custom Layouts & Hooks",
+                        "Performance Module",
+                        "Custom Sidebars",
+                        "Content Restriction"
+                    ],
+                    "savings": "\u20ac60.00"
+                },
+                "Business": {
+                    "price": "\u20ac149/year",
+                    "discountedFrom": "\u20ac279/year",
+                    "features": [
+                        "Everything from Personal",
+                        "WooCommerce Booster",
+                        "110+ Starter Sites & Templates",
+                        "LMS Booster",
+                        "Priority Support",
+                        "Sparks For WooCommerce (Worth \u20ac129)"
+                    ],
+                    "savings": "\u20ac130.00"
+                },
+                "Agency": {
+                    "price": "\u20ac259/year",
+                    "discountedFrom": "\u20ac489/year",
+                    "features": [
+                        "Everything from Business",
+                        "Access to Neve Cloud",
+                        "White label",
+                        "VIP Support",
+                        "Otter Pro (Worth \u20ac149)"
+                    ],
+                    "savings": "\u20ac230.00"
+                }
+            }
+        }
+    },
+    "wordpress.com": {
+        "products": [
+            {
+                "name": "WordPress Hosting",
+                "call_to_action": "Get Started",
+                "use_cases": [
+                    "Hosting WordPress websites",
+                    "Managed WordPress hosting for ease of use",
+                    "Scalable hosting solutions for growing websites"
+                ],
+                "solutions": [
+                    "Reliable hosting environment",
+                    "Performance optimization for WordPress",
+                    "Security and backup services"
+                ],
+                "key_features": {
+                    "Integration and Compatibility": {
+                        "WordPress Compatibility": [
+                            {
+                                "name": "Supports latest WordPress version",
+                                "count": 1
+                            },
+                            {
+                                "name": "Backward compatibility with previous WordPress versions",
+                                "count": 1
+                            }
+                        ],
+                        "Third-party Integration": [
+                            {
+                                "name": "Integration with popular WordPress plugins",
+                                "count": 1
+                            },
+                            {
+                                "name": "API support for external software",
+                                "count": 1
+                            }
+                        ]
+                    },
+                    "User Experience": {
+                        "Ease of Use": [
+                            {
+                                "name": "Intuitive user interface",
+                                "count": 1
+                            },
+                            {
+                                "name": "Simple setup process",
+                                "count": 1
+                            }
+                        ],
+                        "Interactivity": [
+                            {
+                                "name": "Real-time conversation capability",
+                                "count": 0
+                            },
+                            {
+                                "name": "User input recognition and response",
+                                "count": 0
+                            }
+                        ]
+                    },
+                    "Functionality": {
+                        "Content Generation": [
+                            {
+                                "name": "Automated blog post creation",
+                                "count": 0
+                            },
+                            {
+                                "name": "Dynamic content suggestions",
+                                "count": 0
+                            }
+                        ],
+                        "Customization": [
+                            {
+                                "name": "Customizable chatbot responses",
+                                "count": 0
+                            },
+                            {
+                                "name": "Adjustable AI behavior settings",
+                                "count": 0
+                            }
+                        ]
+                    },
+                    "Performance and Optimization": {
+                        "Efficiency": [
+                            {
+                                "name": "Low resource usage",
+                                "count": 1
+                            },
+                            {
+                                "name": "Optimized for speed and responsiveness",
+                                "count": 1
+                            }
+                        ],
+                        "SEO Enhancement": [
+                            {
+                                "name": "SEO-friendly content generation",
+                                "count": 0
+                            },
+                            {
+                                "name": "Support for metadata optimization",
+                                "count": 0
+                            }
+                        ]
+                    },
+                    "Support and Maintenance": {
+                        "Documentation and Help": [
+                            {
+                                "name": "Comprehensive documentation",
+                                "count": 1
+                            },
+                            {
+                                "name": "Accessible support channels",
+                                "count": 1
+                            }
+                        ],
+                        "Updates and Upgrades": [
+                            {
+                                "name": "Regular feature updates",
+                                "count": 1
+                            },
+                            {
+                                "name": "Security patches and improvements",
+                                "count": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "WordPress Plugins",
+                "call_to_action": "Discover",
+                "use_cases": [
+                    "Extending WordPress functionality",
+                    "Adding new features like SEO, Ecommerce, Social Media integration",
+                    "Customizing website capabilities"
+                ],
+                "solutions": [
+                    "Wide range of plugins for various needs",
+                    "Easy integration with WordPress core",
+                    "Community and professional support"
+                ],
+                "key_features": {
+                    "Integration and Compatibility": {
+                        "WordPress Compatibility": [
+                            {
+                                "name": "Supports latest WordPress version",
+                                "count": 1
+                            },
+                            {
+                                "name": "Backward compatibility with previous WordPress versions",
+                                "count": 1
+                            }
+                        ],
+                        "Third-party Integration": [
+                            {
+                                "name": "Integration with popular WordPress plugins",
+                                "count": 1
+                            },
+                            {
+                                "name": "API support for external software",
+                                "count": 1
+                            }
+                        ]
+                    },
+                    "User Experience": {
+                        "Ease of Use": [
+                            {
+                                "name": "Intuitive user interface",
+                                "count": 1
+                            },
+                            {
+                                "name": "Simple setup process",
+                                "count": 1
+                            }
+                        ],
+                        "Interactivity": [
+                            {
+                                "name": "Real-time conversation capability",
+                                "count": 1
+                            },
+                            {
+                                "name": "User input recognition and response",
+                                "count": 1
+                            }
+                        ]
+                    },
+                    "Functionality": {
+                        "Content Generation": [
+                            {
+                                "name": "Automated blog post creation",
+                                "count": 1
+                            },
+                            {
+                                "name": "Dynamic content suggestions",
+                                "count": 1
+                            }
+                        ],
+                        "Customization": [
+                            {
+                                "name": "Customizable chatbot responses",
+                                "count": 1
+                            },
+                            {
+                                "name": "Adjustable AI behavior settings",
+                                "count": 1
+                            }
+                        ]
+                    },
+                    "Performance and Optimization": {
+                        "Efficiency": [
+                            {
+                                "name": "Low resource usage",
+                                "count": 1
+                            },
+                            {
+                                "name": "Optimized for speed and responsiveness",
+                                "count": 1
+                            }
+                        ],
+                        "SEO Enhancement": [
+                            {
+                                "name": "SEO-friendly content generation",
+                                "count": 1
+                            },
+                            {
+                                "name": "Support for metadata optimization",
+                                "count": 1
+                            }
+                        ]
+                    },
+                    "Support and Maintenance": {
+                        "Documentation and Help": [
+                            {
+                                "name": "Comprehensive documentation",
+                                "count": 1
+                            },
+                            {
+                                "name": "Accessible support channels",
+                                "count": 1
+                            }
+                        ],
+                        "Updates and Upgrades": [
+                            {
+                                "name": "Regular feature updates",
+                                "count": 1
+                            },
+                            {
+                                "name": "Security patches and improvements",
+                                "count": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "tools_to_add_AI_to_WordPress": [
+            {
+                "name": "AI Chatbot Plugins",
+                "description": "Plugins that integrate AI-powered chatbots into WordPress sites for customer support, engagement, and interaction."
+            },
+            {
+                "name": "AI Content Generators",
+                "description": "Tools that use AI to generate articles, blog posts, and page content automatically."
+            },
+            {
+                "name": "AI SEO Tools",
+                "description": "AI-driven plugins that help optimize content for search engines, suggest keywords, and improve site rankings."
+            },
+            {
+                "name": "AI Image Enhancers",
+                "description": "Plugins that use AI to enhance image quality, resize images intelligently, and generate alt-text."
+            },
+            {
+                "name": "AI Personalization Engines",
+                "description": "AI solutions that personalize the user experience on WordPress sites based on visitor behavior and preferences."
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "found",
+            "priceAndPlans": {
+                "Free": {
+                    "price": "$0",
+                    "storage": "1 GB",
+                    "features": [
+                        "Beautiful themes and patterns",
+                        "Unlimited pages",
+                        "Unlimited users",
+                        "Time machine for post edits",
+                        "Built-in newsletters & RSS",
+                        "Brute-force protection",
+                        "Smart redirects",
+                        "Online forever",
+                        "Paid subscribers",
+                        "Paid content gating",
+                        "Donations and tips",
+                        "Payment buttons",
+                        "Visitor stats",
+                        "Spam protection with Akismet",
+                        "Limited automatic shares in social media",
+                        "Contact form"
+                    ],
+                    "commission_fee": "10% (plus standard processing fee)"
+                },
+                "Starter": {
+                    "price": "$9 per month, billed yearly",
+                    "storage": "6 GB",
+                    "features": [
+                        "Everything in Free, plus:",
+                        "Free domain for one year",
+                        "Ad-free experience",
+                        "Extremely fast DNS with SSL",
+                        "Support via email",
+                        "Security, performance, and growth tools\u2014powered by Jetpack"
+                    ],
+                    "commission_fee": "8% (plus standard processing fee)"
+                },
+                "Explorer": {
+                    "price": "$18 per month, billed yearly",
+                    "storage": "13 GB",
+                    "features": [
+                        "Everything in Starter, plus:",
+                        "Live chat support",
+                        "Premium themes",
+                        "Earn with WordAds",
+                        "Style customization",
+                        "4% commission fee (plus standard processing fee) for payments",
+                        "4K Videos with VideoPress",
+                        "Unlimited automatic shares in social media",
+                        "Site activity log",
+                        "Advanced stats"
+                    ],
+                    "commission_fee": "4% (plus standard processing fee)"
+                },
+                "Creator": {
+                    "price": "$40 per month, billed yearly",
+                    "storage": "50 GB",
+                    "features": [
+                        "Everything in Explorer, plus:",
+                        "Install plugins & themes",
+                        "Unrestricted bandwidth",
+                        "Global edge caching",
+                        "High-burst capacity",
+                        "Web application firewall (WAF)",
+                        "Global CDN with 28+ locations",
+                        "High-frequency CPUs",
+                        "Automated datacenter failover",
+                        "Isolated site infrastructure",
+                        "Managed malware protection",
+                        "DDOS mitigation",
+                        "SFTP/SSH, WP-CLI, Git tools",
+                        "Free staging site",
+                        "Automated WordPress updates",
+                        "Centralized site management",
+                        "2% commission fee for standard payment features",
+                        "0% commission fee for standard WooCommerce payment features",
+                        "Real-time backups",
+                        "One-click restores",
+                        "Uptime monitor",
+                        "Built-in Elasticsearch",
+                        "Plugin auto-updates",
+                        "Tools for SEO"
+                    ],
+                    "commission_fee": "2% (plus standard processing fee) for standard payment features"
+                },
+                "Entrepreneur": {
+                    "price": "$70 per month, billed yearly",
+                    "storage": "50 GB",
+                    "features": [
+                        "Everything in Creator, plus:",
+                        "Premium store themes",
+                        "Powerful store design tools",
+                        "Unlimited products",
+                        "Display products by brand",
+                        "Product add-ons",
+                        "Assembled products and kits",
+                        "Min/max order quantities",
+                        "Back-in-stock notifications",
+                        "Dynamic product upsells",
+                        "Referral and loyalty programs",
+                        "Custom marketing automation",
+                        "Offer bulk discounts",
+                        "Inventory management",
+                        "Streamlined checkout",
+                        "Sell in 60+ countries",
+                        "Integrations with top shipping carriers",
+                        "0% commission fee for all payment features"
+                    ],
+                    "commission_fee": "0% (plus standard processing fee) for all payment features"
+                },
+                "Enterprise": {
+                    "price": "Starts at $25,000 yearly",
+                    "features": [
+                        "Enterprise-level solutions",
+                        "Security, performance, and growth tools\u2014powered by Jetpack"
+                    ]
+                }
+            }
+        }
+    },
+    "memberpress.com": {
+        "product": "MemberPress ChatGPT Integration",
+        "criteria": {
+            "Integration and Compatibility": {
+                "WordPress Compatibility": {
+                    "Supports latest WordPress version": true,
+                    "Backward compatibility with previous WordPress versions": null
+                },
+                "Third-party Integration": {
+                    "Integration with popular WordPress plugins": true,
+                    "API support for external software": true
+                }
+            },
+            "User Experience": {
+                "Ease of Use": {
+                    "Intuitive user interface": true,
+                    "Simple setup process": true
+                },
+                "Interactivity": {
+                    "Real-time conversation capability": null,
+                    "User input recognition and response": true
+                }
+            },
+            "Functionality": {
+                "Content Generation": {
+                    "Automated blog post creation": true,
+                    "Dynamic content suggestions": true
+                },
+                "Customization": {
+                    "Customizable chatbot responses": true,
+                    "Adjustable AI behavior settings": true
+                }
+            },
+            "Performance and Optimization": {
+                "Efficiency": {
+                    "Low resource usage": null,
+                    "Optimized for speed and responsiveness": null
+                },
+                "SEO Enhancement": {
+                    "SEO-friendly content generation": true,
+                    "Support for metadata optimization": null
+                }
+            },
+            "Support and Maintenance": {
+                "Documentation and Help": {
+                    "Comprehensive documentation": true,
+                    "Accessible support channels": true
+                },
+                "Updates and Upgrades": {
+                    "Regular feature updates": true,
+                    "Security patches and improvements": true
+                }
+            }
+        },
+        "call_to_action": [
+            "Get MemberPress Now",
+            "See All Features"
+        ],
+        "use_cases": [
+            "Automated content creation for blog posts",
+            "Streamlining customer service with automated responses",
+            "Creating course outlines",
+            "Organizing membership levels",
+            "Coding assistance for WordPress",
+            "Improving abandoned cart emails"
+        ],
+        "solutions": [
+            "MemberPress ChatGPT integration",
+            "Uncanny Automator plugin for task automation",
+            "Custom GPTs for specialized tasks",
+            "Formidable Forms for idea submission"
+        ],
+        "key_features": {
+            "Integration with Uncanny Automator for task automation within WordPress": true,
+            "Ability to create custom GPTs for specialized tasks": true,
+            "Integration with popular WordPress plugins and form builders": true,
+            "Content generation for blog posts, courses, and email marketing": true,
+            "Customizable chatbot responses and AI behavior settings": true,
+            "Comprehensive documentation and accessible support channels": true,
+            "Regular feature updates and security improvements": true
+        },
+        "tools_projects_to_add_AI_to_WordPress": [
+            "Uncanny Automator plugin",
+            "Formidable Forms",
+            "Custom GPTs feature",
+            "ChatGPT plugins for WordPress"
+        ],
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Elite": {
+                    "normal_price": "$999",
+                    "discounted_price": "$499.50",
+                    "savings": "$499.50",
+                    "billing_cycle": "year"
+                },
+                "Pro": {
+                    "normal_price": "$799",
+                    "discounted_price": "$399.50",
+                    "savings": "$399.50",
+                    "billing_cycle": "year"
+                },
+                "Plus": {
+                    "normal_price": "$599",
+                    "discounted_price": "$299.50",
+                    "savings": "$299.50",
+                    "billing_cycle": "year"
+                },
+                "Basic": {
+                    "normal_price": "$359",
+                    "discounted_price": "$179.50",
+                    "savings": "$179.50",
+                    "billing_cycle": "year"
+                }
+            }
+        }
+    },
+    "wpforms.com": {
+        "products": [
+            {
+                "name": "WPForms",
+                "features": {
+                    "Integration and Compatibility": {
+                        "WordPress Compatibility": [
+                            {
+                                "Supports latest WordPress version": true
+                            },
+                            {
+                                "Backward compatibility with previous WordPress versions": true
+                            }
+                        ],
+                        "Third-party Integration": [
+                            {
+                                "Integration with popular WordPress plugins": true
+                            },
+                            {
+                                "API support for external software": true
+                            }
+                        ]
+                    },
+                    "User Experience": {
+                        "Ease of Use": [
+                            {
+                                "Intuitive user interface": true
+                            },
+                            {
+                                "Simple setup process": true
+                            }
+                        ],
+                        "Interactivity": [
+                            {
+                                "Real-time conversation capability": true
+                            },
+                            {
+                                "User input recognition and response": true
+                            }
+                        ]
+                    },
+                    "Functionality": {
+                        "Content Generation": [
+                            {
+                                "Automated blog post creation": true
+                            },
+                            {
+                                "Dynamic content suggestions": true
+                            }
+                        ],
+                        "Customization": [
+                            {
+                                "Customizable chatbot responses": true
+                            },
+                            {
+                                "Adjustable AI behavior settings": true
+                            }
+                        ]
+                    },
+                    "Performance and Optimization": {
+                        "Efficiency": [
+                            {
+                                "Low resource usage": true
+                            },
+                            {
+                                "Optimized for speed and responsiveness": true
+                            }
+                        ],
+                        "SEO Enhancement": [
+                            {
+                                "SEO-friendly content generation": true
+                            },
+                            {
+                                "Support for metadata optimization": true
+                            }
+                        ]
+                    },
+                    "Support and Maintenance": {
+                        "Documentation and Help": [
+                            {
+                                "Comprehensive documentation": true
+                            },
+                            {
+                                "Accessible support channels": true
+                            }
+                        ],
+                        "Updates and Upgrades": [
+                            {
+                                "Regular feature updates": true
+                            },
+                            {
+                                "Security patches and improvements": true
+                            }
+                        ]
+                    }
+                },
+                "call_to_action": "Get WPForms",
+                "use_cases": [
+                    "Creating smarter forms with ChatGPT integration",
+                    "Generating AI-generated blog post drafts",
+                    "Sending AI-generated notifications to visitors",
+                    "Creating images from form entries"
+                ],
+                "solutions": [
+                    "Form builder with ChatGPT integration",
+                    "Automated content creation for blog posts and articles",
+                    "Customizable notifications and responses",
+                    "Integration with marketing and CRM platforms"
+                ]
+            },
+            {
+                "name": "All in One SEO (AIOSEO)",
+                "features": {
+                    "Integration and Compatibility": {
+                        "WordPress Compatibility": [
+                            {
+                                "Supports latest WordPress version": true
+                            },
+                            {
+                                "Backward compatibility with previous WordPress versions": true
+                            }
+                        ],
+                        "Third-party Integration": [
+                            {
+                                "Integration with popular WordPress plugins": true
+                            },
+                            {
+                                "API support for external software": true
+                            }
+                        ]
+                    },
+                    "User Experience": {
+                        "Ease of Use": [
+                            {
+                                "Intuitive user interface": true
+                            },
+                            {
+                                "Simple setup process": true
+                            }
+                        ],
+                        "Interactivity": [
+                            {
+                                "Real-time conversation capability": false
+                            },
+                            {
+                                "User input recognition and response": false
+                            }
+                        ]
+                    },
+                    "Functionality": {
+                        "Content Generation": [
+                            {
+                                "Automated blog post creation": false
+                            },
+                            {
+                                "Dynamic content suggestions": true
+                            }
+                        ],
+                        "Customization": [
+                            {
+                                "Customizable chatbot responses": false
+                            },
+                            {
+                                "Adjustable AI behavior settings": false
+                            }
+                        ]
+                    },
+                    "Performance and Optimization": {
+                        "Efficiency": [
+                            {
+                                "Low resource usage": true
+                            },
+                            {
+                                "Optimized for speed and responsiveness": true
+                            }
+                        ],
+                        "SEO Enhancement": [
+                            {
+                                "SEO-friendly content generation": true
+                            },
+                            {
+                                "Support for metadata optimization": true
+                            }
+                        ]
+                    },
+                    "Support and Maintenance": {
+                        "Documentation and Help": [
+                            {
+                                "Comprehensive documentation": true
+                            },
+                            {
+                                "Accessible support channels": true
+                            }
+                        ],
+                        "Updates and Upgrades": [
+                            {
+                                "Regular feature updates": true
+                            },
+                            {
+                                "Security patches and improvements": true
+                            }
+                        ]
+                    }
+                },
+                "call_to_action": "Use AIOSEO",
+                "use_cases": [
+                    "Improving SEO with AI-generated suggestions for post titles and descriptions"
+                ],
+                "solutions": [
+                    "SEO optimization with ChatGPT integration",
+                    "AI title generator tool",
+                    "Meta description generation"
+                ]
+            },
+            {
+                "name": "MemberPress",
+                "features": {
+                    "Integration and Compatibility": {
+                        "WordPress Compatibility": [
+                            {
+                                "Supports latest WordPress version": true
+                            },
+                            {
+                                "Backward compatibility with previous WordPress versions": true
+                            }
+                        ],
+                        "Third-party Integration": [
+                            {
+                                "Integration with popular WordPress plugins": true
+                            },
+                            {
+                                "API support for external software": true
+                            }
+                        ]
+                    },
+                    "User Experience": {
+                        "Ease of Use": [
+                            {
+                                "Intuitive user interface": true
+                            },
+                            {
+                                "Simple setup process": true
+                            }
+                        ],
+                        "Interactivity": [
+                            {
+                                "Real-time conversation capability": false
+                            },
+                            {
+                                "User input recognition and response": false
+                            }
+                        ]
+                    },
+                    "Functionality": {
+                        "Content Generation": [
+                            {
+                                "Automated blog post creation": false
+                            },
+                            {
+                                "Dynamic content suggestions": true
+                            }
+                        ],
+                        "Customization": [
+                            {
+                                "Customizable chatbot responses": false
+                            },
+                            {
+                                "Adjustable AI behavior settings": false
+                            }
+                        ]
+                    },
+                    "Performance and Optimization": {
+                        "Efficiency": [
+                            {
+                                "Low resource usage": true
+                            },
+                            {
+                                "Optimized for speed and responsiveness": true
+                            }
+                        ],
+                        "SEO Enhancement": [
+                            {
+                                "SEO-friendly content generation": false
+                            },
+                            {
+                                "Support for metadata optimization": false
+                            }
+                        ]
+                    },
+                    "Support and Maintenance": {
+                        "Documentation and Help": [
+                            {
+                                "Comprehensive documentation": true
+                            },
+                            {
+                                "Accessible support channels": true
+                            }
+                        ],
+                        "Updates and Upgrades": [
+                            {
+                                "Regular feature updates": true
+                            },
+                            {
+                                "Security patches and improvements": true
+                            }
+                        ]
+                    }
+                },
+                "call_to_action": "Use MemberPress",
+                "use_cases": [
+                    "Creating course outlines with ChatGPT",
+                    "Automating course creation process"
+                ],
+                "solutions": [
+                    "Membership site management with ChatGPT integration",
+                    "Course outline generation"
+                ]
+            },
+            {
+                "name": "Formidable Forms",
+                "features": {
+                    "Integration and Compatibility": {
+                        "WordPress Compatibility": [
+                            {
+                                "Supports latest WordPress version": true
+                            },
+                            {
+                                "Backward compatibility with previous WordPress versions": true
+                            }
+                        ],
+                        "Third-party Integration": [
+                            {
+                                "Integration with popular WordPress plugins": true
+                            },
+                            {
+                                "API support for external software": true
+                            }
+                        ]
+                    },
+                    "User Experience": {
+                        "Ease of Use": [
+                            {
+                                "Intuitive user interface": true
+                            },
+                            {
+                                "Simple setup process": true
+                            }
+                        ],
+                        "Interactivity": [
+                            {
+                                "Real-time conversation capability": true
+                            },
+                            {
+                                "User input recognition and response": true
+                            }
+                        ]
+                    },
+                    "Functionality": {
+                        "Content Generation": [
+                            {
+                                "Automated blog post creation": false
+                            },
+                            {
+                                "Dynamic content suggestions": true
+                            }
+                        ],
+                        "Customization": [
+                            {
+                                "Customizable chatbot responses": true
+                            },
+                            {
+                                "Adjustable AI behavior settings": true
+                            }
+                        ]
+                    },
+                    "Performance and Optimization": {
+                        "Efficiency": [
+                            {
+                                "Low resource usage": true
+                            },
+                            {
+                                "Optimized for speed and responsiveness": true
+                            }
+                        ],
+                        "SEO Enhancement": [
+                            {
+                                "SEO-friendly content generation": false
+                            },
+                            {
+                                "Support for metadata optimization": false
+                            }
+                        ]
+                    },
+                    "Support and Maintenance": {
+                        "Documentation and Help": [
+                            {
+                                "Comprehensive documentation": true
+                            },
+                            {
+                                "Accessible support channels": true
+                            }
+                        ],
+                        "Updates and Upgrades": [
+                            {
+                                "Regular feature updates": true
+                            },
+                            {
+                                "Security patches and improvements": true
+                            }
+                        ]
+                    }
+                },
+                "call_to_action": "Use Formidable Forms",
+                "use_cases": [
+                    "Incorporating ChatGPT within forms",
+                    "Adding an AI assistant within a form"
+                ],
+                "solutions": [
+                    "Advanced form building with ChatGPT integration",
+                    "AI field for generating responses"
+                ]
+            },
+            {
+                "name": "Uncanny Automator",
+                "features": {
+                    "Integration and Compatibility": {
+                        "WordPress Compatibility": [
+                            {
+                                "Supports latest WordPress version": true
+                            },
+                            {
+                                "Backward compatibility with previous WordPress versions": true
+                            }
+                        ],
+                        "Third-party Integration": [
+                            {
+                                "Integration with popular WordPress plugins": true
+                            },
+                            {
+                                "API support for external software": true
+                            }
+                        ]
+                    },
+                    "User Experience": {
+                        "Ease of Use": [
+                            {
+                                "Intuitive user interface": true
+                            },
+                            {
+                                "Simple setup process": true
+                            }
+                        ],
+                        "Interactivity": [
+                            {
+                                "Real-time conversation capability": false
+                            },
+                            {
+                                "User input recognition and response": false
+                            }
+                        ]
+                    },
+                    "Functionality": {
+                        "Content Generation": [
+                            {
+                                "Automated blog post creation": false
+                            },
+                            {
+                                "Dynamic content suggestions": false
+                            }
+                        ],
+                        "Customization": [
+                            {
+                                "Customizable chatbot responses": false
+                            },
+                            {
+                                "Adjustable AI behavior settings": false
+                            }
+                        ]
+                    },
+                    "Performance and Optimization": {
+                        "Efficiency": [
+                            {
+                                "Low resource usage": true
+                            },
+                            {
+                                "Optimized for speed and responsiveness": true
+                            }
+                        ],
+                        "SEO Enhancement": [
+                            {
+                                "SEO-friendly content generation": false
+                            },
+                            {
+                                "Support for metadata optimization": false
+                            }
+                        ]
+                    },
+                    "Support and Maintenance": {
+                        "Documentation and Help": [
+                            {
+                                "Comprehensive documentation": true
+                            },
+                            {
+                                "Accessible support channels": true
+                            }
+                        ],
+                        "Updates and Upgrades": [
+                            {
+                                "Regular feature updates": true
+                            },
+                            {
+                                "Security patches and improvements": true
+                            }
+                        ]
+                    }
+                },
+                "call_to_action": "Use Uncanny Automator",
+                "use_cases": [
+                    "Automating WordPress tasks with ChatGPT",
+                    "Connecting plugins with ChatGPT for automation"
+                ],
+                "solutions": [
+                    "Task automation with ChatGPT integration",
+                    "Recipe creation for triggers and actions"
+                ]
+            },
+            {
+                "name": "Thrive Ovation",
+                "features": {
+                    "Integration and Compatibility": {
+                        "WordPress Compatibility": [
+                            {
+                                "Supports latest WordPress version": true
+                            },
+                            {
+                                "Backward compatibility with previous WordPress versions": true
+                            }
+                        ],
+                        "Third-party Integration": [
+                            {
+                                "Integration with popular WordPress plugins": true
+                            },
+                            {
+                                "API support for external software": true
+                            }
+                        ]
+                    },
+                    "User Experience": {
+                        "Ease of Use": [
+                            {
+                                "Intuitive user interface": true
+                            },
+                            {
+                                "Simple setup process": true
+                            }
+                        ],
+                        "Interactivity": [
+                            {
+                                "Real-time conversation capability": false
+                            },
+                            {
+                                "User input recognition and response": false
+                            }
+                        ]
+                    },
+                    "Functionality": {
+                        "Content Generation": [
+                            {
+                                "Automated blog post creation": false
+                            },
+                            {
+                                "Dynamic content suggestions": false
+                            }
+                        ],
+                        "Customization": [
+                            {
+                                "Customizable chatbot responses": false
+                            },
+                            {
+                                "Adjustable AI behavior settings": false
+                            }
+                        ]
+                    },
+                    "Performance and Optimization": {
+                        "Efficiency": [
+                            {
+                                "Low resource usage": true
+                            },
+                            {
+                                "Optimized for speed and responsiveness": true
+                            }
+                        ],
+                        "SEO Enhancement": [
+                            {
+                                "SEO-friendly content generation": false
+                            },
+                            {
+                                "Support for metadata optimization": false
+                            }
+                        ]
+                    },
+                    "Support and Maintenance": {
+                        "Documentation and Help": [
+                            {
+                                "Comprehensive documentation": true
+                            },
+                            {
+                                "Accessible support channels": true
+                            }
+                        ],
+                        "Updates and Upgrades": [
+                            {
+                                "Regular feature updates": true
+                            },
+                            {
+                                "Security patches and improvements": true
+                            }
+                        ]
+                    }
+                },
+                "call_to_action": "Use Thrive Ovation",
+                "use_cases": [
+                    "Capturing and managing testimonials",
+                    "Automating social proof with sentiment analysis"
+                ],
+                "solutions": [
+                    "Testimonial management with ChatGPT integration",
+                    "Sentiment analysis for testimonials"
+                ]
+            },
+            {
+                "name": "AI Engine",
+                "features": {
+                    "Integration and Compatibility": {
+                        "WordPress Compatibility": [
+                            {
+                                "Supports latest WordPress version": true
+                            },
+                            {
+                                "Backward compatibility with previous WordPress versions": true
+                            }
+                        ],
+                        "Third-party Integration": [
+                            {
+                                "Integration with popular WordPress plugins": true
+                            },
+                            {
+                                "API support for external software": true
+                            }
+                        ]
+                    },
+                    "User Experience": {
+                        "Ease of Use": [
+                            {
+                                "Intuitive user interface": true
+                            },
+                            {
+                                "Simple setup process": true
+                            }
+                        ],
+                        "Interactivity": [
+                            {
+                                "Real-time conversation capability": true
+                            },
+                            {
+                                "User input recognition and response": true
+                            }
+                        ]
+                    },
+                    "Functionality": {
+                        "Content Generation": [
+                            {
+                                "Automated blog post creation": true
+                            },
+                            {
+                                "Dynamic content suggestions": true
+                            }
+                        ],
+                        "Customization": [
+                            {
+                                "Customizable chatbot responses": true
+                            },
+                            {
+                                "Adjustable AI behavior settings": true
+                            }
+                        ]
+                    },
+                    "Performance and Optimization": {
+                        "Efficiency": [
+                            {
+                                "Low resource usage": true
+                            },
+                            {
+                                "Optimized for speed and responsiveness": true
+                            }
+                        ],
+                        "SEO Enhancement": [
+                            {
+                                "SEO-friendly content generation": true
+                            },
+                            {
+                                "Support for metadata optimization": true
+                            }
+                        ]
+                    },
+                    "Support and Maintenance": {
+                        "Documentation and Help": [
+                            {
+                                "Comprehensive documentation": true
+                            },
+                            {
+                                "Accessible support channels": true
+                            }
+                        ],
+                        "Updates and Upgrades": [
+                            {
+                                "Regular feature updates": true
+                            },
+                            {
+                                "Security patches and improvements": true
+                            }
+                        ]
+                    }
+                },
+                "call_to_action": "Use AI Engine",
+                "use_cases": [
+                    "Using ChatGPT as a chatbot",
+                    "Generating content for new posts",
+                    "Creating images based on prompts"
+                ],
+                "solutions": [
+                    "Chatbot integration",
+                    "AI content generation tool",
+                    "Title and excerpt generator"
+                ]
+            },
+            {
+                "name": "AI Power",
+                "features": {
+                    "Integration and Compatibility": {
+                        "WordPress Compatibility": [
+                            {
+                                "Supports latest WordPress version": true
+                            },
+                            {
+                                "Backward compatibility with previous WordPress versions": true
+                            }
+                        ],
+                        "Third-party Integration": [
+                            {
+                                "Integration with popular WordPress plugins": true
+                            },
+                            {
+                                "API support for external software": true
+                            }
+                        ]
+                    },
+                    "User Experience": {
+                        "Ease of Use": [
+                            {
+                                "Intuitive user interface": true
+                            },
+                            {
+                                "Simple setup process": true
+                            }
+                        ],
+                        "Interactivity": [
+                            {
+                                "Real-time conversation capability": true
+                            },
+                            {
+                                "User input recognition and response": true
+                            }
+                        ]
+                    },
+                    "Functionality": {
+                        "Content Generation": [
+                            {
+                                "Automated blog post creation": true
+                            },
+                            {
+                                "Dynamic content suggestions": true
+                            }
+                        ],
+                        "Customization": [
+                            {
+                                "Customizable chatbot responses": true
+                            },
+                            {
+                                "Adjustable AI behavior settings": true
+                            }
+                        ]
+                    },
+                    "Performance and Optimization": {
+                        "Efficiency": [
+                            {
+                                "Low resource usage": true
+                            },
+                            {
+                                "Optimized for speed and responsiveness": true
+                            }
+                        ],
+                        "SEO Enhancement": [
+                            {
+                                "SEO-friendly content generation": true
+                            },
+                            {
+                                "Support for metadata optimization": true
+                            }
+                        ]
+                    },
+                    "Support and Maintenance": {
+                        "Documentation and Help": [
+                            {
+                                "Comprehensive documentation": true
+                            },
+                            {
+                                "Accessible support channels": true
+                            }
+                        ],
+                        "Updates and Upgrades": [
+                            {
+                                "Regular feature updates": true
+                            },
+                            {
+                                "Security patches and improvements": true
+                            }
+                        ]
+                    }
+                },
+                "call_to_action": "Use AI Power",
+                "use_cases": [
+                    "Generating content with AI tools",
+                    "Creating images and audio transcripts"
+                ],
+                "solutions": [
+                    "Content generator",
+                    "Image generator",
+                    "Audio converter for transcripts"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    }
+}

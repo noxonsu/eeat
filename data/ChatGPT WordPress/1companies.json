@@ -1,0 +1,108 @@
+{
+    "wordpress.org": {
+        "url": "https://wordpress.org/plugins/chatbot-chatgpt/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "420d6c2ca6af5cf96eb5b2d028f0548d"
+    },
+    "www.elegantthemes.com": {
+        "url": "https://www.elegantthemes.com/blog/wordpress/how-to-use-chatgpt-in-wordpress",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "420d6c2ca6af5cf96eb5b2d028f0548d"
+    },
+    "themeisle.com": {
+        "url": "https://themeisle.com/blog/chatgpt-wordpress-plugins/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://themeisle.com/themes/neve/pricing/",
+        "5prompt_Hash": "420d6c2ca6af5cf96eb5b2d028f0548d"
+    },
+    "wordpress.com": {
+        "url": "https://wordpress.com/plugins/browse/chatgpt",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://wordpress.com/pricing/",
+        "5prompt_Hash": "420d6c2ca6af5cf96eb5b2d028f0548d"
+    },
+    "memberpress.com": {
+        "url": "https://memberpress.com/blog/the-ultimate-chatgpt-wordpress-guide/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://memberpress.com/plans/pricing/",
+        "5prompt_Hash": "420d6c2ca6af5cf96eb5b2d028f0548d"
+    },
+    "wpforms.com": {
+        "url": "https://wpforms.com/chatgpt-plugins-for-wordpress/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "420d6c2ca6af5cf96eb5b2d028f0548d"
+    },
+    "formidableforms.com": {
+        "url": "https://formidableforms.com/chatgpt-wordpress-plugins/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.zdnet.com": {
+        "url": "https://www.zdnet.com/article/i-asked-chatgpt-to-write-a-wordpress-plugin-i-needed-it-did-it-in-less-than-5-minutes/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.wpbeginner.com": {
+        "url": "https://www.wpbeginner.com/showcase/best-chatgpt-wordpress-plugins/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.chrome.google.com": {
+        "url": "https://www.chrome.google.com/webstore/detail/chatgpt-for-wordpress/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.hostinger.com": {
+        "url": "https://www.hostinger.com/tutorials/build-website-with-chatgpt/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.hostinger.com/tutorials/wordpress-pricing"
+    },
+    "help.socialintents.com": {
+        "url": "https://help.socialintents.com/article/195-add-chatgpt-to-wordpress",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.socialintents.com/#pricing"
+    },
+    "getdevdone.com": {
+        "url": "https://getdevdone.com/blog/best-chatgpt-content-generation-wordpress-plugins.html$the-best-7-chatgpt-wordpress-plugins-to-generate...",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://getdevdone.com/wordpress-development-cost-calculator.html"
+    },
+    "www.youtube.com": {
+        "url": "https://www.youtube.com/watch?v=oMdCdeSoAzw",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "docs.aipower.org": {
+        "url": "https://docs.aipower.org/docs/ChatGPT/chatgpt-wordpress",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://docs.aipower.org/docs/intro/pricing"
+    },
+    "wpmudev.com": {
+        "url": "https://wpmudev.com/blog/wordpress-plugin-development-ai/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://wpmudev.com/domains/pricing/"
+    },
+    "loginpress.pro": {
+        "url": "https://loginpress.pro/chatgpt-wordpress-plugins/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "wpwebinfotech.com": {
+        "url": "https://wpwebinfotech.com/blog/chatgpt-wordpress-plugins/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://wpwebinfotech.com/blog/what-is-wordpress-vip/"
+    },
+    "testerwp.com": {
+        "url": "https://testerwp.com/free-chatgpt-ai-wordpress-plugins/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://testerwp.com/store/testerwpuser/"
+    },
+    "translatepress.com": {
+        "url": "https://translatepress.com/chatgpt-wordpress-ai-plugins/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    }
+}

@@ -8,7 +8,8 @@ from utils import *
 
 # Environment Variables
 SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
-OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
+OPENAI_API_KEY = os.environ.get('MY_OPENAI_KEY', os.environ.get('OPENAI_API_KEY_DEFAULT'))
+openai.api_key = OPENAI_API_KEY  # Set the OpenAI API key
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 KEYWORD_FOR_SERP = os.environ.get('KEYWORD_FOR_SERP', INDUSTRY_KEYWORD)
 BASE_GPTV= os.environ.get('BASE_GPTV','gpt-3.5-turbo')
@@ -16,7 +17,7 @@ if not SERPAPI_KEY:
     print("Please set the SERPAPI_KEY environment variable.")
     exit()
 
-openai.api_key = OPENAI_API_KEY  # Set the OpenAI API key
+
 def extract_company_urls_from_serp(serp_content, industry_query):
     try:
         prompt = f"Analyse SERP and Identify sites based on a given Google search query. '{industry_query}'. Return only list of urls if found (use 'urls' key). Return only JSON with urls.\n\n{serp_content}\n\n "

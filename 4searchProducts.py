@@ -9,7 +9,10 @@ from urllib.parse import urlparse
 from utils import *
 
 SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
-OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
+
+OPENAI_API_KEY = os.environ.get('MY_OPENAI_KEY', os.environ.get('OPENAI_API_KEY_DEFAULT'))
+openai.api_key = OPENAI_API_KEY  # Set the OpenAI API key
+
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 SERP_PRICES_EXT = os.environ.get('SERP_PRICES_EXT')
 data_folder = f"data/{INDUSTRY_KEYWORD}"
@@ -21,7 +24,7 @@ if not SERPAPI_KEY:
 
 def findOfficialDomain(serp, project_name):
     
-    chat = ChatOpenAI(temperature=0, model_name=BASE_GPTV)
+    chat = ChatOpenAI(temperature=0, model_name=BASE_GPTV,openai_api_key=OPENAI_API_KEY)
     messages = [
         SystemMessage(content="Analyse SERP and find the official domain URL (frontpoage only) of the project named '"+project_name+"'. Return only url starts with https://. If not found or or is not frontpage return 'Not found' or 'Not frontpage''"),
         HumanMessage(content=f" {serp} \n\n The official url is: ")

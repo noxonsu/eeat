@@ -29,7 +29,7 @@ BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
 SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-1106')
 
 # Environment variables
-OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
+OPENAI_API_KEY = os.environ.get('MY_OPENAI_KEY', os.environ.get('OPENAI_API_KEY_DEFAULT'))
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 TITLE_ARTICLE = os.environ.get('TITLE_ARTICLE', INDUSTRY_KEYWORD)
 # Function to check if existing domains are included in the output

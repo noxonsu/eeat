@@ -13,6 +13,8 @@ COMPAREPRICES = os.getenv('COMPAREPRICES')
 SERP_PRICES_EXT = os.getenv('SERP_PRICES_EXT') or exit("SERP_PRICES_EXT is not defined. Please define it in .env file if you want to use this script.")
 DATA_FOLDER = f"data/{INDUSTRY_KEYWORD}"
 BASE_GPTV= os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
+OPENAI_API_KEY = os.environ.get('MY_OPENAI_KEY', os.environ.get('OPENAI_API_KEY_DEFAULT'))
+openai.api_key = OPENAI_API_KEY  # Set the OpenAI API key
 
 def find_link_to_plans(serp_content, domain_data):
     """ Use GPT to find the link to the plans page from SERP content. """
@@ -73,7 +75,7 @@ def main():
         plans_url = process_domain_data(domain, domain_data)
 
         # Handle found plans URL
-        if plans_url != 'Not found':
+        if 'Not foun' not in plans_url:
             plans_url = correct_url(plans_url['url'])
             domain_data["priceAndPlansCrawled"] = plans_url
             
