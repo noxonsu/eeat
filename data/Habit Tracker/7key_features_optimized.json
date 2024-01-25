@@ -1,0 +1,54 @@
+{
+    "title": "Optimized Habit Tracker Features",
+    "intro": "This list represents an optimized set of habit tracker features gathered from analyzing 6 companies. A total of 21 features were gathered and optimized.",
+    "features": {
+        "Organization": {
+            "title": "Organization",
+            "features": [
+                "DocsSimple & powerful",
+                "WikisCentralize your knowledge",
+                "Template gallerySetups to get you started",
+                "ConnectionsConnect your tools to Notion"
+            ]
+        },
+        "Platform Compatibility": {
+            "title": "Platform Compatibility",
+            "features": [
+                "iOS & Android",
+                "Mac & Windows",
+                "Fully responsive on mobile"
+            ]
+        },
+        "Scheduling and Planning": {
+            "title": "Scheduling and Planning",
+            "features": [
+                "CalendarNewTime and work, together",
+                "Organized Schedule: Clear, organized schedule for the day",
+                "Visualize entire month at a glance with calendar view"
+            ]
+        },
+        "Goal Setting and Tracking": {
+            "title": "Goal Setting and Tracking",
+            "features": [
+                "Progress Tracking: Insightful metrics to track progress",
+                "Set flexible goals instead of streaks",
+                "Make notes to reflect on the habit journey"
+            ]
+        },
+        "Engagement and Motivation": {
+            "title": "Engagement and Motivation",
+            "features": [
+                "Challenges: Engage in friendly competitions and monthly challenges",
+                "Success Stories: Testimonials from users in various fields"
+            ]
+        },
+        "Tools and Integration": {
+            "title": "Tools and Integration",
+            "features": [
+                "Integrated AI assistant",
+                "Web Clipper",
+                "Innovative Tools: Built-in timer, notes, mood tracking, privacy lock, health data sync, API access, integration with Apple Calendar, Zapier, and IFTT"
+            ]
+        }
+    }
+}
