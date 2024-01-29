@@ -1,118 +1,147 @@
 {
     "www.aflac.com": {
         "url": "https://www.aflac.com/resources/life-insurance/types-of-life-insurance.aspx",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.progressive.com": {
         "url": "https://www.progressive.com/life-insurance/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.progressive.com/life-insurance/term-insurance/compare-life-insurance-rates/"
     },
     "www.nerdwallet.com": {
         "url": "https://www.nerdwallet.com/article/insurance/best-term-life-insurance",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.nerdwallet.com/article/small-business/professional-liability-insurance"
     },
     "www.forbes.com": {
         "url": "https://www.forbes.com/advisor/life-insurance/types/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.securian.com": {
         "url": "https://www.securian.com/insights-tools/articles/buying-life-insurance-at-work.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.nationwide.com": {
         "url": "https://www.nationwide.com/personal/insurance/life/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.geico.com": {
         "url": "https://www.geico.com/life-insurance/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.guardianlife.com": {
         "url": "https://www.guardianlife.com/life-insurance-through-work",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.guardianlife.com/life-insurance/term-rates"
     },
     "www.massmutual.com": {
         "url": "https://www.massmutual.com/insurance/life-insurance",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.massmutual.com/insurance/life-insurance/term-life"
     },
     "www.newyorklife.com": {
         "url": "https://www.newyorklife.com/products/insurance/life-insurance",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "equitable.com": {
         "url": "https://equitable.com/life-insurance",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://equitable.com/financial-professionals/life-insurance/learning/life-insurance-essentials/explore-different-life-insurance"
     },
     "www.fidelity.com": {
         "url": "https://www.fidelity.com/life-insurance/overview",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.prudential.com": {
         "url": "https://www.prudential.com/personal/life-insurance",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.prudential.com/financial-education/how-much-does-life-insurance-cost"
     },
     "www.allstate.com": {
         "url": "https://www.allstate.com/life-insurance",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.allstate.com/business-insurance/professional-firms"
     },
     "www.cnbc.com": {
         "url": "https://www.cnbc.com/select/best-life-insurance-companies/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.investopedia.com": {
         "url": "https://www.investopedia.com/articles/personal-finance/121914/life-insurance-policies-how-payouts-work.asp",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.johnhancock.com": {
         "url": "https://www.johnhancock.com/life-insurance.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.johnhancock.com/life-insurance.html"
     },
     "www.protective.com": {
         "url": "https://www.protective.com/life-insurance",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.protective.com/learn/life-insurance/life-insurance-basics/the-cost-of-whole-life-insurance-rates"
     },
     "www.usnews.com": {
         "url": "https://www.usnews.com/insurance/life-insurance/how-does-life-insurance-work",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "content.naic.org": {
         "url": "https://content.naic.org/cipr-topics/life-insurance",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.metlife.com": {
         "url": "https://www.metlife.com/insurance/life-insurance/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "floir.com": {
         "url": "http://floir.com/life-health/life",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.floir.com/sections/pandc/profliab/plreports.aspx"
     },
     "www.opm.gov": {
         "url": "https://www.opm.gov/healthcare-insurance/life-insurance/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.opm.gov/healthcare-insurance/life-insurance/reference-materials/federalbooklet.pdf"
     },
     "www.marketwatch.com": {
         "url": "https://www.marketwatch.com/guides/insurance-services/what-is-life-insurance/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.pacificlife.com": {
         "url": "https://www.pacificlife.com/home/products/life-insurance/term-life-insurance.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.finra.org": {
         "url": "https://www.finra.org/investors/investing/investment-products/insurance",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.cnn.com": {
         "url": "https://www.cnn.com/cnn-underscored/money/best-family-life-insurance",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "money.com": {
         "url": "https://money.com/life-insurance-beginners/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.doi.sc.gov": {
         "url": "https://www.doi.sc.gov/973/Common-Life-Insurance-Questions",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     }
 }
