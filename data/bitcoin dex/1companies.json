@@ -257,5 +257,26 @@
     "www.forbes.com": {
         "url": "https://www.forbes.com/sites/leeorshimron/2022/11/23/dexs-gain-market-share-as-faith-in-centralized-crypto-players-erodes/",
         "nature": "Invalid:DDOS protection screen or navigation issue."
+    },
+    "ciphertrace.com": {
+        "url": "https://ciphertrace.com/glossary/decentralized-exchange-dex/"
+    },
+    "changelly.com": {
+        "url": "https://changelly.com/decentralized-exchange"
+    },
+    "blog.rootstock.io": {
+        "url": "https://blog.rootstock.io/noticia/understanding-decentralized-exchanges-dexs/"
+    },
+    "ninjapromo.io": {
+        "url": "https://ninjapromo.io/best-decentralized-exchanges-dex"
+    },
+    "cryptoslate.com": {
+        "url": "https://cryptoslate.com/cryptos/dex/"
+    },
+    "dev.rootstock.io": {
+        "url": "https://dev.rootstock.io/guides/dex/features-of-a-dex/"
+    },
+    "www.elliptic.co": {
+        "url": "https://www.elliptic.co/blockchain-basics/what-is-a-dex"
     }
 }
