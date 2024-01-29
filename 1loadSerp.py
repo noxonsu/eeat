@@ -9,7 +9,10 @@ from utils import *
 # Environment Variables
 SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
 OPENAI_API_KEY = os.environ.get('MY_OPENAI_KEY', os.environ.get('OPENAI_API_KEY_DEFAULT'))
+if not OPENAI_API_KEY.startswith('sk-'):
+    OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY_DEFAULT')
 openai.api_key = OPENAI_API_KEY  # Set the OpenAI API key
+
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 KEYWORD_FOR_SERP = os.environ.get('KEYWORD_FOR_SERP', INDUSTRY_KEYWORD)
 BASE_GPTV= os.environ.get('BASE_GPTV','gpt-3.5-turbo')
