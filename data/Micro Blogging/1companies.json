@@ -1,71 +1,94 @@
 {
     "en.wikipedia.org": {
-        "url": "https://en.wikipedia.org/wiki/Microblogging"
+        "url": "https://en.wikipedia.org/wiki/Microblogging",
+        "nature": "single project"
     },
     "blog.hubspot.com": {
-        "url": "https://blog.hubspot.com/marketing/micro-blogging"
+        "url": "https://blog.hubspot.com/marketing/micro-blogging",
+        "nature": "single project"
     },
     "www.techtarget.com": {
-        "url": "https://www.techtarget.com/searchmobilecomputing/definition/microblogging"
+        "url": "https://www.techtarget.com/searchmobilecomputing/definition/microblogging",
+        "nature": "single project"
     },
     "micro.blog": {
-        "url": "https://micro.blog/"
+        "url": "https://micro.blog/",
+        "nature": "single project"
     },
     "www.lifewire.com": {
-        "url": "https://www.lifewire.com/what-is-microblogging-3486200"
+        "url": "https://www.lifewire.com/what-is-microblogging-3486200",
+        "nature": "single project"
     },
     "www.heymarvelous.com": {
-        "url": "https://www.heymarvelous.com/blog/how-to-use-instagram-for-micro-blogging"
+        "url": "https://www.heymarvelous.com/blog/how-to-use-instagram-for-micro-blogging",
+        "nature": "single project"
     },
     "www.wix.com": {
-        "url": "https://www.wix.com/blog/microblogging"
+        "url": "https://www.wix.com/blog/microblogging",
+        "nature": "single project"
     },
     "www.sciencedirect.com": {
-        "url": "https://www.sciencedirect.com/topics/computer-science/microblogging"
+        "url": "https://www.sciencedirect.com/topics/computer-science/microblogging",
+        "nature": "single project"
     },
     "socialbee.com": {
-        "url": "https://socialbee.com/blog/microblogging/"
+        "url": "https://socialbee.com/blog/microblogging/",
+        "nature": "single project"
     },
     "masterblogging.com": {
-        "url": "https://masterblogging.com/microblogging/"
+        "url": "https://masterblogging.com/microblogging/",
+        "nature": "single project"
     },
     "strategically.co": {
-        "url": "https://strategically.co/blog/content-marketing/microblogging/"
+        "url": "https://strategically.co/blog/content-marketing/microblogging/",
+        "nature": "single project"
     },
     "pixel-lab.uk": {
-        "url": "https://pixel-lab.uk/blog/micro-blogging"
+        "url": "https://pixel-lab.uk/blog/micro-blogging",
+        "nature": "single project"
     },
     "writingstudio.com": {
-        "url": "https://writingstudio.com/blog/microblogging/"
+        "url": "https://writingstudio.com/blog/microblogging/",
+        "nature": "single project"
     },
     "dictionary.cambridge.org": {
-        "url": "https://dictionary.cambridge.org/us/dictionary/english/microblogging"
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/microblogging",
+        "nature": "single project"
     },
     "study.com": {
-        "url": "https://study.com/academy/lesson/what-is-microblogging-definition-importance.html"
+        "url": "https://study.com/academy/lesson/what-is-microblogging-definition-importance.html",
+        "nature": "single project"
     },
     "sharethis.com": {
-        "url": "https://sharethis.com/marketing/2022/06/examples-of-microblogging/"
+        "url": "https://sharethis.com/marketing/2022/06/examples-of-microblogging/",
+        "nature": "single project"
     },
     "medium.com": {
-        "url": "https://medium.com/@hmary1/what-ive-learned-an-experience-with-microblogging-83c3dbbfc6b6"
+        "url": "https://medium.com/@hmary1/what-ive-learned-an-experience-with-microblogging-83c3dbbfc6b6",
+        "nature": "single project"
     },
     "linkedin.com": {
-        "url": "https://linkedin.com/pulse/microblogging-perfect-way-start-building-your-brand-andrea-edwards"
+        "url": "https://linkedin.com/pulse/microblogging-perfect-way-start-building-your-brand-andrea-edwards",
+        "nature": "single project"
     },
     "bloggingguide.com": {
-        "url": "https://bloggingguide.com/best-microblogging-sites/"
+        "url": "https://bloggingguide.com/best-microblogging-sites/",
+        "nature": "single project"
     },
     "seosandwitch.com": {
-        "url": "https://seosandwitch.com/microblogging-sites-list-top-10/"
+        "url": "https://seosandwitch.com/microblogging-sites-list-top-10/",
+        "nature": "single project"
     },
     "www.reddit.com": {
-        "url": "https://www.reddit.com/r/selfhosted/comments/12errp6/looking_for_a_micro_blog_that_i_can_self_host/"
+        "url": "https://www.reddit.com/r/selfhosted/comments/12errp6/looking_for_a_micro_blog_that_i_can_self_host/",
+        "nature": "single project"
     },
     "blog.kicksta.co": {
-        "url": "https://blog.kicksta.co/instagram-blogging/"
+        "url": "https://blog.kicksta.co/instagram-blogging/",
+        "nature": "single project"
     },
     "books.google.com": {
-        "url": "https://books.google.com/books?id=gYQfCgAAQBAJ&pg=PA278&lpg=PA278&dq=Micro+Blogging&source=bl&ots=bAZpdGh5h7&sig=ACfU3U2L9QIw5csWAsOL_XZav7FthI2pJA&hl=en&sa=X&ved=2ahUKEwj-9qbWuoKEAxX8D1kFHSaxA1UQ6AF6BQiXARAD"
+        "url": "https://books.google.com/books?id=gYQfCgAAQBAJ&pg=PA278&lpg=PA278&dq=Micro+Blogging&source=bl&ots=bAZpdGh5h7&sig=ACfU3U2L9QIw5csWAsOL_XZav7FthI2pJA&hl=en&sa=X&ved=2ahUKEwj-9qbWuoKEAxX8D1kFHSaxA1UQ6AF6BQiXARAD",
+        "nature": "single project"
     }
 }
