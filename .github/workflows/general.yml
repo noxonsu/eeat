@@ -18,7 +18,7 @@ on:
         required: true
         default: '' # You can change the default value  
       MY_OPENAI_KEY:
-        description: 'sk-... '
+        description: 'MY_OPENAI_KEY sk-... '
         required: false
         default: '' # You can change the default value        
 
@@ -36,13 +36,13 @@ jobs:
       with:
         python-version: '3.11.6'
 
-    - name: Check if OPENAI_API_KEY is set
+    - name: Check if secrets OPENAI_API_KEY_DEFAULT is set
       run: |
-        if [ -z "${{ secrets.OPENAI_API_KEY }}" ]; then
-          echo "OPENAI_API_KEY is not set!"
+        if [ -z "${{ secrets.OPENAI_API_KEY_DEFAULT }}" ]; then
+          echo "OPENAI_API_KEY_DEFAULT is not set!"
           exit 1
         else
-          echo "OPENAI_API_KEY is set!"
+          echo "OPENAI_API_KEY_DEFAULT is set!"
         fi  # Add this 'fi' to close the if statement
 
     - name: Check if SERPAPI_KEY is set
