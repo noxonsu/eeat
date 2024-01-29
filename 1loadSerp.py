@@ -28,6 +28,7 @@ def extract_company_urls_from_serp(serp_content, industry_query):
             messages=[
                 {"role": "system", "content": prompt}
             ]
+            
         )
 
         if response['choices'][0]['message']['content']:

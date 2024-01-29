@@ -70,7 +70,7 @@ jobs:
         git config pull.rebase false
     - name: Run python scripts
       env:
-        OPENAI_API_KEY_DEFAULT: ${{ secrets.OPENAI_API_KEY }}
+        OPENAI_API_KEY_DEFAULT: ${{ secrets.OPENAI_API_KEY_DEFAULT }}
         INDUSTRY_KEYWORD: ${{ github.event.inputs.INDUSTRY_KEYWORD }}
         SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         SERP_PRICES_EXT: ${{ github.event.inputs.SERP_PRICES_EXT }}
