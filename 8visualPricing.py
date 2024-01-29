@@ -37,6 +37,9 @@ def check_domains_in_output(existedDomainList, output, article_index):
 
 # Environment variables
 OPENAI_API_KEY = os.environ.get('MY_OPENAI_KEY', os.environ.get('OPENAI_API_KEY_DEFAULT'))
+if not OPENAI_API_KEY.startswith('sk-'):
+    OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY_DEFAULT')
+
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD', 'Vector databases')
 
 # Load clusterized features list

@@ -78,6 +78,8 @@ if __name__ == "__main__":
         
         with open(f"data/{INDUSTRY_KEYWORD}/article.md", "w") as f:
                     f.write(response.content)
+        with open(f"data/{INDUSTRY_KEYWORD}/readme.md", "w") as f:
+                    f.write(response.content)            
         with open(f"data/{INDUSTRY_KEYWORD}/article_inpout.md", "w") as f:
                     f.write(json.dumps(input))
 

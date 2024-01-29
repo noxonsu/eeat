@@ -32,6 +32,9 @@ BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
 SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-1106')
 
 OPENAI_API_KEY = os.environ.get('MY_OPENAI_KEY', os.environ.get('OPENAI_API_KEY_DEFAULT'))
+if not OPENAI_API_KEY.startswith('sk-'):
+    OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY_DEFAULT')
+
 openai.api_key = OPENAI_API_KEY  # Set the OpenAI API key
 
 
