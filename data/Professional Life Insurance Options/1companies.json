@@ -1,89 +1,118 @@
 {
     "www.aflac.com": {
-        "url": "https://www.aflac.com/resources/life-insurance/types-of-life-insurance.aspx"
+        "url": "https://www.aflac.com/resources/life-insurance/types-of-life-insurance.aspx",
+        "nature": "single project"
     },
     "www.progressive.com": {
-        "url": "https://www.progressive.com/life-insurance/"
+        "url": "https://www.progressive.com/life-insurance/",
+        "nature": "single project"
     },
     "www.nerdwallet.com": {
-        "url": "https://www.nerdwallet.com/article/insurance/best-term-life-insurance"
+        "url": "https://www.nerdwallet.com/article/insurance/best-term-life-insurance",
+        "nature": "single project"
     },
     "www.forbes.com": {
-        "url": "https://www.forbes.com/advisor/life-insurance/types/"
+        "url": "https://www.forbes.com/advisor/life-insurance/types/",
+        "nature": "single project"
     },
     "www.securian.com": {
-        "url": "https://www.securian.com/insights-tools/articles/buying-life-insurance-at-work.html"
+        "url": "https://www.securian.com/insights-tools/articles/buying-life-insurance-at-work.html",
+        "nature": "single project"
     },
     "www.nationwide.com": {
-        "url": "https://www.nationwide.com/personal/insurance/life/"
+        "url": "https://www.nationwide.com/personal/insurance/life/",
+        "nature": "single project"
     },
     "www.geico.com": {
-        "url": "https://www.geico.com/life-insurance/"
+        "url": "https://www.geico.com/life-insurance/",
+        "nature": "single project"
     },
     "www.guardianlife.com": {
-        "url": "https://www.guardianlife.com/life-insurance-through-work"
+        "url": "https://www.guardianlife.com/life-insurance-through-work",
+        "nature": "single project"
     },
     "www.massmutual.com": {
-        "url": "https://www.massmutual.com/insurance/life-insurance"
+        "url": "https://www.massmutual.com/insurance/life-insurance",
+        "nature": "single project"
     },
     "www.newyorklife.com": {
-        "url": "https://www.newyorklife.com/products/insurance/life-insurance"
+        "url": "https://www.newyorklife.com/products/insurance/life-insurance",
+        "nature": "single project"
     },
     "equitable.com": {
-        "url": "https://equitable.com/life-insurance"
+        "url": "https://equitable.com/life-insurance",
+        "nature": "single project"
     },
     "www.fidelity.com": {
-        "url": "https://www.fidelity.com/life-insurance/overview"
+        "url": "https://www.fidelity.com/life-insurance/overview",
+        "nature": "single project"
     },
     "www.prudential.com": {
-        "url": "https://www.prudential.com/personal/life-insurance"
+        "url": "https://www.prudential.com/personal/life-insurance",
+        "nature": "single project"
     },
     "www.allstate.com": {
-        "url": "https://www.allstate.com/life-insurance"
+        "url": "https://www.allstate.com/life-insurance",
+        "nature": "single project"
     },
     "www.cnbc.com": {
-        "url": "https://www.cnbc.com/select/best-life-insurance-companies/"
+        "url": "https://www.cnbc.com/select/best-life-insurance-companies/",
+        "nature": "single project"
     },
     "www.investopedia.com": {
-        "url": "https://www.investopedia.com/articles/personal-finance/121914/life-insurance-policies-how-payouts-work.asp"
+        "url": "https://www.investopedia.com/articles/personal-finance/121914/life-insurance-policies-how-payouts-work.asp",
+        "nature": "single project"
     },
     "www.johnhancock.com": {
-        "url": "https://www.johnhancock.com/life-insurance.html"
+        "url": "https://www.johnhancock.com/life-insurance.html",
+        "nature": "single project"
     },
     "www.protective.com": {
-        "url": "https://www.protective.com/life-insurance"
+        "url": "https://www.protective.com/life-insurance",
+        "nature": "single project"
     },
     "www.usnews.com": {
-        "url": "https://www.usnews.com/insurance/life-insurance/how-does-life-insurance-work"
+        "url": "https://www.usnews.com/insurance/life-insurance/how-does-life-insurance-work",
+        "nature": "single project"
     },
     "content.naic.org": {
-        "url": "https://content.naic.org/cipr-topics/life-insurance"
+        "url": "https://content.naic.org/cipr-topics/life-insurance",
+        "nature": "single project"
     },
     "www.metlife.com": {
-        "url": "https://www.metlife.com/insurance/life-insurance/"
+        "url": "https://www.metlife.com/insurance/life-insurance/",
+        "nature": "single project"
     },
     "floir.com": {
-        "url": "http://floir.com/life-health/life"
+        "url": "http://floir.com/life-health/life",
+        "nature": "single project"
     },
     "www.opm.gov": {
-        "url": "https://www.opm.gov/healthcare-insurance/life-insurance/"
+        "url": "https://www.opm.gov/healthcare-insurance/life-insurance/",
+        "nature": "single project"
     },
     "www.marketwatch.com": {
-        "url": "https://www.marketwatch.com/guides/insurance-services/what-is-life-insurance/"
+        "url": "https://www.marketwatch.com/guides/insurance-services/what-is-life-insurance/",
+        "nature": "single project"
     },
     "www.pacificlife.com": {
-        "url": "https://www.pacificlife.com/home/products/life-insurance/term-life-insurance.html"
+        "url": "https://www.pacificlife.com/home/products/life-insurance/term-life-insurance.html",
+        "nature": "single project"
     },
     "www.finra.org": {
-        "url": "https://www.finra.org/investors/investing/investment-products/insurance"
+        "url": "https://www.finra.org/investors/investing/investment-products/insurance",
+        "nature": "single project"
     },
     "www.cnn.com": {
-        "url": "https://www.cnn.com/cnn-underscored/money/best-family-life-insurance"
+        "url": "https://www.cnn.com/cnn-underscored/money/best-family-life-insurance",
+        "nature": "single project"
     },
     "money.com": {
-        "url": "https://money.com/life-insurance-beginners/"
+        "url": "https://money.com/life-insurance-beginners/",
+        "nature": "single project"
     },
     "www.doi.sc.gov": {
-        "url": "https://www.doi.sc.gov/973/Common-Life-Insurance-Questions"
+        "url": "https://www.doi.sc.gov/973/Common-Life-Insurance-Questions",
+        "nature": "single project"
     }
 }
