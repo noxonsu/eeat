@@ -1,94 +1,117 @@
 {
     "en.wikipedia.org": {
         "url": "https://en.wikipedia.org/wiki/Microblogging",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "blog.hubspot.com": {
         "url": "https://blog.hubspot.com/marketing/micro-blogging",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.techtarget.com": {
         "url": "https://www.techtarget.com/searchmobilecomputing/definition/microblogging",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "micro.blog": {
         "url": "https://micro.blog/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://micro.blog/pricing"
     },
     "www.lifewire.com": {
         "url": "https://www.lifewire.com/what-is-microblogging-3486200",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.heymarvelous.com": {
         "url": "https://www.heymarvelous.com/blog/how-to-use-instagram-for-micro-blogging",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.heymarvelous.com/pricing"
     },
     "www.wix.com": {
         "url": "https://www.wix.com/blog/microblogging",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.wix.com/app-market/pricefy"
     },
     "www.sciencedirect.com": {
         "url": "https://www.sciencedirect.com/topics/computer-science/microblogging",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "socialbee.com": {
         "url": "https://socialbee.com/blog/microblogging/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://socialbee.com/pricing/"
     },
     "masterblogging.com": {
         "url": "https://masterblogging.com/microblogging/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://masterblogging.com/mangools-pricing/"
     },
     "strategically.co": {
         "url": "https://strategically.co/blog/content-marketing/microblogging/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://strategically.co/pricing/"
     },
     "pixel-lab.uk": {
         "url": "https://pixel-lab.uk/blog/micro-blogging",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://pixel-lab.uk/video-blogging-packages"
     },
     "writingstudio.com": {
         "url": "https://writingstudio.com/blog/microblogging/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://writingstudio.com/client-faqs/"
     },
     "dictionary.cambridge.org": {
         "url": "https://dictionary.cambridge.org/us/dictionary/english/microblogging",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "study.com": {
         "url": "https://study.com/academy/lesson/what-is-microblogging-definition-importance.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "sharethis.com": {
         "url": "https://sharethis.com/marketing/2022/06/examples-of-microblogging/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://sharethis.com/vs-sumo/"
     },
     "medium.com": {
         "url": "https://medium.com/@hmary1/what-ive-learned-an-experience-with-microblogging-83c3dbbfc6b6",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://medium.com/@robbiebax/subscription-pricing-for-value-429a1e9d9e2c"
     },
     "linkedin.com": {
         "url": "https://linkedin.com/pulse/microblogging-perfect-way-start-building-your-brand-andrea-edwards",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "bloggingguide.com": {
         "url": "https://bloggingguide.com/best-microblogging-sites/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "seosandwitch.com": {
         "url": "https://seosandwitch.com/microblogging-sites-list-top-10/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.reddit.com": {
         "url": "https://www.reddit.com/r/selfhosted/comments/12errp6/looking_for_a_micro_blog_that_i_can_self_host/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "blog.kicksta.co": {
         "url": "https://blog.kicksta.co/instagram-blogging/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://blog.kicksta.co/social-viral-vs-kicksta/"
     },
     "books.google.com": {
         "url": "https://books.google.com/books?id=gYQfCgAAQBAJ&pg=PA278&lpg=PA278&dq=Micro+Blogging&source=bl&ots=bAZpdGh5h7&sig=ACfU3U2L9QIw5csWAsOL_XZav7FthI2pJA&hl=en&sa=X&ved=2ahUKEwj-9qbWuoKEAxX8D1kFHSaxA1UQ6AF6BQiXARAD",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     }
 }
