@@ -2,146 +2,175 @@
     "www.aflac.com": {
         "url": "https://www.aflac.com/resources/life-insurance/types-of-life-insurance.aspx",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.progressive.com": {
         "url": "https://www.progressive.com/life-insurance/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.progressive.com/life-insurance/term-insurance/compare-life-insurance-rates/"
+        "priceAndPlansCrawled": "https://www.progressive.com/life-insurance/term-insurance/compare-life-insurance-rates/",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.nerdwallet.com": {
         "url": "https://www.nerdwallet.com/article/insurance/best-term-life-insurance",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.nerdwallet.com/article/small-business/professional-liability-insurance"
+        "priceAndPlansCrawled": "https://www.nerdwallet.com/article/small-business/professional-liability-insurance",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.forbes.com": {
         "url": "https://www.forbes.com/advisor/life-insurance/types/",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.securian.com": {
         "url": "https://www.securian.com/insights-tools/articles/buying-life-insurance-at-work.html",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.nationwide.com": {
         "url": "https://www.nationwide.com/personal/insurance/life/",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.geico.com": {
         "url": "https://www.geico.com/life-insurance/",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.guardianlife.com": {
         "url": "https://www.guardianlife.com/life-insurance-through-work",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.guardianlife.com/life-insurance/term-rates"
+        "priceAndPlansCrawled": "https://www.guardianlife.com/life-insurance/term-rates",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.massmutual.com": {
         "url": "https://www.massmutual.com/insurance/life-insurance",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.massmutual.com/insurance/life-insurance/term-life"
+        "priceAndPlansCrawled": "https://www.massmutual.com/insurance/life-insurance/term-life",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.newyorklife.com": {
         "url": "https://www.newyorklife.com/products/insurance/life-insurance",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "equitable.com": {
         "url": "https://equitable.com/life-insurance",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://equitable.com/financial-professionals/life-insurance/learning/life-insurance-essentials/explore-different-life-insurance"
+        "priceAndPlansCrawled": "https://equitable.com/financial-professionals/life-insurance/learning/life-insurance-essentials/explore-different-life-insurance",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.fidelity.com": {
         "url": "https://www.fidelity.com/life-insurance/overview",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.prudential.com": {
         "url": "https://www.prudential.com/personal/life-insurance",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.prudential.com/financial-education/how-much-does-life-insurance-cost"
+        "priceAndPlansCrawled": "https://www.prudential.com/financial-education/how-much-does-life-insurance-cost",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.allstate.com": {
         "url": "https://www.allstate.com/life-insurance",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.allstate.com/business-insurance/professional-firms"
+        "priceAndPlansCrawled": "https://www.allstate.com/business-insurance/professional-firms",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.cnbc.com": {
         "url": "https://www.cnbc.com/select/best-life-insurance-companies/",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.investopedia.com": {
         "url": "https://www.investopedia.com/articles/personal-finance/121914/life-insurance-policies-how-payouts-work.asp",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.johnhancock.com": {
         "url": "https://www.johnhancock.com/life-insurance.html",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.johnhancock.com/life-insurance.html"
+        "priceAndPlansCrawled": "https://www.johnhancock.com/life-insurance.html",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.protective.com": {
         "url": "https://www.protective.com/life-insurance",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.protective.com/learn/life-insurance/life-insurance-basics/the-cost-of-whole-life-insurance-rates"
+        "priceAndPlansCrawled": "https://www.protective.com/learn/life-insurance/life-insurance-basics/the-cost-of-whole-life-insurance-rates",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.usnews.com": {
         "url": "https://www.usnews.com/insurance/life-insurance/how-does-life-insurance-work",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "content.naic.org": {
         "url": "https://content.naic.org/cipr-topics/life-insurance",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.metlife.com": {
         "url": "https://www.metlife.com/insurance/life-insurance/",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "floir.com": {
         "url": "http://floir.com/life-health/life",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.floir.com/sections/pandc/profliab/plreports.aspx"
+        "priceAndPlansCrawled": "https://www.floir.com/sections/pandc/profliab/plreports.aspx",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.opm.gov": {
         "url": "https://www.opm.gov/healthcare-insurance/life-insurance/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.opm.gov/healthcare-insurance/life-insurance/reference-materials/federalbooklet.pdf"
+        "priceAndPlansCrawled": "https://www.opm.gov/healthcare-insurance/life-insurance/reference-materials/federalbooklet.pdf",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.marketwatch.com": {
         "url": "https://www.marketwatch.com/guides/insurance-services/what-is-life-insurance/",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.pacificlife.com": {
         "url": "https://www.pacificlife.com/home/products/life-insurance/term-life-insurance.html",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.finra.org": {
         "url": "https://www.finra.org/investors/investing/investment-products/insurance",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.cnn.com": {
         "url": "https://www.cnn.com/cnn-underscored/money/best-family-life-insurance",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "money.com": {
         "url": "https://money.com/life-insurance-beginners/",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     },
     "www.doi.sc.gov": {
         "url": "https://www.doi.sc.gov/973/Common-Life-Insurance-Questions",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f9c49df661a476488b23f5f570a5350c"
     }
 }

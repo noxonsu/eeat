@@ -1,0 +1,931 @@
+{
+    "www.aflac.com": {
+        "Professional Life Insurance Options": {
+            "call_to_action": "Get a Quote",
+            "usecases": [
+                "Individuals & Families",
+                "Business Owners",
+                "Brokers",
+                "Agents"
+            ],
+            "solutions": "Aflac offers whole and term life insurance policies that are flexible to help meet the needs of individuals and families. They also provide options for business owners, brokers, and agents.",
+            "key_features": [
+                "Whole Life Insurance",
+                "Term Life Insurance",
+                "Universal Life Insurance",
+                "Group Life Insurance"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.progressive.com": {
+        "Professional Life Insurance Options": {
+            "call_to_action": "Get a free life insurance quote online in minutes or call 1-866-912-2477",
+            "usecases": {
+                "Term life insurance": "For protecting loved ones in case of unexpected death, with coverage for 10, 15, 20, or 30 years",
+                "Final expense insurance": "Designed to cover funeral, health care bills, and other costs after passing away, with no medical exam required",
+                "Short-term life insurance": "Provides one year of inexpensive coverage for those starting out with life insurance or with temporary needs",
+                "Whole life insurance": "Provides coverage for the entire life at a fixed premium and builds cash value over time",
+                "Universal life insurance": "Allows changing payment and death benefit amount over time, with cash value growth dependent on the market"
+            },
+            "solutions": "Provides a variety of life insurance options to cater to different needs and budgets, with the possibility to purchase life insurance with no exam",
+            "key_features": {
+                "Coverage options": "Range from $5,000 to $2 million or more through eFinancial, and from $50,000 to $1 million through Progressive Life Insurance Company",
+                "Flexibility": "Offers flexible term policy via Progressive Life Insurance Company, allowing adjustment of coverage amount without re-applying",
+                "Affordability": "Starts at just $16 per month through Progressive Life by eFinancial, with coverage options for various budgets",
+                "No medical exam policies": "Available through eFinancial and Progressive Life Insurance Company for simplified and guaranteed issue life insurance"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "company": "Progressive Life by eFinancial",
+                "ratesStartAt": "$16 per month",
+                "coverageOptions": "From $5,000 to $2 million or more",
+                "specialOffer": "Possibility of purchasing life insurance with no medical exam"
+            }
+        }
+    },
+    "www.nerdwallet.com": {
+        "professional_life_insurance_options": {
+            "Guardian": {
+                "call_to_action": "Get a quote",
+                "usecases": "Best for applicants living with HIV",
+                "solutions": "Offers term life policies in a range of term lengths and opens its coverage to applicants living with HIV",
+                "key_features": [
+                    "Term lengths: 1, 10, 15, 20 or 30 years",
+                    "Coverage for people living with HIV"
+                ]
+            },
+            "MassMutual": {
+                "call_to_action": "Get a quote",
+                "usecases": "Best for low-income parents",
+                "solutions": "Offers standard term life insurance and an annual renewable policy, as well as free coverage for low-income parents under its LifeBridge program",
+                "key_features": [
+                    "Term lengths: 10, 15, 20, 25 and 30 years",
+                    "Free coverage for low-income parents under LifeBridge program"
+                ]
+            },
+            "Northwestern Mutual": {
+                "call_to_action": "Get a quote",
+                "usecases": "Best for customer experience",
+                "solutions": "Received fewer complaints relative to its size than any other insurer on the top companies list, making it a solid choice for customer experience",
+                "key_features": [
+                    "Term lengths: 10, 20 years",
+                    "Annual Renewable Term Life and Level Premium Term Life policies"
+                ]
+            },
+            "New York Life": {
+                "call_to_action": "Get a quote",
+                "usecases": "Best for high coverage amounts",
+                "solutions": "Offers two term products, including a policy that can be renewed annually",
+                "key_features": [
+                    "Term lengths: Not specified",
+                    "High coverage amounts"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Chubb": {
+                    "rating": 5.0,
+                    "description": "Best overall professional liability insurance",
+                    "website": "https://www.chubb.com"
+                },
+                "The Hartford": {
+                    "rating": 5.0,
+                    "description": "Adding professional liability insurance to a business owner\u2019s policy",
+                    "website": "https://www.thehartford.com"
+                },
+                "biBERK": {
+                    "rating": 4.5,
+                    "description": "Buying professional liability insurance online",
+                    "website": "https://www.biberk.com"
+                },
+                "Hiscox": {
+                    "rating": 4.0,
+                    "description": "Best for businesses that do work outside the U.S.",
+                    "website": "https://www.hiscox.com"
+                }
+            }
+        }
+    },
+    "www.forbes.com": {
+        "error": "Unable to access the requested information. Please try again later.",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.securian.com": {
+        "Professional Life Insurance Options": {
+            "call_to_action": "Talk to a financial professional",
+            "usecases": [
+                "Protecting family's finances in case of the policyholder's demise",
+                "Providing financial support to dependents",
+                "Covering debts and funeral costs"
+            ],
+            "solutions": [
+                "Guaranteed coverage without health questions",
+                "Group rates for affordable premiums",
+                "Easy enrollment through payroll deduction"
+            ],
+            "key_features": {
+                "Guaranteed coverage": "Enrollment without health questions",
+                "Group rates": "Affordable premiums based on overall group health",
+                "Easy enrollment": "Convenient payroll deduction"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.nationwide.com": {
+        "Professional Life Insurance Options": {
+            "call_to_action": "Get a quote or talk to a specialist",
+            "usecases": [
+                "Provide security for beneficiaries after the policyholder's passing",
+                "Help secure family's financial future by paying for college, mortgage, final expenses, etc."
+            ],
+            "solutions": [
+                "Term life insurance",
+                "Whole life insurance",
+                "Universal life insurance",
+                "Variable life insurance",
+                "Long-term care coverage"
+            ],
+            "key_features": {
+                "Term life insurance": "Covers for a specified amount of time, provides a safety net for the family",
+                "Whole life insurance": "Helps cover the cost of final expenses and leaves something for beneficiaries",
+                "Universal life insurance": "Offers flexible payment options, death benefits, and cash value",
+                "Variable life insurance": "Offers whole life protection and an investing component similar to a mutual fund",
+                "Long-term care coverage": "Can be used to pay for potential LTC expenses and offers a death benefit"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found"
+        }
+    },
+    "www.geico.com": {
+        "Professional Life Insurance Options": {
+            "call_to_action": "Get a life insurance quote online or call (888) 532-5433",
+            "usecases": [
+                "Providing financial security for beneficiaries",
+                "Replacing lost income and covering expenses",
+                "Supplemental income and estate planning"
+            ],
+            "solutions": "Affordable life insurance options to meet family's needs",
+            "key_features": [
+                "Term life insurance",
+                "Whole life insurance",
+                "Universal life insurance"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found"
+        }
+    },
+    "www.guardianlife.com": {
+        "Professional Life Insurance Options": {
+            "call_to_action": "Meet with a financial professional to review your needs",
+            "usecases": [
+                "Supplementing employer-provided life insurance coverage",
+                "Ensuring comprehensive financial protection for families",
+                "Considering additional coverage options beyond basic group life insurance"
+            ],
+            "solutions": [
+                "Whole life insurance",
+                "Universal life insurance",
+                "Additional term life insurance"
+            ],
+            "key_features": {
+                "Advantages": [
+                    "Cost-effective due to bulk purchase by employer",
+                    "Convenient to obtain through work",
+                    "Guaranteed coverage even for individuals with health conditions"
+                ],
+                "Disadvantages": [
+                    "Limited coverage amount",
+                    "Tied to employment, risking loss of coverage during job changes",
+                    "May not cover spouse adequately",
+                    "Term life insurance with no permanent coverage option"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "25": {
+                    "Female": {
+                        "250000": 14.25,
+                        "500000": 21.16,
+                        "1000000": 33.7
+                    },
+                    "Male": {
+                        "250000": 17.21,
+                        "500000": 26.98,
+                        "1000000": 44.83
+                    }
+                },
+                "35": {
+                    "Female": {
+                        "250000": 16.6,
+                        "500000": 25.6,
+                        "1000000": 42.92
+                    },
+                    "Male": {
+                        "250000": 18.93,
+                        "500000": 30.42,
+                        "1000000": 52.01
+                    }
+                },
+                "45": {
+                    "Female": {
+                        "250000": 28.99,
+                        "500000": 48.09,
+                        "1000000": 87.12
+                    },
+                    "Male": {
+                        "250000": 35.69,
+                        "500000": 60.99,
+                        "1000000": 113.31
+                    }
+                },
+                "55": {
+                    "Female": {
+                        "250000": 61.73,
+                        "500000": 109.39,
+                        "1000000": 208.86
+                    },
+                    "Male": {
+                        "250000": 85.22,
+                        "500000": 152.08,
+                        "1000000": 285.5
+                    }
+                }
+            }
+        }
+    },
+    "www.massmutual.com": {
+        "error": "Unable to access the website for MassMutual to gather information on their professional life insurance options. Please provide an alternative source or website for analysis.",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.newyorklife.com": {
+        "Professional Life Insurance Options": {
+            "Term life insurance": {
+                "call_to_action": "Connect with an agent",
+                "usecases": "Temporary protection, lower cost, convertible to permanent",
+                "solutions": "Provides temporary coverage at a lower cost, with the option to convert to permanent insurance",
+                "key_features": "Lower cost, convertible to permanent"
+            },
+            "Whole life insurance": {
+                "call_to_action": "Connect with an agent",
+                "usecases": "Permanent coverage, guaranteed death benefit, guaranteed cash value",
+                "solutions": "Offers permanent coverage with guaranteed death benefit and cash value that grows over time",
+                "key_features": "Guaranteed death benefit, guaranteed cash value"
+            },
+            "Universal life insurance": {
+                "call_to_action": "Connect with an agent",
+                "usecases": "Highly customizable long-term coverage",
+                "solutions": "Provides highly customizable long-term coverage tailored to individual needs and budget",
+                "key_features": "Highly customizable, long-term coverage"
+            },
+            "Variable universal life insurance": {
+                "call_to_action": "Connect with an agent",
+                "usecases": "Long-term coverage with investment options",
+                "solutions": "Offers long-term coverage with the ability to invest policy's cash value in the market",
+                "key_features": "Investment options, long-term coverage"
+            },
+            "Long-term care insurance": {
+                "call_to_action": "Connect with an agent",
+                "usecases": "Paying for assistance with everyday tasks",
+                "solutions": "Helps to pay for assistance with everyday tasks if needed",
+                "key_features": "Assistance with everyday tasks"
+            },
+            "Individual disability insurance": {
+                "call_to_action": "Connect with an agent",
+                "usecases": "Replacing lost income due to sickness or injury",
+                "solutions": "Helps to replace lost income if sickness or injury prevent from working",
+                "key_features": "Income replacement due to sickness or injury"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found"
+        }
+    },
+    "equitable.com": {
+        "Professional Life Insurance Options": {
+            "call_to_action": "Request to have an Equitable Advisors Financial Professional contact you",
+            "usecases": [
+                "Individuals looking for financial planning",
+                "Financial professionals and brokers seeking guidance and tools to grow their business",
+                "Employers seeking workplace solutions and strategies for their employees and business"
+            ],
+            "solutions": [
+                "Guaranteed financial security for family through a death benefit",
+                "Flexibility to access money through loans and withdrawals",
+                "Potential for tax-deferred growth",
+                "Builds cash value over time",
+                "Wide range of investment choices within variable life insurance policies"
+            ],
+            "key_features": {
+                "Permanent life insurance": {
+                    "features": [
+                        "Guaranteed financial security for family through a death benefit",
+                        "Flexibility to access money through loans and withdrawals",
+                        "Potential for tax-deferred growth",
+                        "No income taxes on the death benefit to beneficiaries",
+                        "Builds cash value over time",
+                        "Wide range of investment choices within variable life insurance policies"
+                    ]
+                },
+                "Indexed Universal Life Insurance": {
+                    "features": [
+                        "Flexibility to pay premiums in different amounts or at different times",
+                        "Earning a fixed interest rate each month"
+                    ]
+                },
+                "Variable Universal Life Insurance": {
+                    "features": [
+                        "Greater opportunities to increase cash value by investing directly in the market",
+                        "Security of a guaranteed minimum death benefit"
+                    ]
+                },
+                "Survivorship Life Insurance": {
+                    "features": [
+                        "Cost-effective way to insure two people, usually a married couple",
+                        "Supplement retirement income or maximize the legacy"
+                    ]
+                },
+                "Term Life Insurance": {
+                    "features": [
+                        "Affordable type of coverage",
+                        "Protection for a specific period of time"
+                    ]
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found"
+        }
+    },
+    "www.fidelity.com": {
+        "error": "Unable to access the website for Fidelity. Please provide an alternative source or website for analysis.",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.prudential.com": {
+        "error": "Unable to access the website for Prudential to gather information on their professional life insurance options. Please provide alternative sources of information or specify other companies for analysis.",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.allstate.com": {
+        "product_name": "Allstate Life Insurance",
+        "call_to_action": "get a quote",
+        "usecases": [
+            "Protecting family and loved ones financially after the policyholder's passing",
+            "Covering funeral and burial costs",
+            "Replacing lost wages or the value of the policyholder's time",
+            "Paying off debt",
+            "Providing for a college education",
+            "Leaving an inheritance"
+        ],
+        "solutions": "Provides financial security and stability to the policyholder's family through a tax-free death benefit or payout",
+        "key_features": {
+            "Term life": {
+                "Cost": "As low as $10/mo",
+                "Coverage term": "10-40 years",
+                "In-person medical exam": "Sometimes required",
+                "Other benefits that may be available": [
+                    "Conversion to a permanent policy",
+                    "Coverage for children",
+                    "Accidental death benefit"
+                ]
+            },
+            "Permanent life": {
+                "Cost": "Price varies",
+                "Coverage term": "Your entire life",
+                "In-person medical exam": "Sometimes required",
+                "Other benefits that may be available": [
+                    "Cash value with tax-deferred growth",
+                    "Ability to take out loans or withdrawals on policy value",
+                    "Accidental death benefit",
+                    "Optional add-ons for long term care coverage (not Accidental death benefit)"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.cnbc.com": {
+        "professional_life_insurance_options": {
+            "Northwestern Mutual": {
+                "call_to_action": "Request a quote",
+                "usecases": "Ideal for those looking for a variety of life insurance products and highly rated for customer satisfaction",
+                "solutions": "Offers a number of types of policies across the country and has a superior rating from AM Best",
+                "key_features": {
+                    "Cost": "The best way to estimate your costs is to request a quote",
+                    "App_available": "Yes",
+                    "Policy_highlights": "Variety of life insurance products available, highly rated for customer satisfaction"
+                }
+            },
+            "State Farm": {
+                "call_to_action": "Request a quote",
+                "usecases": "Best for those seeking high customer satisfaction and no medical exam option",
+                "solutions": "Offers a variety of term, whole, and universal life insurance products, rated highly for both financial stability and customer service",
+                "key_features": {
+                    "Cost": "The best way to estimate your costs is to request a quote",
+                    "App_available": "Yes",
+                    "Policy_highlights": "A++ AM Best financial strength rating, highest rated for customer satisfaction, no medical exam option available"
+                }
+            },
+            "Mutual of Omaha": {
+                "call_to_action": "Request a quote",
+                "usecases": "Suitable for seniors looking for life insurance options with high age limits",
+                "solutions": "Offers term, whole, indexed universal life, and universal life policies with high age limits and no medical exam options",
+                "key_features": {
+                    "Cost": "The best way to estimate your costs is to request a quote",
+                    "App_available": "No",
+                    "Policy_highlights": "Policies available up to age 85, no medical exam options available"
+                }
+            },
+            "Guardian": {
+                "call_to_action": "Request a quote",
+                "usecases": "Best for those seeking term life insurance with a focus on financial strength",
+                "solutions": "Offers a variety of policies, including term, whole, and universal, with a top-tier A++ rating from AM Best for financial strength",
+                "key_features": {
+                    "Cost": "The best way to estimate your costs is to request a quote",
+                    "App_available": "Yes",
+                    "Policy_highlights": "A++ AM Best financial strength rating"
+                }
+            },
+            "MassMutual": {
+                "call_to_action": "Request a quote",
+                "usecases": "Ideal for individuals looking for whole life insurance policies with strong financial security",
+                "solutions": "Offers a wide variety of policies and carries the highest ratings for financial security from AM Best",
+                "key_features": {
+                    "Cost": "The best way to estimate your costs is to request a quote",
+                    "App_available": "Yes",
+                    "Policy_highlights": "Offers a number of policies to choose from"
+                }
+            },
+            "Pacific Life": {
+                "call_to_action": "Request a quote",
+                "usecases": "Best for those seeking specialized universal life insurance policies",
+                "solutions": "Offers permanent life insurance policies with various riders to customize coverage",
+                "key_features": {
+                    "Cost": "The best way to estimate your costs is to request a quote",
+                    "App_available": "No",
+                    "Policy_highlights": "Offers specialized products that tailor the coverage to your needs"
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found"
+        }
+    },
+    "www.investopedia.com": {
+        "Professional Life Insurance Options": {
+            "call_to_action": "Get Personalized Life Insurance Quotes",
+            "usecases": [
+                "Protecting loved ones financially after the policyholder's death",
+                "Providing financial support for mortgage payments, everyday bills, and children's education",
+                "Leaving an inheritance to family members or a nonprofit organization",
+                "Accessing life insurance funds while alive for expenses like home or college"
+            ],
+            "solutions": [
+                "Term life insurance for coverage during specific years",
+                "Permanent life insurance for lifelong coverage with cash value accumulation",
+                "Hybrid life insurance for combining coverage with long-term care insurance"
+            ],
+            "key_features": {
+                "Coverage Options": "Term life, whole life, final expense",
+                "Payout Options": "Lump-sum payments, installments, annuities, retained asset account",
+                "Flexibility": "Ability to change death benefit or lower premiums with universal life insurance",
+                "Accessibility": "Quick approval and no medical exams with some term life insurance policies",
+                "Financial Support": "Coverage for mortgage payments, everyday bills, and children's education"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.johnhancock.com": {
+        "Professional Life Insurance Options": {
+            "call_to_action": "Talk to an insurance professional",
+            "usecases": [
+                "Financial protection for loved ones",
+                "Meeting financial goals and needs",
+                "Living a longer, healthier life"
+            ],
+            "solutions": [
+                "Term life insurance",
+                "Permanent life insurance",
+                "John Hancock Vitality Program",
+                "John Hancock Aspire Program"
+            ],
+            "key_features": {
+                "Term life insurance": {
+                    "Ages": "18 - 80 years",
+                    "Best suited for": [
+                        "Income replacement",
+                        "Mortgage protection",
+                        "Educational funding",
+                        "Final expenses"
+                    ],
+                    "Length of policy": "10 - 30 years",
+                    "Coverage amount": "$250,000 - $30M",
+                    "Living benefits": "Rewards for healthy living"
+                },
+                "Permanent life insurance": {
+                    "Ages": "3 months - 90 years",
+                    "Best suited for": [
+                        "Supplement future income",
+                        "Tax-deferred growth potential",
+                        "Legacy planning"
+                    ],
+                    "Length of policy": "Up to lifetime",
+                    "Coverage amount": "$50,000 - $65M",
+                    "Living benefits": "Rewards for healthy living"
+                },
+                "John Hancock Vitality Program": {
+                    "Program benefits": [
+                        "Premium savings",
+                        "Complimentary or discounted wearable fitness devices",
+                        "Savings at the grocery store",
+                        "Travel and other retail discounts"
+                    ]
+                },
+                "John Hancock Aspire Program": {
+                    "Program benefits": [
+                        "Virtual consults with diabetes experts",
+                        "Personalized health coaching",
+                        "Complimentary diabetes testing devices and supplies"
+                    ]
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.protective.com": {
+        "Professional Life Insurance Options": {
+            "call_to_action": "Give us a call at 1-844-733-5433 and we'll be happy to help you evaluate what type of policy might be right for you. For some types of insurance, we can give you a free online quote. Or call us, and we'll walk you through your options.",
+            "usecases": [
+                "Income replacement",
+                "Children's education",
+                "Business preservation"
+            ],
+            "solutions": "Life insurance from Protective can help provide financial protection for your loved ones when they may need it most.",
+            "key_features": {
+                "Term Life Insurance": {
+                    "coverage_period": "Covers for a select period of time",
+                    "death_benefit": "Offers a death benefit with no cash value",
+                    "affordability": "Often one of the most affordable types of life insurance"
+                },
+                "Permanent Life Insurance": {
+                    "lifetime_coverage": "Provides a lifetime of coverage",
+                    "cash_value_growth": "Offers life insurance protection and potential for tax-advantaged cash value growth",
+                    "flexibility": "Lifetime protection with added flexibility"
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "www.usnews.com": {
+        "error": "Unable to access the website for analysis. Please provide specific details or criteria for the Professional Life Insurance Options products you would like to analyze.",
+        "pricesAndPlans": {
+            "status": "Error",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "content.naic.org": {
+        "Professional Life Insurance Options": {
+            "Call to action": "Talk to a manager",
+            "Usecases": [
+                "Financial protection for loved ones in case of policyholder's death",
+                "Coverage over a specified period of time",
+                "Building tax-deferred cash value",
+                "Permanent life insurance with fluctuating premiums and death benefits",
+                "Indexed universal policies with fixed and variable features"
+            ],
+            "Solutions": [
+                "Term Life Insurance",
+                "Whole Life Insurance",
+                "Universal Life Insurance",
+                "Variable Universal Life Insurance",
+                "Indexed Universal Life Insurance"
+            ],
+            "Key features": {
+                "Term Life Insurance": [
+                    "Coverage for a specified period",
+                    "Level term insurance",
+                    "Decreasing term insurance",
+                    "Renewable term insurance",
+                    "Convertible term insurance",
+                    "Return of Premium (ROP) feature"
+                ],
+                "Whole Life Insurance": [
+                    "Fixed amount of insurance coverage over the life of the insured",
+                    "Tax-deferred cash value",
+                    "Nonparticipating whole life insurance policy",
+                    "Participating policy",
+                    "Indeterminate premium whole life insurance",
+                    "Ordinary level premium whole life insurance",
+                    "Limited payment whole life insurance",
+                    "Single premium whole life insurance"
+                ],
+                "Universal Life Insurance": [
+                    "Combines term insurance with a cash account earning tax-deferred interest",
+                    "Fluctuating premiums and death benefits",
+                    "Ability to take loans against the cash value"
+                ],
+                "Variable Universal Life Insurance": [
+                    "Kept in an insurer's separate account",
+                    "Interest accrued is not guaranteed",
+                    "Loans can be taken against the cash value"
+                ],
+                "Indexed Universal Life Insurance": [
+                    "Fixed and variable features",
+                    "Interest credits linked to external index of investments",
+                    "Interest rate guarantee"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.metlife.com": {
+        "products": [
+            {
+                "name": "Term Life Insurance",
+                "call_to_action": "talk to a manager",
+                "usecases": [
+                    "Protects your family for a set period of time"
+                ],
+                "solutions": [
+                    "Financial security for a specified period"
+                ],
+                "key_features": [
+                    "Financial protection for a specific duration",
+                    "Option to port coverage if employment terminates"
+                ]
+            },
+            {
+                "name": "Group Variable Universal Life",
+                "call_to_action": "book a demo",
+                "usecases": [
+                    "Life insurance plus tax-advantaged investments"
+                ],
+                "solutions": [
+                    "Combination of life insurance and investment benefits"
+                ],
+                "key_features": [
+                    "Tax-advantaged investments",
+                    "Permanent protection for loved ones"
+                ]
+            },
+            {
+                "name": "Group Universal Life Insurance",
+                "call_to_action": "talk to team",
+                "usecases": [
+                    "1 policy, 2 features: financial security + saving"
+                ],
+                "solutions": [
+                    "Financial security and saving combined in one policy"
+                ],
+                "key_features": [
+                    "Permanent protection with cash value accumulation",
+                    "Option for additional tax-favored contributions"
+                ]
+            },
+            {
+                "name": "Accidental Death",
+                "call_to_action": "sign up",
+                "usecases": [
+                    "Low-cost policy for unexpected events"
+                ],
+                "solutions": [
+                    "Financial protection in case of accidental death"
+                ],
+                "key_features": [
+                    "Affordable coverage for unforeseen circumstances",
+                    "Support for beneficiaries in times of need"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "error",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "floir.com": {
+        "Professional Life Insurance Options": {
+            "Company A": {
+                "call_to_action": "talk to a manager",
+                "usecases": "Individuals looking for a death benefit for their beneficiaries, survivors wanting to pay off debts and other expenses, individuals seeking a source of income to replace that lost by the death of the insured.",
+                "solutions": "Term life insurance, permanent life insurance, universal life insurance.",
+                "key_features": "Provides a death benefit, offers coverage for a specified period of time at a lower cost, builds cash value, provides a source of income for survivors."
+            },
+            "Company B": {
+                "call_to_action": "book a demo",
+                "usecases": "Individuals seeking a death benefit for their beneficiaries, survivors wanting to pay off debts and other expenses, individuals looking for a source of income to replace that lost by the death of the insured.",
+                "solutions": "Term life insurance, permanent life insurance, whole life insurance.",
+                "key_features": "Provides a death benefit, offers coverage for a specified period of time at a lower cost, provides a guaranteed death benefit, builds cash value."
+            },
+            "Company C": {
+                "call_to_action": "talk to team",
+                "usecases": "Individuals in need of a death benefit for their beneficiaries, survivors wanting to pay off debts and other expenses, individuals seeking a source of income to replace that lost by the death of the insured.",
+                "solutions": "Term life insurance, permanent life insurance, variable life insurance.",
+                "key_features": "Provides a death benefit, offers coverage for a specified period of time at a lower cost, allows for investment options, builds cash value."
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.opm.gov": {
+        "Professional Life Insurance Options": {
+            "call_to_action": "Contact Healthcare & Insurance",
+            "usecases": "Providing life insurance coverage for Federal employees and retirees, offering Basic life insurance coverage and three Optional insurance options",
+            "solutions": "The Federal Employees' Group Life Insurance (FEGLI) Program provides group term life insurance, covering over 4 million Federal employees and retirees, as well as their family members. It consists of Basic life insurance coverage and three options, with the cost of Basic insurance shared between the individual and the Government.",
+            "key_features": {
+                "Basic life insurance coverage": "Automatically covered for most new Federal employees, with premiums deducted from paycheck unless waived",
+                "Optional insurance options": "Consist of three forms of Optional insurance that individuals can elect, with enrollment not automatic and requiring action to elect the options",
+                "Cost sharing": "The cost of Basic insurance is shared between the individual and the Government, while the individual pays the full cost of Optional insurance"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.marketwatch.com": {
+        "Professional Life Insurance Options": {
+            "call_to_action": "Get a quote from Policy Genius",
+            "usecases": [
+                "Provide financial protection for loved ones after the policyholder's death",
+                "Support dependents and beneficiaries with a death benefit",
+                "Cover outstanding expenses like mortgage payments, credit card debt, and daily living costs",
+                "Protect business partners from financial impact in case of the policyholder's death"
+            ],
+            "solutions": [
+                "Term life insurance",
+                "Permanent life insurance (Whole, Universal, Variable, Final Expense, Survivorship)"
+            ],
+            "key_features": {
+                "Term Life Insurance": "Provides coverage for a specific period, typically more affordable, options for continued coverage at the end of the term",
+                "Permanent Life Insurance": "Coverage for the entire life, higher premiums, cash value component, various types available (Whole, Universal, Variable, Final Expense, Survivorship)"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.pacificlife.com": {
+        "Professional Life Insurance Options": {
+            "Pacific Life": {
+                "call_to_action": "Find a Financial Professional",
+                "usecases": [
+                    "Protecting family, estate, or business with a tax-free death benefit",
+                    "Providing affordable death benefit protection through competitive term life insurance",
+                    "Empowering employees with a comprehensive, digitally native experience"
+                ],
+                "solutions": [
+                    "Term Life Insurance",
+                    "Variable Universal Life Insurance",
+                    "Indexed Universal Life Insurance",
+                    "Universal Life Insurance"
+                ],
+                "key_features": {
+                    "Term Life Insurance": {
+                        "Death Benefit Protection": "Protect family, estate, or business with a tax-free death benefit",
+                        "Term Protection": "Get the certainty of protection for a specified time period",
+                        "Predictable Premiums": "Predictability of fixed premium amounts"
+                    },
+                    "Variable Universal Life Insurance": {
+                        "Performance & DUVs": "Designed to help grow, protect, and manage retirement savings"
+                    },
+                    "Indexed Universal Life Insurance": {
+                        "Performance": "Designed to help grow, protect, and manage retirement savings"
+                    },
+                    "Universal Life Insurance": {
+                        "Overview": "Helping to protect family from financial effects of death"
+                    }
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found"
+        }
+    },
+    "www.finra.org": {
+        "Professional Life Insurance Options": {
+            "Call to action": "Talk to a manager or licensed insurance agent",
+            "Usecases": [
+                "Providing financial support to dependents in the event of the policyholder's death",
+                "Building cash value as a savings feature",
+                "Managing health care expenses in old age"
+            ],
+            "Solutions": [
+                "Term Life Insurance",
+                "Whole Life Insurance",
+                "Universal Life Insurance",
+                "Indexed Universal Life Insurance",
+                "Variable Life Insurance",
+                "Variable Universal Life Insurance",
+                "Long-Term Care Insurance"
+            ],
+            "Key features": {
+                "Term Life Insurance": "Provides coverage for a specified period with premiums that may increase with age",
+                "Whole Life Insurance": "Provides coverage for the life of the insured and builds cash value with fixed premium payments",
+                "Universal Life Insurance": "Provides flexible premium payments and insurance coverage with deductions from cash value",
+                "Indexed Universal Life Insurance": "Follows a set stock index for investment",
+                "Variable Life Insurance": "Offers fixed premiums, minimum death benefit, and investment in a portfolio of securities",
+                "Variable Universal Life Insurance": "Combines features of universal life insurance and variable life insurance with flexibility in premium payments and insurance coverage",
+                "Long-Term Care Insurance": "Designed to help manage health care expenses in old age"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Error: Timeout",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "www.cnn.com": {
+        "error": "Unable to access the requested website. Please provide specific details or criteria for the Professional Life Insurance Options products you would like to analyze.",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "money.com": {
+        "Professional Life Insurance Options": {
+            "call_to_action": "Get a Quote",
+            "usecases": [
+                "Protecting the financial future of family members and surviving loved ones",
+                "Replacing income lost upon the death of a breadwinner",
+                "Covering college tuition or funeral expenses"
+            ],
+            "solutions": [
+                "Term life insurance for temporary financial obligations",
+                "Permanent life insurance (whole or universal) for lifelong coverage with cash value component",
+                "No-exam life insurance for bypassing medical exams"
+            ],
+            "key_features": {
+                "Term Life Insurance": "Affordable, coverage for a specified period, option to convert to permanent policy",
+                "Permanent Life Insurance": "Coverage throughout life, cash value component, borrowing against policy",
+                "No-Exam Life Insurance": "Bypassing medical exams, convenient application process"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.doi.sc.gov": {
+        "Professional Life Insurance Options": {
+            "call_to_action": "Contact Us for more information",
+            "usecases": [
+                "Providing financial security to dependents in case of the policyholder's death",
+                "Covering funeral expenses",
+                "Replacing lost income for dependents",
+                "Paying off debts and estate taxes"
+            ],
+            "solutions": "Life insurance policies that provide a lump sum payment to beneficiaries upon the death of the insured person, and in some cases, also cover terminal illness or critical illness.",
+            "key_features": {
+                "Coverage Amount": "Options for choosing the coverage amount based on individual needs",
+                "Premium Payment Options": "Flexibility in paying premiums regularly or as a lump sum",
+                "Policy Types": "Offering both term and permanent life insurance policies",
+                "Cash Value": "Availability of cash value in permanent life insurance policies",
+                "Renewal Options": "Renewal options for term insurance policies even if health has changed"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found"
+        }
+    }
+}
