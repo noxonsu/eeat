@@ -34,9 +34,12 @@ if not OPENAI_API_KEY.startswith('sk-'):
 
 def is_product_or_list(summary, company_products):
     #summary = summary[:45000]
+
+    
+
     chat = ChatOpenAI(temperature=0, model_name=SMART_GPTV,openai_api_key=OPENAI_API_KEY)
     messages = [
-        SystemMessage(content="Identify the products, services, or solutions of companies mentioned in the text. If the products or services is associated with the one company, provide the output as 'All products/services mentioned belong to the one company [Company_name]'. If there a list of products services or projects are from different companies in the text say 'Yes, this list of products belongs to different companies.'. If input looks like invalid or DDOS protection screen or explain article/blog return 'Invalid:[reason]'"),
+        SystemMessage(content="Identify the products, services, or solutions of companies mentioned in the text. If the products or services is associated with the one company, provide the output as 'All products/services mentioned belong to the one company [Company_name]. Names of products/servicies: '. If there a list of products services or projects are from different companies in the text say 'Yes, this list of products belongs to different companies.'. If this is an informational article which talks about service/product with diffferent domain (see URL) and talked about one product return 'Yes, this a list of one product belongs to one company [company name]'. If input looks like invalid or DDOS protection screen or explain article/blog return 'Invalid:[reason]'"),
         HumanMessage(content=summary)
     ]
 
@@ -47,7 +50,7 @@ def is_product_or_list(summary, company_products):
         if "nvalid" in gpt_response:
             return gpt_response, []
 
-        if "belongs to different companies" in gpt_response or "belong to the respective companies" in gpt_response:
+        if "belongs to different companies" in gpt_response or "belong to the respective companies" in gpt_response or "one product belongs to one company" in gpt_response:
             response2 = chat(messages = [
                 SystemMessage(content="Extract the company-product pairs in the format 'Company_name: product_name' each project at new line and provide output as 'List of projects:'. Exclude any duplicates or redundancies. Remove special characters from company's name like '-' and spaces"),
                 HumanMessage(content=gpt_response+summary)
@@ -73,6 +76,8 @@ def is_product_or_list(summary, company_products):
             product_lines = gpt_response.split("\n")
 
             for line in product_lines:
+                #remove - and spaces from company name
+                line = re.sub(r'(\w)-(\w)', r'\1\2', line)
                 parts = line.strip().split(":")
                 if len(parts) >= 2:
                     company_name, product_name = parts[0], parts[1]
@@ -125,8 +130,8 @@ def main():
         print ("Analyse "+domain)
 
             
-        nature, extracted_links = is_product_or_list(summary['text_content'], list(company_products))
-        nature = "single project"
+        nature, extracted_links = is_product_or_list('URL:'+url+' . CONTENT: '+summary['text_content'], list(company_products))
+
         data[domain]["nature"] = nature
         
         if nature == "list of projects":

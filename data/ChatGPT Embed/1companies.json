@@ -1,0 +1,86 @@
+{
+    "help.socialintents.com": {
+        "url": "https://help.socialintents.com/article/189-how-to-embed-chatgpt-in-your-website",
+        "nature": "list of projects"
+    },
+    "community.openai.com": {
+        "url": "https://community.openai.com/t/embed-chatgpt-on-website/26836",
+        "nature": "list of projects"
+    },
+    "nestify.io": {
+        "url": "https://nestify.io/blog/embed-chatgpt-in-your-website-for-optimal-efficiency/",
+        "nature": "list of projects"
+    },
+    "www.reddit.com": {
+        "url": "https://www.reddit.com/r/nocode/comments/11sizmd/easy_way_to_embed_chatgpt_into_your_website_as/",
+        "nature": "Invalid:DDOS protection screen or technical error message"
+    },
+    "blog.hubspot.com": {
+        "url": "https://blog.hubspot.com/website/chatgpt-integration",
+        "nature": "single project"
+    },
+    "medium.com": {
+        "url": "https://medium.com/@jamesfuthey/how-to-add-chatgpt-to-your-website-715751c6ca92",
+        "nature": "list of projects"
+    },
+    "customgpt.ai": {
+        "url": "https://customgpt.ai/embed-customgpt-chatbot-as-a-live-chat-feature/",
+        "nature": "single project"
+    },
+    "www.youtube.com": {
+        "url": "https://www.youtube.com/watch?v=Sr9iZd9fXpA",
+        "nature": "Invalid:DDOS protection screen or technical error screen"
+    },
+    "aista.com": {
+        "url": "https://aista.com/blog/embed-a-custom-chatgpt-chatbot-on-your-website-in-5-minutes",
+        "nature": "single project"
+    },
+    "www.solulab.com": {
+        "url": "https://www.solulab.com/integrate-chatgpt-to-your-website/",
+        "nature": "list of projects"
+    },
+    "www.leewayhertz.com": {
+        "url": "https://www.leewayhertz.com/what-is-embedding/",
+        "nature": "single project"
+    },
+    "www.pickaxeproject.com": {
+        "url": "https://www.pickaxeproject.com/post/how-to-embed-ai-chatbots-into-your-website-a-step-by-step-guide",
+        "nature": "single project"
+    },
+    "www.chatbase.co": {
+        "url": "https://www.chatbase.co/",
+        "nature": "single project"
+    },
+    "relevanceai.com": {
+        "url": "https://relevanceai.com/blog/launching-the-ask-relevance-widget-embed-chatgpt-on-your-website",
+        "nature": "single project"
+    },
+    "www.embedded.com": {
+        "url": "https://www.embedded.com/7-expert-tips-for-writing-embedded-software-with-chatgpt/",
+        "nature": "Invalid:DDOS protection screen or error message"
+    },
+    "tech.forums.softwareag.com": {
+        "url": "https://tech.forums.softwareag.com/t/webmethods-io-embed-chatgpt-bot-for-cisco-webex-teams/",
+        "nature": "single project"
+    },
+    "norahsakal.com": {
+        "url": "https://norahsakal.com/blog/chatgpt-product-recommendation-embeddings",
+        "nature": "single project"
+    },
+    "writings.stephenwolfram.com": {
+        "url": "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/",
+        "nature": "Invalid:[reason]"
+    },
+    "github.com": {
+        "url": "https://github.com/Appointat/Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding",
+        "nature": "single project"
+    },
+    "ays-pro.com": {
+        "url": "https://ays-pro.com/blog/how-to-embed-content-to-chatgpt-chatbot",
+        "nature": "single project"
+    },
+    "semaphoreci.com": {
+        "url": "https://semaphoreci.com/blog/word-embeddings",
+        "nature": "list of projects"
+    }
+}

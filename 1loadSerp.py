@@ -16,6 +16,7 @@ openai.api_key = OPENAI_API_KEY  # Set the OpenAI API key
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 KEYWORD_FOR_SERP = os.environ.get('KEYWORD_FOR_SERP', INDUSTRY_KEYWORD)
 BASE_GPTV= os.environ.get('BASE_GPTV','gpt-3.5-turbo')
+SMART_GPTV= os.environ.get('SMART_GPTV','gpt-3.5-turbo')
 if not SERPAPI_KEY:
     print("Please set the SERPAPI_KEY environment variable.")
     exit()
@@ -73,8 +74,16 @@ def main():
     existing_domains = read_existing_domains(file_path)
 
     # Update the list of companies, if the domain does not exist
+    if 'urls' not in company_urls:
+        print("Not found")
+        raise Exception("Not found")
+        return
+
     for url in company_urls['urls']:
         domain = extract_domain_from_url(url)
+        #skip youtube.com reddit.com 
+        if domain in ['www.youtube.com','www.reddit.com']:
+            continue
         if domain and domain not in existing_domains:
             existing_domains[domain] = {'url': url}
         else:
@@ -83,6 +92,12 @@ def main():
     # Save updated data
     save_to_json_file(existing_domains, '1companies.json', directory_name)
     print(f"Company data saved to {directory_name}/1companies.json")
+
+    #save SMART_GPTV and BASE_GPTV to gpt_info.json
+    gpt_info = {}
+    gpt_info['BASE_GPTV'] = BASE_GPTV
+    gpt_info['SMART_GPTV'] = SMART_GPTV
+    save_to_json_file(gpt_info, 'gpt_info.json', directory_name)
 
 if __name__ == '__main__':
     main()
