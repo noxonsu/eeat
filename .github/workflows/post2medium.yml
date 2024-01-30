@@ -23,8 +23,7 @@ jobs:
     steps:
       - name: Decode and Output Article Text
         run: |
-          echo "${{ inputs.PUBLICATION_TEXT }}" | base64 -d > article.md
-          cat article.md
+          echo "${{ inputs.PUBLICATION_TEXT }}"
       - name: Checkout
         uses: actions/checkout@v3
 
