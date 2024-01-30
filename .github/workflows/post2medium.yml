@@ -42,4 +42,4 @@ jobs:
           PUBLICATION_TITLE: ${{ github.event.inputs.PUBLICATION_TITLE }}
           PUBLICATION_TEXT: ${{ github.event.inputs.PUBLICATION_TEXT }}
           PUBLICATION_TAGS: ${{ github.event.inputs.PUBLICATION_TAGS }}
-        run: python publish_to_publication.py
+        run: python publish_to_medium.py
