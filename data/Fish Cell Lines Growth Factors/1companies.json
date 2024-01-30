@@ -1,71 +1,94 @@
 {
     "www.ncbi.nlm.nih.gov": {
-        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8747882/"
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8747882/",
+        "nature": "unknown"
     },
     "www.frontiersin.org": {
-        "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2019.00043"
+        "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2019.00043",
+        "nature": "unknown"
     },
     "gfi.org": {
-        "url": "https://gfi.org/solutions/fish-cell-proliferation/"
+        "url": "https://gfi.org/solutions/fish-cell-proliferation/",
+        "nature": "list of projects"
     },
     "www.nature.com": {
-        "url": "https://www.nature.com/articles/s41598-023-31822-2"
+        "url": "https://www.nature.com/articles/s41598-023-31822-2",
+        "nature": "unknown"
     },
     "link.springer.com": {
-        "url": "https://link.springer.com/article/10.1007/s11626-022-00734-2"
+        "url": "https://link.springer.com/article/10.1007/s11626-022-00734-2",
+        "nature": "unknown"
     },
     "www.biorxiv.org": {
-        "url": "https://www.biorxiv.org/content/10.1101/2023.05.09.539854v1.full.pdf"
+        "url": "https://www.biorxiv.org/content/10.1101/2023.05.09.539854v1.full.pdf",
+        "nature": "Invalid: The URL provided is not accessible and returns a timeout error."
     },
     "www.sciencedirect.com": {
-        "url": "https://www.sciencedirect.com/science/article/pii/S2590332220302943"
+        "url": "https://www.sciencedirect.com/science/article/pii/S2590332220302943",
+        "nature": "Invalid: The URL provided leads to a timeout error and does not contain any relevant information to identify products, services, or solutions."
     },
     "www.mdpi.com": {
-        "url": "https://www.mdpi.com/2079-7737/12/12/1454"
+        "url": "https://www.mdpi.com/2079-7737/12/12/1454",
+        "nature": "unknown"
     },
     "www.pnas.org": {
-        "url": "https://www.pnas.org/doi/pdf/10.1073/pnas.87.9.3498"
+        "url": "https://www.pnas.org/doi/pdf/10.1073/pnas.87.9.3498",
+        "nature": "Invalid: The URL provided is not accessible and seems to be experiencing a timeout issue."
     },
     "www.cell.com": {
-        "url": "https://www.cell.com/one-earth/pdfExtended/S2590-3322(20)30294-3"
+        "url": "https://www.cell.com/one-earth/pdfExtended/S2590-3322(20)30294-3",
+        "nature": "Invalid: The URL provided is not accessible and returns an error message."
     },
     "www.sigmaaldrich.com": {
-        "url": "https://www.sigmaaldrich.com/US/en/products/cell-culture-and-analysis/cell-culture-supplements-and-reagents/growth-factors-and-cytokines"
+        "url": "https://www.sigmaaldrich.com/US/en/products/cell-culture-and-analysis/cell-culture-supplements-and-reagents/growth-factors-and-cytokines",
+        "nature": "Invalid: The URL provided is not accessible and returns an error."
     },
     "www.bio-techne.com": {
-        "url": "https://www.bio-techne.com/reagents/proteins/growth-factors"
+        "url": "https://www.bio-techne.com/reagents/proteins/growth-factors",
+        "nature": "Invalid: The URL provided is not accessible and returns an error message."
     },
     "edis.ifas.ufl.edu": {
-        "url": "https://edis.ifas.ufl.edu/publication/FS432"
+        "url": "https://edis.ifas.ufl.edu/publication/FS432",
+        "nature": "list of projects"
     },
     "onlinelibrary.wiley.com": {
-        "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/cbin.11956"
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/cbin.11956",
+        "nature": "Invalid: DDOS protection screen"
     },
     "journals.biologists.com": {
-        "url": "https://journals.biologists.com/bio/article/8/1/bio037507/2020/Development-and-characterization-of-a-new-cell"
+        "url": "https://journals.biologists.com/bio/article/8/1/bio037507/2020/Development-and-characterization-of-a-new-cell",
+        "nature": "unknown"
     },
     "www.qiagen.com": {
-        "url": "https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide/animal-cell-culture/cell-culture-conditions/cell-culture-conditions"
+        "url": "https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide/animal-cell-culture/cell-culture-conditions/cell-culture-conditions",
+        "nature": "list of projects"
     },
     "www.scielo.cl": {
-        "url": "http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0716-97602010000400002"
+        "url": "http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0716-97602010000400002",
+        "nature": "list of projects"
     },
     "www.thermofisher.com": {
-        "url": "https://www.thermofisher.com/us/en/home/life-science/cell-culture/mammalian-cell-culture/recombinant-proteins/growth-factors.html"
+        "url": "https://www.thermofisher.com/us/en/home/life-science/cell-culture/mammalian-cell-culture/recombinant-proteins/growth-factors.html",
+        "nature": "list of projects"
     },
     "www.atcc.org": {
-        "url": "https://www.atcc.org/resources/culture-guides/animal-cell-culture-guide"
+        "url": "https://www.atcc.org/resources/culture-guides/animal-cell-culture-guide",
+        "nature": "unknown"
     },
     "vtechworks.lib.vt.edu": {
-        "url": "https://vtechworks.lib.vt.edu/server/api/core/bitstreams/9b9e509c-f6db-4749-8e93-e3731ade9fe0/content"
+        "url": "https://vtechworks.lib.vt.edu/server/api/core/bitstreams/9b9e509c-f6db-4749-8e93-e3731ade9fe0/content",
+        "nature": "Invalid: The URL provided is not accessible and returns a timeout error."
     },
     "nc3rs.org.uk": {
-        "url": "https://nc3rs.org.uk/our-portfolio/development-leucocyte-cell-lines-immunological-research-teleost-fish"
+        "url": "https://nc3rs.org.uk/our-portfolio/development-leucocyte-cell-lines-immunological-research-teleost-fish",
+        "nature": "list of projects"
     },
     "www.researchgate.net": {
-        "url": "https://www.researchgate.net/publication/270174922_Overview_of_fish_cell_lines_and_their_uses"
+        "url": "https://www.researchgate.net/publication/270174922_Overview_of_fish_cell_lines_and_their_uses",
+        "nature": "Invalid: The URL provided leads to a timeout error and does not contain any relevant information."
     },
     "www.creative-bioarray.com": {
-        "url": "https://www.creative-bioarray.com/products/fish-tumor-cells-list-388.htm"
+        "url": "https://www.creative-bioarray.com/products/fish-tumor-cells-list-388.htm",
+        "nature": "list of projects"
     }
 }
