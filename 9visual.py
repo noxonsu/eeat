@@ -56,7 +56,7 @@ with open(f"data/{INDUSTRY_KEYWORD}/article_pricing.md", "r") as f:
     prices_article = f.read()
 
 if __name__ == "__main__":
-    input = clusterized_features_list_f+" \n\n "+prices_article
+    input = clusterized_features_list_f
     
     messages = [
         SystemMessage(content="""Create research article of features and prices in """+INDUSTRY_KEYWORD+""" . Keep numbers!  Kepp all project names. If possible add tables and lists. Return markdown. The title must included """+TITLE_ARTICLE+""". Compile Conclusion, Resume and Introduction to one short part and place it to the start of the article. Keep list of industry features. Don't add conclution (place important info into the start of article) """),
@@ -78,11 +78,12 @@ if __name__ == "__main__":
 
         print("Time to get response1: "+str(end - start))
 
-        
+        article = response.content
+        article = article + "\n\n" + prices_article
         with open(f"data/{INDUSTRY_KEYWORD}/article.md", "w") as f:
-                    f.write(response.content)
+                    f.write(article)
         with open(f"data/{INDUSTRY_KEYWORD}/readme.md", "w") as f:
-                    f.write(response.content)            
+                    f.write(article)            
         with open(f"data/{INDUSTRY_KEYWORD}/article_inpout.md", "w") as f:
                     f.write(json.dumps(input))
 

@@ -24,7 +24,7 @@ def generate_html_from_markdown(mark, title, PUBLICATION_TAGS, date_iso, author_
         tocSelector: '.toc-content',
         contentSelector: '.content',
         headingSelector: 'h1, h2, h3',                    
-        collapseDepth: 0,
+        collapseDepth: 1,
         hasInnerContainers: true
     });
     function closePanel() {              
@@ -228,13 +228,18 @@ def main():
     about_author = os.environ.get('ABOUT_AUTHOR','Autor not specified')
 
     INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
-    
+
     CallToActionTitle = os.environ.get('CallToActionTitle','')
     CallToActionButton = os.environ.get('CallToActionButton')
     CallToActionNo = os.environ.get('CallToActionButtonNo','No Thanks')
 
     date_iso = datetime.datetime.now().isoformat()
     date = datetime.datetime.now().strftime("%Y-%m-%d")
+
+    #if no markdown_content read file f"data/{INDUSTRY_KEYWORD}/article.md"
+    if (markdown_content == '' or markdown_content == None):
+        with open(f"data/{INDUSTRY_KEYWORD}/article.md", "r") as f:
+            markdown_content = f.read()
 
     html = generate_html_from_markdown(
         markdown_content,
