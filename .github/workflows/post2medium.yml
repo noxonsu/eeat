@@ -21,9 +21,10 @@ jobs:
     name: Post to Publication
     runs-on: ubuntu-latest
     steps:
-      - name: Output Inputs
+      - name: Decode and Output Article Text
         run: |
-          printf '%s\n' "${{ toJSON(github.event.inputs) }}"
+          echo "${{ inputs.PUBLICATION_TEXT }}" | base64 -d > article.md
+          cat article.md
       - name: Checkout
         uses: actions/checkout@v3
 
