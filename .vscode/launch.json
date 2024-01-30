@@ -70,6 +70,14 @@
             "request": "launch",
             "program": "${workspaceFolder}/run_all.py",
             "console": "integratedTerminal"
-        }
+        }, 
+        {
+            "name": "Python: publish_to_medium.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/publish_to_medium.py",
+            "console": "integratedTerminal"
+        },
+        
     ]
 }
