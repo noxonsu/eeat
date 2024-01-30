@@ -1,4 +1,4 @@
-name: Publish to Publication
+name: Publish to Medium
 
 on:
   workflow_dispatch:
@@ -22,7 +22,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Output Inputs
-        run: echo "${{ toJSON(github.event.inputs) }}"
+        run: |
+          printf '%s\n' "${{ toJSON(github.event.inputs) }}"
       - name: Checkout
         uses: actions/checkout@v3
 
