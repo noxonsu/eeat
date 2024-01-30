@@ -21,6 +21,12 @@ jobs:
     name: Post to Publication
     runs-on: ubuntu-latest
     steps:
+      - name: check secrets.MEDIUM_INTEGRATION_TOKEN exists
+        run: |
+          if [ -z "${{ secrets.MEDIUM_INTEGRATION_TOKEN }}" ]; then
+            echo "MEDIUM_INTEGRATION_TOKEN is not set"
+            exit 1
+          fi
       - name: Decode and Output Article Text
         run: |
           echo "${{ inputs.PUBLICATION_TEXT }}"
