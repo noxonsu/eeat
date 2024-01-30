@@ -91,7 +91,7 @@ if __name__ == "__main__":
     start = time.time()
     try:
         mod = SMART_GPTV #gpt-4-1106-preview
-        chat = ChatOpenAI(temperature=0, model_name=mod)
+        chat = ChatOpenAI(temperature=0, model_name=mod, openai_api_key=OPENAI_API_KEY)
         response = chat(messages)
         print("Pricing using "+mod)
     except Exception as e:
