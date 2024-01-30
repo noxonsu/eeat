@@ -1,0 +1,52 @@
+{
+    "title": "Professional Life Insurance Options",
+    "intro": "After analyzing 29 life insurance companies, a total of 40 features were gathered. The features were categorized into different types of life insurance options, coverage details, benefits, and programs.",
+    "features": {
+        "Life Insurance Options": {
+            "Whole Life Insurance": 1,
+            "Term Life Insurance": 1,
+            "Universal Life Insurance": 1,
+            "Group Life Insurance": 1,
+            "Indexed Universal Life Insurance": 1,
+            "Variable Universal Life Insurance": 1,
+            "Survivorship Life Insurance": 1,
+            "Permanent Life Insurance": 1,
+            "No-Exam Life Insurance": 1
+        },
+        "Coverage Details": {
+            "Coverage Options": 2,
+            "Flexibility": 1,
+            "Affordability": 1,
+            "Guaranteed coverage": 1,
+            "Group rates": 1,
+            "Easy enrollment": 1,
+            "Ages": 2,
+            "Best suited for": 3,
+            "Length of policy": 2,
+            "Coverage amount": 2,
+            "Living benefits": 2,
+            "Cost": 2,
+            "In-person medical exam": 2,
+            "Other benefits that may be available": 2,
+            "Payout Options": 1,
+            "Accessibility": 1,
+            "Financial Support": 1,
+            "Coverage Amount": 1,
+            "Premium Payment Options": 1,
+            "Policy Types": 1,
+            "Cash Value": 1,
+            "Renewal Options": 1
+        },
+        "Benefits and Programs": {
+            "Variable life insurance": 1,
+            "Long-term care coverage": 1,
+            "Advantages": 1,
+            "Disadvantages": 1,
+            "John Hancock Vitality Program": 1,
+            "John Hancock Aspire Program": 1,
+            "Basic life insurance coverage": 1,
+            "Optional insurance options": 1,
+            "Cost sharing": 1
+        }
+    }
+}

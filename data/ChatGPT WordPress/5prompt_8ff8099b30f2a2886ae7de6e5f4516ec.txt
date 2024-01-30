@@ -1,0 +1,16 @@
+Instructions for Assistant to Analyze ChatGPT WordPress Products
+
+Objective: To determine the critical characteristics or features of the chosen ChatGPT WordPress that may be important to consumers.
+
+Preparation:
+For each service, list down how they fare in each of the criteria.
+
+In additional detrmine such information
+1. Call to action - 'talk to a manager', 'book a demo', 'talk to team', sign up etc.
+2. Their usecases  
+3. Their solutions. 
+4. Key features according to optimized feature list: Optimized ChatGPT WordPress Plugin Feature List: 
+ [{"title": "Integration and Compatibility", "subcategories": [{"title": "WordPress Compatibility", "features": [{"name": "Supports latest WordPress version", "count": 0}, {"name": "Backward compatibility with previous WordPress versions", "count": 0}]}, {"title": "Third-party Integration", "features": [{"name": "Integration with popular WordPress plugins", "count": 0}, {"name": "API support for external software", "count": 0}]}]}, {"title": "User Experience", "subcategories": [{"title": "Ease of Use", "features": [{"name": "Intuitive user interface", "count": 0}, {"name": "Simple setup process", "count": 0}]}, {"title": "Interactivity", "features": [{"name": "Real-time conversation capability", "count": 0}, {"name": "User input recognition and response", "count": 0}]}]}, {"title": "Functionality", "subcategories": [{"title": "Content Generation", "features": [{"name": "Automated blog post creation", "count": 0}, {"name": "Dynamic content suggestions", "count": 0}]}, {"title": "Customization", "features": [{"name": "Customizable chatbot responses", "count": 0}, {"name": "Adjustable AI behavior settings", "count": 0}]}]}, {"title": "Performance and Optimization", "subcategories": [{"title": "Efficiency", "features": [{"name": "Low resource usage", "count": 0}, {"name": "Optimized for speed and responsiveness", "count": 0}]}, {"title": "SEO Enhancement", "features": [{"name": "SEO-friendly content generation", "count": 0}, {"name": "Support for metadata optimization", "count": 0}]}]}, {"title": "Support and Maintenance", "subcategories": [{"title": "Documentation and Help", "features": [{"name": "Comprehensive documentation", "count": 0}, {"name": "Accessible support channels", "count": 0}]}, {"title": "Updates and Upgrades", "features": [{"name": "Regular feature updates", "count": 0}, {"name": "Security patches and improvements", "count": 0}]}]}]"
+5. ?
+                                                                
+The goal is to provide an objective view of each product offerings, highlighting both strengths and potential areas for improvement. Provide the results in JSON format.
