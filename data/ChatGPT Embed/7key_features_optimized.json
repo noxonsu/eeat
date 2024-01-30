@@ -1,0 +1,111 @@
+{
+    "title": "Optimized ChatGPT Embed Product Features",
+    "intro": "After analyzing 15 sites and reviewing 120 features, we have streamlined the product feature list for ChatGPT Embed by focusing on eliminating redundant, overly specific, marketing fluff, and ambiguous content. The refined list now presents a clearer, more informative overview of the key features that are broadly applicable and relevant across various implementations of ChatGPT Embed.",
+    "features": [
+        {
+            "title": "Core Functionality",
+            "features": [
+                {
+                    "title": "Availability & Response",
+                    "features": [
+                        {
+                            "feature": "24/7 availability (12 companies)"
+                        },
+                        {
+                            "feature": "Instant response to queries (15 companies)"
+                        }
+                    ]
+                },
+                {
+                    "title": "Integration & Customization",
+                    "features": [
+                        {
+                            "feature": "Integration with CRM systems (8 companies)"
+                        },
+                        {
+                            "feature": "Customizable language and tone (9 companies)"
+                        }
+                    ]
+                },
+                {
+                    "title": "Scalability & Efficiency",
+                    "features": [
+                        {
+                            "feature": "Scalable customer interaction (10 companies)"
+                        },
+                        {
+                            "feature": "Cost-effective solutions (11 companies)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Advanced Features",
+            "features": [
+                {
+                    "title": "Personalization",
+                    "features": [
+                        {
+                            "feature": "Personalized user experience based on interaction history (7 companies)"
+                        }
+                    ]
+                },
+                {
+                    "title": "Security & Compliance",
+                    "features": [
+                        {
+                            "feature": "GDPR compliance (4 companies)"
+                        },
+                        {
+                            "feature": "HIPAA compliance (3 companies)"
+                        }
+                    ]
+                },
+                {
+                    "title": "Multilingual Support",
+                    "features": [
+                        {
+                            "feature": "Support for multiple languages (92 to 80+ languages) (5 companies)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Deployment & Accessibility",
+            "features": [
+                {
+                    "title": "Embedding Options",
+                    "features": [
+                        {
+                            "feature": "Embed on websites & live chat (9 companies)"
+                        },
+                        {
+                            "feature": "API access for custom integrations (10 companies)"
+                        }
+                    ]
+                },
+                {
+                    "title": "Ease of Use",
+                    "features": [
+                        {
+                            "feature": "No-code setup options (6 companies)"
+                        },
+                        {
+                            "feature": "Wizard-guided setup process (1 company)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Analytics & Insights",
+            "features": [
+                {
+                    "feature": "Advanced analytics for user interactions (5 companies)"
+                }
+            ]
+        }
+    ]
+}

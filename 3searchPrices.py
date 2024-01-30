@@ -77,10 +77,10 @@ def main():
         plans_url = process_domain_data(domain, domain_data)
 
         # Handle found plans URL
-        if 'Not foun' not in plans_url:
-            plans_url = correct_url(plans_url['url'])
-            domain_data["priceAndPlansCrawled"] = plans_url
-            
+        
+        plans_url = correct_url(plans_url['url'])
+        domain_data["priceAndPlansCrawled"] = plans_url
+        if 'Not foun' not in plans_url:    
             print(f"Crawling {plans_url}...")
             summary = extract_content(plans_url)
             if (len(summary['text_content']) < 600):

@@ -8,8 +8,10 @@
         "nature": "list of projects"
     },
     "nestify.io": {
-        "url": "https://nestify.io/blog/embed-chatgpt-in-your-website-for-optimal-efficiency/",
-        "nature": "list of projects"
+        "url": "https://nestify.io/",
+        "nature": "list of projects",
+        "cached_url": "not found",
+        "sourcekeyword": "Nestify:  Managed WordPress Hosting"
     },
     "www.reddit.com": {
         "url": "https://www.reddit.com/r/nocode/comments/11sizmd/easy_way_to_embed_chatgpt_into_your_website_as/",
@@ -17,7 +19,9 @@
     },
     "blog.hubspot.com": {
         "url": "https://blog.hubspot.com/website/chatgpt-integration",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "3e03275e17a75718677cfba1e28d7845"
     },
     "medium.com": {
         "url": "https://medium.com/@jamesfuthey/how-to-add-chatgpt-to-your-website-715751c6ca92",
@@ -25,7 +29,9 @@
     },
     "customgpt.ai": {
         "url": "https://customgpt.ai/embed-customgpt-chatbot-as-a-live-chat-feature/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://customgpt.ai/pricing/",
+        "5prompt_Hash": "3e03275e17a75718677cfba1e28d7845"
     },
     "www.youtube.com": {
         "url": "https://www.youtube.com/watch?v=Sr9iZd9fXpA",
@@ -33,7 +39,9 @@
     },
     "aista.com": {
         "url": "https://aista.com/blog/embed-a-custom-chatgpt-chatbot-on-your-website-in-5-minutes",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://aista.com/blog/put-chatgpt-on-your-website-for-e49-per-month",
+        "5prompt_Hash": "3e03275e17a75718677cfba1e28d7845"
     },
     "www.solulab.com": {
         "url": "https://www.solulab.com/integrate-chatgpt-to-your-website/",
@@ -41,19 +49,27 @@
     },
     "www.leewayhertz.com": {
         "url": "https://www.leewayhertz.com/what-is-embedding/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "3e03275e17a75718677cfba1e28d7845"
     },
     "www.pickaxeproject.com": {
         "url": "https://www.pickaxeproject.com/post/how-to-embed-ai-chatbots-into-your-website-a-step-by-step-guide",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "3e03275e17a75718677cfba1e28d7845"
     },
     "www.chatbase.co": {
         "url": "https://www.chatbase.co/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.chatbase.co/pricing",
+        "5prompt_Hash": "3e03275e17a75718677cfba1e28d7845"
     },
     "relevanceai.com": {
         "url": "https://relevanceai.com/blog/launching-the-ask-relevance-widget-embed-chatgpt-on-your-website",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://relevanceai.com/pricing",
+        "5prompt_Hash": "3e03275e17a75718677cfba1e28d7845"
     },
     "www.embedded.com": {
         "url": "https://www.embedded.com/7-expert-tips-for-writing-embedded-software-with-chatgpt/",
@@ -61,11 +77,15 @@
     },
     "tech.forums.softwareag.com": {
         "url": "https://tech.forums.softwareag.com/t/webmethods-io-embed-chatgpt-bot-for-cisco-webex-teams/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "3e03275e17a75718677cfba1e28d7845"
     },
     "norahsakal.com": {
         "url": "https://norahsakal.com/blog/chatgpt-product-recommendation-embeddings",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "3e03275e17a75718677cfba1e28d7845"
     },
     "writings.stephenwolfram.com": {
         "url": "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/",
@@ -73,14 +93,56 @@
     },
     "github.com": {
         "url": "https://github.com/Appointat/Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "3e03275e17a75718677cfba1e28d7845"
     },
     "ays-pro.com": {
         "url": "https://ays-pro.com/blog/how-to-embed-content-to-chatgpt-chatbot",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://ays-pro.com/business-bundle",
+        "5prompt_Hash": "3e03275e17a75718677cfba1e28d7845"
     },
     "semaphoreci.com": {
         "url": "https://semaphoreci.com/blog/word-embeddings",
         "nature": "list of projects"
+    },
+    "openai.com": {
+        "url": "https://openai.com/",
+        "cached_url": "not found",
+        "sourcekeyword": "OpenAI:  ChatGPT",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "3e03275e17a75718677cfba1e28d7845"
+    },
+    "sitespeak.ai": {
+        "url": "https://sitespeak.ai/",
+        "cached_url": "not found",
+        "sourcekeyword": "sitespeak.ai:  Chatbot training and embedding service",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://sitespeak.ai/pricing",
+        "5prompt_Hash": "3e03275e17a75718677cfba1e28d7845"
+    },
+    "www.socialintents.com": {
+        "url": "https://www.socialintents.com/",
+        "cached_url": "not found",
+        "sourcekeyword": "SocialIntents:  ChatGPT chatbot",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "3e03275e17a75718677cfba1e28d7845"
+    },
+    "www.meetingroom365.com": {
+        "url": "https://www.meetingroom365.com/",
+        "cached_url": "not found",
+        "sourcekeyword": "Meetingroom365:  Crisp.chat messenger bot",
+        "nature": "Invalid (single). Invalid: The content provided does not specifically discuss tools or projects for adding AI to a website."
+    },
+    "www.botcopy.com": {
+        "url": "https://www.botcopy.com/",
+        "cached_url": "not found",
+        "sourcekeyword": "Botcopy:  ChatGPT for websites",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "3e03275e17a75718677cfba1e28d7845"
     }
 }

@@ -109,6 +109,20 @@ Use this framework for a thorough optimization of your product feature list. Aft
         print(f"An error occurred: {e}")
         return 'Not found'
     
+def extract_key_features(data):
+    all_features = []
+
+    for company, details in data.items():
+        key_features = details.get("key_features", [])
+
+        for item in key_features:
+            if isinstance(item, dict):  # For nested feature categories
+                for category, features in item.items():
+                    all_features.extend(features)  # Add the list of features directly
+            elif isinstance(item, str):  # For direct feature lists
+                all_features.append(item)
+
+    return all_features
 
 def main():
     
@@ -119,38 +133,10 @@ def main():
     details_all = load_from_json_file("5companies_details.json", "data/" + INDUSTRY_KEYWORD)
     key_features_dict = {}  # Using a dictionary for associative array functionality
     
-    for site, details in details_all.items():
-        key_features = details.get("key_features", {})
-        if not isinstance(key_features, list) and not isinstance(key_features, dict):
-            continue
-        if key_features:
-            if isinstance(key_features, list):
-                key_features = {k: 1 for k in key_features}
-            for key, value in key_features.items():
-                # Add or update the key features, handling non-dictionary values
-                key_features_dict[key] = value  # This replaces the existing value if the key exists
-        else:
-            for key, value in details.items():
-                if isinstance(value, dict):
-                    key_features = value.get("key_features", {})
-                    if key_features:
-                        #if key_features is list convert to dict
-                        if isinstance(key_features, list):
-                            key_features = {k: 1 for k in key_features}
-                        #if string sprit by comma
-                        elif isinstance(key_features, str):
-                            key_features = {k: 1 for k in key_features.split(",")}
-                        for sub_key, sub_value in key_features.items():
-                            key_features_dict[sub_key] = sub_value  # Replaces the existing value
-
-    key_features = key_features_dict
+    
+    key_features = extract_key_features(details_all)
     #how many companies analysed?
     total_companies=len(details_all)
-
-    
-
-
-
 
     print("Clusterizing the Key Features total "+str(len(key_features)))
 

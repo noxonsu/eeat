@@ -30,6 +30,9 @@ SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-1106')
 
 # Environment variables
 OPENAI_API_KEY = os.environ.get('MY_OPENAI_KEY', os.environ.get('OPENAI_API_KEY_DEFAULT'))
+if not OPENAI_API_KEY.startswith('sk-'):
+    OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY_DEFAULT')
+
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 TITLE_ARTICLE = os.environ.get('TITLE_ARTICLE', INDUSTRY_KEYWORD)
 # Function to check if existing domains are included in the output
@@ -63,8 +66,8 @@ if __name__ == "__main__":
     if (gen == True):
         start = time.time()
         try:
-            mod = SMART_GPTV #gpt-4-1106-preview
-            chat = ChatOpenAI(model_name=mod)
+            mod = SMART_GPTV 
+            chat = ChatOpenAI(model_name=mod,openai_api_key=OPENAI_API_KEY)
             response = chat(messages)
             print(mod)
         except:

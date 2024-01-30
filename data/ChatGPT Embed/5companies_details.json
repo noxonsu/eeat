@@ -1,0 +1,1122 @@
+{
+    "blog.hubspot.com": {
+        "product_name": "HubSpot's ChatGPT Integration",
+        "call_to_action": [
+            "Start free or get a demo",
+            "Download Now: 100 ChatGPT Prompts for Marketers [Free Guide]",
+            "Subscribe to HubSpot's marketing blog"
+        ],
+        "use_cases": [
+            "24/7 Customer Support",
+            "Instant Responses",
+            "Scalability",
+            "Personalization",
+            "Cost Efficiency"
+        ],
+        "solutions": [
+            "AI-powered chatbots for around-the-clock support",
+            "Personalized responses based on previous interactions",
+            "Integration with HubSpot CRM for enhanced customer insights",
+            "Customizable chatbot responses to match brand tone"
+        ],
+        "key_features": [
+            "24/7 availability",
+            "Instant response to queries",
+            "Scalable customer interaction",
+            "Personalized user experience",
+            "Cost-effective customer support solution",
+            "Integration with HubSpot CRM",
+            "Customizable language and tone"
+        ],
+        "tools_to_add_AI_to_website": [
+            "HubSpot's free chatbot builder",
+            "ChatSpot - AI-powered sales and marketing assistant",
+            "OpenAI API for ChatGPT integration"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "customgpt.ai": {
+        "product_name": "CustomGPT",
+        "call_to_action": [
+            "Sign Up",
+            "Contact Us"
+        ],
+        "use_cases": [
+            "Customer Service",
+            "Customer Engagement",
+            "Topic Research"
+        ],
+        "solutions": [
+            "Personalized conversational responses based on all your business content",
+            "Quick personalized responses for leads",
+            "Improved sales via conversations",
+            "Personalized product recommendations",
+            "Automated virtual assistance"
+        ],
+        "key_features": [
+            {
+                "Easy Setup": [
+                    "Upload Documents in 1400+ formats",
+                    "Sitemap Integration",
+                    "Multi-Source Data Integrations",
+                    "Support for 92 languages"
+                ]
+            },
+            {
+                "Powered by ChatGPT-4": [
+                    "Accurate Responses From Your Content",
+                    "No Hallucinations / Making Up Facts",
+                    "Citations And Sources",
+                    "Secure, Privacy-first, Business-grade"
+                ]
+            },
+            {
+                "Deploy your Custom Chatbot": [
+                    "Public or Private Access",
+                    "Embed on Website & LiveChat",
+                    "API Access",
+                    "ChatGPT Plugin Store"
+                ]
+            }
+        ],
+        "tools_to_add_AI_to_website": [
+            "Live Demo",
+            "API",
+            "ChatGPT Plugin Builder"
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": [
+                {
+                    "name": "Basic",
+                    "price": "$44 per month (annual), $49 month-to-month",
+                    "features": [
+                        "3 custom chatbots (projects)",
+                        "1000 pages/chatbot",
+                        "30 million words content",
+                        "500 queries/month",
+                        "1 member in team"
+                    ]
+                },
+                {
+                    "name": "Standard",
+                    "price": "$89 per month (annual), $99 month-to-month",
+                    "features": [
+                        "10 custom chatbots (projects)",
+                        "5000 pages/chatbot",
+                        "60 million words content",
+                        "1000 queries/month",
+                        "3 members in team"
+                    ]
+                },
+                {
+                    "name": "Premium",
+                    "price": "$449 per month (annual), $499 month-to-month",
+                    "features": [
+                        "100 custom chatbots (projects)",
+                        "20,000 pages/chatbot",
+                        "300 million words content",
+                        "5000 queries/month",
+                        "5 members in team"
+                    ]
+                },
+                {
+                    "name": "Enterprise",
+                    "price": "Contact Us",
+                    "features": [
+                        "Custom number of chatbots (projects)",
+                        "Content size and queries based on enterprise needs",
+                        "Customized features needed by the enterprise"
+                    ]
+                }
+            ]
+        }
+    },
+    "aista.com": {
+        "company": "Aista",
+        "website": "https://aista.com",
+        "contact": {
+            "phone": "+357 95 129 391",
+            "email": "info@aista.com",
+            "address": "Americannas 6, Limassol, 4048, Cyprus"
+        },
+        "call_to_action": "Claim Your Free 7-Day Trial",
+        "use_cases": [
+            "Customer Service",
+            "Lead Generation",
+            "Marketing"
+        ],
+        "solutions": [
+            "AI Chatbots",
+            "AI Search",
+            "AI Expert Systems",
+            "Machine Learning"
+        ],
+        "key_features": [
+            "Embed a Custom ChatGPT chatbot on your website in 5 minutes",
+            "Zero code required for setup",
+            "Wizard-guided setup process",
+            "Support for OpenAI API key and reCAPTCHA integration",
+            "Machine Learning components automatically handle setup",
+            "Customization of machine learning data",
+            "Improved error feedback and UI fixes",
+            "Custom chatbot training and accuracy improvement services"
+        ],
+        "tools_projects_to_add_AI_to_website": [
+            "ChatGPT Website Chatbots",
+            "AI Website Search",
+            "ChatGPT Expert Systems",
+            "Machine Learning",
+            "Magic Cloud"
+        ],
+        "industries_served": [
+            "E-Commerce",
+            "Legal Services",
+            "Human Resources",
+            "Travel & Hospitality",
+            "Healthcare",
+            "Marketing",
+            "Real Estate",
+            "IT & Telecommunication"
+        ],
+        "pricesAndPlans": {
+            "status": "found",
+            "priceAndPlans": {
+                "ChatGPT Website Chatbots": {
+                    "Basic": {
+                        "Monthly": "\u20ac70",
+                        "Yearly": "\u20ac49 per month (30% discount)"
+                    },
+                    "Professional": {
+                        "Monthly": "\u20ac283",
+                        "Yearly": "\u20ac198 per month (30% discount)"
+                    },
+                    "Enterprise": {
+                        "Monthly": "\u20ac1,140",
+                        "Yearly": "\u20ac798 per month (30% discount)"
+                    },
+                    "Setup Fee": "\u20ac498 (one-time fee optional)",
+                    "Special Offer": "Custom ChatCPT chatbot on your website for \u20ac49 per month for small websites willing to pay upfront for a year"
+                },
+                "Free Trial": "7-Day Free Trial - No payment method required"
+            }
+        }
+    },
+    "www.leewayhertz.com": {
+        "products": [
+            {
+                "name": "Enterprise GenAI Platform",
+                "call_to_action": "Learn More",
+                "use_cases": [
+                    "Optimizing business processes",
+                    "Streamlining workflows",
+                    "Enhancing customer engagement"
+                ],
+                "solutions": [
+                    "Custom AI solutions for enterprises",
+                    "Scalable and secure AI platform",
+                    "Integration with existing enterprise systems"
+                ],
+                "key_features": [
+                    "Highly customizable",
+                    "Enterprise-grade security",
+                    "Scalable architecture"
+                ]
+            },
+            {
+                "name": "GenAI Platform for Finance",
+                "call_to_action": "Explore Service",
+                "use_cases": [
+                    "Fraud detection",
+                    "Risk management",
+                    "Customer service automation"
+                ],
+                "solutions": [
+                    "AI-driven analytics for financial insights",
+                    "Automated customer support",
+                    "Risk assessment models"
+                ],
+                "key_features": [
+                    "Real-time analytics",
+                    "Secure transactions",
+                    "Customizable AI models"
+                ]
+            },
+            {
+                "name": "ChatGPT for IT",
+                "call_to_action": "Contact Us",
+                "use_cases": [
+                    "Automating IT operations",
+                    "Enhancing cybersecurity",
+                    "Improving system efficiency"
+                ],
+                "solutions": [
+                    "Automated incident response",
+                    "Predictive maintenance",
+                    "AI-powered cybersecurity solutions"
+                ],
+                "key_features": [
+                    "Integration with IT management tools",
+                    "Real-time monitoring and alerts",
+                    "Advanced threat detection"
+                ]
+            }
+        ],
+        "services": [
+            {
+                "name": "Generative AI Development",
+                "call_to_action": "Explore Service",
+                "use_cases": [
+                    "Creating AI-driven content",
+                    "Developing AI models for specific tasks",
+                    "Enhancing existing AI capabilities"
+                ],
+                "solutions": [
+                    "Custom AI model development",
+                    "AI integration services",
+                    "AI consulting"
+                ],
+                "key_features": [
+                    "Tailored AI solutions",
+                    "Expert AI development team",
+                    "Comprehensive AI strategy consulting"
+                ]
+            },
+            {
+                "name": "Artificial Intelligence & ML",
+                "call_to_action": "Learn More",
+                "use_cases": [
+                    "Data analysis and insights",
+                    "Predictive modeling",
+                    "Machine learning model development"
+                ],
+                "solutions": [
+                    "AI development and consulting",
+                    "Machine learning engineering",
+                    "AI as a Service (AIaaS)"
+                ],
+                "key_features": [
+                    "Advanced analytics",
+                    "Custom machine learning models",
+                    "AI-driven decision making"
+                ]
+            }
+        ],
+        "insights": [
+            {
+                "title": "Harnessing the Capabilities of ChatGPT for Enterprise Success: Use Cases and Solutions",
+                "summary": "Enterprises are utilizing ChatGPT to optimize their business processes and streamline workflows."
+            },
+            {
+                "title": "Visual ChatGPT: The next frontier of conversational AI",
+                "summary": "AI-powered Visual ChatGPT employs deep learning and natural language processing to respond to user queries based on visual input."
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "www.pickaxeproject.com": {
+        "product_name": "Pickaxe",
+        "call_to_action": [
+            "Let's talk",
+            "We're hiring"
+        ],
+        "use_cases": [
+            "Embedding AI chatbots for customer support",
+            "Funneling sales through chat interactions",
+            "Answering FAQs on websites",
+            "Internal workspace integration for co-worker use",
+            "AI-powered writing assistance",
+            "AI coaching services",
+            "AI-powered Dungeon Master for games"
+        ],
+        "solutions": [
+            "Enables businesses to add intelligent chatbots to their websites",
+            "Allows customization of ChatGPT for specific business needs",
+            "Facilitates the embedding of AI tools into websites and internal workspaces",
+            "Supports no-code integration with popular website builders",
+            "Provides a platform for creating AI chatbots without coding knowledge"
+        ],
+        "key_features": [
+            "Free and simple chatbot creation",
+            "No-code chatbot and widget builder",
+            "Customizable design, size, and branding for AI tools",
+            "Easy embed options for websites",
+            "Automatic updates for chatbots without changing embed code",
+            "Integration with website builders like Wix, Wordpress, Webflow",
+            "Prompt templates for guided ChatGPT experiences"
+        ],
+        "tools_projects_to_add_AI_to_website": [
+            "Pickaxe Chatbot Builder",
+            "The Pickaxe AI Widget Builder",
+            "Integration with Notion, Sharepoint, and other workspaces",
+            "Embed options for popular website builders (Wix, Wordpress, Webflow, Squarespace)"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "www.chatbase.co": {
+        "product_name": "Chatbase",
+        "call_to_action": [
+            "Try for Free",
+            "Build your Chatbot",
+            "Watch Video",
+            "Leave your email for contact"
+        ],
+        "use_cases": [
+            "Customer Support",
+            "Lead Generation",
+            "AI Personas to Engage Your Users",
+            "Multi-platform Chatbots"
+        ],
+        "solutions": [
+            "Custom GPT for websites",
+            "Customer support automation",
+            "Lead generation and qualification",
+            "User engagement through AI personas",
+            "Embeddable chatbots for various platforms"
+        ],
+        "key_features": [
+            "Trustworthy, Accurate Answers",
+            "Lead Generation Engine",
+            "Advanced Analytics",
+            "Multiple Data Sources",
+            "Customizations",
+            "Whitelabel",
+            "Privacy & Security",
+            "Auto-Retrain",
+            "Integrations",
+            "Powerful AI Models",
+            "80+ Languages"
+        ],
+        "tools_to_add_AI_to_website": [
+            "Embed on Site",
+            "Integrations with Slack, WhatsApp, Zapier, and more",
+            "API for custom integrations"
+        ],
+        "strengths": [
+            "No credit card required for trial",
+            "Customizable AI chatbot appearance and behavior",
+            "Support for multiple data sources and languages",
+            "Integration with popular tools and platforms",
+            "Features for privacy, security, and automatic retraining"
+        ],
+        "areas_for_improvement": [
+            "Lack of detailed pricing information",
+            "Limited information on the ease of setup and use",
+            "No explicit mention of customer support or service levels"
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": [
+                {
+                    "name": "Free",
+                    "price": "$0",
+                    "features": {
+                        "messageCreditsPerMonth": 20,
+                        "chatbots": 1,
+                        "charactersPerChatbot": 400000,
+                        "linksToTrain": 10,
+                        "embedOnWebsites": "Unlimited",
+                        "filesUpload": "Multiple",
+                        "viewConversationHistory": true,
+                        "chatbotDeletionAfterInactivityDays": 7
+                    }
+                },
+                {
+                    "name": "Hobby",
+                    "price": "$19/month",
+                    "features": {
+                        "messageCreditsPerMonth": 2000,
+                        "chatbots": 2,
+                        "charactersPerChatbot": 11000000,
+                        "linksToTrain": "Unlimited",
+                        "embedOnWebsites": "Unlimited",
+                        "filesUpload": "Multiple",
+                        "viewConversationHistory": true,
+                        "captureLeads": true,
+                        "APIAccess": true,
+                        "integrations": [
+                            "Zapier",
+                            "Slack",
+                            "Wordpress",
+                            "WhatsApp",
+                            "Messenger (coming soon)"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard",
+                    "price": "$99/month",
+                    "features": {
+                        "messageCreditsPerMonth": 10000,
+                        "chatbots": 5,
+                        "charactersPerChatbot": 11000000,
+                        "linksToTrain": "Unlimited",
+                        "embedOnWebsites": "Unlimited",
+                        "filesUpload": "Multiple",
+                        "viewConversationHistory": true,
+                        "captureLeads": true,
+                        "APIAccess": true,
+                        "integrations": [
+                            "Zapier",
+                            "Slack",
+                            "Wordpress",
+                            "WhatsApp",
+                            "Messenger (coming soon)"
+                        ],
+                        "GPT4Option": true
+                    }
+                },
+                {
+                    "name": "Unlimited",
+                    "price": "$399/month",
+                    "features": {
+                        "messageCreditsPerMonthIncluded": 40000,
+                        "chatbots": 10,
+                        "charactersPerChatbot": 11000000,
+                        "linksToTrain": "Unlimited",
+                        "embedOnWebsites": "Unlimited",
+                        "filesUpload": "Multiple",
+                        "viewConversationHistory": true,
+                        "captureLeads": true,
+                        "APIAccess": true,
+                        "integrations": [
+                            "Zapier",
+                            "Slack",
+                            "Wordpress",
+                            "WhatsApp",
+                            "Messenger (coming soon)"
+                        ],
+                        "GPT4Option": true,
+                        "RemovePoweredByChatbase": true,
+                        "customDomains": true
+                    }
+                },
+                {
+                    "add-ons": [
+                        {
+                            "name": "Extra message credits",
+                            "price": "$7 per 1000 msg credits/month"
+                        },
+                        {
+                            "name": "Extra chatbots",
+                            "price": "$7 per 1 chatbots/month"
+                        },
+                        {
+                            "name": "Remove 'Powered By Chatbase'",
+                            "price": "$39/month"
+                        },
+                        {
+                            "name": "Custom Domains",
+                            "price": "$59/month"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "relevanceai.com": {
+        "product_name": "Ask Relevance Widget",
+        "description": "A widget that allows embedding ChatGPT on your website to interact with datasets, enabling functionalities like searching large PDFs for answers, turning documentations into AI assistants, and querying customer surveys.",
+        "call_to_action": [
+            "Sign up",
+            "Book demo"
+        ],
+        "use_cases": [
+            "Search large PDFs for answers",
+            "Turn documentations into AI assistants",
+            "Ask questions of customer surveys",
+            "Embed AI assistant on any web page"
+        ],
+        "solutions": [
+            "Enables embedding ChatGPT on websites",
+            "Supports interaction with various datasets",
+            "Facilitates AI-driven search and query functionalities"
+        ],
+        "key_features": [
+            "Low-code builder",
+            "Multi-Agent System",
+            "AI personalization",
+            "Customer Support",
+            "Automated categorisation",
+            "Market research",
+            "Analytics & insights",
+            "Run in bulk",
+            "Custom Actions for GPTs",
+            "Unstructured data handling",
+            "Vector database",
+            "Clustering",
+            "Semantic cache",
+            "Managed chaining API"
+        ],
+        "tools_to_add_AI_to_website": [
+            "Javascript SDK",
+            "Python SDK"
+        ],
+        "additional_resources": [
+            "Blog",
+            "Documentation",
+            "Workflows",
+            "eBook: Relevance AI vs Top VOC Tools"
+        ],
+        "enterprise_features": [
+            "Enterprise API",
+            "Notebook",
+            "Vector database",
+            "Unstructured data support"
+        ],
+        "support_options": [
+            "Documentation",
+            "API & Python SDK",
+            "Book demo"
+        ],
+        "learning_resources": [
+            "Blog",
+            "Relevance AI vs OpenAI comparison",
+            "Topics",
+            "Tools"
+        ],
+        "company_info": {
+            "about_us": "OnSearch Pty Ltd T/A Relevance AI",
+            "careers": "Available career opportunities",
+            "security": "Security measures and policies"
+        },
+        "legal": {
+            "privacy_policy": "Privacy policy details",
+            "security_policy": "Security policy details",
+            "terms": "Terms of service",
+            "Anthropic_DPA": "Data Processing Agreement with Anthropic",
+            "OpenAI_DPA": "Data Processing Agreement with OpenAI"
+        },
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "Free": {
+                    "price": "$0 per month",
+                    "includes": {
+                        "credits": "100 credits /day",
+                        "creditsPerRun": "4 credits per run",
+                        "users": "1 user",
+                        "knowledge": "10MB of Knowledge",
+                        "features": [
+                            "Low-code builder",
+                            "1-click shareable app and embed",
+                            "Access to different LLM models"
+                        ]
+                    }
+                },
+                "Pro": {
+                    "price": "$19 per month",
+                    "includes": {
+                        "credits": "10,000 credits /month",
+                        "creditsPerRun": "4 credits per run",
+                        "runs": "2500 runs",
+                        "users": "1 user",
+                        "knowledge": "100MB of Knowledge",
+                        "features": [
+                            "Bulk app runs",
+                            "Schedule app runs",
+                            "Live-chat support"
+                        ]
+                    }
+                },
+                "Team": {
+                    "price": "$199 per month",
+                    "includes": {
+                        "credits": "100,000 credits /month",
+                        "creditsPerRun": "3 credits per run",
+                        "runs": "33,333 runs",
+                        "users": "10 users",
+                        "knowledge": "1GB of Knowledge",
+                        "features": [
+                            "Hosted GPT-4",
+                            "Private share links",
+                            "Priority support"
+                        ]
+                    }
+                },
+                "Business": {
+                    "price": "$599 per month",
+                    "includes": {
+                        "credits": "300,000 credits /month",
+                        "creditsPerRun": "2 credits per run",
+                        "runs": "150,000 runs",
+                        "users": "Unlimited users",
+                        "knowledge": "5GB of Knowledge",
+                        "features": [
+                            "Dedicated customer success"
+                        ]
+                    }
+                },
+                "Enterprise": {
+                    "price": "Custom",
+                    "includes": {
+                        "executions": "Unlimited executions",
+                        "deployment": "Private cloud or on-premise deployment",
+                        "support": "Priority support SLAs",
+                        "authentication": "Advanced authentication (SSO, RBAC)",
+                        "reliability": "99.99% reliability & multi-region"
+                    }
+                },
+                "ExtraCredits": {
+                    "price": "$2 per 1000 credits"
+                },
+                "ExtraKnowledgeStorage": {
+                    "price": "$100 per GB"
+                }
+            }
+        }
+    },
+    "tech.forums.softwareag.com": {
+        "product_name": "webMethods.io Embed ChatGPT Bot for Cisco Webex Teams",
+        "call_to_action": [
+            "Want to learn more",
+            "Visit our website to learn more about webMethods.io Embed and request a custom demo."
+        ],
+        "use_cases": [
+            "Building out of the box integration capabilities with ChatGPT for your own products or applications and/or any 3rd party applications",
+            "Ecosystem-driven innovations and solutions (integrations) developed by partners to drive further revenue growth",
+            "Embedding AI-driven solutions into applications, dev portals, and integration marketplaces with your own brand experience"
+        ],
+        "solutions": [
+            "AI-Driven Innovations",
+            "Integration with Cisco Webex Teams using ChatGPT for generating text content based on any input leveraging the OpenAI Completions API 2 along with the Davinci model under the GPT-3 AI models family"
+        ],
+        "key_features": [
+            "Integration with Cisco Webex Teams",
+            "Use of OpenAI Completions API 2 and Davinci model under GPT-3 AI models",
+            "Ability to create adaptive cards bot",
+            "Configurable workflows for handling commands and generating responses",
+            "Webhook trigger for capturing payload from Cisco Webex Teams Bot",
+            "Configurable ChatGPT connector with API key for invoking OpenAI completion API"
+        ],
+        "tools_to_add_AI_to_website": [
+            "webMethods.io Embed platform for creating and managing bots",
+            "Cisco Webex Teams Bot connector",
+            "ChatGPT connector for integrating with OpenAI's API",
+            "Microsoft Designer for designing adaptive cards"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "norahsakal.com": {
+        "product_name": "Norah Sakal Consulting Services",
+        "call_to_action": "Let's find the perfect solution for your challenges: consulting services",
+        "use_cases": [
+            "Building a chatbot for product recommendations using ChatGPT API and embeddings",
+            "Creating customer-facing chatbots to boost engagement and drive sales",
+            "Applying the principles to any industry beyond the beauty e-commerce example provided"
+        ],
+        "solutions": [
+            "Tailored AI solutions through one-on-one collaboration and custom AI services for businesses",
+            "Step-by-step guide on using ChatGPT API and embeddings for product recommendation chatbots",
+            "Consulting services for businesses needing assistance with ChatGPT API or other AI-related projects"
+        ],
+        "key_features": [
+            "Use of OpenAI API and Python for building chatbots",
+            "Introduction to embeddings and their application in matching user profiles with products",
+            "Guidance on creating product and customer profile datasets and generating embeddings for them",
+            "Techniques for calculating similarities between customer profiles and products for personalized recommendations",
+            "Creation of ChatGPT API prompts for initiating chatbot conversations and generating product recommendations"
+        ],
+        "tools_projects_to_add_AI_to_website": [
+            "OpenAI API for accessing advanced AI models like ChatGPT",
+            "Python programming language for scripting and automation",
+            "Pandas for data manipulation and analysis",
+            "OpenAI embeddings_utils for generating and working with text embeddings",
+            "Jupyter notebook for documenting and sharing the project code"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "github.com": {
+        "product_name": "TraceTalk",
+        "description": "A cutting-edge solution blending state-of-the-art artificial intelligence with interactive learning, designed to make learning dynamic, engaging, and personable.",
+        "call_to_action": "Welcome aboard TraceTalk!",
+        "use_cases": [
+            "Facilitating learning in an exciting and immersive manner",
+            "Transforming the way we learn and interact with information",
+            "Providing a rich, context-driven learning experience"
+        ],
+        "solutions": [
+            "Integrates relevant references by providing correct links, illustrations, video jump links, code blocks, and other components",
+            "Empowered to pull data from an evolving and expanding base of knowledge",
+            "Leverages the strengths of Large Language Models (LLMs) for specific domain expertise"
+        ],
+        "key_features": [
+            "Cloud-centric, microservices-based, and data-driven systems",
+            "Frontend powered by Next.js framework for efficient server-side rendering",
+            "Backend driven by Python for complex data processing and business logic",
+            "RESTful API facilitating communication with high-performance Qdrant database",
+            "Utilizes OpenAI's GPT-3.5 Turbo API",
+            "Python's multithreading capabilities and queue systems for handling substantial traffic",
+            "Cloud technology for training models and storing data"
+        ],
+        "tools_projects_to_add_AI_to_website": [
+            "OpenAI GPT-3 API",
+            "Chroma - AI-native open-source embedding database",
+            "LangChain - Library to integrate LLMs with other sources of computation or knowledge"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "ays-pro.com": {
+        "product_name": "ChatGPT AI Assistant plugin for WordPress",
+        "call_to_action": "Subscribe to our YouTube channel",
+        "use_cases": [
+            "Providing 24/7 support for website visitors",
+            "Answering pre-sale questions",
+            "Reducing the number of emails in support inbox",
+            "Engaging website visitors by providing immediate answers"
+        ],
+        "solutions": [
+            "24/7 availability to answer questions based on website's info",
+            "Rapid learning and adaptation to provide accurate answers",
+            "Multilingual support to accommodate varied customer base",
+            "Cost-efficiency by minimizing support costs"
+        ],
+        "key_features": [
+            "Enable Content Embedding option for easy integration",
+            "Integration with Pinecone for activating the feature",
+            "Ability to choose specific posts and pages for the plugin to learn from",
+            "Viewing embedded posts/pages and used token costs in the Embeddings submenu"
+        ],
+        "tools_to_add_AI_to_website": [
+            "Pro Version of the ChatGPT AI Chatbot plugin",
+            "Pinecone account for activating the embedding feature"
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "Business Bundle": {
+                    "Included Plugins": 16,
+                    "Support Sites": 5,
+                    "Update Duration": "12 months",
+                    "Support Duration": "12 months",
+                    "Usage": "lifetime",
+                    "Original Price": "$555",
+                    "Discounted Price": "$277",
+                    "Payment Type": "One-time payment",
+                    "Money Back Guarantee": "30 days"
+                },
+                "Individual Plugin Prices": {
+                    "Quiz Maker": "$49",
+                    "Poll Maker": "$49",
+                    "Survey Maker": "$49",
+                    "Chartify-chart builder": "$49",
+                    "Easy Form": "$49",
+                    "Personal Dictionary": "$39",
+                    "WordPress Secure Copy Content Protection": "$49",
+                    "Popup Box": "$49",
+                    "Photo Gallery": "$49",
+                    "WP Popup Likebox": "$19",
+                    "WP Random Posts And Pages": "$19",
+                    "WP Image Slider": "$19",
+                    "WordPress FAQ Builder": "$19",
+                    "WordPress Portfolio Responsive Gallery": "$19",
+                    "WordPress Advanced Related Posts": "$19",
+                    "WordPress Auto Scroll For Reading": "$20"
+                }
+            }
+        }
+    },
+    "openai.com": {
+        "ChatGPT Embed Products": {
+            "Overview": {
+                "Call to Action": [
+                    "Try ChatGPT",
+                    "Learn about OpenAI",
+                    "Explore our products",
+                    "View careers"
+                ],
+                "Use Cases": [
+                    "Pioneering research on the path to AGI",
+                    "Transforming work and creativity with AI",
+                    "Shaping the future of technology"
+                ],
+                "Solutions": [
+                    "Creating safe AGI that benefits all of humanity",
+                    "Researching generative models aligned with human values",
+                    "Offering API platform with latest models and safety guides"
+                ],
+                "Key Features": [
+                    "Latest updates on embedding models and API",
+                    "Introduction of ChatGPT Team",
+                    "Launch of the GPT Store",
+                    "Introduction of GPTs"
+                ],
+                "Tools/Projects to Add AI to Website": [
+                    "API platform for embedding models",
+                    "GPT Store for accessing various GPT models",
+                    "Documentation and guides for best safety practices"
+                ]
+            },
+            "Strengths": {
+                "Comprehensive Research": "OpenAI's focus on pioneering research ensures that their products are at the forefront of AI technology.",
+                "Safety and Responsibility": "A strong emphasis on creating safe and beneficial AI showcases their commitment to ethical AI development.",
+                "Diverse Applications": "The range of products and updates indicates versatility in applications, from creative work to enterprise solutions."
+            },
+            "Potential Areas for Improvement": {
+                "Accessibility": "While there is a push for innovation, ensuring that these technologies are accessible and understandable to a wider audience could enhance adoption.",
+                "Transparency": "Greater detail on how AI models are trained and their limitations could help users make more informed decisions."
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "sitespeak.ai": {
+        "product_name": "SiteSpeakAI",
+        "call_to_action": [
+            "Create Free Chatbot",
+            "Start 7-Day Free Trial",
+            "Get Started For Free"
+        ],
+        "use_cases": [
+            "Automating customer support",
+            "Reducing support tickets",
+            "Training AI on specific content",
+            "Providing smart responses and live chat escalation",
+            "Customizing chatbot to match brand style",
+            "Analyzing chatbot interaction metrics",
+            "Integrating with various tools and platforms"
+        ],
+        "solutions": [
+            "Custom trained GPT support chatbot",
+            "AI chatbot trained on knowledge base, support docs, PDFs, YouTube videos, Notion, API, or database",
+            "Customizable chatbot avatars and themes",
+            "Detailed analytics on visitor interactions",
+            "Integration with favorite tools and platforms"
+        ],
+        "key_features": [
+            "Custom trained AI chatbot",
+            "Smart responses and live chat escalation",
+            "Brand customization options",
+            "Analytics and chatbot metrics",
+            "Integration with tools like Slack, Zapier, and various platforms",
+            "GPT-3.5 and GPT-4 model support",
+            "Text file and PDF support",
+            "Smart Prompts and Fine-tuning",
+            "Live chat functionality",
+            "API access",
+            "Speech Recognition and Text to Speech",
+            "ChatGPT fallback option"
+        ],
+        "tools_to_add_AI_to_website": [
+            "No-Code AI Chatbot Builder",
+            "Add ChatGPT To HTML",
+            "Add a ChatGPT widget to Framer",
+            "Add ChatGPT To Shopify",
+            "Add ChatGPT To Notion",
+            "Add ChatGPT To Wordpress",
+            "Add ChatGPT To Carrd",
+            "Add ChatGPT To Bubble",
+            "Add ChatGPT To Webflow",
+            "Add ChatGPT To Slack",
+            "Add ChatGPT To Showit",
+            "Add Zapier Integration"
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": [
+                {
+                    "plan": "Free",
+                    "monthly": "$0",
+                    "annually": "$0",
+                    "features": [
+                        "1 AI Chatbot",
+                        "Up to 10 source links",
+                        "Text file and PDF support",
+                        "30 message credits / month",
+                        "GPT-3.5 Model",
+                        "Inbox with conversation history",
+                        "Smart Prompts and Fine-tuning",
+                        "Live chat",
+                        "Slack integration"
+                    ]
+                },
+                {
+                    "plan": "Startup",
+                    "monthly": "$30",
+                    "annually": "$300",
+                    "features": [
+                        "1 AI Chatbot",
+                        "Up to 30 source links",
+                        "Text file and PDF support",
+                        "2k message credits / month",
+                        "GPT-3.5 Model",
+                        "Inbox with conversation history",
+                        "Smart Prompts and Fine-tuning",
+                        "Live chat",
+                        "Slack integration",
+                        "Auto sync sources monthly",
+                        "Basic support"
+                    ]
+                },
+                {
+                    "plan": "Pro",
+                    "monthly": "$60",
+                    "annually": "$600",
+                    "features": [
+                        "Everything in Startup",
+                        "2 AI Chatbots",
+                        "1 Custom GPT Assistant \ud83c\udf89 New",
+                        "Up to 200 source links",
+                        "5k message credits / month",
+                        "Choose latest GPT-4 Model",
+                        "Zapier integration",
+                        "Escalate to Human Support",
+                        "Capture leads",
+                        "Remove \"Powered By\"",
+                        "Auto sync sources weekly",
+                        "2 Plugins (e.g. Weather, etc.)",
+                        "Chat with your API or DB",
+                        "API access",
+                        "Speech Recognition",
+                        "Text to Speech",
+                        "ChatGPT fallback",
+                        "Priority support"
+                    ]
+                },
+                {
+                    "plan": "Business",
+                    "monthly": "$500",
+                    "annually": "$5000",
+                    "features": [
+                        "Everything in Pro",
+                        "Unlimited AI Chatbots",
+                        "10 Custom GPT Assistants \ud83c\udf89 New",
+                        "Up to 2,000 source links",
+                        "50k message credits / month",
+                        "Unlimited Plugins",
+                        "Auto sync sources daily",
+                        "API access",
+                        "Speech Recognition",
+                        "Text to Speech",
+                        "Custom domain support",
+                        "Priority support"
+                    ]
+                }
+            ]
+        }
+    },
+    "www.socialintents.com": {
+        "product_name": "Social Intents",
+        "call_to_action": [
+            "Try for Free",
+            "View Demo",
+            "Schedule Demo",
+            "Start Trial",
+            "Chat With Us"
+        ],
+        "use_cases": [
+            "Live chat with website visitors",
+            "Customer support through collaboration tools (Slack, Microsoft Teams, Google Chat, Zoom, Webex)",
+            "Sales and lead capture",
+            "Automating sales process with chatbots",
+            "Customer engagement and happiness",
+            "Increasing online revenue"
+        ],
+        "solutions": [
+            "Microsoft Teams Live Chat",
+            "Google Chat Live Chat",
+            "Slack Live Chat",
+            "Zoom Live Chat",
+            "Webex Live Chat",
+            "Embed Google Chat",
+            "ChatGPT Live Chat"
+        ],
+        "key_features": [
+            "Customizable Chat Widget",
+            "Unlimited Team Members",
+            "3rd Party Integrations",
+            "Pre-chat surveys",
+            "Quick replies",
+            "Proactive chat invites",
+            "Targeting rules",
+            "1-click chatbot training",
+            "Tons of customization options",
+            "Chat Customization",
+            "Chat Reports",
+            "Chatbots"
+        ],
+        "tools_to_add_AI_to_website": [
+            "ChatGPT Integration",
+            "Developer SDK",
+            "Plugins for Shopify, WordPress, BigCommerce, Wix"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": ""
+        }
+    },
+    "www.botcopy.com": {
+        "product_name": "Botcopy",
+        "call_to_action": [
+            "Get Started",
+            "Learn More",
+            "Get Notified",
+            "Browse Our Library",
+            "Try it",
+            "Schedule a Demo"
+        ],
+        "use_cases": [
+            "Secure and compliant messaging for websites and apps",
+            "Integrating generative, contextual, and multilingual AI",
+            "Live chat integration",
+            "Custom branding for chat interfaces",
+            "Enterprise-level security and compliance",
+            "Enhancing user engagement with unlimited bot prompts and rich web chat UI"
+        ],
+        "solutions": [
+            "Contact Center AI",
+            "Dialogflow Integration",
+            "Accessibility and Compliance (WCAG, ADA, GDPR, HIPAA)",
+            "Customization with no-code branding tools",
+            "Integration with cloud AI solutions (Google Cloud, AWS, Microsoft Azure)",
+            "Live chat with seamless human handoff"
+        ],
+        "key_features": [
+            "WCAG 2.1 AA compliance",
+            "ADA compliance",
+            "GDPR compliance",
+            "HIPAA compliance",
+            "Multi-factor authentication",
+            "Encrypted connections",
+            "Intrusion detection",
+            "Redundant servers",
+            "Native integrations with Dialogflow ES & CX",
+            "Vendor-neutral approach for third-party app integrations",
+            "Custom payloads for rich content in chat (images, videos, cards, etc.)",
+            "Unlimited bot prompts based on user page history",
+            "Window methods for reacting to web buttons and user events",
+            "Custom branding tools for chat window customization",
+            "Live chat service with workflow management and AI training capabilities"
+        ],
+        "tools_projects_to_add_AI_to_website": [
+            "Botcopy's rich web chat UI component library",
+            "Integration capabilities with Google Cloud Dialogflow, Amazon Lex, and Microsoft Azure Bot Service",
+            "Customization and branding tools for chat interfaces",
+            "Security and compliance features ensuring enterprise-grade protection"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    }
+}

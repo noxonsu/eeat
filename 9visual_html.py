@@ -223,13 +223,13 @@ def main():
     PUBLICATION_TAGS = os.environ.get('PUBLICATION_TAGS')
     markdown_content = os.environ.get('PUBLICATION_TEXT')
 
-    author_link = os.environ.get('AUTHOR_LINK')
-    author_name = os.environ.get('AUTHOR_NAME')
-    about_author = os.environ.get('ABOUT_AUTHOR')
+    author_link = os.environ.get('AUTHOR_LINK','#')
+    author_name = os.environ.get('AUTHOR_NAME','Anonymous')
+    about_author = os.environ.get('ABOUT_AUTHOR','Autor not specified')
 
     INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
-
-    CallToActionTitle = os.environ.get('CallToActionTitle')
+    
+    CallToActionTitle = os.environ.get('CallToActionTitle','')
     CallToActionButton = os.environ.get('CallToActionButton')
     CallToActionNo = os.environ.get('CallToActionButtonNo','No Thanks')
 

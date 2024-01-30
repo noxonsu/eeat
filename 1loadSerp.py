@@ -82,7 +82,7 @@ def main():
     for url in company_urls['urls']:
         domain = extract_domain_from_url(url)
         #skip youtube.com reddit.com 
-        if domain in ['www.youtube.com','www.reddit.com']:
+        if domain in ['www.youtube.com','github.com','www.reddit.com']:
             continue
         if domain and domain not in existing_domains:
             existing_domains[domain] = {'url': url}

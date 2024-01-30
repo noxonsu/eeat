@@ -14,7 +14,6 @@ OPENAI_API_KEY = os.environ.get('MY_OPENAI_KEY', os.environ.get('OPENAI_API_KEY_
 if not OPENAI_API_KEY.startswith('sk-'):
     OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY_DEFAULT')
 
-openai.api_key = OPENAI_API_KEY  # Set the OpenAI API key
 
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 SERP_PRICES_EXT = os.environ.get('SERP_PRICES_EXT')
