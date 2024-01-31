@@ -10,5 +10,14 @@
     "www.example3.com": {
         "url": "https://www.example3.com",
         "nature": "single project"
+    },
+    "www.website1.com": {
+        "url": "https://www.website1.com"
+    },
+    "www.website2.com": {
+        "url": "https://www.website2.com"
+    },
+    "www.website3.com": {
+        "url": "https://www.website3.com"
     }
 }
