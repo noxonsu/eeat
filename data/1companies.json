@@ -12,12 +12,15 @@
         "nature": "single project"
     },
     "www.website1.com": {
-        "url": "https://www.website1.com"
+        "url": "https://www.website1.com",
+        "nature": "list of projects"
     },
     "www.website2.com": {
-        "url": "https://www.website2.com"
+        "url": "https://www.website2.com",
+        "nature": "Invalid: The URL provided leads to an error page or a timeout, making it impossible to extract any relevant information."
     },
     "www.website3.com": {
-        "url": "https://www.website3.com"
+        "url": "https://www.website3.com",
+        "nature": "list of projects"
     }
 }
