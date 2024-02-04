@@ -1,104 +1,138 @@
 {
     "thereceptionist.com": {
-        "url": "https://thereceptionist.com/visitor-management-system/"
+        "url": "https://thereceptionist.com/visitor-management-system/",
+        "nature": "list of projects"
     },
     "www.friendlyway.com": {
-        "url": "https://www.friendlyway.com/what-is-visitor-management/"
+        "url": "https://www.friendlyway.com/what-is-visitor-management/",
+        "nature": "list of projects"
     },
     "www.greetly.com": {
-        "url": "https://www.greetly.com/visitor-management-system"
+        "url": "https://www.greetly.com/visitor-management-system",
+        "nature": "list of projects"
     },
     "www.edenworkplace.com": {
-        "url": "https://www.edenworkplace.com/visitor-management"
+        "url": "https://www.edenworkplace.com/visitor-management",
+        "nature": "list of projects"
     },
     "www.capterra.com": {
-        "url": "https://www.capterra.com/visitor-management-software/"
+        "url": "https://www.capterra.com/visitor-management-software/",
+        "nature": "Invalid: The URL provided is for the Wayback Machine, an internet archive service, and does not contain relevant information about products, services, or solutions."
     },
     "www.hidglobal.com": {
-        "url": "https://www.hidglobal.com/solutions/visitor-management"
+        "url": "https://www.hidglobal.com/solutions/visitor-management",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.g2.com": {
-        "url": "https://www.g2.com/categories/visitor-management"
+        "url": "https://www.g2.com/categories/visitor-management",
+        "nature": "Invalid: The URL provided leads to a timeout error and does not contain relevant information."
     },
     "www.lobbytrack.com": {
-        "url": "https://www.lobbytrack.com/"
+        "url": "https://www.lobbytrack.com/",
+        "nature": "list of projects"
     },
     "www.securitastechnology.com": {
-        "url": "https://www.securitastechnology.com/solutions/visitor-management"
+        "url": "https://www.securitastechnology.com/solutions/visitor-management",
+        "nature": "list of projects"
     },
     "www.softwareadvice.com": {
-        "url": "https://www.softwareadvice.com/visitor-management/"
+        "url": "https://www.softwareadvice.com/visitor-management/",
+        "nature": "list of projects"
     },
     "envoy.com": {
-        "url": "https://envoy.com/"
+        "url": "https://envoy.com/",
+        "nature": "list of projects"
     },
     "www.swipedon.com": {
-        "url": "https://www.swipedon.com/visitor-management-system"
+        "url": "https://www.swipedon.com/visitor-management-system",
+        "nature": "list of projects"
     },
     "www.ilobby.com": {
-        "url": "https://www.ilobby.com/"
+        "url": "https://www.ilobby.com/",
+        "nature": "list of projects"
     },
     "lobbyguard.com": {
-        "url": "https://lobbyguard.com/what-is-visitor-management/"
+        "url": "https://lobbyguard.com/what-is-visitor-management/",
+        "nature": "list of projects"
     },
     "www.verkada.com": {
-        "url": "https://www.verkada.com/workplace/guest-visitor-management-system"
+        "url": "https://www.verkada.com/workplace/guest-visitor-management-system",
+        "nature": "list of projects"
     },
     "www.appspace.com": {
-        "url": "https://www.appspace.com/visitor-management/"
+        "url": "https://www.appspace.com/visitor-management/",
+        "nature": "list of projects"
     },
     "www.360connect.com": {
-        "url": "https://www.360connect.com/product-blog/what-is-a-visitor-management-system/"
+        "url": "https://www.360connect.com/product-blog/what-is-a-visitor-management-system/",
+        "nature": "list of projects"
     },
     "www.mrisoftware.com": {
-        "url": "https://www.mrisoftware.com/solutions/visitor-management-system/"
+        "url": "https://www.mrisoftware.com/solutions/visitor-management-system/",
+        "nature": "list of projects"
     },
     "www.avigilon.com": {
-        "url": "https://www.avigilon.com/"
+        "url": "https://www.avigilon.com/",
+        "nature": "list of projects"
     },
     "www.iofficecorp.com": {
-        "url": "https://www.iofficecorp.com/solutions/employee-experience/visitor-management-system-software"
+        "url": "https://www.iofficecorp.com/solutions/employee-experience/visitor-management-system-software",
+        "nature": "list of projects"
     },
     "kadence.co": {
-        "url": "https://kadence.co/visitor-management-system/"
+        "url": "https://kadence.co/visitor-management-system/",
+        "nature": "list of projects"
     },
     "getjoan.com": {
-        "url": "https://getjoan.com/visitor-management/"
+        "url": "https://getjoan.com/visitor-management/",
+        "nature": "list of projects"
     },
     "www.trustradius.com": {
-        "url": "https://www.trustradius.com/visitor-management"
+        "url": "https://www.trustradius.com/visitor-management",
+        "nature": "list of projects"
     },
     "www.yarooms.com": {
-        "url": "https://www.yarooms.com/blog/what-is-a-visitor-management-system-and-how-do-you-choose-one"
+        "url": "https://www.yarooms.com/blog/what-is-a-visitor-management-system-and-how-do-you-choose-one",
+        "nature": "list of projects"
     },
     "www.proxyclick.com": {
-        "url": "https://www.proxyclick.com/visitor-management-system"
+        "url": "https://www.proxyclick.com/visitor-management-system",
+        "nature": "list of projects"
     },
     "www.linkedin.com": {
-        "url": "https://www.linkedin.com/pulse/brief-introduction-visitor-management-system-hiplatechnologies"
+        "url": "https://www.linkedin.com/pulse/brief-introduction-visitor-management-system-hiplatechnologies",
+        "nature": "list of projects"
     },
     "robinpowered.com": {
-        "url": "https://robinpowered.com/platform/visitor-management"
+        "url": "https://robinpowered.com/platform/visitor-management",
+        "nature": "list of projects"
     },
     "www.savanceworkplace.com": {
-        "url": "https://www.savanceworkplace.com/visitor-management/"
+        "url": "https://www.savanceworkplace.com/visitor-management/",
+        "nature": "list of projects"
     },
     "www.kastle.com": {
-        "url": "https://www.kastle.com/solutions/visitor-management/"
+        "url": "https://www.kastle.com/solutions/visitor-management/",
+        "nature": "list of projects"
     },
     "eptura.com": {
-        "url": "https://eptura.com/our-platform/visitor-management-system/"
+        "url": "https://eptura.com/our-platform/visitor-management-system/",
+        "nature": "list of projects"
     },
     "www.gettactic.com": {
-        "url": "https://www.gettactic.com/visitor-management-system/"
+        "url": "https://www.gettactic.com/visitor-management-system/",
+        "nature": "list of projects"
     },
     "www.thresholdsecurity.com": {
-        "url": "https://www.thresholdsecurity.com/"
+        "url": "https://www.thresholdsecurity.com/",
+        "nature": "Invalid: The URL provided is not accessible or valid."
     },
     "gobright.com": {
-        "url": "https://gobright.com/products/visitor-management-system/"
+        "url": "https://gobright.com/products/visitor-management-system/",
+        "nature": "list of projects"
     },
     "www.condecosoftware.com": {
-        "url": "https://www.condecosoftware.com/solutions/visitor-management/"
+        "url": "https://www.condecosoftware.com/solutions/visitor-management/",
+        "nature": "list of projects"
     }
 }
