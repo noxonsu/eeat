@@ -29,7 +29,8 @@ import os
 from utils import *
 
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
-ADDITIONAL_INFO = os.environ.get('ADDITIONAL_INFO','')
+
+ADDITIONAL_INFO_FOR_FILTERING_PROJECTS = os.environ.get('ADDITIONAL_INFO_FOR_FILTERING_PROJECTS','')
 SERP_PRICES_EXT = os.getenv('SERP_PRICES_EXT')
 BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
 SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-1106')
@@ -77,7 +78,7 @@ In additional detrmine such information
 2. Their usecases  
 3. Their solutions. 
 4. """+clusterized_features_list_f+""""
-5. """+ADDITIONAL_INFO+"""?
+5. """+ADDITIONAL_INFO_FOR_FILTERING_PROJECTS+"""?
                                                                 
 The goal is to provide an objective view of each product offerings, highlighting both strengths and potential areas for improvement. Provide the results in JSON format."""
 
@@ -151,7 +152,7 @@ def get_company_details(company):
     
 
 def main():
-    
+    print ("Starting the 5analyseProduct.py script...")
     summaries = load_from_json_file("1companies.json", "data/" + INDUSTRY_KEYWORD)
     
     # Filter the summaries to get only those with nature "single project"
@@ -178,6 +179,7 @@ def main():
             summaries[company]['5prompt_Hash'] = prompt_hash
             save_to_json_file(summaries, "1companies.json", "data/" + INDUSTRY_KEYWORD)
 
+    print("Finished processing all companies in 5analyseProduct.py")
 
 if __name__ == "__main__":
     main()

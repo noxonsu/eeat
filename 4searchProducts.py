@@ -28,7 +28,7 @@ def findOfficialDomain(serp, project_name):
     
     chat = ChatOpenAI(temperature=0, model_name=BASE_GPTV,openai_api_key=OPENAI_API_KEY)
     messages = [
-        SystemMessage(content="Analyse SERP and find the official domain URL (frontpoage only) of the project named '"+project_name+"'. Return only url starts with https://. If not found or or is not frontpage return 'Not found' or 'Not frontpage''"),
+        SystemMessage(content="Analyse SERP and find the official domain URL (frontpage only) of the project named '"+project_name+"'. Return only url starts with https://. If not found return 'Not found'"),
         HumanMessage(content=f" {serp} \n\n The official url is: ")
     ]
 
@@ -51,7 +51,6 @@ def search_google(nameOfProject):
     params = {
         "engine": "google",
         "q": nameOfProject,
-        'gl': 'us',
         'hl': 'en',
         'num': 20,
         "api_key": SERPAPI_KEY,
@@ -122,13 +121,14 @@ def main():
             else:
                 companies[domain]['url'] = url
                 companies[domain]['cached_url'] = cashed
+                companies[domain]['nature'] = "single project" # Set the nature to "single project"
                 if ('sourcekeyword' in companies[domain] and companies[domain]['sourcekeyword'] != name_project):
                     companies[domain]['sourcekeyword'] = companies[domain]['sourcekeyword'] + ", " + name_project
                     print("multiple sourcekeyword")
                 else:
                     companies[domain]['sourcekeyword'] = name_project
         else:
-            print("Not found")
+            print("Not found",url)
             # remove from products
             product_names.remove(name_project)
             # save to products.json

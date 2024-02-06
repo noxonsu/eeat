@@ -1,71 +1,97 @@
 {
     "sell.amazon.com": {
-        "url": "https://sell.amazon.com/blog/brand-analytics",
-        "nature": "list of projects"
+        "url": "https://sell.amazon.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Brand Analytics:  Brand Analytics"
     },
     "www.sellerapp.com": {
-        "url": "https://www.sellerapp.com/blog/amazon-brand-analytics/",
-        "nature": "list of projects"
+        "url": "https://www.sellerapp.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "SellerApp:  Amazon PPC Tool"
     },
     "brandanalytics.ru": {
         "url": "https://brandanalytics.ru/en_RU/",
         "nature": "list of projects"
     },
     "www.zonguru.com": {
-        "url": "https://www.zonguru.com/blog/amazon-brand-analytics",
-        "nature": "list of projects"
+        "url": "https://www.zonguru.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "ZonGuru:  Amazon Brand Analytics"
     },
     "www.kantar.com": {
-        "url": "https://www.kantar.com/expertise/analytics/brand-analytics",
-        "nature": "list of projects"
+        "url": "https://www.kantar.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Kantar:  BrandStructures"
     },
     "www.sellzone.com": {
-        "url": "https://www.sellzone.com/amazon-brand-analytics/",
-        "nature": "list of projects"
+        "url": "https://www.sellzone.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Sellzone:  Amazon Brand Analytics"
     },
     "sarasanalytics.com": {
-        "url": "https://sarasanalytics.com/blog/amazon-brand-analytics/",
-        "nature": "list of projects"
+        "url": "https://sarasanalytics.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Sarasanalytics:  Daton"
     },
     "www.synthesio.com": {
-        "url": "https://www.synthesio.com/glossary/brand-analytics/",
-        "nature": "list of projects"
+        "url": "https://www.synthesio.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Synthesio:  Social Intelligence Suite"
     },
     "www.linkedin.com": {
         "url": "https://www.linkedin.com/pulse/ultimate-guide-amazon-brand-analytics-2023-enhance-your-m-muhammad",
         "nature": "list of projects"
     },
     "www.reasonautomation.com": {
-        "url": "https://www.reasonautomation.com/content/amazon-brand-analytics-api",
-        "nature": "list of projects"
+        "url": "https://www.reasonautomation.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Reason Automation LLC:  Amazon Brand Analytics API"
     },
     "literalhumans.com": {
-        "url": "https://literalhumans.com/brand-analytics/",
-        "nature": "list of projects"
+        "url": "https://literalhumans.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "LiteralHumans:  Brand Analytics"
     },
     "www.bebolddigital.com": {
-        "url": "https://www.bebolddigital.com/blog/amazon-brand-analytics-explained",
-        "nature": "list of projects"
+        "url": "https://www.bebolddigital.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "beBOLD Digital:  Amazon Account Management"
     },
     "blog.openbridge.com": {
         "url": "https://blog.openbridge.com/amazon-brand-analytics-search-terms-untapped-potential-7a3e4e0a39a3",
         "nature": "list of projects"
     },
     "www.sellerlabs.com": {
-        "url": "https://www.sellerlabs.com/blog/amazon-brand-analytics/",
-        "nature": "list of projects"
+        "url": "https://www.sellerlabs.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Seller Labs:  Data Warehouse"
     },
     "eva.guru": {
         "url": "https://eva.guru/blog/amazon-brand-analytics-eva/",
         "nature": "list of projects"
     },
     "www.iqvia.com": {
-        "url": "https://www.iqvia.com/locations/united-states/library/fact-sheets/iqvia-brand-analytics-platform",
-        "nature": "list of projects"
+        "url": "https://www.iqvia.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "IQVIA:  Brand Analytics Platform"
     },
     "epinium.com": {
-        "url": "https://epinium.com/en/blog/amazon-brand-analytics-tool-2023/",
-        "nature": "list of projects"
+        "url": "https://epinium.com/en/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Epinium:  Amazon Brand Analytics Tool"
     },
     "www.nozzle.ai": {
         "url": "https://www.nozzle.ai/resources/mastering-amazon-brand-analytics-ebook",
@@ -76,12 +102,16 @@
         "nature": "list of projects"
     },
     "www.page.one": {
-        "url": "https://www.page.one/blog/amazon-brand-analytics-overview/",
-        "nature": "list of projects"
+        "url": "https://www.page.one/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Page.One:  Amazon Brand Analytics"
     },
     "www.goatconsulting.com": {
-        "url": "https://www.goatconsulting.com/amazon-analytics/brand-analytics-demographic-report-on-amazon-seller-central",
-        "nature": "list of projects"
+        "url": "https://www.goatconsulting.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "GoatConsulting:  Amazon Brand Analytics Demographic Report on Amazon Seller Central"
     },
     "www.ecomcrew.com": {
         "url": "https://www.ecomcrew.com/amazon-brand-analytics/",
@@ -92,15 +122,29 @@
         "nature": "list of projects"
     },
     "www.gorillaroi.com": {
-        "url": "https://www.gorillaroi.com/blog/amazon-brand-analytics/",
-        "nature": "list of projects"
+        "url": "https://www.gorillaroi.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "GorillaROI:  Seller Central Data"
     },
     "profitwhales.com": {
-        "url": "https://profitwhales.com/archives/articles/how-use-amazon-brand-analytics",
-        "nature": "list of projects"
+        "url": "https://profitwhales.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "ProfitWhales:  Amazon PPC Management"
     },
     "pixelfy.me": {
         "url": "https://pixelfy.me/blog/brand-analytics-dashboard/",
         "nature": "Invalid: The URL provided is not accessible, and the content of the article is not available."
+    },
+    "www.evaair.com": {
+        "url": "https://www.evaair.com/",
+        "cached_url": "not found",
+        "sourcekeyword": "Eva:  Amazon Brand Analytics"
+    },
+    "brandanalytics.amazon.com": {
+        "url": "https://brandanalytics.amazon.com/",
+        "cached_url": "not found",
+        "sourcekeyword": "Amazon:  Brand Analytics"
     }
 }

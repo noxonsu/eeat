@@ -1,0 +1,16 @@
+Instructions for Assistant to Analyze brand analytics Products
+
+Objective: To determine the critical characteristics or features of the chosen brand analytics that may be important to consumers.
+
+Preparation:
+For each service, list down how they fare in each of the criteria.
+
+In additional detrmine such information
+1. Call to action - 'talk to a manager', 'book a demo', 'talk to team', sign up etc.
+2. Their usecases  
+3. Their solutions. 
+4. Key features according to optimized feature list: Brand Analytics: 
+ {}"
+5. Analysis of market trends, consumer behavior, and brand performance metrics to improve brand strategy and marketing efforts.?
+                                                                
+The goal is to provide an objective view of each product offerings, highlighting both strengths and potential areas for improvement. Provide the results in JSON format.

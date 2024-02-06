@@ -65,6 +65,7 @@ def process_domain_data(domain, domain_data):
 
 
 def main():
+    print("Starting the 3searchPrices.py script...")
     # Load data
     data = load_from_json_file("1companies.json", DATA_FOLDER)
     # Filter only data with nature=single project and not yet crawled
