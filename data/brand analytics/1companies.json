@@ -1,80 +1,106 @@
 {
     "sell.amazon.com": {
-        "url": "https://sell.amazon.com/blog/brand-analytics"
+        "url": "https://sell.amazon.com/blog/brand-analytics",
+        "nature": "list of projects"
     },
     "www.sellerapp.com": {
-        "url": "https://www.sellerapp.com/blog/amazon-brand-analytics/"
+        "url": "https://www.sellerapp.com/blog/amazon-brand-analytics/",
+        "nature": "list of projects"
     },
     "brandanalytics.ru": {
-        "url": "https://brandanalytics.ru/en_RU/"
+        "url": "https://brandanalytics.ru/en_RU/",
+        "nature": "list of projects"
     },
     "www.zonguru.com": {
-        "url": "https://www.zonguru.com/blog/amazon-brand-analytics"
+        "url": "https://www.zonguru.com/blog/amazon-brand-analytics",
+        "nature": "list of projects"
     },
     "www.kantar.com": {
-        "url": "https://www.kantar.com/expertise/analytics/brand-analytics"
+        "url": "https://www.kantar.com/expertise/analytics/brand-analytics",
+        "nature": "list of projects"
     },
     "www.sellzone.com": {
-        "url": "https://www.sellzone.com/amazon-brand-analytics/"
+        "url": "https://www.sellzone.com/amazon-brand-analytics/",
+        "nature": "list of projects"
     },
     "sarasanalytics.com": {
-        "url": "https://sarasanalytics.com/blog/amazon-brand-analytics/"
+        "url": "https://sarasanalytics.com/blog/amazon-brand-analytics/",
+        "nature": "list of projects"
     },
     "www.synthesio.com": {
-        "url": "https://www.synthesio.com/glossary/brand-analytics/"
+        "url": "https://www.synthesio.com/glossary/brand-analytics/",
+        "nature": "list of projects"
     },
     "www.linkedin.com": {
-        "url": "https://www.linkedin.com/pulse/ultimate-guide-amazon-brand-analytics-2023-enhance-your-m-muhammad"
+        "url": "https://www.linkedin.com/pulse/ultimate-guide-amazon-brand-analytics-2023-enhance-your-m-muhammad",
+        "nature": "list of projects"
     },
     "www.reasonautomation.com": {
-        "url": "https://www.reasonautomation.com/content/amazon-brand-analytics-api"
+        "url": "https://www.reasonautomation.com/content/amazon-brand-analytics-api",
+        "nature": "list of projects"
     },
     "literalhumans.com": {
-        "url": "https://literalhumans.com/brand-analytics/"
+        "url": "https://literalhumans.com/brand-analytics/",
+        "nature": "list of projects"
     },
     "www.bebolddigital.com": {
-        "url": "https://www.bebolddigital.com/blog/amazon-brand-analytics-explained"
+        "url": "https://www.bebolddigital.com/blog/amazon-brand-analytics-explained",
+        "nature": "list of projects"
     },
     "blog.openbridge.com": {
-        "url": "https://blog.openbridge.com/amazon-brand-analytics-search-terms-untapped-potential-7a3e4e0a39a3"
+        "url": "https://blog.openbridge.com/amazon-brand-analytics-search-terms-untapped-potential-7a3e4e0a39a3",
+        "nature": "list of projects"
     },
     "www.sellerlabs.com": {
-        "url": "https://www.sellerlabs.com/blog/amazon-brand-analytics/"
+        "url": "https://www.sellerlabs.com/blog/amazon-brand-analytics/",
+        "nature": "list of projects"
     },
     "eva.guru": {
-        "url": "https://eva.guru/blog/amazon-brand-analytics-eva/"
+        "url": "https://eva.guru/blog/amazon-brand-analytics-eva/",
+        "nature": "list of projects"
     },
     "www.iqvia.com": {
-        "url": "https://www.iqvia.com/locations/united-states/library/fact-sheets/iqvia-brand-analytics-platform"
+        "url": "https://www.iqvia.com/locations/united-states/library/fact-sheets/iqvia-brand-analytics-platform",
+        "nature": "list of projects"
     },
     "epinium.com": {
-        "url": "https://epinium.com/en/blog/amazon-brand-analytics-tool-2023/"
+        "url": "https://epinium.com/en/blog/amazon-brand-analytics-tool-2023/",
+        "nature": "list of projects"
     },
     "www.nozzle.ai": {
-        "url": "https://www.nozzle.ai/resources/mastering-amazon-brand-analytics-ebook"
+        "url": "https://www.nozzle.ai/resources/mastering-amazon-brand-analytics-ebook",
+        "nature": "list of projects"
     },
     "docs.openbridge.com": {
-        "url": "https://docs.openbridge.com/en/articles/6255799-troubleshooting-amazon-brand-analytics-permissions"
+        "url": "https://docs.openbridge.com/en/articles/6255799-troubleshooting-amazon-brand-analytics-permissions",
+        "nature": "list of projects"
     },
     "www.page.one": {
-        "url": "https://www.page.one/blog/amazon-brand-analytics-overview/"
+        "url": "https://www.page.one/blog/amazon-brand-analytics-overview/",
+        "nature": "list of projects"
     },
     "www.goatconsulting.com": {
-        "url": "https://www.goatconsulting.com/amazon-analytics/brand-analytics-demographic-report-on-amazon-seller-central"
+        "url": "https://www.goatconsulting.com/amazon-analytics/brand-analytics-demographic-report-on-amazon-seller-central",
+        "nature": "list of projects"
     },
     "www.ecomcrew.com": {
-        "url": "https://www.ecomcrew.com/amazon-brand-analytics/"
+        "url": "https://www.ecomcrew.com/amazon-brand-analytics/",
+        "nature": "list of projects"
     },
     "www.bidx.io": {
-        "url": "https://www.bidx.io/blog/brand-analytics"
+        "url": "https://www.bidx.io/blog/brand-analytics",
+        "nature": "list of projects"
     },
     "www.gorillaroi.com": {
-        "url": "https://www.gorillaroi.com/blog/amazon-brand-analytics/"
+        "url": "https://www.gorillaroi.com/blog/amazon-brand-analytics/",
+        "nature": "list of projects"
     },
     "profitwhales.com": {
-        "url": "https://profitwhales.com/archives/articles/how-use-amazon-brand-analytics"
+        "url": "https://profitwhales.com/archives/articles/how-use-amazon-brand-analytics",
+        "nature": "list of projects"
     },
     "pixelfy.me": {
-        "url": "https://pixelfy.me/blog/brand-analytics-dashboard/"
+        "url": "https://pixelfy.me/blog/brand-analytics-dashboard/",
+        "nature": "Invalid: The URL provided is not accessible, and the content of the article is not available."
     }
 }
