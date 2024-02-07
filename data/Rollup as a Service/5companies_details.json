@@ -1,0 +1,878 @@
+{
+    "www.alchemy.com": {
+        "RollupAsAService": {
+            "CallToAction": "Get your API key",
+            "UseCases": [
+                "On-chain gaming",
+                "DeFi applications",
+                "Consumer & enterprise protocols"
+            ],
+            "Solutions": "RaaS offers a layer of abstraction over Rollup frameworks and SDKs to make it easy to deploy, maintain, and build on top of custom, production-grade application-specific rollups (AppRollups). RaaS empowers developers to focus on building the application layer, turning what used to take multiple engineers dozens of hours into a 10 minute no-code deployment process.",
+            "KeyFeatures": [
+                "Fast, consistent push notifications with Webhooks",
+                "Real-time data for custom events with Custom Webhooks",
+                "Blockchain connection for ongoing data with Smart Websockets",
+                "Speedy indexing for custom GraphQL APIs with Subgraphs",
+                "Send transactions 7.9x faster with Transact",
+                "Complete transaction history in one call with Transfers API",
+                "Transaction previews for any use case with Transaction Simulation",
+                "Zero-friction onboarding with Account Kit",
+                "Cover gas costs for your users with Gas Manager API",
+                "Reliably land UserOps onchain with Bundler API",
+                "Open-source ERC-4337 SDK with AA SDK"
+            ],
+            "ProjectForCreatingRollup": "An example of a project that can help create a rollup or own EVM blockchain is the Rollup SDKs, which are frameworks for developers to build customized rollups from scratch. Popular rollup SDK providers include Arbitrum Orbit, the OP Stack, and Rollkit."
+        }
+    },
+    "www.binance.com": {
+        "rollup_services": [
+            {
+                "name": "Conduit",
+                "call_to_action": "Talk to a manager",
+                "usecases": [
+                    "Launching OP Stack rollups",
+                    "Support for Arbitrum Orbit"
+                ],
+                "solutions": "Helping launch rollups such as Zora Network, Mode, Public Goods Network, and Ancient8 Chain",
+                "key_features": "Rollup management, no-code deployment"
+            },
+            {
+                "name": "Caldera",
+                "call_to_action": "Book a demo",
+                "usecases": [
+                    "Helping launch optimistic rollups"
+                ],
+                "solutions": "Focused on optimistic rollups",
+                "key_features": "Rollup management, deployment support"
+            },
+            {
+                "name": "AltLayer",
+                "call_to_action": "Talk to team",
+                "usecases": [
+                    "Innovative Flash Layers - disposable app-specific rollups"
+                ],
+                "solutions": "Disposable app-specific rollups for excess user demand",
+                "key_features": "Temporary rollup deployment, scalability support"
+            },
+            {
+                "name": "Gelato",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Zero-knowledge and optimistic rollups"
+                ],
+                "solutions": "Web3 infrastructure provider with RaaS offering",
+                "key_features": "Zero-knowledge and optimistic rollup support, infrastructure services"
+            },
+            {
+                "name": "Lumoz",
+                "call_to_action": "Talk to team",
+                "usecases": [
+                    "Exclusive focus on zero-knowledge rollups"
+                ],
+                "solutions": "Specializes in zero-knowledge rollups with hybrid consensus mechanism",
+                "key_features": "Hybrid consensus mechanism, zero-knowledge rollup expertise"
+            }
+        ],
+        "project_for_rollup_creation": "Ethereum Virtual Machine (EVM) blockchain can be used to create a rollup or own EVM blockchain."
+    },
+    "www.zeeve.io": {
+        "rollup_as_a_service_products": [
+            {
+                "name": "Rollups as a Service",
+                "call_to_action": "Contact for a demo",
+                "usecases": [
+                    "Building custom Rollup chains",
+                    "Migrating from existing infrastructure to Rollup-based ecosystem",
+                    "Improving scalability for Layer-1 and Layer-2 networks",
+                    "Launching Rollups for existing web3 projects"
+                ],
+                "solutions": "Comprehensive stack for building, deploying, and maintaining custom Rollup chains and AppRollups in a less complex and hassle-free way",
+                "key_features": [
+                    "Abstraction layer over complex Rollup launch process",
+                    "Customization of Rollup chains",
+                    "Seamless integration of tools and frameworks",
+                    "Monitoring and maintenance services",
+                    "Scalability and upgrade options"
+                ]
+            },
+            {
+                "name": "AppChains Infrastructure",
+                "call_to_action": "Book a demo",
+                "usecases": [
+                    "Launching generic and application-specific Rollups",
+                    "Quick development and launch of Rollup chains",
+                    "24/7 monitoring and alerts for Rollup chains"
+                ],
+                "solutions": "Support for all kinds of Rollups implementations for Layer-1 blockchain scaling",
+                "key_features": [
+                    "Support for generic and application-specific Rollups",
+                    "Quick development and launch",
+                    "24/7 monitoring and alerts"
+                ]
+            },
+            {
+                "name": "Hosted Subgraphs",
+                "call_to_action": "Talk to team",
+                "usecases": [
+                    "Seamless migration of blockchain infrastructure to a Rollup-based ecosystem",
+                    "Custom Rollup chain matching specific use-case standards"
+                ],
+                "solutions": "Facilitates seamless migration of blockchain infrastructure to a Rollup-based ecosystem",
+                "key_features": [
+                    "Customizable modules and templates",
+                    "Seamless migration of blockchain infrastructure",
+                    "Real-time dashboard for performance monitoring"
+                ]
+            },
+            {
+                "name": "Dedicated Node Infrastructure",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Scalable nodes and dedicated APIs for retrieving blockchain data",
+                    "Flexible cloud deployment options"
+                ],
+                "solutions": "Enterprise-grade infrastructure for launching custom application-specific Rollups",
+                "key_features": [
+                    "Scalable nodes and dedicated APIs",
+                    "Flexible cloud deployment options",
+                    "Real-time dashboard for performance monitoring"
+                ]
+            },
+            {
+                "name": "Staking Infrastructure",
+                "call_to_action": "Contact for a demo",
+                "usecases": [
+                    "One-click deployment of node infrastructure on Provenance Blockchain",
+                    "Enhanced integration for efficient issuance and management"
+                ],
+                "solutions": "One-click deployment of node infrastructure on Provenance Blockchain",
+                "key_features": [
+                    "One-click deployment of node infrastructure",
+                    "Enhanced integration for efficient issuance and management"
+                ]
+            }
+        ],
+        "project_for_creating_rollup_or_own_evm_blockchain": "A project that can help create a rollup or own EVM blockchain is Zeeve's Rollups-as-a-Service platform, which provides a comprehensive stack for building, deploying, and maintaining custom Rollup chains and AppRollups in a less complex and hassle-free way."
+    },
+    "www.ankr.com": {
+        "rollup_as_a_service_providers": {
+            "Ankr": {
+                "call_to_action": "Talk to a manager",
+                "usecases": [
+                    "Quick launch of dedicated rollup or sidechain",
+                    "Web3 API for building with high-performance Multichain RPC services",
+                    "Staking assets or integrating Liquid Staking into projects",
+                    "Automating smart contract functions with time or custom logic triggers",
+                    "Scaling services for launching dedicated rollup or sidechain fast"
+                ],
+                "solutions": "Ankr provides a platform for developers to deploy and manage their own custom rollups, offering rollup infrastructure, development tools, security and auditing, engineering services, and ongoing support.",
+                "key_features": [
+                    "High-performance Multichain RPC services",
+                    "Staking and Liquid Staking integration",
+                    "Automated smart contract functions",
+                    "Fast launch of dedicated rollup or sidechain",
+                    "Comprehensive development tools and support"
+                ]
+            }
+        },
+        "project_for_creating_rollup_or_own_EVM_blockchain": "A project that can help create a rollup or own EVM blockchain is 'Caldera', which is a Rollup-as-a-Service provider.",
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "Quick launch": {
+                    "Web3 API": "Not found",
+                    "Staking": "Not found",
+                    "Scalable Services": "Not found",
+                    "Automate": "Not found",
+                    "Block Explorer": "Not found"
+                },
+                "Affordable Pricing Model": {
+                    "description": "Ankr provides high-performance RPC services with a predictable pay-as-you-go pricing model.",
+                    "Pricing": {
+                        "Premium RPC Plans": "Much more predictable, powerful, and affordable pricing per request method with pay-as-you-go option",
+                        "Pay-As-You-Go per RPC request": "Ensures no overpayment from a subscription",
+                        "API Credits": "Pegged to USD with an option to pay in crypto, with no set monthly cost or additional fees",
+                        "Developer-First Pricing": "Competitive rates across all supported chains with a model that shares all RPC revenue with independent node providers"
+                    }
+                },
+                "Payment Methods": {
+                    "description": "Ankr offers easy payment methods for users, including logging in via Google, paying with credit cards, and creating an account with MetaMask.",
+                    "Google Authentication": "Create an account and log in with Google authentication",
+                    "Credit Card Payments": "Accepted with an option to access all features of Google",
+                    "MetaMask Integration": "Users can create an account with MetaMask and use credit cards as a payment method"
+                }
+            }
+        }
+    },
+    "www.blockchainappfactory.com": {
+        "rollup_as_a_service_provider": "Blockchain App Factory",
+        "call_to_action": "Connect with Whatsapp",
+        "usecases": [
+            "Blockchain-native projects",
+            "Web3 ventures"
+        ],
+        "solutions": [
+            "Optimistic Rollups-as-a-Service",
+            "ZK Rollups-as-a-Service",
+            "Sidechain-as-a-Service"
+        ],
+        "key_features": {
+            "increased_scalability": "Use RaaS solution for infinitely scalable layer-2 blockchain infrastructure",
+            "reduced_fees": "Offer cheaper transactions and better experiences to users through batch-processing mechanisms off-chain",
+            "customization": "Tailor the roll-up solution to fit business needs for supporting unique smart contracts, transaction types, and token standards",
+            "market_capture": "Use own roll-up solution backed by infrastructure to capture the market through various revenue and community-building options"
+        },
+        "project_for_rollup_creation": "EVM Compatible Blockchain and Service"
+    },
+    "docs.gelato.network": {
+        "product_name": "Gelato Rollup-as-a-Service (RaaS)",
+        "call_to_action": "Follow our simple Getting Started guide to launch your Layer-2 Chains with Gelato.",
+        "usecases": [
+            "Deployment, monitoring, and management of Ethereum rollups",
+            "Building and deploying fully serviced Layer 2 chains",
+            "Integrating with Gelato's industry-leading Web3 middleware services",
+            "Creating high-volume applications with low transaction fees",
+            "Creating secure financial applications for institutions"
+        ],
+        "solutions": [
+            "Deployment, monitoring, and management of Ethereum rollups",
+            "Native integrations with Gelato's industry-leading Web3 middleware services",
+            "Modular architecture for improved performance and customization",
+            "Natively integrated tools and services for end-to-end L2 infrastructure",
+            "Multi-cloud and globally distributed infrastructure for high reliability"
+        ],
+        "key_features": {
+            "Easy to deploy": "Intuitive UI enabling no-code deployment, monitoring, and management of Ethereum rollups",
+            "Modularity & Performance": "Modular architecture that significantly improves performance and customization",
+            "Natively Integrated Tools & Services": "Integration with favorite Web3 tools and services, providing an end-to-end integrated L2 infrastructure",
+            "High Reliability & Multi-Cloud": "Multi-cloud and globally distributed infrastructure designed for high availability and fault tolerance"
+        },
+        "related_project": "Optimism, a layer 2 scaling solution for Ethereum, can help create a rollup or own EVM blockchain."
+    },
+    "moralis.io": {
+        "rollups_as_a_service": {
+            "ZK Stack": {
+                "description": "Cutting-edge ZK rollup framework empowering users with complete control over data availability layer and efficient gas token utilization.",
+                "call_to_action": "Learn more",
+                "use_cases": [
+                    "Seamless gas token utilization",
+                    "Efficient sequencing"
+                ],
+                "solutions": [
+                    "Complete control over data availability layer",
+                    "Efficient gas token utilization",
+                    "Seamless sequencing"
+                ],
+                "key_features": [
+                    "ZK rollup framework",
+                    "Complete control over data availability layer",
+                    "Efficient gas token utilization",
+                    "Seamless sequencing"
+                ]
+            },
+            "OP Stack": {
+                "description": "Ingenious code fueling OP Mainnet and Superchain, offering a modular and flexible framework for seamless operation.",
+                "call_to_action": "Learn more",
+                "use_cases": [
+                    "Fueling OP Mainnet and Superchain",
+                    "Modular and flexible framework"
+                ],
+                "solutions": [
+                    "Fueling OP Mainnet and Superchain",
+                    "Modular and flexible framework"
+                ],
+                "key_features": [
+                    "Modular and flexible framework",
+                    "Seamless operation",
+                    "Ingenious code"
+                ]
+            },
+            "Caldera": {
+                "description": "Simplifies the process of initiating efficient and adaptable Arbitrum Orbit and OP Stack rollups, enabling seamless deployment.",
+                "call_to_action": "Learn more",
+                "use_cases": [
+                    "Efficient and adaptable rollups",
+                    "Seamless deployment"
+                ],
+                "solutions": [
+                    "Efficient and adaptable rollups",
+                    "Seamless deployment"
+                ],
+                "key_features": [
+                    "Efficient and adaptable rollups",
+                    "Seamless deployment",
+                    "Simplified initiation process"
+                ]
+            },
+            "Conduit": {
+                "description": "Easily deploy fully functional OP stack rollups within minutes using the exclusive self-service RaaS platform.",
+                "call_to_action": "Learn more",
+                "use_cases": [
+                    "Rapid deployment of fully functional rollups"
+                ],
+                "solutions": [
+                    "Rapid deployment of fully functional rollups"
+                ],
+                "key_features": [
+                    "Exclusive self-service RaaS platform",
+                    "Rapid deployment of rollups"
+                ]
+            },
+            "AltLayer": {
+                "description": "Cutting-edge protocol designed to empower developers in launching appchains through a decentralized and elastic approach.",
+                "call_to_action": "Learn more",
+                "use_cases": [
+                    "Empowering developers in launching appchains"
+                ],
+                "solutions": [
+                    "Decentralized and elastic approach to appchain deployment"
+                ],
+                "key_features": [
+                    "Decentralized and elastic approach",
+                    "Empowerment of developers",
+                    "Cutting-edge protocol"
+                ]
+            },
+            "Vistara": {
+                "description": "Revolutionizes the deployment of rollups with just a single click, offering seamless design and oversight of scalable infrastructure.",
+                "call_to_action": "Learn more",
+                "use_cases": [
+                    "Revolutionizing rollup deployment",
+                    "Seamless design and oversight of scalable infrastructure"
+                ],
+                "solutions": [
+                    "Revolutionizing rollup deployment",
+                    "Seamless design and oversight of scalable infrastructure"
+                ],
+                "key_features": [
+                    "Single-click deployment",
+                    "Scalable infrastructure design",
+                    "Revolutionary deployment approach"
+                ]
+            },
+            "Snapchain": {
+                "description": "Harnesses the potential of ZK Rollups to efficiently and securely expand the scalability of on-chain gaming or DeFi applications at minimal cost.",
+                "call_to_action": "Learn more",
+                "use_cases": [
+                    "Scalability expansion for gaming and DeFi applications"
+                ],
+                "solutions": [
+                    "Efficient and secure scalability expansion",
+                    "Minimal cost implementation"
+                ],
+                "key_features": [
+                    "ZK Rollup utilization",
+                    "Efficient scalability expansion",
+                    "Secure application expansion"
+                ]
+            },
+            "Alembic": {
+                "description": "Empowers users to create and manage a diverse range of games and applications leveraging the robust capabilities of Cometh.",
+                "call_to_action": "Learn more",
+                "use_cases": [
+                    "Diverse game and application creation and management"
+                ],
+                "solutions": [
+                    "Leveraging robust capabilities of Cometh",
+                    "Diverse project creation and management"
+                ],
+                "key_features": [
+                    "Robust capabilities of Cometh",
+                    "Diverse project management",
+                    "Empowerment of users"
+                ]
+            },
+            "Saga": {
+                "description": "Revolutionizes the way dedicated blockspace is deployed, offering a cutting-edge Web3 scalability protocol.",
+                "call_to_action": "Learn more",
+                "use_cases": [
+                    "Revolutionizing blockspace deployment",
+                    "Cutting-edge scalability protocol"
+                ],
+                "solutions": [
+                    "Revolutionizing blockspace deployment",
+                    "Cutting-edge scalability protocol"
+                ],
+                "key_features": [
+                    "Cutting-edge scalability protocol",
+                    "Revolutionary blockspace deployment"
+                ]
+            }
+        },
+        "project_for_rollup_creation": "A project that can help create a rollup or own EVM blockchain is a framework that provides complete control over the data availability layer, efficient gas token utilization, and seamless sequencing. This project should offer modular and flexible frameworks for seamless operation, simplification of rollup initiation, rapid deployment of fully functional rollups, decentralized and elastic approaches to appchain deployment, single-click deployment of rollups, efficient scalability expansion for gaming and DeFi applications, empowerment of users to create and manage diverse games and applications, and a cutting-edge Web3 scalability protocol for blockspace deployment."
+    },
+    "www.caldera.xyz": {
+        "Rollup_as_a_Service": {
+            "call_to_action": "Book Demo",
+            "usecases": [
+                "Seamless rollup deployment",
+                "Powerful developer tooling",
+                "Reliable infrastructure for Web3 projects"
+            ],
+            "solutions": "Caldera provides a one-click deployment for rollups such as OP Stack, Arbitrum Orbit, and Polygon CDK. It offers infrastructure hosting, developer tools, and reliable support for Web3 projects.",
+            "key_features": {
+                "block_explorer": "View and analyze transaction history and state",
+                "bridge_ui": "Bridge assets to-and-from your chain on demand",
+                "automatic_monitoring": "Automatically report chain downtime and other alerts",
+                "developer_tools": "Access to SDKs across the Thirdweb product suite",
+                "faucets": "Test with your Caldera chain\u2019s native cryptocurrency token",
+                "hub_page": "Shareable page with access to all essential user-facing tooling",
+                "self_hosting": "Optionally run your own archive or verifier nodes",
+                "verifiers": "Ensure the chain is running correctly"
+            },
+            "project_for_rollup_creation": "A project that can help create a rollup or own EVM blockchain is Ethereum"
+        }
+    },
+    "www.gelato.network": {
+        "rollup_as_a_service": {
+            "call_to_action": "Book a demo or deploy a rollup",
+            "usecases": [
+                "Ecosystems",
+                "DeFi",
+                "Enterprise",
+                "Retail",
+                "Gaming"
+            ],
+            "solutions": [
+                "Automate smart contract executions",
+                "Relay gasless transactions for better UX",
+                "Web3 Functions to connect real-world APIs to Web3",
+                "VRF for verifiable randomness for smart contracts"
+            ],
+            "key_features": [
+                "Fully serviced and integrated L2 chains as of Day 1",
+                "Turnkey solutions with all the essentials and more",
+                "Fully managed, highly available rollup infrastructure",
+                "Effortlessly manage Rollups with battle-tested infra stack",
+                "Infrastructure integrations",
+                "Verified 3rd party Apps & Services in the RaaS marketplace",
+                "Ethereum-grade availability & guaranteed uptime",
+                "Leverage industry standard web3 services on Rollup",
+                "Generate & monitor revenue from transaction fees",
+                "24/7 monitoring and customer support"
+            ]
+        },
+        "project_for_creating_rollup": "The Polygon CDK rollup framework can help create a rollup or own EVM blockchain.",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.opstack.com": {
+        "RollupAsAService": {
+            "name": "OpStack",
+            "callToAction": "Contact OpStack for a consultation",
+            "usecases": [
+                "Automating operations for infrastructure and applications",
+                "Building and operating trading systems using a hybrid cloud approach"
+            ],
+            "solutions": "OpStack provides a framework and common set of tools to simplify the automation of processes across in-house and cloud infrastructure assets. They also offer a reference infrastructure for leveraging public cloud services to reduce capital investment needed for trading systems.",
+            "keyFeatures": {
+                "Automation": "Streamlined, efficient, and predictable development, deployment, and management of infrastructure and applications",
+                "Security Integration": "Inherent security requirements in infrastructure automation and ongoing operations",
+                "Stack Builder": "Utilizes best available open source languages and components to simplify automation processes",
+                "Notification Integration": "Integration with various notification platforms like Pagerduty, xMatters, E-Mail, Slack, etc.",
+                "Observability": "Integration with observability tools like Splunk, Nagios, CloudWatch, etc.",
+                "Security Tools": "Integration with security tools like Cisco, Nessus, Tripwire, Qualys, etc.",
+                "Cloud and On-Premise Support": "Support for various cloud providers and on-premise infrastructure",
+                "Orchestration": "Utilizes orchestration tools like Ansible, Terraform, Saltstack, Puppet, Kubernetes, EKS, etc.",
+                "Testing": "Support for testing tools like Locust, Selenium, JMeter, etc.",
+                "Source Control": "Integration with source control platforms like Azure DevOps, Github, Gitlab, Bitbucket, etc.",
+                "Scripting": "Support for various scripting languages like Python, Powershell, Java, Go, Perl, Ruby, etc."
+            },
+            "relatedProject": "A project that can help create a rollup or own EVM blockchain is Ethereum"
+        }
+    },
+    "www.eclipse.org": {
+        "rollup_services": [
+            {
+                "name": "Optimism",
+                "criteria": {
+                    "performance": "High throughput and low latency",
+                    "security": "Utilizes Ethereum's security",
+                    "scalability": "Supports high transaction throughput",
+                    "decentralization": "Relies on Ethereum's decentralization",
+                    "cost": "Competitive transaction fees"
+                },
+                "call_to_action": "Book a demo",
+                "usecases": "Scaling Ethereum applications, reducing gas fees, improving user experience",
+                "solutions": "Optimistic Rollup technology, Ethereum Virtual Machine (EVM) compatibility",
+                "key_features": "Fast finality, EVM compatibility, security guarantees"
+            },
+            {
+                "name": "Arbitrum",
+                "criteria": {
+                    "performance": "High throughput and low latency",
+                    "security": "Utilizes Ethereum's security",
+                    "scalability": "Supports high transaction throughput",
+                    "decentralization": "Leverages Ethereum's decentralization",
+                    "cost": "Competitive transaction fees"
+                },
+                "call_to_action": "Talk to a manager",
+                "usecases": "Scaling Ethereum applications, reducing gas fees, improving user experience",
+                "solutions": "Off-chain computation, Ethereum Virtual Machine (EVM) compatibility",
+                "key_features": "Low latency, EVM compatibility, security guarantees"
+            }
+        ],
+        "project_for_rollup_creation": "The Cosmos Network provides a framework for building interoperable, scalable, and customizable blockchains. It can be used to create a rollup or an EVM-compatible blockchain."
+    },
+    "www.hyperlane.xyz": {
+        "Rollup_as_a_Service": {
+            "name": "Hyperlane",
+            "call_to_action": "Start Building",
+            "usecases": [
+                "Launching a blockchain/rollup with rollup provider in a few clicks",
+                "Connecting to any blockchain permissionlessly",
+                "Customizing interchain security model",
+                "Expanding app, chains/rollups, and assets with interchain access"
+            ],
+            "solutions": "Hyperlane is the first interoperability layer that enables permissionless connection to any blockchain, out-of-the-box. It provides modular security stack, economic security, custom ISMs, dynamic security, and various interchain solutions like messaging, deployment, accounts, warp routes, and interchain queries.",
+            "key_features": {
+                "Modular Future": "Enabling launch with built-in interoperability for modular blockchains",
+                "Interchain Highway": "Connecting to any chain without depending on a permissioned platform",
+                "Permissionless Deployment": "Deploying the interoperability stack to any blockchain, anytime",
+                "Warp Routes": "Permissionlessly bridging any token to any chain via Hyperlane",
+                "Interchain Queries": "Querying the state of any contract on any Hyperlane-supported chain"
+            },
+            "project_for_rollup_creation": "A project that can help create a rollup or own EVM blockchain is Ethereum"
+        }
+    },
+    "www.stackrlabs.xyz": {
+        "product_name": "Stackr",
+        "call_to_action": "Join the Community",
+        "usecases": [
+            "Games",
+            "Off-chain multi-nodal networks",
+            "Decentralized Databases",
+            "Permissioned enterprise applications",
+            "Oracles and real world data",
+            "DeFi and NFT applications",
+            "Custom L2s for distributed computing applications"
+        ],
+        "solutions": "Build app-specific rollups on Ethereum in web2 programming languages, implement deterministic state machines for logic in any programming language, and decentralize specific parts of applications on-chain",
+        "key_features": "Micro-rollups, support for web2 programming languages, flexible rollups, decentralized applications, off-chain computation validation",
+        "related_project": "An example of a project that can help create a rollup or own EVM blockchain is Optimistic Ethereum, which is not a rollup but provides a scaling solution for Ethereum by enabling faster and cheaper transactions through optimistic rollups."
+    },
+    "zksync.io": {
+        "rollup_as_a_service": {
+            "name": "zkSync",
+            "call_to_action": "Start building",
+            "usecases": [
+                "Scaling Ethereum with cutting-edge ZK tech",
+                "Bridging assets from Ethereum and other networks to zkSync",
+                "Exchanging fiat currencies for cryptocurrencies using Fiat Onramps"
+            ],
+            "solutions": "Layer-2 protocol that scales Ethereum with ZK technology",
+            "key_features": {
+                "hyperscalability": "Processing an unlimited number of transactions without a marginal impact on security or cost",
+                "security": "Inheriting 100% of Ethereum's security with commitment to go above and beyond to ensure the most secure L2",
+                "game-changing_ux": "Self-custody combined with intuitive, delightful, and security-fostering UX"
+            }
+        },
+        "project_for_creating_rollup_or_own_evm_blockchain": "Optimism"
+    },
+    "supraoracles.com": {
+        "rollup_as_a_service": {
+            "name": "Supra Oracles",
+            "call_to_action": "Join the 400M $SUPRA token airdrop! JOIN NOW",
+            "usecases": [
+                "Upgrade smart contracts with accurate, secure, stable, and fast data feeds",
+                "Build dApps with impossible-to-manipulate VRFs",
+                "Build cross-chain enabled protocols that connect to popular networks seamlessly"
+            ],
+            "solutions": [
+                "Reliable high-speed data feeds with full finality in under 2-3 seconds",
+                "dApps with impossible-to-manipulate VRFs with on-chain proof",
+                "Cross-chain enabled protocols"
+            ],
+            "key_features": {
+                "Data Feeds": "Accurate, secure, stable, and fast",
+                "dVRF": "Impossible-to-manipulate with on-chain proof",
+                "IntraLayer": "Seamless connection to popular networks"
+            },
+            "related_project": "An example of a project that can help create a rollup or own EVM blockchain is Optimism, which is a layer 2 scaling solution for Ethereum that uses optimistic rollups to increase throughput and reduce gas costs."
+        }
+    },
+    "starkware.co": {
+        "Rollup_as_a_Service": {
+            "Starknet": {
+                "call_to_action": "Learn More",
+                "usecases": "Scaling applications on Mainnet",
+                "solutions": "STARK-based validity proofs for scalability, security, and privacy",
+                "key_features": "Permissionless Decentralized Validity-Rollup, supports a range of data availability modes"
+            },
+            "StarkEx": {
+                "call_to_action": "Read More",
+                "usecases": "NFT minting & trading, derivative trading, AMM, spot trading, payments, DeFi Pooling",
+                "solutions": "Standalone Validity-Rollup SaaS",
+                "key_features": "Supports a range of use cases out of the box"
+            }
+        },
+        "project_for_rollup_creation": "An example of a project that can help create a rollup or own EVM blockchain is Optimistic Rollup, which is a layer 2 scaling solution that can be used to build rollups on Ethereum."
+    },
+    "injectivelabs.org": {
+        "RollupAsAService": {
+            "name": "Injective Labs",
+            "callToAction": "Learn More",
+            "usecases": [
+                "Creating unmatched Web3 infrastructure",
+                "Developing finance solutions",
+                "Operating validator nodes for promising projects across Web3",
+                "Combining strategy vaults for passive yield generation and a one-click token launchpad"
+            ],
+            "solutions": [
+                "Sector-specific blockchain built for finance",
+                "Decentralized orderbook crypto exchange",
+                "Next-gen DeFi protocol"
+            ],
+            "keyFeatures": "Smart contracts enabled, highly interoperable with prominent L1s, zero gas fees, intuitive user interface, niche interchain markets",
+            "projectForCreatingRollup": "Ethereum"
+        }
+    },
+    "deversifi.com": {
+        "rollup_as_a_service": {
+            "name": "rhino.fi",
+            "call_to_action": "Sign up",
+            "usecases": [
+                "Effortless multi-chain token movement",
+                "Quick and secure transactions",
+                "Seamless self-custodial interoperability",
+                "Low-cost transactions for DeFi onboarding",
+                "Swap and trade across 16 major chains",
+                "Unlocking DeFi's full potential with yield, swap, bridge, and trade"
+            ],
+            "solutions": "rhino.fi is the ultimate Layer 2 bridge for effortless multi-chain token movement. It offers quick and secure transactions, seamless self-custodial interoperability, low-cost transactions for DeFi onboarding, and the ability to swap and trade across 16 major chains. It aims to unlock DeFi's full potential with yield, swap, bridge, and trade all in one place.",
+            "key_features": [
+                "Lightning-fast transactions",
+                "Robust security measures",
+                "Seamless self-custodial interoperability",
+                "Low-cost fee model",
+                "Deep liquidity for swapping",
+                "Support for 500+ tokens",
+                "Bridge support for hottest chains",
+                "Multi-chain earning with competitive APY"
+            ]
+        },
+        "project_for_creating_rollup_or_own_EVM_blockchain": "zkSync"
+    },
+    "imagecomics.com": {
+        "rollup_services": [
+            {
+                "name": "Optimism",
+                "call_to_action": "Book a demo",
+                "usecases": [
+                    "Scalability for Ethereum applications",
+                    "Reduced transaction fees",
+                    "Faster transaction finality"
+                ],
+                "solutions": "Optimistic rollup technology for Ethereum",
+                "key_features": [
+                    "Scalability",
+                    "Low transaction fees",
+                    "Fast transaction finality"
+                ]
+            },
+            {
+                "name": "Arbitrum",
+                "call_to_action": "Talk to a manager",
+                "usecases": [
+                    "Scaling Ethereum smart contracts",
+                    "Improving transaction throughput",
+                    "Reducing gas costs"
+                ],
+                "solutions": "Secure and efficient rollup technology for Ethereum",
+                "key_features": [
+                    "Scalability for smart contracts",
+                    "Increased transaction throughput",
+                    "Gas cost reduction"
+                ]
+            },
+            {
+                "name": "zkSync",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Scalable payments and transfers on Ethereum",
+                    "Low-cost transactions",
+                    "Instant finality"
+                ],
+                "solutions": "zkRollup technology for Ethereum",
+                "key_features": [
+                    "Scalable payments and transfers",
+                    "Low transaction costs",
+                    "Instant transaction finality"
+                ]
+            }
+        ],
+        "project_for_rollup_creation": "Ethereum Virtual Machine (EVM) compatible blockchains like Binance Smart Chain (BSC) or Avalanche can be used to create a rollup or one can create their own EVM-compatible blockchain.",
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "postal": {
+                    "coverPrice": "$9.99",
+                    "format": "TP",
+                    "collects": "POSTAL #1-4"
+                }
+            }
+        }
+    },
+    "altlayer.io": {
+        "RollupAsAService": {
+            "callToAction": "Book Demo",
+            "usecases": [
+                "Accelerate Scaling for Web3",
+                "Blockchain Gaming",
+                "Metaverse Deployment",
+                "Customizable Appchains"
+            ],
+            "solutions": "AltLayer is a decentralized protocol that facilitates the launch of native and restaked rollups with both optimistic and zk rollup stacks.",
+            "keyFeatures": [
+                "Fast-finalized",
+                "Ephemeral",
+                "Modular",
+                "Decentralized"
+            ]
+        },
+        "NonRollupProject": "A project that can help create a rollup or own EVM blockchain is 'Polygon CDK Stack' which is mentioned as a solution for AltLayer's rollups.",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "cosmos.network": {
+        "rollup_as_a_service": {
+            "name": "Cosmos Interchain Stack",
+            "call_to_action": "Start building on the interchain",
+            "usecases": [
+                "Building appchains with out of the box technology",
+                "Interoperability and connectivity via IBC protocol",
+                "Smart contracting for appchains"
+            ],
+            "solutions": [
+                "Cosmos SDK for building appchains",
+                "CometBFT for POS consensus",
+                "IBC Protocol for interoperability",
+                "CosmWasm for smart contracting"
+            ],
+            "key_features": {
+                "Customization": "Ability to customize appchains from business logic to block production",
+                "Sovereignty": "Full control over consensus, governance, permissions, and smart contracts",
+                "Flexibility": "Define the state of the application and customize runtime, transaction types, and state transition functions",
+                "Language Support": "Ability to build in the language of choice, including Go and Rust",
+                "Scalability": "Ability to scale without bottlenecks and throughput limitations using CometBFT consensus engine",
+                "Smart Contract Capabilities": "Neutron platform for building trustless automation, verification, and cross-chain integrated smart contracts"
+            },
+            "related_project": "Ethereum Virtual Machine (EVM) can be used to create a rollup or own EVM blockchain"
+        }
+    },
+    "crypto.com": {
+        "rollup_services": [
+            {
+                "name": "Crypto.com",
+                "call_to_action": "Get started with crypto",
+                "usecases": [
+                    "Buying and selling cryptocurrencies",
+                    "Earning rewards on crypto",
+                    "On-chain staking",
+                    "DeFi made simple"
+                ],
+                "solutions": [
+                    "Crypto.com App",
+                    "Crypto Earn",
+                    "On-chain Staking",
+                    "Crypto.com Pay",
+                    "Margin Trading",
+                    "Derivatives Trading",
+                    "Supercharger",
+                    "Trading Arena"
+                ],
+                "key_features": {
+                    "liquidity": "Deep order book liquidity in all market conditions",
+                    "speed": "2.7m TPS matching engine, 50 microsecond core latency",
+                    "security": "SOC2 Type 1 Compliance, PCI:DSS 3.2.1 Level 1 compliance, ISO/IEC 27001:2013, ISO/IEC 27701:2019, ISO 22301:2019, Singapore Data Protection Trust Mark"
+                }
+            }
+        ],
+        "project_for_rollup_creation": "Ethereum Virtual Machine (EVM) can be used to create a rollup or own EVM blockchain."
+    },
+    "www.gelato.com": {
+        "rollup_services": [
+            {
+                "name": "Gelato",
+                "call_to_action": "Start for free",
+                "usecases": [
+                    "Print on demand for ecommerce business",
+                    "Sell clothing",
+                    "Embroidery",
+                    "Personalized gifts",
+                    "Sell art online",
+                    "Printing service",
+                    "White label products",
+                    "Create merch for fans",
+                    "Print logo on merchandise"
+                ],
+                "solutions": "Powers the world\u2019s largest print on demand network of local print providers for ecommerce sellers. Produce what you need, where and when you need it. Faster, smarter, and greener.",
+                "key_features": {
+                    "global_production": true,
+                    "easy_integration": true,
+                    "risk_free": true,
+                    "24_7_support": true,
+                    "scaling_business": true,
+                    "superior_quality": true
+                }
+            }
+        ],
+        "project_for_rollup_creation": "Ethereum Virtual Machine (EVM) can be used to create a rollup or own EVM blockchain."
+    },
+    "lumoz.org": {
+        "L2 LaunchBase": {
+            "call_to_action": "Start building",
+            "usecases": "Building and deploying ZK-Rollups, achieving interoperability and composability with shared liquidity for all rollups, securing transactions with trustless security and safe bridges, and customizing gas token and gas fee for rollups.",
+            "solutions": "Decentralized prover network for ZKP computation, ZK-Rollups with trustless security, native cross-rollup communication, customized gas token and gas fee, full hardware support for DA and ZKP computing.",
+            "key_features": {
+                "decentralized_prover_network": true,
+                "trustless_security": true,
+                "native_cross_rollup_communication": true,
+                "customized_gas_token": true,
+                "zero_gas_fee": true,
+                "full_hardware_support": true
+            }
+        },
+        "project_for_creating_rollup": "Ethereum Virtual Machine (EVM) can be used to create a rollup or own EVM blockchain.",
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "dydx.exchange": {
+        "rollup_as_a_service": {
+            "name": "dYdX Chain",
+            "call_to_action": "Trade now",
+            "usecases": [
+                "Decentralized trading",
+                "Advanced trading",
+                "Earning rewards"
+            ],
+            "solutions": [
+                "Low fees",
+                "Deep liquidity",
+                "Up to 20x buying power",
+                "Self custody of funds",
+                "Fast onboarding with existing crypto wallet",
+                "Governance control for traders",
+                "Continuous launch of new Perpetual Contract markets",
+                "Mobile-friendly interface",
+                "Fully decentralized with native chain and governance protocol",
+                "Advanced order types",
+                "Earn trading rewards in $DYDX",
+                "Fully open source for building on top of the protocol"
+            ],
+            "key_features": {
+                "markets": 35,
+                "today_volume": "$554,953,537",
+                "today_trades": 364369,
+                "open_interest": "$41,733,082"
+            }
+        },
+        "project_for_rollup_creation": "Ethereum Virtual Machine (EVM) blockchain can be used to create a rollup or own EVM blockchain."
+    }
+}

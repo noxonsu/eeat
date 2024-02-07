@@ -10,6 +10,6 @@ In additional detrmine such information
 2. Their usecases  
 3. Their solutions. 
 4. Key features ('key_features' in JSON))"
-5. The service provides a platform for businesses to develop and implement their customized rollup solutions on the blockchain, optimizing their operations for better scalability, lower costs, and enhanced security.?
+5. A project that is not a rollup but can help to create a rollup or own EVM blockchain?
                                                                 
 The goal is to provide an objective view of each product offerings, highlighting both strengths and potential areas for improvement. Provide the results in JSON format.

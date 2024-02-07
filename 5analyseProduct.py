@@ -97,6 +97,9 @@ def get_company_details(company):
     """Extract details of the company using the LLMChain."""
   
     summary=load_from_json_file(company+".json","data/"+INDUSTRY_KEYWORD)
+    #if summary['summary'] not exists return None
+    if 'summary' not in summary:
+        return None
     question_content = 'INDUSTRY_KEYWORD: '+INDUSTRY_KEYWORD+"\n\n"+json.dumps(summary['summary'])
     question_content = question_content[:40000]
 
@@ -122,33 +125,35 @@ def get_company_details(company):
         json1 = "Not found"
     end = time.time()
     print("Time to get response1: "+str(end - start))
-    try:
-        start = time.time()
-        response = openai.ChatCompletion.create(
-                model=SMART_GPTV,  # Update this to the model you're using
-                response_format={ "type": "json_object" },
-                messages=[
-                    {"role": "system", "content": "Find "+SERP_PRICES_EXT+" and determin business model. status 'Not found' if not found or error. Return JSON with status and 'priceAndPlans'."},
-                    {"role": "user", "content": json.dumps(summary['priceAndPlans'])}
-                ]
-            )
-        
-        ch = response['choices'][0]['message']['content']
-        json2 = json.loads(ch)
+    print("analyse prices")
+    # if summary['priceAndPlans'] exists
+    if 'priceAndPlans' in summary:
+        try:
+            start = time.time()
+            response = openai.ChatCompletion.create(
+                    model=SMART_GPTV,  # Update this to the model you're using
+                    response_format={ "type": "json_object" },
+                    messages=[
+                        {"role": "system", "content": "Find "+SERP_PRICES_EXT+" and determine the business model. status 'Not found' if not found or error. Return JSON with status and 'priceAndPlans'."},
+                        {"role": "user", "content": json.dumps(summary['priceAndPlans'])}
+                    ]
+                )
+            
+            ch = response['choices'][0]['message']['content']
+            json2 = json.loads(ch)
 
 
-        end = time.time()
-        print("Time to get response2: "+str(end - start))
+            end = time.time()
+            print("Time to get response2: "+str(end - start))
 
-
-    
-        
-        #add prices and plans
-        json1['pricesAndPlans'] = json2
-        return json1
-    except Exception as e:
-        print(f"Failed to decode JSON for response: {e}")
-        return None
+            #add prices and plans
+            json1['pricesAndPlans'] = json2
+        except Exception as e:
+            print(f"Failed to decode JSON for response: {e}")
+            return None
+    else:
+        print("No prices and plans found")
+    return json1
     
 
 def main():

@@ -1,41 +1,38 @@
-# Rollup as a Service Pricing Plan Comparison
+## Rollup as a Service Pricing Comparison
 
-In this review, we will compare the pricing plans of two popular Rollup as a Service providers: Rollbar and Sentry. Both platforms offer comprehensive error tracking and monitoring solutions for developers, but their pricing structures and features vary.
+Here is a comparison of the pricing plans for Rollup as a Service offered by different companies:
 
-## Rollbar
+### Ankr
 
-Rollbar offers three main pricing plans: Free, Essentials, and Growth. Here's a breakdown of their features and pricing:
+- **Quick launch**: Ankr offers a quick launch service with no specific features mentioned.
+- **Affordable Pricing Model**: Ankr provides high-performance RPC services with a predictable pay-as-you-go pricing model. It offers premium RPC plans, pay-as-you-go per RPC request, API credits pegged to USD, and developer-first pricing.
+- **Payment Methods**: Ankr offers easy payment methods including Google authentication, credit card payments, and MetaMask integration.
 
-| Plan       | Monthly Price | Errors Per Month | Users | Retention Period | Uptime Monitoring |
-|------------|---------------|------------------|-------|-------------------|--------------------|
-| Free       | $0            | 5,000            | 1     | 30 days           | No                 |
-| Essentials | $149          | 500,000          | 5     | 180 days          | Yes                |
-| Growth     | Custom Quote  | Custom           | Custom| Custom            | Yes                |
+### BlockchainAppFactory
 
-## Sentry
+- **Increased Scalability**: Offers RaaS solution for infinitely scalable layer-2 blockchain infrastructure.
+- **Reduced Fees**: Provides cheaper transactions and better experiences to users through batch-processing mechanisms off-chain.
+- **Customization**: Tailors the roll-up solution to fit business needs for supporting unique smart contracts, transaction types, and token standards.
+- **Market Capture**: Offers own roll-up solution backed by infrastructure to capture the market through various revenue and community-building options.
 
-Sentry also offers three main pricing plans: Free, Team, and Business. Here's a comparison of their features and pricing:
+### Gelato Network
 
-| Plan    | Monthly Price | Errors Per Month | Users | Retention Period | Uptime Monitoring |
-|---------|---------------|------------------|-------|-------------------|--------------------|
-| Free    | $0            | 5,000            | 1     | 90 days           | No                 |
-| Team    | $26           | 200,000          | 5     | 90 days           | Yes                |
-| Business| Custom Quote  | Custom           | Custom| Custom            | Yes                |
+- **Easy to Deploy**: Intuitive UI enabling no-code deployment, monitoring, and management of Ethereum rollups.
+- **Modularity & Performance**: Modular architecture that significantly improves performance and customization.
+- **Natively Integrated Tools & Services**: Integration with favorite Web3 tools and services, providing an end-to-end integrated L2 infrastructure.
+- **High Reliability & Multi-Cloud**: Multi-cloud and globally distributed infrastructure designed for high availability and fault tolerance.
 
-## Comparison
+### Stackr Labs
 
-### Pricing
-- Rollbar's pricing starts at $0 for the Free plan, while Sentry's Free plan is also $0.
-- Rollbar's Essentials plan is priced at $149 per month, while Sentry's Team plan starts at $26 per month.
+- **Micro-rollups**: Offers support for web2 programming languages, flexible rollups, and decentralized applications with off-chain computation validation.
 
-### Features
-- Both Rollbar and Sentry offer uptime monitoring in their higher-tier plans.
-- Rollbar's Growth plan and Sentry's Business plan both offer custom pricing for larger organizations.
+### Pricing Comparison
 
-### Errors Per Month
-- Rollbar's plans offer higher error limits compared to Sentry's plans, especially in the higher tiers.
+| Company                   | Quick Launch | Affordable Pricing Model | Payment Methods | Increased Scalability | Reduced Fees | Customization | Market Capture | Easy to Deploy | Modularity & Performance | Natively Integrated Tools & Services | High Reliability & Multi-Cloud | Micro-rollups |
+|---------------------------|---------------|--------------------------|-----------------|-----------------------|--------------|---------------|-----------------|-----------------|--------------------------|-------------------------------------|-------------------------------|---------------|
+| Ankr                      | Yes           | Yes                      | Yes             | No                    | No           | No            | No              | No              | No                       | No                                  | No                            | No            |
+| BlockchainAppFactory      | No            | No                       | No              | Yes                   | Yes          | Yes           | Yes             | No              | No                       | No                                  | No                            | No            |
+| Gelato Network            | No            | No                       | No              | No                    | No           | No            | No              | Yes             | Yes                      | Yes                                 | Yes                           | No            |
+| Stackr Labs               | No            | No                       | No              | No                    | No           | No            | No              | No              | No                       | No                                  | No                            | Yes           |
 
-### Retention Period
-- Rollbar's Essentials plan offers a longer retention period of 180 days compared to Sentry's Team plan, which has a retention period of 90 days.
-
-In conclusion, both Rollbar and Sentry offer competitive pricing plans with varying features and limits. Developers should consider their specific error tracking and monitoring needs when choosing between the two platforms.
+Based on the comparison, each company offers different features and pricing models for their Rollup as a Service. Customers should consider their specific requirements and budget when choosing a provider.

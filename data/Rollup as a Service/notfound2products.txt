@@ -1,0 +1,7 @@
+- Initia:  Move L1 -> - Initia
+- OP:  Stack -> - OP
+Paradigm:  ZKP calculation acceleration hardware -> Paradigm
+- Syndr:  First Arbitrum Orbit layerthree chain -> - Syndr
+- Caldera:  Rollupsasa-Service -> - Caldera
+List of projects:  -> List of projects
+6block:  ZKP calculation acceleration hardware -> 6block

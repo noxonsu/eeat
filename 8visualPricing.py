@@ -73,8 +73,14 @@ if __name__ == "__main__":
     datatoAdd = {}
     datatoAddFeatures = {}
     for i, domain in enumerate(sites):
+        #skip if all_sites_data[domain]['pricesAndPlans'] doesnt exist
+        if ('pricesAndPlans' not in all_sites_data[domain]):
+            print("pricesAndPlans not in "+domain)
+            continue
         datatoAdd[domain] = all_sites_data[domain]['pricesAndPlans']
         site_date = all_sites_data[domain]
+    
+    for i, domain in enumerate(sites):
         if ('key_features' not in all_sites_data[domain]):
             print("key_features not in "+domain)
             continue

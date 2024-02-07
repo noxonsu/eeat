@@ -28,7 +28,7 @@ def findOfficialDomain(serp, project_name):
     
     chat = ChatOpenAI(temperature=0, model_name=BASE_GPTV,openai_api_key=OPENAI_API_KEY)
     messages = [
-        SystemMessage(content="Analyse SERP and find the official domain URL (frontpage only) of the project named '"+project_name+"'. Return only url starts with https://. If not found return 'Not found'"),
+        SystemMessage(content="Analyse SERP and find the official domain URL of the project named '"+project_name+"'. Return only url with https://. skip known domains of popular projects. Return only domain name if found. Return only domain name without quotes etc. If not found return 'Not found'. "),
         HumanMessage(content=f" {serp} \n\n The official url is: ")
     ]
 

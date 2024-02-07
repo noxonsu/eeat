@@ -79,7 +79,10 @@ def main():
 
         # Handle found plans URL
         
-        plans_url = correct_url(plans_url['url'])
+        #if plans_url['url'] returned (with 'url' field) then correct it
+        if isinstance(plans_url, dict) and 'url' in plans_url:
+            plans_url = correct_url(plans_url['url'])
+
         domain_data["priceAndPlansCrawled"] = plans_url
         if 'Not foun' not in plans_url:    
             print(f"Crawling {plans_url}...")

@@ -1,5 +1,56 @@
 {
     "title": "Optimized Rollup as a Service Features",
-    "intro": "This list represents the optimized features of Rollup as a Service, gathered from analysis of 0 companies and 0 features.",
-    "features": {}
+    "intro": "This list represents an optimized set of features for Rollup as a Service, gathered from analyzing 25 companies and a total of 141 features.",
+    "features": {
+        "Scalability": {
+            "title": "Scalability",
+            "features": [
+                "Increased Scalability (25)"
+            ]
+        },
+        "Cost": {
+            "title": "Cost Efficiency",
+            "features": [
+                "Reduced Fees (25)"
+            ]
+        },
+        "Customization": {
+            "title": "Customization",
+            "features": [
+                "Customization (25)"
+            ]
+        },
+        "Integration": {
+            "title": "Integration & Flexibility",
+            "features": [
+                "Natively Integrated Tools & Services (25)",
+                "Flexible Rollups (25)"
+            ]
+        },
+        "Reliability": {
+            "title": "Reliability & Performance",
+            "features": [
+                "High Reliability & Multi-Cloud (25)",
+                "Modularity & Performance (25)"
+            ]
+        },
+        "Programming Support": {
+            "title": "Programming Support",
+            "features": [
+                "Support for Web2 Programming Languages (25)"
+            ]
+        },
+        "Decentralization": {
+            "title": "Decentralization",
+            "features": [
+                "Decentralized Applications (25)"
+            ]
+        },
+        "Validation": {
+            "title": "Off-Chain Validation",
+            "features": [
+                "Off-Chain Computation Validation (25)"
+            ]
+        }
+    }
 }

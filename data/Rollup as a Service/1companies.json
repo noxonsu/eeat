@@ -2,19 +2,22 @@
     "www.alchemy.com": {
         "url": "https://www.alchemy.com/overviews/rollups-as-a-service-raas",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
-    },
-    "www.halborn.com": {
-        "url": "https://www.halborn.com/blog/post/what-is-rollup-as-a-service-raas-and-what-are-its-advantages",
-        "nature": "list of projects"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
     },
     "www.binance.com": {
-        "url": "https://www.binance.com/en/research/analysis/the-rollups-as-a-service-primer",
-        "nature": "list of projects"
+        "url": "https://www.binance.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "- Binance:  Rollupasa-Service Research",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
     },
     "www.zeeve.io": {
         "url": "https://www.zeeve.io/blog/a-deep-dive-into-rollups-as-a-service-raas/",
-        "nature": "unknown"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
     },
     "docs.altlayer.io": {
         "url": "https://docs.altlayer.io/altlayer-documentation/rollup-as-a-service/what-is-rollup-as-a-service-raas",
@@ -22,18 +25,284 @@
     },
     "messari.io": {
         "url": "https://messari.io/report/the-rollups-as-a-service-ecosystem",
-        "nature": "Invalid: The URL provided is for the Wayback Machine, an internet archive service, and does not contain relevant information about products, services, or solutions of companies."
+        "nature": "Invalid:DDOS protection screen"
     },
-    "ankr.com": {
-        "url": "https://ankr.com/blog/what-is-rollup-as-a-service-raa-s-in-web3/",
+    "ethresear.ch": {
+        "url": "https://ethresear.ch/t/rollup-as-a-service-opportunities-and-challenges/13051",
         "nature": "list of projects"
+    },
+    "www.ankr.com": {
+        "url": "https://www.ankr.com/blog/what-is-rollup-as-a-service-raa-s-in-web3/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.ankr.com/blog/why-use-ankr-save-big-on-high-performance-rpc-services/",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
     },
     "www.blockchainappfactory.com": {
         "url": "https://www.blockchainappfactory.com/rollups-as-a-service",
-        "nature": "list of projects"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
     },
     "docs.gelato.network": {
         "url": "https://docs.gelato.network/developer-services/gelato-rollup-as-a-service-raas",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "eightify.app": {
+        "url": "https://eightify.app/summary/technology-and-software/cost-effective-rollup-as-a-service-decentralized-secure-and-user-optimized",
+        "nature": "Invalid:DDOS protection screen or technical error message"
+    },
+    "moralis.io": {
+        "url": "https://moralis.io/web3-wiki/top/rollups-as-a-service-raas/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "www.theblock.co": {
+        "url": "https://www.theblock.co/post/266082/ankr-launches-rollup-as-a-service-for-zksync-hyperchains",
         "nature": "list of projects"
+    },
+    "www.caldera.xyz": {
+        "url": "https://www.caldera.xyz/",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "www.zycrypto.com": {
+        "url": "https://www.zycrypto.com/zk-rollups-as-a-service-will-be-a-game-changer-for-blockchain-scalability/",
+        "nature": "Invalid:[DDOS protection screen or explain article/blog]"
+    },
+    "www.gelato.network": {
+        "url": "https://www.gelato.network/raas",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.gelato.network/raas",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "www.linkedin.com": {
+        "url": "https://www.linkedin.com/posts/calderaxyz_what-are-rollups-as-a-service-raas-activity-7100189472499126272-b6Hk",
+        "nature": "list of projects"
+    },
+    "research.nansen.ai": {
+        "url": "https://research.nansen.ai/articles/exploring-the-rollups-as-a-service-raas-landscape",
+        "nature": "list of projects"
+    },
+    "coincodex.com": {
+        "url": "https://coincodex.com/article/34379/binance-research-spotlights-lumoz-in-rollup-as-a-service-research/",
+        "nature": "list of projects"
+    },
+    "cryptorank.io": {
+        "url": "https://cryptorank.io/news/feed/71e94-ankr-redefines-blockchain-scalability-with-rollup-as-a-service-for-zksync-hyperchains",
+        "nature": "list of projects"
+    },
+    "uniultra.xyz": {
+        "url": "https://uniultra.xyz/blog/what-is-rollup-as-a-service-raas",
+        "nature": "Invalid:explain article/blog"
+    },
+    "blog.blockmagnates.com": {
+        "url": "https://blog.blockmagnates.com/embracing-the-rollup-revolution-how-rollups-as-a-service-raas-are-shaping-the-future-of-151e3f9305d5",
+        "nature": "list of projects"
+    },
+    "arbitrum.io": {
+        "url": "https://arbitrum.io",
+        "cached_url": "not found",
+        "sourcekeyword": "Arbitrum:  Optimisticrollup, - Arbitrum:  Orbit chains",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "dymension.xyz": {
+        "url": "https://dymension.xyz/",
+        "cached_url": "not found",
+        "sourcekeyword": "- Dymension:  RDK",
+        "nature": "Invalid:DDOS protection screen or technical requirement message"
+    },
+    "www.opstack.com": {
+        "url": "https://www.opstack.com/",
+        "cached_url": "not found",
+        "sourcekeyword": "- OPStack:  Rollkit",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "www.optimism.io": {
+        "url": "https://www.optimism.io",
+        "cached_url": "not found",
+        "sourcekeyword": "Optimism:  Optimisticrollup, - Optimism:  Sequencer Set",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
+    },
+    "www.eclipse.org": {
+        "url": "https://www.eclipse.org/",
+        "cached_url": "not found",
+        "sourcekeyword": "- Eclipse:  product_name",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "www.hyperlane.xyz": {
+        "url": "https://www.hyperlane.xyz/",
+        "cached_url": "not found",
+        "sourcekeyword": "- Hyperlane:  product_name",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "www.stackrlabs.xyz": {
+        "url": "https://www.stackrlabs.xyz",
+        "cached_url": "not found",
+        "sourcekeyword": "- Stackr:  SDK",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "adventuregold.org": {
+        "url": "https://adventuregold.org",
+        "cached_url": "not found",
+        "sourcekeyword": "- AdventureGoldDAO:  Loot Chain",
+        "nature": "unknown"
+    },
+    "rollkit.dev": {
+        "url": "https://rollkit.dev",
+        "cached_url": "not found",
+        "sourcekeyword": "- Rollkit:  Rollkit",
+        "nature": "Invalid:DDOS protection screen or technical error message"
+    },
+    "www.starknet.io": {
+        "url": "https://www.starknet.io",
+        "cached_url": "not found",
+        "sourcekeyword": "StarkNet:  ZKrollup",
+        "nature": "unknown"
+    },
+    "zksync.io": {
+        "url": "https://zksync.io",
+        "cached_url": "not found",
+        "sourcekeyword": "ZkSync:  ZKrollup",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "astar.network": {
+        "url": "https://astar.network",
+        "cached_url": "not found",
+        "sourcekeyword": "- Astar:  zkEVM",
+        "nature": "Invalid:DDOS protection screen or technical error message"
+    },
+    "supraoracles.com": {
+        "url": "https://supraoracles.com",
+        "cached_url": "not found",
+        "sourcekeyword": "- SupraOracles:  Price feed data and VRFs",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "starkware.co": {
+        "url": "https://starkware.co",
+        "cached_url": "not found",
+        "sourcekeyword": "StarkEx:  rollup SDK",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "ens.domains": {
+        "url": "https://ens.domains",
+        "cached_url": "not found",
+        "sourcekeyword": "- ENS:  Domain name protocol on the Ethereum network",
+        "nature": "unknown"
+    },
+    "injectivelabs.org": {
+        "url": "https://injectivelabs.org",
+        "cached_url": "not found",
+        "sourcekeyword": "- InjectiveLabs:  inEVM sovereign rollup",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "deversifi.com": {
+        "url": "https://deversifi.com",
+        "cached_url": "not found",
+        "sourcekeyword": "DeversiFi:  AMM DEX",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "imagecomics.com": {
+        "url": "https://imagecomics.com",
+        "cached_url": "not found",
+        "sourcekeyword": "- Saga:  Sequencer set",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://imagecomics.com/comics/releases/postal-vol-1-tp",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "altlayer.io": {
+        "url": "https://altlayer.io",
+        "cached_url": "not found",
+        "sourcekeyword": "- AltLayer:  product_name",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://docs.altlayer.io/altlayer-documentation/rollup-as-a-service/pricing-model",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "slush.org": {
+        "url": "https://slush.org",
+        "cached_url": "not found",
+        "sourcekeyword": "- Slush:  SDK",
+        "nature": "unknown"
+    },
+    "cosmos.network": {
+        "url": "https://cosmos.network",
+        "cached_url": "not found",
+        "sourcekeyword": "Cosmos:  Tendermint",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "seda.org": {
+        "url": "https://seda.org",
+        "cached_url": "not found",
+        "sourcekeyword": "- Seda:  Decentralized data infrastructure",
+        "nature": "Invalid:explain article/blog"
+    },
+    "crypto.com": {
+        "url": "https://crypto.com",
+        "cached_url": "not found",
+        "sourcekeyword": "- Cryptocom:  Optimistic rollup partner",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "www.polygon.com": {
+        "url": "https://www.polygon.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Polygon:  Avail",
+        "nature": "Invalid:explain article/blog"
+    },
+    "www.gelato.com": {
+        "url": "https://www.gelato.com",
+        "cached_url": "not found",
+        "sourcekeyword": "- Gelato:  OP Stack chains support",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "polkadot.network": {
+        "url": "https://polkadot.network",
+        "cached_url": "not found",
+        "sourcekeyword": "Polkadot:  Substrate",
+        "nature": "unknown"
+    },
+    "lumoz.org": {
+        "url": "https://lumoz.org",
+        "cached_url": "not found",
+        "sourcekeyword": "- Lumoz:  blockchain scalability and efficiency platform",
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://docs.lumoz.org/zk-raas",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
+    },
+    "dydx.exchange": {
+        "url": "https://dydx.exchange",
+        "cached_url": "not found",
+        "sourcekeyword": "dYdX:  order book DEX",
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "81897ef54ff15ce8a9ee9a231430fe08"
     }
 }

@@ -78,6 +78,7 @@ def is_product_or_list(summary, company_products):
             for line in product_lines:
                 #remove - and spaces from company name
                 line = re.sub(r'(\w)-(\w)', r'\1\2', line)
+                line = re.sub(r'-(\w)', r'\1\2', line)
                 parts = line.strip().split(":")
                 if len(parts) >= 2:
                     company_name, product_name = parts[0], parts[1]
