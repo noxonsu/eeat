@@ -1,0 +1,29 @@
+{
+    "www.alchemy.com": {
+        "url": "https://www.alchemy.com/overviews/rollups-as-a-service-raas"
+    },
+    "www.halborn.com": {
+        "url": "https://www.halborn.com/blog/post/what-is-rollup-as-a-service-raas-and-what-are-its-advantages"
+    },
+    "www.binance.com": {
+        "url": "https://www.binance.com/en/research/analysis/the-rollups-as-a-service-primer"
+    },
+    "www.zeeve.io": {
+        "url": "https://www.zeeve.io/blog/a-deep-dive-into-rollups-as-a-service-raas/"
+    },
+    "docs.altlayer.io": {
+        "url": "https://docs.altlayer.io/altlayer-documentation/rollup-as-a-service/what-is-rollup-as-a-service-raas"
+    },
+    "messari.io": {
+        "url": "https://messari.io/report/the-rollups-as-a-service-ecosystem"
+    },
+    "ankr.com": {
+        "url": "https://ankr.com/blog/what-is-rollup-as-a-service-raa-s-in-web3/"
+    },
+    "www.blockchainappfactory.com": {
+        "url": "https://www.blockchainappfactory.com/rollups-as-a-service"
+    },
+    "docs.gelato.network": {
+        "url": "https://docs.gelato.network/developer-services/gelato-rollup-as-a-service-raas"
+    }
+}
