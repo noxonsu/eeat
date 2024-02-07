@@ -1,0 +1,89 @@
+{
+    "docs.avax.network": {
+        "url": "https://docs.avax.network/build/subnet/utility/deploy-smart-contract-to-subnet"
+    },
+    "medium.com": {
+        "url": "https://medium.com/@insightstake/evm-smart-contract-deployment-part-1-testnets-6518b5bd3fc7"
+    },
+    "docs.alchemy.com": {
+        "url": "https://docs.alchemy.com/docs/best-practices-for-deploying-a-smart-contract-on-evm-mainnets-1"
+    },
+    "blog.tenderly.co": {
+        "url": "https://blog.tenderly.co/how-to-deploy-smart-contracts-with-hardhat-and-tenderly/"
+    },
+    "blog.thirdweb.com": {
+        "url": "https://blog.thirdweb.com/any-contract-any-evm-chain/"
+    },
+    "101blockchains.com": {
+        "url": "https://101blockchains.com/deploy-smart-contract/"
+    },
+    "www.starton.com": {
+        "url": "https://www.starton.com/product/deploy"
+    },
+    "docs.fantom.foundation": {
+        "url": "https://docs.fantom.foundation/smart-contract/deploy-a-smart-contract"
+    },
+    "www.doubloin.com": {
+        "url": "https://www.doubloin.com/learn/ethereum-virtual-machine-smart-contracts"
+    },
+    "docs.oracle.com": {
+        "url": "https://docs.oracle.com/en/database/other-databases/blockchain-enterprise/21.1/user/run-solidity-smart-contracts-evm-oracle-blockchain-platform.html"
+    },
+    "eightify.app": {
+        "url": "https://eightify.app/summary/blockchain-and-cryptocurrency/beginner-s-guide-to-truffle-deploy-smart-contracts-on-evm-blockchains"
+    },
+    "docs.evmos.org": {
+        "url": "https://docs.evmos.org/develop/smart-contracts"
+    },
+    "news.fuse.io": {
+        "url": "https://news.fuse.io/how-to-deploy-a-smart-contract-on-fuse-blockchain"
+    },
+    "www.quicknode.com": {
+        "url": "https://www.quicknode.com/guides/ethereum-development/smart-contracts/an-overview-of-how-smart-contracts-work-on-ethereum"
+    },
+    "hackernoon.com": {
+        "url": "https://hackernoon.com/how-to-migrate-smart-contracts-to-any-evm"
+    },
+    "developers.circle.com": {
+        "url": "https://developers.circle.com/w3s/docs/scp-deploy-smart-contract"
+    },
+    "docs.astar.network": {
+        "url": "https://docs.astar.network/docs/build/builder-guides/astar_features/use_remix"
+    },
+    "www.leewayhertz.com": {
+        "url": "https://www.leewayhertz.com/ethereum-smart-contract-tutorial/"
+    },
+    "docs.aioz.network": {
+        "url": "https://docs.aioz.network/developing/evm-smart-contracts/hardhat-deploy"
+    },
+    "chainstack.com": {
+        "url": "https://chainstack.com/deploying-a-deterministic-contract-on-ethereum/"
+    },
+    "remix-ide.readthedocs.io": {
+        "url": "https://remix-ide.readthedocs.io/en/latest/run.html"
+    },
+    "betterprogramming.pub": {
+        "url": "https://betterprogramming.pub/algorand-deploying-evm-based-dapps-with-milkomeda-a1-f30b8b513ca7"
+    },
+    "blog.dock.io": {
+        "url": "https://blog.dock.io/deploy-your-evm-smart-contracts-on-dock/"
+    },
+    "soliditydeveloper.com": {
+        "url": "https://soliditydeveloper.com/evmos"
+    },
+    "blog.chain.link": {
+        "url": "https://blog.chain.link/how-to-build-and-deploy-a-smart-contract-on-the-fantom-blockchain/"
+    },
+    "dev.to": {
+        "url": "https://dev.to/codemaker2015/create-and-deploy-your-first-smart-contract-with-solidity-264f"
+    },
+    "ethereum.org": {
+        "url": "https://ethereum.org/developers/docs/smart-contracts/deploying"
+    },
+    "wiki.acala.network": {
+        "url": "https://wiki.acala.network/build/development-guide/smart-contracts/get-started-evm/deploy-contracts"
+    },
+    "shardeum.org": {
+        "url": "https://shardeum.org/blog/how-to-deploy-smart-contract-on-shardeum-testnet-hardhat/"
+    }
+}
