@@ -1,95 +1,126 @@
 {
     "www.procaresoftware.com": {
-        "url": "https://www.procaresoftware.com/"
+        "url": "https://www.procaresoftware.com/",
+        "nature": "single project"
     },
     "www.capterra.com": {
-        "url": "https://www.capterra.com/child-care-software/"
+        "url": "https://www.capterra.com/child-care-software/",
+        "nature": "Invalid: DDOS protection screen"
     },
     "mybrightwheel.com": {
-        "url": "https://mybrightwheel.com/"
+        "url": "https://mybrightwheel.com/",
+        "nature": "single project"
     },
     "mykidreports.com": {
-        "url": "https://mykidreports.com/blog/best-childcare-software-for-preschool-childcare-compared"
+        "url": "https://mykidreports.com/blog/best-childcare-software-for-preschool-childcare-compared",
+        "nature": "list of projects"
     },
     "www.g2.com": {
-        "url": "https://www.g2.com/categories/child-care"
+        "url": "https://www.g2.com/categories/child-care",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.daycare.com": {
-        "url": "https://www.daycare.com/forum/showthread.php?t=86012"
+        "url": "https://www.daycare.com/forum/showthread.php?t=86012",
+        "nature": "single project"
     },
     "www.vancopayments.com": {
-        "url": "https://www.vancopayments.com/child-care"
+        "url": "https://www.vancopayments.com/child-care",
+        "nature": "list of projects"
     },
     "www.softwareadvice.com": {
-        "url": "https://www.softwareadvice.com/child-care/"
+        "url": "https://www.softwareadvice.com/child-care/",
+        "nature": "list of projects"
     },
     "www.getapp.com": {
-        "url": "https://www.getapp.com/education-childcare-software/daycare/"
+        "url": "https://www.getapp.com/education-childcare-software/daycare/",
+        "nature": "Invalid: DDOS protection screen"
     },
     "kinderpass.com": {
-        "url": "https://kinderpass.com/"
+        "url": "https://kinderpass.com/",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.jackrabbitcare.com": {
-        "url": "https://www.jackrabbitcare.com/"
+        "url": "https://www.jackrabbitcare.com/",
+        "nature": "single project"
     },
     "www.lillio.com": {
-        "url": "https://www.lillio.com/childcare-software"
+        "url": "https://www.lillio.com/childcare-software",
+        "nature": "list of projects"
     },
     "www.icaresoftware.com": {
-        "url": "https://www.icaresoftware.com/"
+        "url": "https://www.icaresoftware.com/",
+        "nature": "single project"
     },
     "www.tryplayground.com": {
-        "url": "https://www.tryplayground.com/"
+        "url": "https://www.tryplayground.com/",
+        "nature": "single project"
     },
     "family.daycareworks.com": {
-        "url": "https://family.daycareworks.com/"
+        "url": "https://family.daycareworks.com/",
+        "nature": "list of projects"
     },
     "www.mykidzday.com": {
-        "url": "https://www.mykidzday.com/"
+        "url": "https://www.mykidzday.com/",
+        "nature": "single project"
     },
     "lineleader.com": {
-        "url": "https://lineleader.com/"
+        "url": "https://lineleader.com/",
+        "nature": "list of projects"
     },
     "www.quora.com": {
-        "url": "https://www.quora.com/What-are-some-of-the-best-childcare-software-for-managing-after-school"
+        "url": "https://www.quora.com/What-are-some-of-the-best-childcare-software-for-managing-after-school",
+        "nature": "list of projects"
     },
     "www.kidkare.com": {
-        "url": "https://www.kidkare.com/"
+        "url": "https://www.kidkare.com/",
+        "nature": "single project"
     },
     "www.famly.co": {
-        "url": "https://www.famly.co/us"
+        "url": "https://www.famly.co/us",
+        "nature": "Invalid: DDOS protection screen"
     },
     "illumine.app": {
-        "url": "https://illumine.app/"
+        "url": "https://illumine.app/",
+        "nature": "single project"
     },
     "safetyculture.com": {
-        "url": "https://safetyculture.com/app/daycare-software/"
+        "url": "https://safetyculture.com/app/daycare-software/",
+        "nature": "list of projects"
     },
     "www.kidcheck.com": {
-        "url": "https://www.kidcheck.com/childcare/"
+        "url": "https://www.kidcheck.com/childcare/",
+        "nature": "list of projects"
     },
     "kangarootime.com": {
-        "url": "https://kangarootime.com/"
+        "url": "https://kangarootime.com/",
+        "nature": "single project"
     },
     "www.getkisi.com": {
-        "url": "https://www.getkisi.com/blog/best-childcare-software"
+        "url": "https://www.getkisi.com/blog/best-childcare-software",
+        "nature": "list of projects"
     },
     "www.ezchildtrack.com": {
-        "url": "https://www.ezchildtrack.com/daycare.html"
+        "url": "https://www.ezchildtrack.com/daycare.html",
+        "nature": "list of projects"
     },
     "pccsoft.com": {
-        "url": "https://pccsoft.com/drop-in-daycare-software/"
+        "url": "https://pccsoft.com/drop-in-daycare-software/",
+        "nature": "single project"
     },
     "www.daycareworks.com": {
-        "url": "https://www.daycareworks.com/cg/daycareworks.jsp"
+        "url": "https://www.daycareworks.com/cg/daycareworks.jsp",
+        "nature": "single project"
     },
     "www.lifecubby.com": {
-        "url": "https://www.lifecubby.com/"
+        "url": "https://www.lifecubby.com/",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.saasworthy.com": {
-        "url": "https://www.saasworthy.com/list/child-care-software"
+        "url": "https://www.saasworthy.com/list/child-care-software",
+        "nature": "list of projects"
     },
     "news.dailyconnect.com": {
-        "url": "https://news.dailyconnect.com/2022/03/29/ten-best-childcare-software-platforms-for-daycare-centers/"
+        "url": "https://news.dailyconnect.com/2022/03/29/ten-best-childcare-software-platforms-for-daycare-centers/",
+        "nature": "list of projects"
     }
 }
