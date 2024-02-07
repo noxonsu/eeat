@@ -134,5 +134,41 @@
     "crmt.tours": {
         "url": "https://crmt.tours/",
         "nature": "list of projects"
+    },
+    "www.facebook.com": {
+        "url": "https://www.facebook.com/ChicagoMotorcycleTours/"
+    },
+    "www.riders-share.com": {
+        "url": "https://www.riders-share.com/blog/article/5-postcard-perfect-midwestern-motorcycle-routes-around-chicago-2020"
+    },
+    "www.mtg-motorcycle.com": {
+        "url": "https://www.mtg-motorcycle.com/"
+    },
+    "advmotoclub.com": {
+        "url": "https://advmotoclub.com/"
+    },
+    "bajaboundmoto.com": {
+        "url": "https://bajaboundmoto.com/"
+    },
+    "luxurytravelhackers.com": {
+        "url": "https://luxurytravelhackers.com/motorcycle-trips/"
+    },
+    "freedommotorcycletours.com": {
+        "url": "https://freedommotorcycletours.com/"
+    },
+    "groups.place": {
+        "url": "https://groups.place/MEWS"
+    },
+    "ridewithlocals.is": {
+        "url": "https://ridewithlocals.is/6-days-iceland-motorcycle-adventure/"
+    },
+    "www.ridewithustours.co.uk": {
+        "url": "https://www.ridewithustours.co.uk/"
+    },
+    "www.biketourasia.com": {
+        "url": "https://www.biketourasia.com/"
+    },
+    "jaspermotorcycletours.com": {
+        "url": "https://jaspermotorcycletours.com/"
     }
 }
