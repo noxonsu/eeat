@@ -32,8 +32,8 @@ INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 
 ADDITIONAL_INFO_FOR_FILTERING_PROJECTS = os.environ.get('ADDITIONAL_INFO_FOR_FILTERING_PROJECTS','')
 SERP_PRICES_EXT = os.getenv('SERP_PRICES_EXT')
-BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
-SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-1106')
+BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-0125')
+SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-0125')
 
 OPENAI_API_KEY = os.environ.get('MY_OPENAI_KEY', os.environ.get('OPENAI_API_KEY_DEFAULT'))
 if not OPENAI_API_KEY.startswith('sk-'):
@@ -78,7 +78,7 @@ In additional detrmine such information
 2. Their usecases  
 3. Their solutions. 
 4. """+clusterized_features_list_f+""""
-5. """+ADDITIONAL_INFO_FOR_FILTERING_PROJECTS+"""?
+5. We focused on projects meet criteria: """+ADDITIONAL_INFO_FOR_FILTERING_PROJECTS+"""?
                                                                 
 The goal is to provide an objective view of each product offerings, highlighting both strengths and potential areas for improvement. Provide the results in JSON format."""
 

@@ -24,8 +24,8 @@ from langchain.chains.conversation.memory import ConversationBufferMemory
 from langchain.memory import ConversationSummaryBufferMemory
 
 from utils import *
-BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
-SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-1106')
+BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-0125')
+SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-0125')
 
 # Function to check if existing domains are included in the output
 def check_domains_in_output(existedDomainList, output, article_index):

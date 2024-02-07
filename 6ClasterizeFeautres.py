@@ -28,8 +28,8 @@ WHOISJSONAPI= os.environ.get('WHOISJSONAPI')
 # Load the data
 data_folder = f"data/{INDUSTRY_KEYWORD}"
 companies_file = ""
-BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
-SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-1106')
+BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-0125')
+SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-0125')
 
 OPENAI_API_KEY = os.environ.get('MY_OPENAI_KEY', os.environ.get('OPENAI_API_KEY_DEFAULT'))
 if not OPENAI_API_KEY.startswith('sk-'):
@@ -113,16 +113,33 @@ def extract_key_features(data):
     all_features = []
 
     for company, details in data.items():
-        key_features = details.get("key_features", [])
+        # Parse the details as JSON, if not already a dict
+        if not isinstance(details, dict):
+            details = json.loads(details)
 
-        for item in key_features:
-            if isinstance(item, dict):  # For nested feature categories
-                for category, features in item.items():
-                    all_features.extend(features)  # Add the list of features directly
-            elif isinstance(item, str):  # For direct feature lists
-                all_features.append(item)
+        # Function to recursively extract features
+        def extract_features(value):
+            if isinstance(value, list):
+                # Directly extend with the list values if it's a list
+                for item in value:
+                    extract_features(item)  # Recursively extract in case of nested structures
+            elif isinstance(value, dict):
+                # If it's a dict, look for 'key_features' or recurse into the dict
+                for k, v in value.items():
+                    if k == 'key_features':
+                        extract_features(v)  # Directly extract if 'key_features' is found
+                    else:
+                        extract_features(v)  # Recurse into the dict
+            elif isinstance(value, str):
+                # Split by comma in case of a string of features and strip each feature
+                features = [feature.strip() for feature in value.split(',')]
+                all_features.extend(features)
 
-    return all_features
+        # Start extracting features from the details
+        extract_features(details)
+
+    # Deduplicate all_features by converting to a set and back to a list
+    return list(set(all_features))
 
 def main():
     
@@ -141,7 +158,7 @@ def main():
     print("Clusterizing the Key Features total "+str(len(key_features)))
 
     print("Optimizing the Product Feature List")
-    if (SMART_GPTV == "gpt-3.5-turbo-1106"):
+    if (SMART_GPTV == "gpt-3.5-turbo-0125"):
         #small input context?
         toanalyse = json.dumps(key_features)
     else:

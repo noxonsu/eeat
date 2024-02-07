@@ -1,0 +1,305 @@
+{
+    "builtin.com": {
+        "url": "https://builtin.com/blockchain/blockchain-as-a-service-companies",
+        "nature": "list of projects"
+    },
+    "www.investopedia.com": {
+        "url": "https://www.investopedia.com/terms/b/blockchainasaservice-baas.asp",
+        "nature": "list of projects"
+    },
+    "www.alibabacloud.com": {
+        "url": "https://www.alibabacloud.com/product/baas",
+        "nature": "Invalid: This model's maximum context length is 16385 tokens. However, your messages resulted in 24201 tokens. Please reduce the length of the messages."
+    },
+    "aws.amazon.com": {
+        "url": "https://aws.amazon.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Amazon Web Services:  BaaS leader in many industries, AmazonManagedBlockchain:  Amazon Managed Blockchain",
+        "5prompt_Hash": "76ae6237397f5ed490ab62b5f8c28800"
+    },
+    "www.g2.com": {
+        "url": "https://www.g2.com/categories/blockchain-as-a-service",
+        "nature": "Invalid: The URL provided is not accessible and the content of the page is not available."
+    },
+    "www.bairesdev.com": {
+        "url": "https://www.bairesdev.com/blog/what-is-blockchain-as-a-service/",
+        "nature": "list of projects"
+    },
+    "appinventiv.com": {
+        "url": "https://appinventiv.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Appinventiv:  full suite of blockchaibased tools and solutions for almost every industry",
+        "5prompt_Hash": "76ae6237397f5ed490ab62b5f8c28800"
+    },
+    "www.techtarget.com": {
+        "url": "https://www.techtarget.com/searchcio/feature/8-blockchain-as-a-service-providers-to-have-on-your-radar",
+        "nature": "list of projects"
+    },
+    "thechief.io": {
+        "url": "https://thechief.io/c/editorial/top-17-blockchain-service-providers/",
+        "nature": "list of projects"
+    },
+    "www.pluralsight.com": {
+        "url": "https://www.pluralsight.com/resources/blog/cloud/blockchain-cloud-comparison-what-is-blockchain-as-a-service-baas",
+        "nature": "list of projects"
+    },
+    "www.trustradius.com": {
+        "url": "https://www.trustradius.com/blockchain-as-a-service-baas",
+        "nature": "list of projects"
+    },
+    "en.wikipedia.org": {
+        "url": "https://en.wikipedia.org/wiki/Blockchain_as_a_service",
+        "nature": "single project",
+        "5prompt_Hash": "76ae6237397f5ed490ab62b5f8c28800"
+    },
+    "www.linkedin.com": {
+        "url": "https://www.linkedin.com/pulse/blockchain-service-baas-what-you-need-know-rajai-m-nuseibeh",
+        "nature": "list of projects"
+    },
+    "expertinsights.com": {
+        "url": "https://expertinsights.com/insights/the-top-blockchain-as-a-service-solutions/",
+        "nature": "list of projects"
+    },
+    "www.leewayhertz.com": {
+        "url": "https://www.leewayhertz.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "LeewayHertz:  full suite of blockchaibased services, including blockchain consulting and hybrid ledger installation and maintenance",
+        "5prompt_Hash": "76ae6237397f5ed490ab62b5f8c28800"
+    },
+    "azure.microsoft.com": {
+        "url": "https://azure.microsoft.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Azure:  Blockchain Services",
+        "5prompt_Hash": "76ae6237397f5ed490ab62b5f8c28800"
+    },
+    "www.oracle.com": {
+        "url": "https://www.oracle.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Oracle:  Blockchain Cloud Service, OracleBlockchainPlatformCloudService:  Oracle Blockchain Platform Cloud Service",
+        "5prompt_Hash": "76ae6237397f5ed490ab62b5f8c28800"
+    },
+    "dspace.mit.edu": {
+        "url": "https://dspace.mit.edu/handle/1721.1/132893",
+        "nature": "list of projects"
+    },
+    "www.huaweicloud.com": {
+        "url": "https://www.huaweicloud.com/intl/en-us/product/bcs.html",
+        "nature": "list of projects"
+    },
+    "www.hpe.com": {
+        "url": "https://www.hpe.com/us/en/solutions/blockchain.html",
+        "nature": "Invalid:DDOS protection screen"
+    },
+    "www.fortunebusinessinsights.com": {
+        "url": "https://www.fortunebusinessinsights.com/blockchain-as-a-service-baas-market-102721",
+        "nature": "Invalid: DDOS protection screen"
+    },
+    "www.eescorporation.com": {
+        "url": "https://www.eescorporation.com/blockchain-as-a-service/",
+        "nature": "list of projects"
+    },
+    "www.accenture.com": {
+        "url": "https://www.accenture.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Accenture:  Blockchain solutions",
+        "5prompt_Hash": "76ae6237397f5ed490ab62b5f8c28800"
+    },
+    "digital-strategy.ec.europa.eu": {
+        "url": "https://digital-strategy.ec.europa.eu/en/policies/european-blockchain-services-infrastructure",
+        "nature": "list of projects"
+    },
+    "www.kaleido.io": {
+        "url": "https://www.kaleido.io",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "KaleidaBlockchainasService:  Kaleida Blockchain as a Service, Kaleido:  fulstack BaaS platform for enterprises to build and run cloubased blockchain networks",
+        "5prompt_Hash": "76ae6237397f5ed490ab62b5f8c28800"
+    },
+    "www.magicfinserv.com": {
+        "url": "https://www.magicfinserv.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Magic FinServ: ",
+        "nature": "list of projects"
+    },
+    "ec.europa.eu": {
+        "url": "https://ec.europa.eu",
+        "cached_url": "not found",
+        "sourcekeyword": "European Commission:  European Blockchain Services Infrastructure",
+        "nature": "list of projects"
+    },
+    "www.samsungsds.com": {
+        "url": "https://www.samsungsds.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Nexledger: ",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria specified. The content is about Samsung SDS services and solutions related to cloud, logistics, digital transformation, security, and awards, but it does not focus on providing simplified, no-code or low-code solutions for deploying and managing EVM-compatible blockchains."
+    },
+    "www.ibm.com": {
+        "url": "https://www.ibm.com",
+        "cached_url": "not found",
+        "sourcekeyword": "IBM:  Blockchain Platform, IBMBlockchain:  IBM Blockchain",
+        "nature": "single project"
+    },
+    "aurachain.ch": {
+        "url": "https://aurachain.ch",
+        "cached_url": "not found",
+        "sourcekeyword": "Aurachain: ",
+        "nature": "list of projects"
+    },
+    "consensys.io": {
+        "url": "https://consensys.io",
+        "cached_url": "not found",
+        "sourcekeyword": "ConsenSysQuorum:  ConsenSys Quorum",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of a platform or service offering simplified, no-code or low-code solutions for deploying and managing EVM-compatible blockchains."
+    },
+    "vendia.com": {
+        "url": "vendia.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Vendia:  Share",
+        "nature": "Invalid:DDOS protection screen"
+    },
+    "inveniam.io": {
+        "url": "inveniam.io",
+        "cached_url": "not found",
+        "sourcekeyword": "Inveniam:  Factom Protocol for managing and securing important documents",
+        "nature": "Invalid:DDOS protection screen"
+    },
+    "chainstack.com": {
+        "url": "https://chainstack.com",
+        "cached_url": "not found",
+        "sourcekeyword": "ChainstackHosting:  Chainstack Hosting",
+        "nature": "list of projects"
+    },
+    "dragonchain.com": {
+        "url": "https://dragonchain.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Dragonchain:  protection of vital business assets and data",
+        "nature": "list of projects"
+    },
+    "curvegrid.com": {
+        "url": "curvegrid.com",
+        "cached_url": "not found",
+        "sourcekeyword": "MultiBaas: ",
+        "nature": "Invalid: The URL provided is not accessible, it seems to be an error page or a DDOS protection screen."
+    },
+    "www.aergo.io": {
+        "url": "https://www.aergo.io",
+        "cached_url": "not found",
+        "sourcekeyword": "Aergo: ",
+        "nature": "list of projects"
+    },
+    "www.aesalesco.com": {
+        "url": "https://www.aesalesco.com",
+        "cached_url": "not found",
+        "sourcekeyword": "AlchemyEnterprise:  Alchemy Enterprise",
+        "nature": "list of projects"
+    },
+    "r3.com": {
+        "url": "https://r3.com",
+        "cached_url": "not found",
+        "sourcekeyword": "R3:  Corda Enterprise",
+        "nature": "Invalid (single). Invalid: The content provided does not match the criteria of a platform or service offering simplified, no-code or low-code solutions for deploying and managing EVM-compatible blockchains."
+    },
+    "vironit.com": {
+        "url": "https://vironit.com",
+        "cached_url": "not found",
+        "sourcekeyword": "VironIT:  multitude of BaaS services, including consulting and blockchaibased mobile app development",
+        "nature": "list of projects"
+    },
+    "system9.io": {
+        "url": "https://system9.io",
+        "cached_url": "not found",
+        "sourcekeyword": "System9:  Inc.",
+        "nature": "list of projects"
+    },
+    "www.innominds.com": {
+        "url": "https://www.innominds.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Innominds:  BaaS for smart contracts and cryptocurrencies",
+        "nature": "Invalid: DDOS protection screen"
+    },
+    "clovyr.io": {
+        "url": "https://clovyr.io",
+        "cached_url": "not found",
+        "sourcekeyword": "Clovyr:  ecosystem of blockchain applications for quick and safe deployment",
+        "nature": "list of projects"
+    },
+    "blockapps.net": {
+        "url": "https://blockapps.net",
+        "cached_url": "not found",
+        "sourcekeyword": "BlockApps:  securitfocused, permissiobased BaaS solutions for enterprise customers",
+        "nature": "Invalid: This model's maximum context length is 16385 tokens. However, your messages resulted in 25904 tokens. Please reduce the length of the messages."
+    },
+    "isg-one.com": {
+        "url": "https://isg-one.com",
+        "cached_url": "not found",
+        "sourcekeyword": "ISG:  Blockchain Now",
+        "nature": "list of projects"
+    },
+    "cloud.huawei.com": {
+        "url": "https://cloud.huawei.com",
+        "cached_url": "not found",
+        "sourcekeyword": "HuaweiCloud:  Blockchain Service (BCS)",
+        "nature": "Invalid (single). Invalid: The content provided does not match the criteria specified. The website mentioned does not offer simplified, no-code or low-code solutions for deploying and managing EVM-compatible blockchains."
+    },
+    "corda.net": {
+        "url": "https://corda.net",
+        "cached_url": "not found",
+        "sourcekeyword": "Corda: ",
+        "nature": "list of projects"
+    },
+    "www.datagumbo.com": {
+        "url": "https://www.datagumbo.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Data Gumbo: ",
+        "nature": "list of projects"
+    },
+    "getblock.io": {
+        "url": "https://getblock.io",
+        "cached_url": "not found",
+        "sourcekeyword": "GetBlock: ",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of a platform or service offering simplified, no-code or low-code solutions for deploying and managing EVM-compatible blockchains."
+    },
+    "altoros.com": {
+        "url": "altoros.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Altoros:  uses blockchain to automate workflow processes, fortify identity security, and manage records",
+        "nature": "Invalid: The URL provided is not accessible or valid."
+    },
+    "www.skuchain.com": {
+        "url": "https://www.skuchain.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Skuchain:  blockchaibased infrastructure in current IT processes for the shipping and logistics industry",
+        "nature": "list of projects"
+    },
+    "www.hollaex.com": {
+        "url": "https://www.hollaex.com",
+        "cached_url": "not found",
+        "sourcekeyword": "HollaEx: ",
+        "nature": "single project",
+        "5prompt_Hash": "76ae6237397f5ed490ab62b5f8c28800"
+    },
+    "blockstream.com": {
+        "url": "https://blockstream.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Blockstream:  scalable financial solutions for the Bitcoin ecosystem and protocol",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of a platform or service offering simplified, no-code or low-code solutions for deploying and managing EVM-compatible blockchains."
+    },
+    "www.cryptowerk.com": {
+        "url": "https://www.cryptowerk.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Cryptowerk:  blockchain as a service to create ledgebased tools that seal off important data",
+        "nature": "list of projects"
+    },
+    "bloq.com": {
+        "url": "https://bloq.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Bloq:  suite of BaaS tools focusing on key issues in business reconciliation, authentication, and security",
+        "nature": "list of projects"
+    }
+}

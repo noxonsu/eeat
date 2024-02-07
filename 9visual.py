@@ -25,8 +25,8 @@ from langchain.memory import ConversationSummaryBufferMemory
 
 from utils import *
 
-BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
-SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-1106')
+BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-0125')
+SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-0125')
 
 # Environment variables
 OPENAI_API_KEY = os.environ.get('MY_OPENAI_KEY', os.environ.get('OPENAI_API_KEY_DEFAULT'))
@@ -52,8 +52,13 @@ if cfl:
 else:
     clusterized_features_list_f = ""
 
-with open(f"data/{INDUSTRY_KEYWORD}/article_pricing.md", "r") as f:
-    prices_article = f.read()
+# Load article about prices if file not found prices_article = "Prices not analysed"
+try:
+    with open(f"data/{INDUSTRY_KEYWORD}/article_pricing.md", "r") as f:
+        prices_article = f.read()
+except:
+    prices_article = "Prices not analysed"
+    pass
 
 if __name__ == "__main__":
     input = clusterized_features_list_f

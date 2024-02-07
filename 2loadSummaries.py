@@ -7,12 +7,12 @@ from langchain.schema import SystemMessage, HumanMessage
 from langchain.chat_models import ChatOpenAI
 import requests
 import re
-
+import traceback
 from utils import *
 
 
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
-ADDITIONAL_INFO = os.environ.get('ADDITIONAL_INFO','')
+ADDITIONAL_INFO = os.environ.get('ADDITIONAL_INFO_FOR_FILTERING_PROJECTS','')
 
 data_folder = f"data/{INDUSTRY_KEYWORD}"
 companies_file = "1companies.json"
@@ -25,8 +25,8 @@ def load_data_without_nature(filename):
 def load_products(filename):
     return load_from_json_file(filename)
 
-BASE_GPTV= os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
-SMART_GPTV= os.environ.get('SMART_GPTV','gpt-3.5-turbo-1106')
+BASE_GPTV= os.environ.get('BASE_GPTV','gpt-3.5-turbo-0125')
+SMART_GPTV= os.environ.get('SMART_GPTV','gpt-3.5-turbo-0125')
 OPENAI_API_KEY = os.environ.get('MY_OPENAI_KEY', os.environ.get('OPENAI_API_KEY_DEFAULT'))
 if not OPENAI_API_KEY.startswith('sk-'):
     OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY_DEFAULT')
@@ -59,7 +59,7 @@ def is_product_or_list(summary, company_products):
         else:
             #if this is a single company use additional user's check
             response2 = chat(messages = [
-                SystemMessage(content="Return 'Yes' if the content: \n\n"+ADDITIONAL_INFO+" \n\n . otherwise return invalid: (reason)"),
+                SystemMessage(content="Return 'Yes' if the content match the criteria: \n\n"+ADDITIONAL_INFO+" \n\n . otherwise return invalid: (reason)"),
                 HumanMessage(content=summary)
             ])
 
@@ -77,8 +77,7 @@ def is_product_or_list(summary, company_products):
 
             for line in product_lines:
                 #remove - and spaces from company name
-                line = re.sub(r'(\w)-(\w)', r'\1\2', line)
-                line = re.sub(r'-(\w)', r'\1\2', line)
+                line = re.sub(r'(\w)-(\w)', r'\2', line)
                 parts = line.strip().split(":")
                 if len(parts) >= 2:
                     company_name, product_name = parts[0], parts[1]
@@ -87,10 +86,14 @@ def is_product_or_list(summary, company_products):
             return "list of projects", company_products
         else:
             return "single project", []
-
+    
     except Exception as e:
-        print(f"An error occurred: {e}")
-        return "unknown", []
+        print("ERROR 2loadSummaries.py: is_product_or_list.")
+        print(traceback.format_exc())
+        return "Invalid: "+str(e), []
+    
+
+    
 
 
 

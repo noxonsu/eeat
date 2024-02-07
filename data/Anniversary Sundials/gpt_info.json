@@ -1,4 +1,4 @@
 {
-    "BASE_GPTV": "gpt-3.5-turbo-1106",
-    "SMART_GPTV": "gpt-3.5-turbo-1106"
+    "BASE_GPTV": "gpt-3.5-turbo-0125",
+    "SMART_GPTV": "gpt-3.5-turbo-0125"
 }

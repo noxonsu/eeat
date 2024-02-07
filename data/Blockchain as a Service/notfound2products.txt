@@ -1,0 +1,15 @@
+akaChain:  -> akaChain
+List of projects:  -> List of projects
+VMware:  Blockchain -> VMware
+Alchemy:  -> Alchemy
+Threely:  -> Threely
+Symbol:  -> Symbol
+LinkedIn:  Blockchain as a Service (BaaS) -> LinkedIn
+Investopedia:  Blockchaiaa-Service (BaaS) -> Investopedia
+Microsoft:  Blockchain solution -> Microsoft
+EnterpriseEngineeringSolutionsInc:  Blockchain as a Service -> EnterpriseEngineeringSolutionsInc
+Mitosis Technologies:  -> Mitosis Technologies
+Factom:  Harmony -> Factom
+MIT:  Blockchaiaa-service -> MIT
+Anyblock:  RPC Services -> Anyblock
+HPE:  MissioCritical DLT -> HPE

@@ -1,0 +1,311 @@
+{
+    "aws.amazon.com": {
+        "Blockchain as a Service Products": [
+            {
+                "name": "Amazon Managed Blockchain",
+                "call_to_action": "Sign up for Amazon Managed Blockchain",
+                "usecases": [
+                    "Creating and managing scalable blockchain networks"
+                ],
+                "solutions": [
+                    "Scalable blockchain network management"
+                ],
+                "key_features": [
+                    "Scalability",
+                    "Network Management",
+                    "Security"
+                ]
+            },
+            {
+                "name": "Amazon Quantum Ledger Database (QLDB)",
+                "call_to_action": "Sign up for Amazon Quantum Ledger Database",
+                "usecases": [
+                    "Fully managed ledger database"
+                ],
+                "solutions": [
+                    "Secure ledger database management"
+                ],
+                "key_features": [
+                    "Fully Managed",
+                    "Data Integrity",
+                    "Security"
+                ]
+            }
+        ]
+    },
+    "appinventiv.com": {
+        "Blockchain as a Service": {
+            "call_to_action": "Contact our experts for personalized suggestions",
+            "usecases": [
+                {
+                    "industry": "Healthcare",
+                    "description": "Revolutionizing healthcare by maintaining transparent patient medical data and verifying the authenticity of medicines."
+                },
+                {
+                    "industry": "Automotive",
+                    "description": "Managing supply chains, tracking genuine automotive parts, and optimizing production efficiency."
+                },
+                {
+                    "industry": "FinTech",
+                    "description": "Simplifying financial processes, enhancing transparency, and introducing smart cards for faster settlements."
+                },
+                {
+                    "industry": "Transportation and logistics",
+                    "description": "Streamlining identity verification for goods and passengers, ensuring efficient cargo movement."
+                },
+                {
+                    "general": true,
+                    "description": "Document tracking, data storage, contract execution, and more."
+                }
+            ],
+            "solutions": "Blockchain-as-a-Service (BaaS) provides third-party cloud infrastructure for developing and managing Blockchain applications without in-house investment. It operates similarly to SaaS, PaaS, and IaaS models.",
+            "key_features": "Cloud-based Blockchain application development, hosting, and maintenance; Support for smart contracts; Data security features; Bandwidth management; Resource allocation.",
+            "platform_offering": "Simplified, no-code or low-code solutions for deploying and managing EVM-compatible blockchains, targeted at users seeking to create decentralized applications or private blockchain networks without extensive coding knowledge."
+        }
+    },
+    "en.wikipedia.org": {
+        "BlockchainServices": [
+            {
+                "ServiceName": "IBM Blockchain Platform",
+                "CallToAction": "Talk to a manager",
+                "UseCases": [
+                    "Supply chain management",
+                    "Digital identity verification",
+                    "Smart contracts"
+                ],
+                "Solutions": "Provides a secure and scalable platform for creating, deploying, and managing blockchain networks",
+                "KeyFeatures": {
+                    "High security standards": "Utilizes Hyperledger Fabric for secure transactions",
+                    "Integration capabilities": "Easily integrates with existing systems and applications",
+                    "Analytics tools": "Offers advanced analytics for monitoring blockchain performance"
+                },
+                "PlatformType": "Enterprise-focused platform for creating blockchain networks with advanced features"
+            },
+            {
+                "ServiceName": "Microsoft Azure Blockchain",
+                "CallToAction": "Book a demo",
+                "UseCases": [
+                    "Asset tokenization",
+                    "Supply chain tracking",
+                    "Decentralized applications"
+                ],
+                "Solutions": "Enables the creation of blockchain applications using various protocols like Ethereum, Corda, and Quorum",
+                "KeyFeatures": {
+                    "Template library": "Provides pre-built templates for quick blockchain network setup",
+                    "Scalability options": "Supports scaling of blockchain networks based on demand",
+                    "Developer tools": "Offers a range of tools for developers to build and deploy blockchain solutions"
+                },
+                "PlatformType": "Flexible platform supporting multiple blockchain protocols for diverse use cases"
+            },
+            {
+                "ServiceName": "Amazon Managed Blockchain",
+                "CallToAction": "Sign up",
+                "UseCases": [
+                    "Cross-border payments",
+                    "Supply chain transparency",
+                    "Auditable record-keeping"
+                ],
+                "Solutions": "Simplifies the creation and management of scalable blockchain networks using Hyperledger Fabric or Ethereum",
+                "KeyFeatures": {
+                    "Automated scaling": "Automatically scales network resources based on usage",
+                    "Managed nodes": "Handles node provisioning and maintenance tasks",
+                    "Monitoring tools": "Provides monitoring tools for network performance and health"
+                },
+                "PlatformType": "Scalable and managed blockchain service for various business applications"
+            }
+        ]
+    },
+    "www.leewayhertz.com": {
+        "Blockchain_as_a_Service": {
+            "name": "Blockchain as a Service (BaaS)",
+            "call_to_action": "Talk to our Consultant",
+            "usecases": [
+                "Develop, host, and adopt blockchain applications",
+                "Smart contracts creation and management",
+                "Utilize cloud-based solutions for blockchain technology"
+            ],
+            "solutions": "Cloud-based solutions for developing, hosting, and adopting blockchain applications",
+            "key_features": [
+                "Cloud-based blockchain development",
+                "Smart contract management",
+                "Infrastructure management by service provider",
+                "Support activities like incident management and security surveillance",
+                "Configurable blockchain networks (Ethereum, Bitcoin, etc.)"
+            ],
+            "no_code_low_code": true
+        }
+    },
+    "azure.microsoft.com": {
+        "Blockchain_Services": [
+            {
+                "Service_Name": "Azure Blockchain Service",
+                "Call_to_Action": "Contact Sales",
+                "Usecases": [
+                    "Decentralized application development",
+                    "Private blockchain networks"
+                ],
+                "Solutions": [
+                    "Quorum Blockchain Service",
+                    "Microsoft Entra Verified ID",
+                    "Azure Managed Confidential Consortium Framework Preview",
+                    "Azure confidential ledger"
+                ],
+                "Key_Features": [
+                    "Fully managed blockchain service",
+                    "Support for decentralized networks",
+                    "Developer tooling ecosystem",
+                    "Deep Microsoft Research engagement"
+                ],
+                "Additional_Info": "Azure Blockchain Service offers solutions for building decentralized applications and private blockchain networks. It provides features like Quorum Blockchain Service, Microsoft Entra Verified ID, Azure Managed Confidential Consortium Framework Preview, and Azure confidential ledger. The service emphasizes on being fully managed, supporting decentralized networks, offering a developer-friendly ecosystem, and engaging with Microsoft Research for innovative solutions."
+            }
+        ]
+    },
+    "www.oracle.com": {
+        "Blockchain_Service": {
+            "name": "Oracle Blockchain Platform",
+            "call_to_action": "Contact Sales",
+            "usecases": [
+                "Secure collaboration with multiple parties",
+                "Real-time data sharing",
+                "Trusted transactions among business partners",
+                "Intercompany transactions handling",
+                "Supply chain visibility and tracking",
+                "Tamper-resistant blockchain tables in Oracle Database"
+            ],
+            "solutions": [
+                "Cloud service for blockchain technology adoption",
+                "On-premises edition for greater data privacy",
+                "SaaS application for supply chain management",
+                "Crypto-Secure Data Management in Oracle Database"
+            ],
+            "key_features": {
+                "Oracle Blockchain Platform Cloud Service": [
+                    "Automate with smart contracts",
+                    "Conduct private transactions",
+                    "Integrate blockchain transactions with other applications",
+                    "Comprehensive monitoring",
+                    "Build trusted business networks"
+                ],
+                "Oracle Blockchain Platform Enterprise Edition": [
+                    "Blockchain platform manager",
+                    "All components for a Hyperledger Fabric blockchain",
+                    "Oracle Blockchain Platform console and DevOps APIs",
+                    "Oracle REST API for transactions, queries, and events",
+                    "Identity management via OpenLDAP, MS Active Directory, and Oracle Directory"
+                ],
+                "Intelligent Track and Trace": [
+                    "End-to-end supply chain visibility",
+                    "Leverage blockchain technology with less risk",
+                    "Track, trace, and monitor product conditions",
+                    "Quick deployment with preintegrated blockchain",
+                    "Connect to other applications and data sources"
+                ],
+                "Oracle Database Crypto-Secure Data Management": [
+                    "Immutable Tables for preventing illicit insider changes",
+                    "Blockchain Tables for detecting illicit hacker changes",
+                    "Distributed Table Digest for detecting DB rollbacks or illicit changes",
+                    "User Data Signing for preventing fraud by impersonators"
+                ]
+            },
+            "no_code_low_code_solution": true
+        }
+    },
+    "www.accenture.com": {
+        "Blockchain_Service": {
+            "name": "Accenture Blockchain Solutions",
+            "call_to_action": "Contact Us",
+            "usecases": [
+                "Frictionless business solutions",
+                "Social impact through blockchain",
+                "Financial services infrastructure",
+                "Decentralized digital identity",
+                "Supply chain optimization"
+            ],
+            "solutions": "Accenture offers blockchain solutions for various industries and use cases, focusing on integrating blockchain technology into existing enterprise software and cloud services.",
+            "key_features": [
+                "Strong relationships and cross-ecosystem expertise",
+                "Alliances and partnerships across industries",
+                "Strategy assessment for blockchain implementation",
+                "Hands-on training & rapid prototyping",
+                "Holistic solution design",
+                "Build & implementation services",
+                "Proprietary software add-ons for customization",
+                "Ecosystem management for blockchain networks"
+            ],
+            "no_code_low_code": false
+        }
+    },
+    "www.kaleido.io": {
+        "Blockchain as a Service": {
+            "Call to action": "Talk to an Expert",
+            "Usecases": [
+                "Financial Services",
+                "CBDCs",
+                "ESG & Climate",
+                "Insurance",
+                "Gaming",
+                "Government",
+                "Supply Chains"
+            ],
+            "Solutions": {
+                "Blockchain as a Service": {
+                    "Key Features": "Multi-protocol, cross-cloud, and hybrid",
+                    "Platform Type": "Industry leading BaaS",
+                    "Benefits": [
+                        "Click-button setups",
+                        "Easy governance",
+                        "Enterprise-grade security"
+                    ]
+                },
+                "Web3 Gateway": {
+                    "Key Features": "A complete stack for enterprises to build and scale secure web3 applications",
+                    "Platform Type": "Industry first open source Supernode",
+                    "Benefits": [
+                        "Accelerate Development",
+                        "Automate Deployment",
+                        "Run at Scale"
+                    ]
+                },
+                "Digital Asset Platform": {
+                    "Key Features": "Launch an institutional-grade digital asset platform on public or private chains",
+                    "Platform Type": "Institutional-grade digital asset platform",
+                    "Benefits": [
+                        "Next generation security",
+                        "Easy tokenization",
+                        "SOC 2 Type 2 compliant"
+                    ]
+                },
+                "NFT Platform": {
+                    "Key Features": "Own and operate a mass-scale dedicated NFT platform with zero gas fees",
+                    "Platform Type": "Mass-scale dedicated NFT platform",
+                    "Benefits": [
+                        "Fully customizable",
+                        "Unlimited scale",
+                        "Dedicated chain"
+                    ]
+                }
+            },
+            "Platform Type": "Simplified, no-code or low-code solutions for deploying and managing EVM-compatible blockchains",
+            "Additional Information": "Kaleido offers a range of blockchain solutions catering to various industries with a focus on enterprise-grade security and scalability. The platform provides easy governance, accelerates development, and offers next-generation security features."
+        }
+    },
+    "www.hollaex.com": {
+        "product_name": "HollaEx",
+        "call_to_action": "Get Started",
+        "usecases": [
+            "Businesses integrating digital assets into trading platforms",
+            "Coin listing and trading",
+            "Developing with open-source exchange software",
+            "Seamless crypto trading experience"
+        ],
+        "solutions": "HollaEx is a white-label exchange solution that connects businesses to the blockchain world, allowing for easy setup of customized crypto exchanges with features like branding, user onboarding, and operator controls.",
+        "key_features": {
+            "Customizable Platform": "Ability to add coins and markets, customize branding, and market on your own website",
+            "Operator Controls": "Master exchange dynamics with admin controls for deploying capital, adjusting fees, setting up staking pools, etc.",
+            "Automated Trade Matching Engine": "Fast and custom trade matching engine for efficient trading experience",
+            "Security Features": "Battle-tested software with audits, secure wallet integration, and high standard security policies",
+            "Revenue Sharing Model": "Unique revenue-sharing model where trading fees contribute to a collective pool"
+        },
+        "no_code_low_code_solution": true
+    }
+}

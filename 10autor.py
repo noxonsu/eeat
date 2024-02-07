@@ -9,8 +9,8 @@ OPENAI_API_KEY = os.environ.get('MY_OPENAI_KEY', os.environ.get('OPENAI_API_KEY_
 openai.api_key = OPENAI_API_KEY  # Set the OpenAI API key
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 KEYWORD_FOR_SERP = os.environ.get('KEYWORD_FOR_SERP', INDUSTRY_KEYWORD)
-BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
-SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-1106')
+BASE_GPTV = os.environ.get('BASE_GPTV','gpt-3.5-turbo-0125')
+SMART_GPTV = os.environ.get('SMART_GPTV','gpt-3.5-turbo-0125')
 async def fetch_page_content(url):
     async with async_playwright() as p:
         browser = await p.chromium.launch()

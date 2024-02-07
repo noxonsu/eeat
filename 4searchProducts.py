@@ -18,7 +18,7 @@ if not OPENAI_API_KEY.startswith('sk-'):
 INDUSTRY_KEYWORD = os.environ.get('INDUSTRY_KEYWORD')
 SERP_PRICES_EXT = os.environ.get('SERP_PRICES_EXT')
 data_folder = f"data/{INDUSTRY_KEYWORD}"
-BASE_GPTV= os.environ.get('BASE_GPTV','gpt-3.5-turbo-1106')
+BASE_GPTV= os.environ.get('BASE_GPTV','gpt-3.5-turbo-0125')
 
 if not SERPAPI_KEY:
     print("Please set the SERPAPI_KEY environment variable.")

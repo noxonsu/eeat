@@ -213,22 +213,25 @@ def search_companies_on_google(industry_query,limt):
         print(results)  # This will print the structure of results to inspect it
         return []
     
+from datetime import datetime
+
 def get_wayback_url(input_url):
-    base_url = "https://archive.org/wayback/available?url="
-    full_url = base_url + input_url
+    # Format the current datetime in the RFC 1123 format that the Accept-Datetime header requires
+    current_datetime = datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
+    timegate_base_url = "http://timetravel.mementoweb.org/timegate/"
+    full_url = timegate_base_url + input_url
 
     try:
-        response = requests.get(full_url)
+        # Include the Accept-Datetime header with the current datetime
+        headers = {'Accept-Datetime': current_datetime}
+        response = requests.head(full_url, headers=headers)  # Use HEAD to get headers only
         response.raise_for_status()
-        result = response.json()
         
-        # Check if "archived_snapshots" is available in the response
-        if "archived_snapshots" in result and "closest" in result["archived_snapshots"]:
-            closest_snapshot = result["archived_snapshots"]["closest"]
-            if closest_snapshot.get("available") and closest_snapshot.get("url"):
-                return closest_snapshot["url"]
-        
-        return None  # Return None if no valid URL is found
+        # Check if the "Location" header is available in the response, indicating a redirect to the closest memento
+        if "Location" in response.headers:
+            return response.headers["Location"]
+
+        return None  # Return None if no "Location" header is found
 
     except requests.exceptions.HTTPError as err:
         print(f"Error: {err}")
@@ -236,4 +239,3 @@ def get_wayback_url(input_url):
     except requests.exceptions.RequestException as err:
         print(f"Error: {err}")
         return None
-    
