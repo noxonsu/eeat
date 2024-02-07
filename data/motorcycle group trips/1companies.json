@@ -1,104 +1,138 @@
 {
     "chicagomotorcycletours.com": {
-        "url": "https://chicagomotorcycletours.com/"
+        "url": "https://chicagomotorcycletours.com/",
+        "nature": "list of projects"
     },
     "www.rideadv.com": {
-        "url": "https://www.rideadv.com/motorcycle-tours"
+        "url": "https://www.rideadv.com/motorcycle-tours",
+        "nature": "list of projects"
     },
     "www.eaglerider.com": {
-        "url": "https://www.eaglerider.com/motorcycle-tours"
+        "url": "https://www.eaglerider.com/motorcycle-tours",
+        "nature": "list of projects"
     },
     "www.motoquest.com": {
-        "url": "https://www.motoquest.com/motorcycle-tours/"
+        "url": "https://www.motoquest.com/motorcycle-tours/",
+        "nature": "list of projects"
     },
     "www.edelweissbike.com": {
-        "url": "https://www.edelweissbike.com/"
+        "url": "https://www.edelweissbike.com/",
+        "nature": "list of projects"
     },
     "www.tourradar.com": {
-        "url": "https://www.tourradar.com/f/motorcycle-ride"
+        "url": "https://www.tourradar.com/f/motorcycle-ride",
+        "nature": "list of projects"
     },
     "ridebdr.com": {
-        "url": "https://ridebdr.com/touring/"
+        "url": "https://ridebdr.com/touring/",
+        "nature": "list of projects"
     },
     "www.ayresadventures.com": {
-        "url": "https://www.ayresadventures.com/"
+        "url": "https://www.ayresadventures.com/",
+        "nature": "list of projects"
     },
     "www.mensjournal.com": {
-        "url": "https://www.mensjournal.com/adventure/25-perfect-motorcycle-trips"
+        "url": "https://www.mensjournal.com/adventure/25-perfect-motorcycle-trips",
+        "nature": "Invalid: The URL provided leads to a timeout error and does not contain any relevant information to analyze."
     },
     "www.globebusters.com": {
-        "url": "https://www.globebusters.com/"
+        "url": "https://www.globebusters.com/",
+        "nature": "list of projects"
     },
     "www.tripaneer.com": {
-        "url": "https://www.tripaneer.com/all/c/motorcycle-tours/d/usa"
+        "url": "https://www.tripaneer.com/all/c/motorcycle-tours/d/usa",
+        "nature": "Invalid: The URL provided is not accessible and returns an error message."
     },
     "www.motourismo.com": {
-        "url": "https://www.motourismo.com/en/usa.html"
+        "url": "https://www.motourismo.com/en/usa.html",
+        "nature": "list of projects"
     },
     "ridefree.com": {
-        "url": "https://ridefree.com/guided_motorcycle_tours"
+        "url": "https://ridefree.com/guided_motorcycle_tours",
+        "nature": "list of projects"
     },
     "bucketlistmotorcycletours.com": {
-        "url": "https://bucketlistmotorcycletours.com/"
+        "url": "https://bucketlistmotorcycletours.com/",
+        "nature": "list of projects"
     },
     "www.ridingroute66.us": {
-        "url": "https://www.ridingroute66.us/Route-66-motorcycle-small-group-tour"
+        "url": "https://www.ridingroute66.us/Route-66-motorcycle-small-group-tour",
+        "nature": "list of projects"
     },
     "www.motorcycle.com": {
-        "url": "https://www.motorcycle.com/features/best-motorcycle-touring-companies.html"
+        "url": "https://www.motorcycle.com/features/best-motorcycle-touring-companies.html",
+        "nature": "list of projects"
     },
     "www.vintagerides.travel": {
-        "url": "https://www.vintagerides.travel/"
+        "url": "https://www.vintagerides.travel/",
+        "nature": "list of projects"
     },
     "rideexpeditions.com": {
-        "url": "https://rideexpeditions.com/"
+        "url": "https://rideexpeditions.com/",
+        "nature": "list of projects"
     },
     "motorcycletoursitaly.com": {
-        "url": "https://motorcycletoursitaly.com/"
+        "url": "https://motorcycletoursitaly.com/",
+        "nature": "list of projects"
     },
     "freedomdestinations.co.uk": {
-        "url": "https://freedomdestinations.co.uk/america/motorcycle-tours"
+        "url": "https://freedomdestinations.co.uk/america/motorcycle-tours",
+        "nature": "list of projects"
     },
     "ride.vision": {
-        "url": "https://ride.vision/blog/5-international-motorcycle-tours-you-need-to-take/"
+        "url": "https://ride.vision/blog/5-international-motorcycle-tours-you-need-to-take/",
+        "nature": "list of projects"
     },
     "emmausmototours.com": {
-        "url": "https://emmausmototours.com/"
+        "url": "https://emmausmototours.com/",
+        "nature": "list of projects"
     },
     "www.harley-davidson.com": {
-        "url": "https://www.harley-davidson.com/us/en/content/motorcycle-tours.html"
+        "url": "https://www.harley-davidson.com/us/en/content/motorcycle-tours.html",
+        "nature": "unknown"
     },
     "www.planet-ride.com": {
-        "url": "https://www.planet-ride.com/en/motorcycle-tours/"
+        "url": "https://www.planet-ride.com/en/motorcycle-tours/",
+        "nature": "list of projects"
     },
     "motorrad-tours.com": {
-        "url": "https://motorrad-tours.com/"
+        "url": "https://motorrad-tours.com/",
+        "nature": "list of projects"
     },
     "www.routetripusa.co.uk": {
-        "url": "https://www.routetripusa.co.uk/usa-motorcycle-tours-holidays.html"
+        "url": "https://www.routetripusa.co.uk/usa-motorcycle-tours-holidays.html",
+        "nature": "list of projects"
     },
     "ridermagazine.com": {
-        "url": "https://ridermagazine.com/2020/05/14/list-of-u-s-motorcycle-tour-operators-2020/"
+        "url": "https://ridermagazine.com/2020/05/14/list-of-u-s-motorcycle-tour-operators-2020/",
+        "nature": "Invalid: The URL provided is not accessible and returns a timeout error."
     },
     "www.bmwmotorcycles.com": {
-        "url": "https://www.bmwmotorcycles.com/en/experience/worldwide-travel.html"
+        "url": "https://www.bmwmotorcycles.com/en/experience/worldwide-travel.html",
+        "nature": "list of projects"
     },
     "www.mototourseurope.com": {
-        "url": "https://www.mototourseurope.com/moto-tour-europe"
+        "url": "https://www.mototourseurope.com/moto-tour-europe",
+        "nature": "list of projects"
     },
     "www.imtbike.com": {
-        "url": "https://www.imtbike.com/motorcycle-tours/"
+        "url": "https://www.imtbike.com/motorcycle-tours/",
+        "nature": "list of projects"
     },
     "www.bmca.com": {
-        "url": "https://www.bmca.com/"
+        "url": "https://www.bmca.com/",
+        "nature": "list of projects"
     },
     "www.bigbiketours.com": {
-        "url": "https://www.bigbiketours.com/"
+        "url": "https://www.bigbiketours.com/",
+        "nature": "list of projects"
     },
     "www.mototoursjapan.com": {
-        "url": "https://www.mototoursjapan.com/"
+        "url": "https://www.mototoursjapan.com/",
+        "nature": "list of projects"
     },
     "crmt.tours": {
-        "url": "https://crmt.tours/"
+        "url": "https://crmt.tours/",
+        "nature": "list of projects"
     }
 }
