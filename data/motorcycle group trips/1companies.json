@@ -136,39 +136,51 @@
         "nature": "list of projects"
     },
     "www.facebook.com": {
-        "url": "https://www.facebook.com/ChicagoMotorcycleTours/"
+        "url": "https://www.facebook.com/ChicagoMotorcycleTours/",
+        "nature": "unknown"
     },
     "www.riders-share.com": {
-        "url": "https://www.riders-share.com/blog/article/5-postcard-perfect-midwestern-motorcycle-routes-around-chicago-2020"
+        "url": "https://www.riders-share.com/blog/article/5-postcard-perfect-midwestern-motorcycle-routes-around-chicago-2020",
+        "nature": "Invalid: The URL provided is not accessible and returns a timeout error."
     },
     "www.mtg-motorcycle.com": {
-        "url": "https://www.mtg-motorcycle.com/"
+        "url": "https://www.mtg-motorcycle.com/",
+        "nature": "unknown"
     },
     "advmotoclub.com": {
-        "url": "https://advmotoclub.com/"
+        "url": "https://advmotoclub.com/",
+        "nature": "unknown"
     },
     "bajaboundmoto.com": {
-        "url": "https://bajaboundmoto.com/"
+        "url": "https://bajaboundmoto.com/",
+        "nature": "unknown"
     },
     "luxurytravelhackers.com": {
-        "url": "https://luxurytravelhackers.com/motorcycle-trips/"
+        "url": "https://luxurytravelhackers.com/motorcycle-trips/",
+        "nature": "unknown"
     },
     "freedommotorcycletours.com": {
-        "url": "https://freedommotorcycletours.com/"
+        "url": "https://freedommotorcycletours.com/",
+        "nature": "unknown"
     },
     "groups.place": {
-        "url": "https://groups.place/MEWS"
+        "url": "https://groups.place/MEWS",
+        "nature": "Invalid: The URL provided is not accessible or valid."
     },
     "ridewithlocals.is": {
-        "url": "https://ridewithlocals.is/6-days-iceland-motorcycle-adventure/"
+        "url": "https://ridewithlocals.is/6-days-iceland-motorcycle-adventure/",
+        "nature": "unknown"
     },
     "www.ridewithustours.co.uk": {
-        "url": "https://www.ridewithustours.co.uk/"
+        "url": "https://www.ridewithustours.co.uk/",
+        "nature": "unknown"
     },
     "www.biketourasia.com": {
-        "url": "https://www.biketourasia.com/"
+        "url": "https://www.biketourasia.com/",
+        "nature": "unknown"
     },
     "jaspermotorcycletours.com": {
-        "url": "https://jaspermotorcycletours.com/"
+        "url": "https://jaspermotorcycletours.com/",
+        "nature": "unknown"
     }
 }
