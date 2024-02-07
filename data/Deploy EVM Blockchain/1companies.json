@@ -1,89 +1,118 @@
 {
     "docs.avax.network": {
-        "url": "https://docs.avax.network/build/subnet/utility/deploy-smart-contract-to-subnet"
+        "url": "https://docs.avax.network/build/subnet/utility/deploy-smart-contract-to-subnet",
+        "nature": "unknown"
     },
     "medium.com": {
-        "url": "https://medium.com/@insightstake/evm-smart-contract-deployment-part-1-testnets-6518b5bd3fc7"
+        "url": "https://medium.com/@insightstake/evm-smart-contract-deployment-part-1-testnets-6518b5bd3fc7",
+        "nature": "unknown"
     },
     "docs.alchemy.com": {
-        "url": "https://docs.alchemy.com/docs/best-practices-for-deploying-a-smart-contract-on-evm-mainnets-1"
+        "url": "https://docs.alchemy.com/docs/best-practices-for-deploying-a-smart-contract-on-evm-mainnets-1",
+        "nature": "unknown"
     },
     "blog.tenderly.co": {
-        "url": "https://blog.tenderly.co/how-to-deploy-smart-contracts-with-hardhat-and-tenderly/"
+        "url": "https://blog.tenderly.co/how-to-deploy-smart-contracts-with-hardhat-and-tenderly/",
+        "nature": "unknown"
     },
     "blog.thirdweb.com": {
-        "url": "https://blog.thirdweb.com/any-contract-any-evm-chain/"
+        "url": "https://blog.thirdweb.com/any-contract-any-evm-chain/",
+        "nature": "unknown"
     },
     "101blockchains.com": {
-        "url": "https://101blockchains.com/deploy-smart-contract/"
+        "url": "https://101blockchains.com/deploy-smart-contract/",
+        "nature": "unknown"
     },
     "www.starton.com": {
-        "url": "https://www.starton.com/product/deploy"
+        "url": "https://www.starton.com/product/deploy",
+        "nature": "unknown"
     },
     "docs.fantom.foundation": {
-        "url": "https://docs.fantom.foundation/smart-contract/deploy-a-smart-contract"
+        "url": "https://docs.fantom.foundation/smart-contract/deploy-a-smart-contract",
+        "nature": "unknown"
     },
     "www.doubloin.com": {
-        "url": "https://www.doubloin.com/learn/ethereum-virtual-machine-smart-contracts"
+        "url": "https://www.doubloin.com/learn/ethereum-virtual-machine-smart-contracts",
+        "nature": "unknown"
     },
     "docs.oracle.com": {
-        "url": "https://docs.oracle.com/en/database/other-databases/blockchain-enterprise/21.1/user/run-solidity-smart-contracts-evm-oracle-blockchain-platform.html"
+        "url": "https://docs.oracle.com/en/database/other-databases/blockchain-enterprise/21.1/user/run-solidity-smart-contracts-evm-oracle-blockchain-platform.html",
+        "nature": "unknown"
     },
     "eightify.app": {
-        "url": "https://eightify.app/summary/blockchain-and-cryptocurrency/beginner-s-guide-to-truffle-deploy-smart-contracts-on-evm-blockchains"
+        "url": "https://eightify.app/summary/blockchain-and-cryptocurrency/beginner-s-guide-to-truffle-deploy-smart-contracts-on-evm-blockchains",
+        "nature": "Invalid: The URL provided is not accessible and returns an error message."
     },
     "docs.evmos.org": {
-        "url": "https://docs.evmos.org/develop/smart-contracts"
+        "url": "https://docs.evmos.org/develop/smart-contracts",
+        "nature": "unknown"
     },
     "news.fuse.io": {
-        "url": "https://news.fuse.io/how-to-deploy-a-smart-contract-on-fuse-blockchain"
+        "url": "https://news.fuse.io/how-to-deploy-a-smart-contract-on-fuse-blockchain",
+        "nature": "unknown"
     },
     "www.quicknode.com": {
-        "url": "https://www.quicknode.com/guides/ethereum-development/smart-contracts/an-overview-of-how-smart-contracts-work-on-ethereum"
+        "url": "https://www.quicknode.com/guides/ethereum-development/smart-contracts/an-overview-of-how-smart-contracts-work-on-ethereum",
+        "nature": "unknown"
     },
     "hackernoon.com": {
-        "url": "https://hackernoon.com/how-to-migrate-smart-contracts-to-any-evm"
+        "url": "https://hackernoon.com/how-to-migrate-smart-contracts-to-any-evm",
+        "nature": "Invalid: No relevant information about products, services, or solutions mentioned in the text."
     },
     "developers.circle.com": {
-        "url": "https://developers.circle.com/w3s/docs/scp-deploy-smart-contract"
+        "url": "https://developers.circle.com/w3s/docs/scp-deploy-smart-contract",
+        "nature": "unknown"
     },
     "docs.astar.network": {
-        "url": "https://docs.astar.network/docs/build/builder-guides/astar_features/use_remix"
+        "url": "https://docs.astar.network/docs/build/builder-guides/astar_features/use_remix",
+        "nature": "unknown"
     },
     "www.leewayhertz.com": {
-        "url": "https://www.leewayhertz.com/ethereum-smart-contract-tutorial/"
+        "url": "https://www.leewayhertz.com/ethereum-smart-contract-tutorial/",
+        "nature": "unknown"
     },
     "docs.aioz.network": {
-        "url": "https://docs.aioz.network/developing/evm-smart-contracts/hardhat-deploy"
+        "url": "https://docs.aioz.network/developing/evm-smart-contracts/hardhat-deploy",
+        "nature": "unknown"
     },
     "chainstack.com": {
-        "url": "https://chainstack.com/deploying-a-deterministic-contract-on-ethereum/"
+        "url": "https://chainstack.com/deploying-a-deterministic-contract-on-ethereum/",
+        "nature": "unknown"
     },
     "remix-ide.readthedocs.io": {
-        "url": "https://remix-ide.readthedocs.io/en/latest/run.html"
+        "url": "https://remix-ide.readthedocs.io/en/latest/run.html",
+        "nature": "unknown"
     },
     "betterprogramming.pub": {
-        "url": "https://betterprogramming.pub/algorand-deploying-evm-based-dapps-with-milkomeda-a1-f30b8b513ca7"
+        "url": "https://betterprogramming.pub/algorand-deploying-evm-based-dapps-with-milkomeda-a1-f30b8b513ca7",
+        "nature": "unknown"
     },
     "blog.dock.io": {
-        "url": "https://blog.dock.io/deploy-your-evm-smart-contracts-on-dock/"
+        "url": "https://blog.dock.io/deploy-your-evm-smart-contracts-on-dock/",
+        "nature": "unknown"
     },
     "soliditydeveloper.com": {
-        "url": "https://soliditydeveloper.com/evmos"
+        "url": "https://soliditydeveloper.com/evmos",
+        "nature": "unknown"
     },
     "blog.chain.link": {
-        "url": "https://blog.chain.link/how-to-build-and-deploy-a-smart-contract-on-the-fantom-blockchain/"
+        "url": "https://blog.chain.link/how-to-build-and-deploy-a-smart-contract-on-the-fantom-blockchain/",
+        "nature": "unknown"
     },
     "dev.to": {
-        "url": "https://dev.to/codemaker2015/create-and-deploy-your-first-smart-contract-with-solidity-264f"
+        "url": "https://dev.to/codemaker2015/create-and-deploy-your-first-smart-contract-with-solidity-264f",
+        "nature": "unknown"
     },
     "ethereum.org": {
-        "url": "https://ethereum.org/developers/docs/smart-contracts/deploying"
+        "url": "https://ethereum.org/developers/docs/smart-contracts/deploying",
+        "nature": "unknown"
     },
     "wiki.acala.network": {
-        "url": "https://wiki.acala.network/build/development-guide/smart-contracts/get-started-evm/deploy-contracts"
+        "url": "https://wiki.acala.network/build/development-guide/smart-contracts/get-started-evm/deploy-contracts",
+        "nature": "unknown"
     },
     "shardeum.org": {
-        "url": "https://shardeum.org/blog/how-to-deploy-smart-contract-on-shardeum-testnet-hardhat/"
+        "url": "https://shardeum.org/blog/how-to-deploy-smart-contract-on-shardeum-testnet-hardhat/",
+        "nature": "unknown"
     }
 }
