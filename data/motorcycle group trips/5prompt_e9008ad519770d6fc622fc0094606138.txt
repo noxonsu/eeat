@@ -1,0 +1,15 @@
+Instructions for Assistant to Analyze motorcycle group trips Products
+
+Objective: To determine the critical characteristics or features of the chosen motorcycle group trips that may be important to consumers.
+
+Preparation:
+For each service, list down how they fare in each of the criteria.
+
+In additional detrmine such information
+1. Call to action - 'talk to a manager', 'book a demo', 'talk to team', sign up etc.
+2. Their usecases  
+3. Their solutions. 
+4. Key features ('key_features' in JSON))"
+5. Analyzing market for companies organizing group motorcycle tours, including services like route planning, accommodations, support, and unique trip features.?
+                                                                
+The goal is to provide an objective view of each product offerings, highlighting both strengths and potential areas for improvement. Provide the results in JSON format.
