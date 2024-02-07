@@ -2,7 +2,8 @@
     "www.procaresoftware.com": {
         "url": "https://www.procaresoftware.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.procaresoftware.com/request-pricing/"
+        "priceAndPlansCrawled": "https://www.procaresoftware.com/request-pricing/",
+        "5prompt_Hash": "c3a83167be8702c80de047fa6fb32aea"
     },
     "www.capterra.com": {
         "url": "https://www.capterra.com/child-care-software/",
@@ -11,7 +12,8 @@
     "mybrightwheel.com": {
         "url": "https://mybrightwheel.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://mybrightwheel.com/pricing/"
+        "priceAndPlansCrawled": "https://mybrightwheel.com/pricing/",
+        "5prompt_Hash": "c3a83167be8702c80de047fa6fb32aea"
     },
     "mykidreports.com": {
         "url": "https://mykidreports.com/blog/best-childcare-software-for-preschool-childcare-compared",
@@ -24,7 +26,8 @@
     "www.daycare.com": {
         "url": "https://www.daycare.com/forum/showthread.php?t=86012",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.daycare.com/forum/showthread.php?p=684784&nojs=1&styleid=1"
+        "priceAndPlansCrawled": "https://www.daycare.com/forum/showthread.php?p=684784&nojs=1&styleid=1",
+        "5prompt_Hash": "c3a83167be8702c80de047fa6fb32aea"
     },
     "www.vancopayments.com": {
         "url": "https://www.vancopayments.com/child-care",
@@ -45,7 +48,8 @@
     "www.jackrabbitcare.com": {
         "url": "https://www.jackrabbitcare.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.jackrabbitcare.com/pricing/"
+        "priceAndPlansCrawled": "https://www.jackrabbitcare.com/pricing/",
+        "5prompt_Hash": "c3a83167be8702c80de047fa6fb32aea"
     },
     "www.lillio.com": {
         "url": "https://www.lillio.com/childcare-software",
@@ -54,12 +58,14 @@
     "www.icaresoftware.com": {
         "url": "https://www.icaresoftware.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.icaresoftware.com/childcare-software-pricing/"
+        "priceAndPlansCrawled": "https://www.icaresoftware.com/childcare-software-pricing/",
+        "5prompt_Hash": "c3a83167be8702c80de047fa6fb32aea"
     },
     "www.tryplayground.com": {
         "url": "https://www.tryplayground.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.tryplayground.com/pricing/quote"
+        "priceAndPlansCrawled": "https://www.tryplayground.com/pricing/quote",
+        "5prompt_Hash": "c3a83167be8702c80de047fa6fb32aea"
     },
     "family.daycareworks.com": {
         "url": "https://family.daycareworks.com/",
@@ -68,7 +74,8 @@
     "www.mykidzday.com": {
         "url": "https://www.mykidzday.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.mykidzday.com/faqs"
+        "priceAndPlansCrawled": "https://www.mykidzday.com/faqs",
+        "5prompt_Hash": "c3a83167be8702c80de047fa6fb32aea"
     },
     "lineleader.com": {
         "url": "https://lineleader.com/",
@@ -81,7 +88,8 @@
     "www.kidkare.com": {
         "url": "https://www.kidkare.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.kidkare.com/childcare-accounting-software/"
+        "priceAndPlansCrawled": "https://www.kidkare.com/childcare-accounting-software/",
+        "5prompt_Hash": "c3a83167be8702c80de047fa6fb32aea"
     },
     "www.famly.co": {
         "url": "https://www.famly.co/us",
@@ -90,7 +98,8 @@
     "illumine.app": {
         "url": "https://illumine.app/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://illumine.app/pricing/"
+        "priceAndPlansCrawled": "https://illumine.app/pricing/",
+        "5prompt_Hash": "c3a83167be8702c80de047fa6fb32aea"
     },
     "safetyculture.com": {
         "url": "https://safetyculture.com/app/daycare-software/",
@@ -103,7 +112,8 @@
     "kangarootime.com": {
         "url": "https://kangarootime.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "c3a83167be8702c80de047fa6fb32aea"
     },
     "www.getkisi.com": {
         "url": "https://www.getkisi.com/blog/best-childcare-software",
@@ -116,12 +126,14 @@
     "pccsoft.com": {
         "url": "https://pccsoft.com/drop-in-daycare-software/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://pccsoft.com/pricing/"
+        "priceAndPlansCrawled": "https://pccsoft.com/pricing/",
+        "5prompt_Hash": "c3a83167be8702c80de047fa6fb32aea"
     },
     "www.daycareworks.com": {
         "url": "https://www.daycareworks.com/cg/daycareworks.jsp",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.daycareworks.com/cg/pricing.jsp"
+        "priceAndPlansCrawled": "https://www.daycareworks.com/cg/pricing.jsp",
+        "5prompt_Hash": "c3a83167be8702c80de047fa6fb32aea"
     },
     "www.lifecubby.com": {
         "url": "https://www.lifecubby.com/",

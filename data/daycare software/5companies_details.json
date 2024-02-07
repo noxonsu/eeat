@@ -1,0 +1,607 @@
+{
+    "www.procaresoftware.com": {
+        "product": {
+            "name": "Procare Solutions",
+            "call_to_action": "Request A Demo",
+            "usecases": [
+                "Child Care Centers",
+                "Before and After School Programs",
+                "Youth Organizations"
+            ],
+            "solutions": "Fully integrated child care solutions specifically designed for the needs of various child care settings.",
+            "key_features": {
+                "Child Care Management Software": true,
+                "Family Engagement": true,
+                "Classroom Management": true,
+                "Payment Processing": true,
+                "Third Party Integrations": true
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": "Procare Solutions offers everything you need to manage your child care business for one low monthly price. We're your partner and are with you every step of the way, offering the most modern, innovative solutions and support to help your business thrive."
+        }
+    },
+    "mybrightwheel.com": {
+        "product_name": "brightwheel",
+        "call_to_action": "Request a Demo",
+        "usecases": [
+            "Preschools & Child Care",
+            "Parents",
+            "Billing & Payments",
+            "Experience Curriculum",
+            "Payroll"
+        ],
+        "solutions": [
+            "Automate billing and payments",
+            "Send real-time messages to staff and families",
+            "Efficiently run programs with check-in, admissions, reports, and multi-site management",
+            "Support educators with curriculum, lesson plans, and observations",
+            "Automatically sync time tracking with payroll for easy processing"
+        ],
+        "key_features": {
+            "Easy-to-use tools": "Simplify administrative tasks and save time",
+            "Automatic billing & payments": "Improve on-time payments",
+            "Quality connections": "Enhance communication with families",
+            "Complete preschool & childcare software system": "Integrated app for all essentials",
+            "Simplify billing and get paid faster": "Automate billing and secure online payments",
+            "Build quality connections with families and staff": "Centralize communication and share milestones",
+            "Support child development": "Tools for curriculum customization and child progress tracking",
+            "Efficiently manage your center": "Centralize information, manage admissions, and ensure compliance",
+            "Automate your Payroll with ease": "Track payrolls, sync staff hours, and file taxes automatically"
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.daycare.com": {
+        "products": [
+            {
+                "name": "Kindertales.com",
+                "call_to_action": "Book a demo",
+                "usecases": "Childcare management system that includes billing, parent communication (daily activities), and developmental milestones assessment/documentation.",
+                "solutions": "Cloud-based childcare management system.",
+                "key_features": {
+                    "billing": true,
+                    "parent_communication": true,
+                    "developmental_milestones": true
+                }
+            },
+            {
+                "name": "Child Care Sage",
+                "call_to_action": "Talk to team",
+                "usecases": "Childcare management software.",
+                "solutions": "Not specified.",
+                "key_features": {}
+            },
+            {
+                "name": "Brightwheel",
+                "call_to_action": "Sign up",
+                "usecases": "Childcare management software.",
+                "solutions": "Free version available.",
+                "key_features": {}
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "fullTime": 25,
+                "partTime": 25
+            },
+            "businessModel": "The daycare charges $25 more per week for both full-time and part-time care. New parents pay the new rate, while current parents are not charged the increased prices."
+        }
+    },
+    "www.jackrabbitcare.com": {
+        "product_name": "Jackrabbit Care",
+        "key_features": [
+            "Child Care Center Management",
+            "Child Care Classroom Management",
+            "Allergy & Immunizations",
+            "Attendance & Ratio Management",
+            "Check-in Kiosk",
+            "Enrollment & Waitlists",
+            "Online Registration",
+            "Parent Engagement",
+            "Tuition & Billing"
+        ],
+        "call_to_action": "Schedule a Demo",
+        "usecases": [
+            "After School",
+            "Child Care",
+            "Daycare",
+            "Preschool / Pre-K"
+        ],
+        "solutions": "Jackrabbit Care provides the ultimate management software solution for child care centers, daycare centers, after school programs, and preschool programs to operate efficiently and grow their businesses.",
+        "strengths": [
+            "Cloud-based management software for easy access from anywhere",
+            "Comprehensive features for child care center management",
+            "Focus on parent engagement and communication",
+            "Specialized solutions for various types of childcare programs",
+            "Support from a large team of instructors, product coaches, and client success specialists"
+        ],
+        "areas_for_improvement": [
+            "Could provide more information on pricing",
+            "More emphasis on data security and compliance measures",
+            "Enhanced customization options for different types of childcare centers",
+            "Clearer differentiation of features for different use cases"
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "0-49": "$69/site/month",
+                "50-99": "$109/site/month",
+                "100-199": "$169/site/month",
+                "200+": "$229/site/month"
+            }
+        }
+    },
+    "www.icaresoftware.com": {
+        "product_name": "iCare Software",
+        "call_to_action": "Schedule a 15-minute consultation",
+        "usecases": [
+            "Centers and Pre-schools",
+            "Drop-In Care",
+            "Before & After School Care",
+            "Provider and CCR&R Agencies",
+            "Montessori Schools",
+            "Camps"
+        ],
+        "solutions": [
+            "Staff Management",
+            "Registration & Enrollment",
+            "Curriculum & Activity Planning",
+            "Compliance Tracking & Reporting"
+        ],
+        "key_features": {
+            "Accounting, Billing, Payments": "Integrated financial operations including accounting, billing, payment processing, subsidy, copays, and more",
+            "Check-in & Attendance": "Automated check-in for attendance records and compliance reporting",
+            "Communication": "Tools for stakeholder communication including alerts, chat, email, SMS texting, and more",
+            "Enrollment & Registration": "Effortless enrollment management for parents and administrators",
+            "Journal & Curriculum Planning": "Enhanced parent-teacher engagement with curriculum planning and daily reports",
+            "Record keeping & Compliance": "Automated collection of various records for compliance and licensing",
+            "Reporting": "Over 100 standard reports with the ability to create custom reports",
+            "Rooms, Programs and Classes": "Classroom management features for scheduling, waitlist, virtual classroom, and more"
+        },
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "plans": [
+                    {
+                        "category": "Center/Preschool/Montessori",
+                        "size": "Small",
+                        "enrollmentCapacity": "< 70",
+                        "billedMonthly": "$100",
+                        "billedYearly": "$1,000"
+                    },
+                    {
+                        "category": "Center/Preschool/Montessori",
+                        "size": "Medium",
+                        "enrollmentCapacity": "71 - 125",
+                        "billedMonthly": "$200",
+                        "billedYearly": "$2,000"
+                    },
+                    {
+                        "category": "Center/Preschool/Montessori",
+                        "size": "Large",
+                        "enrollmentCapacity": "126 - 250",
+                        "billedMonthly": "$300",
+                        "billedYearly": "$3,000"
+                    },
+                    {
+                        "category": "Drop-In Center",
+                        "size": "Small",
+                        "dailyAttendanceCapacity": "< 25",
+                        "billedMonthly": "$100",
+                        "billedYearly": "$1,000"
+                    },
+                    {
+                        "category": "Drop-In Center",
+                        "size": "Medium",
+                        "dailyAttendanceCapacity": "25 - 50",
+                        "billedMonthly": "$150",
+                        "billedYearly": "$1,500"
+                    },
+                    {
+                        "category": "Drop-In Center",
+                        "size": "Large",
+                        "dailyAttendanceCapacity": "51 - 100",
+                        "billedMonthly": "$250",
+                        "billedYearly": "$2,500"
+                    },
+                    {
+                        "category": "After School Care and Enrichment",
+                        "size": "Small",
+                        "enrollmentCapacity": "< 50",
+                        "billedMonthly": "$100",
+                        "billedYearly": "$1,000"
+                    },
+                    {
+                        "category": "After School Care and Enrichment",
+                        "size": "Medium",
+                        "enrollmentCapacity": "51 - 100",
+                        "billedMonthly": "$150",
+                        "billedYearly": "$1,500"
+                    },
+                    {
+                        "category": "After School Care and Enrichment",
+                        "size": "Large",
+                        "enrollmentCapacity": "101 - 150",
+                        "billedMonthly": "$200",
+                        "billedYearly": "$2,000"
+                    },
+                    {
+                        "category": "FDC Placement Agency",
+                        "size": "Small",
+                        "enrollmentCapacity": "< 250",
+                        "billedMonthly": "$250",
+                        "billedYearly": "$2,500"
+                    },
+                    {
+                        "category": "FDC Placement Agency",
+                        "size": "Medium",
+                        "enrollmentCapacity": "251 - 500",
+                        "billedMonthly": "$500",
+                        "billedYearly": "$5,000"
+                    },
+                    {
+                        "category": "FDC Placement Agency",
+                        "size": "Large",
+                        "enrollmentCapacity": "501 - 1,000",
+                        "billedMonthly": "$1,000",
+                        "billedYearly": "$10,000"
+                    }
+                ]
+            }
+        }
+    },
+    "www.tryplayground.com": {
+        "product_name": "Playground",
+        "call_to_action": "Start your free 14 day trial",
+        "usecases": [
+            "Child care centers",
+            "In-home child care programs",
+            "Shared Service Alliances & Networks",
+            "Enterprise daycare centers",
+            "Before & After School Programs"
+        ],
+        "solutions": "Child care management software that handles billing, attendance, registration, communication, paperwork, payroll, and more for child care programs.",
+        "key_features": {
+            "Billing": "Payment plans for child care",
+            "Enrollment": "Simple registration process",
+            "Paperwork": "Transition to paperless operations",
+            "Attendance": "Sign in/out functionality and reporting",
+            "Communication": "Keep families informed",
+            "Activities": "Easy photo & video sharing",
+            "Subsidies": "Manage subsidies & family share of cost",
+            "Food programs": "CACFP compliant reporting",
+            "Assessments": "Track student development",
+            "Websites": "Fully branded & SEO-optimized child care websites",
+            "Expense tracking": "Track expenses related to child care operations",
+            "Payroll": "Upcoming feature for payroll management"
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.mykidzday.com": {
+        "product_name": "myKidzDay",
+        "call_to_action": "Sign Up For Free Trial",
+        "usecases": [
+            "Parent Communication",
+            "Attendance Tracking",
+            "Family & Staff Management",
+            "CACFP Meal Counts",
+            "Billing & Expenses",
+            "Registration & Waitlist",
+            "Lesson Planning & Curriculum",
+            "Incident Report & Safety Checklist"
+        ],
+        "solutions": "myKidzDay is a childcare software solution that offers features for parent communication, attendance tracking, family and staff management, meal count tracking, billing and expenses management, registration and waitlist management, lesson planning and curriculum tracking, and incident reporting with safety checklists.",
+        "key_features": {
+            "Parent Communication": "Custom daily sheets, messaging/chat, unlimited media sharing",
+            "Attendance Tracking": "Touchless QR code or PIN, real-time ratios, signature capture",
+            "Family & Staff Management": "Record management, document management, authorized pick up tracking",
+            "CACFP Meal Counts": "Menu upload, meal count tracking, automated reporting",
+            "Billing & Expenses": "Invoicing, payment tracking, expense management, tax report generation",
+            "Registration & Waitlist": "Online registration form, CRM tool for inquiries, waitlist management",
+            "Lesson Planning & Curriculum": "Lesson plan creation, activity tracking, curriculum alignment",
+            "Incident Report & Safety Checklist": "Automated incident reporting, parent acknowledgment, signature capture"
+        },
+        "pricesAndPlans": {
+            "status": "found",
+            "priceAndPlans": {
+                "pricing": "$1.25 per child per month or $15 per room",
+                "discounts": "Available for non profits, NAEYC members, ELL members, NACCAR, BAEYC, and other state AEYC members"
+            }
+        }
+    },
+    "www.kidkare.com": {
+        "products": [
+            {
+                "name": "KidKare Food Program - Single Location Center",
+                "usecases": "Single location childcare centers without a sponsor",
+                "solutions": "Full-service Food Program software solution for processing CACFP claims",
+                "key_features": [
+                    "CACFP Claim Calculation",
+                    "Menu Planning",
+                    "Attendance & Meal Counts",
+                    "Food Service Expense Tracking",
+                    "Milk Audit",
+                    "KidKare eForms",
+                    "Parent Portal"
+                ]
+            },
+            {
+                "name": "KidKare Accounting - Home Provider",
+                "usecases": "In-home childcare providers",
+                "solutions": "Software for recording expenses, tracking income, and managing financial documentation",
+                "key_features": [
+                    "Accept Payments Online",
+                    "Automate Invoices",
+                    "Issue Refunds",
+                    "Split Payments Between Parents",
+                    "Track Expenses",
+                    "Financial Reports",
+                    "Tax Features",
+                    "Food Program Management",
+                    "Parent Portal"
+                ]
+            },
+            {
+                "name": "KidKare For Sponsors - Home & Center Sponsors",
+                "usecases": "Home Sponsors, Center Sponsors",
+                "solutions": "Comprehensive Food Program sponsor software for improving operations and compliance",
+                "key_features": [
+                    "Maximize CACFP Reimbursement",
+                    "Track Attendance & Meal Counts",
+                    "Go Paperless With eForms"
+                ]
+            }
+        ],
+        "call_to_action": "Start for free",
+        "usecases": "The software caters to single location childcare centers, in-home childcare providers, home sponsors, and center sponsors.",
+        "solutions": "KidKare offers solutions for processing CACFP claims, managing financial documentation, and improving operations for sponsors.",
+        "key_features": {
+            "KidKare Food Program": [
+                "Messaging",
+                "Health Solutions",
+                "Ounce Equivalents Calculation"
+            ],
+            "KidKare Accounting": [
+                "Refunding Money Becomes A Breeze",
+                "Manage Participants In One Place",
+                "Split Payments Between Parents"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "KidKare Accounting": "$99/year"
+            }
+        }
+    },
+    "illumine.app": {
+        "product_name": "Illumine",
+        "call_to_action": "BOOK A DEMO",
+        "usecases": [
+            "Preschool Management",
+            "Daycare Management",
+            "Digital Attendance",
+            "Childcare CRM",
+            "Billing Software",
+            "Preschool Assessment",
+            "Daycare Reporting",
+            "Lesson Planner",
+            "Bus Tracking",
+            "Live Streaming"
+        ],
+        "solutions": "An all-in-one childcare software for superstar centers that streamlines childcare operations, simplifies billing, attendance, parent communication, and assessment processes.",
+        "key_features": {
+            "Student Management": true,
+            "Multicenter Reports": true,
+            "Billing and Invoicing": true,
+            "Child Assessments": true,
+            "Parent Communication": true,
+            "Leads Management": true,
+            "Digital Attendance": true,
+            "Plan and Create Lessons": true
+        },
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "pricingModel": "Subscription",
+                "priceRange": "$-$$",
+                "freeTrial": {
+                    "duration": 11,
+                    "creditCardRequired": false
+                }
+            }
+        }
+    },
+    "kangarootime.com": {
+        "product_name": "Kangarootime",
+        "call_to_action": "Schedule a Demo",
+        "usecases": [
+            "Childcare Management System",
+            "Business Operations",
+            "Classroom Management",
+            "Staff Management",
+            "Parent Communication"
+        ],
+        "solutions": {
+            "Childcare Management System": "Automate billing and invoicing, manage staff, communicate with families",
+            "Business Operations": "Streamline operations, forecast revenue, provide analytics",
+            "Classroom Management": "Give teachers control with digital tools for attendance, ratio monitoring, etc.",
+            "Staff Management": "Efficiently manage staff schedules, breaks, time-off requests",
+            "Parent Communication": "Connect with parents, share child's day, send messages and updates"
+        },
+        "key_features": {
+            "Automated Billing": "Customizable billing cycles for accurate payments",
+            "Parent Engagement": "Parent app for sharing milestones and improving center quality",
+            "Classroom Management": "Point of Care App for teachers with digital tools",
+            "Staff Management": "Online scheduling, time-off requests, time logs",
+            "Enrollment": "Customize enrollment links, manage waitlist, send offers",
+            "Analytics": "Reporting, dashboards, forecasting for business performance",
+            "Customer Support": "Wide range of support options with live representatives",
+            "Additional Content": "Webinars, articles, videos on childcare center management"
+        }
+    },
+    "pccsoft.com": {
+        "product1": {
+            "name": "Prime Child Care Software",
+            "call_to_action": "Schedule a Consultation Call Now",
+            "usecases": [
+                "Daycare Centers",
+                "Infant & Toddler Care",
+                "Preschools",
+                "Drop-in Daycares",
+                "Before- and After-School Programs",
+                "Multi-Center Chains & Franchises"
+            ],
+            "solutions": [
+                "Parent Experience",
+                "Parent Engagement",
+                "Billing & Accounting",
+                "Check-In & Attendance Tracking",
+                "Staff Scheduling, Payroll & Benefits",
+                "Nutrition & Meal Planning",
+                "Enrollment & Admissions",
+                "Student Records",
+                "Electronic Payments",
+                "Classrooms & Curriculum",
+                "Configurable Reporting",
+                "Users, Permissions & Security"
+            ],
+            "key_features": {
+                "Parent Experience": "Easy-to-use mobile app & web portal",
+                "Parent Engagement": "Daily reports, achievements, incident reports, photos, online payments",
+                "Billing & Accounting": "Intuitive tools, back-office automation",
+                "Check-In & Attendance Tracking": "Convenient check-in/out, live headcount display",
+                "Staff Scheduling, Payroll & Benefits": "HR management functions, payroll, scheduling",
+                "Nutrition & Meal Planning": "Meal plan management, CACFP claims",
+                "Enrollment & Admissions": "Paperless enrollment, customizable online forms",
+                "Student Records": "Manage student and family information",
+                "Electronic Payments": "Streamlined payment process, secure options",
+                "Classrooms & Curriculum": "Classroom & curriculum management",
+                "Configurable Reporting": "Dynamic reports for financial, operational tracking",
+                "Users, Permissions & Security": "Advanced security, custom user environments"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "PRIME START": {
+                    "price": "$99 monthly",
+                    "details": {
+                        "Students": "100",
+                        "Users": "5",
+                        "Features": [
+                            "Online Enrollment",
+                            "Online Registration",
+                            "Waitlists",
+                            "Check-In & Attendance",
+                            "Online Parent Portal",
+                            "Staff Clock-Ins & Time Tracking"
+                        ]
+                    }
+                },
+                "PRIME ESSENTIALS": {
+                    "price": "$199 monthly",
+                    "details": {
+                        "Students": "Unlimited",
+                        "Users": "Unlimited",
+                        "Features": [
+                            "Expenses & Budgeting",
+                            "Billing & Invoicing",
+                            "Online Enrollment",
+                            "Online Registration",
+                            "Waitlists",
+                            "Check-In & Attendance",
+                            "Online Parent Portal",
+                            "Staff Clock-Ins & Time Tracking"
+                        ]
+                    }
+                },
+                "PRIME COMPLETE": {
+                    "price": "$299 monthly",
+                    "details": {
+                        "Students": "Unlimited",
+                        "Users": "Unlimited",
+                        "Features": [
+                            "Expenses & Budgeting",
+                            "Billing & Invoicing",
+                            "Employee Payroll & Benefits",
+                            "Meal Programs & Nutrition",
+                            "Online Enrollment",
+                            "Online Registration",
+                            "Waitlists",
+                            "Check-In & Attendance",
+                            "Online Parent Portal",
+                            "Staff Clock-Ins & Time Tracking"
+                        ]
+                    }
+                },
+                "Add Ons": {
+                    "PARENT & TEACHER MOBILE APP": {
+                        "price": "$99 monthly",
+                        "details": [
+                            "Your Center's Name, Logo, Colors",
+                            "Customized for Your Needs",
+                            "Your Operational Details",
+                            "Contactless Check-In",
+                            "Integrated Billing & Payments"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "www.daycareworks.com": {
+        "product_name": "DayCare Works\u2122 by Procare Software",
+        "call_to_action": "Request a Demo Now",
+        "usecases": [
+            "Childcare facilities",
+            "Franchised childcare centers",
+            "Montessori schools",
+            "Preschools",
+            "Faith-based schools",
+            "Public and private schools"
+        ],
+        "solutions": [
+            "Cloud-based Service-as-a-Software (SaaS) flexible solution",
+            "Comprehensive platform for managing multi-site childcare operations",
+            "Real-time recordkeeping",
+            "Streamline government reporting",
+            "Attendance and meal program tracking",
+            "Simplify program management",
+            "Automate billing",
+            "Mobile apps for check-in/out",
+            "Integration with other systems",
+            "Online registration",
+            "Online and mobile payments",
+            "Organize calendars",
+            "Simplify communications",
+            "Connect third party providers"
+        ],
+        "key_features": {
+            "Real-Time Recordkeeping": "Access real-time information across multiple sites",
+            "Streamline Government Reporting": "Integrated billing and state subsidy management",
+            "Attendance and Meal Program Tracking": "Efficient web portal for teachers and caregivers",
+            "Simplify Program Management": "Centralized management of operations",
+            "Automate Billing": "Automated family billing",
+            "Mobile Apps": "Check-in/out via mobile applications",
+            "Integration with Other Systems": "Interface with CRM, payroll, e-marketing, and accounting systems",
+            "Online Registration": "Customized enrollment process",
+            "Online and Mobile Payments": "Automatic billing statements and online payment options",
+            "Organize Calendars": "Customizable calendar organization",
+            "Simplify Communications": "Secure communication for staff and parents",
+            "Connect Your Third Party Providers": "Secure access for third party providers"
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    }
+}
