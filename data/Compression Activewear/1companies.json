@@ -3,7 +3,8 @@
         "url": "https://www.cepcompression.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "CEPCompression:  Compression Socks"
+        "sourcekeyword": "CEPCompression:  Compression Socks",
+        "priceAndPlansCrawled": "https://www.cepcompression.com/collections/womens-compression-socks"
     },
     "www.skinscompression.com": {
         "url": "https://www.skinscompression.com/us/",
@@ -13,7 +14,8 @@
         "url": "https://us.2xu.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "2XU:  Ignition Shield Compression Tights"
+        "sourcekeyword": "2XU:  Ignition Shield Compression Tights",
+        "priceAndPlansCrawled": "https://us.2xu.com/collections/womens-compression-tights-and-leggings"
     },
     "www.amazon.com": {
         "url": "https://www.amazon.com/Compression-Clothes/s?k=Compression+Clothes",
@@ -23,7 +25,8 @@
         "url": "https://marena.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Marena:  activewear top"
+        "sourcekeyword": "Marena:  activewear top",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.macys.com": {
         "url": "https://www.macys.com/shop/womens-clothing/womens-activewear/Fabric_property/Compression?id=29891",
@@ -33,13 +36,15 @@
         "url": "https://www.jobststockings.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Jobst Stockings:  Jobst Activewear"
+        "sourcekeyword": "Jobst Stockings:  Jobst Activewear",
+        "priceAndPlansCrawled": "https://www.jobststockings.com/collections/all?page=2"
     },
     "www.gapfactory.com": {
         "url": "https://www.gapfactory.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "GapFactory:  GapFit Sport Compression Legging Capris"
+        "sourcekeyword": "GapFactory:  GapFit Sport Compression Legging Capris",
+        "priceAndPlansCrawled": "https://www.gapfactory.com/browse/division.do?cid=1040942"
     },
     "www.target.com": {
         "url": "https://www.target.com/c/activewear-women-s-clothing/compression-fit/-/N-5xtclZnwp6u",
@@ -49,13 +54,15 @@
         "url": "https://inspirefitness.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "InspireFitness:  Women\u2019s Fitted Compression Tank"
+        "sourcekeyword": "InspireFitness:  Women\u2019s Fitted Compression Tank",
+        "priceAndPlansCrawled": "https://inspirefitness.com/shop/"
     },
     "www.hpeactivewear.com": {
         "url": "https://www.hpeactivewear.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "HPEActivewear:  Combat Compression Tights"
+        "sourcekeyword": "HPEActivewear:  Combat Compression Tights",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.womenshealthmag.com": {
         "url": "https://www.womenshealthmag.com/fitness/g23871243/best-compression-leggings-women/",
@@ -65,7 +72,8 @@
         "url": "https://cornermedical.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "CornerMedical:  Compression Stockings ActiveWear\u2122"
+        "sourcekeyword": "CornerMedical:  Compression Stockings ActiveWear\u2122",
+        "priceAndPlansCrawled": "https://cornermedical.com/product-category/compression-activewear/"
     },
     "www.gq-magazine.co.uk": {
         "url": "https://www.gq-magazine.co.uk/lifestyle/article/compression-sportswear",
@@ -87,19 +95,22 @@
         "url": "thecomfortstoreonline.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "TheComfortStoreOnline:  Jobst ActiveWear Compression Socks"
+        "sourcekeyword": "TheComfortStoreOnline:  Jobst ActiveWear Compression Socks",
+        "priceAndPlansCrawled": "Not found"
     },
     "oldnavy.gap.com": {
         "url": "https://oldnavy.gap.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "OldNavy:  Compression Activewear"
+        "sourcekeyword": "OldNavy:  Compression Activewear",
+        "priceAndPlansCrawled": "https://oldnavy.gap.com/products/medium-support-racerback-sports-bra-for-women-P863774.jsp?pid=863774162&vid=1&bvstate=pg%3A2%2Fct%3Ar"
     },
     "bodyment.com": {
         "url": "https://bodyment.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Bodyment:  Compression Garments"
+        "sourcekeyword": "Bodyment:  Compression Garments",
+        "priceAndPlansCrawled": "https://bodyment.com/products/category/post-surgical-garments/bras/"
     },
     "www.sodancastore.com": {
         "url": "https://www.sodancastore.com/products/compression-leggings-a-723-navy",
@@ -113,13 +124,15 @@
         "url": "https://www.jobst-usa.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "JOBST:  ActiveWear, Jobst:  ActiveWear"
+        "sourcekeyword": "JOBST:  ActiveWear, Jobst:  ActiveWear",
+        "priceAndPlansCrawled": "https://www.jobst-usa.com/products/medical-compression/lymphology/custom-daytime-garments/jobst-elvarex.html"
     },
     "physiclo.com": {
         "url": "https://physiclo.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Physiclo:  Pro Resistance Tights for Men"
+        "sourcekeyword": "Physiclo:  Pro Resistance Tights for Men",
+        "priceAndPlansCrawled": "Not found"
     },
     "shop.fehrtrade.com": {
         "url": "https://shop.fehrtrade.com/products/compression-fitting-bottom-block-for-sew-your-own-activewear",
@@ -141,7 +154,8 @@
         "url": "https://superfithero.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "SuperfitHero:  Compression Leggings for Lipedema & Lymphedema"
+        "sourcekeyword": "SuperfitHero:  Compression Leggings for Lipedema & Lymphedema",
+        "priceAndPlansCrawled": "https://superfithero.com/pages/compression-leggings-for-lipedema-lymphedema"
     },
     "wavewear.cc": {
         "url": "https://wavewear.cc/",
@@ -165,6 +179,7 @@
     },
     "www.shopsweatshaper.com": {
         "url": "https://www.shopsweatshaper.com/blogs/guides/what-are-compression-legging-and-how-do-they-work",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.shopsweatshaper.com/collections/compression-activewear"
     }
 }
