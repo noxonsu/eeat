@@ -1,0 +1,1188 @@
+{
+    "www.cepcompression.com": {
+        "CEP Compression Activewear": {
+            "Fabric": {
+                "Moisture-wicking fabric": 0,
+                "Breathable material": 0,
+                "Compression fabric": 0,
+                "Four-way stretch fabric": 0
+            },
+            "Design": {
+                "Flatlock seams": 0,
+                "Ergonomic design": 0,
+                "Compression fit": 0
+            },
+            "Additional Features": {
+                "UV protection": 0,
+                "Anti-odor technology": 0,
+                "Quick-drying": 0
+            },
+            "Call to Action": "Sign up for email and text marketing to join the VIP's that get early bird specials, exclusive discounts, & receive 10% off your first order!",
+            "Usecases": "Fitness training, gym sessions, everyday wear, recovery",
+            "Solutions": "Supportive compression, high-quality materials",
+            "Projects": [
+                "Leggings",
+                "Bras"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "Ultralight Tall Compression Socks, Women": "$59.95",
+                "Ultralight Compression Calf Sleeves, Women": "$44.95",
+                "Ski Thermo Tall Compression Socks, Women": "$44.95",
+                "Ultralight Short Compression Socks, Women": "$21.95",
+                "Ultralight No Show Compression Socks, Women": "$17.95",
+                "Ultralight Low Cut Compression Socks, Women": "$19.95",
+                "No Show Compression Socks 3.0, Women": "$14.95",
+                "Low Cut Compression Socks 3.0, Women": "Regular price $16.95 Sale price $13.56",
+                "Short Compression Socks 3.0, Women": "Regular price $18.95 Sale price $15.16",
+                "Compression Calf Sleeves 3.0, Women": "Regular price $39.95 Sale price $31.96",
+                "Tall Compression Socks 3.0, Women": "Regular price $59.95 Sale price $47.96",
+                "Allday Compression Socks, Women": "Regular price $39.95 Sale price $29.96",
+                "Old Glory Tall Compression Socks, Women": "Regular price $59.95 Sale price $29.98",
+                "Old Glory Mid Cut Socks, Women": "Regular price $18.95 Sale price $9.48",
+                "Reflective Tall Compression Socks, Women": "$59.95",
+                "Reflective Compression Calf Sleeves, Women": "$44.95",
+                "Reflective Mid Cut Compression Socks, Women": "$22.95",
+                "Ski Ultralight Tall Compression Socks, Women": "Regular price $54.95 Sale price $41.21",
+                "Allday Merino Tall Compression Socks, Women": "$44.95",
+                "Allday Merino Mid Cut Compression Socks, Women": "$24.95"
+            }
+        }
+    },
+    "us.2xu.com": {
+        "2XU Compression Activewear Products": {
+            "Light Speed Compression Tights": {
+                "Price": "$129.99",
+                "Perfect For": "Running"
+            },
+            "Light Speed Compression Shorts": {
+                "Price": "$84.99",
+                "Perfect For": "Running"
+            },
+            "Core Compression Short Sleeve": {
+                "Price": "$64.99",
+                "Perfect For": "Training & Team Sports"
+            },
+            "Force Compression Shorts": {
+                "Price": "$84.99",
+                "Perfect For": "Gym & Training"
+            },
+            "Aero 2-In-1 5\" Shorts": {
+                "Price": "$89.99",
+                "Perfect For": "Running"
+            },
+            "Core Compression Short": {
+                "Price": "$69.99",
+                "Perfect For": "Training & Team Sports"
+            },
+            "Light Speed Mid-Rise Compression Tights": {
+                "Price": "$129.99",
+                "Perfect For": "Running"
+            },
+            "Light Speed Mid-Rise Compression Shorts": {
+                "Price": "$84.99",
+                "Perfect For": "Running"
+            },
+            "Ignition Shield Compression Tights": {
+                "Price": "$119.99",
+                "Perfect For": "Running"
+            },
+            "Core Compression Long Sleeve": {
+                "Price": "$69.99",
+                "Perfect For": "Training & Team Sports"
+            },
+            "Force Mid-Rise Compression 3/4 Tights": {
+                "Price": "$59.99",
+                "Perfect For": "Gym & Training"
+            },
+            "Motion Mid-Rise Compression Tights": {
+                "Price": "$49.99",
+                "Perfect For": "Gym & Training"
+            }
+        },
+        "Call to Action": "Join the 2XU Crew to receive a 15% welcome discount & exclusive benefits. Join now!",
+        "Usecases": [
+            "Running",
+            "Training & Team Sports",
+            "Gym & Training"
+        ],
+        "Solutions": "2XU Compression Activewear offers a range of products suitable for running, training, and gym activities. The products are designed to provide compression support and enhance performance during various physical activities.",
+        "Optimized Compression Activewear Features": {
+            "Fabric": {
+                "title": "Fabric",
+                "features": [
+                    "Moisture-wicking fabric",
+                    "Breathable material",
+                    "Compression fabric",
+                    "Four-way stretch fabric"
+                ]
+            },
+            "Design": {
+                "title": "Design",
+                "features": [
+                    "Flatlock seams",
+                    "Ergonomic design",
+                    "Compression fit"
+                ]
+            },
+            "Features": {
+                "title": "Additional Features",
+                "features": [
+                    "UV protection",
+                    "Anti-odor technology",
+                    "Quick-drying"
+                ]
+            }
+        },
+        "Projects Meet Criteria": [
+            "Leggings",
+            "Bras"
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": [
+                {
+                    "name": "Form Stash Hi-Rise Compression Tights",
+                    "price": "$109.99 USD",
+                    "regularPrice": "Regular price $109.99 USD",
+                    "description": "Perfect For Training & Leisure"
+                },
+                {
+                    "name": "Light Speed Mid-Rise Compression Tights",
+                    "price": "$129.99 USD",
+                    "regularPrice": "Regular price $129.99 USD",
+                    "description": "Perfect For Running"
+                },
+                {
+                    "name": "Core Compression Tights",
+                    "price": "$89.99 USD",
+                    "regularPrice": "Regular price $89.99 USD",
+                    "description": "Perfect For Training & Team Sports"
+                },
+                {
+                    "name": "Power Recovery compression Tights",
+                    "price": "$129.99 USD",
+                    "regularPrice": "Regular price $129.99 USD",
+                    "description": "Perfect For Recovery"
+                },
+                {
+                    "name": "Refresh Recovery compression Tights",
+                    "price": "$99.99 USD",
+                    "regularPrice": "Regular price $99.99 USD",
+                    "description": "Perfect For Recovery"
+                }
+            ]
+        }
+    },
+    "marena.com": {
+        "Marena Sport Short Sleeve Shirt - Style No. 502": {
+            "Fabric": {
+                "Moisture-wicking fabric": 0,
+                "Breathable material": 0,
+                "Compression fabric": 0,
+                "Four-way stretch fabric": 0
+            },
+            "Design": {
+                "Flatlock seams": 0,
+                "Ergonomic design": 0,
+                "Compression fit": 0
+            },
+            "Additional Features": {
+                "UV protection": 0,
+                "Anti-odor technology": 0,
+                "Quick-drying": 0
+            },
+            "Call to Action": "Contact us for information about our compression garments for plastic surgery.",
+            "Usecases": "Compression Garments for Plastic Surgery",
+            "Solutions": "Marena Recovery garments recommended for various surgical procedures to aid in healing and provide comfort and support.",
+            "Projects": "Leggings and Bras"
+        }
+    },
+    "www.jobststockings.com": {
+        "Jobst Activewear Compression Socks": {
+            "Fabric": {
+                "Moisture-wicking fabric": 1,
+                "Breathable material": 1,
+                "Compression fabric": 1,
+                "Four-way stretch fabric": 0
+            },
+            "Design": {
+                "Flatlock seams": 0,
+                "Ergonomic design": 0,
+                "Compression fit": 1
+            },
+            "Features": {
+                "UV protection": 0,
+                "Anti-odor technology": 0,
+                "Quick-drying": 0
+            },
+            "Call to action": "Sign Up to our newsletter",
+            "Usecases": "Ideal for any activity",
+            "Solutions": "Superior moisture management, extraordinary softness, Dri-release yarns for comfort, wide comfort band, cushioned foot, seamless toe",
+            "Projects": "Leggings and Bras"
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": [
+                {
+                    "productName": "JOBST\u00ae ACTIVA Men's Dress Knee High 20-30 mmHg",
+                    "price": "$40.00"
+                },
+                {
+                    "productName": "JOBST\u00ae ACTIVA Men's Dress Knee High 8-15 mmHg",
+                    "price": "$28.00"
+                },
+                {
+                    "productName": "JOBST\u00ae ACTIVA Opaque Knee High 15-20 mmHg",
+                    "price": "$34.00"
+                },
+                {
+                    "productName": "JOBST\u00ae ACTIVA Opaque Knee High 20-30 mmHg",
+                    "price": "$40.00"
+                },
+                {
+                    "productName": "JOBST\u00ae ACTIVA Opaque Thigh High 15-20 mmHg w/ Silicone Dot Band",
+                    "price": "$44.00"
+                },
+                {
+                    "productName": "JOBST\u00ae ACTIVA Opaque Thigh High 20-30 mmHg w/ Silicone Dot Band",
+                    "price": "$56.00"
+                },
+                {
+                    "productName": "JOBST\u00ae ACTIVA Opaque Waist High 15-20 mmHg",
+                    "price": "$50.00"
+                },
+                {
+                    "productName": "JOBST\u00ae ACTIVA Opaque Waist High 20-30 mmHg",
+                    "price": "$66.00"
+                },
+                {
+                    "productName": "JOBST\u00ae ACTIVA Sheer Knee High 15-20 mmHg",
+                    "price": "$34.00"
+                },
+                {
+                    "productName": "JOBST\u00ae ACTIVA Sheer Knee High 20-30 mmHg",
+                    "price": "$40.00"
+                },
+                {
+                    "productName": "JOBST\u00ae ACTIVA Sheer Thigh High 15-20 mmHg w/ Silicone Lace Band",
+                    "price": "$44.00"
+                },
+                {
+                    "productName": "JOBST\u00ae ACTIVA Sheer Thigh High 20-30 mmHg w/ Silicone Lace Band",
+                    "price": "$56.00"
+                }
+            ]
+        }
+    },
+    "www.gapfactory.com": {
+        "Compression Activewear Products": [
+            {
+                "Product Name": "GapFit Sport Compression Legging Capris",
+                "Price": "$11.97",
+                "Discount": "70% off",
+                "Original Price": "$39.99",
+                "Fabric": {
+                    "Moisture-wicking fabric": 1,
+                    "Breathable material": 1,
+                    "Compression fabric": 1,
+                    "Four-way stretch fabric": 1
+                },
+                "Design": {
+                    "Flatlock seams": 0,
+                    "Ergonomic design": 0,
+                    "Compression fit": 1
+                },
+                "Features": {
+                    "UV protection": 0,
+                    "Anti-odor technology": 0,
+                    "Quick-drying": 0
+                },
+                "Call to Action": "Shop Now",
+                "Usecases": [
+                    "Workouts",
+                    "Running"
+                ],
+                "Solutions": "Support muscles, reduce fatigue, improve blood circulation",
+                "Category": "Leggings"
+            },
+            {
+                "Product Name": "GapFit Sport Compression 7/8 Leggings",
+                "Price": "$19.97",
+                "Discount": "55% off",
+                "Original Price": "$44.99",
+                "Fabric": {
+                    "Moisture-wicking fabric": 1,
+                    "Breathable material": 1,
+                    "Compression fabric": 1,
+                    "Four-way stretch fabric": 1
+                },
+                "Design": {
+                    "Flatlock seams": 0,
+                    "Ergonomic design": 0,
+                    "Compression fit": 1
+                },
+                "Features": {
+                    "UV protection": 0,
+                    "Anti-odor technology": 0,
+                    "Quick-drying": 0
+                },
+                "Call to Action": "Shop Now",
+                "Usecases": [
+                    "Workouts",
+                    "Yoga"
+                ],
+                "Solutions": "Support muscles, reduce fatigue, improve blood circulation",
+                "Category": "Leggings"
+            },
+            {
+                "Product Name": "GapFit PowerMove T-Back Sports Bra",
+                "Price": "$14.97",
+                "Discount": "57% off",
+                "Original Price": "$34.99",
+                "Fabric": {
+                    "Moisture-wicking fabric": 1,
+                    "Breathable material": 1,
+                    "Compression fabric": 1,
+                    "Four-way stretch fabric": 1
+                },
+                "Design": {
+                    "Flatlock seams": 0,
+                    "Ergonomic design": 0,
+                    "Compression fit": 1
+                },
+                "Features": {
+                    "UV protection": 0,
+                    "Anti-odor technology": 0,
+                    "Quick-drying": 0
+                },
+                "Call to Action": "Shop Now",
+                "Usecases": [
+                    "Workouts",
+                    "Sports"
+                ],
+                "Solutions": "Provide maximum support, stylish design",
+                "Category": "Bras"
+            },
+            {
+                "Product Name": "GapFit PowerMove T-Back Sports Bra",
+                "Price": "$19.97",
+                "Discount": "42% off",
+                "Original Price": "$34.99",
+                "Fabric": {
+                    "Moisture-wicking fabric": 1,
+                    "Breathable material": 1,
+                    "Compression fabric": 1,
+                    "Four-way stretch fabric": 1
+                },
+                "Design": {
+                    "Flatlock seams": 0,
+                    "Ergonomic design": 0,
+                    "Compression fit": 1
+                },
+                "Features": {
+                    "UV protection": 0,
+                    "Anti-odor technology": 0,
+                    "Quick-drying": 0
+                },
+                "Call to Action": "Shop Now",
+                "Usecases": [
+                    "Workouts",
+                    "Gym"
+                ],
+                "Solutions": "Provide maximum support, stylish design",
+                "Category": "Bras"
+            },
+            {
+                "Product Name": "GapFit PowerMove T-Back Sports Bra",
+                "Price": "$17.97",
+                "Discount": "48% off",
+                "Original Price": "$34.99",
+                "Fabric": {
+                    "Moisture-wicking fabric": 1,
+                    "Breathable material": 1,
+                    "Compression fabric": 1,
+                    "Four-way stretch fabric": 1
+                },
+                "Design": {
+                    "Flatlock seams": 0,
+                    "Ergonomic design": 0,
+                    "Compression fit": 1
+                },
+                "Features": {
+                    "UV protection": 0,
+                    "Anti-odor technology": 0,
+                    "Quick-drying": 0
+                },
+                "Call to Action": "Shop Now",
+                "Usecases": [
+                    "Workouts",
+                    "Fitness Classes"
+                ],
+                "Solutions": "Provide maximum support, stylish design",
+                "Category": "Bras"
+            },
+            {
+                "Product Name": "GapFit PowerMove Ruched Sports Bra",
+                "Price": "$19.97 - $29.97",
+                "Discount": "37% off",
+                "Original Price": "$39.99",
+                "Fabric": {
+                    "Moisture-wicking fabric": 1,
+                    "Breathable material": 1,
+                    "Compression fabric": 1,
+                    "Four-way stretch fabric": 1
+                },
+                "Design": {
+                    "Flatlock seams": 0,
+                    "Ergonomic design": 0,
+                    "Compression fit": 1
+                },
+                "Features": {
+                    "UV protection": 0,
+                    "Anti-odor technology": 0,
+                    "Quick-drying": 0
+                },
+                "Call to Action": "Shop Now",
+                "Usecases": [
+                    "Workouts",
+                    "Dance"
+                ],
+                "Solutions": "Provide maximum support, stylish design",
+                "Category": "Bras"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "inspirefitness.com": {
+        "Product": {
+            "Name": "Women's Fitted Compression Tank",
+            "Price": "$29.99",
+            "Availability": "In Stock",
+            "Description": "Soft, stretchy, body-fitting fabric with sweat-wicking technology to help keep you dry & comfortable during your yoga or studio workout.",
+            "Category": "Women's Activewear",
+            "SKU": "4 06 WNS FT Women's Tank",
+            "Material": "90% nylon, 10% spandex",
+            "Available Color": "Black"
+        },
+        "Features": {
+            "Fabric": {
+                "Moisture-wicking fabric": 1,
+                "Breathable material": 1,
+                "Compression fabric": 1,
+                "Four-way stretch fabric": 0
+            },
+            "Design": {
+                "Flatlock seams": 0,
+                "Ergonomic design": 0,
+                "Compression fit": 1
+            },
+            "Additional Features": {
+                "UV protection": 0,
+                "Anti-odor technology": 0,
+                "Quick-drying": 0
+            }
+        },
+        "Call to Action": "FIND A SHOWROOM",
+        "Usecases": [
+            "Yoga",
+            "Running",
+            "Cycling"
+        ],
+        "Solutions": "Stretch, bend, run & sweat without worrying about your outfit. It'll keep you dry & let you stay focused.",
+        "Projects": [
+            "Leggings",
+            "Bras"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.hpeactivewear.com": {
+        "HPE Activewear US": {
+            "Fabric": {
+                "Moisture-wicking fabric": 1,
+                "Breathable material": 0,
+                "Compression fabric": 1,
+                "Four-way stretch fabric": 0
+            },
+            "Design": {
+                "Flatlock seams": 1,
+                "Ergonomic design": 0,
+                "Compression fit": 1
+            },
+            "Additional Features": {
+                "UV protection": 1,
+                "Anti-odor technology": 0,
+                "Quick-drying": 1
+            },
+            "Call to Action": "Sign up",
+            "Usecases": "Workout, Training, Sports",
+            "Solutions": "Support during workout, Moisture management, UV protection",
+            "Key Features": {
+                "Fabric": {
+                    "title": "Fabric",
+                    "features": [
+                        "Moisture-wicking fabric",
+                        "Breathable material",
+                        "Compression fabric",
+                        "Four-way stretch fabric"
+                    ]
+                },
+                "Design": {
+                    "title": "Design",
+                    "features": [
+                        "Flatlock seams",
+                        "Ergonomic design",
+                        "Compression fit"
+                    ]
+                },
+                "Features": {
+                    "title": "Additional Features",
+                    "features": [
+                        "UV protection",
+                        "Anti-odor technology",
+                        "Quick-drying"
+                    ]
+                }
+            },
+            "Projects": [
+                "Leggings",
+                "Bras"
+            ]
+        }
+    },
+    "cornermedical.com": {
+        "Product": {
+            "Name": "COMPRESSION STOCKINGS ACTIVEWEAR",
+            "Price Range": "$30.00 - $40.00",
+            "Description": "CUSHIONED ACTIVE\u2122 compression socks for active lifestyles. Continuous graduated compression helps increase blood flow, relieve tired, achy legs, swelling, fatigue, and varicose veins. Cushioned foot with a sock-like feel.",
+            "SKU": "CORNEMN60XX",
+            "Categories": [
+                "Compression Stockings",
+                "Health and Wellness Medical Supplies"
+            ],
+            "CompressionLevels": [
+                "15-20mmHg",
+                "20-30mmHg"
+            ],
+            "ColorOptions": [
+                "White",
+                "Black"
+            ],
+            "SizeOptions": [
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ],
+            "Availability": {
+                "Lengths": "Knee High",
+                "Colors": [
+                    "White",
+                    "Black"
+                ],
+                "Toe": "Closed Toe"
+            }
+        },
+        "CallToAction": "Visit one of our 13 retail locations for assistance with measurements.",
+        "UseCases": [
+            "Active lifestyles",
+            "Exercise",
+            "Relieving tired and achy legs",
+            "Swelling and varicose veins relief"
+        ],
+        "Solutions": [
+            "Continuous graduated compression",
+            "Increased blood flow",
+            "Relief for tired legs and swelling",
+            "Speeding up recovery"
+        ],
+        "KeyFeatures": {
+            "Fabric": {
+                "Moisture-wicking fabric": 0,
+                "Breathable material": 0,
+                "Compression fabric": 0,
+                "Four-way stretch fabric": 0
+            },
+            "Design": {
+                "Flatlock seams": 0,
+                "Ergonomic design": 0,
+                "Compression fit": 0
+            },
+            "Additional Features": {
+                "UV protection": 0,
+                "Anti-odor technology": 0,
+                "Quick-drying": 0
+            }
+        },
+        "Projects": [
+            "Leggings",
+            "Bras"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "thecomfortstoreonline.com": {
+        "Product": {
+            "Name": "Jobst ActiveWear Compression Socks",
+            "Price": "$41.00",
+            "Discounted Price": "$41.00",
+            "Compression Levels Available": [
+                "15-20mmHg",
+                "20-30mmHg",
+                "30-40mmHg"
+            ],
+            "Sizes Available": [
+                "Small",
+                "Medium",
+                "Large",
+                "XLarge",
+                "Large-Full Calf",
+                "XLarge-Full Calf"
+            ],
+            "Colors Available": [
+                "Denim Blue",
+                "Steel Gray"
+            ],
+            "Description": "JOBST\u00ae ActiveWear is a cushioned compression sock with superior moisture management and extraordinary softness with Dri-release yarns. Easy to don, it\u2019s the ideal compression sock for an active lifestyle. Effective leg therapy in an energizing athletic sock! Designed for men and women.",
+            "Features": {
+                "Dri-Release": "Feels like cotton and offers superior moisture management to help keep feet dry, cool, and comfortable",
+                "Extra cushioned foot with a reinforced heel": "Enhances wearing-comfort and resists abrasion",
+                "Seamless toe": "Provides all-day wearing comfort",
+                "All-day comfort knee band": "Keeps socks up without binding or pinching",
+                "Designed for both men and women": "Accommodates a wider group of gradient compression stocking users"
+            },
+            "Benefits": {
+                "15-20 mmHg": "Improves blood flow, provides continuous relief from tired, aching legs and MILD varicose veins. Generally recommended for travel when no medical condition dictates higher compression.",
+                "20-30 mmHg": "Improves blood flow, provides continuous relief from tired, aching legs, MODERATE to SEVERE varicose veins and edema, or post-sclerotherapy or vein surgery.",
+                "30-40 mmHg": "Improves blood flow, prevents swelling, and promotes the continuous relief from tired, aching legs, the pain and discomfort commonly associated with SEVERE varicose veins, venous ulcers, and edema, post-sclerotherapy or vein surgery."
+            },
+            "Fabric": "60% Polyester, 20% Nylon, 11% Cotton, 9% Spandex/Elasthane",
+            "Care Instructions": "Washing with Jolastic Washing Solution is recommended to protect the elastic fiber and help prevent fading of color."
+        },
+        "Call to Action": "Contact Us",
+        "Usecases": [
+            "Compression Activewear for active lifestyle",
+            "Effective leg therapy"
+        ],
+        "Solutions": [
+            "Superior moisture management",
+            "All-day comfort",
+            "Accommodates various compression needs"
+        ],
+        "Key Features": {
+            "Fabric": {
+                "title": "Fabric",
+                "features": [
+                    "Moisture-wicking fabric (Dri-Release)",
+                    "Breathable material",
+                    "Compression fabric",
+                    "Four-way stretch fabric"
+                ]
+            },
+            "Design": {
+                "title": "Design",
+                "features": [
+                    "Flatlock seams",
+                    "Ergonomic design",
+                    "Compression fit"
+                ]
+            },
+            "Features": {
+                "title": "Additional Features",
+                "features": [
+                    "UV protection",
+                    "Anti-odor technology",
+                    "Quick-drying"
+                ]
+            }
+        },
+        "Projects": [
+            "Leggings",
+            "Bras"
+        ]
+    },
+    "oldnavy.gap.com": {
+        "Products": [
+            {
+                "Name": "High-Waisted PowerSoft Color-Block 7/8-Length Compression Leggings for Women",
+                "Price": "$44.99",
+                "Sale Price": "$21.97"
+            },
+            {
+                "Name": "PowerSoft Full-Zip Jacket for Women",
+                "Price": "$49.99",
+                "Sale Price": "$17.47 - $49.99"
+            },
+            {
+                "Name": "PowerSoft Longline Sports Bra and Leggings 2-Pack for Women",
+                "Price": "$64.99",
+                "Sale Price": "$44.99"
+            },
+            {
+                "Name": "PowerLite Lycra ADAPTIV Short Bodysuit for Women -- 6-inch inseam",
+                "Price": "$54.99",
+                "Sale Price": "$13.97"
+            },
+            {
+                "Name": "Maternity Full-Panel PowerLite LYCRA ADAPTIV 7/8 Leggings",
+                "Price": "$54.99",
+                "Sale Price": "$13.96 - $27.47"
+            },
+            {
+                "Name": "Light Support PowerChill Sports Bra for Women",
+                "Price": "$26.99",
+                "Sale Price": "$18.49"
+            },
+            {
+                "Name": "Light Support PowerLite LYCRA ADAPTIV Sports Bra for Women",
+                "Price": "$32.99",
+                "Sale Price": "$11.97 - $19.49"
+            },
+            {
+                "Name": "Maternity Postpartum Leggings & Rollover PowerChill Leggings 2-Pack",
+                "Price": "$58.99",
+                "Sale Price": "$14.97"
+            }
+        ],
+        "Call to Action": "Sign in or Join for FREE SHIPPING on all orders $50+",
+        "Usecases": "Compression activewear for women designed to enhance performance and provide targeted muscle support during various activities like gym workouts, running, and yoga.",
+        "Solutions": "Advanced fabric technology promotes blood circulation, reduces muscle fatigue, and wicks away moisture to keep users cool and dry. Range of styles including sports bras, leggings, and bodysuits available.",
+        "Key Features": {
+            "Fabric": {
+                "title": "Fabric",
+                "features": [
+                    "Moisture-wicking fabric",
+                    "Breathable material",
+                    "Compression fabric",
+                    "Four-way stretch fabric"
+                ]
+            },
+            "Design": {
+                "title": "Design",
+                "features": [
+                    "Flatlock seams",
+                    "Ergonomic design",
+                    "Compression fit"
+                ]
+            },
+            "Features": {
+                "title": "Additional Features",
+                "features": [
+                    "UV protection",
+                    "Anti-odor technology",
+                    "Quick-drying"
+                ]
+            }
+        },
+        "Projects": [
+            "Leggings",
+            "Bras"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "bodyment.com": {
+        "Products": [
+            {
+                "Brand": "Marena",
+                "Product": "Marena Women\u2019s Active Leggings",
+                "Price": "$245.00",
+                "Compression Level": [
+                    "Stage 2 Medical Shapewear",
+                    "Stage 3 Medical Activewear"
+                ],
+                "Rating": "4.5 stars",
+                "Features": [
+                    "Moisture-wicking fabric",
+                    "Four-way stretch fabric"
+                ]
+            },
+            {
+                "Brand": "Marena",
+                "Product": "Marena High Waist Compression Shorts",
+                "Price": "$220.00",
+                "Compression Level": [
+                    "Stage 2 Medical Shapewear",
+                    "Stage 3 Medical Activewear"
+                ],
+                "Rating": "4.8 stars",
+                "Features": [
+                    "Moisture-wicking fabric",
+                    "Compression fabric"
+                ]
+            },
+            {
+                "Brand": "Leonisa",
+                "Product": "Leonisa Firm Compression Tank",
+                "Price": "$120.00",
+                "Compression Level": [
+                    "Stage 2 Medical Shapewear",
+                    "Stage 3 Medical Activewear"
+                ],
+                "Rating": "5.0 stars",
+                "Features": [
+                    "Breathable material",
+                    "Compression fit"
+                ]
+            },
+            {
+                "Brand": "Marena",
+                "Product": "Marena Power Singlet",
+                "Price": "$180.00",
+                "Compression Level": [
+                    "Stage 2 Medical Shapewear",
+                    "Stage 3 Medical Activewear"
+                ],
+                "Rating": "4.5 stars",
+                "Features": [
+                    "Moisture-wicking fabric",
+                    "Flatlock seams"
+                ]
+            },
+            {
+                "Brand": "Leonisa",
+                "Product": "Leonisa Tummy Control High Waist Leggings",
+                "Price": "$190.00",
+                "Compression Level": [
+                    "Stage 2 Medical Shapewear",
+                    "Stage 3 Medical Activewear"
+                ],
+                "Rating": "4.9 stars",
+                "Features": [
+                    "Compression fabric",
+                    "UV protection"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "BodyAid Post Surgery Bra": "$59.00",
+                "Marena FlexiFit Ultra Low Zip Front Bra": "$98.00",
+                "Marena FlexiFit Original Bra": "$81.00",
+                "BodyAid Comfort Bra": "$59.95",
+                "BodyAid Stabilizer Band": "$25.00",
+                "BodyAid Stabilizer Bra": "$20.00",
+                "Marena Flexi Low Coverage Bra": "$98.00",
+                "Leonisa Posture Corrector Bra": "$90.00",
+                "ClearPoint Medical Gentle Comfort Post Surgical Bra": "$50.00",
+                "Amoena Frances Non Wired Front Fastening Bra": "$30.00",
+                "Marena Stabiliser Band": "$35.00",
+                "Marena FlexiFit High Coverage Zip Front Bra": "$160.00",
+                "Amoena Amy Seamless Bra": "$70.00",
+                "Carefix Anna Postoperative Front Zip Bra": "$65.00",
+                "Amoena Annabell Soft Cup Bra": "$56.00",
+                "Anita Lymphedema Bra": "$220.00",
+                "Marena Symmastia Bra": "$100.00"
+            }
+        }
+    },
+    "www.jobst-usa.com": {
+        "JOBST ActiveWear": {
+            "Cushioning": "Provides comfort with cushioned foot part",
+            "Moisture Management": "Keeps the skin dry and comfortable with moisture management feature",
+            "Soft Touch": "Blend of soft yarns for a soft touch feel",
+            "Diagnoses": [
+                "Spider Veins",
+                "Varicose Veins",
+                "Heavy & Swollen Legs",
+                "Chronic Venous Disease"
+            ],
+            "Genders": [
+                "Female",
+                "Unisex",
+                "Male"
+            ],
+            "Colours": [
+                "Grey",
+                "Cool Black",
+                "Cool White",
+                "Denim"
+            ],
+            "Compression classes": [
+                "15-20 mmHg",
+                "20-30 mmHg",
+                "30-40 mmHg"
+            ],
+            "Product Variations": "Available in Knee High",
+            "Dealer Locator": {
+                "Location": "United States",
+                "Number of Dealers Found": 3
+            }
+        },
+        "Call to Action": "Find a dealer",
+        "Usecases": "Compression for active living",
+        "Solutions": "Comfortable compression socks with cushioning, moisture management, and soft touch features",
+        "Optimized Compression Activewear Features": {
+            "Fabric": {
+                "title": "Fabric",
+                "features": [
+                    "Moisture-wicking fabric (0)",
+                    "Breathable material (0)",
+                    "Compression fabric (0)",
+                    "Four-way stretch fabric (0)"
+                ]
+            },
+            "Design": {
+                "title": "Design",
+                "features": [
+                    "Flatlock seams (0)",
+                    "Ergonomic design (0)",
+                    "Compression fit (0)"
+                ]
+            },
+            "Features": {
+                "title": "Additional Features",
+                "features": [
+                    "UV protection (0)",
+                    "Anti-odor technology (0)",
+                    "Quick-drying (0)"
+                ]
+            }
+        },
+        "Projects": [
+            "Leggings",
+            "Bras"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": "Not found"
+        }
+    },
+    "physiclo.com": {
+        "Physiclo Resistance Gear": {
+            "Call to action": "Contact us via email at community@physiclo.com or visit the address at 137 Varick St, 2nd Floor, New York, NY 10013",
+            "Usecases": "Physiclo Resistance Gear is designed to help activate key muscle groups by up to 23%, increase cardio intensity, and make workouts more efficient by adding extra resistance to each step.",
+            "Solutions": "Physiclo Resistance Gear offers compression activewear with built-in resistance to enhance workout effectiveness and performance.",
+            "Key features": {
+                "Fabric": {
+                    "Moisture-wicking fabric": 0,
+                    "Breathable material": 0,
+                    "Compression fabric": 0,
+                    "Four-way stretch fabric": 0
+                },
+                "Design": {
+                    "Flatlock seams": 0,
+                    "Ergonomic design": 0,
+                    "Compression fit": 0
+                },
+                "Additional Features": {
+                    "UV protection": 0,
+                    "Anti-odor technology": 0,
+                    "Quick-drying": 0
+                }
+            },
+            "Projects": [
+                "Leggings",
+                "Bras"
+            ]
+        }
+    },
+    "superfithero.com": {
+        "Compression Activewear Products": {
+            "Compression Leggings for Lipedema & Lymphedema": {
+                "Fabric": {
+                    "Moisture-wicking fabric": 1,
+                    "Breathable material": 1,
+                    "Compression fabric": 1,
+                    "Four-way stretch fabric": 1
+                },
+                "Design": {
+                    "Flatlock seams": 0,
+                    "Ergonomic design": 0,
+                    "Compression fit": 1
+                },
+                "Additional Features": {
+                    "UV protection": 0,
+                    "Anti-odor technology": 0,
+                    "Quick-drying": 0
+                },
+                "Call to Action": "Shop Compression Styles",
+                "Usecases": "Compression Leggings for Lipedema & Lymphedema",
+                "Solutions": "Plus size compression leggings with pockets that are supportive enough for people with conditions like lipedema and lymphedema. High thick waistband for staying in place. Combination of stretch and compression for all-day support without feeling squeezed or restricted.",
+                "Projects": [
+                    "Leggings"
+                ]
+            },
+            "Pocket Ankle Leggings - Black": {
+                "Fabric": {
+                    "Moisture-wicking fabric": 0,
+                    "Breathable material": 0,
+                    "Compression fabric": 1,
+                    "Four-way stretch fabric": 0
+                },
+                "Design": {
+                    "Flatlock seams": 0,
+                    "Ergonomic design": 0,
+                    "Compression fit": 1
+                },
+                "Additional Features": {
+                    "UV protection": 0,
+                    "Anti-odor technology": 0,
+                    "Quick-drying": 0
+                },
+                "Call to Action": "Add to Cart",
+                "Usecases": "Compression Leggings with Pockets",
+                "Solutions": "Best plus size compression leggings with pockets. Offers a perfect fit or free returns. Available in various sizes.",
+                "Projects": [
+                    "Leggings"
+                ]
+            },
+            "SuperHold\u2122 Compression Styles": {
+                "Fabric": {
+                    "Moisture-wicking fabric": 0,
+                    "Breathable material": 0,
+                    "Compression fabric": 1,
+                    "Four-way stretch fabric": 0
+                },
+                "Design": {
+                    "Flatlock seams": 0,
+                    "Ergonomic design": 0,
+                    "Compression fit": 1
+                },
+                "Additional Features": {
+                    "UV protection": 0,
+                    "Anti-odor technology": 0,
+                    "Quick-drying": 0
+                },
+                "Call to Action": "Shop All",
+                "Usecases": "Supportive compression and comfort for people with lipedema, lymphedema, or those seeking extra support. Available in full length leggings with pockets or 7/8 length.",
+                "Solutions": "Provides supportive compression and comfort. Offers various styles of leggings with pockets for different preferences.",
+                "Projects": [
+                    "Leggings"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.shopsweatshaper.com": {
+        "Compression Activewear Products": {
+            "Leggings": {
+                "Fabric": {
+                    "Moisture-wicking fabric": 1,
+                    "Breathable material": 1,
+                    "Compression fabric": 1,
+                    "Four-way stretch fabric": 1
+                },
+                "Design": {
+                    "Flatlock seams": 0,
+                    "Ergonomic design": 0,
+                    "Compression fit": 1
+                },
+                "Features": {
+                    "UV protection": 0,
+                    "Anti-odor technology": 0,
+                    "Quick-drying": 0
+                }
+            },
+            "Bras": {
+                "Fabric": {
+                    "Moisture-wicking fabric": 0,
+                    "Breathable material": 0,
+                    "Compression fabric": 0,
+                    "Four-way stretch fabric": 0
+                },
+                "Design": {
+                    "Flatlock seams": 0,
+                    "Ergonomic design": 0,
+                    "Compression fit": 0
+                },
+                "Features": {
+                    "UV protection": 0,
+                    "Anti-odor technology": 0,
+                    "Quick-drying": 0
+                }
+            }
+        },
+        "Call to Action": "Shop Now",
+        "Usecases": "Compression activewear for athletes and beginners to improve athletic performance, shape the body, improve blood flow, and increase sweating.",
+        "Solutions": "Compression leggings and clothes made of elastic and stretchy materials that compress and add pressure to targeted areas, aiding in muscle fatigue, recovery, and enhanced sweating.",
+        "Key Features": {
+            "Fabric": {
+                "title": "Fabric",
+                "features": [
+                    "Moisture-wicking fabric",
+                    "Breathable material",
+                    "Compression fabric",
+                    "Four-way stretch fabric"
+                ]
+            },
+            "Design": {
+                "title": "Design",
+                "features": [
+                    "Flatlock seams",
+                    "Ergonomic design",
+                    "Compression fit"
+                ]
+            },
+            "Features": {
+                "title": "Additional Features",
+                "features": [
+                    "UV protection",
+                    "Anti-odor technology",
+                    "Quick-drying"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": [
+                {
+                    "product": "ATHLETIC TANK",
+                    "price": "$29.99"
+                },
+                {
+                    "product": "ATHLETIC LEGGINGS",
+                    "price": "$34.99"
+                },
+                {
+                    "product": "ARM TRIMMERS",
+                    "price": "$14.99"
+                },
+                {
+                    "product": "RACER TANK",
+                    "price": "$27.95"
+                },
+                {
+                    "product": "HIGH RISE LEGGINGS",
+                    "price": "$34.99"
+                },
+                {
+                    "product": "HIGH RISE SHORTS",
+                    "price": "$34.99"
+                },
+                {
+                    "product": "WAIST TRIMMER",
+                    "price": "$19.99"
+                },
+                {
+                    "product": "ATHLETIC TEE",
+                    "price": "$34.99"
+                },
+                {
+                    "product": "ATHLETIC ZIP TANK",
+                    "price": "$34.99"
+                },
+                {
+                    "product": "SALE: ATHLETIC TANK",
+                    "price": "$29.99"
+                }
+            ]
+        }
+    }
+}
