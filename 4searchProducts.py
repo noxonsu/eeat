@@ -83,7 +83,7 @@ def main():
     # Try to load existing data from 'data.json'
     companies = load_from_json_file("1companies.json",data_folder)
     product_names = load_from_json_file("2products.json",data_folder)
-    
+    print("4searchProducts.py Loaded data from companies.json and 2products.json")
     for name_project in product_names:
         print(name_project)
         
