@@ -81,42 +81,48 @@ jobs:
       run: |
         python 1loadSerp.py
         git add -A
-        git diff --cached --exit-code || git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 1loadSerp.py"
+        git diff --cached --exit-code || git commit -m "($GITHUB_WORKFLOW) - 1loadSerp.py"
         git pull
         git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
 
         python 2loadSummaries.py
         git add -A
-        git diff --cached --exit-code || git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 2loadSummaries.py"
+        git diff --cached --exit-code || git commit -m "($GITHUB_WORKFLOW) - 2loadSummaries.py"
+        git pull
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
+        
+        python 4searchProducts.py
+        git add -A
+        git diff --cached --exit-code || git commit -m "($GITHUB_WORKFLOW) - 4searchProducts.py"
         git pull
         git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
 
         python 3searchPrices.py
         git add -A
-        git diff --cached --exit-code || git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 3searchPrices.py"
+        git diff --cached --exit-code || git commit -m "($GITHUB_WORKFLOW) - 3searchPrices.py"
         git pull
         git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
 
         python 5analyseProduct.py
         git add -A
-        git diff --cached --exit-code || git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 5analyseProduct.py"
+        git diff --cached --exit-code || git commit -m "($GITHUB_WORKFLOW) - 5analyseProduct.py"
         git pull
         git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
 
         python 6ClasterizeFeautres.py
         git add -A
-        git diff --cached --exit-code || git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 6ClasterizeFeautres.py"
+        git diff --cached --exit-code || git commit -m "($GITHUB_WORKFLOW) - 6ClasterizeFeautres.py"
         git pull
         git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
 
         python 8visualPricing.py
         git add -A
-        git diff --cached --exit-code || git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 8visualPricing.py"
+        git diff --cached --exit-code || git commit -m "($GITHUB_WORKFLOW) - 8visualPricing.py"
         git pull
         git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
 
         python 9visual.py
         git add -A
-        git diff --cached --exit-code || git commit -m "GitHub Actions ($GITHUB_WORKFLOW) - 9visual.py"
+        git diff --cached --exit-code || git commit -m "($GITHUB_WORKFLOW) - 9visual.py"
         git pull
         git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true

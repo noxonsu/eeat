@@ -77,6 +77,6 @@ jobs:
         run: |
           python 9visual_html.py
           git add -A
-          git diff --cached --exit-code || git commit -m "GitHub Actions ($GITHUB_WORKFLOW)"
+          git diff --cached --exit-code || git commit -m "($GITHUB_WORKFLOW)"
           git pull
           git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true

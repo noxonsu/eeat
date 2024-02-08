@@ -16,40 +16,52 @@
         "nature": "Invalid: This appears to be a URL link to an Amazon webpage selling compression clothes."
     },
     "marena.com": {
-        "url": "https://marena.com/collections/general-plastic-surgery/activewear-top",
-        "nature": "list of projects"
+        "url": "https://marena.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Marena:  activewear top"
     },
     "www.macys.com": {
         "url": "https://www.macys.com/shop/womens-clothing/womens-activewear/Fabric_property/Compression?id=29891",
         "nature": "Invalid: DDOS protection screen"
     },
     "www.jobststockings.com": {
-        "url": "https://www.jobststockings.com/collections/activewear",
-        "nature": "list of projects"
+        "url": "https://www.jobststockings.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Jobst Stockings:  Jobst Activewear"
     },
     "www.gapfactory.com": {
-        "url": "https://www.gapfactory.com/shop/compression-active-wear-0adz13a",
-        "nature": "list of projects"
+        "url": "https://www.gapfactory.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "GapFactory:  GapFit Sport Compression Legging Capris"
     },
     "www.target.com": {
         "url": "https://www.target.com/c/activewear-women-s-clothing/compression-fit/-/N-5xtclZnwp6u",
         "nature": "list of projects"
     },
     "inspirefitness.com": {
-        "url": "https://inspirefitness.com/product/womens-fitted-compression-tank/",
-        "nature": "list of projects"
+        "url": "https://inspirefitness.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "InspireFitness:  Women\u2019s Fitted Compression Tank"
     },
     "www.hpeactivewear.com": {
-        "url": "https://www.hpeactivewear.com/mens-combat-compression-tights-green-fluro/13424308.html",
-        "nature": "list of projects"
+        "url": "https://www.hpeactivewear.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "HPEActivewear:  Combat Compression Tights"
     },
     "www.womenshealthmag.com": {
         "url": "https://www.womenshealthmag.com/fitness/g23871243/best-compression-leggings-women/",
         "nature": "list of projects"
     },
     "cornermedical.com": {
-        "url": "https://cornermedical.com/product/compression-stockings-activewear/",
-        "nature": "list of projects"
+        "url": "https://cornermedical.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "CornerMedical:  Compression Stockings ActiveWear\u2122"
     },
     "www.gq-magazine.co.uk": {
         "url": "https://www.gq-magazine.co.uk/lifestyle/article/compression-sportswear",
@@ -68,16 +80,22 @@
         "nature": "list of projects"
     },
     "thecomfortstoreonline.com": {
-        "url": "https://thecomfortstoreonline.com/products/jobst%C2%AE-activewear-compression-socks",
-        "nature": "list of projects"
+        "url": "thecomfortstoreonline.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "TheComfortStoreOnline:  Jobst ActiveWear Compression Socks"
     },
     "oldnavy.gap.com": {
-        "url": "https://oldnavy.gap.com/shop/compression-activewear-0adz25a",
-        "nature": "list of projects"
+        "url": "https://oldnavy.gap.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "OldNavy:  Compression Activewear"
     },
     "bodyment.com": {
-        "url": "https://bodyment.com/products/compression/stage-3-medical-activewear/",
-        "nature": "list of projects"
+        "url": "https://bodyment.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Bodyment:  Compression Garments"
     },
     "www.sodancastore.com": {
         "url": "https://www.sodancastore.com/products/compression-leggings-a-723-navy",
@@ -88,12 +106,16 @@
         "nature": "Invalid: DDOS protection screen"
     },
     "www.jobst-usa.com": {
-        "url": "https://www.jobst-usa.com/products/product-detail/jobst-activewear-2.html",
-        "nature": "list of projects"
+        "url": "https://www.jobst-usa.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "JOBST:  ActiveWear, Jobst:  ActiveWear"
     },
     "physiclo.com": {
-        "url": "https://physiclo.com/",
-        "nature": "list of projects"
+        "url": "https://physiclo.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Physiclo:  Pro Resistance Tights for Men"
     },
     "shop.fehrtrade.com": {
         "url": "https://shop.fehrtrade.com/products/compression-fitting-bottom-block-for-sew-your-own-activewear",
@@ -112,11 +134,27 @@
         "nature": "list of projects"
     },
     "superfithero.com": {
-        "url": "https://superfithero.com/pages/compression-leggings-for-lipedema-lymphedema",
-        "nature": "list of projects"
+        "url": "https://superfithero.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "SuperfitHero:  Compression Leggings for Lipedema & Lymphedema"
     },
     "wavewear.cc": {
         "url": "https://wavewear.cc/",
         "nature": "Invalid (single). Invalid: The content does not mention leggings and bras."
+    },
+    "www.physiclo.com": {
+        "url": "https://www.physiclo.com/",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of Leggings and Bras."
+    },
+    "www.sodanca.com": {
+        "url": "https://www.sodanca.com",
+        "cached_url": "not found",
+        "sourcekeyword": "SoDanca:  Compression Leggings A 723"
+    },
+    "macys.com": {
+        "url": "macys.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Macy's:  Adore Me Plus Haley Heathered Compression Activewear Legging"
     }
 }
