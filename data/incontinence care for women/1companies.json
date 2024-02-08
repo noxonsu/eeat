@@ -1,56 +1,74 @@
 {
     "www.webmd.com": {
-        "url": "https://www.webmd.com/urinary-incontinence-oab/treatment-urinary-incontinence-women"
+        "url": "https://www.webmd.com/urinary-incontinence-oab/treatment-urinary-incontinence-women",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.uptodate.com": {
-        "url": "https://www.uptodate.com/contents/urinary-incontinence-treatments-for-women-beyond-the-basics"
+        "url": "https://www.uptodate.com/contents/urinary-incontinence-treatments-for-women-beyond-the-basics",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.mayoclinic.org": {
-        "url": "https://www.mayoclinic.org/diseases-conditions/urinary-incontinence/diagnosis-treatment/drc-20352814"
+        "url": "https://www.mayoclinic.org/diseases-conditions/urinary-incontinence/diagnosis-treatment/drc-20352814",
+        "nature": "Invalid:This content does not have any relevant information about products, services, or solutions."
     },
     "www.sutterhealth.org": {
-        "url": "https://www.sutterhealth.org/health/womens-health/help-for-women-with-urinary-incontinence"
+        "url": "https://www.sutterhealth.org/health/womens-health/help-for-women-with-urinary-incontinence",
+        "nature": "list of projects"
     },
     "www.womenshealth.gov": {
-        "url": "https://www.womenshealth.gov/a-z-topics/urinary-incontinence"
+        "url": "https://www.womenshealth.gov/a-z-topics/urinary-incontinence",
+        "nature": "list of projects"
     },
     "www.nhsinform.scot": {
-        "url": "https://www.nhsinform.scot/healthy-living/womens-health/middle-years-around-25-to-50-years/pelvic-health/urinary-incontinence-in-women/"
+        "url": "https://www.nhsinform.scot/healthy-living/womens-health/middle-years-around-25-to-50-years/pelvic-health/urinary-incontinence-in-women/",
+        "nature": "list of projects"
     },
     "www.yalemedicine.org": {
-        "url": "https://www.yalemedicine.org/conditions/female-incontinence"
+        "url": "https://www.yalemedicine.org/conditions/female-incontinence",
+        "nature": "list of projects"
     },
     "www.aafp.org": {
-        "url": "https://www.aafp.org/pubs/afp/issues/2013/0501/p634.html"
+        "url": "https://www.aafp.org/pubs/afp/issues/2013/0501/p634.html",
+        "nature": "Invalid: This is a website with information about clinical management of urinary incontinence in women."
     },
     "www.mayoclinichealthsystem.org": {
-        "url": "https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/treatment-for-urinary-incontinence"
+        "url": "https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/treatment-for-urinary-incontinence",
+        "nature": "list of projects"
     },
     "www.healthpartners.com": {
-        "url": "https://www.healthpartners.com/blog/female-urinary-incontinence-causes-and-treatment-options/"
+        "url": "https://www.healthpartners.com/blog/female-urinary-incontinence-causes-and-treatment-options/",
+        "nature": "list of projects"
     },
     "my.clevelandclinic.org": {
-        "url": "https://my.clevelandclinic.org/health/diseases/17596-urinary-incontinence"
+        "url": "https://my.clevelandclinic.org/health/diseases/17596-urinary-incontinence",
+        "nature": "list of projects"
     },
     "www.ucsfhealth.org": {
-        "url": "https://www.ucsfhealth.org/conditions/urge-incontinence-in-women"
+        "url": "https://www.ucsfhealth.org/conditions/urge-incontinence-in-women",
+        "nature": "list of projects"
     },
     "www.nia.nih.gov": {
-        "url": "https://www.nia.nih.gov/health/bladder-health-and-incontinence/urinary-incontinence-older-adults"
+        "url": "https://www.nia.nih.gov/health/bladder-health-and-incontinence/urinary-incontinence-older-adults",
+        "nature": "list of projects"
     },
     "www.nm.org": {
-        "url": "https://www.nm.org/conditions-and-care-areas/womens-health/obgyn/pelvic-health/urinary-incontinence"
+        "url": "https://www.nm.org/conditions-and-care-areas/womens-health/obgyn/pelvic-health/urinary-incontinence",
+        "nature": "list of projects"
     },
     "www.nhs.uk": {
-        "url": "https://www.nhs.uk/conditions/urinary-incontinence/"
+        "url": "https://www.nhs.uk/conditions/urinary-incontinence/",
+        "nature": "list of projects"
     },
     "www.acog.org": {
-        "url": "https://www.acog.org/womens-health/experts-and-stories/the-latest/from-leaking-urine-to-sudden-urges-to-go-an-ob-gyn-talks-bladder-control-problems"
+        "url": "https://www.acog.org/womens-health/experts-and-stories/the-latest/from-leaking-urine-to-sudden-urges-to-go-an-ob-gyn-talks-bladder-control-problems",
+        "nature": "list of projects"
     },
     "utswmed.org": {
-        "url": "https://utswmed.org/conditions-treatments/female-urinary-incontinence/"
+        "url": "https://utswmed.org/conditions-treatments/female-urinary-incontinence/",
+        "nature": "list of projects"
     },
     "www.ahrq.gov": {
-        "url": "https://www.ahrq.gov/evidencenow/projects/urinary/index.html"
+        "url": "https://www.ahrq.gov/evidencenow/projects/urinary/index.html",
+        "nature": "list of projects"
     }
 }
