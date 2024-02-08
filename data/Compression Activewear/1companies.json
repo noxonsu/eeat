@@ -150,14 +150,17 @@
     "www.sodanca.com": {
         "url": "https://www.sodanca.com",
         "cached_url": "not found",
-        "sourcekeyword": "SoDanca:  Compression Leggings A 723"
+        "sourcekeyword": "SoDanca:  Compression Leggings A 723",
+        "nature": "Invalid (single). Invalid: The content does not mention Leggings and Bras."
     },
     "macys.com": {
         "url": "macys.com",
         "cached_url": "not found",
-        "sourcekeyword": "Macy's:  Adore Me Plus Haley Heathered Compression Activewear Legging"
+        "sourcekeyword": "Macy's:  Adore Me Plus Haley Heathered Compression Activewear Legging",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.shopsweatshaper.com": {
-        "url": "https://www.shopsweatshaper.com/blogs/guides/what-are-compression-legging-and-how-do-they-work"
+        "url": "https://www.shopsweatshaper.com/blogs/guides/what-are-compression-legging-and-how-do-they-work",
+        "nature": "single project"
     }
 }
