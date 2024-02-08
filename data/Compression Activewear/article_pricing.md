@@ -1,23 +1,94 @@
-### Comparison of Compression Activewear Pricing Plans
+# Compression Activewear Pricing Comparison
 
-In this analysis, we will compare the pricing plans of two popular compression activewear companies: **Company A** and **Company B**. Both companies offer a range of features in their pricing plans, catering to different customer needs.
+In this analysis, we will compare the pricing plans of compression activewear products from various companies. We will focus on the pricing of compression socks, tights, and other related items for women.
 
-| **Features**       | **Company A**                 | **Company B**                 |
-|---------------------|-------------------------------|-------------------------------|
-| Price               | $50/month                     | $40/month                     |
-| Compression Levels  | Low, Medium, High             | Medium, High, Very High       |
-| Material Quality    | High-quality fabric           | Premium fabric                |
-| Size Range          | S, M, L, XL                   | XS, S, M, L, XL               |
-| Moisture Wicking    | Yes                           | Yes                           |
-| UV Protection       | No                            | Yes                           |
-| Warranty            | 1 year                        | 2 years                       |
+## CEP Compression
 
-#### Analysis:
+| Product                                     | Price   |
+|--------------------------------------------|---------|
+| Ultralight Tall Compression Socks          | $59.95  |
+| Ultralight Compression Calf Sleeves        | $44.95  |
+| Ski Thermo Tall Compression Socks          | $44.95  |
+| Ultralight Short Compression Socks         | $21.95  |
+| Ultralight No Show Compression Socks       | $17.95  |
+| Ultralight Low Cut Compression Socks       | $19.95  |
+| No Show Compression Socks 3.0              | $14.95  |
+| Low Cut Compression Socks 3.0              | $13.56  |
+| Short Compression Socks 3.0                | $15.16  |
+| Compression Calf Sleeves 3.0               | $31.96  |
+| Tall Compression Socks 3.0                 | $47.96  |
+| Allday Compression Socks                   | $29.96  |
+| Old Glory Tall Compression Socks           | $29.98  |
+| Old Glory Mid Cut Socks                    | $9.48   |
+| Reflective Tall Compression Socks          | $59.95  |
+| Reflective Compression Calf Sleeves        | $44.95  |
+| Reflective Mid Cut Compression Socks       | $22.95  |
+| Ski Ultralight Tall Compression Socks      | $41.21  |
+| Allday Merino Tall Compression Socks       | $44.95  |
+| Allday Merino Mid Cut Compression Socks    | $24.95  |
 
-- **Price:** Company B offers a more affordable pricing plan compared to Company A, making it a budget-friendly option for customers.
-- **Compression Levels:** Company A provides a wider range of compression levels, catering to customers with varying needs. However, Company B offers higher compression levels for those requiring more support.
-- **Material Quality:** Both companies offer high-quality fabric, but Company B uses premium fabric, which may be more durable and comfortable.
-- **Size Range:** Company B has a more extensive size range, including XS, which can be beneficial for customers needing smaller sizes.
-- **Additional Features:** Company B offers UV protection in their activewear, which can be advantageous for outdoor activities.
+## 2XU
 
-In conclusion, customers looking for a more budget-friendly option with premium fabric and UV protection may prefer Company B, while those needing a wider range of compression levels may opt for Company A. Ultimately, the choice between the two companies will depend on individual preferences and requirements.
+| Product                                | Price        |
+|---------------------------------------|--------------|
+| Form Stash Hi-Rise Compression Tights | $109.99 USD  |
+| Light Speed Mid-Rise Compression Tights| $129.99 USD  |
+| Core Compression Tights               | $89.99 USD   |
+| Power Recovery Compression Tights     | $129.99 USD  |
+| Refresh Recovery Compression Tights   | $99.99 USD   |
+
+## Jobst Stockings
+
+| Product                                       | Price  |
+|----------------------------------------------|--------|
+| JOBST® ACTIVA Men's Dress Knee High 20-30 mmHg | $40.00 |
+| JOBST® ACTIVA Men's Dress Knee High 8-15 mmHg  | $28.00 |
+| JOBST® ACTIVA Opaque Knee High 15-20 mmHg     | $34.00 |
+| JOBST® ACTIVA Opaque Knee High 20-30 mmHg     | $40.00 |
+| JOBST® ACTIVA Opaque Thigh High 15-20 mmHg w/ Silicone Dot Band | $44.00 |
+| JOBST® ACTIVA Opaque Thigh High 20-30 mmHg w/ Silicone Dot Band | $56.00 |
+| JOBST® ACTIVA Opaque Waist High 15-20 mmHg    | $50.00 |
+| JOBST® ACTIVA Opaque Waist High 20-30 mmHg    | $66.00 |
+| JOBST® ACTIVA Sheer Knee High 15-20 mmHg     | $34.00 |
+| JOBST® ACTIVA Sheer Knee High 20-30 mmHg     | $40.00 |
+| JOBST® ACTIVA Sheer Thigh High 15-20 mmHg w/ Silicone Lace Band | $44.00 |
+| JOBST® ACTIVA Sheer Thigh High 20-30 mmHg w/ Silicone Lace Band | $56.00 |
+
+## Bodyment
+
+| Product                                     | Price   |
+|--------------------------------------------|---------|
+| BodyAid Post Surgery Bra                   | $59.00  |
+| Marena FlexiFit Ultra Low Zip Front Bra    | $98.00  |
+| Marena FlexiFit Original Bra               | $81.00  |
+| BodyAid Comfort Bra                        | $59.95  |
+| BodyAid Stabilizer Band                     | $25.00  |
+| BodyAid Stabilizer Bra                     | $20.00  |
+| Marena Flexi Low Coverage Bra              | $98.00  |
+| Leonisa Posture Corrector Bra              | $90.00  |
+| ClearPoint Medical Gentle Comfort Post Surgical Bra | $50.00  |
+| Amoena Frances Non Wired Front Fastening Bra | $30.00  |
+| Marena Stabiliser Band                     | $35.00  |
+| Marena FlexiFit High Coverage Zip Front Bra | $160.00 |
+| Amoena Amy Seamless Bra                   | $70.00  |
+| Carefix Anna Postoperative Front Zip Bra  | $65.00  |
+| Amoena Annabell Soft Cup Bra               | $56.00  |
+| Anita Lymphedema Bra                       | $220.00 |
+| Marena Symmastia Bra                       | $100.00 |
+
+## Shop Sweat Shaper
+
+| Product                                     | Price   |
+|--------------------------------------------|---------|
+| ATHLETIC TANK                              | $29.99  |
+| ATHLETIC LEGGINGS                          | $34.99  |
+| ARM TRIMMERS                               | $14.99  |
+| RACER TANK                                 | $27.95  |
+| HIGH RISE LEGGINGS                         | $34.99  |
+| HIGH RISE SHORTS                           | $34.99  |
+| WAIST TRIMMER                              | $19.99  |
+| ATHLETIC TEE                               | $34.99  |
+| ATHLETIC ZIP TANK                          | $34.99  |
+| SALE: ATHLETIC TANK                        | $29.99  |
+
+From the above comparison, we can see that each company offers a variety of compression activewear products at different price points. Customers can choose products based on their specific needs and budget.
