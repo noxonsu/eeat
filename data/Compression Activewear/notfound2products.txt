@@ -2,3 +2,4 @@ Target:  Compression Fit Activewear -> Target
 FehrTrade:  Compression fitting bottom block for Sew Your Own Activewear -> FehrTrade
 Skins:  compression sportswear -> Skins
 Amazon:  Lululemon SenseKnit HigRise Running Tight -> Amazon
+List of projects:  -> List of projects

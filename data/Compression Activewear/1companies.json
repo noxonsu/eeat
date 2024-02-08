@@ -1,15 +1,19 @@
 {
     "www.cepcompression.com": {
-        "url": "https://www.cepcompression.com/collections/womens-compression-apparel",
-        "nature": "list of projects"
+        "url": "https://www.cepcompression.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "CEPCompression:  Compression Socks"
     },
     "www.skinscompression.com": {
         "url": "https://www.skinscompression.com/us/",
         "nature": "Invalid: The URL provided seems to be experiencing a timeout issue, preventing access to the content."
     },
     "us.2xu.com": {
-        "url": "https://us.2xu.com/",
-        "nature": "list of projects"
+        "url": "https://us.2xu.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "2XU:  Ignition Shield Compression Tights"
     },
     "www.amazon.com": {
         "url": "https://www.amazon.com/Compression-Clothes/s?k=Compression+Clothes",
