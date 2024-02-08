@@ -2,51 +2,22 @@
 
 In this analysis, we will compare the pricing plans of two popular compression activewear companies: **Company A** and **Company B**. Both companies offer a range of features in their pricing plans, catering to different customer needs.
 
-#### Company A
+| **Features**       | **Company A**                 | **Company B**                 |
+|---------------------|-------------------------------|-------------------------------|
+| Price               | $50/month                     | $40/month                     |
+| Compression Levels  | Low, Medium, High             | Medium, High, Very High       |
+| Material Quality    | High-quality fabric           | Premium fabric                |
+| Size Range          | S, M, L, XL                   | XS, S, M, L, XL               |
+| Moisture Wicking    | Yes                           | Yes                           |
+| UV Protection       | No                            | Yes                           |
+| Warranty            | 1 year                        | 2 years                       |
 
-- **Basic Plan**: $50/month
-  - Compression leggings
-  - Compression shorts
-  - Compression tops
+#### Analysis:
 
-- **Pro Plan**: $80/month
-  - All items in Basic Plan
-  - Compression arm sleeves
-  - Compression socks
+- **Price:** Company B offers a more affordable pricing plan compared to Company A, making it a budget-friendly option for customers.
+- **Compression Levels:** Company A provides a wider range of compression levels, catering to customers with varying needs. However, Company B offers higher compression levels for those requiring more support.
+- **Material Quality:** Both companies offer high-quality fabric, but Company B uses premium fabric, which may be more durable and comfortable.
+- **Size Range:** Company B has a more extensive size range, including XS, which can be beneficial for customers needing smaller sizes.
+- **Additional Features:** Company B offers UV protection in their activewear, which can be advantageous for outdoor activities.
 
-- **Elite Plan**: $120/month
-  - All items in Pro Plan
-  - Compression full-body suit
-  - Free shipping
-
-#### Company B
-
-- **Starter Plan**: $40/month
-  - Compression leggings
-  - Compression shorts
-
-- **Advanced Plan**: $70/month
-  - All items in Starter Plan
-  - Compression tops
-  - Compression arm sleeves
-
-- **Premium Plan**: $100/month
-  - All items in Advanced Plan
-  - Compression socks
-  - Compression full-body suit
-  - Free shipping
-
-#### Comparison
-
-| Pricing Plan | Company A | Company B |
-|--------------|-----------|-----------|
-| Basic        | $50/month | -         |
-| Starter      | -         | $40/month |
-| Pro          | $80/month | -         |
-| Advanced     | -         | $70/month |
-| Elite        | $120/month| -         |
-| Premium      | -         | $100/month|
-
-In terms of pricing, Company B offers a slightly lower entry-level plan compared to Company A. However, Company A's Elite Plan includes a full-body suit and free shipping, which might be appealing to customers looking for a comprehensive package. Company B's Premium Plan also offers a full-body suit and free shipping but at a slightly higher price point.
-
-Customers looking for a more budget-friendly option might prefer Company B, while those seeking additional features and benefits might lean towards Company A. Ultimately, the choice between the two companies would depend on individual preferences and requirements.
+In conclusion, customers looking for a more budget-friendly option with premium fabric and UV protection may prefer Company B, while those needing a wider range of compression levels may opt for Company A. Ultimately, the choice between the two companies will depend on individual preferences and requirements.
