@@ -1,47 +1,62 @@
 {
     "www.austinulrich.com": {
-        "url": "https://www.austinulrich.com/best-ai-medical-documentation-tools-for-healthcare"
+        "url": "https://www.austinulrich.com/best-ai-medical-documentation-tools-for-healthcare",
+        "nature": "list of projects"
     },
     "www.beckershospitalreview.com": {
-        "url": "https://www.beckershospitalreview.com/innovation/7-health-systems-using-ai-to-ease-clinicians-documentation-burden.html"
+        "url": "https://www.beckershospitalreview.com/innovation/7-health-systems-using-ai-to-ease-clinicians-documentation-burden.html",
+        "nature": "list of projects"
     },
     "www.aafp.org": {
-        "url": "https://www.aafp.org/family-physician/practice-and-career/administrative-simplification/doc-burden/technologies-doc-burden.html"
+        "url": "https://www.aafp.org/family-physician/practice-and-career/administrative-simplification/doc-burden/technologies-doc-burden.html",
+        "nature": "list of projects"
     },
     "www.nuance.com": {
-        "url": "https://www.nuance.com/healthcare/ambient-clinical-intelligence.html"
+        "url": "https://www.nuance.com/healthcare/ambient-clinical-intelligence.html",
+        "nature": "list of projects"
     },
     "www.healthcareitnews.com": {
-        "url": "https://www.healthcareitnews.com/news/generative-ai-reduces-clinical-documentation-time-baptist-health"
+        "url": "https://www.healthcareitnews.com/news/generative-ai-reduces-clinical-documentation-time-baptist-health",
+        "nature": "list of projects"
     },
     "www.abridge.com": {
-        "url": "https://www.abridge.com/"
+        "url": "https://www.abridge.com/",
+        "nature": "list of projects"
     },
     "www.deepscribe.ai": {
-        "url": "https://www.deepscribe.ai/"
+        "url": "https://www.deepscribe.ai/",
+        "nature": "single project"
     },
     "www.ntst.com": {
-        "url": "https://www.ntst.com/carefabric/careguidance-solutions/ai-documentation-assistant"
+        "url": "https://www.ntst.com/carefabric/careguidance-solutions/ai-documentation-assistant",
+        "nature": "list of projects"
     },
     "eleos.health": {
-        "url": "https://eleos.health/"
+        "url": "https://eleos.health/",
+        "nature": "list of projects"
     },
     "www.getfreed.ai": {
-        "url": "https://www.getfreed.ai/"
+        "url": "https://www.getfreed.ai/",
+        "nature": "list of projects"
     },
     "whatsnext.nuance.com": {
-        "url": "https://whatsnext.nuance.com/healthcare-ai/transforming-medical-documentation-ai-technology/"
+        "url": "https://whatsnext.nuance.com/healthcare-ai/transforming-medical-documentation-ai-technology/",
+        "nature": "list of projects"
     },
     "www.fiercehealthcare.com": {
-        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/aws-rolls-out-generative-ai-service-healthcare-documentation-software"
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/aws-rolls-out-generative-ai-service-healthcare-documentation-software",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.tiu.nol": {
-        "url": "https://www.tiu.nol/"
+        "url": "https://www.tiu.nol/",
+        "nature": "Invalid: The URL provided is not accessible as the domain \"www.tiu.nol\" cannot be resolved."
     },
     "medcitynews.com": {
-        "url": "https://medcitynews.com/2023/09/can-ai-compose-clinical-documentation-absolutely-but-with-limits/"
+        "url": "https://medcitynews.com/2023/09/can-ai-compose-clinical-documentation-absolutely-but-with-limits/",
+        "nature": "list of projects"
     },
     "www.suki.ai": {
-        "url": "https://www.suki.ai/"
+        "url": "https://www.suki.ai/",
+        "nature": "single project"
     }
 }
