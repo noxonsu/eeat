@@ -1,41 +1,54 @@
 {
     "roblichtcustomsaunas.com": {
-        "url": "https://roblichtcustomsaunas.com/saunas/mobile-saunas"
+        "url": "https://roblichtcustomsaunas.com/saunas/mobile-saunas",
+        "nature": "single project"
     },
     "www.heartwoodsaunas.com": {
-        "url": "https://www.heartwoodsaunas.com/mobile-saunas"
+        "url": "https://www.heartwoodsaunas.com/mobile-saunas",
+        "nature": "list of projects"
     },
     "www.saunatimes.com": {
-        "url": "https://www.saunatimes.com/types-of-saunas/mobile-saunas/mobile-saunas/"
+        "url": "https://www.saunatimes.com/types-of-saunas/mobile-saunas/mobile-saunas/",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.fyresauna.com": {
-        "url": "https://www.fyresauna.com/"
+        "url": "https://www.fyresauna.com/",
+        "nature": "single project"
     },
     "www.warmtimber.com": {
-        "url": "https://www.warmtimber.com/services/mobile-sauna/"
+        "url": "https://www.warmtimber.com/services/mobile-sauna/",
+        "nature": "list of projects"
     },
     "www.timbersaunaco.com": {
-        "url": "https://www.timbersaunaco.com/shop/p/nordic-knight-mobile-sauna"
+        "url": "https://www.timbersaunaco.com/shop/p/nordic-knight-mobile-sauna",
+        "nature": "list of projects"
     },
     "bzbcabinsandoutdoors.net": {
-        "url": "https://bzbcabinsandoutdoors.net/mobile-saunas/"
+        "url": "https://bzbcabinsandoutdoors.net/mobile-saunas/",
+        "nature": "single project"
     },
     "bwsaunaco.com": {
-        "url": "https://bwsaunaco.com/superior-mobile-sauna-12-ft/"
+        "url": "https://bwsaunaco.com/superior-mobile-sauna-12-ft/",
+        "nature": "list of projects"
     },
     "casadesauna.com": {
-        "url": "https://casadesauna.com/"
+        "url": "https://casadesauna.com/",
+        "nature": "Invalid (single). Invalid: The content is about a Canadian-based company offering mobile sauna services and products, not in the UK, Ireland, or Germany."
     },
     "www.sweattent.com": {
-        "url": "https://www.sweattent.com/products/sweattent"
+        "url": "https://www.sweattent.com/products/sweattent",
+        "nature": "Invalid (single). Invalid: This content does not match the criteria of analyzing companies offering mobile sauna services and products in the UK, Ireland, and Germany."
     },
     "the weesauna.com": {
-        "url": "https://the weesauna.com/"
+        "url": "https://the weesauna.com/",
+        "nature": "Invalid: The URL provided is not accessible as it is not a valid URL."
     },
     "www.scandinaviansauna.dk": {
-        "url": "https://www.scandinaviansauna.dk/"
+        "url": "https://www.scandinaviansauna.dk/",
+        "nature": "list of projects"
     },
     "www.stonegrovesaunas.com": {
-        "url": "https://www.stonegrovesaunas.com/"
+        "url": "https://www.stonegrovesaunas.com/",
+        "nature": "list of projects"
     }
 }
