@@ -8,36 +8,46 @@
         "nature": "list of projects"
     },
     "www.aafp.org": {
-        "url": "https://www.aafp.org/family-physician/practice-and-career/administrative-simplification/doc-burden/technologies-doc-burden.html",
-        "nature": "list of projects"
+        "url": "https://www.aafp.org",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "AAFP:  Medical scribes"
     },
     "www.nuance.com": {
-        "url": "https://www.nuance.com/healthcare/ambient-clinical-intelligence.html",
-        "nature": "list of projects"
+        "url": "https://www.nuance.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Nuance:  Dragon Ambient eXperience"
     },
     "www.healthcareitnews.com": {
         "url": "https://www.healthcareitnews.com/news/generative-ai-reduces-clinical-documentation-time-baptist-health",
         "nature": "list of projects"
     },
     "www.abridge.com": {
-        "url": "https://www.abridge.com/",
-        "nature": "list of projects"
+        "url": "https://www.abridge.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Abridge:  generative ai in healthcare"
     },
     "www.deepscribe.ai": {
         "url": "https://www.deepscribe.ai/",
         "nature": "single project"
     },
     "www.ntst.com": {
-        "url": "https://www.ntst.com/carefabric/careguidance-solutions/ai-documentation-assistant",
-        "nature": "list of projects"
+        "url": "https://www.ntst.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "NetsmartTechnologiesInc:  AI Documentation Assistant"
     },
     "eleos.health": {
         "url": "https://eleos.health/",
         "nature": "list of projects"
     },
     "www.getfreed.ai": {
-        "url": "https://www.getfreed.ai/",
-        "nature": "list of projects"
+        "url": "https://www.getfreed.ai",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Freed:  AI medical documentation service"
     },
     "whatsnext.nuance.com": {
         "url": "https://whatsnext.nuance.com/healthcare-ai/transforming-medical-documentation-ai-technology/",
@@ -52,11 +62,28 @@
         "nature": "Invalid: The URL provided is not accessible as the domain \"www.tiu.nol\" cannot be resolved."
     },
     "medcitynews.com": {
-        "url": "https://medcitynews.com/2023/09/can-ai-compose-clinical-documentation-absolutely-but-with-limits/",
-        "nature": "list of projects"
+        "url": "https://medcitynews.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "MedCity News:  Upsized Kyverna IPO Gets $319M to Bring CAR Therapy to Autoimmune Diseases"
     },
     "www.suki.ai": {
         "url": "https://www.suki.ai/",
         "nature": "single project"
+    },
+    "baptisthealth.net": {
+        "url": "https://baptisthealth.net",
+        "cached_url": "not found",
+        "sourcekeyword": "BaptistHealthSouthFlorida:  generative AI"
+    },
+    "leantaas.com": {
+        "url": "https://leantaas.com",
+        "cached_url": "not found",
+        "sourcekeyword": "LeanTaaS AISolutions:  ChatGPT"
+    },
+    "austinulrich.com": {
+        "url": "https://austinulrich.com",
+        "cached_url": "not found",
+        "sourcekeyword": "AustinUlrich:  Freed AI"
     }
 }
