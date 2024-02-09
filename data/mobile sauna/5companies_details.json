@@ -1,0 +1,625 @@
+{
+    "roblichtcustomsaunas.com": {
+        "company_name": "Rob Licht Custom Saunas",
+        "location": "Ithaca, NY",
+        "mobile_sauna_models": [
+            {
+                "model_name": "THE ESSENTIAL",
+                "size": "5x8 ft",
+                "seats": 4,
+                "heater": "Harvia M3 wood-fired or Harvia Topclass Electric",
+                "interior_material": "Cedar",
+                "weight": "2000 lbs",
+                "base_price": "$27,500"
+            },
+            {
+                "model_name": "THE PURIST",
+                "size": "6.5x10 ft",
+                "with_enclosed_dressing_room": true,
+                "seats": 4,
+                "heater": "Harvia M3 wood-fired or Harvia Topclass Electric",
+                "interior_material": "Cedar",
+                "weight": "3000 lbs",
+                "base_price": "$35,500"
+            }
+        ],
+        "additional_options": [
+            {
+                "option_name": "L\u00e4mpim\u00e4mpi Wood Stove",
+                "description": "Custom welded wood-burning stove by Rob Licht wood-fired from the outside",
+                "additional_cost": "$1500"
+            },
+            {
+                "option_name": "Solar Lighting Package",
+                "description": "20 watt solar powered LED lighting",
+                "additional_cost": "$1000"
+            },
+            {
+                "option_name": "Exterior: Knotty Cedar and bevel siding",
+                "additional_cost": "$750"
+            },
+            {
+                "option_name": "Interior: Hot Yoga Conversion (fold-up benches)",
+                "additional_cost": "$500"
+            }
+        ],
+        "delivery_cost_per_mile": "$3.25",
+        "customer_reviews": [
+            {
+                "review": "So thrilled with our sauna\u2026 We have named it ABUNDANCE, as a reminder of how wonderful life is and continues to be. The mobility has allowed us to share it with many people\u2026",
+                "source": "Customer"
+            },
+            {
+                "review": "I AM FORTUNATE TO HAVE, IN MY CARE, ONE OF YOUR WORKS OF ART.",
+                "source": "Customer"
+            }
+        ],
+        "social_media_handles": {
+            "facebook": "@customsaunas",
+            "instagram": "@saunasbyrob"
+        },
+        "call_to_action": "Tell us what you are interested in today",
+        "usecases": "Perfect solution for renters or vacation homes, gatherings with friends, portable to favorite locations",
+        "solutions": "Custom-designed and handcrafted traditional Finnish-style saunas, safe materials for high temperatures and proper ventilation, wood-fired or electric options, attention to detail in design and construction",
+        "key_features": [
+            "Custom-built mobile saunas",
+            "Traditional Finnish-style sauna experience",
+            "Wood-fired or electric heater options",
+            "High-quality materials and craftsmanship",
+            "Customizable options available",
+            "Portable and suitable for various locations"
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Mobile Sauna Models": {
+                    "The Essential (mobile sauna 1.0)": {
+                        "Size": "5x8 ft",
+                        "Seats": 4,
+                        "Exterior siding": "painted pine - choice color",
+                        "Heater": "Harvia M3 wood-fired OR Harvia Topclass Electric (240 Volt Plug-in)",
+                        "Interior": "Cedar",
+                        "Weight": "2000 lbs",
+                        "Base price": "$27,500"
+                    },
+                    "The Purist (mobile sauna 2.0)": {
+                        "Size": "6.5 x10 ft (with or without an enclosed dressing room)",
+                        "Seats": 4,
+                        "Exterior siding": "painted pine - choice color",
+                        "Heater": "Harvia M3 wood-fired OR Harvia Topclass Electric (240 Volt Plug-in)",
+                        "Interior": "Cedar",
+                        "Weight": "3000 lbs",
+                        "Base price": "$35,500"
+                    },
+                    "Additional Options": {
+                        "L\u00e4mpim\u00e4mpi Wood Stove": "$1500",
+                        "Solar Lighting Package": "$1000",
+                        "Exterior (Knotty Cedar and bevel siding)": "$750",
+                        "Interior (Hot Yoga Conversion)": "$500",
+                        "Delivery": "$3.25/mile one way"
+                    }
+                }
+            }
+        }
+    },
+    "www.heartwoodsaunas.com": {
+        "products": [
+            {
+                "name": "8 Person Mobile Sauna",
+                "wood-fired_sauna_stove": {
+                    "max_length_of_firewood": "400mm",
+                    "heating_time": "90 minutes to reach 70\u00b0C",
+                    "heater_output": "17kW",
+                    "max_stone_capacity": "90kg"
+                },
+                "sauna_dimensions": {
+                    "length": "4.8m",
+                    "width": "2.55m",
+                    "length_including_trailer_bar": "6.5m"
+                },
+                "features": [
+                    "Comfortably seats 7-8 people",
+                    "Large double-glazed picture-style window",
+                    "Built-in private changing area",
+                    "Fitted with a HUUM 12kW wood-fired stove",
+                    "Fitted with solar panel, inverter, and charger for off-grid lighting supply",
+                    "Subtle warm white LED down-lighting",
+                    "Knot-free thermally modified ash two-tier bench seating",
+                    "Insulated with British sheep's wool (165mm wall thickness)",
+                    "Built-in unique vapour barrier",
+                    "Includes bespoke made trailer with self-leveling jacks, fold-down tailgate access step, and security removable hitch"
+                ],
+                "example_floor_plan_available": true,
+                "price": "\u00a362,000 (+VAT)",
+                "call_to_action": "Get In Touch",
+                "usecases": [
+                    "Personal use",
+                    "Business use"
+                ],
+                "solutions": [
+                    "High-quality mobile sauna experience",
+                    "Customizable trailer base"
+                ],
+                "key_features": [
+                    "Wood-fired sauna stove",
+                    "Comfortable seating",
+                    "Energy-efficient lighting",
+                    "Insulation with sheep's wool"
+                ]
+            },
+            {
+                "name": "5 Person Mobile Sauna",
+                "wood-fired_sauna_stove": {
+                    "max_length_of_firewood": "350mm",
+                    "heating_time": "75 minutes to reach 70\u00b0C",
+                    "heater_output": "12kW",
+                    "max_stone_capacity": "90kg"
+                },
+                "sauna_dimensions": {
+                    "length": "3.7m",
+                    "width": "2.55m",
+                    "length_including_trailer_bar": "5.05m"
+                },
+                "features": [
+                    "Seats 4-5 people",
+                    "Large double-glazed picture-style window",
+                    "Built-in private changing area",
+                    "Fitted with a HUUM 12kW wood-fired stove",
+                    "Fitted with solar panel, inverter, and charger for off-grid lighting supply",
+                    "Subtle warm white LED down-lighting",
+                    "Knot-free thermally modified ash two-tier bench seating",
+                    "Insulated with British sheep's wool (165mm wall thickness)",
+                    "Built-in unique vapour barrier",
+                    "Includes bespoke made trailer with self-leveling jacks, fold-down tailgate access step, and security removable hitch"
+                ],
+                "example_floor_plan_available": true,
+                "price": "\u00a354,000 (+VAT)",
+                "call_to_action": "Get In Touch",
+                "usecases": [
+                    "Personal use",
+                    "Small group use"
+                ],
+                "solutions": [
+                    "Mobile sauna experience on the go",
+                    "Energy-efficient and eco-friendly design"
+                ],
+                "key_features": [
+                    "Wood-fired sauna stove",
+                    "Private changing area",
+                    "Solar-powered lighting",
+                    "Insulation with sheep's wool"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": [
+                {
+                    "name": "8 Person Mobile Sauna",
+                    "price": "\n\u00a362,000 (+VAT)"
+                },
+                {
+                    "name": "5 Person Mobile Sauna",
+                    "price": "\n\u00a354,000 (+VAT)"
+                }
+            ]
+        }
+    },
+    "www.fyresauna.com": {
+        "company_name": "Fyre Sauna",
+        "location": "Woodinville, WA",
+        "services": {
+            "mobile_sauna_rental": {
+                "call_to_action": "Book Now",
+                "usecases": [
+                    "Home driveway sauna experience",
+                    "Campsite sauna experience",
+                    "Business wellness events"
+                ],
+                "solutions": [
+                    "Promotes relaxation, recovery, and rejuvenation",
+                    "Offers a unique way to connect with friends and family",
+                    "Brings the transformative wellness experience of wood-fired saunas to the community"
+                ],
+                "key_features": {
+                    "seats_capacity": "Up to 10 people",
+                    "stove_type": "Smokeless stove",
+                    "heat_control": "Adjustable heat",
+                    "cold_plunge_tanks": "2 tanks",
+                    "amenities": [
+                        "Outdoor seating",
+                        "Free set up & take down",
+                        "Non-toxic cleaning",
+                        "Outdoor shower",
+                        "Sustainable cedar construction",
+                        "Cotton towels",
+                        "Solo stove fire pit"
+                    ]
+                }
+            },
+            "event_based_sauna_experiences": {
+                "call_to_action": "Tell us more about what you're looking for and we'll find a way to make it happen! Let's connect",
+                "usecases": [
+                    "Special events",
+                    "Camping trips",
+                    "Business retreats"
+                ],
+                "solutions": [
+                    "Provides a holistic wellness experience for the mind and body",
+                    "Promotes muscle recovery, relaxation, rejuvenation, and connection with others"
+                ]
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "Daily Rental": {
+                    "1st day": "$550",
+                    "additional days": "$400"
+                },
+                "Business Events & Popups": {
+                    "Single Popup Spot": "$30",
+                    "Private Popup Session": "$250"
+                }
+            }
+        }
+    },
+    "www.warmtimber.com": {
+        "company_name": "Warm Timber Saunas & Wine Cellars",
+        "location": "UK",
+        "services": {
+            "mobile_sauna": {
+                "call_to_action": "Book Now",
+                "usecases": [
+                    "Family events",
+                    "Corporate outings",
+                    "Friendly get-togethers"
+                ],
+                "solutions": "Bringing an authentic, wood-fired, Finnish sauna to any location",
+                "key_features": {
+                    "interior": "All cedar interior with double-tiered benches",
+                    "heating": "Wood-burning stove for heat and woodsy aroma",
+                    "steam": "Ability to ladle water over rocks for steam",
+                    "convenience": "Comes with extension cords and logs for heating"
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "1 to 7": "$300",
+                "8 to 12": "$400",
+                "12+": "Negotiable"
+            },
+            "businessModel": "Mobile Sauna rental service"
+        }
+    },
+    "www.timbersaunaco.com": {
+        "product_name": "Nordic Night Mobile Sauna",
+        "price": "$48,000.00",
+        "options_available": {
+            "lighting_package": [
+                "Smart Lighting Package",
+                "Standard Lighting"
+            ],
+            "material": [
+                "Cedar Slat Siding",
+                "Black Metallic Siding"
+            ],
+            "solar_battery": [
+                "Solar / Battery Package",
+                "Standard AC Plug-In"
+            ],
+            "circle_window": [
+                "5ft Circle Window",
+                "Standard Window"
+            ]
+        },
+        "call_to_action": "CONTACT US",
+        "usecases": [
+            "Mobile sauna for personal use",
+            "Mobile sauna for events or rentals"
+        ],
+        "solutions": "Provides a customizable mobile sauna experience with options for lighting, material, power source, and window type.",
+        "key_features": [
+            "Customizable options for personalization",
+            "Electric or wood-fired stoves available",
+            "Solar/battery or standard AC plug-in power options"
+        ]
+    },
+    "bzbcabinsandoutdoors.net": {
+        "company_name": "BZB Cabins and Outdoors LLC",
+        "product_type": "Mobile Saunas",
+        "customizable_options": {
+            "capacity": "3-8 people",
+            "shape": "Customizable",
+            "windows_and_doors": "Choice available",
+            "heater": "Electric or wood-fired",
+            "finish": "Customizable",
+            "lighting": "Option to choose",
+            "other_features": "Built to customer specifications"
+        },
+        "delivery_experience": {
+            "positive_reviews": [
+                {
+                    "reviewer_name": "Margit-Joanna Pikkor",
+                    "review_rating": 5,
+                    "review_comment": "We rented the mobile sauna and it was fantastic! Great customer service throughout our 5-day rental. The sauna was clean, neat, and well worth it. Delivery and pick up were friendly, fast, and easy. Highly recommend it for a spa weekend at home."
+                },
+                {
+                    "reviewer_name": "Roman Stepanenko",
+                    "review_rating": 5,
+                    "review_comment": "As a brand new owner of a BZB sauna, I can't be more pleased and thankful for the versatility and quality craftsmanship. A+++ customer service."
+                }
+            ],
+            "contact_options": [
+                "Send a message",
+                "Call: +1 (800) 568-0804"
+            ]
+        },
+        "call_to_action": "Contact us below for a custom quote",
+        "use_cases": [
+            "Campgrounds for guest relaxation",
+            "Private events like weddings and birthdays",
+            "Rental for additional income"
+        ],
+        "solutions": "Designed for easy transportation and enjoyment of hot steam and relaxation anywhere",
+        "key_features": {
+            "customization": true,
+            "portability": true,
+            "traditional_design_with_modern_comforts": true,
+            "versatility": true,
+            "quality_craftsmanship": true
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Outdoor POD Sauna Igloo Kit 40": "$9,450.00",
+                "4 Person Outdoor Sauna W2": "$9,490.00",
+                "Wood Burning Sauna Kit W42": "$8,950.00",
+                "Wood Burning Sauna Kit W29 (Heater Included)": "$7,390.00",
+                "Shed Kit Dora | 93 Sq.Ft.": "$7,250.00",
+                "Pinecrest Prefab Pool House Kit | 123 Sq.Ft | One Room": "$7,540.00",
+                "Lakeview Cabin Kit | 209 Sq.Ft | One Room": "$9,990.00",
+                "Tiny Modern Outdoor Sauna Kit Allure XS": "$7,990.00",
+                "Sauna Cabin Kit Novus L 70": "$15,890.00",
+                "Sauna Cabin Kit Novus M 70": "$13,850.00",
+                "Sauna Cabin Kit Novus XS 40": "$9,480.00",
+                "Small Outdoor Sauna Kit Novus S70": "$11,480.00",
+                "Mobile Sauna Trailers": "$25,900.00",
+                "2 Room Barrel Sauna Kit W34 (Sauna Heater Included)": "$8,260.00",
+                "8 Person Barrel Sauna Kit W44": "$9,790.00",
+                "4 Person Barrel Sauna W20": "$5,890.00",
+                "Sunset Backyard Cabin | 162 Sq.Ft | One Room": "$10,450.00",
+                "Allwood Cabins Escape Cabin Kit | 113 Sq. Ft. | One Room": "$6,550.00"
+            }
+        }
+    },
+    "www.scandinaviansauna.dk": {
+        "company_name": "Scandinavian Sauna ApS",
+        "products": [
+            {
+                "product_name": "Small Scandinavian Sauna",
+                "key_features": "Smaller, powerful, fits easily into most gardens, minimum space requirement, suitable for smaller cars",
+                "call_to_action": "Learn More",
+                "usecases": "Ideal for individuals with limited space, suitable for smaller groups or rental businesses",
+                "solutions": "Provides a comforting sauna experience with compact design",
+                "reviews": [
+                    {
+                        "reviewer": "Stefan Wanzenried",
+                        "location": "Switzerland",
+                        "comment": "Extremely high quality with wonderful design"
+                    },
+                    {
+                        "reviewer": "Chris MacDonald",
+                        "location": "Denmark",
+                        "comment": "Amazing quality! Amazing features! Truly best in class!"
+                    }
+                ]
+            },
+            {
+                "product_name": "Medium Scandinavian Sauna",
+                "key_features": "Compact changing area, corner seatings, comforting features, flexibility",
+                "call_to_action": "Learn More",
+                "usecases": "Suitable for smaller groups of sauna enthusiasts or rental businesses",
+                "solutions": "Offers a luxurious and relaxing sauna experience",
+                "reviews": [
+                    {
+                        "reviewer": "Sean",
+                        "location": "Ireland",
+                        "comment": "The final product is absolutely stunning"
+                    },
+                    {
+                        "reviewer": "Alexander Behringer",
+                        "location": "Germany",
+                        "comment": "Makes a very solid impression, has a great design and is very comfortable"
+                    }
+                ]
+            },
+            {
+                "product_name": "Large Scandinavian Sauna",
+                "key_features": "Spacious, comfortable, exceptionally powerful, ideal for larger groups",
+                "call_to_action": "Learn More",
+                "usecases": "Popular with hotels, businesses, and individuals hosting sauna sessions with friends",
+                "solutions": "Provides a luxurious and relaxing sauna experience for larger groups",
+                "reviews": [
+                    {
+                        "reviewer": "Alexander K\u00f8lpin",
+                        "location": "Denmark",
+                        "comment": "Uncompromising approach and attention to detail. The care for quality in their product clearly pays off"
+                    },
+                    {
+                        "reviewer": "Sarah Guise",
+                        "location": "UK",
+                        "comment": "The thought behind every detail is reflected in the experience"
+                    }
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Medium Scandinavian Sauna": {
+                    "Floor Plan Option A (with trailer)": {
+                        "Euro": 24000,
+                        "DKK": 177000
+                    },
+                    "Floor Plan Option A (without trailer)": {
+                        "Euro": 19000,
+                        "DKK": 140000
+                    },
+                    "Floor Plan Option B (with trailer)": {
+                        "Euro": 24900,
+                        "DKK": 184000
+                    },
+                    "Floor Plan Option B (without trailer)": {
+                        "Euro": 19900,
+                        "DKK": 147000
+                    }
+                }
+            }
+        }
+    },
+    "www.stonegrovesaunas.com": {
+        "products": [
+            {
+                "name": "6-Person Barrel Sauna - Minneapolis, MN",
+                "location": "Minneapolis, MN",
+                "capacity": "6-person",
+                "nightly_rates": {
+                    "1 Night": "$285",
+                    "2 Nights": "$425",
+                    "3 Nights": "$300",
+                    "4 Nights": "$740",
+                    "5 Nights": "$855",
+                    "6 Nights": "$940",
+                    "7 Nights": "$995"
+                },
+                "delivery_details": {
+                    "nightly_minimums_apply": "Yes",
+                    "free_delivery_within_10_miles": "Yes",
+                    "additional_cost_after_10_miles": "$3/mile",
+                    "included_items": "2 bundles of wood and dunk tank",
+                    "ideal_placement_area": "Flat 9x20 ft. area"
+                },
+                "cancellation_policy": {
+                    "14_days_or_more": "25% of deposit non-refundable",
+                    "7-13_days": "50% of deposit non-refundable",
+                    "2-6_days": "75% of deposit non-refundable",
+                    "day_before_or_day_of_delivery": "Full deposit non-refundable",
+                    "refund_discretion": "All refunds are at the discretion of Stonegrove Saunas"
+                },
+                "call_to_action": "Request to Book",
+                "usecases": [
+                    "Personal relaxation",
+                    "Events",
+                    "Wellness retreats"
+                ],
+                "solutions": [
+                    "Authentic sauna experience",
+                    "Relaxation",
+                    "Healing",
+                    "Rejuvenation"
+                ],
+                "key_features": [
+                    "6-person capacity",
+                    "Handcrafted barrel sauna",
+                    "Delivery to home or event venue",
+                    "Includes wood and dunk tank"
+                ]
+            },
+            {
+                "name": "4-Person Barrel Sauna - Minneapolis, MN",
+                "location": "Minneapolis, MN",
+                "capacity": "4-person",
+                "nightly_rates": {
+                    "1 Night": "$285",
+                    "2 Nights": "$425",
+                    "3 Nights": "$300",
+                    "4 Nights": "$740",
+                    "5 Nights": "$855",
+                    "6 Nights": "$940",
+                    "7 Nights": "$995"
+                },
+                "delivery_details": {
+                    "nightly_minimums_apply": "Yes",
+                    "free_delivery_within_10_miles": "Yes",
+                    "additional_cost_after_10_miles": "$3/mile",
+                    "included_items": "2 bundles of wood and dunk tank",
+                    "ideal_placement_area": "Flat 9x20 ft. area"
+                },
+                "cancellation_policy": {
+                    "14_days_or_more": "25% of deposit non-refundable",
+                    "7-13_days": "50% of deposit non-refundable",
+                    "2-6_days": "75% of deposit non-refundable",
+                    "day_before_or_day_of_delivery": "Full deposit non-refundable",
+                    "refund_discretion": "All refunds are at the discretion of Stonegrove Saunas"
+                },
+                "call_to_action": "Request to Book",
+                "usecases": [
+                    "Personal relaxation",
+                    "Small gatherings",
+                    "Family sauna sessions"
+                ],
+                "solutions": [
+                    "Authentic sauna experience",
+                    "Relaxation",
+                    "Healing",
+                    "Rejuvenation"
+                ],
+                "key_features": [
+                    "4-person capacity",
+                    "Handcrafted barrel sauna",
+                    "Delivery to home or event venue",
+                    "Includes wood and dunk tank"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": [
+                {
+                    "location": "Minneapolis, MN",
+                    "saunaType": "6-Person Barrel Sauna",
+                    "pricing": {
+                        "1 Night": "$285",
+                        "2 Nights": "$425",
+                        "3 Nights": "$300",
+                        "4 Nights": "$740",
+                        "5 Nights": "$855",
+                        "6 Nights": "$940",
+                        "7 Nights": "$995"
+                    }
+                },
+                {
+                    "location": "Grand Rapids, MN",
+                    "saunaType": "6-Person Barrel Sauna",
+                    "pricing": {
+                        "Nightly Rates": "Contact for details"
+                    }
+                },
+                {
+                    "location": "Duluth, MN",
+                    "saunaType": "6-Person Barrel Sauna",
+                    "pricing": {
+                        "Nightly Rates": "Contact for details"
+                    }
+                },
+                {
+                    "location": "Minneapolis, MN",
+                    "saunaType": "4-Person Barrel Sauna",
+                    "pricing": {
+                        "Nightly Rates": "Contact for details"
+                    }
+                },
+                {
+                    "location": "Grand Rapids, MN",
+                    "saunaType": "4-Person Barrel Sauna",
+                    "pricing": {
+                        "Nightly Rates": "Contact for details"
+                    }
+                }
+            ]
+        }
+    }
+}

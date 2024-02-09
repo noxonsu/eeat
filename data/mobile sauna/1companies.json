@@ -2,14 +2,16 @@
     "roblichtcustomsaunas.com": {
         "url": "https://roblichtcustomsaunas.com/saunas/mobile-saunas",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://roblichtcustomsaunas.com/saunas/mobile-saunas"
+        "priceAndPlansCrawled": "https://roblichtcustomsaunas.com/saunas/mobile-saunas",
+        "5prompt_Hash": "c7947920a2575fefbc9efbb48a9c5516"
     },
     "www.heartwoodsaunas.com": {
         "url": "https://www.heartwoodsaunas.com",
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "HeartwoodSaunas:  Mobile Saunas",
-        "priceAndPlansCrawled": "https://www.heartwoodsaunas.com/mobile-saunas"
+        "priceAndPlansCrawled": "https://www.heartwoodsaunas.com/mobile-saunas",
+        "5prompt_Hash": "c7947920a2575fefbc9efbb48a9c5516"
     },
     "www.saunatimes.com": {
         "url": "https://www.saunatimes.com/types-of-saunas/mobile-saunas/mobile-saunas/",
@@ -18,26 +20,30 @@
     "www.fyresauna.com": {
         "url": "https://www.fyresauna.com/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://www.fyresauna.com/"
+        "priceAndPlansCrawled": "https://www.fyresauna.com/",
+        "5prompt_Hash": "c7947920a2575fefbc9efbb48a9c5516"
     },
     "www.warmtimber.com": {
         "url": "https://www.warmtimber.com",
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "WarmTimberSaunasWineCellars:  Mobile Sauna",
-        "priceAndPlansCrawled": "https://www.warmtimber.com/services/mobile-sauna/"
+        "priceAndPlansCrawled": "https://www.warmtimber.com/services/mobile-sauna/",
+        "5prompt_Hash": "c7947920a2575fefbc9efbb48a9c5516"
     },
     "www.timbersaunaco.com": {
         "url": "https://www.timbersaunaco.com",
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "TimberSaunaCo:  Nordic Night Mobile Sauna",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "c7947920a2575fefbc9efbb48a9c5516"
     },
     "bzbcabinsandoutdoors.net": {
         "url": "https://bzbcabinsandoutdoors.net/mobile-saunas/",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://bzbcabinsandoutdoors.net/shop/"
+        "priceAndPlansCrawled": "https://bzbcabinsandoutdoors.net/shop/",
+        "5prompt_Hash": "c7947920a2575fefbc9efbb48a9c5516"
     },
     "bwsaunaco.com": {
         "url": "https://bwsaunaco.com/superior-mobile-sauna-12-ft/",
@@ -60,13 +66,15 @@
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "ScandinavianSaunaApS:  Small Scandinavian Sauna",
-        "priceAndPlansCrawled": "https://www.scandinaviansauna.dk/6-people"
+        "priceAndPlansCrawled": "https://www.scandinaviansauna.dk/6-people",
+        "5prompt_Hash": "c7947920a2575fefbc9efbb48a9c5516"
     },
     "www.stonegrovesaunas.com": {
         "url": "https://www.stonegrovesaunas.com",
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "StonegroveSaunas:  Person Barrel Sauna",
-        "priceAndPlansCrawled": "https://www.stonegrovesaunas.com/"
+        "priceAndPlansCrawled": "https://www.stonegrovesaunas.com/",
+        "5prompt_Hash": "c7947920a2575fefbc9efbb48a9c5516"
     }
 }
