@@ -4,8 +4,10 @@
         "nature": "single project"
     },
     "www.heartwoodsaunas.com": {
-        "url": "https://www.heartwoodsaunas.com/mobile-saunas",
-        "nature": "list of projects"
+        "url": "https://www.heartwoodsaunas.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "HeartwoodSaunas:  Mobile Saunas"
     },
     "www.saunatimes.com": {
         "url": "https://www.saunatimes.com/types-of-saunas/mobile-saunas/mobile-saunas/",
@@ -16,12 +18,16 @@
         "nature": "single project"
     },
     "www.warmtimber.com": {
-        "url": "https://www.warmtimber.com/services/mobile-sauna/",
-        "nature": "list of projects"
+        "url": "https://www.warmtimber.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "WarmTimberSaunasWineCellars:  Mobile Sauna"
     },
     "www.timbersaunaco.com": {
-        "url": "https://www.timbersaunaco.com/shop/p/nordic-knight-mobile-sauna",
-        "nature": "list of projects"
+        "url": "https://www.timbersaunaco.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "TimberSaunaCo:  Nordic Night Mobile Sauna"
     },
     "bzbcabinsandoutdoors.net": {
         "url": "https://bzbcabinsandoutdoors.net/mobile-saunas/",
@@ -44,11 +50,15 @@
         "nature": "Invalid: The URL provided is not accessible as it is not a valid URL."
     },
     "www.scandinaviansauna.dk": {
-        "url": "https://www.scandinaviansauna.dk/",
-        "nature": "list of projects"
+        "url": "https://www.scandinaviansauna.dk",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "ScandinavianSaunaApS:  Small Scandinavian Sauna"
     },
     "www.stonegrovesaunas.com": {
-        "url": "https://www.stonegrovesaunas.com/",
-        "nature": "list of projects"
+        "url": "https://www.stonegrovesaunas.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "StonegroveSaunas:  Person Barrel Sauna"
     }
 }
