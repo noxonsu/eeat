@@ -1,32 +1,42 @@
 {
     "help.socialintents.com": {
-        "url": "https://help.socialintents.com/article/189-how-to-embed-chatgpt-in-your-website"
+        "url": "https://help.socialintents.com/article/189-how-to-embed-chatgpt-in-your-website",
+        "nature": "list of projects"
     },
     "community.openai.com": {
-        "url": "https://community.openai.com/t/embed-chatgpt-on-website/26836"
+        "url": "https://community.openai.com/t/embed-chatgpt-on-website/26836",
+        "nature": "list of projects"
     },
     "nestify.io": {
-        "url": "https://nestify.io/blog/embed-chatgpt-in-your-website-for-optimal-efficiency/"
+        "url": "https://nestify.io/blog/embed-chatgpt-in-your-website-for-optimal-efficiency/",
+        "nature": "list of projects"
     },
     "blog.hubspot.com": {
-        "url": "https://blog.hubspot.com/website/chatgpt-integration"
+        "url": "https://blog.hubspot.com/website/chatgpt-integration",
+        "nature": "list of projects"
     },
     "medium.com": {
-        "url": "https://medium.com/@jamesfuthey/how-to-add-chatgpt-to-your-website-715751c6ca92"
+        "url": "https://medium.com/@jamesfuthey/how-to-add-chatgpt-to-your-website-715751c6ca92",
+        "nature": "single project"
     },
     "customgpt.ai": {
-        "url": "https://customgpt.ai/embed-customgpt-chatbot-as-a-live-chat-feature/"
+        "url": "https://customgpt.ai/embed-customgpt-chatbot-as-a-live-chat-feature/",
+        "nature": "list of projects"
     },
     "www.solulab.com": {
-        "url": "https://www.solulab.com/integrate-chatgpt-to-your-website/"
+        "url": "https://www.solulab.com/integrate-chatgpt-to-your-website/",
+        "nature": "list of projects"
     },
     "aista.com": {
-        "url": "https://aista.com/blog/embed-a-custom-chatgpt-chatbot-on-your-website-in-5-minutes"
+        "url": "https://aista.com/blog/embed-a-custom-chatgpt-chatbot-on-your-website-in-5-minutes",
+        "nature": "single project"
     },
     "blog.enterprisedna.co": {
-        "url": "https://blog.enterprisedna.co/how-to-use-chatgpt-for-sharepoint/"
+        "url": "https://blog.enterprisedna.co/how-to-use-chatgpt-for-sharepoint/",
+        "nature": "list of projects"
     },
     "www.thesamur.ai": {
-        "url": "https://www.thesamur.ai/add-chatgpt-to-html-website"
+        "url": "https://www.thesamur.ai/add-chatgpt-to-html-website",
+        "nature": "list of projects"
     }
 }
