@@ -96,7 +96,13 @@ jobs:
         git diff --cached --exit-code || git commit -m "($GITHUB_WORKFLOW) - 4searchProducts.py"
         git pull
         git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
-
+        
+        python 2loadSummaries.py
+        git add -A
+        git diff --cached --exit-code || git commit -m "($GITHUB_WORKFLOW) - 2 2loadSummaries.py"
+        git pull
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
+        
         python 3searchPrices.py
         git add -A
         git diff --cached --exit-code || git commit -m "($GITHUB_WORKFLOW) - 3searchPrices.py"

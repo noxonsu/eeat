@@ -48,21 +48,25 @@
     "www.socialintents.com": {
         "url": "https://www.socialintents.com",
         "cached_url": "not found",
-        "sourcekeyword": "SocialIntents:  ChatGPT"
+        "sourcekeyword": "SocialIntents:  ChatGPT",
+        "nature": "single project"
     },
     "enterprisedna.co": {
         "url": "https://enterprisedna.co",
         "cached_url": "not found",
-        "sourcekeyword": "EnterpriseDNA:  ChatGPT"
+        "sourcekeyword": "EnterpriseDNA:  ChatGPT",
+        "nature": "single project"
     },
     "openai.com": {
         "url": "https://openai.com",
         "cached_url": "not found",
-        "sourcekeyword": "OpenAI:  ChatGPT"
+        "sourcekeyword": "OpenAI:  ChatGPT",
+        "nature": "single project"
     },
     "embedai.ai": {
         "url": "https://embedai.ai",
         "cached_url": "not found",
-        "sourcekeyword": "EmbedAI:  ChatGPT"
+        "sourcekeyword": "EmbedAI:  ChatGPT",
+        "nature": "Invalid:content_missing"
     }
 }
