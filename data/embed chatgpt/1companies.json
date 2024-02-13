@@ -8,8 +8,10 @@
         "nature": "list of projects"
     },
     "nestify.io": {
-        "url": "https://nestify.io/blog/embed-chatgpt-in-your-website-for-optimal-efficiency/",
-        "nature": "list of projects"
+        "url": "https://nestify.io",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "NestifyInternetInc:  Managed WordPress Hosting"
     },
     "blog.hubspot.com": {
         "url": "https://blog.hubspot.com/website/chatgpt-integration",
@@ -20,12 +22,16 @@
         "nature": "single project"
     },
     "customgpt.ai": {
-        "url": "https://customgpt.ai/embed-customgpt-chatbot-as-a-live-chat-feature/",
-        "nature": "list of projects"
+        "url": "https://customgpt.ai",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "CustomGPT:  Chatbot"
     },
     "www.solulab.com": {
-        "url": "https://www.solulab.com/integrate-chatgpt-to-your-website/",
-        "nature": "list of projects"
+        "url": "https://www.solulab.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "SoluLab:  ChatGPT Development"
     },
     "aista.com": {
         "url": "https://aista.com/blog/embed-a-custom-chatgpt-chatbot-on-your-website-in-5-minutes",
@@ -38,5 +44,25 @@
     "www.thesamur.ai": {
         "url": "https://www.thesamur.ai/add-chatgpt-to-html-website",
         "nature": "list of projects"
+    },
+    "www.socialintents.com": {
+        "url": "https://www.socialintents.com",
+        "cached_url": "not found",
+        "sourcekeyword": "SocialIntents:  ChatGPT"
+    },
+    "enterprisedna.co": {
+        "url": "https://enterprisedna.co",
+        "cached_url": "not found",
+        "sourcekeyword": "EnterpriseDNA:  ChatGPT"
+    },
+    "openai.com": {
+        "url": "https://openai.com",
+        "cached_url": "not found",
+        "sourcekeyword": "OpenAI:  ChatGPT"
+    },
+    "embedai.ai": {
+        "url": "https://embedai.ai",
+        "cached_url": "not found",
+        "sourcekeyword": "EmbedAI:  ChatGPT"
     }
 }
