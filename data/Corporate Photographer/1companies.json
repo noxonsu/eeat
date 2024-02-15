@@ -12,8 +12,10 @@
         "nature": "Invalid: DDOS protection screen"
     },
     "robertessel.com": {
-        "url": "https://robertessel.com/",
-        "nature": "list of projects"
+        "url": "https://robertessel.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "RobertEssel:  Soundbreaking"
     },
     "www.carreonphotography.com": {
         "url": "https://www.carreonphotography.com/corporate-photographer.html",
@@ -24,20 +26,26 @@
         "nature": "Invalid: DDOS protection screen"
     },
     "www.rmnphotography.com": {
-        "url": "http://www.rmnphotography.com/corporate",
-        "nature": "list of projects"
+        "url": "https://www.rmnphotography.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "RMNPhotography:  corporate photography"
     },
     "caseytempleton.com": {
         "url": "https://caseytempleton.com/blog/what-is-corporate-photography/",
         "nature": "Invalid (single). Invalid: The content does not match the criteria of providing a subscription for company culture photos at 750Eur/month for a digital photo frame in the company's lobby."
     },
     "www.geoffreyscorporate.com": {
-        "url": "https://www.geoffreyscorporate.com/",
-        "nature": "list of projects"
+        "url": "https://www.geoffreyscorporate.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "SheriGeoffreysCorporatePhotography:  Corporate Photography"
     },
     "www.rebeccawilkowski.com": {
-        "url": "https://www.rebeccawilkowski.com/",
-        "nature": "list of projects"
+        "url": "https://www.rebeccawilkowski.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "RebeccaWilkowski:  Personal Branding + Portraits"
     },
     "www.jasonkindig.com": {
         "url": "https://www.jasonkindig.com/dallas-photography-blog/what-is-a-dallas-corporate-photographer",
@@ -56,8 +64,10 @@
         "nature": "Invalid (single). Invalid: The content does not match the criteria provided."
     },
     "www.headshotsandcorporate.com": {
-        "url": "https://www.headshotsandcorporate.com/",
-        "nature": "list of projects"
+        "url": "https://www.headshotsandcorporate.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Headshots & Corporate Photography:  Headshot Photography"
     },
     "www.executivephotosnyc.com": {
         "url": "https://www.executivephotosnyc.com/",
@@ -68,8 +78,10 @@
         "nature": "list of projects"
     },
     "www.ohiocorporatephotographer.com": {
-        "url": "https://www.ohiocorporatephotographer.com/",
-        "nature": "list of projects"
+        "url": "https://www.ohiocorporatephotographer.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "OhioCorporatePhotographer:  Fine Art Limited Edition gallery By Terry Thurston"
     },
     "www.stevenmillerpix.com": {
         "url": "https://www.stevenmillerpix.com/corporate_photography_orlando/",
@@ -80,12 +92,16 @@
         "nature": "Invalid (single). Invalid: This website does not offer a subscription for photos illustrating company culture, nor does it mention a digital photo frame service for displaying daily photos in the company's lobby."
     },
     "chicagophotovideo.com": {
-        "url": "https://chicagophotovideo.com/",
-        "nature": "list of projects"
+        "url": "https://chicagophotovideo.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "ChicagoCorporatePhotographyVideo:  Product Photography"
     },
     "www.nashvillecorporatephotography.com": {
-        "url": "https://www.nashvillecorporatephotography.com/",
-        "nature": "list of projects"
+        "url": "https://www.nashvillecorporatephotography.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "NashvilleCorporatePhotography:  Headshots and Personal Branding"
     },
     "www.miccichecorporate.com": {
         "url": "https://www.miccichecorporate.com/",
@@ -100,15 +116,79 @@
         "nature": "list of projects"
     },
     "headshots-inc.com": {
-        "url": "https://headshots-inc.com/headshot-types/corporate-headshots/",
-        "nature": "list of projects"
+        "url": "https://headshots-inc.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "HeadShotsInc:  Corporate Headshots"
     },
     "boorayperry.com": {
         "url": "https://boorayperry.com/",
         "nature": "Invalid (single). Invalid: The content does not match the criteria provided."
     },
     "jenworley.com": {
-        "url": "https://jenworley.com/",
-        "nature": "list of projects"
+        "url": "https://jenworley.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "JenBarkerWorleyPhotography:  Headshots"
+    },
+    "www.ontheborder.com": {
+        "url": "https://www.ontheborder.com",
+        "cached_url": "not found",
+        "sourcekeyword": "OnTheBorder: "
+    },
+    "transwestern.com": {
+        "url": "https://transwestern.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Transwestern: "
+    },
+    "www.petersonmanagementgroup.net": {
+        "url": "https://www.petersonmanagementgroup.net",
+        "cached_url": "not found",
+        "sourcekeyword": "PetersonManagementGroup: "
+    },
+    "www.wingstop.com": {
+        "url": "https://www.wingstop.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Wingstop: "
+    },
+    "www.credera.com": {
+        "url": "https://www.credera.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Credera: "
+    },
+    "thescoutguide.com": {
+        "url": "https://thescoutguide.com",
+        "cached_url": "not found",
+        "sourcekeyword": "TheScoutGuide: "
+    },
+    "www.taxact.com": {
+        "url": "https://www.taxact.com",
+        "cached_url": "not found",
+        "sourcekeyword": "TaxActPro: "
+    },
+    "www.ifm.org": {
+        "url": "https://www.ifm.org",
+        "cached_url": "not found",
+        "sourcekeyword": "TheInstituteforFunctionalMedicine: "
+    },
+    "www.core-mark.com": {
+        "url": "https://www.core-mark.com",
+        "cached_url": "not found",
+        "sourcekeyword": "CoreMark: "
+    },
+    "libertymade.com": {
+        "url": "https://libertymade.com",
+        "cached_url": "not found",
+        "sourcekeyword": "LibertyMade: "
+    },
+    "www.marriott.com": {
+        "url": "https://www.marriott.com",
+        "cached_url": "not found",
+        "sourcekeyword": "GaylordTexan: "
+    },
+    "www.toyota.com": {
+        "url": "https://www.toyota.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Toyota: "
     }
 }
