@@ -134,61 +134,73 @@
     "www.ontheborder.com": {
         "url": "https://www.ontheborder.com",
         "cached_url": "not found",
-        "sourcekeyword": "OnTheBorder: "
+        "sourcekeyword": "OnTheBorder: ",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria provided."
     },
     "transwestern.com": {
         "url": "https://transwestern.com",
         "cached_url": "not found",
-        "sourcekeyword": "Transwestern: "
+        "sourcekeyword": "Transwestern: ",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria provided."
     },
     "www.petersonmanagementgroup.net": {
         "url": "https://www.petersonmanagementgroup.net",
         "cached_url": "not found",
-        "sourcekeyword": "PetersonManagementGroup: "
+        "sourcekeyword": "PetersonManagementGroup: ",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria provided."
     },
     "www.wingstop.com": {
         "url": "https://www.wingstop.com",
         "cached_url": "not found",
-        "sourcekeyword": "Wingstop: "
+        "sourcekeyword": "Wingstop: ",
+        "nature": "list of projects"
     },
     "www.credera.com": {
         "url": "https://www.credera.com",
         "cached_url": "not found",
-        "sourcekeyword": "Credera: "
+        "sourcekeyword": "Credera: ",
+        "nature": "list of projects"
     },
     "thescoutguide.com": {
         "url": "https://thescoutguide.com",
         "cached_url": "not found",
-        "sourcekeyword": "TheScoutGuide: "
+        "sourcekeyword": "TheScoutGuide: ",
+        "nature": "list of projects"
     },
     "www.taxact.com": {
         "url": "https://www.taxact.com",
         "cached_url": "not found",
-        "sourcekeyword": "TaxActPro: "
+        "sourcekeyword": "TaxActPro: ",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of providing a subscription for photos illustrating company culture at a price of 750Eur/month with a digital photo frame displaying a new photo daily in the company's lobby and regular visits to capture important moments."
     },
     "www.ifm.org": {
         "url": "https://www.ifm.org",
         "cached_url": "not found",
-        "sourcekeyword": "TheInstituteforFunctionalMedicine: "
+        "sourcekeyword": "TheInstituteforFunctionalMedicine: ",
+        "nature": "list of projects"
     },
     "www.core-mark.com": {
         "url": "https://www.core-mark.com",
         "cached_url": "not found",
-        "sourcekeyword": "CoreMark: "
+        "sourcekeyword": "CoreMark: ",
+        "nature": "list of projects"
     },
     "libertymade.com": {
         "url": "https://libertymade.com",
         "cached_url": "not found",
-        "sourcekeyword": "LibertyMade: "
+        "sourcekeyword": "LibertyMade: ",
+        "nature": "list of projects"
     },
     "www.marriott.com": {
         "url": "https://www.marriott.com",
         "cached_url": "not found",
-        "sourcekeyword": "GaylordTexan: "
+        "sourcekeyword": "GaylordTexan: ",
+        "nature": "list of projects"
     },
     "www.toyota.com": {
         "url": "https://www.toyota.com",
         "cached_url": "not found",
-        "sourcekeyword": "Toyota: "
+        "sourcekeyword": "Toyota: ",
+        "nature": "Invalid (single). invalid: The content does not match the criteria provided."
     }
 }
