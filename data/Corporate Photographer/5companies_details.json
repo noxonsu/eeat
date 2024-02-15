@@ -1,0 +1,513 @@
+{
+    "robertessel.com": {
+        "Corporate Photographer": {
+            "Corporate Portrait Photographers": {
+                "Criteria": {
+                    "Quality of Work": "Specializes in executive portraits, professional headshots, and group shots for Fortune 500 corporations.",
+                    "Equipment": "Uses cutting-edge photographic equipment and lighting techniques.",
+                    "Efficiency": "Works under tight deadlines to deliver high-quality digital images.",
+                    "Experience": "Over 30 years of experience in New York City.",
+                    "Collaboration": "Great collaborator who enjoys solving creative photographic problems.",
+                    "Charitable Work": "Donates time to charitable hospital programs.",
+                    "Location Advantage": "Proximity to iconic NYC locations for diverse portrait backgrounds."
+                },
+                "Call to Action": "Book a demo",
+                "Usecases": "Ideal for corporate executives, professionals, and business groups looking for high-quality portraits for various purposes.",
+                "Solutions": "Provides carefully crafted and professionally lit portraits suitable for editorial, advertising, and business use.",
+                "Key Features": {
+                    "Specialization": "Focus on executive portraits and professional headshots.",
+                    "Experience": "Over 30 years of experience in NYC.",
+                    "Efficiency": "Delivers high-quality digital images under tight deadlines.",
+                    "Collaboration": "Enjoys collaborating to solve creative photographic problems.",
+                    "Charitable Work": "Engages in charitable hospital programs."
+                }
+            },
+            "Corporate People Photographer": {
+                "Criteria": {
+                    "Preparation Guidance": "Provides advice on attire and preparation for professional portrait sessions.",
+                    "Efficiency": "Emphasizes efficient preparation to respect clients' time.",
+                    "Supportive Environment": "Promotes a supportive environment during photo shoots.",
+                    "Styling Assistance": "Offers styling, makeup application, and hair maintenance during sessions."
+                },
+                "Call to Action": "Talk to a manager",
+                "Usecases": "Suitable for business professionals and entrepreneurs seeking to enhance their visual presence through photography.",
+                "Solutions": "Helps elevate clients' stature pictorially through expert photography and styling assistance.",
+                "Key Features": {
+                    "Preparation Guidance": "Provides advice on attire and dressing for success.",
+                    "Efficiency": "Values clients' time by efficient preparation.",
+                    "Supportive Environment": "Creates a relaxed and supportive atmosphere during photo shoots.",
+                    "Styling Assistance": "Offers styling, makeup, and hair maintenance services."
+                }
+            },
+            "Corporate Industrial Photographer": {
+                "Criteria": {
+                    "International Experience": "Traveled internationally for industrial photography for blue-chip corporations.",
+                    "Creative Solutions": "Provides creative solutions for capturing industrial sites and manufacturing environments.",
+                    "Focus on Design": "Emphasizes simplicity of design and shapes in industrial photography.",
+                    "Lighting Expertise": "Utilizes photographic lighting to enhance industrial elements."
+                },
+                "Call to Action": "Sign up",
+                "Usecases": "Ideal for industrial companies seeking visually appealing photography of their sites and products.",
+                "Solutions": "Captures dynamic images of industrial sites with a focus on design, shapes, and lighting.",
+                "Key Features": {
+                    "International Experience": "Traveled internationally for industrial photography.",
+                    "Creative Solutions": "Offers creative solutions for capturing industrial environments.",
+                    "Design Focus": "Emphasizes simplicity of design and shapes.",
+                    "Lighting Expertise": "Utilizes lighting to enhance industrial elements."
+                }
+            }
+        }
+    },
+    "www.rmnphotography.com": {
+        "services": [
+            {
+                "name": "Corporate Photography",
+                "call_to_action": "Contact for a consultation",
+                "usecases": [
+                    "Improving online business profile",
+                    "Documenting important professional events"
+                ],
+                "solutions": "High-quality images for online presence and professional events documentation",
+                "key_features": [
+                    "High-end DSLR digital photography equipment",
+                    "Professional lighting for mobile use",
+                    "Fast turnaround time (within 48 hours)",
+                    "Full resolution digital negatives provided",
+                    "Password-protected online image access",
+                    "Catering to micro-businesses, startups, and Fortune 500 companies"
+                ]
+            },
+            {
+                "name": "Commercial Photography",
+                "call_to_action": "Book a demo",
+                "usecases": [
+                    "Updating websites and promotional materials",
+                    "Social media campaigns"
+                ],
+                "solutions": "High-quality commercial images for various projects",
+                "key_features": [
+                    "High-end digital SLR cameras",
+                    "Professional lighting for impactful images",
+                    "Fast turnarounds",
+                    "Affordable pricing",
+                    "Great customer service"
+                ]
+            },
+            {
+                "name": "Professional Headshot Photography",
+                "call_to_action": "Schedule a session",
+                "usecases": [
+                    "Formal headshots for social media and professional profiles",
+                    "Professional lifestyle portraits for marketing campaigns"
+                ],
+                "solutions": "Affordable packages for professional headshots and lifestyle portraits",
+                "key_features": [
+                    "Full resolution digital images",
+                    "On-site studio sessions or location of choice",
+                    "Personal and casual approach",
+                    "Suitable for social media, professional profiles, and marketing campaigns"
+                ]
+            },
+            {
+                "name": "Corporate Event Photography",
+                "call_to_action": "Talk to team for event coverage",
+                "usecases": [
+                    "Trade shows, conferences, awards, galas, fundraisers",
+                    "Corporate meetings coverage"
+                ],
+                "solutions": "Professional event coverage with quick turnaround",
+                "key_features": [
+                    "Coverage of various corporate events",
+                    "Quick on feet and adaptable photographer",
+                    "Full resolution digital images within 48 hours",
+                    "Ensuring nothing is missed during events"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.geoffreyscorporate.com": {
+        "Sheri Geoffreys Corporate Photography": {
+            "Call to action": "Contact Sheri Geoffreys Corporate Photography at (949) 388-4070 or via email",
+            "Usecases": [
+                "Corporate photography for business purposes",
+                "Editorial photography for editorial entities",
+                "Executive portraits for corporate executives",
+                "Executive headshots for business professionals",
+                "Executive group portraits for corporations"
+            ],
+            "Solutions": [
+                "Professional corporate photography services in Southern California",
+                "Monthly, quarterly, or yearly photography sessions for new employees",
+                "Capturing the personality and professionalism of individuals through photography"
+            ],
+            "Key features": {
+                "Executive Portraits": "Capturing new employees on a regular basis",
+                "Editorial": "Reflecting passion and uniqueness in editorial photography",
+                "Executive Group Portraits": "Capturing the personality and professionalism of individuals",
+                "Professional Headshots": "Headshots for executives, business professionals, and corporations",
+                "Portraits for Business": "Providing executive, business, professional, and corporate portraits",
+                "Professional Photography": "Offering executive, business, professional, corporate, editorial, and music artist photography",
+                "Annual Head Shots": "Providing headshots for executives, business professionals, and corporations"
+            }
+        }
+    },
+    "www.rebeccawilkowski.com": {
+        "Corporate Photographer": {
+            "Services": {
+                "Personal Branding + Portraits": {
+                    "Criteria": {
+                        "Quality": "High-quality portraits and personal branding photography services.",
+                        "Creativity": "Creative approach to capturing individual personalities and brand essence.",
+                        "Customization": "Tailored sessions to meet the unique needs and preferences of clients.",
+                        "Professionalism": "Professional guidance and direction during the photo sessions."
+                    },
+                    "Call_to_Action": "Book a personalized portrait session.",
+                    "Usecases": "Ideal for professionals seeking to enhance their personal brand or individuals looking for unique portrait photography.",
+                    "Solutions": "Provides high-quality images that reflect the essence of the individual or brand.",
+                    "Key_features": "Customized sessions, professional guidance, creative approach."
+                },
+                "Headshots": {
+                    "Criteria": {
+                        "Quality": "High-quality headshot photography for professional profiles.",
+                        "Consistency": "Ensuring consistency in style and branding across headshot sessions.",
+                        "Efficiency": "Quick and efficient headshot sessions for busy professionals.",
+                        "Versatility": "Ability to capture headshots for various purposes (e.g., corporate, social media)."
+                    },
+                    "Call_to_Action": "Schedule a headshot session for your professional profile.",
+                    "Usecases": "Suitable for professionals in need of updated headshots for their profiles.",
+                    "Solutions": "Delivers consistent and high-quality headshots that cater to different professional needs.",
+                    "Key_features": "Consistent style, efficiency, versatility."
+                },
+                "Events": {
+                    "Criteria": {
+                        "Coverage": "Comprehensive coverage of corporate events and special occasions.",
+                        "Storytelling": "Capturing the essence and narrative of the event through photography.",
+                        "Detail-oriented": "Attention to detail in capturing key moments and interactions.",
+                        "Flexibility": "Adaptability to different event settings and requirements."
+                    },
+                    "Call_to_Action": "Hire for event photography coverage.",
+                    "Usecases": "Ideal for companies hosting corporate events, conferences, or special occasions.",
+                    "Solutions": "Provides a visual storytelling approach to event coverage, capturing memorable moments.",
+                    "Key_features": "Comprehensive coverage, storytelling, attention to detail."
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.headshotsandcorporate.com": {
+        "Corporate Photographer": {
+            "Services": {
+                "Headshot Photography": {
+                    "Quality": "Professional and efficient service with fast turnaround times",
+                    "Location Options": "In-studio or on-location, providing flexibility for clients",
+                    "Proofing Process": "On-site proofing with assistance in selecting the best images",
+                    "Delivery": "High-resolution images available for download within 24 hours",
+                    "Customer Testimonials": [
+                        {
+                            "testimonial": "Robert was punctual, professional and positive. Loved working with him. He got some great captures of our award ceremony. Turnaround time was quick too! Would 100% recommend.",
+                            "author": "Melanie Moore, North Carolina Humanities Council Development and Communications Associate"
+                        },
+                        {
+                            "testimonial": "Robert did a great job in guiding me through the process, providing feedback on shots/angles, and helped me narrow down the selection with his trained eye. Highly recommend.",
+                            "author": "Ethan Floyd"
+                        },
+                        {
+                            "testimonial": "Robert was very patient and provided good advice to achieve the best shots. He was extremely professional and the quality of his work is exceptional. I highly recommend him!",
+                            "author": "Sylvia Hackett"
+                        }
+                    ]
+                },
+                "Corporate Event Photography": {
+                    "Quality": "Professional event coverage with a fast 48-hour turnaround time",
+                    "Coverage": "All types of corporate events covered with same-day proofing",
+                    "Location": "Available at Brier Creek, Raleigh, NC",
+                    "Customer Testimonials": [
+                        {
+                            "testimonial": "Rest assured that your pictures will exceed your expectations. Robert is flexible and fun to work with, and is very responsive and creates beautiful high-quality photos quickly.",
+                            "author": "Todd Redding"
+                        },
+                        {
+                            "testimonial": "Robert is patient and knowledgeable about his craft. He provided me with beautiful photos that I can't wait to display. I highly recommend his services.",
+                            "author": "Kenisha Herbin"
+                        },
+                        {
+                            "testimonial": "Robert did a wonderful job with my professional headshots. He is very patient, professional, and responsive and I look forward to working with him again.",
+                            "author": "Tracy Bennett"
+                        }
+                    ]
+                }
+            },
+            "Call_to_Action": "Schedule your session easily through the website",
+            "Usecases": [
+                "Professional headshots for individuals and corporate clients",
+                "Event coverage for corporate functions, meetings, conventions, and conferences"
+            ],
+            "Solutions": [
+                "Fast and efficient photography services",
+                "Flexible location options for photography sessions",
+                "Professional guidance and assistance throughout the process",
+                "High-quality images with quick turnaround times"
+            ],
+            "Key_Features": [
+                "Professional and efficient service",
+                "Flexible location options",
+                "On-site proofing process",
+                "Fast 24-hour turnaround for image delivery",
+                "High-resolution images available for download",
+                "Positive customer testimonials highlighting quality service"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.ohiocorporatephotographer.com": {
+        "Corporate Photographer": {
+            "Criteria": {
+                "Quality": "The website showcases a Fine Art Limited Edition gallery, indicating a focus on high-quality photography.",
+                "Portfolio": "Offers a portfolio section showcasing different types of photography services such as Senior Photos, Real Estate, Events, etc.",
+                "Experience": "Mentions the photographer's name, Terry Thurston, which can add a personal touch and credibility to the services.",
+                "Services": "Provides services for Senior Photos, Real Estate, Events, indicating a diverse range of photography offerings.",
+                "Online Presence": "Includes a Store section, which suggests the availability of photography products for purchase online."
+            },
+            "Call_to_Action": "Contact",
+            "Usecases": "Corporate events, Senior photos, Real estate photography, Fine art limited edition photography",
+            "Solutions": "Professional photography services for various occasions and purposes",
+            "Key_features": "High-quality photography, Diverse portfolio, Personalized service by Terry Thurston, Online store for photography products"
+        }
+    },
+    "chicagophotovideo.com": {
+        "services": [
+            {
+                "name": "Photography",
+                "call_to_action": "Request a Quote",
+                "usecases": [
+                    "Corporate Branding",
+                    "Events & Meetings",
+                    "Headshots & Portraits",
+                    "Conventions & Trade Shows",
+                    "Product Photography"
+                ],
+                "solutions": "Providing professional photography services for corporate branding, events, headshots, conventions, and product photography.",
+                "key_features": [
+                    "Experienced and professional photographers",
+                    "Creative photo content",
+                    "Customized photography packages"
+                ]
+            },
+            {
+                "name": "Video Production",
+                "call_to_action": "Request a Quote",
+                "usecases": [
+                    "Corporate Branding",
+                    "Events and Conventions",
+                    "Promotional Videos",
+                    "Interviews",
+                    "Drone videos"
+                ],
+                "solutions": "Offering video production services for corporate branding, events, promotional videos, interviews, and drone videos.",
+                "key_features": [
+                    "Increased brand awareness through video content",
+                    "Professional videographers and editors",
+                    "Captivating video content"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.nashvillecorporatephotography.com": {
+        "Corporate Headshots": {
+            "Call to action": "Book Now",
+            "Usecases": [
+                "Professional headshots for individuals",
+                "Personal branding photography"
+            ],
+            "Solutions": "Offering competitive rates and group discounts",
+            "Key features": "Quick appointment booking, gift card purchase option, client reviews and testimonials, optional hair & makeup services",
+            "Focused projects": "Providing a subscription service for corporate culture photos at 750EUR/month, including a digital photo frame displaying a new photo daily in the company's lobby and regular visits to capture important moments for social media sharing."
+        },
+        "Corporate Events Photography": {
+            "Call to action": "Learn More",
+            "Usecases": [
+                "Coverage of corporate events"
+            ],
+            "Solutions": "Capturing corporate events professionally",
+            "Key features": "Professional event coverage, capturing important moments",
+            "Focused projects": "Providing a subscription service for corporate culture photos at 750EUR/month, including a digital photo frame displaying a new photo daily in the company's lobby and regular visits to capture important moments for social media sharing."
+        },
+        "pricesAndPlans": {
+            "status": "found",
+            "priceAndPlans": {
+                "headshotPackages": [
+                    {
+                        "name": "EXPRESS INDIVIDUAL HEADSHOT",
+                        "price": "$145 USD",
+                        "description": "Indoor session (10 minutes); Grey, black or white backdrop; Digital delivery of one edited image; Additional images and prints available for purchase."
+                    },
+                    {
+                        "name": "BASIC INDIVIDUAL HEADSHOT",
+                        "price": "$260 USD",
+                        "description": "Indoor or outdoor session (30 minutes); Choice of backdrop; One wardrobe change; Digital delivery of two edited images; Additional images and prints available for purchase."
+                    },
+                    {
+                        "name": "DELUXE PORTRAIT SESSION",
+                        "price": "$560 USD",
+                        "description": "Indoor and/or outdoor session (1 hour); Includes headshots and full-body poses; Choice of backdrops or scenery; Multiple wardrobe changes; Digital delivery of five edited images; Additional images and prints available for purchase."
+                    },
+                    {
+                        "name": "PERSONAL BRANDING SESSION",
+                        "price": "$850 USD",
+                        "description": "Indoor and/or outdoor session (1.5 hour); Includes headshots and full-body poses, as well as a 90-second video highlighting your work; Choice of backdrops or scenery; Multiple wardrobe changes; Digital delivery of 5 edited images and one edited 90-second video clip; Additional images and prints available for purchase."
+                    },
+                    {
+                        "name": "EXPRESS INDIVIDUAL HEADSHOTS",
+                        "price": "$135 USD",
+                        "description": "For 15 or more employees; Consecutive 5-minute sessions; Indoor or Outdoor; One location; Choice of background; One edited image per person (PP)."
+                    },
+                    {
+                        "name": "BASIC INDIVIDUAL HEADSHOTS",
+                        "price": "$235 USD",
+                        "description": "For 15 or more employees; Consecutive 30-minute sessions; Indoor or Outdoor; One location; Choice of background; Two edited images per person (PP)."
+                    },
+                    {
+                        "name": "GROUP PORTRAITS",
+                        "price": "$500 USD",
+                        "description": "For two or more employees in one image; Choice of backdrop; Digital delivery of one retouched image included, additional digitals are 99 dollars per image."
+                    }
+                ]
+            }
+        }
+    },
+    "headshots-inc.com": {
+        "Corporate Photographer": {
+            "Services": {
+                "Headshots & Personal Branding": {
+                    "Criteria": {
+                        "Quality": "High quality headshots that showcase professionalism, friendliness, and competence.",
+                        "Variety": "Offers different types of headshots including professional, corporate, creative, LinkedIn, team, and specialty types.",
+                        "Customization": "Tailored headshots based on industry, personality, and where the photos will be used.",
+                        "Pricing": "Varies between $89 and $1500 depending on package, geography, and provider. Additional fees for licensing and retouching."
+                    },
+                    "Call to Action": "Schedule Session",
+                    "Usecases": "Ideal for professionals, executives, entrepreneurs, and thought-leaders looking to enhance their personal brand.",
+                    "Solutions": "Helps individuals make a good first impression online through high-quality headshots.",
+                    "Key Features": "High-quality headshots, variety of headshot types, customization based on industry and preferences, flexible pricing options."
+                },
+                "Team Headshots": {
+                    "Criteria": {
+                        "Group Size": "Offers group sessions for five or more people with hourly, half-day, and full-day packages.",
+                        "Location": "Sessions available at the studio or at the client's office location.",
+                        "Quality": "Ensures consistency and professionalism in team headshots.",
+                        "Pricing": "Varies based on the package chosen."
+                    },
+                    "Call to Action": "Schedule Team Session",
+                    "Usecases": "Suitable for companies looking to have consistent and professional team headshots for their employees.",
+                    "Solutions": "Provides options for group sessions to capture team headshots efficiently.",
+                    "Key Features": "Group sessions, flexibility in location, focus on consistency and professionalism."
+                },
+                "Virtual Headshots": {
+                    "Criteria": {
+                        "Convenience": "DIY headshots done with a smartphone, offering a more affordable option.",
+                        "Quality": "Not as good as in-person photography but better than a selfie.",
+                        "Pricing": "Starts at $49 per photo."
+                    },
+                    "Call to Action": "Explore Virtual Session Pricing",
+                    "Usecases": "Ideal for individuals or small groups looking for a cost-effective headshot solution.",
+                    "Solutions": "Enables individuals to get professional-looking headshots at a lower cost.",
+                    "Key Features": "Convenient DIY option, affordability, better quality than selfies."
+                },
+                "Corporate Plans": {
+                    "Criteria": {
+                        "Flexibility": "Flexible corporate plans for matching headshots or portraits for employees.",
+                        "Customization": "Tailored plans to meet the specific needs of corporate clients.",
+                        "Pricing": "Varies based on the corporate plan chosen."
+                    },
+                    "Call to Action": "Learn more about Corporate Plans",
+                    "Usecases": "Designed for companies seeking consistent and professional headshots for their employees.",
+                    "Solutions": "Offers customized corporate plans to streamline the process of getting matching headshots for employees.",
+                    "Key Features": "Flexibility in plans, customization for corporate needs, tailored solutions."
+                }
+            },
+            "Key Features": {
+                "key_features": "High-quality headshots, variety of headshot types, customization based on industry and preferences, flexible pricing options, group sessions, flexibility in location, focus on consistency and professionalism, convenient DIY option, affordability, better quality than selfies, flexibility in plans, customization for corporate needs, tailored solutions."
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "jenworley.com": {
+        "Corporate Photographer": {
+            "Headshots": {
+                "Criteria": {
+                    "Quality": "Focuses on creating confident images reflecting character",
+                    "Customer Experience": "Provides a comfortable, accommodating, and professional experience",
+                    "Convenience": "Offers 'pain-free' photography with on-the-spot viewing of photos",
+                    "Location": "Conveniently located in downtown Pittsburgh",
+                    "Testimonials": {
+                        "Positive Aspects": [
+                            "Pleased clients from scheduling to final results",
+                            "Professional, quick, friendly, and customer-oriented service",
+                            "Efficient and courteous service with excellent results"
+                        ],
+                        "Areas for Improvement": []
+                    },
+                    "Call to Action": "Book an Appointment",
+                    "Usecases": [
+                        "Professional headshots for individuals",
+                        "Corporate headshots for businesses",
+                        "Actor and model headshots"
+                    ],
+                    "Solutions": "Helps professionals capture their image and brand effectively"
+                },
+                "Key Features": {
+                    "Quality Images": true,
+                    "Comfortable Experience": true,
+                    "Convenient Location": true,
+                    "On-the-Spot Viewing": true
+                }
+            },
+            "Commercial Portrait Photography": {
+                "Criteria": {
+                    "Quality": "Focuses on capturing approachable but confident, friendly, and professional team photos",
+                    "Customer Experience": "Offers to travel to client locations for personalized shots",
+                    "Convenience": "Provides online booking for studio appointments",
+                    "Location": "Downtown Pittsburgh studio location for easy access",
+                    "Testimonials": {
+                        "Positive Aspects": [
+                            "Helps create trust and confidence through personalized photos",
+                            "Conveniently located studio for employees to book appointments",
+                            "Efficient and professional service"
+                        ],
+                        "Areas for Improvement": []
+                    },
+                    "Call to Action": "Book an Appointment",
+                    "Usecases": [
+                        "Company website headshots",
+                        "Group photos for websites",
+                        "Professional bio photos"
+                    ],
+                    "Solutions": "Aids in conveying a local and personal message through photography"
+                },
+                "Key Features": {
+                    "Personalized Team Photos": true,
+                    "Travel to Client Locations": true,
+                    "Online Booking": true,
+                    "Professional Service": true
+                }
+            }
+        }
+    }
+}
