@@ -1,86 +1,114 @@
 {
     "www.format.com": {
-        "url": "https://www.format.com/online-portfolio-website/corporate-photography/guide"
+        "url": "https://www.format.com/online-portfolio-website/corporate-photography/guide",
+        "nature": "Invalid (single). Invalid: This content does not match the criteria provided."
     },
     "brentherrig.com": {
-        "url": "https://brentherrig.com/what-is-corporate-photography/"
+        "url": "https://brentherrig.com/what-is-corporate-photography/",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.ziprecruiter.com": {
-        "url": "https://www.ziprecruiter.com/career/Corporate-Photographer/What-Is-How-to-Become"
+        "url": "https://www.ziprecruiter.com/career/Corporate-Photographer/What-Is-How-to-Become",
+        "nature": "Invalid: DDOS protection screen"
     },
     "robertessel.com": {
-        "url": "https://robertessel.com/"
+        "url": "https://robertessel.com/",
+        "nature": "list of projects"
     },
     "www.carreonphotography.com": {
-        "url": "https://www.carreonphotography.com/corporate-photographer.html"
+        "url": "https://www.carreonphotography.com/corporate-photographer.html",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria provided."
     },
     "clutch.co": {
-        "url": "https://clutch.co/corporate-photography"
+        "url": "https://clutch.co/corporate-photography",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.rmnphotography.com": {
-        "url": "http://www.rmnphotography.com/corporate"
+        "url": "http://www.rmnphotography.com/corporate",
+        "nature": "list of projects"
     },
     "caseytempleton.com": {
-        "url": "https://caseytempleton.com/blog/what-is-corporate-photography/"
+        "url": "https://caseytempleton.com/blog/what-is-corporate-photography/",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of providing a subscription for company culture photos at 750Eur/month for a digital photo frame in the company's lobby."
     },
     "www.geoffreyscorporate.com": {
-        "url": "https://www.geoffreyscorporate.com/"
+        "url": "https://www.geoffreyscorporate.com/",
+        "nature": "list of projects"
     },
     "www.rebeccawilkowski.com": {
-        "url": "https://www.rebeccawilkowski.com/"
+        "url": "https://www.rebeccawilkowski.com/",
+        "nature": "list of projects"
     },
     "www.jasonkindig.com": {
-        "url": "https://www.jasonkindig.com/dallas-photography-blog/what-is-a-dallas-corporate-photographer"
+        "url": "https://www.jasonkindig.com/dallas-photography-blog/what-is-a-dallas-corporate-photographer",
+        "nature": "list of projects"
     },
     "www.mitchw.com": {
-        "url": "https://www.mitchw.com/"
+        "url": "https://www.mitchw.com/",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of providing a subscription for photos illustrating company culture at a price of 750Eur/month for a digital photo frame in the company's lobby."
     },
     "www.ceoportrait.com": {
-        "url": "https://www.ceoportrait.com/corporate-headshots-photography"
+        "url": "https://www.ceoportrait.com/corporate-headshots-photography",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria provided."
     },
     "www.ivanmartinezphotography.com": {
-        "url": "https://www.ivanmartinezphotography.com/"
+        "url": "https://www.ivanmartinezphotography.com/",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria provided."
     },
     "www.headshotsandcorporate.com": {
-        "url": "https://www.headshotsandcorporate.com/"
+        "url": "https://www.headshotsandcorporate.com/",
+        "nature": "list of projects"
     },
     "www.executivephotosnyc.com": {
-        "url": "https://www.executivephotosnyc.com/"
+        "url": "https://www.executivephotosnyc.com/",
+        "nature": "list of projects"
     },
     "portraits.julianance.com.au": {
-        "url": "https://portraits.julianance.com.au/what-does-a-corporate-photographer-do/"
+        "url": "https://portraits.julianance.com.au/what-does-a-corporate-photographer-do/",
+        "nature": "list of projects"
     },
     "www.ohiocorporatephotographer.com": {
-        "url": "https://www.ohiocorporatephotographer.com/"
+        "url": "https://www.ohiocorporatephotographer.com/",
+        "nature": "list of projects"
     },
     "www.stevenmillerpix.com": {
-        "url": "https://www.stevenmillerpix.com/corporate_photography_orlando/"
+        "url": "https://www.stevenmillerpix.com/corporate_photography_orlando/",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria provided."
     },
     "tavitsphotography.com": {
-        "url": "https://tavitsphotography.com/"
+        "url": "https://tavitsphotography.com/",
+        "nature": "Invalid (single). Invalid: This website does not offer a subscription for photos illustrating company culture, nor does it mention a digital photo frame service for displaying daily photos in the company's lobby."
     },
     "chicagophotovideo.com": {
-        "url": "https://chicagophotovideo.com/"
+        "url": "https://chicagophotovideo.com/",
+        "nature": "list of projects"
     },
     "www.nashvillecorporatephotography.com": {
-        "url": "https://www.nashvillecorporatephotography.com/"
+        "url": "https://www.nashvillecorporatephotography.com/",
+        "nature": "list of projects"
     },
     "www.miccichecorporate.com": {
-        "url": "https://www.miccichecorporate.com/"
+        "url": "https://www.miccichecorporate.com/",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria provided."
     },
     "nycphoto.com": {
-        "url": "https://nycphoto.com/corporate/"
+        "url": "https://nycphoto.com/corporate/",
+        "nature": "list of projects"
     },
     "carrieevansstudios.com": {
-        "url": "https://carrieevansstudios.com/corporate-photography/"
+        "url": "https://carrieevansstudios.com/corporate-photography/",
+        "nature": "list of projects"
     },
     "headshots-inc.com": {
-        "url": "https://headshots-inc.com/headshot-types/corporate-headshots/"
+        "url": "https://headshots-inc.com/headshot-types/corporate-headshots/",
+        "nature": "list of projects"
     },
     "boorayperry.com": {
-        "url": "https://boorayperry.com/"
+        "url": "https://boorayperry.com/",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria provided."
     },
     "jenworley.com": {
-        "url": "https://jenworley.com/"
+        "url": "https://jenworley.com/",
+        "nature": "list of projects"
     }
 }
