@@ -1,39 +1,53 @@
 {
     "www.etsy.com": {
-        "url": "https://www.etsy.com/ca/market/cute_stickers",
-        "nature": "list of projects"
+        "url": "https://www.etsy.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "R&J Paper Co:  Guinea Pig Obsessed Stickers & Stationary, Bubbles Art Craft:  Animated Destinations Stamp Washi, Etsy:  cute stickers"
     },
     "milkshop.ca": {
         "url": "https://milkshop.ca/products/rawr-fully-cute-sticker-sheet",
         "nature": "list of projects"
     },
     "mimiandaugust.com": {
-        "url": "https://mimiandaugust.com/collections/unique-vinyl-stickers-designed-in-canada",
-        "nature": "list of projects"
+        "url": "https://mimiandaugust.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Mimi&August:  Unique vinyl stickers designed in Canada"
     },
     "www.loveattack.ca": {
-        "url": "https://www.loveattack.ca/collections/cute-stickers",
-        "nature": "list of projects"
+        "url": "https://www.loveattack.ca",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "LoveAttack:  Decorative Stickers"
     },
     "www.temu.com": {
-        "url": "https://www.temu.com/ca/cute-stickers-s.html",
-        "nature": "list of projects"
+        "url": "https://www.temu.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Temu:  cute stickers"
     },
     "mykawaiicrate.com": {
-        "url": "https://mykawaiicrate.com/collections/kawaii-stickers",
-        "nature": "list of projects"
+        "url": "https://mykawaiicrate.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "MyKawaiiCrate:  Kawaii Stickers"
     },
     "toastedinkstudios.com": {
-        "url": "https://toastedinkstudios.com/collections/stickers",
-        "nature": "list of projects"
+        "url": "https://toastedinkstudios.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Toastedinkstudios:  A5 Dim Sum Sticker Sheet"
     },
     "www.stickercanada.com": {
         "url": "https://www.stickercanada.com/",
         "nature": "single project"
     },
     "cutestickersonly.com": {
-        "url": "https://cutestickersonly.com/",
-        "nature": "list of projects"
+        "url": "https://cutestickersonly.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Cute Stickers Only:  Washi Tapes"
     },
     "www.stickeryou.com": {
         "url": "https://www.stickeryou.com/en-ca/products/art-category/kawaii-stickers/1009",
@@ -56,8 +70,10 @@
         "nature": "list of projects"
     },
     "thekawaiishoppu.com": {
-        "url": "https://thekawaiishoppu.com/en-ca/collections/stickers",
-        "nature": "list of projects"
+        "url": "thekawaiishoppu.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "TheKawaiiShoppu:  Kawaii Stickers"
     },
     "www.walmart.ca": {
         "url": "https://www.walmart.ca/en/ip/100pcs-Cute-Stickers-Pack-Vinyl-Waterproof-Stickers-For-Laptop-skateboard-water/PRD6DPDAZFUBZ74",
@@ -66,5 +82,65 @@
     "www.dollartree.com": {
         "url": "https://www.dollartree.com/arts-crafts-supplies/stickers",
         "nature": "list of projects"
+    },
+    "stickyriceco.com": {
+        "url": "https://stickyriceco.com",
+        "cached_url": "not found",
+        "sourcekeyword": "StickyRiceCo:  Shop Small Business Vinyl Sticker"
+    },
+    "greystreetpaper.com": {
+        "url": "https://greystreetpaper.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Grey Street Paper:  Flutter Medium Floral Luxe Vellum Sheets"
+    },
+    "www.laurenphelpsdesigns.com": {
+        "url": "https://www.laurenphelpsdesigns.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Lauren Phelps Designs:  Perennial Decorative Satin P.E.T. Sticker Sheet Set"
+    },
+    "mysweetpapercard.com": {
+        "url": "https://mysweetpapercard.com",
+        "cached_url": "not found",
+        "sourcekeyword": "My Sweet Paper Card:  Bonjour - French Cat Memo Pad"
+    },
+    "dollartree.com": {
+        "url": "dollartree.com",
+        "cached_url": "not found",
+        "sourcekeyword": "DollarTree:  stickers"
+    },
+    "www.fluffmallow.com": {
+        "url": "https://www.fluffmallow.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Fluffmallow:  Capybara Fresh Lemonade Stand Shop Keeper Vinyl Sticker"
+    },
+    "www.milkshopphoto.com": {
+        "url": "https://www.milkshopphoto.com",
+        "cached_url": "not found",
+        "sourcekeyword": "MilkShop:  RAWR FULLY CUTE STICKER SHEET"
+    },
+    "cherryrabbit.net": {
+        "url": "https://cherryrabbit.net",
+        "cached_url": "not found",
+        "sourcekeyword": "Cherry Rabbit:  One Piece Sticker Sheet"
+    },
+    "unicorneclipse.com": {
+        "url": "https://unicorneclipse.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Unicorn Eclipse:  Unicorn Eclipse Stickers"
+    },
+    "daylightcompany.com": {
+        "url": "https://daylightcompany.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Daylight Co:  \u201cAre we going to do this or not?\u201d Bunny A6 Notepad"
+    },
+    "turtlessoup.com": {
+        "url": "https://turtlessoup.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Turtle's Soup:  Mystery Book Enamel Pin"
+    },
+    "cissyartcafe.com": {
+        "url": "https://cissyartcafe.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Cissy's Art Caf\u00e9:  Tulip Fields Sticky Posit Notes"
     }
 }
