@@ -1,53 +1,70 @@
 {
     "www.etsy.com": {
-        "url": "https://www.etsy.com/ca/market/cute_stickers"
+        "url": "https://www.etsy.com/ca/market/cute_stickers",
+        "nature": "list of projects"
     },
     "milkshop.ca": {
-        "url": "https://milkshop.ca/products/rawr-fully-cute-sticker-sheet"
+        "url": "https://milkshop.ca/products/rawr-fully-cute-sticker-sheet",
+        "nature": "list of projects"
     },
     "mimiandaugust.com": {
-        "url": "https://mimiandaugust.com/collections/unique-vinyl-stickers-designed-in-canada"
+        "url": "https://mimiandaugust.com/collections/unique-vinyl-stickers-designed-in-canada",
+        "nature": "list of projects"
     },
     "www.loveattack.ca": {
-        "url": "https://www.loveattack.ca/collections/cute-stickers"
+        "url": "https://www.loveattack.ca/collections/cute-stickers",
+        "nature": "list of projects"
     },
     "www.temu.com": {
-        "url": "https://www.temu.com/ca/cute-stickers-s.html"
+        "url": "https://www.temu.com/ca/cute-stickers-s.html",
+        "nature": "list of projects"
     },
     "mykawaiicrate.com": {
-        "url": "https://mykawaiicrate.com/collections/kawaii-stickers"
+        "url": "https://mykawaiicrate.com/collections/kawaii-stickers",
+        "nature": "list of projects"
     },
     "toastedinkstudios.com": {
-        "url": "https://toastedinkstudios.com/collections/stickers"
+        "url": "https://toastedinkstudios.com/collections/stickers",
+        "nature": "list of projects"
     },
     "www.stickercanada.com": {
-        "url": "https://www.stickercanada.com/"
+        "url": "https://www.stickercanada.com/",
+        "nature": "single project"
     },
     "cutestickersonly.com": {
-        "url": "https://cutestickersonly.com/"
+        "url": "https://cutestickersonly.com/",
+        "nature": "list of projects"
     },
     "www.stickeryou.com": {
-        "url": "https://www.stickeryou.com/en-ca/products/art-category/kawaii-stickers/1009"
+        "url": "https://www.stickeryou.com/en-ca/products/art-category/kawaii-stickers/1009",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.jukeboxprint.com": {
-        "url": "https://www.jukeboxprint.com/custom-stickers-canada-no-minimum"
+        "url": "https://www.jukeboxprint.com/custom-stickers-canada-no-minimum",
+        "nature": "list of projects"
     },
     "www.toysrus.ca": {
-        "url": "https://www.toysrus.ca/en/1000--Ridiculously-Cute-Stickers---English-Edition/12E45595.html"
+        "url": "https://www.toysrus.ca/en/1000--Ridiculously-Cute-Stickers---English-Edition/12E45595.html",
+        "nature": "list of projects"
     },
     "store.lingokids.com": {
-        "url": "https://store.lingokids.com/products/lingokids-cute-stickers"
+        "url": "https://store.lingokids.com/products/lingokids-cute-stickers",
+        "nature": "list of projects"
     },
     "www.pinterest.com": {
-        "url": "https://www.pinterest.com/pin/kawaii-sushi-stickers-etsy-canada-in-2022--1145040273986064480/"
+        "url": "https://www.pinterest.com/pin/kawaii-sushi-stickers-etsy-canada-in-2022--1145040273986064480/",
+        "nature": "list of projects"
     },
     "thekawaiishoppu.com": {
-        "url": "https://thekawaiishoppu.com/en-ca/collections/stickers"
+        "url": "https://thekawaiishoppu.com/en-ca/collections/stickers",
+        "nature": "list of projects"
     },
     "www.walmart.ca": {
-        "url": "https://www.walmart.ca/en/ip/100pcs-Cute-Stickers-Pack-Vinyl-Waterproof-Stickers-For-Laptop-skateboard-water/PRD6DPDAZFUBZ74"
+        "url": "https://www.walmart.ca/en/ip/100pcs-Cute-Stickers-Pack-Vinyl-Waterproof-Stickers-For-Laptop-skateboard-water/PRD6DPDAZFUBZ74",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.dollartree.com": {
-        "url": "https://www.dollartree.com/arts-crafts-supplies/stickers"
+        "url": "https://www.dollartree.com/arts-crafts-supplies/stickers",
+        "nature": "list of projects"
     }
 }
