@@ -3,7 +3,8 @@
         "url": "https://www.etsy.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "R&J Paper Co:  Guinea Pig Obsessed Stickers & Stationary, Bubbles Art Craft:  Animated Destinations Stamp Washi, Etsy:  cute stickers"
+        "sourcekeyword": "R&J Paper Co:  Guinea Pig Obsessed Stickers & Stationary, Bubbles Art Craft:  Animated Destinations Stamp Washi, Etsy:  cute stickers",
+        "priceAndPlansCrawled": "https://www.etsy.com/market/price_stickers"
     },
     "milkshop.ca": {
         "url": "https://milkshop.ca/products/rawr-fully-cute-sticker-sheet",
@@ -13,41 +14,48 @@
         "url": "https://mimiandaugust.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Mimi&August:  Unique vinyl stickers designed in Canada"
+        "sourcekeyword": "Mimi&August:  Unique vinyl stickers designed in Canada",
+        "priceAndPlansCrawled": "https://mimiandaugust.com/collections/cat-lovers-greeting-cards"
     },
     "www.loveattack.ca": {
         "url": "https://www.loveattack.ca",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "LoveAttack:  Decorative Stickers"
+        "sourcekeyword": "LoveAttack:  Decorative Stickers",
+        "priceAndPlansCrawled": "https://www.loveattack.ca/products/large-satin-scrunchies"
     },
     "www.temu.com": {
         "url": "https://www.temu.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Temu:  cute stickers"
+        "sourcekeyword": "Temu:  cute stickers",
+        "priceAndPlansCrawled": "https://www.temu.com/pricing-label-s.html"
     },
     "mykawaiicrate.com": {
         "url": "https://mykawaiicrate.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "MyKawaiiCrate:  Kawaii Stickers"
+        "sourcekeyword": "MyKawaiiCrate:  Kawaii Stickers",
+        "priceAndPlansCrawled": "https://mykawaiicrate.com/collections/all"
     },
     "toastedinkstudios.com": {
         "url": "https://toastedinkstudios.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Toastedinkstudios:  A5 Dim Sum Sticker Sheet"
+        "sourcekeyword": "Toastedinkstudios:  A5 Dim Sum Sticker Sheet",
+        "priceAndPlansCrawled": "https://toastedinkstudios.com/collections/stickers"
     },
     "www.stickercanada.com": {
         "url": "https://www.stickercanada.com/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.stickercanada.com/stickers/paper/classic"
     },
     "cutestickersonly.com": {
         "url": "https://cutestickersonly.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Cute Stickers Only:  Washi Tapes"
+        "sourcekeyword": "Cute Stickers Only:  Washi Tapes",
+        "priceAndPlansCrawled": "https://cutestickersonly.com/collections/sticker-sheets"
     },
     "www.stickeryou.com": {
         "url": "https://www.stickeryou.com/en-ca/products/art-category/kawaii-stickers/1009",
@@ -73,7 +81,8 @@
         "url": "thekawaiishoppu.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "TheKawaiiShoppu:  Kawaii Stickers"
+        "sourcekeyword": "TheKawaiiShoppu:  Kawaii Stickers",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.walmart.ca": {
         "url": "https://www.walmart.ca/en/ip/100pcs-Cute-Stickers-Pack-Vinyl-Waterproof-Stickers-For-Laptop-skateboard-water/PRD6DPDAZFUBZ74",
@@ -87,7 +96,8 @@
         "url": "https://stickyriceco.com",
         "cached_url": "not found",
         "sourcekeyword": "StickyRiceCo:  Shop Small Business Vinyl Sticker",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://stickyriceco.com/collections/clearance/products/japanese-aesthetic-drinks-holographic-glitter-vinyl-stickers"
     },
     "greystreetpaper.com": {
         "url": "https://greystreetpaper.com",
