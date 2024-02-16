@@ -86,61 +86,73 @@
     "stickyriceco.com": {
         "url": "https://stickyriceco.com",
         "cached_url": "not found",
-        "sourcekeyword": "StickyRiceCo:  Shop Small Business Vinyl Sticker"
+        "sourcekeyword": "StickyRiceCo:  Shop Small Business Vinyl Sticker",
+        "nature": "single project"
     },
     "greystreetpaper.com": {
         "url": "https://greystreetpaper.com",
         "cached_url": "not found",
-        "sourcekeyword": "Grey Street Paper:  Flutter Medium Floral Luxe Vellum Sheets"
+        "sourcekeyword": "Grey Street Paper:  Flutter Medium Floral Luxe Vellum Sheets",
+        "nature": "list of projects"
     },
     "www.laurenphelpsdesigns.com": {
         "url": "https://www.laurenphelpsdesigns.com",
         "cached_url": "not found",
-        "sourcekeyword": "Lauren Phelps Designs:  Perennial Decorative Satin P.E.T. Sticker Sheet Set"
+        "sourcekeyword": "Lauren Phelps Designs:  Perennial Decorative Satin P.E.T. Sticker Sheet Set",
+        "nature": "list of projects"
     },
     "mysweetpapercard.com": {
         "url": "https://mysweetpapercard.com",
         "cached_url": "not found",
-        "sourcekeyword": "My Sweet Paper Card:  Bonjour - French Cat Memo Pad"
+        "sourcekeyword": "My Sweet Paper Card:  Bonjour - French Cat Memo Pad",
+        "nature": "list of projects"
     },
     "dollartree.com": {
         "url": "dollartree.com",
         "cached_url": "not found",
-        "sourcekeyword": "DollarTree:  stickers"
+        "sourcekeyword": "DollarTree:  stickers",
+        "nature": "Invalid: The URL provided is not accessible or valid."
     },
     "www.fluffmallow.com": {
         "url": "https://www.fluffmallow.com",
         "cached_url": "not found",
-        "sourcekeyword": "Fluffmallow:  Capybara Fresh Lemonade Stand Shop Keeper Vinyl Sticker"
+        "sourcekeyword": "Fluffmallow:  Capybara Fresh Lemonade Stand Shop Keeper Vinyl Sticker",
+        "nature": "list of projects"
     },
     "www.milkshopphoto.com": {
         "url": "https://www.milkshopphoto.com",
         "cached_url": "not found",
-        "sourcekeyword": "MilkShop:  RAWR FULLY CUTE STICKER SHEET"
+        "sourcekeyword": "MilkShop:  RAWR FULLY CUTE STICKER SHEET",
+        "nature": "list of projects"
     },
     "cherryrabbit.net": {
         "url": "https://cherryrabbit.net",
         "cached_url": "not found",
-        "sourcekeyword": "Cherry Rabbit:  One Piece Sticker Sheet"
+        "sourcekeyword": "Cherry Rabbit:  One Piece Sticker Sheet",
+        "nature": "list of projects"
     },
     "unicorneclipse.com": {
         "url": "https://unicorneclipse.com",
         "cached_url": "not found",
-        "sourcekeyword": "Unicorn Eclipse:  Unicorn Eclipse Stickers"
+        "sourcekeyword": "Unicorn Eclipse:  Unicorn Eclipse Stickers",
+        "nature": "list of projects"
     },
     "daylightcompany.com": {
         "url": "https://daylightcompany.com",
         "cached_url": "not found",
-        "sourcekeyword": "Daylight Co:  \u201cAre we going to do this or not?\u201d Bunny A6 Notepad"
+        "sourcekeyword": "Daylight Co:  \u201cAre we going to do this or not?\u201d Bunny A6 Notepad",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of online stores and platforms offering cute stickers for personalization and decoration in Canada."
     },
     "turtlessoup.com": {
         "url": "https://turtlessoup.com",
         "cached_url": "not found",
-        "sourcekeyword": "Turtle's Soup:  Mystery Book Enamel Pin"
+        "sourcekeyword": "Turtle's Soup:  Mystery Book Enamel Pin",
+        "nature": "list of projects"
     },
     "cissyartcafe.com": {
         "url": "https://cissyartcafe.com",
         "cached_url": "not found",
-        "sourcekeyword": "Cissy's Art Caf\u00e9:  Tulip Fields Sticky Posit Notes"
+        "sourcekeyword": "Cissy's Art Caf\u00e9:  Tulip Fields Sticky Posit Notes",
+        "nature": "list of projects"
     }
 }
