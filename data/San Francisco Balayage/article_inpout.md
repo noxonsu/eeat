@@ -1,0 +1,1 @@
+"{\"title\": \"Optimized Product Features for San Francisco Balayage\", \"intro\": \"This list represents the optimized product features for San Francisco Balayage salons. A total of 0 companies were analyzed, resulting in 0 features gathered.\", \"features\": []}"
