@@ -1,8 +1,10 @@
 {
     "www.evanjosephsalon.com": {
-        "url": "https://www.evanjosephsalon.com/san-francisco/san-francisco-balayage-salon/"
+        "url": "https://www.evanjosephsalon.com/san-francisco/san-francisco-balayage-salon/",
+        "nature": "Invalid: The URL provided leads to a 404 error page, indicating that the content is not accessible."
     },
     "nitahair.com": {
-        "url": "https://nitahair.com/balayage-san-francisco/"
+        "url": "https://nitahair.com/balayage-san-francisco/",
+        "nature": "Invalid: The URL provided seems to be invalid or the website is not accessible due to a DNS resolution error."
     }
 }
