@@ -1,0 +1,1252 @@
+{
+    "www.mailerlite.com": {
+        "products": [
+            {
+                "name": "MailerLite",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Sending emails",
+                    "Email marketing",
+                    "Automation",
+                    "Newsletter editors",
+                    "Transactional emails",
+                    "Building websites",
+                    "Creating blogs",
+                    "Collecting leads",
+                    "Selling digital products",
+                    "Integrating e-store with email marketing",
+                    "Offering paid newsletter subscriptions"
+                ],
+                "solutions": [
+                    "Enhancing site navigation",
+                    "Analyzing site usage",
+                    "Assisting in marketing efforts",
+                    "Content delivery and presentation",
+                    "Distinguishing between humans and bots",
+                    "Making credit card transactions",
+                    "Preserving visitor's session state",
+                    "Storing user's cookie consent state",
+                    "Ensuring visitor browsing-security",
+                    "Optimizing CMP product delivery"
+                ],
+                "key_features": [
+                    "AI-powered drag & drop editor",
+                    "Landing pages creation",
+                    "Signup forms creation",
+                    "Email verifier for list optimization",
+                    "Integration with e-store for boosting sales",
+                    "Paid newsletter subscriptions setup",
+                    "Gallery for design inspiration",
+                    "Automation templates for quick workflows",
+                    "Knowledge base for common questions",
+                    "Video tutorials for learning",
+                    "Best practices by industry",
+                    "Email marketing guide",
+                    "MailerLite Academy for certification",
+                    "Migration assistance",
+                    "Domain authentication for deliverability"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "Free": {
+                    "price": "$0",
+                    "description": "For up to 1,000 subscribers"
+                },
+                "Growing Business": {
+                    "priceMonthly": "$10",
+                    "priceYearly": "$108.00",
+                    "subscribersRange": "500 - 50,000"
+                },
+                "Advanced": {
+                    "priceMonthly": "$20",
+                    "priceYearly": "$216.00",
+                    "subscribersRange": "Up to 500"
+                },
+                "Enterprise": {
+                    "price": "Let's talk",
+                    "description": "Businesses with over 100K subscribers"
+                }
+            }
+        }
+    },
+    "unlayer.com": {
+        "products": [
+            {
+                "name": "Unlayer",
+                "call_to_action": "Sign Up",
+                "usecases": [
+                    "Crafting and executing targeted email marketing campaigns for the travel sector to engage potential travelers and promote bookings."
+                ],
+                "solutions": [
+                    "Full featured email design studio for designers and agencies",
+                    "Embeddable drag & drop editor for developers and SaaS"
+                ],
+                "key_features": [
+                    "User-friendly drag and drop editor",
+                    "Responsive email templates",
+                    "No coding skills required",
+                    "Range of attractive travel email templates",
+                    "Responsive on all devices"
+                ]
+            },
+            {
+                "name": "Moosend",
+                "call_to_action": "Try Now For Free",
+                "usecases": [
+                    "Email automation for travel agencies",
+                    "Behavior tracking",
+                    "Lead generation",
+                    "A/B testing",
+                    "Email segmentation"
+                ],
+                "solutions": [
+                    "Economical tool for email automation"
+                ],
+                "key_features": [
+                    "Behavior tracking",
+                    "Lead generation",
+                    "A/B testing",
+                    "Email segmentation",
+                    "Excellent workflows"
+                ]
+            },
+            {
+                "name": "Optinmonster",
+                "call_to_action": "Try Now",
+                "usecases": [
+                    "Lead generation for travel agencies",
+                    "Creating multiple quality lead forms",
+                    "Powerful segmentation engine"
+                ],
+                "solutions": [
+                    "Powerful lead generation software"
+                ],
+                "key_features": [
+                    "Creation of multiple quality lead forms",
+                    "No coding skills required",
+                    "Powerful segmentation engine"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "found",
+            "priceAndPlans": {
+                "monthly": {
+                    "Free": {
+                        "price": 0,
+                        "features": [
+                            "Drag & Drop Builder",
+                            "Mobile-Ready Campaigns",
+                            "Free Stock Photos",
+                            "Download Template",
+                            "Export to ESPs",
+                            "Save and Edit Campaigns",
+                            "Custom Templates",
+                            "Dynamic Content",
+                            "User Roles"
+                        ]
+                    },
+                    "Designer": {
+                        "price": 20,
+                        "features": [
+                            "Drag & Drop Builder",
+                            "Mobile-Ready Campaigns",
+                            "Free Stock Photos",
+                            "Download Template",
+                            "Export to ESPs",
+                            "Save and Edit Campaigns",
+                            "Custom Templates",
+                            "Dynamic Content",
+                            "User Roles"
+                        ]
+                    },
+                    "Team": {
+                        "price": 40,
+                        "features": [
+                            "Drag & Drop Builder",
+                            "Mobile-Ready Campaigns",
+                            "Free Stock Photos",
+                            "Download Template",
+                            "Export to ESPs",
+                            "Save and Edit Campaigns",
+                            "Custom Templates",
+                            "Dynamic Content",
+                            "User Roles"
+                        ]
+                    }
+                },
+                "annual": {
+                    "Free": {
+                        "price": 0,
+                        "features": [
+                            "Drag & Drop Builder",
+                            "Mobile-Ready Campaigns",
+                            "Free Stock Photos",
+                            "Download Template",
+                            "Export to ESPs",
+                            "Save and Edit Campaigns",
+                            "Custom Templates",
+                            "Dynamic Content",
+                            "User Roles"
+                        ]
+                    },
+                    "Designer": {
+                        "price": 180,
+                        "features": [
+                            "Drag & Drop Builder",
+                            "Mobile-Ready Campaigns",
+                            "Free Stock Photos",
+                            "Download Template",
+                            "Export to ESPs",
+                            "Save and Edit Campaigns",
+                            "Custom Templates",
+                            "Dynamic Content",
+                            "User Roles"
+                        ]
+                    },
+                    "Team": {
+                        "price": 480,
+                        "features": [
+                            "Drag & Drop Builder",
+                            "Mobile-Ready Campaigns",
+                            "Free Stock Photos",
+                            "Download Template",
+                            "Export to ESPs",
+                            "Save and Edit Campaigns",
+                            "Custom Templates",
+                            "Dynamic Content",
+                            "User Roles"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "www.campaignmonitor.com": {
+        "products": [
+            {
+                "name": "Campaign Monitor",
+                "call_to_action": "Schedule your live demo today and see what Campaign Monitor can do for you.",
+                "usecases": [
+                    "Crafting and executing targeted email marketing campaigns for the travel sector",
+                    "Engaging potential travelers",
+                    "Promoting bookings"
+                ],
+                "solutions": "Campaign Monitor provides a platform for creating and sending personalized email campaigns, segmenting email lists, analyzing campaign performance, and integrating with other tools.",
+                "key_features": [
+                    "Email Template Builder",
+                    "Segmentation",
+                    "Personalization",
+                    "Marketing Automation",
+                    "Analytics",
+                    "AI",
+                    "Integrations",
+                    "Signup Forms",
+                    "SMS",
+                    "Expert Services"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Lite": {
+                    "price": "$11/month",
+                    "features": [
+                        "Get started quickly with core features",
+                        "Monthly email send volume",
+                        "Email",
+                        "SMS"
+                    ]
+                },
+                "Essentials": {
+                    "price": "$19/month",
+                    "features": [
+                        "Unlimited emails for frequent senders",
+                        "Monthly email send volume",
+                        "Email",
+                        "SMS"
+                    ]
+                },
+                "Premier": {
+                    "price": "$149/month",
+                    "features": [
+                        "Advanced segmentation plus premier support",
+                        "Monthly email send volume",
+                        "Email",
+                        "SMS"
+                    ]
+                },
+                "PayPerCampaign": {
+                    "price": "$5/campaign + 1\u00a2/recipient"
+                }
+            }
+        }
+    },
+    "www.promodo.com": {
+        "Travel Email Marketing": {
+            "Call to action": "Get Quote",
+            "Usecases": [
+                "Crafting and executing targeted email marketing campaigns for the travel sector to engage potential travelers and promote bookings."
+            ],
+            "Solutions": [
+                "Building email lists for travel agencies",
+                "Creating branded newsletters",
+                "Sharing valuable information",
+                "Segmenting email lists",
+                "Ensuring mobile-friendly emails",
+                "Writing strong headlines"
+            ],
+            "Key features": {
+                "Building your list": "Focus on growing a substantial customer list for reliable leads",
+                "Creating a branded newsletter": "Develop a unique brand voice newsletter with perceived value",
+                "Sharing useful information": "Goal-oriented email campaigns promoting company offers and converting sales",
+                "Segmenting your Email list": "Send personalized messages to specific subscriber interests",
+                "Make your emails mobile-friendly": "Optimize content for mobile devices to improve user experience",
+                "Write strong headlines": "Craft compelling headlines to boost open rates and engagement"
+            }
+        }
+    },
+    "www.sendx.io": {
+        "products": [
+            {
+                "name": "SendX",
+                "pricing": "Available for a free trial with no credit card required",
+                "key_features": [
+                    "Send Email Newsletters",
+                    "Send Bulk Emails",
+                    "Email Autoresponder",
+                    "Send Emails via Amazon SES",
+                    "Email Campaigns",
+                    "Embedded Sign Up Forms",
+                    "Email Drip Sequence",
+                    "Email Pop Up Forms",
+                    "Email Automation",
+                    "WYSIWYG Email Editor",
+                    "Integrations",
+                    "ESP Integrations"
+                ],
+                "call_to_action": "Start Free Trial",
+                "usecases": [
+                    "Email Marketing for Non-Profits & Charities",
+                    "Email Marketing for Bloggers",
+                    "Email Marketing for Schools",
+                    "Email Marketing for Universities",
+                    "Email Marketing for Authors",
+                    "Email Marketing for Real Estate",
+                    "Email Marketing for Accounting & Finance",
+                    "Email Marketing for Online Gambling",
+                    "Email Marketing for Crypto & Blockchain",
+                    "Email Marketing for Affiliate Marketers"
+                ],
+                "solutions": "Crafting and executing targeted email marketing campaigns for the travel sector to engage potential travelers and promote bookings."
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "annual": {
+                    "1 - 1,000": {
+                        "cost": "$7.49",
+                        "emailsPerMonth": "Unlimited",
+                        "featuresIncluded": "All Features"
+                    },
+                    "1,001 - 2,500": {
+                        "cost": "$14.99",
+                        "emailsPerMonth": "Unlimited",
+                        "featuresIncluded": "All Features"
+                    },
+                    "2,501 - 5,000": {
+                        "cost": "$29.99",
+                        "emailsPerMonth": "Unlimited",
+                        "featuresIncluded": "All Features"
+                    },
+                    "5,001 - 10,000": {
+                        "cost": "$39.99",
+                        "emailsPerMonth": "Unlimited",
+                        "featuresIncluded": "All Features"
+                    },
+                    "10,001 - 15,000": {
+                        "cost": "$44.99",
+                        "emailsPerMonth": "Unlimited",
+                        "featuresIncluded": "All Features"
+                    },
+                    "15,001 - 20,000": {
+                        "cost": "$89.99",
+                        "emailsPerMonth": "Unlimited",
+                        "featuresIncluded": "All Features"
+                    },
+                    "20,001 - 25,000": {
+                        "cost": "$112.49",
+                        "emailsPerMonth": "Unlimited",
+                        "featuresIncluded": "All Features"
+                    },
+                    "25,001 - 30,000": {
+                        "cost": "$134.99",
+                        "emailsPerMonth": "Unlimited",
+                        "featuresIncluded": "All Features"
+                    },
+                    "30,001 - 35,000": {
+                        "cost": "$142.49",
+                        "emailsPerMonth": "Unlimited",
+                        "featuresIncluded": "All Features"
+                    }
+                },
+                "monthly": {
+                    "1 - 1,000": {
+                        "cost": "$9.99",
+                        "emailsPerMonth": "Unlimited",
+                        "featuresIncluded": "All Features"
+                    }
+                }
+            }
+        }
+    },
+    "www.bitrix24.com": {
+        "products": [
+            {
+                "name": "Bitrix24",
+                "call_to_action": "Start for free",
+                "usecases": [
+                    "Crafting and executing targeted email marketing campaigns for the travel sector to engage potential travelers and promote bookings"
+                ],
+                "solutions": [
+                    "CRM system for storing client records",
+                    "Personalized content creation",
+                    "Automated trigger emails",
+                    "Content marketing with city guides, travel tips, etc.",
+                    "Incorporating engaging images and videos",
+                    "Mobile-friendly email design",
+                    "All-in-one platform for email marketing with CRM integration"
+                ],
+                "key_features": [
+                    "CRM integration",
+                    "Personalization",
+                    "Automation",
+                    "Content marketing tools",
+                    "Mobile responsiveness",
+                    "All-in-one platform"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.benchmarkemail.com": {
+        "products": [
+            {
+                "name": "Benchmark Email",
+                "call_to_action": "Sign Up Free",
+                "usecases": [
+                    "Crafting and executing targeted email marketing campaigns for the travel sector to engage potential travelers and promote bookings."
+                ],
+                "solutions": [
+                    "Email Marketing",
+                    "Marketing Automation",
+                    "Marketing CRM",
+                    "Landing Pages",
+                    "Smart Content",
+                    "eCommerce",
+                    "Lead Generation",
+                    "Reporting",
+                    "Integrations"
+                ],
+                "key_features": [
+                    "Personalization",
+                    "Engagement through the entire customer journey",
+                    "Free plan available",
+                    "Quality email marketing software"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Free": {
+                    "price": "$0/mo.",
+                    "features": [
+                        "Easiest-ever email builder",
+                        "500 contacts",
+                        "3,500 emails/mo",
+                        "Forms",
+                        "Reports"
+                    ]
+                },
+                "Pro": {
+                    "price": "$15/mo.",
+                    "features": [
+                        "Everything in Free",
+                        "7,500 emails/mo",
+                        "Email automation",
+                        "Landing pages",
+                        "A/B testing"
+                    ]
+                },
+                "Enterprise": {
+                    "price": "Contact for quote",
+                    "features": [
+                        "Everything in Pro",
+                        "Managed account set-up",
+                        "Deliverability tools",
+                        "Volume discounts",
+                        "Send-based pricing"
+                    ]
+                }
+            }
+        }
+    },
+    "stripo.email": {
+        "product_name": "Stripo",
+        "call_to_action": "Sign Up Demo",
+        "usecases": [
+            "Building professional travel emails",
+            "Crafting powerful email campaigns for the travel and tourism industry",
+            "Creating personalized and engaging email content for potential travelers",
+            "Increasing customer engagement and loyalty through targeted emails"
+        ],
+        "solutions": [
+            "Email template creator",
+            "Stripo editor for simplifying email production process",
+            "Stripo plugin for integrating drag-n-drop editor to web applications",
+            "Helpful tools like email signature generator, calendar link generator, email production cost calculator, gamification for emails, etc."
+        ],
+        "key_features": {
+            "Email template creator": true,
+            "Drag-n-drop editor": true,
+            "Integration capabilities": true,
+            "Helpful tools": true,
+            "Personalization options": true,
+            "Automated email features": true,
+            "Interactive elements": true,
+            "Segmentation and targeting": true
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.inboxarmy.com": {
+        "product_name": "InboxArmy Travel Email Marketing",
+        "call_to_action": "Contact Us Now",
+        "usecases": [
+            "Crafting and executing targeted email marketing campaigns for the travel sector to engage potential travelers and promote bookings"
+        ],
+        "solutions": [
+            "Email Strategy and Audit",
+            "Email Campaign Management",
+            "Email Marketing Automation",
+            "Email Template Production",
+            "Email Deliverability"
+        ],
+        "key_features": {
+            "Inexpensive Setup": "Quick and simple to set up with minimal effort and time",
+            "Increases Brand Loyalty": "Builds trust and loyalty through regular content sharing",
+            "Customized Approach": "Delivers personalized emails based on customer preferences",
+            "Integration with Social Media": "Combines email and social media channels for increased reach",
+            "Segmentation": "Targets the right audience through effective email segmentation",
+            "Automation": "Automates emails for fast response times and improved customer engagement",
+            "Generous with Travel Ideas": "Provides authentic information about travel destinations",
+            "Loyalty Program": "Offers loyalty programs to reward and retain customers",
+            "Urgency with Limited Time Deals": "Creates urgency with time-limited offers",
+            "Testimonials Sharing": "Includes customer testimonials to build trust and credibility",
+            "Videos Showcase": "Utilizes videos to showcase travel experiences and engage viewers",
+            "A/B Testing": "Tests subject lines and email elements for optimal engagement",
+            "Mobile-friendly Designs": "Ensures emails are optimized for mobile devices",
+            "Customized Deals": "Offers personalized deals based on browsing data and preferences",
+            "Winning Email Design Philosophy": "Focuses on clean, professional design with clear CTAs"
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "optinmonster.com": {
+        "products": [
+            {
+                "name": "OptinMonster",
+                "call_to_action": "Get Started Now",
+                "usecases": [
+                    "Collecting email addresses for travel businesses",
+                    "Creating personalized and targeted email marketing campaigns",
+                    "Increasing conversions through email marketing"
+                ],
+                "solutions": [
+                    "Grow Your Email List",
+                    "Reduce Cart Abandonment",
+                    "Increase Sales Conversion"
+                ],
+                "key_features": [
+                    "Lightbox Popup",
+                    "Exit-Intent Technology",
+                    "Fullscreen Welcome Mat",
+                    "Floating Bar",
+                    "Slide-in Scroll Box",
+                    "Inline Forms",
+                    "A/B Testing",
+                    "Conversion Analytics",
+                    "Yes / No Forms",
+                    "OnSite Retargeting",
+                    "MonsterLinks",
+                    "MonsterEffects",
+                    "Page-Level Targeting",
+                    "Geo-Location Targeting",
+                    "OnSite Follow Up Campaigns",
+                    "InactivitySensor"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "Basic": "$9/month",
+                "Plus": "$19/month",
+                "Pro": "$29/month",
+                "Growth": "$49/month"
+            }
+        }
+    },
+    "atdata.com": {
+        "products": [
+            {
+                "name": "Travel + Leisure",
+                "call_to_action": "Read more on the blog",
+                "usecases": [
+                    "Engaging readers with travel tips and guides",
+                    "Sharing timely and interesting stories about travel",
+                    "Encouraging further engagement with the company's site"
+                ],
+                "solutions": "Online destination for travel tips, guides, news, and information",
+                "key_features": "Engaging content, helpful travel information, blog integration"
+            },
+            {
+                "name": "Tablet Hotels",
+                "call_to_action": "Click through to take a peek",
+                "usecases": [
+                    "Targeting luxury vacation and hotel lovers",
+                    "Incorporating clever copywriting and stunning imagery"
+                ],
+                "solutions": "Offering luxury hotel options with a clean and modern look",
+                "key_features": "Luxury hotel offerings, compelling design, stunning imagery"
+            },
+            {
+                "name": "Sixt",
+                "call_to_action": "Rent a BMW or Mercedes-Benz",
+                "usecases": [
+                    "Delighting and rewarding customers",
+                    "Celebrating events with fun imagery and engaging copy"
+                ],
+                "solutions": "Rental car services with personality and engaging content",
+                "key_features": "Personality-driven content, multilingual copy, event celebrations"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "batch": {
+                    "25,000+": "$0.010",
+                    "100,000+": "$0.009",
+                    "250,000+": "$0.008",
+                    "500,000+": "$0.006"
+                },
+                "subscription": {
+                    "$0.010": "$100",
+                    "$0.008": "$500",
+                    "$0.006": "$1,000",
+                    "$0.004": "$2,500"
+                }
+            }
+        }
+    },
+    "www.checkfront.com": {
+        "product_1": {
+            "call_to_action": "Start your free 21-day trial!",
+            "usecases": [
+                "Drive more business with customer, staff, OTA, and partner booking options",
+                "Get the most out of every vehicle, seat, piece of equipment, or room",
+                "Simplify daily booking tasks and streamline operations"
+            ],
+            "solutions": "Automated emails for booking confirmation, reminders, thank-you notes, and follow-ups",
+            "key_features": [
+                "Checkfront Payments",
+                "Booking Widget",
+                "Integrations",
+                "Waivers"
+            ]
+        },
+        "product_2": {
+            "call_to_action": "Sign up for a product demo",
+            "usecases": [
+                "Connecting with guests before and after their experience",
+                "Building relationships with travelers",
+                "Increasing conversion rates"
+            ],
+            "solutions": "Curating email marketing strategies to remain top of mind with guests and loyal customers",
+            "key_features": [
+                "Optimizing emails for smartphones",
+                "Tailoring email content to recipients",
+                "Complementing other marketing strategies"
+            ]
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.theemailmarketers.com": {
+        "products": [
+            {
+                "name": "Product A",
+                "call_to_action": "Schedule a free strategy session",
+                "usecases": [
+                    "Crafting personalized email campaigns for travel agencies",
+                    "Increasing customer engagement and satisfaction through targeted emails",
+                    "Automating email marketing processes for travel businesses"
+                ],
+                "solutions": [
+                    "Streamlining customer journey through personalized emails",
+                    "Increasing customer satisfaction with personalized content",
+                    "Providing ultimate control and automation tools for email campaigns"
+                ],
+                "key_features": [
+                    "Data-driven insights for marketing teams",
+                    "Complete design and content control",
+                    "Interactive email content",
+                    "Personalization based on recipient's preferences",
+                    "Conversational marketing capabilities",
+                    "Advanced audience segmentation"
+                ]
+            },
+            {
+                "name": "Product B",
+                "call_to_action": "Schedule a demo",
+                "usecases": [
+                    "Creating engaging email newsletters for travel agencies",
+                    "Running successful giveaway campaigns to attract new customers",
+                    "Enhancing post-purchase email experiences for travelers"
+                ],
+                "solutions": [
+                    "Boosting engagement and trust through informative newsletters",
+                    "Driving customer engagement with giveaway campaigns",
+                    "Improving post-purchase interactions with customers"
+                ],
+                "key_features": [
+                    "Eye-catching imagery and subject lines for newsletters",
+                    "Cross-selling opportunities in giveaway campaigns",
+                    "Interactive elements in post-purchase emails"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "Email Marketing Agencies": {
+                    "cost": "Not disclosed"
+                },
+                "Email Marketing Campaign": {
+                    "costRange": "$15 to $100 hourly"
+                },
+                "Imagery and Design Work": {
+                    "costRange": "$25 to $150 per hour"
+                },
+                "Digital and Media Marketing": {
+                    "hourlyRate": "$80 to $200"
+                }
+            }
+        }
+    },
+    "wptravel.io": {
+        "product_name": "WP Travel",
+        "call_to_action": "Get WP Travel Pro",
+        "usecases": [
+            "Creating a travel booking website instantly without coding",
+            "Exploring and testing travel agency themes and templates",
+            "Integrating a tour booking system for enhanced customer experience"
+        ],
+        "solutions": [
+            "Crafting impactful email campaigns for travel businesses",
+            "Providing user-friendly tools for developing email marketing campaigns",
+            "Offering customizable email templates for promoting travel and tourism businesses"
+        ],
+        "key_features": [
+            "Customizable email templates",
+            "Exclusive deals and promotions",
+            "Guiding travelers at every stage of their journey",
+            "Online marketing resources for all expertise levels",
+            "Swift and seamless development of email marketing campaigns"
+        ]
+    },
+    "selzy.com": {
+        "product_name": "Selzy Travel Email Marketing",
+        "call_to_action": "Try Selzy for free",
+        "usecases": [
+            "Crafting and executing targeted email marketing campaigns for the travel sector to engage potential travelers and promote bookings"
+        ],
+        "solutions": [
+            "Easy-to-use drag-and-drop email builder",
+            "100+ free templates",
+            "Automation tools",
+            "In-depth analytics"
+        ],
+        "key_features": {
+            "Email Builder": true,
+            "Bulk email service": true,
+            "Personalization": true,
+            "Signup forms": false,
+            "Pop-ups": true,
+            "Email analytics": true,
+            "A/B testing": true,
+            "Audience segmentation": true,
+            "Triggered emails": true,
+            "Automation": true,
+            "Transactional emails": false,
+            "API": true,
+            "Integrations": true
+        },
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "plans": [
+                    {
+                        "name": "Free",
+                        "price": "$0 / month",
+                        "description": "Access to all Selzy features. Great for testing the waters. Emails up to 15,000. Contacts up to 1,000."
+                    },
+                    {
+                        "name": "Lite",
+                        "price": "$0 / month annually",
+                        "description": "A complete toolkit to jumpstart your email marketing. All you need for full-blown email marketing campaigns. Emails unlimited. Contacts range from 1,000 to 100,000."
+                    },
+                    {
+                        "name": "Standard",
+                        "price": "$0 / month annually",
+                        "description": "Lite + Anti-spam helper. All the core features and a deliverability boost. Emails unlimited. Contacts range from 1,000 to 200,000."
+                    },
+                    {
+                        "name": "Premium",
+                        "price": "from $0 / month",
+                        "description": "The final cost and terms depend on the scope of work. Standard + Full campaign management service. Sit back and relax \u2013 we'll take care of everything. Emails unlimited. Contacts range from 1,000 to 500,000."
+                    },
+                    {
+                        "name": "Pay As You Go",
+                        "price": "$0 / email",
+                        "description": "Pay per email sent. No monthly or annual payments. Contact list size unlimited. Emails unlimited."
+                    },
+                    {
+                        "name": "Pre-paid Credits",
+                        "price": "$0 / package",
+                        "description": "Buy bulk email packages monthly or annually. Contact list size unlimited. Email package range from 5,000 to 10,000,000."
+                    }
+                ]
+            }
+        }
+    },
+    "www.litmus.com": {
+        "product_name": "Litmus",
+        "call_to_action": "Get started today",
+        "usecases": [
+            "Optimizing and personalizing emails for maximum ROI",
+            "Creating exceptional brand experiences for subscribers",
+            "Executing targeted email marketing campaigns for the travel sector"
+        ],
+        "solutions": [
+            "Email Service Provider",
+            "Acoustic Campaign",
+            "Adobe Campaign Standard",
+            "Adobe Marketo",
+            "Campaign Monitor",
+            "HubSpot",
+            "Klaviyo",
+            "Mailchimp",
+            "Oracle Eloqua",
+            "Oracle Responsys",
+            "Pardot",
+            "Salesforce Marketing Cloud",
+            "SAP Marketing Cloud"
+        ],
+        "key_features": [
+            "Email Design",
+            "Email Building",
+            "Email Personalization",
+            "Email Testing",
+            "Spam Testing",
+            "Email Analytics",
+            "Email Collaboration and Review",
+            "Technology Integrations",
+            "AI & Emerging Email Technologies"
+        ],
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Litmus Basic": {
+                    "price": "$79 per month",
+                    "features": "Build and test emails that drive results and look great in every inbox."
+                },
+                "Litmus Plus": {
+                    "price": "$159 per month",
+                    "features": "Test more efficiently and improve future sends with advanced email QA and analytics."
+                },
+                "Litmus Enterprise": {
+                    "price": "Customized pricing",
+                    "features": "Make the most of every send with seamless collaboration, advanced security, and robust integrations."
+                },
+                "Litmus Personalize": {
+                    "price": "Customized pricing",
+                    "features": "Get powerful results with uniquely personalized, engaging email experiences that boost customer loyalty and drive revenue."
+                }
+            }
+        }
+    },
+    "truevail.com": {
+        "product_name": "Truevail Email Marketing for Travel Advisors",
+        "call_to_action": "Book a Demo",
+        "usecases": [
+            "Attract new clients to travel advisor business",
+            "Send branded newsletters to sell services on autopilot",
+            "Effortlessly attract travel clients through email every month",
+            "Send beautiful, professional emails to make travel business stand out",
+            "Be seen as a trusted travel expert by the audience",
+            "Grow business for a fraction of the cost of other email marketing services"
+        ],
+        "solutions": [
+            "Done-for-You monthly email campaign service",
+            "Create and send beautiful, inspiring email newsletters on behalf of travel advisors",
+            "Curate content that converts for clients",
+            "Provide personalized newsletters tailored to brand's message",
+            "Maintain editorial control over newsletter content",
+            "Deliver timely, authentic, and aspirational marketing guided by seasoned travel advisors"
+        ],
+        "key_features": {
+            "Automated Campaign Management": "Create, schedule, send, and report on campaigns",
+            "Personalization Options": "Option to personalize each newsletter with own introduction",
+            "Flexible Sending Frequency": "Option for one or two newsletters per month",
+            "Unlimited Contact List": "No upper limit on the number of contacts in the list",
+            "Preview of Campaigns": "Receive a preview of the newsletter before sending",
+            "Content Customization": "Full control over newsletter content, ability to edit and add custom content",
+            "Expert Content Creation": "Newsletters written by professional travel writers",
+            "Secure Data Handling": "Industry-standard security measures for client data protection"
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "Truevail Essentials Basic Membership": {
+                    "price": "$69.00 per month",
+                    "trial_period": "1 month",
+                    "sign_up_fee": "$199.00",
+                    "includes": [
+                        "Monthly Branded and Automated E-Newsletter Campaign",
+                        "Lead Capture Opt-In Forms for Your Current Website",
+                        "Monthly E-Newsletter Campaign Reporting",
+                        "Quarterly Lead Engagement Reporting",
+                        "Access to members only Educational and Marketing Materials",
+                        "Up to 999 Contacts: Additional fee of $10/mo per additional 1000 Contacts"
+                    ]
+                },
+                "Truevail Essentials Plus Membership": {
+                    "price": "$69.00 per month",
+                    "trial_period": "4 weeks",
+                    "sign_up_fee": "$299.00"
+                },
+                "Single Page Website \u2013 Creation and Hosting (Tradeshow Special)": {
+                    "price": "$29.00 per month",
+                    "trial_period": "2 months",
+                    "sign_up_fee": "$199.00"
+                },
+                "Seven (7) Page Website \u2013 Creation and Hosting": {
+                    "price": "$29.00 per month",
+                    "trial_period": "1 month",
+                    "sign_up_fee": "$699.00"
+                },
+                "Truevail Essentials Custom Plus Membership \u2013 Agency": {
+                    "price": "$79.00 per month"
+                }
+            }
+        }
+    },
+    "www.b12.io": {
+        "product_name": "B12",
+        "call_to_action": "Get started for free",
+        "usecases": [
+            "Launch a professional online presence fast",
+            "AI-Powered Website Builder",
+            "DIY Website Editor",
+            "Client Engagement",
+            "Email Marketing & Automation",
+            "Online Scheduling",
+            "Payments & Invoicing",
+            "Contracts & eSignatures",
+            "AI",
+            "Creative Services"
+        ],
+        "solutions": "B12 is an all-in-one platform that helps professional service small businesses launch an online presence with tools like email marketing. With their email marketing & automation tools, you can send engaging emails that promote your services in a matter of minutes. Additionally, it features pre-written messages, brand-aligned templates, quick editing, and automated workflows that make it easier to develop client relationships without taking up a lot of your time. You can also test your emails before officially sending them to your contacts.",
+        "key_features": [
+            "AI Website Generation",
+            "AI Assist",
+            "No-code AI",
+            "Orchestra",
+            "Website Setup Done For You",
+            "Web Design",
+            "Copywriting",
+            "SEO",
+            "Client Intake Forms",
+            "Contact Manager"
+        ]
+    },
+    "travelerwp.com": {
+        "product_name": "Traveler Email Marketing",
+        "call_to_action": "Buy Now",
+        "usecases": [
+            "Crafting and executing targeted email marketing campaigns for the travel sector to engage potential travelers and promote bookings"
+        ],
+        "solutions": [
+            "Building an email marketing campaign",
+            "Crafting engaging email subject lines",
+            "Personalizing email content",
+            "Being conversational with customers through email content",
+            "Using attractive visuals like photos and videos",
+            "Utilizing calls to action buttons",
+            "Segmenting the email list",
+            "Complying with email marketing regulations",
+            "Measuring the success of an email marketing campaign"
+        ],
+        "key_features": {
+            "Adding opt-in forms in different places to collect email addresses": "Home page, website's footer, blog feed or sidebar, pop-up, landing pages",
+            "Crafting an engaging email subject line": "Being clear and concise, asking questions, creating a sense of curiosity, providing offers, creating a sense of urgency",
+            "Personalizing the subject line and email content": "Using subscriber's name, location, and past purchase history",
+            "Being conversational with customers through email content": "Keeping emails friendly, personal, and conversational",
+            "Using attractive visuals, such as photos and videos": "Adding visual elements to make emails more engaging",
+            "Utilizing calls to action buttons": "Making CTAs easy to see, using action-oriented language, including multiple CTAs, making CTAs more personal"
+        }
+    },
+    "q4launch.com": {
+        "products": [
+            {
+                "name": "Campaign Monitor by Marigold",
+                "call_to_action": "Request Your Marketing Grader",
+                "usecases": [
+                    "Crafting and executing targeted email marketing campaigns for the travel sector",
+                    "Engaging potential travelers",
+                    "Promoting bookings"
+                ],
+                "solutions": "Email marketing software",
+                "key_features": "Extensive range of features, segmentation, automation",
+                "strengths": [
+                    "Professional-looking emails",
+                    "Performance tracking",
+                    "Audience segmentation",
+                    "Personalized messages",
+                    "Automation features"
+                ],
+                "areas_for_improvement": [
+                    "Enhanced A/B testing capabilities",
+                    "Innovative storytelling tools"
+                ]
+            }
+        ]
+    },
+    "emailbroadcast.com": {
+        "product_name": "Email Broadcast - Adventure Travel Email Marketing",
+        "call_to_action": "Book a Free Consultation",
+        "usecases": [
+            "Crafting and executing targeted email marketing campaigns for adventure travel businesses",
+            "Increasing bookings and selling out seasons for adventure travel companies",
+            "Engaging potential travelers through compelling email content"
+        ],
+        "solutions": [
+            "Email campaign management services tailored for adventure travel sector",
+            "Creating automated email series to capture interested prospects and promote offerings",
+            "Utilizing email marketing to increase online reviews, strengthen brand image, and drive referrals"
+        ],
+        "key_features": {
+            "Tailored Email Campaigns": "Crafting personalized email campaigns for adventure travel businesses",
+            "Automated Series": "Creating automated email series to engage prospects over time",
+            "Performance Tracking": "Monitoring email campaign performance and success metrics",
+            "Lead Generation": "Capturing email addresses of interested prospects for future marketing",
+            "Referral Program": "Encouraging referrals through engaging email content"
+        },
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "Email Marketing Services": [
+                    {
+                        "name": "Audit",
+                        "price": "$2500",
+                        "details": {
+                            "services": [
+                                "Strategy Review",
+                                "Technology Review",
+                                "Content Review",
+                                "...and more"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "Campaign Management",
+                        "price": "Custom Pricing",
+                        "details": {
+                            "services": [
+                                "Custom Campaign",
+                                "Comprehensive Strategy",
+                                "Content: Ideas, Design, Copywriting",
+                                "Advanced Technology",
+                                "All Handled For You"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "Automation",
+                        "price": "$695+/month",
+                        "details": {
+                            "services": [
+                                "Lead Magnet",
+                                "Landing Page",
+                                "Sales Series",
+                                "Nurture Series",
+                                "and more..."
+                            ]
+                        }
+                    },
+                    {
+                        "name": "BrandBuilder",
+                        "price": "Starting at $1500",
+                        "details": "BrandBuilder services are only offered to email marketing clients."
+                    }
+                ]
+            }
+        }
+    },
+    "www.wetravel.com": {
+        "product_name": "WeTravel",
+        "call_to_action": [
+            "Try for free",
+            "Request a Demo"
+        ],
+        "usecases": [
+            "Adventure Travel",
+            "Affinity Group Travel",
+            "Custom & Luxury Travel",
+            "Event & Fan Travel",
+            "Faith-based Travel",
+            "Leisure Travel",
+            "Student, Sports & Performance Travel",
+            "Travel Agencies & Advisors",
+            "University & MBA Travel",
+            "Wellness & Retreat Travel"
+        ],
+        "solutions": [
+            {
+                "name": "Trip Page Builder",
+                "description": "Create stunning, bookable trip pages in minutes for individual invoices or group trips."
+            },
+            {
+                "name": "Payment Processing",
+                "description": "Accept bookings with payment plans directly on your website at low processing fees."
+            },
+            {
+                "name": "Booking Management",
+                "description": "Effortlessly collect documents, create reports, and edit bookings to streamline your team's workflow."
+            }
+        ],
+        "key_features": [
+            "Trip Page Builder",
+            "Payment Processing with payment plans",
+            "Booking Management tools",
+            "WeTravel Card for instant supplier payments",
+            "Supplier Transfers",
+            "Inventory Management"
+        ],
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "Basic": {
+                    "price": "Free",
+                    "details": "Best way for anyone to get started"
+                },
+                "Pro": {
+                    "price": "$79/mo",
+                    "details": "For companies and teams, 30-day money back guarantee"
+                },
+                "Enterprise": {
+                    "price": "Custom",
+                    "details": "Tailored approach for your business"
+                }
+            }
+        }
+    },
+    "travefy.com": {
+        "product_name": "Travefy",
+        "call_to_action": [
+            "Schedule Demo",
+            "Log In",
+            "Start Free Trial"
+        ],
+        "usecases": [
+            "Travel Advisors",
+            "Tour Operators",
+            "DMCs + Onsites",
+            "Tourism + DMOs",
+            "Host Agencies"
+        ],
+        "solutions": [
+            "Itinerary Management",
+            "Proposals + Quotes",
+            "Simple CRM + Forms",
+            "Website + Marketing"
+        ],
+        "key_features": {
+            "Itinerary Management": "Customized itineraries in the advisor's brand, import from integrated suppliers, deliver via mobile app, web link, or PDF",
+            "Quotes + Proposals": "Professional and visually stunning quotes and proposals, streamlined workflows",
+            "CRM + Automation + Invoicing": "Simple CRM, client information organization, custom form tools for client details and credit card authorization forms",
+            "Website + Landing Pages": "Create mobile-friendly websites in minutes, integrated website and landing page builder, market trips on social media",
+            "Pricing Options": {
+                "Annually": {
+                    "Price": "$35 per user per month, billed annually",
+                    "Savings": "$168 per year",
+                    "Features": [
+                        "Unlimited Proposals",
+                        "Unlimited Itineraries",
+                        "Every Travefy Feature"
+                    ]
+                },
+                "Quarterly": {
+                    "Price": "$44 per user per month, billed quarterly",
+                    "Savings": "$60 per year",
+                    "Features": [
+                        "Unlimited Proposals",
+                        "Unlimited Itineraries",
+                        "Every Travefy Feature"
+                    ]
+                },
+                "Monthly": {
+                    "Price": "$49 per user per month, billed monthly",
+                    "Features": [
+                        "Unlimited Proposals",
+                        "Unlimited Itineraries",
+                        "Every Travefy Feature"
+                    ]
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "annually": {
+                    "price": "$35",
+                    "description": "Per User Per Month, Billed Annually"
+                },
+                "quarterly": {
+                    "price": "$44",
+                    "description": "Per User Per Month, Billed Quarterly"
+                },
+                "monthly": {
+                    "price": "$49",
+                    "description": "Per User Per Month, Billed Monthly"
+                }
+            }
+        }
+    }
+}
