@@ -7,19 +7,22 @@
         "url": "https://www.mailerlite.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "MailerLite:  Email marketing"
+        "sourcekeyword": "MailerLite:  Email marketing",
+        "priceAndPlansCrawled": "https://www.mailerlite.com/pricing"
     },
     "unlayer.com": {
         "url": "https://unlayer.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Unlayer:  Unlayer Studio"
+        "sourcekeyword": "Unlayer:  Unlayer Studio",
+        "priceAndPlansCrawled": "https://unlayer.com/pricing"
     },
     "www.campaignmonitor.com": {
         "url": "https://www.campaignmonitor.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "CampaignMonitor:  Email Template Builder"
+        "sourcekeyword": "CampaignMonitor:  Email Template Builder",
+        "priceAndPlansCrawled": "https://www.campaignmonitor.com/pricing/"
     },
     "www.travelquestnetwork.com": {
         "url": "https://www.travelquestnetwork.com/blog/6-email-marketing-tips-for-travel-agents",
@@ -29,15 +32,18 @@
         "url": "https://www.promodo.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Promodo:  Email Marketing Strategies for Travel Agencies"
+        "sourcekeyword": "Promodo:  Email Marketing Strategies for Travel Agencies",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.sendx.io": {
         "url": "https://www.sendx.io/blog/travel-email-marketing",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.sendx.io/pricing"
     },
     "www.bitrix24.com": {
         "url": "https://www.bitrix24.com/articles/7-email-marketing-strategies-for-travel-agencies.php",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.bitrix24.com/prices/self-hosted.php"
     },
     "www.emailvendorselection.com": {
         "url": "https://www.emailvendorselection.com/strategy-roadmap-email-marketing-travel-hospitality/",
@@ -59,7 +65,8 @@
         "url": "https://www.benchmarkemail.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "BenchmarkEmail:  Email Marketing"
+        "sourcekeyword": "BenchmarkEmail:  Email Marketing",
+        "priceAndPlansCrawled": "https://www.benchmarkemail.com/pricing/"
     },
     "www.datadab.com": {
         "url": "https://www.datadab.com/blog/email-marketing-strategies-for-travel-and-tourism/",
@@ -67,13 +74,15 @@
     },
     "stripo.email": {
         "url": "https://stripo.email/blog/tips-for-travel-and-tourism-email-marketing-with-the-best-examples-by-the-worlds-richest-companies/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://stripo.email/pricing/"
     },
     "www.inboxarmy.com": {
         "url": "https://www.inboxarmy.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "InboxArmy:  Email Strategy and Audit"
+        "sourcekeyword": "InboxArmy:  Email Strategy and Audit",
+        "priceAndPlansCrawled": "https://www.inboxarmy.com/email-marketing-packages-pricing/"
     },
     "www.thetravelinstitute.com": {
         "url": "https://www.thetravelinstitute.com/product/email-marketing-for-travel-agents/",
@@ -87,7 +96,8 @@
         "url": "https://optinmonster.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "OptinMonster:  University"
+        "sourcekeyword": "OptinMonster:  University",
+        "priceAndPlansCrawled": "https://optinmonster.com/is-optinmonster-free/"
     },
     "www.searchenginejournal.com": {
         "url": "https://www.searchenginejournal.com/email-marketing-for-travel/400663/",
@@ -97,19 +107,22 @@
         "url": "https://atdata.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "AtData:  Data Services"
+        "sourcekeyword": "AtData:  Data Services",
+        "priceAndPlansCrawled": "https://atdata.com/safetosend-email-validation/"
     },
     "www.checkfront.com": {
         "url": "https://www.checkfront.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Checkfront:  Booking Management"
+        "sourcekeyword": "Checkfront:  Booking Management",
+        "priceAndPlansCrawled": "https://www.checkfront.com/blog/checkfront-announces-all-new-plans-pricing/"
     },
     "www.theemailmarketers.com": {
         "url": "https://www.theemailmarketers.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "The Email Marketers:  Email Marketing for Travel Agencies"
+        "sourcekeyword": "The Email Marketers:  Email Marketing for Travel Agencies",
+        "priceAndPlansCrawled": "https://www.theemailmarketers.com/blog/email-marketing-costs"
     },
     "taggbox.com": {
         "url": "https://taggbox.com/blog/travel-email-marketing/",
@@ -127,13 +140,15 @@
         "url": "wptravel.io",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "WP Travel:  WP Travel Pro"
+        "sourcekeyword": "WP Travel:  WP Travel Pro",
+        "priceAndPlansCrawled": "Not found"
     },
     "selzy.com": {
         "url": "https://selzy.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Selzy:  Email Builder"
+        "sourcekeyword": "Selzy:  Email Builder",
+        "priceAndPlansCrawled": "https://selzy.com/en/prices/"
     },
     "academy.wetravel.com": {
         "url": "https://academy.wetravel.com/build-grow-email-list-travel-business",
@@ -143,39 +158,46 @@
         "url": "https://www.litmus.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Litmus:  alione email marketing solution"
+        "sourcekeyword": "Litmus:  alione email marketing solution",
+        "priceAndPlansCrawled": "https://www.litmus.com/pricing"
     },
     "truevail.com": {
         "url": "https://truevail.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Truevail:  Email Marketing For Travel Advisors"
+        "sourcekeyword": "Truevail:  Email Marketing For Travel Advisors",
+        "priceAndPlansCrawled": "https://truevail.com/product/truevail-essentials-membership/"
     },
     "www.b12.io": {
         "url": "https://www.b12.io/resource-center/email-newsletters/email-marketing-advice-for-travel-agents.html",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "travelerwp.com": {
         "url": "https://travelerwp.com/promote-travel-agency-website-through-email-marketing",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "q4launch.com": {
         "url": "https://q4launch.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Q4Launch:  Email Marketing"
+        "sourcekeyword": "Q4Launch:  Email Marketing",
+        "priceAndPlansCrawled": "Not found"
     },
     "emailbroadcast.com": {
         "url": "https://emailbroadcast.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Email Broadcast:  Email Marketing Services"
+        "sourcekeyword": "Email Broadcast:  Email Marketing Services",
+        "priceAndPlansCrawled": "https://emailbroadcast.com/email-marketing-pricing/"
     },
     "www.wetravel.com": {
         "url": "https://www.wetravel.com",
         "cached_url": "not found",
         "sourcekeyword": "WeTravel:  Email Marketing For Travel Businesses",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.wetravel.com/pricing"
     },
     "seotravel.co.uk": {
         "url": "https://seotravel.co.uk",
@@ -187,7 +209,8 @@
         "url": "https://travefy.com",
         "cached_url": "not found",
         "sourcekeyword": "Travefy:  Email Marketing Software",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://travefy.com/pro"
     },
     "moosend.com": {
         "url": "https://moosend.com",
