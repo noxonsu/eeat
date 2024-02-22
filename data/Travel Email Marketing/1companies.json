@@ -174,26 +174,31 @@
     "www.wetravel.com": {
         "url": "https://www.wetravel.com",
         "cached_url": "not found",
-        "sourcekeyword": "WeTravel:  Email Marketing For Travel Businesses"
+        "sourcekeyword": "WeTravel:  Email Marketing For Travel Businesses",
+        "nature": "single project"
     },
     "seotravel.co.uk": {
         "url": "https://seotravel.co.uk",
         "cached_url": "not found",
-        "sourcekeyword": "SEO Travel:  Email Marketing for Travel"
+        "sourcekeyword": "SEO Travel:  Email Marketing for Travel",
+        "nature": "list of projects"
     },
     "travefy.com": {
         "url": "https://travefy.com",
         "cached_url": "not found",
-        "sourcekeyword": "Travefy:  Email Marketing Software"
+        "sourcekeyword": "Travefy:  Email Marketing Software",
+        "nature": "single project"
     },
     "moosend.com": {
         "url": "https://moosend.com",
         "cached_url": "not found",
-        "sourcekeyword": "Moosend:  Travel"
+        "sourcekeyword": "Moosend:  Travel",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of crafting and executing targeted email marketing campaigns for the travel sector."
     },
     "en-us.ticketinghub.com": {
         "url": "https://en-us.ticketinghub.com",
         "cached_url": "not found",
-        "sourcekeyword": "TicketingHub:  Sell more tickets"
+        "sourcekeyword": "TicketingHub:  Sell more tickets",
+        "nature": "list of projects"
     }
 }
