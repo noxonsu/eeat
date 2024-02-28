@@ -1,0 +1,89 @@
+{
+    "www.coursera.org": {
+        "url": "https://www.coursera.org/courses?query=cybersecurity"
+    },
+    "www.udemy.com": {
+        "url": "https://www.udemy.com/topic/cyber-security/"
+    },
+    "www.simplilearn.com": {
+        "url": "https://www.simplilearn.com/cyber-security"
+    },
+    "grow.google": {
+        "url": "https://grow.google/certificates/cybersecurity/"
+    },
+    "www.sans.org": {
+        "url": "https://www.sans.org/"
+    },
+    "www.edx.org": {
+        "url": "https://www.edx.org/learn/cybersecurity"
+    },
+    "www.classcentral.com": {
+        "url": "https://www.classcentral.com/subject/cybersecurity"
+    },
+    "www.techtarget.com": {
+        "url": "https://www.techtarget.com/searchsecurity/tip/Top-10-cybersecurity-online-courses"
+    },
+    "www.netacad.com": {
+        "url": "https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity"
+    },
+    "www.codecademy.com": {
+        "url": "https://www.codecademy.com/catalog/subject/cybersecurity"
+    },
+    "www.comparitech.com": {
+        "url": "https://www.comparitech.com/blog/information-security/cybersecurity-course-online/"
+    },
+    "www.eccouncil.org": {
+        "url": "https://www.eccouncil.org/"
+    },
+    "www.cybrary.it": {
+        "url": "https://www.cybrary.it/"
+    },
+    "online.stanford.edu": {
+        "url": "https://online.stanford.edu/programs/advanced-cybersecurity-program"
+    },
+    "alison.com": {
+        "url": "https://alison.com/tag/cyber-security"
+    },
+    "www.udacity.com": {
+        "url": "https://www.udacity.com/school/cybersecurity"
+    },
+    "www.wgu.edu": {
+        "url": "https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html"
+    },
+    "ine.com": {
+        "url": "https://ine.com/learning/areas/cyber-security"
+    },
+    "www.isc2.org": {
+        "url": "https://www.isc2.org/landing/1mcc"
+    },
+    "skillsbuild.org": {
+        "url": "https://skillsbuild.org/students/course-catalog/cybersecurity"
+    },
+    "niccs.cisa.gov": {
+        "url": "https://niccs.cisa.gov/education-training/federal-virtual-training-environment-fedvte"
+    },
+    "www.cyberdegrees.org": {
+        "url": "https://www.cyberdegrees.org/resources/free-online-courses/"
+    },
+    "academy.hackthebox.com": {
+        "url": "https://academy.hackthebox.com/"
+    },
+    "www.uhd.edu": {
+        "url": "https://www.uhd.edu/academics/continuing-education/it-online-courses/cybersecurityonlinecourses.aspx"
+    },
+    "www.pluralsight.com": {
+        "url": "https://www.pluralsight.com/browse/information-cyber-security"
+    },
+    "www.snhu.edu": {
+        "url": "https://www.snhu.edu/online-degrees/classes/cyber-security-foundations"
+    },
+    "www.skillsoft.com": {
+        "url": "https://www.skillsoft.com/subject/cybersecurity-bd97a900-2c23-11e7-83d1-dba0327abefc"
+    },
+    "www.fortinet.com": {
+        "url": "https://www.fortinet.com/training/cybersecurity-professionals"
+    },
+    "www.devry.edu": {
+        "url": "https://www.devry.edu/online-programs/undergraduate-certificates/cyber-security.html"
+    }
+}
