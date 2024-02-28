@@ -16,20 +16,28 @@
         "nature": "list of projects"
     },
     "www.sans.org": {
-        "url": "https://www.sans.org/",
-        "nature": "list of projects"
+        "url": "https://www.sans.org",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "SANSInstitute:  homepage"
     },
     "www.edx.org": {
-        "url": "https://www.edx.org/learn/cybersecurity",
-        "nature": "list of projects"
+        "url": "https://www.edx.org",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "edX:  Cybersecurity"
     },
     "www.classcentral.com": {
-        "url": "https://www.classcentral.com/subject/cybersecurity",
-        "nature": "list of projects"
+        "url": "https://www.classcentral.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "ClassCentral:  Cybersecurity courses and certifications"
     },
     "www.techtarget.com": {
-        "url": "https://www.techtarget.com/searchsecurity/tip/Top-10-cybersecurity-online-courses",
-        "nature": "list of projects"
+        "url": "https://www.techtarget.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "TechTarget:  Top 12 online cybersecurity courses for 2024"
     },
     "www.netacad.com": {
         "url": "https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity",
@@ -48,28 +56,38 @@
         "nature": "Invalid (single). Invalid: The content does not match the criteria of selling cyber security courses online with a focus on understanding keyword ranking strategies."
     },
     "www.cybrary.it": {
-        "url": "https://www.cybrary.it/",
-        "nature": "list of projects"
+        "url": "https://www.cybrary.it",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Cybrary:  Insider Pro"
     },
     "online.stanford.edu": {
         "url": "https://online.stanford.edu/programs/advanced-cybersecurity-program",
         "nature": "Invalid:DDOS protection screen"
     },
     "alison.com": {
-        "url": "https://alison.com/tag/cyber-security",
-        "nature": "list of projects"
+        "url": "https://alison.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Alison:  Free Online Cyber Security Courses"
     },
     "www.udacity.com": {
-        "url": "https://www.udacity.com/school/cybersecurity",
-        "nature": "list of projects"
+        "url": "https://www.udacity.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Udacity:  Cybersecurity"
     },
     "www.wgu.edu": {
-        "url": "https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html",
-        "nature": "list of projects"
+        "url": "https://www.wgu.edu",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "WGU:  Online Cybersecurity and Information Assurance Bachelor's Degree"
     },
     "ine.com": {
-        "url": "https://ine.com/learning/areas/cyber-security",
-        "nature": "list of projects"
+        "url": "https://ine.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "INE:  Cybersecurity Online Training & Certification Courses"
     },
     "www.isc2.org": {
         "url": "https://www.isc2.org/landing/1mcc",
@@ -84,28 +102,36 @@
         "nature": "list of projects"
     },
     "www.cyberdegrees.org": {
-        "url": "https://www.cyberdegrees.org/resources/free-online-courses/",
-        "nature": "list of projects"
+        "url": "https://www.cyberdegrees.org",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "CyberDegrees.org:  Best Online Cybersecurity Bachelor's Degrees"
     },
     "academy.hackthebox.com": {
-        "url": "https://academy.hackthebox.com/",
-        "nature": "list of projects"
+        "url": "https://academy.hackthebox.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "HackTheBox:  HTB Academy"
     },
     "www.uhd.edu": {
         "url": "https://www.uhd.edu/academics/continuing-education/it-online-courses/cybersecurityonlinecourses.aspx",
         "nature": "list of projects"
     },
     "www.pluralsight.com": {
-        "url": "https://www.pluralsight.com/browse/information-cyber-security",
-        "nature": "list of projects"
+        "url": "https://www.pluralsight.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Pluralsight:  Cyber security courses"
     },
     "www.snhu.edu": {
         "url": "https://www.snhu.edu/online-degrees/classes/cyber-security-foundations",
         "nature": "list of projects"
     },
     "www.skillsoft.com": {
-        "url": "https://www.skillsoft.com/subject/cybersecurity-bd97a900-2c23-11e7-83d1-dba0327abefc",
-        "nature": "list of projects"
+        "url": "https://www.skillsoft.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Skillsoft:  Cybersecurity courses"
     },
     "www.fortinet.com": {
         "url": "https://www.fortinet.com/training/cybersecurity-professionals",
@@ -114,5 +140,50 @@
     "www.devry.edu": {
         "url": "https://www.devry.edu/online-programs/undergraduate-certificates/cyber-security.html",
         "nature": "list of projects"
+    },
+    "simplilearn.com": {
+        "url": "simplilearn.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Simplilearn:  Caltech Cybersecurity Bootcamp"
+    },
+    "www.usg.edu": {
+        "url": "https://www.usg.edu",
+        "cached_url": "not found",
+        "sourcekeyword": "University System of Georgia:  Managing Cybersecurity Incidents and Disasters"
+    },
+    "www.rit.edu": {
+        "url": "https://www.rit.edu",
+        "cached_url": "not found",
+        "sourcekeyword": "Rochester Institute of Technology:  Computer Forensics"
+    },
+    "www.cyber.umd.edu": {
+        "url": "https://www.cyber.umd.edu/",
+        "cached_url": "not found",
+        "sourcekeyword": "University of Maryland College Park:  Cybersecurity for Everyone"
+    },
+    "www.washington.edu": {
+        "url": "https://www.washington.edu",
+        "cached_url": "not found",
+        "sourcekeyword": "University of Washington:  Building a Cybersecurity Toolkit"
+    },
+    "devry.edu": {
+        "url": "devry.edu",
+        "cached_url": "not found",
+        "sourcekeyword": "DeVry University:  Online Undergraduate Certificate in Cyber Security"
+    },
+    "twin-cities.umn.edu": {
+        "url": "https://twin-cities.umn.edu",
+        "cached_url": "not found",
+        "sourcekeyword": "University of Minnesota:  Cloud Security Basics"
+    },
+    "www.nyu.edu": {
+        "url": "https://www.nyu.edu",
+        "cached_url": "not found",
+        "sourcekeyword": "New York University:  Introduction to Cyber Security"
+    },
+    "london.ac.uk": {
+        "url": "https://london.ac.uk",
+        "cached_url": "not found",
+        "sourcekeyword": "University of London:  Master of Science in Cyber Security"
     }
 }
