@@ -1,0 +1,101 @@
+{
+    "title": "Optimized Cyber Security Course Features",
+    "intro": "This list represents the optimized key features of cyber security courses from 12 different companies. A total of 428 features were gathered and analyzed.",
+    "features": {
+        "Learning Experience": {
+            "title": "Learning Experience",
+            "features": {
+                "Flexible Learning": 1,
+                "Self-Paced Learning": 1,
+                "Hands-On Practice Labs": 2,
+                "Interactive Exercises": 1,
+                "Guided Courses": 1,
+                "Real-World Examples": 1
+            }
+        },
+        "Credential and Certification": {
+            "title": "Credential and Certification",
+            "features": {
+                "Valuable Credential Upon Completion": 1,
+                "Industry-Recognized Certifications": 2,
+                "Certification Preparation": 2
+            }
+        },
+        "Curriculum": {
+            "title": "Curriculum",
+            "features": {
+                "Comprehensive Curriculum": 1,
+                "Fundamental Knowledge": 1,
+                "Specialized Topics": 1
+            }
+        },
+        "Beginner-Friendly": {
+            "title": "Beginner-Friendly",
+            "features": {
+                "Cybersecurity Training for Beginners": 1,
+                "Foundational Knowledge": 1
+            }
+        },
+        "Career Advancement": {
+            "title": "Career Advancement",
+            "features": {
+                "Career Opportunities": 1,
+                "Skills Assessment Exercises": 1,
+                "Job Skill Paths": 1
+            }
+        },
+        "Security Focus": {
+            "title": "Security Focus",
+            "features": {
+                "Network Security": 2,
+                "Web Security": 2,
+                "Software Security": 1,
+                "Data Security": 1,
+                "Incident Response": 1,
+                "Cryptography": 2,
+                "Malware Analysis": 1,
+                "Penetration Testing": 2,
+                "Digital Forensics": 2,
+                "Ethical Hacking": 2,
+                "Security Engineering": 1,
+                "Enterprise Security": 1,
+                "Data Privacy": 1
+            }
+        },
+        "Practical Skills": {
+            "title": "Practical Skills",
+            "features": {
+                "Hands-On Learning": 1,
+                "Real-World Exercises": 1,
+                "Practical Application": 1,
+                "Labs and Practice Tests": 1
+            }
+        },
+        "Specialized Training": {
+            "title": "Specialized Training",
+            "features": {
+                "Threat-Informed Training": 3,
+                "Bug Hunting Modules": 1,
+                "Technical Cybersecurity Topics": 1,
+                "Cybersecurity Basics": 1,
+                "Cloud Security": 1,
+                "Cyber Resilience": 1,
+                "Secure Coding Principles": 1,
+                "Privacy Laws and Data Protection": 1,
+                "Cybersecurity for Managers": 1,
+                "Network Virtualization": 1,
+                "Secure Systems Analysis & Design": 1,
+                "Hacking Countermeasures and Techniques": 1
+            }
+        },
+        "Industry Alignment": {
+            "title": "Industry Alignment",
+            "features": {
+                "Aligned with Industry Standards": 1,
+                "Aligned with NIST Guidelines": 1,
+                "Aligned with DHS and NSA Guidelines": 1,
+                "Certified Programs": 1
+            }
+        }
+    }
+}

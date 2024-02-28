@@ -1,0 +1,696 @@
+{
+    "www.edx.org": {
+        "products": [
+            {
+                "name": "edX Cybersecurity Courses",
+                "provider": "edX",
+                "call_to_action": "Explore all courses",
+                "usecases": [
+                    "Learning cybersecurity fundamentals",
+                    "Starting a career in cybersecurity",
+                    "Exploring cybersecurity careers",
+                    "Becoming a cybersecurity specialist"
+                ],
+                "solutions": "Online cybersecurity courses, cybersecurity boot camps, cybersecurity certifications",
+                "key_features": {
+                    "Flexible Learning": "Learn at your own pace on computer, tablet, or phone",
+                    "Credential": "Earn a valuable credential upon completion",
+                    "Comprehensive Curriculum": "Covers cybersecurity fundamentals, network security, digital forensics, incident response, and more",
+                    "Beginner-Friendly": "Offers cybersecurity training for beginners",
+                    "Career Opportunities": "Provides opportunities to advance career in cybersecurity"
+                }
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "lowestPrice": 1000,
+                "averagePrice": "Not specified",
+                "highestPrice": "Not specified",
+                "businessModel": "Boot Camps for Coding Education"
+            }
+        }
+    },
+    "www.classcentral.com": {
+        "cyber_security_courses": [
+            {
+                "name": "Introduction to Cyber Security",
+                "provider": "Uttarakhand Open University, Haldwani; IGNOU",
+                "duration": "12 weeks",
+                "format": "Free Online Course",
+                "rating": "411 reviews",
+                "key_features": [
+                    "Geared towards generating and enhancing awareness about cyber security challenges",
+                    "Focuses on concepts of cyber security and cyber ethics",
+                    "Aims to help participants become responsible cyber citizens"
+                ],
+                "call_to_action": "Sign up"
+            },
+            {
+                "name": "Software Security",
+                "provider": "University of Maryland",
+                "duration": "6 weeks",
+                "format": "Free Online Course (Audit)",
+                "rating": "24 reviews",
+                "key_features": [
+                    "Strengthens software security and defends against vulnerabilities and attacks"
+                ],
+                "call_to_action": "Sign up"
+            },
+            {
+                "name": "Web Security",
+                "provider": "YouTube",
+                "duration": "1 day 1 hour",
+                "format": "Free Online Course",
+                "rating": "17 reviews",
+                "key_features": [
+                    "Comprehensive overview of web security",
+                    "Focuses on common web attacks and their countermeasures"
+                ],
+                "call_to_action": "Watch now"
+            },
+            {
+                "name": "Engineering Cyber Resiliency - A Pragmatic Approach",
+                "provider": "YouTube",
+                "duration": "1 hour 18 minutes",
+                "format": "Free Online Course",
+                "rating": "16 reviews",
+                "key_features": [
+                    "Seminar on engineering cyber resiliency",
+                    "Focuses on pragmatic approaches to ensure security in critical applications"
+                ],
+                "call_to_action": "Watch now"
+            },
+            {
+                "name": "Web Security Fundamentals",
+                "provider": "edX",
+                "duration": "5 weeks, 4-6 hours a week",
+                "format": "Free Online Course (Audit)",
+                "rating": "21 reviews",
+                "key_features": [
+                    "Essential knowledge for web developers",
+                    "Covers important principles of modern web security and best practices"
+                ],
+                "call_to_action": "Sign up"
+            },
+            {
+                "name": "Computer Systems Security (Fall 2014)",
+                "provider": "MIT OpenCourseWare",
+                "duration": "30 hours",
+                "format": "Free Online Course",
+                "rating": "18 reviews",
+                "key_features": [
+                    "Covers threat models, security-compromising attacks, and security techniques"
+                ],
+                "call_to_action": "Access course"
+            },
+            {
+                "name": "Introduction to Cyber Security",
+                "provider": "FutureLearn",
+                "duration": "8 weeks, 3 hours a week",
+                "format": "Free Online Course (Audit)",
+                "rating": "22 reviews",
+                "key_features": [
+                    "Provides essential cyber security knowledge and skills",
+                    "Aims to help protect digital life"
+                ],
+                "call_to_action": "Sign up"
+            },
+            {
+                "name": "Hash, Hack, Code - Emerging Trends in Cyber Security",
+                "provider": "YouTube",
+                "duration": "49 minutes",
+                "format": "Free Online Course",
+                "rating": "7 reviews",
+                "key_features": [
+                    "Explores new approaches to emerging trends in cyber security",
+                    "Focuses on protecting networks and preventing harmful viruses and threats"
+                ],
+                "call_to_action": "Watch now"
+            },
+            {
+                "name": "Privacy Law and Data Protection",
+                "provider": "Coursera",
+                "duration": "12 hours",
+                "format": "Free Online Course (Audit)",
+                "rating": "700 ratings",
+                "key_features": [
+                    "Explores practical aspects of privacy laws and data protection",
+                    "Covers compliance and safeguarding information"
+                ],
+                "call_to_action": "Sign up"
+            },
+            {
+                "name": "Stanford Seminar - How Not to Generate Random Numbers",
+                "provider": "YouTube",
+                "duration": "1 hour 13 minutes",
+                "format": "Free Online Course",
+                "rating": "1 review",
+                "key_features": [
+                    "Explores the pitfalls of random number generation",
+                    "Covers RSA, Diffie-Hellman, and Linux generators"
+                ],
+                "call_to_action": "Watch now"
+            },
+            {
+                "name": "Cyber Security Fundamentals",
+                "provider": "Coursera",
+                "duration": "22 hours",
+                "format": "Free Online Course (Audit)",
+                "rating": "129 ratings",
+                "key_features": [
+                    "Explores key concepts in cyber security",
+                    "Covers threat types, security mechanisms, cryptography, and organizational security management"
+                ],
+                "call_to_action": "Sign up"
+            },
+            {
+                "name": "Cybersecurity and Its Ten Domains",
+                "provider": "Coursera",
+                "duration": "24 hours",
+                "format": "Free Online Course (Audit)",
+                "rating": "9 reviews",
+                "key_features": [
+                    "Explores the field of cybersecurity",
+                    "Covers risk management, cryptography, and network security"
+                ],
+                "call_to_action": "Sign up"
+            },
+            {
+                "name": "Networking and Security Architecture with VMware NSX",
+                "provider": "Coursera",
+                "duration": "20 hours",
+                "format": "Free Online Course (Audit)",
+                "rating": "445 ratings",
+                "key_features": [
+                    "Covers basics of network virtualization with VMware NSX",
+                    "Includes hands-on experience and a learning plan for certification"
+                ],
+                "call_to_action": "Sign up"
+            },
+            {
+                "name": "Principles of Secure Coding",
+                "provider": "Coursera",
+                "duration": "16 hours",
+                "format": "Free Online Course (Audit)",
+                "rating": "336 ratings",
+                "key_features": [
+                    "Explores secure programming principles",
+                    "Covers robust coding, common programming issues, and design principles"
+                ],
+                "call_to_action": "Sign up"
+            },
+            {
+                "name": "Cybersecurity",
+                "provider": "University of Maryland",
+                "duration": "35 weeks, 2 hours a week",
+                "format": "Paid Course",
+                "rating": "2 reviews",
+                "key_features": [
+                    "Focuses on building secure systems with a focus on hardware, software, and human-computer interface",
+                    "Includes hands-on exercises"
+                ],
+                "call_to_action": "Sign up"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.techtarget.com": {
+        "courses": [
+            {
+                "name": "TryHackMe",
+                "type": "Free",
+                "usecases": "Training for offensive and defensive security, Capture the Flag exercises, Linux, network security, web hacking, Windows fundamentals, cryptography, shells, privilege escalation, basic computer exploitation",
+                "solutions": "Content for people new to cybersecurity, covering a broad range of topics",
+                "key_features": "Four levels of content available, including modules on various cybersecurity topics"
+            },
+            {
+                "name": "Hack The Box",
+                "type": "Free and Paid",
+                "usecases": "Live training area for offensive security, retired and active boxes for practice, intentionally vulnerable platforms",
+                "solutions": "Training for offensive security, practice of skills without harming systems in production",
+                "key_features": "Retired and active boxes, intentionally vulnerable platforms"
+            },
+            {
+                "name": "Bugcrowd University",
+                "type": "Free",
+                "usecases": "Leveling up bug bounty skills, developing a wider talent pool in the bug bounty field, finding critical and prevalent bugs",
+                "solutions": "Community resource for bug bounty skills development",
+                "key_features": "Approachable content, modules for bug hunting, slides, videos, labs"
+            },
+            {
+                "name": "SANS Cyber Aces Online",
+                "type": "Free",
+                "usecases": "Unlocking security basics, self-paced courses on OSes, networking, system administration",
+                "solutions": "Philanthropic organization offering security basics training",
+                "key_features": "Self-paced courses, tutorials, videos"
+            },
+            {
+                "name": "Federal Virtual Training Environment",
+                "type": "Free",
+                "usecases": "Training on ethical hacking, surveillance, risk management, malware analysis, IT certifications",
+                "solutions": "Offering cybersecurity courses online at no charge for federal government personnel and veterans",
+                "key_features": "More than 800 hours of training, aligns with IT certifications"
+            },
+            {
+                "name": "Pentester Academy",
+                "type": "Paid",
+                "usecases": "Interactive labs and courses on technical cybersecurity topics",
+                "solutions": "Broad array of technical cybersecurity courses online",
+                "key_features": "Dozens of interactive labs and courses"
+            },
+            {
+                "name": "Cybersecurity for Managers",
+                "type": "Paid",
+                "usecases": "Building a cyber-resilient and cyber-aware organization, understanding cybersecurity risk management, managing cybersecurity",
+                "solutions": "MIT offering for business leaders, managers, executives, and consultants",
+                "key_features": "Frameworks for cybersecurity risk management, practical interpretation of tradeoffs between security and privacy"
+            },
+            {
+                "name": "Cybrary Insider Pro",
+                "type": "Paid",
+                "usecases": "Advancing careers, preparing for exams, earning certifications, improving cyber awareness",
+                "solutions": "Professional development for working professionals and newcomers",
+                "key_features": "Tools and online cyber community for career advancement"
+            },
+            {
+                "name": "Western Governors University",
+                "type": "Paid",
+                "usecases": "Master's degree program for cybersecurity professionals, flexible, self-paced online course",
+                "solutions": "Master of Science in Cybersecurity and Information Assurance",
+                "key_features": "Aligned with NIST's National Initiative for Cybersecurity Education, meets DHS and NSA guidelines"
+            },
+            {
+                "name": "University of Maryland Global Campus",
+                "type": "Paid",
+                "usecases": "Preparing for EC-Council CEH and CompTIA CySA+ certifications",
+                "solutions": "Courses for beginners and working professionals",
+                "key_features": "Based on official EC-Council curriculum, hands-on labs and practice tests"
+            },
+            {
+                "name": "Fullstack Academy",
+                "type": "Paid",
+                "usecases": "Engaging in various in-demand cybersecurity applications, learning fundamentals of cybersecurity",
+                "solutions": "Cybersecurity Analytics Bootcamp with extensive curriculum, labs, and group exercises",
+                "key_features": "Full-time and part-time schedules, logic-based assessment for entrance decision"
+            },
+            {
+                "name": "NSA Center of Academic Excellence in Cybersecurity",
+                "type": "Paid",
+                "usecases": "Deeply technical, interdisciplinary, higher education courses in cybersecurity",
+                "solutions": "Certified programs by the NSA, hands-on applications via labs and exercises",
+                "key_features": "Concentrations in Cyber Defense Education and Cyber Research"
+            }
+        ]
+    },
+    "www.cybrary.it": {
+        "products": [
+            {
+                "name": "Cybrary",
+                "call_to_action": "Sign up",
+                "usecases": [
+                    "Curated career paths",
+                    "Threat-informed training",
+                    "Certification preparation"
+                ],
+                "solutions": "Accessible, affordable training platform",
+                "key_features": [
+                    "Curated career paths",
+                    "Certification preparation",
+                    "Threat-informed training",
+                    "Hands-on practice labs",
+                    "Assessments"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "alison.com": {
+        "Alison": {
+            "call_to_action": "Explore Courses",
+            "usecases": [
+                "Individuals enhancing digital literacy",
+                "E-commerce professionals seeking cybersecurity basics",
+                "Network security professionals",
+                "Cloud infrastructure services professionals"
+            ],
+            "solutions": "Free cybersecurity training courses catering to various skill levels and professional needs",
+            "key_features": {
+                "number_of_courses": 56,
+                "number_of_learners": 1062952,
+                "number_of_certificates_diplomas_earned": 132096
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.udacity.com": {
+        "cybersecurity_courses": {
+            "name": "The School Of Cybersecurity",
+            "description": "Build expertise in security analysis, security engineering, enterprise security, security architecture, ethical hacking, and data privacy. With the skills you learn in our cybersecurity courses, you can launch or advance a successful career in the field.",
+            "in_demand_skill_sets": [
+                "Security Analyst",
+                "Security Engineer",
+                "Security Architect",
+                "Ethical Hacker"
+            ],
+            "steps_to_become_security_analyst": "Cybersecurity training helps learners identify, correct, and respond to security weaknesses and incidents through open-ended projects that mimic workplace security challenges. Plus, get hands-on experience monitoring network traffic, analyzing alert and log data, and following incident handling procedures.",
+            "cybersecurity_across_industries": {
+                "Finance": "Banks, financial institutions, and payment processors deal with vast amounts of sensitive financial data. It\u2019s important to invest heavily in cybersecurity measures to protect customer information, prevent fraud, and ensure secure financial transactions.",
+                "Retail": "Retailers and e-commerce businesses store customer payment information, personal data, and order details. Cybersecurity is crucial to safeguard customer data, prevent breaches, and maintain consumer trust.",
+                "Technology": "Technology companies and software providers rely on robust cybersecurity measures to protect their intellectual property, source code, and customer data. Technology companies are often prime targets for cyberattacks due to the value of the information they possess, making the best cybersecurity practices necessary.",
+                "Defense": "Government agencies and defense organizations handle sensitive classified information and must protect national security interests. Robust cybersecurity measures are crucial to safeguard critical infrastructure, defense systems, and government networks."
+            },
+            "programs_co_created_with_leaders": "Programs co-created with cybersecurity leaders.",
+            "call_to_action": "View Programs",
+            "usecases": "To launch or advance a successful career in cybersecurity.",
+            "solutions": "Expertise in security analysis, security engineering, enterprise security, security architecture, ethical hacking, and data privacy.",
+            "key_features": "Hands-on experience, open-ended projects, monitoring network traffic, analyzing alert and log data, incident handling procedures"
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.wgu.edu": {
+        "cyber_security_courses": [
+            {
+                "course_name": "Online Cybersecurity and Information Assurance Degree",
+                "call_to_action": "Apply Now",
+                "usecases": [
+                    "Preparation for fighting cybercrime",
+                    "Outsmarting cybercriminals",
+                    "Front line support for governments and organizations"
+                ],
+                "solutions": [
+                    "Solid background in IT security principles",
+                    "Preparation for DHS and NSA guidelines",
+                    "15 top certifications built into the program"
+                ],
+                "key_features": [
+                    "Secure Systems Analysis & Design",
+                    "Data Management",
+                    "Web and Cloud Security",
+                    "Hacking Countermeasures and Techniques",
+                    "Digital Forensics and Incident Response"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "B.S. Cybersecurity and Information Assurance": {
+                    "tuition": "$4,265",
+                    "fees": "$200"
+                },
+                "B.S. Cloud Computing, Computer Science, and Software Engineering": {
+                    "tuition": "$3,985",
+                    "fees": "$200"
+                },
+                "B.S. Information Technology": {
+                    "tuition": "$3,625",
+                    "fees": "$200"
+                },
+                "B.S. Data Analytics and Network Engineering and Security": {
+                    "tuition": "$3,735",
+                    "fees": "$200"
+                },
+                "Accelerated Information Technology Bachelor's and Master's Degree": {
+                    "Undergraduate Tuition": "$3,735",
+                    "Graduate Tuition": "$3,940",
+                    "fees": "$200"
+                },
+                "M.S. Cybersecurity and Information Assurance": {
+                    "tuition": "$4,555",
+                    "fees": "$200"
+                },
+                "M.S. Data Analytics": {
+                    "tuition": "$4,055",
+                    "fees": "$200"
+                },
+                "M.S. IT Management": {
+                    "tuition": "$3,940",
+                    "fees": "$200"
+                }
+            },
+            "businessModel": "Online education, flat-rate tuition, competency-based learning"
+        }
+    },
+    "ine.com": {
+        "INE": {
+            "call_to_action": "Request Information",
+            "usecases": [
+                "Individuals seeking cyber security training",
+                "Teams looking to upskill in cyber security",
+                "Businesses wanting to train their employees in cyber security"
+            ],
+            "solutions": "Cybersecurity Online Training & Certification Courses for Teams and Individuals",
+            "key_features": {
+                "Expert Instruction": "Industry experts as instructors",
+                "Hands-On Labs": "Advanced lab exercises available",
+                "Learning Paths": "Guided paths for red and blue team subjects",
+                "Career Opportunities": "Information on potential cybersecurity career paths and salaries",
+                "Certifications": "Offering certifications such as CompTIA Security+"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "pricingStructure": "New pricing structure with access to all training verticals at a lower price point and a new monthly subscription option.",
+                "upgradeOptions": "Existing subscribers can upgrade their current plan to receive full access to the entire library and receive a credit for the price difference to be used for future renewal.",
+                "newSubscribersOptions": "New subscribers have access to new subscription options."
+            }
+        }
+    },
+    "www.cyberdegrees.org": {
+        "courses": [
+            {
+                "course_name": "CISSP\u00ae Introduction to Information Security",
+                "provider": "Simplilearn",
+                "duration": "12 hours",
+                "topics_covered": [
+                    "Security and risk management",
+                    "Asset security architecture and design",
+                    "Cryptography OSI and TCPIP models",
+                    "IP addresses",
+                    "Network security",
+                    "Identity and access management",
+                    "Security assessment and testing",
+                    "Software development security"
+                ]
+            },
+            {
+                "course_name": "Cybersecurity Basics",
+                "provider": "IBM / edX",
+                "duration": "16-32 hours",
+                "topics_covered": [
+                    "Key cybersecurity terms",
+                    "Penetration testing basics",
+                    "Cryptography",
+                    "Firewalls",
+                    "Social engineering",
+                    "Attack models"
+                ]
+            },
+            {
+                "course_name": "Introduction to Cyber Attacks",
+                "provider": "New York University / Coursera",
+                "duration": "19 hours",
+                "topics_covered": [
+                    "Cybersecurity",
+                    "Information security",
+                    "Denial-of-service attacks",
+                    "Risk assessment"
+                ]
+            },
+            {
+                "course_name": "Cyberattack Countermeasures",
+                "provider": "New York University / Coursera",
+                "duration": "19 hours",
+                "topics_covered": [
+                    "Cybersecurity",
+                    "Cryptography",
+                    "Public-key cryptography"
+                ]
+            },
+            {
+                "course_name": "Real-Time Cyber Threat Detection and Mitigation",
+                "provider": "New York University / Coursera",
+                "duration": "15 hours",
+                "topics_covered": [
+                    "Basic network security",
+                    "Security architecture",
+                    "Enterprise network security"
+                ]
+            },
+            {
+                "course_name": "Enterprise and Infrastructure Security",
+                "provider": "New York University / Coursera",
+                "duration": "15 hours",
+                "topics_covered": [
+                    "Hybrid cloud security",
+                    "Blockchain, anonymity, and critical infrastructure protection",
+                    "Mobility security and deception"
+                ]
+            },
+            {
+                "course_name": "Penetration Testing - Discovering Vulnerabilities",
+                "provider": "New York University / edX",
+                "duration": "40-50 hours",
+                "topics_covered": [
+                    "Penetration testing",
+                    "Identifying potential target systems",
+                    "Identifying possible entry points into a tested system",
+                    "Configuring vulnerability scanners and analyzing their results"
+                ]
+            },
+            {
+                "course_name": "Computer Forensics",
+                "provider": "Rochester Institute of Technology / edX",
+                "duration": "80-96 hours",
+                "topics_covered": [
+                    "Legal validity of investigative procedures",
+                    "Windows and Unix/Linux file systems and their recovery processes",
+                    "Forensics tools and system images",
+                    "Forensics reporting and reviewing"
+                ]
+            },
+            {
+                "course_name": "Building a Cybersecurity Toolkit",
+                "provider": "University of Washington / edX",
+                "duration": "12-30 hours",
+                "topics_covered": [
+                    "Cybersecurity tools and skills",
+                    "Knowing the proper tools for common security scenarios",
+                    "Applying knowledge of toolkits to various cybersecurity roles"
+                ]
+            },
+            {
+                "course_name": "Introduction to Cybercrime",
+                "provider": "Simplilearn",
+                "duration": "2 hours",
+                "topics_covered": [
+                    "Identifying cyberattacks",
+                    "Preventing cybercrime"
+                ]
+            },
+            {
+                "course_name": "Cloud Security Basics",
+                "provider": "University of Minnesota / Coursera",
+                "duration": "13 hours",
+                "topics_covered": [
+                    "Network cryptography",
+                    "Network security",
+                    "Cloud computing security",
+                    "Cybersecurity",
+                    "Common vulnerability scoring system"
+                ]
+            },
+            {
+                "course_name": "Managing Cybersecurity Incidents and Disasters",
+                "provider": "University System of Georgia / Coursera",
+                "duration": "15 hours",
+                "topics_covered": [
+                    "Cybersecurity contingency planning",
+                    "Incident response",
+                    "Disaster recovery",
+                    "Contingency and continuity strategies"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found"
+        }
+    },
+    "academy.hackthebox.com": {
+        "cyber_security_courses": {
+            "HTB_CWEE_Certified_Web_Exploitation_Expert": {
+                "call_to_action": "Start for Free",
+                "usecases": [
+                    "Developing skills with guided training",
+                    "Proving expertise with industry certifications",
+                    "Becoming a market-ready cybersecurity professional"
+                ],
+                "solutions": [
+                    "Threat-informed training approach",
+                    "Real-world examples",
+                    "Skills assessment exercises",
+                    "Discord-based guidance",
+                    "In-browser pentesting VM (Pwnbox) for practice",
+                    "Interactive exercises against real-world applications and infrastructure",
+                    "Industry-recognized certifications",
+                    "Realistic examinations mimicking real engagements",
+                    "On-demand access from everywhere",
+                    "Lifetime access to completed courses",
+                    "Acquiring job or skill proficiency",
+                    "Developing an outside-the-box thinking mentality"
+                ],
+                "key_features": {
+                    "certifications": true,
+                    "guided_courses": true,
+                    "in-browser_pentesting_VM": true,
+                    "real-world_exercises": true,
+                    "industry_recognized_certifications": true,
+                    "on-demand_access": true,
+                    "job_skill_paths": true
+                }
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www.pluralsight.com": {
+        "Pluralsight": {
+            "call_to_action": "Start a Free 10-Day Trial",
+            "usecases": "Empower entire organization to safeguard against cyber security threats, protect data and intellectual property, prevent information disclosure and malicious cyber attacks",
+            "solutions": "Cyber security courses covering penetration testing, digital forensics, malware analysis, and security fundamentals",
+            "key_features": {
+                "Courses": true,
+                "Skill assessments": true,
+                "Learning paths": true,
+                "Hands on learning": true,
+                "ILT/VILT": false,
+                "Analytics": false,
+                "Certification prep": true,
+                "Labs": false
+            }
+        },
+        "pricesAndPlans": {
+            "status": "success",
+            "priceAndPlans": {
+                "Pluralsight": {
+                    "price": "Not found",
+                    "plan": "Not found"
+                },
+                "A Cloud Guru": {
+                    "price": "Not found",
+                    "plan": "Not found"
+                },
+                "Flow": {
+                    "price": "Not found",
+                    "plan": "Not found"
+                }
+            }
+        }
+    },
+    "www.skillsoft.com": {
+        "Skillsoft": {
+            "call_to_action": "Request A Demo",
+            "usecases": [
+                "Cybersecurity training and certification preparation"
+            ],
+            "solutions": "Skillsoft offers a wide range of cybersecurity courses and certification preparation programs.",
+            "key_features": "Immersive, engaging content in a variety of formats, intelligent learning platform, custom learning paths, Aspire Journeys, live learning options"
+        }
+    }
+}

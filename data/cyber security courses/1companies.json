@@ -27,21 +27,24 @@
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "edX:  Cybersecurity",
-        "priceAndPlansCrawled": "https://www.edx.org/boot-camps/coding/coding-boot-camp-cost"
+        "priceAndPlansCrawled": "https://www.edx.org/boot-camps/coding/coding-boot-camp-cost",
+        "5prompt_Hash": "6caa299a9783e78ecac9aaecd76debda"
     },
     "www.classcentral.com": {
         "url": "https://www.classcentral.com",
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "ClassCentral:  Cybersecurity courses and certifications",
-        "priceAndPlansCrawled": "https://www.classcentral.com/course/linkedin-learning-pricing-strategy-explained-31069"
+        "priceAndPlansCrawled": "https://www.classcentral.com/course/linkedin-learning-pricing-strategy-explained-31069",
+        "5prompt_Hash": "6caa299a9783e78ecac9aaecd76debda"
     },
     "www.techtarget.com": {
         "url": "https://www.techtarget.com",
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "TechTarget:  Top 12 online cybersecurity courses for 2024",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "6caa299a9783e78ecac9aaecd76debda"
     },
     "www.netacad.com": {
         "url": "https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity",
@@ -64,7 +67,8 @@
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "Cybrary:  Insider Pro",
-        "priceAndPlansCrawled": "https://www.cybrary.it/blog/the-cost-of-cissp-training"
+        "priceAndPlansCrawled": "https://www.cybrary.it/blog/the-cost-of-cissp-training",
+        "5prompt_Hash": "6caa299a9783e78ecac9aaecd76debda"
     },
     "online.stanford.edu": {
         "url": "https://online.stanford.edu/programs/advanced-cybersecurity-program",
@@ -75,28 +79,32 @@
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "Alison:  Free Online Cyber Security Courses",
-        "priceAndPlansCrawled": "https://alison.com/faqs/certificates-and-payments/payment-options/how-much-does-an-alison-certificate-or-diploma-cost"
+        "priceAndPlansCrawled": "https://alison.com/faqs/certificates-and-payments/payment-options/how-much-does-an-alison-certificate-or-diploma-cost",
+        "5prompt_Hash": "6caa299a9783e78ecac9aaecd76debda"
     },
     "www.udacity.com": {
         "url": "https://www.udacity.com",
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "Udacity:  Cybersecurity",
-        "priceAndPlansCrawled": "https://www.udacity.com/enterprise/plans"
+        "priceAndPlansCrawled": "https://www.udacity.com/enterprise/plans",
+        "5prompt_Hash": "6caa299a9783e78ecac9aaecd76debda"
     },
     "www.wgu.edu": {
         "url": "https://www.wgu.edu",
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "WGU:  Online Cybersecurity and Information Assurance Bachelor's Degree",
-        "priceAndPlansCrawled": "https://www.wgu.edu/financial-aid-tuition/tuition-it-degrees.html"
+        "priceAndPlansCrawled": "https://www.wgu.edu/financial-aid-tuition/tuition-it-degrees.html",
+        "5prompt_Hash": "6caa299a9783e78ecac9aaecd76debda"
     },
     "ine.com": {
         "url": "https://ine.com",
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "INE:  Cybersecurity Online Training & Certification Courses",
-        "priceAndPlansCrawled": "https://ine.com/blog/new-training-options-now-available-from-ine"
+        "priceAndPlansCrawled": "https://ine.com/blog/new-training-options-now-available-from-ine",
+        "5prompt_Hash": "6caa299a9783e78ecac9aaecd76debda"
     },
     "www.isc2.org": {
         "url": "https://www.isc2.org/landing/1mcc",
@@ -115,14 +123,16 @@
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "CyberDegrees.org:  Best Online Cybersecurity Bachelor's Degrees",
-        "priceAndPlansCrawled": "https://www.cyberdegrees.org/listings/certificate-programs/"
+        "priceAndPlansCrawled": "https://www.cyberdegrees.org/listings/certificate-programs/",
+        "5prompt_Hash": "6caa299a9783e78ecac9aaecd76debda"
     },
     "academy.hackthebox.com": {
         "url": "https://academy.hackthebox.com",
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "HackTheBox:  HTB Academy",
-        "priceAndPlansCrawled": "https://academy.hackthebox.com/news/access-a-new-job-role-path-with-a-gold-annual-plan"
+        "priceAndPlansCrawled": "https://academy.hackthebox.com/news/access-a-new-job-role-path-with-a-gold-annual-plan",
+        "5prompt_Hash": "6caa299a9783e78ecac9aaecd76debda"
     },
     "www.uhd.edu": {
         "url": "https://www.uhd.edu/academics/continuing-education/it-online-courses/cybersecurityonlinecourses.aspx",
@@ -133,7 +143,8 @@
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "Pluralsight:  Cyber security courses",
-        "priceAndPlansCrawled": "https://www.pluralsight.com/pricing"
+        "priceAndPlansCrawled": "https://www.pluralsight.com/pricing",
+        "5prompt_Hash": "6caa299a9783e78ecac9aaecd76debda"
     },
     "www.snhu.edu": {
         "url": "https://www.snhu.edu/online-degrees/classes/cyber-security-foundations",
@@ -144,7 +155,8 @@
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "Skillsoft:  Cybersecurity courses",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "6caa299a9783e78ecac9aaecd76debda"
     },
     "www.fortinet.com": {
         "url": "https://www.fortinet.com/training/cybersecurity-professionals",

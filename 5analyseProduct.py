@@ -109,7 +109,8 @@ def get_company_details(company):
     ]
     start = time.time()
     print(SMART_GPTV)
-    response = openai.ChatCompletion.create(
+    try:
+        response = openai.ChatCompletion.create(
             temperature=0,
             model=SMART_GPTV,  # Update this to the model you're using
             response_format={ "type": "json_object" },
@@ -119,10 +120,13 @@ def get_company_details(company):
             ]
         )
 
-    if response['choices'][0]['message']['content']:
-        json1 = json.loads(response['choices'][0]['message']['content'])
-    else:
-        json1 = "Not found"
+        if response['choices'][0]['message']['content']:
+            json1 = json.loads(response['choices'][0]['message']['content'])
+        else:
+            json1 = "Not found"
+    except Exception as e:
+        print(f"Failed to get response from ChatCompletion: {e}")
+        json1 = None
     end = time.time()
     print("Time to get response1: "+str(end - start))
     print("analyse prices")
@@ -149,7 +153,7 @@ def get_company_details(company):
             #add prices and plans
             json1['pricesAndPlans'] = json2
         except Exception as e:
-            print(f"Failed to decode JSON for response: {e}")
+            print(f"Failed get_company_details() to decode JSON for response: {e}")
             return None
     else:
         print("No prices and plans found")
