@@ -144,46 +144,55 @@
     "simplilearn.com": {
         "url": "simplilearn.com",
         "cached_url": "not found",
-        "sourcekeyword": "Simplilearn:  Caltech Cybersecurity Bootcamp"
+        "sourcekeyword": "Simplilearn:  Caltech Cybersecurity Bootcamp",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.usg.edu": {
         "url": "https://www.usg.edu",
         "cached_url": "not found",
-        "sourcekeyword": "University System of Georgia:  Managing Cybersecurity Incidents and Disasters"
+        "sourcekeyword": "University System of Georgia:  Managing Cybersecurity Incidents and Disasters",
+        "nature": "list of projects"
     },
     "www.rit.edu": {
         "url": "https://www.rit.edu",
         "cached_url": "not found",
-        "sourcekeyword": "Rochester Institute of Technology:  Computer Forensics"
+        "sourcekeyword": "Rochester Institute of Technology:  Computer Forensics",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of selling cyber security courses online with a focus on understanding keyword ranking strategies."
     },
     "www.cyber.umd.edu": {
         "url": "https://www.cyber.umd.edu/",
         "cached_url": "not found",
-        "sourcekeyword": "University of Maryland College Park:  Cybersecurity for Everyone"
+        "sourcekeyword": "University of Maryland College Park:  Cybersecurity for Everyone",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.washington.edu": {
         "url": "https://www.washington.edu",
         "cached_url": "not found",
-        "sourcekeyword": "University of Washington:  Building a Cybersecurity Toolkit"
+        "sourcekeyword": "University of Washington:  Building a Cybersecurity Toolkit",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of selling cyber security courses online with a focus on understanding keyword ranking strategies."
     },
     "devry.edu": {
         "url": "devry.edu",
         "cached_url": "not found",
-        "sourcekeyword": "DeVry University:  Online Undergraduate Certificate in Cyber Security"
+        "sourcekeyword": "DeVry University:  Online Undergraduate Certificate in Cyber Security",
+        "nature": "Invalid: The URL provided seems to be invalid or protected by a DDOS protection screen."
     },
     "twin-cities.umn.edu": {
         "url": "https://twin-cities.umn.edu",
         "cached_url": "not found",
-        "sourcekeyword": "University of Minnesota:  Cloud Security Basics"
+        "sourcekeyword": "University of Minnesota:  Cloud Security Basics",
+        "nature": "list of projects"
     },
     "www.nyu.edu": {
         "url": "https://www.nyu.edu",
         "cached_url": "not found",
-        "sourcekeyword": "New York University:  Introduction to Cyber Security"
+        "sourcekeyword": "New York University:  Introduction to Cyber Security",
+        "nature": "list of projects"
     },
     "london.ac.uk": {
         "url": "https://london.ac.uk",
         "cached_url": "not found",
-        "sourcekeyword": "University of London:  Master of Science in Cyber Security"
+        "sourcekeyword": "University of London:  Master of Science in Cyber Security",
+        "nature": "list of projects"
     }
 }
