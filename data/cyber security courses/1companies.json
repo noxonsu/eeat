@@ -1,89 +1,118 @@
 {
     "www.coursera.org": {
-        "url": "https://www.coursera.org/courses?query=cybersecurity"
+        "url": "https://www.coursera.org/courses?query=cybersecurity",
+        "nature": "list of projects"
     },
     "www.udemy.com": {
-        "url": "https://www.udemy.com/topic/cyber-security/"
+        "url": "https://www.udemy.com/topic/cyber-security/",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.simplilearn.com": {
-        "url": "https://www.simplilearn.com/cyber-security"
+        "url": "https://www.simplilearn.com/cyber-security",
+        "nature": "list of projects"
     },
     "grow.google": {
-        "url": "https://grow.google/certificates/cybersecurity/"
+        "url": "https://grow.google/certificates/cybersecurity/",
+        "nature": "list of projects"
     },
     "www.sans.org": {
-        "url": "https://www.sans.org/"
+        "url": "https://www.sans.org/",
+        "nature": "list of projects"
     },
     "www.edx.org": {
-        "url": "https://www.edx.org/learn/cybersecurity"
+        "url": "https://www.edx.org/learn/cybersecurity",
+        "nature": "list of projects"
     },
     "www.classcentral.com": {
-        "url": "https://www.classcentral.com/subject/cybersecurity"
+        "url": "https://www.classcentral.com/subject/cybersecurity",
+        "nature": "list of projects"
     },
     "www.techtarget.com": {
-        "url": "https://www.techtarget.com/searchsecurity/tip/Top-10-cybersecurity-online-courses"
+        "url": "https://www.techtarget.com/searchsecurity/tip/Top-10-cybersecurity-online-courses",
+        "nature": "list of projects"
     },
     "www.netacad.com": {
-        "url": "https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity"
+        "url": "https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity",
+        "nature": "list of projects"
     },
     "www.codecademy.com": {
-        "url": "https://www.codecademy.com/catalog/subject/cybersecurity"
+        "url": "https://www.codecademy.com/catalog/subject/cybersecurity",
+        "nature": "list of projects"
     },
     "www.comparitech.com": {
-        "url": "https://www.comparitech.com/blog/information-security/cybersecurity-course-online/"
+        "url": "https://www.comparitech.com/blog/information-security/cybersecurity-course-online/",
+        "nature": "list of projects"
     },
     "www.eccouncil.org": {
-        "url": "https://www.eccouncil.org/"
+        "url": "https://www.eccouncil.org/",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of selling cyber security courses online with a focus on understanding keyword ranking strategies."
     },
     "www.cybrary.it": {
-        "url": "https://www.cybrary.it/"
+        "url": "https://www.cybrary.it/",
+        "nature": "list of projects"
     },
     "online.stanford.edu": {
-        "url": "https://online.stanford.edu/programs/advanced-cybersecurity-program"
+        "url": "https://online.stanford.edu/programs/advanced-cybersecurity-program",
+        "nature": "Invalid:DDOS protection screen"
     },
     "alison.com": {
-        "url": "https://alison.com/tag/cyber-security"
+        "url": "https://alison.com/tag/cyber-security",
+        "nature": "list of projects"
     },
     "www.udacity.com": {
-        "url": "https://www.udacity.com/school/cybersecurity"
+        "url": "https://www.udacity.com/school/cybersecurity",
+        "nature": "list of projects"
     },
     "www.wgu.edu": {
-        "url": "https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html"
+        "url": "https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html",
+        "nature": "list of projects"
     },
     "ine.com": {
-        "url": "https://ine.com/learning/areas/cyber-security"
+        "url": "https://ine.com/learning/areas/cyber-security",
+        "nature": "list of projects"
     },
     "www.isc2.org": {
-        "url": "https://www.isc2.org/landing/1mcc"
+        "url": "https://www.isc2.org/landing/1mcc",
+        "nature": "Invalid: This model's maximum context length is 16385 tokens. However, your messages resulted in 44627 tokens. Please reduce the length of the messages."
     },
     "skillsbuild.org": {
-        "url": "https://skillsbuild.org/students/course-catalog/cybersecurity"
+        "url": "https://skillsbuild.org/students/course-catalog/cybersecurity",
+        "nature": "list of projects"
     },
     "niccs.cisa.gov": {
-        "url": "https://niccs.cisa.gov/education-training/federal-virtual-training-environment-fedvte"
+        "url": "https://niccs.cisa.gov/education-training/federal-virtual-training-environment-fedvte",
+        "nature": "list of projects"
     },
     "www.cyberdegrees.org": {
-        "url": "https://www.cyberdegrees.org/resources/free-online-courses/"
+        "url": "https://www.cyberdegrees.org/resources/free-online-courses/",
+        "nature": "list of projects"
     },
     "academy.hackthebox.com": {
-        "url": "https://academy.hackthebox.com/"
+        "url": "https://academy.hackthebox.com/",
+        "nature": "list of projects"
     },
     "www.uhd.edu": {
-        "url": "https://www.uhd.edu/academics/continuing-education/it-online-courses/cybersecurityonlinecourses.aspx"
+        "url": "https://www.uhd.edu/academics/continuing-education/it-online-courses/cybersecurityonlinecourses.aspx",
+        "nature": "list of projects"
     },
     "www.pluralsight.com": {
-        "url": "https://www.pluralsight.com/browse/information-cyber-security"
+        "url": "https://www.pluralsight.com/browse/information-cyber-security",
+        "nature": "list of projects"
     },
     "www.snhu.edu": {
-        "url": "https://www.snhu.edu/online-degrees/classes/cyber-security-foundations"
+        "url": "https://www.snhu.edu/online-degrees/classes/cyber-security-foundations",
+        "nature": "list of projects"
     },
     "www.skillsoft.com": {
-        "url": "https://www.skillsoft.com/subject/cybersecurity-bd97a900-2c23-11e7-83d1-dba0327abefc"
+        "url": "https://www.skillsoft.com/subject/cybersecurity-bd97a900-2c23-11e7-83d1-dba0327abefc",
+        "nature": "list of projects"
     },
     "www.fortinet.com": {
-        "url": "https://www.fortinet.com/training/cybersecurity-professionals"
+        "url": "https://www.fortinet.com/training/cybersecurity-professionals",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of selling cyber security courses online with a focus on understanding keyword ranking strategies."
     },
     "www.devry.edu": {
-        "url": "https://www.devry.edu/online-programs/undergraduate-certificates/cyber-security.html"
+        "url": "https://www.devry.edu/online-programs/undergraduate-certificates/cyber-security.html",
+        "nature": "list of projects"
     }
 }
