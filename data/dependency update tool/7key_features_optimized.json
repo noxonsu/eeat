@@ -1,0 +1,42 @@
+{
+    "title": "Optimized Key Features of Dependency Update Tool",
+    "intro": "This list represents the optimized key features of a dependency update tool. A total of 1 company was analyzed, gathering 24 features.",
+    "features": {
+        "Subscription Plans": {
+            "Premium Support": 1,
+            "Free forever": 1,
+            "$99/mo": 1,
+            "$29/mo": 1,
+            "$59/mo": 1,
+            "2 months free (12 for the price of 10)": 1
+        },
+        "Repository Management": {
+            "25 private repos": 1,
+            "5 private repos": 1,
+            "100 private repos": 1
+        },
+        "Functionality": {
+            "Automated notifications for new versions of dependencies": 1,
+            "Continuous updates to keep apps secure and maintainable": 1,
+            "Notification system for security releases": 1,
+            "Unlimited dependency updates": 1,
+            "Minimization of PRs by scheduling updates based on release frequency": 1,
+            "Automated pull requests for dependency updates": 1
+        },
+        "Integration": {
+            "Integration with existing workflows for seamless updating process": 1,
+            "For public and personal account repos": 1
+        },
+        "Payment Options": {
+            "All major credit cards": 1
+        },
+        "Availability": {
+            "21 days": 1,
+            "Available": 1
+        },
+        "Product Name": {
+            "Depfu": 1,
+            "Start using Depfu": 1
+        }
+    }
+}
