@@ -1,0 +1,14 @@
+{
+    "www.mend.io": {
+        "url": "https://www.mend.io/renovate/"
+    },
+    "www.dependencies.io": {
+        "url": "https://www.dependencies.io/"
+    },
+    "depfu.com": {
+        "url": "https://depfu.com/"
+    },
+    "docs.renovatebot.com": {
+        "url": "https://docs.renovatebot.com/"
+    }
+}
