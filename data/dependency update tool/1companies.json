@@ -8,8 +8,10 @@
         "nature": "Invalid (single). Invalid: The content does not mention seamless integration with existing development workflows, support for multiple programming languages, or timely notifications for available updates."
     },
     "depfu.com": {
-        "url": "https://depfu.com/",
-        "nature": "list of projects"
+        "url": "https://depfu.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Depfu:  Depfu"
     },
     "docs.renovatebot.com": {
         "url": "https://docs.renovatebot.com/",
