@@ -1,0 +1,66 @@
+{
+    "depfu.com": {
+        "product_name": "Depfu",
+        "call_to_action": "Start using Depfu",
+        "usecases": [
+            "Continuous updates to keep apps secure and maintainable",
+            "Automated notifications for new versions of dependencies",
+            "Integration with existing workflows for seamless updating process"
+        ],
+        "solutions": [
+            "Automated pull requests for dependency updates",
+            "Notification system for security releases",
+            "Minimization of PRs by scheduling updates based on release frequency"
+        ],
+        "key_features": {
+            "Automated Pull Requests": true,
+            "Security Release Notifications": true,
+            "Scheduling Updates": true,
+            "Integration with CI/CD Systems": false,
+            "Support for Multiple Programming Languages": false,
+            "Customizable Update Frequency": true
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "openSource": "Free forever",
+                "personal": {
+                    "free": {
+                        "description": "For public and personal account repos",
+                        "features": [
+                            "Unlimited dependency updates"
+                        ],
+                        "price": "Free"
+                    },
+                    "starter": {
+                        "description": "5 private repos",
+                        "features": [
+                            "Unlimited dependency updates"
+                        ],
+                        "price": "$29/mo"
+                    },
+                    "team": {
+                        "description": "25 private repos",
+                        "features": [
+                            "Unlimited dependency updates"
+                        ],
+                        "price": "$59/mo"
+                    },
+                    "business": {
+                        "description": "100 private repos",
+                        "features": [
+                            "Unlimited dependency updates",
+                            "Premium Support"
+                        ],
+                        "price": "$99/mo"
+                    },
+                    "trialPeriod": "21 days",
+                    "billingInfo": {
+                        "creditCards": "All major credit cards",
+                        "annualPaymentOption": "Available, 2 months free (12 for the price of 10)"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -12,7 +12,8 @@
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "Depfu:  Depfu",
-        "priceAndPlansCrawled": "https://depfu.com/pricing"
+        "priceAndPlansCrawled": "https://depfu.com/pricing",
+        "5prompt_Hash": "54bef1ceeb595a58ba6b2de3e702cb8c"
     },
     "docs.renovatebot.com": {
         "url": "https://docs.renovatebot.com/",
