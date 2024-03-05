@@ -1,14 +1,18 @@
 {
     "www.mend.io": {
-        "url": "https://www.mend.io/renovate/"
+        "url": "https://www.mend.io/renovate/",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.dependencies.io": {
-        "url": "https://www.dependencies.io/"
+        "url": "https://www.dependencies.io/",
+        "nature": "Invalid (single). Invalid: The content does not mention seamless integration with existing development workflows, support for multiple programming languages, or timely notifications for available updates."
     },
     "depfu.com": {
-        "url": "https://depfu.com/"
+        "url": "https://depfu.com/",
+        "nature": "list of projects"
     },
     "docs.renovatebot.com": {
-        "url": "https://docs.renovatebot.com/"
+        "url": "https://docs.renovatebot.com/",
+        "nature": "list of projects"
     }
 }
