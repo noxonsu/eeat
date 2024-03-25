@@ -1,0 +1,123 @@
+{
+    "title": "Optimized Online Shopping Features",
+    "intro": "This list represents an optimized set of product features gathered from analyzing 6 online shopping websites, totaling 114 features.",
+    "features": {
+        "Payment Methods": {
+            "title": "Payment Methods",
+            "features": [
+                "Multiple payment methods (3)",
+                "Various payment options (1)",
+                "Multiple payment options (1)",
+                "Secure payment gateway (1)",
+                "Secure payment options (1)"
+            ]
+        },
+        "Product Selection": {
+            "title": "Product Selection",
+            "features": [
+                "Wide product selection (1)",
+                "Large product selection (1)",
+                "Wide variety of fashion items available (1)",
+                "Variety of sizes available (1)"
+            ]
+        },
+        "Shipping and Delivery": {
+            "title": "Shipping and Delivery",
+            "features": [
+                "Free shipping options (1)",
+                "Same-day delivery (1)",
+                "Fast delivery services (1)",
+                "Convenient pickup and delivery options for online orders (1)"
+            ]
+        },
+        "Security": {
+            "title": "Security",
+            "features": [
+                "Secure connection verification process (1)",
+                "Secure online transactions (1)"
+            ]
+        },
+        "Promotions and Discounts": {
+            "title": "Promotions and Discounts",
+            "features": [
+                "Access to exclusive deals and discounts for Target Circle members (1)",
+                "Flash sales and promotions (1)",
+                "BOGO offers (1)",
+                "Vouchers and discounts (1)",
+                "30-day free returns (1)",
+                "Easy returns and exchanges (1)",
+                "Offers a wide range of categories including electronics (1)",
+                "Promotes savings through various deals such as discounts (1)",
+                "Gift card promotions (1)"
+            ]
+        },
+        "User Experience": {
+            "title": "User Experience",
+            "features": [
+                "Convenient shopping experience (1)",
+                "Clean (1)",
+                "Virtual dressing room feature (1)",
+                "Integrated chat function for communication (1)",
+                "User reviews and ratings (1)",
+                "Interactive shopping experience (1)",
+                "Engage in social e-commerce activities (1)",
+                "Utilizes online platforms for easy navigation (1)",
+                "Seamless checkout process (1)"
+            ]
+        },
+        "Brands and Collaborations": {
+            "title": "Brands and Collaborations",
+            "features": [
+                "Style influencer collaborations (1)",
+                "Exclusive brand partnerships (1)",
+                "Exclusive brand collaborations (1)",
+                "Access to international and local brands (1)",
+                "Branded collections (1)"
+            ]
+        },
+        "Fashion and Trends": {
+            "title": "Fashion and Trends",
+            "features": [
+                "Trendy and branded products (1)",
+                "Trendy clothing options (1)",
+                "Trendy clothing purchase (1)",
+                "Fashion e-commerce platform (1)",
+                "Fashion and lifestyle online shopping (1)",
+                "Fashion shopping (1)",
+                "Fashion editorials and style guides (1)",
+                "Discover new trends and styles (1)",
+                "Browse and purchase fashion items online (2)",
+                "Provides a wide range of fashion products for men (1)"
+            ]
+        },
+        "Special Features": {
+            "title": "Special Features",
+            "features": [
+                "Mobile marketplace for buying and selling (1)",
+                "Virtual dressing room feature (1)",
+                "Live streaming for product showcases (1)",
+                "Live streaming (1)",
+                "In-app games and promotions (2)",
+                "Shopee Coins rewards program (1)"
+            ]
+        },
+        "Customer Engagement": {
+            "title": "Customer Engagement",
+            "features": [
+                "Access to exclusive deals and discounts for Target Circle members (1)",
+                "Access to various sellers and brands (1)",
+                "Social shopping features (1)",
+                "Engage in social e-commerce activities (1)",
+                "In-app games and rewards (1)",
+                "Rewards for Target Circle members to enhance user engagement (1)"
+            ]
+        },
+        "Technical Features": {
+            "title": "Technical Features",
+            "features": [
+                "Utilizes Cloudflare for performance and security (1)",
+                "Utilizes online platforms for easy navigation (1)"
+            ]
+        }
+    }
+}
