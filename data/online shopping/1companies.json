@@ -1,110 +1,146 @@
 {
     "www.amazon.com": {
-        "url": "https://www.amazon.com/online-shopping/s?k=online+shopping"
+        "url": "https://www.amazon.com/online-shopping/s?k=online+shopping",
+        "nature": "Invalid: No specific content to analyze."
     },
     "www.asos.com": {
-        "url": "https://www.asos.com/us/"
+        "url": "https://www.asos.com/us/",
+        "nature": "Invalid:DDOS protection screen"
     },
     "shopping.google.com": {
-        "url": "https://shopping.google.com/"
+        "url": "https://shopping.google.com/",
+        "nature": "Invalid: No products or services mentioned in the text."
     },
     "www.forever21.com": {
-        "url": "https://www.forever21.com/"
+        "url": "https://www.forever21.com/",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.walmart.com": {
-        "url": "https://www.walmart.com/"
+        "url": "https://www.walmart.com/",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.target.com": {
-        "url": "https://www.target.com/"
+        "url": "https://www.target.com/",
+        "nature": "list of projects"
     },
     "www.nordstromrack.com": {
-        "url": "https://www.nordstromrack.com/"
+        "url": "https://www.nordstromrack.com/",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.ebay.com": {
-        "url": "https://www.ebay.com/"
+        "url": "https://www.ebay.com/",
+        "nature": "Invalid (single). Invalid: The content provided is from eBay's website and does not match the criteria specified for the research on the online shopping landscape in Malaysia."
     },
     "www.nordstrom.com": {
-        "url": "https://www.nordstrom.com/"
+        "url": "https://www.nordstrom.com/",
+        "nature": "Invalid: This appears to be a website link and does not contain any specific content to analyze."
     },
     "consumer.ftc.gov": {
-        "url": "https://consumer.ftc.gov/articles/online-shopping"
+        "url": "https://consumer.ftc.gov/articles/online-shopping",
+        "nature": "list of projects"
     },
     "www.saksfifthavenue.com": {
-        "url": "https://www.saksfifthavenue.com/"
+        "url": "https://www.saksfifthavenue.com/",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.bestbuy.com": {
-        "url": "https://www.bestbuy.com/"
+        "url": "https://www.bestbuy.com/",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.snapdeal.com": {
-        "url": "https://www.snapdeal.com/"
+        "url": "https://www.snapdeal.com/",
+        "nature": "Invalid: This model's maximum context length is 16385 tokens. However, your messages resulted in 19322 tokens. Please reduce the length of the messages."
     },
     "shop.app": {
-        "url": "https://shop.app/"
+        "url": "https://shop.app/",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.qvc.com": {
-        "url": "https://www.qvc.com/"
+        "url": "https://www.qvc.com/",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.wayfair.com": {
-        "url": "https://www.wayfair.com/"
+        "url": "https://www.wayfair.com/",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.urbanoutfitters.com": {
-        "url": "https://www.urbanoutfitters.com/"
+        "url": "https://www.urbanoutfitters.com/",
+        "nature": "Invalid: DDOS protection screen"
     },
     "stopandshop.com": {
-        "url": "https://stopandshop.com/"
+        "url": "https://stopandshop.com/",
+        "nature": "Invalid: DDOS protection screen"
     },
     "apps.apple.com": {
-        "url": "https://apps.apple.com/us/app/shein-shopping-online/id878577184"
+        "url": "https://apps.apple.com/us/app/shein-shopping-online/id878577184",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria provided."
     },
     "www.anthropologie.com": {
-        "url": "https://www.anthropologie.com/"
+        "url": "https://www.anthropologie.com/",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.homegoods.com": {
-        "url": "https://www.homegoods.com/"
+        "url": "https://www.homegoods.com/",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.ikea.com": {
-        "url": "https://www.ikea.com/us/en/"
+        "url": "https://www.ikea.com/us/en/",
+        "nature": "list of projects"
     },
     "www.kroger.com": {
-        "url": "https://www.kroger.com/"
+        "url": "https://www.kroger.com/",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.dillards.com": {
-        "url": "https://www.dillards.com/"
+        "url": "https://www.dillards.com/",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.hottopic.com": {
-        "url": "https://www.hottopic.com/"
+        "url": "https://www.hottopic.com/",
+        "nature": "Invalid (single). Invalid: The content provided does not match the criteria specified. The content is about Hot Topic merchandise and does not delve into the online shopping landscape in Malaysia or the competitive dynamics among platforms."
     },
     "www.rei.com": {
-        "url": "https://www.rei.com/"
+        "url": "https://www.rei.com/",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.gamestop.com": {
-        "url": "https://www.gamestop.com/"
+        "url": "https://www.gamestop.com/",
+        "nature": "Invalid:DDOS protection screen"
     },
     "play.google.com": {
-        "url": "https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping&hl=en_US&gl=US"
+        "url": "https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping&hl=en_US&gl=US",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria provided. The content is about the Amazon Shopping app and its features, ratings, reviews, and data safety information, but it does not delve into the competitive dynamics among platforms in the Malaysia market with a focus on product diversity, user engagement, pricing strategies, and technological advancements."
     },
     "www.apple.com": {
-        "url": "https://www.apple.com/store"
+        "url": "https://www.apple.com/store",
+        "nature": "Invalid (single). Invalid: The content is from the Apple Store website and does not match the criteria specified for the research on online shopping in the Malaysia market."
     },
     "influencermarketinghub.com": {
-        "url": "https://influencermarketinghub.com/best-online-shopping-sites/"
+        "url": "https://influencermarketinghub.com/best-online-shopping-sites/",
+        "nature": "list of projects"
     },
     "www.lowes.com": {
-        "url": "https://www.lowes.com/"
+        "url": "https://www.lowes.com/",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.flipkart.com": {
-        "url": "https://www.flipkart.com/"
+        "url": "https://www.flipkart.com/",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.macys.com": {
-        "url": "https://www.macys.com/"
+        "url": "https://www.macys.com/",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.kohls.com": {
-        "url": "https://www.kohls.com/"
+        "url": "https://www.kohls.com/",
+        "nature": "list of projects"
     },
     "www2.hm.com": {
-        "url": "https://www2.hm.com/en_us/index.html"
+        "url": "https://www2.hm.com/en_us/index.html",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.shop.com": {
-        "url": "https://www.shop.com/"
+        "url": "https://www.shop.com/",
+        "nature": "Invalid: DDOS protection screen"
     }
 }

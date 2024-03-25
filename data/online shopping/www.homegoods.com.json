@@ -1,0 +1,4 @@
+{
+    "summary": "Error: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.homegoods.com/\n=========================== logs =========================== navigating to\n\"https://www.homegoods.com/\", waiting until \"load\"\n============================================================\n\n",
+    "links": "[]"
+}
