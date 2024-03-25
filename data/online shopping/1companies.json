@@ -1,7 +1,9 @@
 {
     "www.amazon.com": {
-        "url": "https://www.amazon.com/online-shopping/s?k=online+shopping",
-        "nature": "Invalid: No specific content to analyze."
+        "url": "https://www.amazon.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "AmazonFashion:  clothing from influencers, celebrities, and favorite designers"
     },
     "www.asos.com": {
         "url": "https://www.asos.com/us/",
@@ -12,16 +14,20 @@
         "nature": "Invalid: No products or services mentioned in the text."
     },
     "www.forever21.com": {
-        "url": "https://www.forever21.com/",
-        "nature": "Invalid: DDOS protection screen"
+        "url": "https://www.forever21.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Forever21:  trendy pieces at cheap prices, including plus sizes"
     },
     "www.walmart.com": {
         "url": "https://www.walmart.com/",
         "nature": "Invalid: DDOS protection screen"
     },
     "www.target.com": {
-        "url": "https://www.target.com/",
-        "nature": "list of projects"
+        "url": "https://www.target.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Target:  toys"
     },
     "www.nordstromrack.com": {
         "url": "https://www.nordstromrack.com/",
@@ -64,8 +70,10 @@
         "nature": "Invalid: DDOS protection screen"
     },
     "www.urbanoutfitters.com": {
-        "url": "https://www.urbanoutfitters.com/",
-        "nature": "Invalid: DDOS protection screen"
+        "url": "https://www.urbanoutfitters.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "UrbanOutfitters:  trendy fashion items"
     },
     "stopandshop.com": {
         "url": "https://stopandshop.com/",
@@ -132,15 +140,169 @@
         "nature": "Invalid: DDOS protection screen"
     },
     "www.kohls.com": {
-        "url": "https://www.kohls.com/",
-        "nature": "list of projects"
+        "url": "https://www.kohls.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Kohls:  Kohl's Card"
     },
     "www2.hm.com": {
-        "url": "https://www2.hm.com/en_us/index.html",
-        "nature": "Invalid:DDOS protection screen"
+        "url": "https://www2.hm.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "HM:  affordable fashion for all"
     },
     "www.shop.com": {
         "url": "https://www.shop.com/",
         "nature": "Invalid: DDOS protection screen"
+    },
+    "auratenewyork.com": {
+        "url": "https://auratenewyork.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Aurate:  jewelry shop with pieces in different materials like gold"
+    },
+    "www.aloyoga.com": {
+        "url": "https://www.aloyoga.com",
+        "cached_url": "not found",
+        "sourcekeyword": "AloYoga:  athleisure brand with stylish and functional pieces"
+    },
+    "cuyana.com": {
+        "url": "https://cuyana.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Cuyana:  sustainable fashion brand with higquality wardrobe staples"
+    },
+    "www.luisaviaroma.com": {
+        "url": "https://www.luisaviaroma.com",
+        "cached_url": "not found",
+        "sourcekeyword": "LUISAVIAROMA:  designer clothes from luxury brands like Gucci and Balenciaga"
+    },
+    "www.express.com": {
+        "url": "https://www.express.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Express:  online shopping site for trendy pieces and wardrobe essentials"
+    },
+    "johnscrazysocks.com": {
+        "url": "https://johnscrazysocks.com",
+        "cached_url": "not found",
+        "sourcekeyword": "John'sCrazySocks:  sells socks and donates 5% of sales to the Special Olympics"
+    },
+    "www.velourbeauty.com": {
+        "url": "https://www.velourbeauty.com",
+        "cached_url": "not found",
+        "sourcekeyword": "VelourBeauty:  online shopping site for beauty trends"
+    },
+    "www.theoutnet.com": {
+        "url": "https://www.theoutnet.com",
+        "cached_url": "not found",
+        "sourcekeyword": "TheOutnet:  discount site for luxury items from over 350 designers"
+    },
+    "telfar.net": {
+        "url": "https://telfar.net",
+        "cached_url": "not found",
+        "sourcekeyword": "Telfar:  fashion site with a range of products from graphic shirts to boots"
+    },
+    "kyliecosmetics.com": {
+        "url": "https://kyliecosmetics.com",
+        "cached_url": "not found",
+        "sourcekeyword": "KylieCosmetics:  cosmetics line by Kylie Jenner with makeup tips"
+    },
+    "www.aesop.com": {
+        "url": "https://www.aesop.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Aesop:  higquality skincare products with samples included"
+    },
+    "www.freepeople.com": {
+        "url": "https://www.freepeople.com",
+        "cached_url": "not found",
+        "sourcekeyword": "FreePeople:  bohemian, hippy fashion including activewear"
+    },
+    "www.nastygal.com": {
+        "url": "https://www.nastygal.com",
+        "cached_url": "not found",
+        "sourcekeyword": "NastyGal:  vintage and vintaginspired fashion"
+    },
+    "www.missguided.com": {
+        "url": "https://www.missguided.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Missguided:  online shopping site for fashiolovers with incredible deals"
+    },
+    "industrieafrica.com": {
+        "url": "https://industrieafrica.com",
+        "cached_url": "not found",
+        "sourcekeyword": "IndustrieAfrica:  emerging and higend African fashion"
+    },
+    "us.boohoo.com": {
+        "url": "us.boohoo.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Boohoo:  fashion site with up to 100 new pieces added daily"
+    },
+    "teasetea.com": {
+        "url": "https://teasetea.com",
+        "cached_url": "not found",
+        "sourcekeyword": "TeaseTea:  teas for different needs like increasing energy, pregnancy, and more"
+    },
+    "www.ae.com": {
+        "url": "https://www.ae.com",
+        "cached_url": "not found",
+        "sourcekeyword": "AmericanEagle&Aerie:  trendy items like higwaisted bikinis, \"mom\" jeans, and more"
+    },
+    "www.ruelala.com": {
+        "url": "https://www.ruelala.com",
+        "cached_url": "not found",
+        "sourcekeyword": "RueLaLa:  private sales website with discounted designer and luxury pieces"
+    },
+    "iliabeauty.com": {
+        "url": "https://iliabeauty.com",
+        "cached_url": "not found",
+        "sourcekeyword": "ILIA:  glutefree and dairfree beauty brand offering natural products"
+    },
+    "www.net-a-porter.com": {
+        "url": "https://www.net-a-porter.com",
+        "cached_url": "not found",
+        "sourcekeyword": "NetAPorter:  premium luxury items like clothing, accessories, shoes, and more"
+    },
+    "thefrankieshop.com": {
+        "url": "https://thefrankieshop.com",
+        "cached_url": "not found",
+        "sourcekeyword": "TheFrankieShop:  fashion site with higquality staples in muted tones"
+    },
+    "www.fashionphile.com": {
+        "url": "https://www.fashionphile.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Fashionphile:  vintage, prloved, or limiteedition pocketbooks and watches"
+    },
+    "www.ssense.com": {
+        "url": "https://www.ssense.com",
+        "cached_url": "not found",
+        "sourcekeyword": "SSense:  online shopping site for independent designers and luxury fashion"
+    },
+    "www.petitestudionyc.com": {
+        "url": "https://www.petitestudionyc.com",
+        "cached_url": "not found",
+        "sourcekeyword": "PetiteStudio:  fashion site focusing on bettefitting pieces for short folks"
+    },
+    "www.reelpaper.com": {
+        "url": "https://www.reelpaper.com",
+        "cached_url": "not found",
+        "sourcekeyword": "ReelPaper:  sells sustainable toilet paper and paper towels made of bamboo"
+    },
+    "upbounders.com": {
+        "url": "https://upbounders.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Upbounders:  online shopping site for kids' products like memory games and puzzles"
+    },
+    "www.madewell.com": {
+        "url": "https://www.madewell.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Madewell:  denim, shoes, accessories, and fun patterns"
+    },
+    "ikea.com": {
+        "url": "ikea.com",
+        "cached_url": "not found",
+        "sourcekeyword": "IKEA:  KALLAX Shelf unit"
+    },
+    "www.senreve.com": {
+        "url": "https://www.senreve.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Senreve:  creates functional and luxurious handbags"
     }
 }
