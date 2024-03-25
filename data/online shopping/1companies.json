@@ -3,7 +3,8 @@
         "url": "https://www.amazon.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "AmazonFashion:  clothing from influencers, celebrities, and favorite designers"
+        "sourcekeyword": "AmazonFashion:  clothing from influencers, celebrities, and favorite designers",
+        "priceAndPlansCrawled": "https://www.amazon.com/Prices-Pimento-Cheese-Spread-Ounce/dp/B07NVZ24LM"
     },
     "www.asos.com": {
         "url": "https://www.asos.com/us/",
@@ -17,7 +18,8 @@
         "url": "https://www.forever21.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Forever21:  trendy pieces at cheap prices, including plus sizes"
+        "sourcekeyword": "Forever21:  trendy pieces at cheap prices, including plus sizes",
+        "priceAndPlansCrawled": "https://www.forever21.com/us/pricespolicy/pricespolicy.html"
     },
     "www.walmart.com": {
         "url": "https://www.walmart.com/",
@@ -27,7 +29,8 @@
         "url": "https://www.target.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Target:  toys"
+        "sourcekeyword": "Target:  toys",
+        "priceAndPlansCrawled": "https://www.target.com/s/baby+cradle+prices"
     },
     "www.nordstromrack.com": {
         "url": "https://www.nordstromrack.com/",
@@ -73,7 +76,8 @@
         "url": "https://www.urbanoutfitters.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "UrbanOutfitters:  trendy fashion items"
+        "sourcekeyword": "UrbanOutfitters:  trendy fashion items",
+        "priceAndPlansCrawled": "https://www.urbanoutfitters.com/shop/paradise-youth-club-prices-tee"
     },
     "stopandshop.com": {
         "url": "https://stopandshop.com/",
@@ -143,13 +147,15 @@
         "url": "https://www.kohls.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Kohls:  Kohl's Card"
+        "sourcekeyword": "Kohls:  Kohl's Card",
+        "priceAndPlansCrawled": "https://www.kohls.com/catalog/clearance.jsp?CN=Promotions"
     },
     "www2.hm.com": {
         "url": "https://www2.hm.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "HM:  affordable fashion for all"
+        "sourcekeyword": "HM:  affordable fashion for all",
+        "priceAndPlansCrawled": "https://www2.hm.com/en_us/women/selected/best-prices.html"
     },
     "www.shop.com": {
         "url": "https://www.shop.com/",
@@ -273,7 +279,8 @@
         "url": "https://iliabeauty.com",
         "cached_url": "not found",
         "sourcekeyword": "ILIA:  glutefree and dairfree beauty brand offering natural products",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://support.iliabeauty.com/en-US/shipping-time-frames-and-costs-115758"
     },
     "www.net-a-porter.com": {
         "url": "https://www.net-a-porter.com",
