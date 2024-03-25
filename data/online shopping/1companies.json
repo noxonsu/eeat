@@ -4,7 +4,8 @@
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "AmazonFashion:  clothing from influencers, celebrities, and favorite designers",
-        "priceAndPlansCrawled": "https://www.amazon.com/Prices-Pimento-Cheese-Spread-Ounce/dp/B07NVZ24LM"
+        "priceAndPlansCrawled": "https://www.amazon.com/Prices-Pimento-Cheese-Spread-Ounce/dp/B07NVZ24LM",
+        "5prompt_Hash": "5fa6262a1dd9d925b34ffc392bec44bc"
     },
     "www.asos.com": {
         "url": "https://www.asos.com/us/",
@@ -19,7 +20,8 @@
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "Forever21:  trendy pieces at cheap prices, including plus sizes",
-        "priceAndPlansCrawled": "https://www.forever21.com/us/pricespolicy/pricespolicy.html"
+        "priceAndPlansCrawled": "https://www.forever21.com/us/pricespolicy/pricespolicy.html",
+        "5prompt_Hash": "5fa6262a1dd9d925b34ffc392bec44bc"
     },
     "www.walmart.com": {
         "url": "https://www.walmart.com/",
@@ -30,7 +32,8 @@
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "Target:  toys",
-        "priceAndPlansCrawled": "https://www.target.com/s/baby+cradle+prices"
+        "priceAndPlansCrawled": "https://www.target.com/s/baby+cradle+prices",
+        "5prompt_Hash": "5fa6262a1dd9d925b34ffc392bec44bc"
     },
     "www.nordstromrack.com": {
         "url": "https://www.nordstromrack.com/",
@@ -77,7 +80,8 @@
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "UrbanOutfitters:  trendy fashion items",
-        "priceAndPlansCrawled": "https://www.urbanoutfitters.com/shop/paradise-youth-club-prices-tee"
+        "priceAndPlansCrawled": "https://www.urbanoutfitters.com/shop/paradise-youth-club-prices-tee",
+        "5prompt_Hash": "5fa6262a1dd9d925b34ffc392bec44bc"
     },
     "stopandshop.com": {
         "url": "https://stopandshop.com/",
@@ -155,7 +159,8 @@
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "HM:  affordable fashion for all",
-        "priceAndPlansCrawled": "https://www2.hm.com/en_us/women/selected/best-prices.html"
+        "priceAndPlansCrawled": "https://www2.hm.com/en_us/women/selected/best-prices.html",
+        "5prompt_Hash": "5fa6262a1dd9d925b34ffc392bec44bc"
     },
     "www.shop.com": {
         "url": "https://www.shop.com/",
@@ -280,7 +285,8 @@
         "cached_url": "not found",
         "sourcekeyword": "ILIA:  glutefree and dairfree beauty brand offering natural products",
         "nature": "single project",
-        "priceAndPlansCrawled": "https://support.iliabeauty.com/en-US/shipping-time-frames-and-costs-115758"
+        "priceAndPlansCrawled": "https://support.iliabeauty.com/en-US/shipping-time-frames-and-costs-115758",
+        "5prompt_Hash": "5fa6262a1dd9d925b34ffc392bec44bc"
     },
     "www.net-a-porter.com": {
         "url": "https://www.net-a-porter.com",

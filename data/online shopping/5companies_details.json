@@ -1,0 +1,236 @@
+{
+    "www.amazon.com": {
+        "online_shopping_platforms": [
+            {
+                "name": "Lazada",
+                "call_to_action": "Shop Now",
+                "usecases": [
+                    "Purchase a wide range of products online",
+                    "Convenient shopping experience",
+                    "Access to various sellers and brands"
+                ],
+                "solutions": [
+                    "E-commerce platform for buying and selling goods",
+                    "Secure online transactions",
+                    "Multiple payment options"
+                ],
+                "key_features": [
+                    "Wide product selection",
+                    "Flash sales and promotions",
+                    "User reviews and ratings"
+                ],
+                "we_focused_on_projects_meet_criteria": "Yes"
+            },
+            {
+                "name": "Shopee",
+                "call_to_action": "Add to Cart",
+                "usecases": [
+                    "Shop for products at competitive prices",
+                    "Engage in social e-commerce activities",
+                    "Participate in in-app games and promotions"
+                ],
+                "solutions": [
+                    "Mobile marketplace for buying and selling",
+                    "Integrated chat function for communication",
+                    "Secure payment gateway"
+                ],
+                "key_features": [
+                    "Free shipping options",
+                    "Shopee Mall for authentic products",
+                    "Live streaming for product showcases"
+                ],
+                "we_focused_on_projects_meet_criteria": "Yes"
+            },
+            {
+                "name": "Zalora",
+                "call_to_action": "Shop Now",
+                "usecases": [
+                    "Browse and purchase fashion items online",
+                    "Discover new trends and styles",
+                    "Access to international and local brands"
+                ],
+                "solutions": [
+                    "Fashion e-commerce platform",
+                    "Virtual dressing room feature",
+                    "Multiple payment methods"
+                ],
+                "key_features": [
+                    "Fashion editorials and style guides",
+                    "30-day free returns",
+                    "Exclusive brand collaborations"
+                ],
+                "we_focused_on_projects_meet_criteria": "Yes"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.forever21.com": {
+        "website": "www.forever21.com",
+        "call_to_action": "Enable JavaScript and cookies to continue",
+        "usecases": [
+            "Online shopping for fashion items"
+        ],
+        "solutions": [
+            "Provides a platform for users to browse and purchase fashion items online"
+        ],
+        "key_features": [
+            "Wide variety of fashion items available",
+            "Secure connection verification process",
+            "Utilizes Cloudflare for performance and security"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.target.com": {
+        "online_shopping_platform": {
+            "name": "Target",
+            "call_to_action": "Sign in",
+            "usecases": [
+                "Online shopping for a wide range of products including electronics, home goods, clothing, and more",
+                "Access to exclusive deals and discounts for Target Circle members",
+                "Convenient pickup and delivery options for online orders"
+            ],
+            "solutions": "Target provides a one-stop online shopping platform for customers to browse and purchase a variety of products from the comfort of their homes.",
+            "key_features": {
+                "Product Diversity": "Offers a wide range of categories including electronics, home goods, clothing, toys, beauty, and more",
+                "User Engagement": "Provides exclusive deals, discounts, and rewards for Target Circle members to enhance user engagement",
+                "Pricing Strategies": "Promotes savings through various deals such as discounts, BOGO offers, and gift card promotions",
+                "Technological Advancements": "Utilizes online platforms for easy navigation, search functionality, and seamless checkout process"
+            }
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "www.urbanoutfitters.com": {
+        "online_shopping_products": [
+            {
+                "name": "Lazada",
+                "criteria": {
+                    "product_diversity": "High",
+                    "user_engagement": "Moderate",
+                    "pricing_strategies": "Competitive",
+                    "technological_advancements": "Advanced"
+                },
+                "call_to_action": "Shop Now",
+                "usecases": [
+                    "Online shopping for a wide range of products",
+                    "Convenient shopping experience"
+                ],
+                "solutions": [
+                    "Large product selection",
+                    "Various payment options",
+                    "Fast delivery services"
+                ],
+                "key_features": [
+                    "Flash sales",
+                    "Vouchers and discounts",
+                    "User reviews and ratings"
+                ]
+            },
+            {
+                "name": "Shopee",
+                "criteria": {
+                    "product_diversity": "Moderate",
+                    "user_engagement": "High",
+                    "pricing_strategies": "Competitive",
+                    "technological_advancements": "Moderate"
+                },
+                "call_to_action": "Shop Now",
+                "usecases": [
+                    "Online shopping for various products",
+                    "Interactive shopping experience"
+                ],
+                "solutions": [
+                    "In-app games and rewards",
+                    "Social shopping features",
+                    "Secure payment options"
+                ],
+                "key_features": [
+                    "Shopee Mall",
+                    "Live streaming",
+                    "Shopee Coins rewards program"
+                ]
+            },
+            {
+                "name": "Zalora",
+                "criteria": {
+                    "product_diversity": "High",
+                    "user_engagement": "Moderate",
+                    "pricing_strategies": "Premium",
+                    "technological_advancements": "Moderate"
+                },
+                "call_to_action": "Shop Now",
+                "usecases": [
+                    "Fashion and lifestyle online shopping",
+                    "Trendy and branded products"
+                ],
+                "solutions": [
+                    "Exclusive brand partnerships",
+                    "Fashion editorials and style guides",
+                    "Easy returns and exchanges"
+                ],
+                "key_features": [
+                    "Branded collections",
+                    "Same-day delivery",
+                    "Style influencer collaborations"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": {}
+        }
+    },
+    "www2.hm.com": {
+        "website_name": "H&M",
+        "call_to_action": "Shop Now",
+        "usecases": [
+            "Fashion shopping",
+            "Trendy clothing purchase",
+            "Accessories shopping"
+        ],
+        "solutions": "Provides a wide range of fashion products for men, women, and kids",
+        "key_features": [
+            "Trendy clothing options",
+            "Affordable pricing",
+            "Variety of sizes available"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    },
+    "iliabeauty.com": {
+        "product_name": "ILIA Beauty",
+        "call_to_action": "Shop Now",
+        "usecases": [
+            "Makeup products",
+            "Skincare products",
+            "Tools and brushes"
+        ],
+        "solutions": "Clean, skin-centric beauty products with safe and potent formulas",
+        "key_features": [
+            "Skin Rewind Complexion Stick",
+            "Super Serum Skin Tint SPF 40",
+            "True Skin Serum Foundation",
+            "C Beyond Triple Serum SPF 40",
+            "Multi-Stick",
+            "The Base Face Milk",
+            "Bright Start Retinol Alternative Eye Cream",
+            "Limitless Lash Mascara",
+            "Clean Line Gel Liner",
+            "In Frame Brow Gel"
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": null
+        }
+    }
+}
