@@ -24,15 +24,19 @@
         "nature": "list of projects"
     },
     "en.wikipedia.org": {
-        "url": "https://en.wikipedia.org/wiki/SERP"
+        "url": "https://en.wikipedia.org/wiki/SERP",
+        "nature": "list of projects"
     },
     "ahrefs.com": {
-        "url": "https://ahrefs.com/blog/serp-analysis/"
+        "url": "https://ahrefs.com/blog/serp-analysis/",
+        "nature": "list of projects"
     },
     "www.searchenginejournal.com": {
-        "url": "https://www.searchenginejournal.com/what-is-serp-must-know-definitions/"
+        "url": "https://www.searchenginejournal.com/what-is-serp-must-know-definitions/",
+        "nature": "list of projects"
     },
     "blog.hubspot.com": {
-        "url": "https://blog.hubspot.com/marketing/serps-meaning"
+        "url": "https://blog.hubspot.com/marketing/serps-meaning",
+        "nature": "list of projects"
     }
 }
