@@ -42,16 +42,19 @@
     "www.serp.ap.gov.in": {
         "url": "https://www.serp.ap.gov.in",
         "cached_url": "not found",
-        "sourcekeyword": "SocietyforEliminationofRuralPoverty:  SERP"
+        "sourcekeyword": "SocietyforEliminationofRuralPoverty:  SERP",
+        "nature": "Invalid: The URL provided seems to be a DDOS protection screen or an error page, which does not contain relevant information to identify products, services, or solutions of companies."
     },
     "www.hubspot.com": {
         "url": "https://www.hubspot.com",
         "cached_url": "not found",
-        "sourcekeyword": "HubSpot:  Marketing Hub"
+        "sourcekeyword": "HubSpot:  Marketing Hub",
+        "nature": "single project"
     },
     "archive.org": {
         "url": "https://archive.org/",
         "cached_url": "not found",
-        "sourcekeyword": "Internet Archive:  Audio"
+        "sourcekeyword": "Internet Archive:  Audio",
+        "nature": "Invalid:DDOS protection screen"
     }
 }
