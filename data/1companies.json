@@ -38,5 +38,20 @@
     "blog.hubspot.com": {
         "url": "https://blog.hubspot.com/marketing/serps-meaning",
         "nature": "list of projects"
+    },
+    "www.serp.ap.gov.in": {
+        "url": "https://www.serp.ap.gov.in",
+        "cached_url": "not found",
+        "sourcekeyword": "SocietyforEliminationofRuralPoverty:  SERP"
+    },
+    "www.hubspot.com": {
+        "url": "https://www.hubspot.com",
+        "cached_url": "not found",
+        "sourcekeyword": "HubSpot:  Marketing Hub"
+    },
+    "archive.org": {
+        "url": "https://archive.org/",
+        "cached_url": "not found",
+        "sourcekeyword": "Internet Archive:  Audio"
     }
 }
