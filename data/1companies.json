@@ -22,5 +22,17 @@
     "www.website3.com": {
         "url": "https://www.website3.com",
         "nature": "list of projects"
+    },
+    "en.wikipedia.org": {
+        "url": "https://en.wikipedia.org/wiki/SERP"
+    },
+    "ahrefs.com": {
+        "url": "https://ahrefs.com/blog/serp-analysis/"
+    },
+    "www.searchenginejournal.com": {
+        "url": "https://www.searchenginejournal.com/what-is-serp-must-know-definitions/"
+    },
+    "blog.hubspot.com": {
+        "url": "https://blog.hubspot.com/marketing/serps-meaning"
     }
 }
