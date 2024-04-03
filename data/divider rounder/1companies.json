@@ -150,226 +150,271 @@
     "www.baxter.com": {
         "url": "https://www.baxter.com",
         "cached_url": "not found",
-        "sourcekeyword": "BAXTER:  Parts"
+        "sourcekeyword": "BAXTER:  Parts",
+        "nature": "list of projects"
     },
     "www.rayshine.com.cn": {
         "url": "https://www.rayshine.com.cn",
         "cached_url": "not found",
-        "sourcekeyword": "RAYSHINE:  NoStick Round Oval Sourdough Bread Proofing Baskets Bowl Collapsible Silicone Bread Proofing Basket Set"
+        "sourcekeyword": "RAYSHINE:  NoStick Round Oval Sourdough Bread Proofing Baskets Bowl Collapsible Silicone Bread Proofing Basket Set",
+        "nature": "Invalid:DDOS protection screen"
     },
     "tmbbaking.com": {
         "url": "https://tmbbaking.com",
         "cached_url": "not found",
-        "sourcekeyword": "TMBBAKING:  Parts"
+        "sourcekeyword": "TMBBAKING:  Parts",
+        "nature": "list of projects"
     },
     "thompsonhotels.com": {
         "url": "thompsonhotels.com",
         "cached_url": "not found",
-        "sourcekeyword": "THOMPSON:  Parts"
+        "sourcekeyword": "THOMPSON:  Parts",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.lvomfg.com": {
         "url": "https://www.lvomfg.com",
         "cached_url": "not found",
-        "sourcekeyword": "LVOMANUFACTURING:  Parts"
+        "sourcekeyword": "LVOMANUFACTURING:  Parts",
+        "nature": "Invalid: The page is navigating and changing the content, making it impossible to retrieve information."
     },
     "www.hobartcorp.com": {
         "url": "https://www.hobartcorp.com",
         "cached_url": "not found",
-        "sourcekeyword": "HOBART:  Parts"
+        "sourcekeyword": "HOBART:  Parts",
+        "nature": "list of projects"
     },
     "machinesitalia.org": {
         "url": "https://machinesitalia.org",
         "cached_url": "not found",
-        "sourcekeyword": "VMIBERTOITALIA:  Parts"
+        "sourcekeyword": "VMIBERTOITALIA:  Parts",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.subal.com": {
         "url": "https://www.subal.com",
         "cached_url": "not found",
-        "sourcekeyword": "SUBAL:  Parts"
+        "sourcekeyword": "SUBAL:  Parts",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.littletorodesigns.com": {
         "url": "https://www.littletorodesigns.com",
         "cached_url": "not found",
-        "sourcekeyword": "LITTLETORO:  Parts"
+        "sourcekeyword": "LITTLETORO:  Parts",
+        "nature": "list of projects"
     },
     "nhamachinery.en.alibaba.com": {
         "url": "https://nhamachinery.en.alibaba.com",
         "cached_url": "not found",
-        "sourcekeyword": "ShenzhenNhaMachineryEquipmentCoLtd:  Wholesale dough divider rounder"
+        "sourcekeyword": "ShenzhenNhaMachineryEquipmentCoLtd:  Wholesale dough divider rounder",
+        "nature": "list of projects"
     },
     "myformatic.com": {
         "url": "https://myformatic.com",
         "cached_url": "not found",
-        "sourcekeyword": "FORMATIC:  Parts"
+        "sourcekeyword": "FORMATIC:  Parts",
+        "nature": "list of projects"
     },
     "www.justiceadmin.org": {
         "url": "https://www.justiceadmin.org",
         "cached_url": "not found",
-        "sourcekeyword": "JAC:  Parts"
+        "sourcekeyword": "JAC:  Parts",
+        "nature": "list of projects"
     },
     "www.fritsch-international.com": {
         "url": "https://www.fritsch-international.com",
         "cached_url": "not found",
-        "sourcekeyword": "FRITSCH:  Parts"
+        "sourcekeyword": "FRITSCH:  Parts",
+        "nature": "list of projects"
     },
     "www.doughtech.com": {
         "url": "https://www.doughtech.com",
         "cached_url": "not found",
-        "sourcekeyword": "DOUGHTECH:  Parts"
+        "sourcekeyword": "DOUGHTECH:  Parts",
+        "nature": "single project"
     },
     "kiskofreezies.com": {
         "url": "https://kiskofreezies.com",
         "cached_url": "not found",
-        "sourcekeyword": "KISKO:  Parts"
+        "sourcekeyword": "KISKO:  Parts",
+        "nature": "list of projects"
     },
     "www.uniworld.com": {
         "url": "https://www.uniworld.com",
         "cached_url": "not found",
-        "sourcekeyword": "UNIWORLD:  Parts"
+        "sourcekeyword": "UNIWORLD:  Parts",
+        "nature": "list of projects"
     },
     "www.lainox.it": {
         "url": "https://www.lainox.it",
         "cached_url": "not found",
-        "sourcekeyword": "LAINOX:  Parts"
+        "sourcekeyword": "LAINOX:  Parts",
+        "nature": "list of projects"
     },
     "lucks.com": {
         "url": "lucks.com",
         "cached_url": "not found",
-        "sourcekeyword": "LUCKS:  Parts"
+        "sourcekeyword": "LUCKS:  Parts",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.blodgett.com": {
         "url": "https://www.blodgett.com",
         "cached_url": "not found",
-        "sourcekeyword": "BLODGETT:  Parts"
+        "sourcekeyword": "BLODGETT:  Parts",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of analyzing commercial divider rounder machines targeting the bakery and food processing sectors. The content is about ovens and kitchen equipment from Blodgett, not specifically about divider rounder machines."
     },
     "www.globe.gov": {
         "url": "https://www.globe.gov",
         "cached_url": "not found",
-        "sourcekeyword": "GLOBE:  Parts"
+        "sourcekeyword": "GLOBE:  Parts",
+        "nature": "list of projects"
     },
     "www.eberhardtstevenson.com": {
         "url": "https://www.eberhardtstevenson.com",
         "cached_url": "not found",
-        "sourcekeyword": "EBERHARDT:  Parts"
+        "sourcekeyword": "EBERHARDT:  Parts",
+        "nature": "list of projects"
     },
     "fbmsales.com": {
         "url": "fbmsales.com",
         "cached_url": "not found",
-        "sourcekeyword": "FBM:  Parts"
+        "sourcekeyword": "FBM:  Parts",
+        "nature": "Invalid: The URL provided is not accessible or valid."
     },
     "www.diosna.com": {
         "url": "https://www.diosna.com",
         "cached_url": "not found",
-        "sourcekeyword": "DIOSNA:  Parts"
+        "sourcekeyword": "DIOSNA:  Parts",
+        "nature": "Invalid (single). Invalid: The content provided does not match the criteria of analyzing commercial divider rounder machines targeting the bakery and food processing sectors."
     },
     "www.ae.com": {
         "url": "https://www.ae.com",
         "cached_url": "not found",
-        "sourcekeyword": "AMERICAN EAGLE:  Parts"
+        "sourcekeyword": "AMERICAN EAGLE:  Parts",
+        "nature": "list of projects"
     },
     "compunic.en.taiwantrade.com": {
         "url": "https://compunic.en.taiwantrade.com",
         "cached_url": "not found",
-        "sourcekeyword": "COMPUNIC:  Parts"
+        "sourcekeyword": "COMPUNIC:  Parts",
+        "nature": "Invalid: DDOS protection screen"
     },
     "pavaillerusa.com": {
         "url": "https://pavaillerusa.com",
         "cached_url": "not found",
-        "sourcekeyword": "PAVAILLIER:  Parts"
+        "sourcekeyword": "PAVAILLIER:  Parts",
+        "nature": "list of projects"
     },
     "konigwheels.com": {
         "url": "https://konigwheels.com",
         "cached_url": "not found",
-        "sourcekeyword": "KONIG:  Parts"
+        "sourcekeyword": "KONIG:  Parts",
+        "nature": "list of projects"
     },
     "www.traulsen.com": {
         "url": "https://www.traulsen.com",
         "cached_url": "not found",
-        "sourcekeyword": "TRAULSEN:  Parts"
+        "sourcekeyword": "TRAULSEN:  Parts",
+        "nature": "Invalid (single). Invalid: The content provided does not match the criteria of analyzing commercial divider rounder machines targeting the bakery and food processing sectors."
     },
     "www.pizzagroup.com": {
         "url": "https://www.pizzagroup.com",
         "cached_url": "not found",
-        "sourcekeyword": "Pizza Group:  RDMAN15 - Manual Bun Rounding Dividers 15 Balls"
+        "sourcekeyword": "Pizza Group:  RDMAN15 - Manual Bun Rounding Dividers 15 Balls",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of analyzing commercial divider rounder machines targeting the bakery and food processing sectors."
     },
     "www.sancassiano.com": {
         "url": "https://www.sancassiano.com",
         "cached_url": "not found",
-        "sourcekeyword": "SANCASSIANO:  Parts"
+        "sourcekeyword": "SANCASSIANO:  Parts",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria provided. The content is about a company specializing in mixers, kneaders, and automatic mixing systems, but it does not include an analysis of commercial divider rounder machines targeting the bakery and food processing sectors, nor does it evaluate performance, reliability, customer satisfaction, and affordability across various brands and models."
     },
     "sinmageurope.com": {
         "url": "https://sinmageurope.com",
         "cached_url": "not found",
-        "sourcekeyword": "SINMAG:  Parts"
+        "sourcekeyword": "SINMAG:  Parts",
+        "nature": "list of projects"
     },
     "www.berkelequipment.com": {
         "url": "https://www.berkelequipment.com",
         "cached_url": "not found",
-        "sourcekeyword": "BERKEL:  Parts"
+        "sourcekeyword": "BERKEL:  Parts",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria provided. The website does not contain any analysis of commercial divider rounder machines targeting the bakery and food processing sectors, evaluation of performance, reliability, customer satisfaction, or affordability across various brands and models."
     },
     "www.savagebros.com": {
         "url": "https://www.savagebros.com",
         "cached_url": "not found",
-        "sourcekeyword": "SAVAGEBROS:  Parts"
+        "sourcekeyword": "SAVAGEBROS:  Parts",
+        "nature": "single project"
     },
     "avalonmfg.com": {
         "url": "https://avalonmfg.com",
         "cached_url": "not found",
-        "sourcekeyword": "AVALONMANUFACTURING:  Parts"
+        "sourcekeyword": "AVALONMANUFACTURING:  Parts",
+        "nature": "list of projects"
     },
     "unifiedbrands.net": {
         "url": "https://unifiedbrands.net",
         "cached_url": "not found",
-        "sourcekeyword": "GROEN:  Parts"
+        "sourcekeyword": "GROEN:  Parts",
+        "nature": "list of projects"
     },
     "www.queenly-mach.com": {
         "url": "https://www.queenly-mach.com",
         "cached_url": "not found",
-        "sourcekeyword": "ZhuhaiQinliMachineryCoLtd:  Dough Rounder Divider Dough Rounder"
+        "sourcekeyword": "ZhuhaiQinliMachineryCoLtd:  Dough Rounder Divider Dough Rounder",
+        "nature": "Invalid (single). Invalid: The content provided does not match the criteria specified. The content is about a company that manufactures bakery equipment, specifically dough divider rounders, but it does not include an analysis of commercial divider rounder machines targeting the bakery and food processing sectors."
     },
     "www.sottoriva.com": {
         "url": "https://www.sottoriva.com",
         "cached_url": "not found",
-        "sourcekeyword": "SOTTORIVA:  Parts"
+        "sourcekeyword": "SOTTORIVA:  Parts",
+        "nature": "list of projects"
     },
     "www.wp-l.de": {
         "url": "https://www.wp-l.de",
         "cached_url": "not found",
-        "sourcekeyword": "WERNERPFLEIDERER:  Parts"
+        "sourcekeyword": "WERNERPFLEIDERER:  Parts",
+        "nature": "list of projects"
     },
     "www.revent.com": {
         "url": "https://www.revent.com",
         "cached_url": "not found",
-        "sourcekeyword": "REVENT:  Parts"
+        "sourcekeyword": "REVENT:  Parts",
+        "nature": "list of projects"
     },
     "www.amf.com": {
         "url": "https://www.amf.com",
         "cached_url": "not found",
-        "sourcekeyword": "AMF:  Parts"
+        "sourcekeyword": "AMF:  Parts",
+        "nature": "list of projects"
     },
     "inlandcraft.com": {
         "url": "inlandcraft.com",
         "cached_url": "not found",
-        "sourcekeyword": "MISCELLANEOUSPARTS:  Parts"
+        "sourcekeyword": "MISCELLANEOUSPARTS:  Parts",
+        "nature": "Invalid: The URL provided seems to be invalid or protected by a DDOS protection screen."
     },
     "varimixer.com": {
         "url": "https://varimixer.com",
         "cached_url": "not found",
-        "sourcekeyword": "VARIMIXER:  Parts"
+        "sourcekeyword": "VARIMIXER:  Parts",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of analyzing commercial divider rounder machines targeting the bakery and food processing sectors."
     },
     "friulcompany.com": {
         "url": "friulcompany.com",
         "cached_url": "not found",
-        "sourcekeyword": "FriulCo Srl:  M48 automatic dough divider + rounder"
+        "sourcekeyword": "FriulCo Srl:  M48 automatic dough divider + rounder",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.wolfequipment.com": {
         "url": "https://www.wolfequipment.com",
         "cached_url": "not found",
-        "sourcekeyword": "WOLFGRIDDLE:  Parts"
+        "sourcekeyword": "WOLFGRIDDLE:  Parts",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria provided. The website does not contain any analysis of commercial divider rounder machines targeting the bakery and food processing sectors."
     },
     "www.imperialsupplies.com": {
         "url": "https://www.imperialsupplies.com",
         "cached_url": "not found",
-        "sourcekeyword": "IMPERIAL:  Parts"
+        "sourcekeyword": "IMPERIAL:  Parts",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of analyzing commercial divider rounder machines targeting the bakery and food processing sectors."
     }
 }
