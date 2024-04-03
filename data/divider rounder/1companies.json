@@ -3,13 +3,15 @@
         "url": "https://www.americaneaglemachine.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "AmericanEagleFoodMachinery:  Dough Dividers & Rounders"
+        "sourcekeyword": "AmericanEagleFoodMachinery:  Dough Dividers & Rounders",
+        "priceAndPlansCrawled": "https://www.americaneaglemachine.com/products/divider-rounders/"
     },
     "www.belshaw.com": {
         "url": "https://www.belshaw.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "ADAMATIC:  Parts, Belshaw:  Adamatic AD2 Divider Rounder"
+        "sourcekeyword": "ADAMATIC:  Parts, Belshaw:  Adamatic AD2 Divider Rounder",
+        "priceAndPlansCrawled": "https://www.belshaw.com/asset/65d622b96ae29"
     },
     "restaurantstock.com": {
         "url": "https://restaurantstock.com/collections/dough-divider-rounder",
@@ -23,13 +25,15 @@
         "url": "https://erikarecord.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "ERIKARECORD:  Parts, ErikaRecord:  Divider Rounders"
+        "sourcekeyword": "ERIKARECORD:  Parts, ErikaRecord:  Divider Rounders",
+        "priceAndPlansCrawled": "https://erikarecord.com/used-bakery-equipment/erika-record-full-dividerrounder/"
     },
     "geminibakeryequipment.com": {
         "url": "https://geminibakeryequipment.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "GeminiBakeryEquipment:  DR 4/36 SA Divider Rounder"
+        "sourcekeyword": "GeminiBakeryEquipment:  DR 4/36 SA Divider Rounder",
+        "priceAndPlansCrawled": "https://geminibakeryequipment.com/equipment/divider-rounders/"
     },
     "www.oliverquality.com": {
         "url": "https://www.oliverquality.com/product/divider-rounder-semi-auto-625-np/",
@@ -39,33 +43,39 @@
         "url": "https://www.empirebake.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "EmpireBakeryEquipment:  SPA Dough Divider Rounder"
+        "sourcekeyword": "EmpireBakeryEquipment:  SPA Dough Divider Rounder",
+        "priceAndPlansCrawled": "https://www.empirebake.com/pub/media/pdfupload/FALL%20BLOWOUT.pdf"
     },
     "grosmac.com": {
         "url": "https://grosmac.com/product/automatic-dough-divider-rounder/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://grosmac.com/product/automatic-industrial-multiple-dough-divider-rounder/"
     },
     "www.bakeryequipment.net": {
         "url": "https://www.bakeryequipment.net",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "BAKERSAID:  Parts"
+        "sourcekeyword": "BAKERSAID:  Parts",
+        "priceAndPlansCrawled": "https://www.bakeryequipment.net/category_s/1290.htm"
     },
     "doyonbaking.com": {
         "url": "https://doyonbaking.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "DoyonBaking:  Dough Divider & Rounders"
+        "sourcekeyword": "DoyonBaking:  Dough Divider & Rounders",
+        "priceAndPlansCrawled": "https://doyonbaking.com/wp-content/uploads/2023/06/Doyon-PriceList-2023_112_May15update_draft.pdf"
     },
     "www.ammfg.com": {
         "url": "https://www.ammfg.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "AMMANUFACTURING:  Parts"
+        "sourcekeyword": "AMMANUFACTURING:  Parts",
+        "priceAndPlansCrawled": "https://www.ammfg.com/new-equipment/dough-equipment/model-s301-combination-dough-divider-rounder/"
     },
     "www.dutchessbakers.com": {
         "url": "https://www.dutchessbakers.com/jn.htm",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.dutchessbakers.com/docs/dutchess_msrp.pdf"
     },
     "www.verfoodsolutions.com": {
         "url": "https://www.verfoodsolutions.com/products/flour-process/dough-divider/semi-automatic-dough-divider-rounder/",
@@ -79,19 +89,22 @@
         "url": "https://pizzaovens.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "PizzaOvens:  Dough Dividers & Rounders"
+        "sourcekeyword": "PizzaOvens:  Dough Dividers & Rounders",
+        "priceAndPlansCrawled": "https://pizzaovens.com/brands/Earthstone.html?sort=featured&page=3&setCurrencyId=5"
     },
     "www.lawrenceequipment.com": {
         "url": "https://www.lawrenceequipment.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "LawrenceEquipmentInc:  Divider Rounder"
+        "sourcekeyword": "LawrenceEquipmentInc:  Divider Rounder",
+        "priceAndPlansCrawled": "https://www.lawrenceequipment.com/line/divider-rounder/"
     },
     "www.miamibakeryequipment.com": {
         "url": "https://www.miamibakeryequipment.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "MiamiBakeryEquipment:  SemAutomatic Divider / Rounder (36 pieces) [Ram]"
+        "sourcekeyword": "MiamiBakeryEquipment:  SemAutomatic Divider / Rounder (36 pieces) [Ram]",
+        "priceAndPlansCrawled": "https://www.miamibakeryequipment.com/index.php?route=product/product/download&download_id=45"
     },
     "www.fortuna-bakery.com": {
         "url": "https://www.fortuna-bakery.com/en/product/divider-and-rounder-magnus-soft/",
@@ -99,19 +112,22 @@
     },
     "italiana.ca": {
         "url": "https://italiana.ca/collections/dough-dividers-rounders",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://italiana.ca/collections/dough-dividers-rounders"
     },
     "rfbakery.com": {
         "url": "https://rfbakery.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "RF Bakery Equipment:  Divider/Rounder SemAutomatic RH Erika 4/41"
+        "sourcekeyword": "RF Bakery Equipment:  Divider/Rounder SemAutomatic RH Erika 4/41",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.univexcorp.com": {
         "url": "https://www.univexcorp.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Univex:  DR14 Divider/Rounder, 14 Portion Cutting Head"
+        "sourcekeyword": "Univex:  DR14 Divider/Rounder, 14 Portion Cutting Head",
+        "priceAndPlansCrawled": "https://www.univexcorp.com/product/semi-automatic-double-cut-divider/"
     },
     "www.alibaba.com": {
         "url": "https://www.alibaba.com/showroom/dough-divider-rounder.html",
@@ -125,7 +141,8 @@
         "url": "https://www.bongard.fr",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Bongard:  Bun dividerounder Eris SA"
+        "sourcekeyword": "Bongard:  Bun dividerounder Eris SA",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.amazon.com": {
         "url": "https://www.amazon.com/HayWHNKN-Commercial-Hydraulic-Divider-Desktop/dp/B097P1S9X1",
@@ -139,13 +156,15 @@
         "url": "https://www.mfitaly.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "Mfitaly:  Automatic dough divider rounder"
+        "sourcekeyword": "Mfitaly:  Automatic dough divider rounder",
+        "priceAndPlansCrawled": "Not found"
     },
     "bakeryequipment.com": {
         "url": "https://bakeryequipment.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "BakeryEquipmentcom:  Divider Rounders"
+        "sourcekeyword": "BakeryEquipmentcom:  Divider Rounders",
+        "priceAndPlansCrawled": "https://bakeryequipment.com/productdetail.php?ProductID=16249"
     },
     "www.baxter.com": {
         "url": "https://www.baxter.com",
@@ -229,7 +248,8 @@
         "url": "https://www.doughtech.com",
         "cached_url": "not found",
         "sourcekeyword": "DOUGHTECH:  Parts",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "https://www.doughtech.com/wp-content/uploads/2021/07/artezen-calybra-HD-pricing.pdf"
     },
     "kiskofreezies.com": {
         "url": "https://kiskofreezies.com",
@@ -343,7 +363,8 @@
         "url": "https://www.savagebros.com",
         "cached_url": "not found",
         "sourcekeyword": "SAVAGEBROS:  Parts",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "avalonmfg.com": {
         "url": "https://avalonmfg.com",
