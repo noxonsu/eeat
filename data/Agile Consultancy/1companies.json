@@ -3,7 +3,7 @@
         "url": "https://agileconsultancy.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "AgileConsultancyServices:  AT & C Loss Reduction, AgileConsultancy:  Visa & Immigration Experience With Excellence",
+        "sourcekeyword": "AgileConsultancyServices:  AT & C Loss Reduction, AgileConsultancy:  Visa & Immigration Experience With Excellence, AgileVisaConsultancy:  Student, Immigration, W",
         "priceAndPlansCrawled": "https://agileconsultancy.com/australia-student-visa/",
         "5prompt_Hash": "f99e09b159352e6714ee0668aa09c7ed"
     },
@@ -97,8 +97,8 @@
     "www.stridelearning.com": {
         "url": "https://www.stridelearning.com",
         "cached_url": "not found",
-        "sourcekeyword": "Stride:  Gen AI",
-        "nature": "list of projects"
+        "sourcekeyword": "Stride:  Gen AI, Stride Learning:  Stride Learning Hub",
+        "nature": "single project"
     },
     "fractalsys.com": {
         "url": "https://fractalsys.com",
@@ -113,5 +113,25 @@
     "www.facebook.com": {
         "url": "https://www.facebook.com/agilevisaconsultancy/",
         "nature": "list of projects"
+    },
+    "home.kpmg": {
+        "url": "https://home.kpmg/",
+        "cached_url": "not found",
+        "sourcekeyword": "KPMG:  Agile services"
+    },
+    "www.paconsulting.com": {
+        "url": "https://www.paconsulting.com",
+        "cached_url": "not found",
+        "sourcekeyword": "PA Consulting:  Agile services"
+    },
+    "www2.deloitte.com": {
+        "url": "https://www2.deloitte.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Deloitte:  Agile services"
+    },
+    "www.bcg.com": {
+        "url": "https://www.bcg.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Boston Consulting Group:  Agile services"
     }
 }
