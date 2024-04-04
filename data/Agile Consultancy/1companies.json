@@ -7,7 +7,8 @@
         "url": "https://www.agileconsultingservices.com",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "AgileConsultingServices:  Agile Team Boot Camp"
+        "sourcekeyword": "AgileConsultingServices:  Agile Team Boot Camp",
+        "priceAndPlansCrawled": "https://www.agileconsultingservices.com/event-details/scrum-master-certified-smc-r-3"
     },
     "www.automation-consultants.com": {
         "url": "https://www.automation-consultants.com/services/agile-consultancy/",
@@ -15,6 +16,7 @@
     },
     "agileconsultancy.asia": {
         "url": "https://agileconsultancy.asia/",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     }
 }
