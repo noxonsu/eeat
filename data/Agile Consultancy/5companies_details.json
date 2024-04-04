@@ -1,90 +1,35 @@
 {
     "www.agileconsultingservices.com": {
-        "Agile Training": {
-            "Criteria": {
-                "Exclusive private Agile/Scrum boot camp": "Available",
-                "Certification programs for Agile professionals": "Available",
-                "Certified Agile Coach Training": "Available",
-                "Training and guidance for beginners in Agile methodologies": "Not specified",
-                "Agile Team Boot Camp": "Available",
-                "Scrum Master Certified Course": "Not specified"
-            },
+        "Agile Team Boot Camp": {
             "Call to Action": "More Info",
-            "Usecases": "Improving team collaboration and operations, Elevating team agility",
-            "Solutions": "Tailored training designed to supercharge collaboration, innovation, and Agile mastery"
+            "Usecases": "Helping teams improve collaboration and operations",
+            "Solutions": "Exclusive private Agile/Scrum boot camp, tailored training for collaboration and Agile mastery",
+            "Key Features": [
+                "Exclusive private Agile/Scrum boot camp (1)",
+                "Tailored training designed to supercharge collaboration (1)"
+            ]
         },
-        "Certifications": {
-            "Criteria": {
-                "CCSD Certified Agile Project Management Practitioner": "Not specified",
-                "CCSD Certified Agility@Workplace Practitioner": "Not specified",
-                "CCSD Certified Agile Mindset with Jira Software": "Not specified",
-                "CCSD Agile VUCA Leadership Certification": "Not specified",
-                "CCSD Certified Scrum Master": "Not specified",
-                "PMI's Agile Certified Practitioner (PMI-ACP)": "Not specified"
-            },
+        "Certified Agile Coach Training": {
             "Call to Action": "More Info",
-            "Usecases": "Not specified",
-            "Solutions": "Not specified"
-        },
-        "Knowledge Management": {
-            "Criteria": {
-                "Knowledge management services and certification by Knoco": "Not specified",
-                "Knoco Knowledge Management Certification": "Not specified",
-                "Knoco Lean Knowledge Management": "Not specified",
-                "Knoco Knowledge Management Services": "Not specified"
-            },
-            "Call to Action": "Not specified",
-            "Usecases": "Not specified",
-            "Solutions": "Not specified"
-        },
-        "Agile Fundamentals": {
-            "Criteria": {
-                "Agile Fundamentals: A Beginner's Guide": "Not specified",
-                "Agile Fundamentals": "Not specified"
-            },
-            "Call to Action": "Not specified",
-            "Usecases": "Not specified",
-            "Solutions": "Not specified"
-        },
-        "Leadership Training": {
-            "Criteria": {
-                "Developing Agile leadership skills in volatile, uncertain, and ambiguous environments": "Not specified",
-                "Agile Leadership in VUCA Environments": "Not specified",
-                "Agile VUCA Leadership Certification": "Not specified"
-            },
-            "Call to Action": "Not specified",
-            "Usecases": "Not specified",
-            "Solutions": "Not specified"
+            "Usecases": "Providing advanced professional coaching knowledge and tools for Agile practitioners",
+            "Solutions": "Advanced professional coaching skills, deepening coaching and lean-agile practitioner skills",
+            "Key Features": [
+                "Certified Agile Coach Training (1)",
+                "Opportunity to deepen coaching, mentoring, and lean-agile practitioner skills (1)"
+            ]
         },
         "Consulting Services": {
-            "Criteria": {
-                "Continuous Improvement with Kaizen": "Not specified",
-                "Tailored training designed to supercharge collaboration": "Available",
-                "Helping organizations address specific needs and achieve a high level of business agility": "Available",
-                "Offering expertise and knowledge of industry best practices": "Available"
-            },
             "Call to Action": "More Info",
-            "Usecases": "Helping organizations to achieve the highest level of business agility, Improving business operations at all organizational levels",
-            "Solutions": "Agile Coaches offering expertise and knowledge of industry best practices"
-        },
-        "Tools and Techniques": {
-            "Criteria": {
-                "Empowering individuals, teams, and organizations through Agile Transformation & Lean Knowledge Management": "Available",
-                "Improving team collaboration and operations": "Available",
-                "Opportunity to deepen coaching, mentoring, and lean-agile practitioner skills": "Available"
-            },
-            "Call to Action": "Not specified",
-            "Usecases": "Improving team collaboration and operations, Deepening coaching, mentoring, and lean-agile practitioner skills",
-            "Solutions": "Empowering individuals, teams, and organizations through Agile Transformation & Lean Knowledge Management"
+            "Usecases": "Helping organizations achieve a high level of business agility",
+            "Solutions": "Expertise in industry best practices, addressing specific organizational needs",
+            "Key Features": [
+                "Continuous Improvement with Kaizen (1)",
+                "Helping organizations address specific needs and achieve a high level of business agility (1)"
+            ]
         },
         "pricesAndPlans": {
-            "status": "found",
-            "priceAndPlans": {
-                "Scrum Master Certified (SMC\u00ae)": {
-                    "Course Delivery Method": "Self Study",
-                    "Online Course Price": "$399"
-                }
-            }
+            "status": "Not found",
+            "priceAndPlans": "Not found"
         }
     },
     "agileconsultancy.asia": {
@@ -95,7 +40,7 @@
                 "Agile Mindset with Jira Software",
                 "Agile Practitioner: A Coaching Approach"
             ],
-            "Solutions": "Empower individuals, teams, and organizations to unleash their full potential through Agile Transformation & Lean Knowledge Management",
+            "Solutions": "Empower individuals, teams, and organizations through Agile Transformation & Lean Knowledge Management",
             "Key features": [
                 "Agile Project Management in Practice",
                 "Agile Mindset with Jira Software",
@@ -112,7 +57,7 @@
                 "CCSD Certified Agility@Workplace Practitioner",
                 "PMI's Agile Certified Practitioner (PMI-ACP)"
             ],
-            "Solutions": "Empower individuals, teams, and organizations to unleash their full potential through Agile Transformation & Lean Knowledge Management",
+            "Solutions": "Certification programs for Agile professionals",
             "Key features": [
                 "CCSD Certified Scrum Master",
                 "CCSD Certified Agile Mindset with Jira Software",
@@ -129,7 +74,7 @@
                 "Continuous Improvement with Kaizen",
                 "Agile Fundamentals: A Beginner's Guide"
             ],
-            "Solutions": "Empower individuals, teams, and organizations to unleash their full potential through Agile Transformation & Lean Knowledge Management",
+            "Solutions": "Training and guidance for beginners in Agile methodologies",
             "Key features": [
                 "Agility@Workplace: Agile Ways of Working",
                 "Continuous Improvement with Kaizen",
@@ -141,7 +86,7 @@
             "Usecases": [
                 "Agile Leadership in VUCA Environments"
             ],
-            "Solutions": "Empower individuals, teams, and organizations to unleash their full potential through Agile Transformation & Lean Knowledge Management",
+            "Solutions": "Developing Agile leadership skills in volatile, uncertain, and ambiguous environments",
             "Key features": [
                 "Agile Leadership in VUCA Environments"
             ]
@@ -153,7 +98,7 @@
                 "Knoco Knowledge Management Services",
                 "Knoco Knowledge Management Certification"
             ],
-            "Solutions": "Empower individuals, teams, and organizations to unleash their full potential through Agile Transformation & Lean Knowledge Management",
+            "Solutions": "Knowledge management services and certification by Knoco",
             "Key features": [
                 "Knoco Lean Knowledge Management",
                 "Knoco Knowledge Management Services",
@@ -163,50 +108,76 @@
     },
     "agileconsultancy.com": {
         "Agile Consultancy": {
-            "Call to Action": "Book a consultation",
-            "Usecases": [
-                "Education / Student visa",
-                "Immigration (PR) Visa",
-                "Investor (Business) Visa",
-                "USA H1B Visa",
-                "Visitor Visa"
-            ],
-            "Solutions": {
-                "Education / Student visa": "Assistance for foreign education opportunities",
-                "Immigration (PR) Visa": "Support for career establishment and relocation to Australia and Canada",
-                "Investor (Business) Visa": "Visa for individuals excelling in business with good capital",
-                "USA H1B Visa": "Work permit visa for IT professionals",
-                "Visitor Visa": "Unique visa category for various travel purposes"
-            },
-            "Key Features": {
-                "100 % Genuine Assistance": 1,
-                "Fast, Friendly & Expert Advice": 1,
-                "All types of Visa to all Across the World": 1,
-                "Multiple payment Gateways": 1,
-                "More than 18 years of Experience": 1,
-                "Specialty in Rejected / Depended / Green card cases": 1,
-                "Finance and Forex Assistance Available": 1,
-                "Accommodation and Airport pickup assistance": 1
+            "Services": {
+                "Education / Student visa": {
+                    "Call to action": "Book a consultation",
+                    "Usecases": "International students seeking foreign education opportunities",
+                    "Solutions": "Assistance with study visa applications for various countries like UK, Australia, New Zealand, Europe, Canada, USA",
+                    "Key features": [
+                        "100% Genuine Assistance",
+                        "Fast, Friendly & Expert Advice",
+                        "Specialty in Rejected / Depended / Green card cases"
+                    ]
+                },
+                "Immigration Visa": {
+                    "Call to action": "Book a consultation",
+                    "Usecases": "Individuals looking to establish their career abroad",
+                    "Solutions": "Assistance with immigration visa applications for countries like Australia and Canada",
+                    "Key features": [
+                        "100% Genuine Assistance",
+                        "Fast, Friendly & Expert Advice",
+                        "Specialty in Rejected / Depended / Green card cases"
+                    ]
+                },
+                "Business Investor Visa": {
+                    "Call to action": "Book a consultation",
+                    "Usecases": "Entrepreneurs and business professionals",
+                    "Solutions": "Assistance with business investor visa applications for countries like USA, UK, Australia, Canada",
+                    "Key features": [
+                        "100% Genuine Assistance",
+                        "Fast, Friendly & Expert Advice",
+                        "Specialty in Rejected / Depended / Green card cases"
+                    ]
+                },
+                "USA H1B Work Visa": {
+                    "Call to action": "Book a consultation",
+                    "Usecases": "IT professionals seeking work opportunities in the USA",
+                    "Solutions": "Assistance with USA H1B work visa applications",
+                    "Key features": [
+                        "100% Genuine Assistance",
+                        "Fast, Friendly & Expert Advice",
+                        "Specialty in Rejected / Depended / Green card cases"
+                    ]
+                },
+                "Visitor Visa": {
+                    "Call to action": "Book a consultation",
+                    "Usecases": "Individuals seeking visitor visas for various purposes",
+                    "Solutions": "Assistance with visitor visa applications",
+                    "Key features": [
+                        "100% Genuine Assistance",
+                        "Fast, Friendly & Expert Advice",
+                        "Specialty in Rejected / Depended / Green card cases"
+                    ]
+                }
             }
         },
         "pricesAndPlans": {
             "status": "Not found",
-            "priceAndPlans": {}
+            "priceAndPlans": null
         }
     },
     "www.automation-consultants.com": {
         "Agile Consultancy": {
             "Call to Action": "Book a free consultation",
             "Usecases": [
-                "Helping organizations at different stages of Agile transformation",
+                "Helping organizations at different stages of their Agile transformation journey",
                 "Supporting Agile scaling frameworks implementation",
-                "Providing tailored Agile consultancy services"
+                "Providing Agile consultancy services tailored to meet specific business goals"
             ],
             "Solutions": [
-                "Agile transformations",
-                "Agile at Scale implementation",
-                "Choosing the right process framework",
-                "SAFe adoption"
+                "Agile consultancy services for organizations of all sizes",
+                "Assistance in choosing the right Agile tools and frameworks",
+                "Support for Agile transformations at scale"
             ],
             "Key Features": {
                 "Agile Training": {
@@ -244,7 +215,7 @@
         },
         "pricesAndPlans": {
             "status": "Not found",
-            "priceAndPlans": []
+            "priceAndPlans": null
         }
     },
     "www.agileconsultancy.asia": {
@@ -255,7 +226,7 @@
                 "Agile Mindset with Jira Software",
                 "Agile Practitioner: A Coaching Approach"
             ],
-            "Solutions": "Empower individuals, teams, and organizations to unleash their full potential through Agile Transformation & Lean Knowledge Management",
+            "Solutions": "Agile Transformation Series - Practitioners",
             "Key features": [
                 "Agile Project Management in Practice",
                 "Agile Mindset with Jira Software",
@@ -272,7 +243,7 @@
                 "CCSD Certified Agility@Workplace Practitioner",
                 "PMI's Agile Certified Practitioner (PMI-ACP)"
             ],
-            "Solutions": "Empower individuals, teams, and organizations to unleash their full potential through Agile Transformation & Lean Knowledge Management",
+            "Solutions": "Agile Transformation Series - Certification",
             "Key features": [
                 "CCSD Certified Scrum Master",
                 "CCSD Certified Agile Mindset with Jira Software",
@@ -289,7 +260,7 @@
                 "Continuous Improvement with Kaizen",
                 "Agile Fundamentals: A Beginner's Guide"
             ],
-            "Solutions": "Empower individuals, teams, and organizations to unleash their full potential through Agile Transformation & Lean Knowledge Management",
+            "Solutions": "Agile Transformation Series - Beginners",
             "Key features": [
                 "Agility@Workplace: Agile Ways of Working",
                 "Continuous Improvement with Kaizen",
@@ -301,7 +272,7 @@
             "Usecases": [
                 "Agile Leadership in VUCA Environments"
             ],
-            "Solutions": "Empower individuals, teams, and organizations to unleash their full potential through Agile Transformation & Lean Knowledge Management",
+            "Solutions": "Agile Transformation Series - Leadership",
             "Key features": [
                 "Agile Leadership in VUCA Environments"
             ]
@@ -313,7 +284,7 @@
                 "Knoco Knowledge Management Services",
                 "Knoco Knowledge Management Certification"
             ],
-            "Solutions": "Empower individuals, teams, and organizations to unleash their full potential through Agile Transformation & Lean Knowledge Management",
+            "Solutions": "Knoco's Knowledge Management Services",
             "Key features": [
                 "Knoco Lean Knowledge Management",
                 "Knoco Knowledge Management Services",
@@ -322,88 +293,41 @@
         }
     },
     "www.toptal.com": {
-        "Agile Consultancy": {
-            "Toptal": {
-                "Call to action": "Hire a Top Agile Consultant Now",
-                "Usecases": [
-                    "Marketplace for top agile consultants with experience from elite organizations worldwide",
-                    "Trusted by leading brands and startups for mission-critical projects"
+        "products": [
+            {
+                "name": "Toptal Agile Consultants",
+                "call_to_action": "Hire a Top Agile Consultant Now",
+                "usecases": [
+                    "Leading teams through Agile transformation",
+                    "Managing concurrent teams on troubled projects",
+                    "Product design and agile product management",
+                    "Remotely managing large development projects",
+                    "Working in management and coaching on Agile principles",
+                    "Experienced project manager, scrum master, and agile leader",
+                    "Leading teams through Agile transformations",
+                    "Technical project management and CTO experience"
                 ],
-                "Solutions": [
+                "solutions": [
                     "Agile Consulting",
                     "Technical Project Management",
                     "Agile Product Management",
-                    "Agile Project Management",
-                    "Agile Coaching"
+                    "Mobile App Development",
+                    "Software Project Management",
+                    "Scrum",
+                    "Kanban",
+                    "Agile Software Development"
                 ],
-                "Key features": {
-                    "Agile Training": {
-                        "title": "Agile Training",
-                        "features": [
-                            "Certified ScrumMaster (CSM)",
-                            "Agile Product Management",
-                            "Jira",
-                            "Six Sigma",
-                            "Agile Project Management"
-                        ]
-                    },
-                    "Certifications": {
-                        "title": "Certifications",
-                        "features": [
-                            "PMI Project Management Professional (PMP)",
-                            "Disciplined Agile Value Stream Consultant (DAVSC)",
-                            "Disciplined Agile Coach (DAC)",
-                            "Disciplined Agile Senior Scrum Master (DASSM)"
-                        ]
-                    },
-                    "Knowledge Management": {
-                        "title": "Knowledge Management",
-                        "features": [
-                            "Agile Software Development",
-                            "Mobile Banking",
-                            "Kanban",
-                            "AgileIT"
-                        ]
-                    },
-                    "Agile Fundamentals": {
-                        "title": "Agile Fundamentals",
-                        "features": [
-                            "Agile Consulting",
-                            "Web",
-                            "Technical Project Management",
-                            "Change Management"
-                        ]
-                    },
-                    "Leadership Training": {
-                        "title": "Leadership Training",
-                        "features": [
-                            "Agile Coaching",
-                            "Waterfall Delivery",
-                            "Scrum Master",
-                            "Project Management"
-                        ]
-                    },
-                    "Consulting Services": {
-                        "title": "Consulting Services",
-                        "features": [
-                            "Agile Consulting",
-                            "Agile Project Management",
-                            "Scrum",
-                            "Agile Coaching"
-                        ]
-                    },
-                    "Tools and Techniques": {
-                        "title": "Tools and Techniques",
-                        "features": [
-                            "Agile Software Development",
-                            "Mobile App Development",
-                            "Digital",
-                            "Scrum"
-                        ]
-                    }
-                }
+                "key_features": [
+                    "Leading teams through Agile transformation",
+                    "Certified in Agile methodologies (CSM, PMP, etc.)",
+                    "Experienced in product design and management",
+                    "Remote management of large development projects",
+                    "Expertise in Agile principles and coaching",
+                    "Strong leadership and project management skills",
+                    "Specialization in Agile transformations and program management"
+                ]
             }
-        },
+        ],
         "pricesAndPlans": {
             "status": "Not found",
             "priceAndPlans": []
@@ -419,69 +343,16 @@
                 "Head Hunting",
                 "C-Suite Hiring"
             ],
-            "Solutions": "Recruitment, Resourcing, Onboarding, Recruitment Process Outsourcing (RPO), HR, Talent Acquisition, Head Hunting, C-Suite Hiring, Niche Recruitment, Talent Sourcing, Recruitment & Executive Search, Staffing Solutions, Career Transition, Permanent Placement, CV Writing, LinkedIn Makeover, Personal Branding, Interview Training, Resume Help, Job Search, Executive Recruitment, and Jobs",
+            "Solutions": "Agile Consultants is a talent solutions company in Dubai that focuses on tapping into the complete potential of individuals and organizations. They offer services such as Talent Sourcing, Executive Search, Niche Talent Acquisition, Head Hunting, and C-Suite Hiring.",
             "Key features": {
-                "Agile Training": {
-                    "title": "Agile Training",
+                "Recruitment": {
+                    "title": "Recruitment",
                     "features": [
-                        "Exclusive private Agile/Scrum boot camp (1)",
-                        "Certification programs for Agile professionals (2)",
-                        "Certified Agile Coach Training (1)",
-                        "Training and guidance for beginners in Agile methodologies (1)",
-                        "Agile Team Boot Camp (1)",
-                        "Scrum Master Certified Course (1)"
-                    ]
-                },
-                "Certifications": {
-                    "title": "Certifications",
-                    "features": [
-                        "CCSD Certified Agile Project Management Practitioner (1)",
-                        "CCSD Certified Agility@Workplace Practitioner (1)",
-                        "CCSD Certified Agile Mindset with Jira Software (1)",
-                        "CCSD Agile VUCA Leadership Certification (1)",
-                        "CCSD Certified Scrum Master (1)",
-                        "PMI's Agile Certified Practitioner (PMI-ACP) (1)"
-                    ]
-                },
-                "Knowledge Management": {
-                    "title": "Knowledge Management",
-                    "features": [
-                        "Knowledge management services and certification by Knoco (1)",
-                        "Knoco Knowledge Management Certification (1)",
-                        "Knoco Lean Knowledge Management (1)",
-                        "Knoco Knowledge Management Services (1)"
-                    ]
-                },
-                "Agile Fundamentals": {
-                    "title": "Agile Fundamentals",
-                    "features": [
-                        "Agile Fundamentals: A Beginner's Guide (1)",
-                        "Agile Fundamentals (1)"
-                    ]
-                },
-                "Leadership Training": {
-                    "title": "Leadership Training",
-                    "features": [
-                        "Developing Agile leadership skills in volatile, uncertain, and ambiguous environments (1)",
-                        "Agile Leadership in VUCA Environments (1)",
-                        "Agile VUCA Leadership Certification (1)"
-                    ]
-                },
-                "Consulting Services": {
-                    "title": "Consulting Services",
-                    "features": [
-                        "Continuous Improvement with Kaizen (1)",
-                        "Tailored training designed to supercharge collaboration (1)",
-                        "Helping organizations address specific needs and achieve a high level of business agility (1)",
-                        "Offering expertise and knowledge of industry best practices (1)"
-                    ]
-                },
-                "Tools and Techniques": {
-                    "title": "Tools and Techniques",
-                    "features": [
-                        "Empowering individuals, teams, and organizations through Agile Transformation & Lean Knowledge Management (1)",
-                        "Improving team collaboration and operations (1)",
-                        "Opportunity to deepen coaching, mentoring, and lean-agile practitioner skills (1)"
+                        "Talent Sourcing",
+                        "Executive Search",
+                        "Niche Talent Acquisition",
+                        "Head Hunting",
+                        "C-Suite Hiring"
                     ]
                 }
             }
@@ -490,8 +361,8 @@
     "wexgen.com": {
         "Agile Consultancy": {
             "Call to Action": "Talk to a manager",
-            "Usecases": "Organizations looking to jumpstart or continue their Agile journey, staff augmentation needs, organizational assessments, roadmaps, transformation, and scalability",
-            "Solutions": "Agile consultants for staff augmentation, Agile management consulting services for organizational assessments, roadmaps, transformation, and scalability",
+            "Use Cases": "Organizations looking to jumpstart or continue their Agile journey, in need of Agile consultants for staff augmentation, or seeking Agile management consulting services for organizational assessments, roadmaps, transformation, and scalability.",
+            "Solutions": "WEXGEN provides Agile consultants for staff augmentation needs and Agile management consulting services for organizational assessments, roadmaps, transformation, and scalability.",
             "Key Features": {
                 "Agile Training": {
                     "title": "Agile Training",
@@ -552,6 +423,122 @@
                         "Empowering individuals, teams, and organizations through Agile Transformation & Lean Knowledge Management",
                         "Improving team collaboration and operations",
                         "Opportunity to deepen coaching, mentoring, and lean-agile practitioner skills"
+                    ]
+                }
+            }
+        }
+    },
+    "www.stridelearning.com": {
+        "Agile Consultancy": {
+            "Name": "Stride Agile Consultancy",
+            "Services": {
+                "Agile Training": {
+                    "Call to Action": "Learn More",
+                    "Usecases": [
+                        "Enhancing project management skills",
+                        "Improving productivity in organizations"
+                    ],
+                    "Solutions": [
+                        "Exclusive private Agile/Scrum boot camp",
+                        "Certification programs for Agile professionals",
+                        "Certified Agile Coach Training"
+                    ],
+                    "Key Features": [
+                        "Exclusive private Agile/Scrum boot camp (1)",
+                        "Certification programs for Agile professionals (2)",
+                        "Certified Agile Coach Training (1)"
+                    ]
+                },
+                "Certifications": {
+                    "Call to Action": "Explore Certifications",
+                    "Usecases": [
+                        "Validating Agile expertise",
+                        "Career advancement in Agile roles"
+                    ],
+                    "Solutions": [
+                        "CCSD Certified Agile Project Management Practitioner",
+                        "CCSD Certified Agility@Workplace Practitioner",
+                        "CCSD Certified Agile Mindset with Jira Software"
+                    ],
+                    "Key Features": [
+                        "CCSD Certified Agile Project Management Practitioner (1)",
+                        "CCSD Certified Agility@Workplace Practitioner (1)",
+                        "CCSD Certified Agile Mindset with Jira Software (1)"
+                    ]
+                },
+                "Knowledge Management": {
+                    "Call to Action": "Discover Knowledge Management",
+                    "Usecases": [
+                        "Implementing effective knowledge sharing practices",
+                        "Enhancing organizational learning"
+                    ],
+                    "Solutions": [
+                        "Knowledge management services and certification by Knoco",
+                        "Knoco Knowledge Management Certification",
+                        "Knoco Lean Knowledge Management"
+                    ],
+                    "Key Features": [
+                        "Knowledge management services and certification by Knoco (1)",
+                        "Knoco Knowledge Management Certification (1)",
+                        "Knoco Lean Knowledge Management (1)"
+                    ]
+                },
+                "Agile Fundamentals": {
+                    "Call to Action": "Get Started with Agile Fundamentals",
+                    "Usecases": [
+                        "Building a foundational understanding of Agile principles"
+                    ],
+                    "Solutions": [
+                        "Agile Fundamentals: A Beginner's Guide",
+                        "Agile Fundamentals"
+                    ],
+                    "Key Features": [
+                        "Agile Fundamentals: A Beginner's Guide (1)",
+                        "Agile Fundamentals (1)"
+                    ]
+                },
+                "Leadership Training": {
+                    "Call to Action": "Develop Agile Leadership Skills",
+                    "Usecases": [
+                        "Enhancing leadership capabilities in Agile environments"
+                    ],
+                    "Solutions": [
+                        "Developing Agile leadership skills in volatile, uncertain, and ambiguous environments",
+                        "Agile Leadership in VUCA Environments"
+                    ],
+                    "Key Features": [
+                        "Developing Agile leadership skills in volatile, uncertain, and ambiguous environments (1)",
+                        "Agile Leadership in VUCA Environments (1)"
+                    ]
+                },
+                "Consulting Services": {
+                    "Call to Action": "Consult with Experts",
+                    "Usecases": [
+                        "Tailored training for organizational needs",
+                        "Implementing industry best practices"
+                    ],
+                    "Solutions": [
+                        "Continuous Improvement with Kaizen",
+                        "Tailored training designed to supercharge collaboration"
+                    ],
+                    "Key Features": [
+                        "Continuous Improvement with Kaizen (1)",
+                        "Tailored training designed to supercharge collaboration (1)"
+                    ]
+                },
+                "Tools and Techniques": {
+                    "Call to Action": "Explore Agile Tools",
+                    "Usecases": [
+                        "Enhancing team collaboration",
+                        "Improving operational efficiency"
+                    ],
+                    "Solutions": [
+                        "Empowering individuals, teams, and organizations through Agile Transformation & Lean Knowledge Management",
+                        "Improving team collaboration and operations"
+                    ],
+                    "Key Features": [
+                        "Empowering individuals, teams, and organizations through Agile Transformation & Lean Knowledge Management (1)",
+                        "Improving team collaboration and operations (1)"
                     ]
                 }
             }
