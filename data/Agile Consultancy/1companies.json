@@ -65,5 +65,23 @@
         "nature": "single project",
         "priceAndPlansCrawled": "Not found",
         "5prompt_Hash": "d17c3873a323a54d03552358fcf861f9"
+    },
+    "www.agilecs.co.uk": {
+        "url": "http://www.agilecs.co.uk/"
+    },
+    "thei4group.com": {
+        "url": "https://thei4group.com/what-is-agile-consulting/"
+    },
+    "www.stride.build": {
+        "url": "https://www.stride.build/blog/how-to-choose-the-right-agile-software-development-consultancy-for-you"
+    },
+    "fractalsystems.co.uk": {
+        "url": "https://fractalsystems.co.uk/agile-consulting/"
+    },
+    "www.mckenna.agileconsultants.com": {
+        "url": "https://www.mckenna.agileconsultants.com/"
+    },
+    "wexgen.com": {
+        "url": "http://wexgen.com/agile-consultancy/"
     }
 }
