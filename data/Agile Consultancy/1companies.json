@@ -1,14 +1,18 @@
 {
     "agileconsultancy.com": {
-        "url": "https://agileconsultancy.com/"
+        "url": "https://agileconsultancy.com/",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of companies delivering agile professionals to enhance project management and productivity for digital partners."
     },
     "www.agileconsultingservices.com": {
-        "url": "https://www.agileconsultingservices.com/"
+        "url": "https://www.agileconsultingservices.com/",
+        "nature": "list of projects"
     },
     "www.automation-consultants.com": {
-        "url": "https://www.automation-consultants.com/services/agile-consultancy/"
+        "url": "https://www.automation-consultants.com/services/agile-consultancy/",
+        "nature": "list of projects"
     },
     "agileconsultancy.asia": {
-        "url": "https://agileconsultancy.asia/"
+        "url": "https://agileconsultancy.asia/",
+        "nature": "single project"
     }
 }
