@@ -5,7 +5,7 @@
         "cached_url": "not found",
         "sourcekeyword": "AgileConsultancyServices:  AT & C Loss Reduction, AgileConsultancy:  Visa & Immigration Experience With Excellence",
         "priceAndPlansCrawled": "https://agileconsultancy.com/australia-student-visa/",
-        "5prompt_Hash": "d17c3873a323a54d03552358fcf861f9"
+        "5prompt_Hash": "f99e09b159352e6714ee0668aa09c7ed"
     },
     "www.agileconsultingservices.com": {
         "url": "https://www.agileconsultingservices.com",
@@ -13,7 +13,7 @@
         "cached_url": "not found",
         "sourcekeyword": "AgileConsultingServices:  Agile Team Boot Camp",
         "priceAndPlansCrawled": "https://www.agileconsultingservices.com/event-details/scrum-master-certified-smc-r-3",
-        "5prompt_Hash": "d17c3873a323a54d03552358fcf861f9"
+        "5prompt_Hash": "f99e09b159352e6714ee0668aa09c7ed"
     },
     "www.automation-consultants.com": {
         "url": "https://www.automation-consultants.com",
@@ -21,19 +21,19 @@
         "cached_url": "not found",
         "sourcekeyword": "AutomationConsultants:  Agile Consultancy",
         "priceAndPlansCrawled": "https://www.automation-consultants.com/jira-pricing/",
-        "5prompt_Hash": "d17c3873a323a54d03552358fcf861f9"
+        "5prompt_Hash": "f99e09b159352e6714ee0668aa09c7ed"
     },
     "agileconsultancy.asia": {
         "url": "https://agileconsultancy.asia/",
         "nature": "single project",
         "priceAndPlansCrawled": "Not found",
-        "5prompt_Hash": "d17c3873a323a54d03552358fcf861f9"
+        "5prompt_Hash": "f99e09b159352e6714ee0668aa09c7ed"
     },
     "www.agileconsultancy.asia": {
         "url": "https://www.agileconsultancy.asia/",
         "nature": "single project",
         "priceAndPlansCrawled": "Not found",
-        "5prompt_Hash": "d17c3873a323a54d03552358fcf861f9"
+        "5prompt_Hash": "f99e09b159352e6714ee0668aa09c7ed"
     },
     "www.agileconsultants.ae": {
         "url": "https://www.agileconsultants.ae/",
@@ -46,7 +46,7 @@
         "cached_url": "not found",
         "sourcekeyword": "Toptal:  Agile Consultant",
         "priceAndPlansCrawled": "https://www.toptal.com/services/management-consulting/pricing-consulting",
-        "5prompt_Hash": "d17c3873a323a54d03552358fcf861f9"
+        "5prompt_Hash": "f99e09b159352e6714ee0668aa09c7ed"
     },
     "www.agileconsultancyservices.co.in": {
         "url": "https://www.agileconsultancyservices.co.in/",
@@ -64,7 +64,7 @@
         "url": "https://www.linkedin.com/company/agileconsultants",
         "nature": "single project",
         "priceAndPlansCrawled": "Not found",
-        "5prompt_Hash": "d17c3873a323a54d03552358fcf861f9"
+        "5prompt_Hash": "f99e09b159352e6714ee0668aa09c7ed"
     },
     "www.agilecs.co.uk": {
         "url": "http://www.agilecs.co.uk/",
@@ -91,7 +91,8 @@
         "nature": "single project",
         "cached_url": "not found",
         "sourcekeyword": "WEXGEN:  Agile Consultancy",
-        "priceAndPlansCrawled": "Not found"
+        "priceAndPlansCrawled": "Not found",
+        "5prompt_Hash": "f99e09b159352e6714ee0668aa09c7ed"
     },
     "www.stridelearning.com": {
         "url": "https://www.stridelearning.com",

@@ -1,0 +1,16 @@
+Instructions for Assistant to Analyze Agile Consultancy Products
+
+Objective: To determine the critical characteristics or features of the chosen Agile Consultancy that may be important to consumers.
+
+Preparation:
+For each service, list down how they fare in each of the criteria.
+
+In additional detrmine such information
+1. Call to action - 'talk to a manager', 'book a demo', 'talk to team', sign up etc.
+2. Their usecases  
+3. Their solutions. 
+4. Key features according to optimized feature list: Optimized Agile Consultancy Features: 
+ {"Agile Training": {"title": "Agile Training", "features": ["Exclusive private Agile/Scrum boot camp (1)", "Certification programs for Agile professionals (2)", "Certified Agile Coach Training (1)", "Training and guidance for beginners in Agile methodologies (1)", "Agile Team Boot Camp (1)", "Scrum Master Certified Course (1)"]}, "Certifications": {"title": "Certifications", "features": ["CCSD Certified Agile Project Management Practitioner (1)", "CCSD Certified Agility@Workplace Practitioner (1)", "CCSD Certified Agile Mindset with Jira Software (1)", "CCSD Agile VUCA Leadership Certification (1)", "CCSD Certified Scrum Master (1)", "PMI's Agile Certified Practitioner (PMI-ACP) (1)"]}, "Knowledge Management": {"title": "Knowledge Management", "features": ["Knowledge management services and certification by Knoco (1)", "Knoco Knowledge Management Certification (1)", "Knoco Lean Knowledge Management (1)", "Knoco Knowledge Management Services (1)"]}, "Agile Fundamentals": {"title": "Agile Fundamentals", "features": ["Agile Fundamentals: A Beginner's Guide (1)", "Agile Fundamentals (1)"]}, "Leadership Training": {"title": "Leadership Training", "features": ["Developing Agile leadership skills in volatile, uncertain, and ambiguous environments (1)", "Agile Leadership in VUCA Environments (1)", "Agile VUCA Leadership Certification (1)"]}, "Consulting Services": {"title": "Consulting Services", "features": ["Continuous Improvement with Kaizen (1)", "Tailored training designed to supercharge collaboration (1)", "Helping organizations address specific needs and achieve a high level of business agility (1)", "Offering expertise and knowledge of industry best practices (1)"]}, "Tools and Techniques": {"title": "Tools and Techniques", "features": ["Empowering individuals, teams, and organizations through Agile Transformation & Lean Knowledge Management (1)", "Improving team collaboration and operations (1)", "Opportunity to deepen coaching, mentoring, and lean-agile practitioner skills (1)"]}}"
+5. We focused on projects meet criteria: Companies who deliver agile professionals to enhance project management and productivity for digital partners in Amsterdam, The Netherlands?
+                                                                
+The goal is to provide an objective view of each product offerings, highlighting both strengths and potential areas for improvement. Provide the results in JSON format.
