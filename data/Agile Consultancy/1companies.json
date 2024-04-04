@@ -87,7 +87,19 @@
         "nature": "Invalid: The URL provided is not accessible as it is showing a DNS resolution error."
     },
     "wexgen.com": {
-        "url": "http://wexgen.com/agile-consultancy/",
-        "nature": "list of projects"
+        "url": "https://wexgen.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "WEXGEN:  Agile Consultancy"
+    },
+    "www.stridelearning.com": {
+        "url": "https://www.stridelearning.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Stride:  Gen AI"
+    },
+    "fractalsys.com": {
+        "url": "https://fractalsys.com",
+        "cached_url": "not found",
+        "sourcekeyword": "FractalSystems:  Agile Consulting"
     }
 }
