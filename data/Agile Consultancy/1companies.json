@@ -67,21 +67,27 @@
         "5prompt_Hash": "d17c3873a323a54d03552358fcf861f9"
     },
     "www.agilecs.co.uk": {
-        "url": "http://www.agilecs.co.uk/"
+        "url": "http://www.agilecs.co.uk/",
+        "nature": "list of projects"
     },
     "thei4group.com": {
-        "url": "https://thei4group.com/what-is-agile-consulting/"
+        "url": "https://thei4group.com/what-is-agile-consulting/",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of companies delivering agile professionals to enhance project management and productivity for digital partners in Amsterdam, The Netherlands."
     },
     "www.stride.build": {
-        "url": "https://www.stride.build/blog/how-to-choose-the-right-agile-software-development-consultancy-for-you"
+        "url": "https://www.stride.build/blog/how-to-choose-the-right-agile-software-development-consultancy-for-you",
+        "nature": "list of projects"
     },
     "fractalsystems.co.uk": {
-        "url": "https://fractalsystems.co.uk/agile-consulting/"
+        "url": "https://fractalsystems.co.uk/agile-consulting/",
+        "nature": "list of projects"
     },
     "www.mckenna.agileconsultants.com": {
-        "url": "https://www.mckenna.agileconsultants.com/"
+        "url": "https://www.mckenna.agileconsultants.com/",
+        "nature": "Invalid: The URL provided is not accessible as it is showing a DNS resolution error."
     },
     "wexgen.com": {
-        "url": "http://wexgen.com/agile-consultancy/"
+        "url": "http://wexgen.com/agile-consultancy/",
+        "nature": "list of projects"
     }
 }
