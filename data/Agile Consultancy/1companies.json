@@ -22,24 +22,31 @@
         "5prompt_Hash": "5dd3f80a6db18d8e776df90da20ab588"
     },
     "www.agileconsultancy.asia": {
-        "url": "https://www.agileconsultancy.asia/"
+        "url": "https://www.agileconsultancy.asia/",
+        "nature": "single project"
     },
     "www.agileconsultants.ae": {
-        "url": "https://www.agileconsultants.ae/"
+        "url": "https://www.agileconsultants.ae/",
+        "nature": "single project"
     },
     "www.toptal.com": {
-        "url": "https://www.toptal.com/project-managers/agile-consultant"
+        "url": "https://www.toptal.com/project-managers/agile-consultant",
+        "nature": "list of projects"
     },
     "www.agileconsultancyservices.co.in": {
-        "url": "https://www.agileconsultancyservices.co.in/"
+        "url": "https://www.agileconsultancyservices.co.in/",
+        "nature": "list of projects"
     },
     "in.linkedin.com": {
-        "url": "https://in.linkedin.com/company/agileconsultancy"
+        "url": "https://in.linkedin.com/company/agileconsultancy",
+        "nature": "list of projects"
     },
     "www.agilevisaconsultancy.com": {
-        "url": "https://www.agilevisaconsultancy.com/"
+        "url": "https://www.agilevisaconsultancy.com/",
+        "nature": "Invalid: The URL provided is not accessible, it might be due to a DNS resolution issue or the website is down."
     },
     "www.linkedin.com": {
-        "url": "https://www.linkedin.com/company/agileconsultants"
+        "url": "https://www.linkedin.com/company/agileconsultants",
+        "nature": "single project"
     }
 }
