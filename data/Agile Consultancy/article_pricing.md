@@ -1,7 +1,9 @@
-## Agile Consultancy Pricing Plans Comparison
+# Agile Consultancy Pricing Plans Comparison
 
-| Company | Online Course Price |
-|---------|---------------------|
-| [Agile Consulting Services](www.agileconsultingservices.com) | $399 |
-  
-Unfortunately, pricing information for Agile Consultancy, Automation Consultants, and Toptal is not available at the moment. Based on the provided data, Agile Consulting Services offers an online course for $399. It seems that Automation Consultants and Toptal do not have publicly listed pricing plans for comparison. It is recommended to reach out to these companies directly for more information on their pricing and services.
+| Company | Certification | Course Delivery Method | Online Course Price |
+|---------|---------------|------------------------|---------------------|
+| Agile Consulting Services | Scrum Master Certified (SMC®) | Self Study | $399 |
+
+Agile Consulting Services offers the Scrum Master Certified (SMC®) certification course for a price of $399 with self-study delivery method.
+
+Unfortunately, pricing plans for Agile Consultancy, Automation Consultants, and Toptal were not found.
