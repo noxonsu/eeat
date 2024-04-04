@@ -117,21 +117,25 @@
     "home.kpmg": {
         "url": "https://home.kpmg/",
         "cached_url": "not found",
-        "sourcekeyword": "KPMG:  Agile services"
+        "sourcekeyword": "KPMG:  Agile services",
+        "nature": "list of projects"
     },
     "www.paconsulting.com": {
         "url": "https://www.paconsulting.com",
         "cached_url": "not found",
-        "sourcekeyword": "PA Consulting:  Agile services"
+        "sourcekeyword": "PA Consulting:  Agile services",
+        "nature": "list of projects"
     },
     "www2.deloitte.com": {
         "url": "https://www2.deloitte.com",
         "cached_url": "not found",
-        "sourcekeyword": "Deloitte:  Agile services"
+        "sourcekeyword": "Deloitte:  Agile services",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.bcg.com": {
         "url": "https://www.bcg.com",
         "cached_url": "not found",
-        "sourcekeyword": "Boston Consulting Group:  Agile services"
+        "sourcekeyword": "Boston Consulting Group:  Agile services",
+        "nature": "Invalid (single). Invalid: The content does not match the criteria of companies providing agile professionals to enhance project management and productivity in Amsterdam."
     }
 }
