@@ -107,9 +107,11 @@
         "nature": "Invalid: The page is navigating and changing the content, making it impossible to retrieve information."
     },
     "www.consulting.us": {
-        "url": "https://www.consulting.us/rankings/top-consulting-firms-in-the-us-by-area-of-expertise/agile"
+        "url": "https://www.consulting.us/rankings/top-consulting-firms-in-the-us-by-area-of-expertise/agile",
+        "nature": "list of projects"
     },
     "www.facebook.com": {
-        "url": "https://www.facebook.com/agilevisaconsultancy/"
+        "url": "https://www.facebook.com/agilevisaconsultancy/",
+        "nature": "list of projects"
     }
 }
