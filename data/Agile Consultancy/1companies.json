@@ -1,7 +1,9 @@
 {
     "agileconsultancy.com": {
-        "url": "https://agileconsultancy.com/",
-        "nature": "Invalid (single). Invalid: The content does not match the criteria of companies delivering agile professionals to enhance project management and productivity for digital partners."
+        "url": "https://agileconsultancy.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "AgileConsultancyServices:  AT & C Loss Reduction, AgileConsultancy:  Visa & Immigration Experience With Excellence"
     },
     "www.agileconsultingservices.com": {
         "url": "https://www.agileconsultingservices.com",
@@ -12,8 +14,10 @@
         "5prompt_Hash": "5dd3f80a6db18d8e776df90da20ab588"
     },
     "www.automation-consultants.com": {
-        "url": "https://www.automation-consultants.com/services/agile-consultancy/",
-        "nature": "list of projects"
+        "url": "https://www.automation-consultants.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "AutomationConsultants:  Agile Consultancy"
     },
     "agileconsultancy.asia": {
         "url": "https://agileconsultancy.asia/",
@@ -30,8 +34,10 @@
         "nature": "single project"
     },
     "www.toptal.com": {
-        "url": "https://www.toptal.com/project-managers/agile-consultant",
-        "nature": "list of projects"
+        "url": "https://www.toptal.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Toptal:  Agile Consultant"
     },
     "www.agileconsultancyservices.co.in": {
         "url": "https://www.agileconsultancyservices.co.in/",
