@@ -1,0 +1,95 @@
+{
+    "www.agileconsultingservices.com": {
+        "products": [
+            {
+                "name": "Agile Team Boot Camp",
+                "call_to_action": "More Info",
+                "usecases": "Improving team collaboration and operations",
+                "solutions": "Tailored training designed to supercharge collaboration, innovation, and Agile mastery",
+                "key_features": "Exclusive private Agile/Scrum boot camp"
+            },
+            {
+                "name": "Certified Agile Coach Training",
+                "call_to_action": "More Info",
+                "usecases": "Providing advanced professional coaching knowledge, tools, and techniques to guide teams on their Agile journey",
+                "solutions": "Opportunity to deepen coaching, mentoring, and lean-agile practitioner skills",
+                "key_features": "One of the most prestigious training in the market"
+            },
+            {
+                "name": "Consulting Services",
+                "call_to_action": "More Info",
+                "usecases": "Helping organizations address specific needs and achieve a high level of business agility",
+                "solutions": "Offering expertise and knowledge of industry best practices",
+                "key_features": "Expertise in industry best practices"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "found",
+            "priceAndPlans": {
+                "price": "$399.00",
+                "plans": [
+                    {
+                        "name": "Scrum Master Certified Course",
+                        "price": "$399.00",
+                        "description": "An online course that provides Agile practitioners with the flexibility to take the course at their own pace and to complete the Scrum Master exam on their own time."
+                    }
+                ]
+            }
+        }
+    },
+    "agileconsultancy.asia": {
+        "Agile Consultancy": {
+            "Agile Practitioners": {
+                "Call to action": "Contact Us",
+                "Usecases": [
+                    "Agile Project Management in Practice",
+                    "Agile Mindset with Jira Software",
+                    "Agile Practitioner: A Coaching Approach"
+                ],
+                "Solutions": "Empowering individuals, teams, and organizations through Agile Transformation & Lean Knowledge Management",
+                "Key features": "CCSD Certified Scrum Master, CCSD Certified Agile Mindset with Jira Software, CCSD Certified Agile Project Management Practitioner, CCSD Agile VUCA Leadership Certification, CCSD Certified Agility@Workplace Practitioner, PMI's Agile Certified Practitioner (PMI-ACP)"
+            },
+            "Agile Certification": {
+                "Call to action": "Contact Us",
+                "Usecases": [
+                    "CCSD Certified Scrum Master",
+                    "CCSD Certified Agile Mindset with Jira Software",
+                    "CCSD Certified Agile Project Management Practitioner",
+                    "CCSD Agile VUCA Leadership Certification",
+                    "CCSD Certified Agility@Workplace Practitioner",
+                    "PMI's Agile Certified Practitioner (PMI-ACP)"
+                ],
+                "Solutions": "Certification programs for Agile professionals",
+                "Key features": "Certified Scrum Master, Agile Mindset with Jira Software, Agile Project Management Practitioner, Agile VUCA Leadership Certification, Agility@Workplace Practitioner, PMI-ACP"
+            },
+            "Agile Beginners": {
+                "Call to action": "Contact Us",
+                "Usecases": [
+                    "Agility@Workplace: Agile Ways of Working",
+                    "Continuous Improvement with Kaizen",
+                    "Agile Fundamentals: A Beginner's Guide"
+                ],
+                "Solutions": "Training and guidance for beginners in Agile methodologies",
+                "Key features": "Agility@Workplace, Continuous Improvement with Kaizen, Agile Fundamentals"
+            },
+            "Agile Leadership": {
+                "Call to action": "Contact Us",
+                "Usecases": [
+                    "Agile Leadership in VUCA Environments"
+                ],
+                "Solutions": "Developing Agile leadership skills in volatile, uncertain, complex, and ambiguous environments",
+                "Key features": "Agile Leadership in VUCA Environments"
+            },
+            "Knoco's Knowledge Management": {
+                "Call to action": "Contact Us",
+                "Usecases": [
+                    "Knoco Lean Knowledge Management",
+                    "Knoco Knowledge Management Services",
+                    "Knoco Knowledge Management Certification"
+                ],
+                "Solutions": "Knowledge management services and certification by Knoco",
+                "Key features": "Knoco Lean Knowledge Management, Knoco Knowledge Management Services, Knoco Knowledge Management Certification"
+            }
+        }
+    }
+}
