@@ -1,0 +1,541 @@
+{
+    "www.redhat.com": {
+        "product_name": "Red Hat Enterprise Linux for SAP Solutions",
+        "call_to_action": "Contact sales",
+        "usecases": [
+            "SAP HANA migration",
+            "SAP S/4HANA migration",
+            "Database migration to Linux"
+        ],
+        "solutions": [
+            "Red Hat Enterprise Linux operating system",
+            "High Availability Add-On for increased uptime",
+            "Red Hat Satellite for life-cycle management",
+            "Red Hat Insights for proactive issue identification and remediation",
+            "Technical components to support SAP HANA, SAP S/4HANA, and business processes, applications, and workloads",
+            "Update Services for SAP solutions for up to four years"
+        ],
+        "key_features": {
+            "Certified and optimized for SAP applications": true,
+            "High availability": true,
+            "Proactive issue identification": true,
+            "Support for SAP HANA and SAP S/4HANA": true,
+            "Extended update services": true
+        }
+    },
+    "www.sap.com": {
+        "product": "SAP HANA Database Migration",
+        "call_to_action": "Contact SAP for more information",
+        "usecases": [
+            "Migrating SAP databases to SAP HANA platform",
+            "Upgrading SAP systems to leverage SAP HANA capabilities"
+        ],
+        "solutions": "SAP HANA Database Migration service helps businesses seamlessly migrate their SAP databases to the high-performance SAP HANA platform, enabling faster data processing and real-time analytics.",
+        "key_features": [
+            "Seamless migration process",
+            "Improved data processing speed",
+            "Real-time analytics capabilities"
+        ]
+    },
+    "www.suretysystems.com": {
+        "products": [
+            {
+                "name": "SAP Data Migration Cockpit",
+                "call_to_action": "Contact us today to get started!",
+                "usecases": [
+                    "Initial data load for SAP implementation scenarios"
+                ],
+                "solutions": [
+                    "Pre-configured migration content, mapping, and templates",
+                    "Identification and transfer of relevant data to SAP S/4HANA"
+                ],
+                "key_features": [
+                    "Pre-configured migration content",
+                    "Mapping and templates for each migration object modeler",
+                    "Identification and transfer of relevant data to SAP S/4HANA"
+                ]
+            },
+            {
+                "name": "SAP LSMW (Legacy System Migration Workbench)",
+                "call_to_action": "Contact us today to get started!",
+                "usecases": [
+                    "Transfer of data from non-SAP systems to SAP systems"
+                ],
+                "solutions": [
+                    "Support for one-time or recurring data transfers",
+                    "Facilitation of data migration and conversion"
+                ],
+                "key_features": [
+                    "Support for one-time or recurring data transfers",
+                    "Facilitation of data migration and conversion",
+                    "Batch input processing, direct input processing, and inbound IDoc processing"
+                ]
+            },
+            {
+                "name": "SAP ETL (Extract, Transform, Load)",
+                "call_to_action": "Contact us today to get started!",
+                "usecases": [
+                    "Migrating data from non-SAP source systems to SAP HANA database"
+                ],
+                "solutions": [
+                    "Access and view data at the Application layer",
+                    "Define specific data flows within SAP Data Services"
+                ],
+                "key_features": [
+                    "Migrating data from non-SAP source systems to SAP HANA database",
+                    "Access and view data at the Application layer",
+                    "Define specific data flows within SAP Data Services"
+                ]
+            },
+            {
+                "name": "SAP Batch Data Conversion (BDC)",
+                "call_to_action": "Contact us today to get started!",
+                "usecases": [
+                    "Transferring data from legacy systems to SAP systems"
+                ],
+                "solutions": [
+                    "Automate manual data transfer processes",
+                    "Transfer data related to specific transactions"
+                ],
+                "key_features": [
+                    "Automate manual data transfer processes",
+                    "Transfer data related to specific transactions",
+                    "Batch input program execution"
+                ]
+            }
+        ]
+    },
+    "www.syniti.com": {
+        "products": [
+            {
+                "name": "Syniti Knowledge Platform",
+                "call_to_action": "Request a Demo",
+                "usecases": [
+                    "Enterprise Data Management",
+                    "Data Matching",
+                    "Data Replication"
+                ],
+                "solutions": [
+                    "Migrate",
+                    "Quality",
+                    "Match",
+                    "Replicate",
+                    "Catalog & Governance",
+                    "Master Data Management"
+                ],
+                "key_features": [
+                    "Standalone Solutions",
+                    "Outmatch Conventional Solutions",
+                    "Deliver Relevant Data Continuously",
+                    "SAP Endorsed App",
+                    "AI-Driven Matching Solution"
+                ]
+            },
+            {
+                "name": "SAP Advanced Data Migration and Management by Syniti",
+                "call_to_action": "Contact Us",
+                "usecases": [
+                    "Mergers and Acquisitions",
+                    "ERP Migration and Consolidation",
+                    "Moving to the Cloud",
+                    "Move to SAP S/4HANA",
+                    "SAP Selective Data Transitions",
+                    "SAP Cloud Migration"
+                ],
+                "solutions": [
+                    "Business Initiatives",
+                    "Data Initiatives",
+                    "SAP Initiatives",
+                    "Software Initiatives"
+                ],
+                "key_features": [
+                    "SAP Solution Extension",
+                    "Budget predictability",
+                    "Optimized and inherent data quality",
+                    "Faster migration waves",
+                    "Complete project transparency",
+                    "Accelerated downstream projects"
+                ]
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.linkedin.com": {
+        "sap_migration_products": [
+            {
+                "product_name": "SAP Data Services",
+                "call_to_action": "Talk to a manager",
+                "usecases": "Data integration and transformation tool for ETL into SAP S/4HANA",
+                "solutions": "Extract, transform, and load data from various sources into SAP S/4HANA",
+                "key_features": "Graphical interface for mapping and transforming data, supports batch and real-time data integration"
+            },
+            {
+                "product_name": "SAP LT Replication Server",
+                "call_to_action": "Book a demo",
+                "usecases": "Real-time data replication and synchronization between source systems and SAP S/4HANA",
+                "solutions": "Capture changes in the source system and transfer them to the target system",
+                "key_features": "Ensures data consistency during migration process"
+            },
+            {
+                "product_name": "SAP Migration Cockpit",
+                "call_to_action": "Talk to team",
+                "usecases": "Specifically designed for SAP S/4HANA data migration",
+                "solutions": "User-friendly interface for managing and executing data migration activities",
+                "key_features": "Supports manual data entry, data upload from Excel/CSV files, built-in data validation and error handling"
+            },
+            {
+                "product_name": "SAP Rapid Data Migration",
+                "call_to_action": "Sign up",
+                "usecases": "End-to-end data migration solution for streamlining the process",
+                "solutions": "Combines tools, methodologies, and best practices for data migration",
+                "key_features": "Preconfigured migration templates, data mapping functionalities, automated data quality checks"
+            },
+            {
+                "product_name": "Legacy System Migration Workbench (LSMW)",
+                "call_to_action": "Talk to a manager",
+                "usecases": "Basic data migration tasks in SAP S/4HANA",
+                "solutions": "Define data migration objects, map fields between legacy and target systems, execute batch data uploads",
+                "key_features": "Primarily used for data migration in legacy SAP systems"
+            }
+        ]
+    },
+    "www.cbs-consulting.com": {
+        "products": [
+            {
+                "name": "SAP Information Steward (SIS) and SAP Data Services (SDS)",
+                "call_to_action": "Talk to a manager",
+                "usecases": [
+                    "Working with huge data volumes",
+                    "Handling complex transformation requirements",
+                    "Integrating a large number of targets and data sources",
+                    "Creating reports on data quality"
+                ],
+                "solutions": "Dashboard reporting, profiling, data analysis, de-duplication",
+                "key_features": "Support for large data volumes, data quality monitoring",
+                "pricing": "Varied based on features and data volume",
+                "source": "On-premise and cloud-based",
+                "destination": "Multiple targets and data sources"
+            },
+            {
+                "name": "SAP Migration Cockpit (SMC)",
+                "call_to_action": "Book a demo",
+                "usecases": [
+                    "Loading and transforming data",
+                    "Value mapping and technical validation",
+                    "Replacing LSMW within SAP S/4HANA target environment"
+                ],
+                "solutions": "Loading data in predefined format, value mapping, technical validation",
+                "key_features": "Loading data using .XML format, no separate infrastructure required",
+                "pricing": "Included in SAP S/4HANA package",
+                "source": "Predefined data template format",
+                "destination": "Staging database or spreadsheet"
+            },
+            {
+                "name": "SAP Agile Data Preparation (ADP)",
+                "call_to_action": "Talk to team",
+                "usecases": [
+                    "Profiling, deduplication, data preparation",
+                    "Extract and transform tool",
+                    "Improving data quality"
+                ],
+                "solutions": "Data preparation, data quality improvement",
+                "key_features": "Profiling, deduplication, data loading",
+                "pricing": "Included in SAP package",
+                "source": "Web tool",
+                "destination": "Limited data volume"
+            }
+        ],
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.protera.com": {
+        "product_name": "Protera SAP Migration Services",
+        "call_to_action": "Talk to an Expert",
+        "usecases": [
+            "Migrate SAP and critical supporting applications to AWS or Microsoft Azure securely with minimal business impact",
+            "Accelerate SAP migration to cloud for scale, flexibility, and operational shift",
+            "SAP HANA upgrades, S/4HANA transformation, and full data center modernization"
+        ],
+        "solutions": [
+            "Comprehensive SAP Cloud Migration Assessment",
+            "Automated Migration and Management Platform",
+            "SAP Migration and Integration for various SAP applications",
+            "Deep SAP Expertise for Microsoft Azure and AWS",
+            "Data Center Transformation for modern business capabilities",
+            "White Glove SAP and IT Services"
+        ],
+        "key_features": {
+            "Comprehensive assessment and detailed SAP migration plan": "Yes",
+            "Automated Migration and Management Platform": "Yes",
+            "Migration and integration of various SAP applications": "Yes",
+            "Deep SAP Expertise for Microsoft Azure and AWS": "Yes",
+            "Data Center Transformation capabilities": "Yes",
+            "White Glove SAP and IT Services": "Yes"
+        }
+    },
+    "www.informatica.com": {
+        "product_name": "Informatica Intelligent Data Management Cloud (IDMC)",
+        "call_to_action": "Contact Sales",
+        "usecases": [
+            "SAP Modernization"
+        ],
+        "solutions": [
+            "Data Quality",
+            "Master Data Management",
+            "Data Integration",
+            "Data Governance"
+        ],
+        "key_features": {
+            "CLAIRE AI Engine": "Intelligent Automation",
+            "PowerCenter Cloud Modernization": "Modern Data Architecture Center",
+            "Cloud Connectivity": "Data Catalog, Data Integration & Engineering, API & App Integration, Data Quality and Observability, MDM & 360 Applications, Governance & Privacy, Data Marketplace"
+        },
+        "pricesAndPlans": {
+            "status": "Success",
+            "priceAndPlans": {
+                "pricingModel": "Consumption-based pricing with Informatica Processing Unit (IPU)",
+                "pricingDetails": "With IPU pricing, you buy capacity on an IPU and/or Flex IPU consumption model to use across a range of cloud services. You can scale usage up or down as needed, manage costs effectively, and access multiple cloud services for your data management needs."
+            }
+        }
+    },
+    "www.snpgroup.com": {
+        "product_name": "CrystalBridge",
+        "call_to_action": "Book your demo now",
+        "usecases": [
+            "S/4HANA migration",
+            "Carve-outs & divestitures",
+            "Mergers & acquisitions",
+            "Automated data validation",
+            "Application Lifecycle Management",
+            "Data warehouse modernization",
+            "Cloud migration",
+            "Cloud data integration",
+            "Compliance & privacy",
+            "Smart data & document archiving",
+            "Application retirement",
+            "Test management",
+            "Data analytics & data lakes",
+            "Data sharing & democratization",
+            "SAP data prep for data science"
+        ],
+        "solutions": [
+            "Data management & transformation",
+            "Cloud data integration",
+            "Data governance & compliance",
+            "Data engineering for analytics"
+        ],
+        "key_features": "Automate tedious tasks in transformation, Near-zero downtime move to S4/HANA, Securely analyze, archive, restructure, and migrate data, Tailor transformation to specific needs",
+        "pricesAndPlans": {
+            "status": "Found",
+            "priceAndPlans": {
+                "cloud_migration_packages": {
+                    "1:1_migration_package": {
+                        "details": "Enables a 1:1 migration of SAP landscapes to the cloud (\"lift and shift\") along with necessary upgrades.",
+                        "price": "Fixed price that includes all costs for a successful data migration"
+                    },
+                    "selective_data_migration_package": {
+                        "details": "Offers selective data migration to the cloud.",
+                        "price": "Fixed price that includes all costs for a successful data migration"
+                    },
+                    "SAP_S4HANA_migration_package": {
+                        "details": "Enables migration to SAP S/4HANA in a cloud environment.",
+                        "price": "Fixed price that includes all costs for a successful data migration"
+                    }
+                }
+            }
+        }
+    },
+    "azure.microsoft.com": {
+        "products": [
+            {
+                "name": "Azure Migrate",
+                "call_to_action": "Contact Sales",
+                "usecases": [
+                    "Cloud migration and modernization"
+                ],
+                "solutions": [
+                    "Simplify migration and modernization with a unified platform"
+                ],
+                "key_features": "Simplify migration and modernization, Unified platform for migration",
+                "projects_meet_criteria": "SAP migration involves transferring SAP applications, databases, and other business processes from one operating environment to another."
+            },
+            {
+                "name": "Azure Site Recovery",
+                "call_to_action": "Contact Sales",
+                "usecases": [
+                    "Cloud migration and modernization"
+                ],
+                "solutions": [
+                    "Keep your business running with built-in disaster recovery service"
+                ],
+                "key_features": "Disaster recovery service, Cloud migration support",
+                "projects_meet_criteria": "SAP migration involves transferring SAP applications, databases, and other business processes from one operating environment to another."
+            },
+            {
+                "name": "Azure Database Migration Service (classic)",
+                "call_to_action": "Contact Sales",
+                "usecases": [
+                    "Cloud migration and modernization"
+                ],
+                "solutions": [
+                    "Accelerate your data migration to Azure"
+                ],
+                "key_features": "Data migration acceleration, Cloud database migration",
+                "projects_meet_criteria": "SAP migration involves transferring SAP applications, databases, and other business processes from one operating environment to another."
+            }
+        ]
+    },
+    "www.fissionconsulting.com": {
+        "products": [
+            {
+                "name": "BusinessObjects Data Services (BODS)",
+                "call_to_action": "Talk to a manager",
+                "usecases": [
+                    "Data extraction, transformation, and loading (ETL)",
+                    "Migration from legacy systems to SAP systems"
+                ],
+                "solutions": "Provides a powerful ETL tool for complex migration scenarios, supports batch and real-time integration, allows data enrichment and cleansing capabilities",
+                "key_features": "Visual interface for designing integration workflows, business rules application, data validation, supports various data sources"
+            },
+            {
+                "name": "Batch Data Communication (BDC)",
+                "call_to_action": "Book a demo",
+                "usecases": [
+                    "Automation of data entry into SAP",
+                    "Transferring large volumes of data from legacy systems to SAP"
+                ],
+                "solutions": "Enables automation of data entry, promises accuracy and efficiency in high-volume data migration",
+                "key_features": "Records user interactions in SAP GUI, automates data entry process, eliminates manual data entry"
+            },
+            {
+                "name": "SAP S/4HANA Migration Cockpit",
+                "call_to_action": "Talk to team",
+                "usecases": [
+                    "Data migration to SAP S/4HANA",
+                    "New implementations, system conversions, or selective data migrations"
+                ],
+                "solutions": "Provides a user-friendly interface, predefined templates, validation and error-handling capabilities",
+                "key_features": "Supports migration from legacy systems, predefined migration objects, monitoring of migration progress"
+            }
+        ]
+    },
+    "www.avvale.com": {
+        "sap_migration_products": [
+            {
+                "product_name": "SAP S/4HANA Migration",
+                "call_to_action": "Contact Us",
+                "usecases": [
+                    "Migration to SAP S/4HANA for process innovation and digital transformation",
+                    "Adopting circular economy principles for improved resource efficiency and sustainability",
+                    "Enabling real-time analytics and data-driven decision-making",
+                    "Accelerating business digitization and transformation into an intelligent enterprise"
+                ],
+                "solutions": [
+                    "Seamless connectivity and data exchange among stakeholders",
+                    "Deep insights into operations, resource utilization, and customer demands",
+                    "Supply chain management, predictive analytics, and product lifecycle management",
+                    "Superior performance and reliability with SAP HANA in-memory database"
+                ],
+                "key_features": [
+                    "Certified ERP platform",
+                    "Real-time analytics powered by SAP HANA",
+                    "Advanced data collection and analysis capabilities",
+                    "Modular platform for business digitization solutions"
+                ]
+            }
+        ]
+    },
+    "www.all-for-one.pl": {
+        "products": [
+            {
+                "name": "All for One Poland SAP Migration Services",
+                "call_to_action": "Contact us for a consultation",
+                "usecases": [
+                    "Support and development of SAP systems",
+                    "ERP implementations, including S/4HANA",
+                    "SAP adjustment to local regulations",
+                    "HR system implementations",
+                    "Transformations of SAP environments, including migrations to S/4HANA and the cloud",
+                    "Information security audits and penetration tests",
+                    "Hybrid Cloud Solutions",
+                    "Software development",
+                    "Digitization of processes"
+                ],
+                "solutions": [
+                    "Migration of SAP systems to new environments",
+                    "Homogeneous and heterogeneous system copies",
+                    "Migration to S/4HANA",
+                    "Archival system maintenance and virtualization"
+                ],
+                "key_features": [
+                    "Homogeneous and heterogeneous system migration",
+                    "Support for SAP system migration provided by SAP",
+                    "Dedicated tools and recommendations from SAP for migration",
+                    "SAP OS/DB Migration Check service for project support",
+                    "Remote Project Audit, Analysis Session, and Verification Session for migration projects",
+                    "Migration to virtual platforms certified by SAP",
+                    "Comprehensive maintenance of archival systems",
+                    "Focus on security, integrity, and data access continuity"
+                ]
+            }
+        ]
+    },
+    "www.panaya.com": {
+        "product_name": "Panaya S/4HANA Migration Solution",
+        "call_to_action": "Book a demo",
+        "usecases": [
+            "SAP S/4HANA Migration",
+            "SAP ECC/EHP Upgrade",
+            "SAP Automatic Code Corrections"
+        ],
+        "solutions": [
+            "Change Intelligence",
+            "Test Dynamix",
+            "ForeSight",
+            "AI Powered Solutions"
+        ],
+        "key_features": {
+            "Improved Performance": "Faster processing speeds and increased operational efficiency",
+            "Real-time Analytics": "Access to real-time analytics and advanced data visualization",
+            "Latest SAP Technology": "Leverage the latest SAP technology and innovations",
+            "Automated Code Corrections": "Automatic intelligent code remediation for optimal scoping",
+            "Business Process Re-implementation": "Accelerated business process re-implementation",
+            "Impact Analysis": "Comprehensive impact analysis coverage for risk evaluation",
+            "Testing Platform": "Business-process-centric test management platform integrated with test automation"
+        },
+        "pricesAndPlans": {
+            "status": "Not found",
+            "priceAndPlans": []
+        }
+    },
+    "www.accely.com": {
+        "product_name": "Accely SAP S/4 HANA Migration",
+        "call_to_action": "Schedule a Consultation",
+        "usecases": [
+            "Migrate to SAP S/4 HANA to tackle changing market dynamics and streamline business goals",
+            "Smooth transition from SAP ECC to intelligent ERP with SAP S/4 HANA Migration",
+            "Sizing for SAP S/4 HANA Cloud to estimate hardware specifications",
+            "Best Practices for S/4 HANA Migration",
+            "Most Effective Methodology for S/4 HANA Migration"
+        ],
+        "solutions": [
+            "SAP S/4 HANA Cloud Migration",
+            "Advantages of S/4 HANA Cloud Migration",
+            "Sizing for S/4 HANA Cloud",
+            "Best Practices for S/4 HANA Migration",
+            "Most Effective Methodology for S/4 HANA Migration"
+        ],
+        "key_features": {
+            "Real-time Business Insights": "Gain real-time business insights for better decision-making",
+            "Simplified Data Model": "Run faster with simpler data model of SAP S/4HANA",
+            "Innovation Acceleration": "Accelerate innovation by combining traditional ERP with cloud applications",
+            "Integration with SAP Leonardo": "Easily expand with SAP Leonardo for IoT, big data, blockchain, etc.",
+            "Multiple Migration Methodologies": "Offering Greenfield, BLUEFIELDTM, and Brownfield approaches for migration"
+        }
+    }
+}
