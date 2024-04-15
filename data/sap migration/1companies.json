@@ -1,0 +1,92 @@
+{
+    "help.sap.com": {
+        "url": "https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/29193bf0ebdd4583930b2176cb993268/a4d4119a2cc9448a98e5d17e6dd0eac4.html"
+    },
+    "www.redhat.com": {
+        "url": "https://www.redhat.com/en/topics/linux/what-is-sap-hana-migration"
+    },
+    "www.sap.com": {
+        "url": "https://www.sap.com/products/technology-platform/hana/technical/database-migration.html"
+    },
+    "community.sap.com": {
+        "url": "https://community.sap.com/t5/technology-blogs-by-members/sap-data-migration-process-simplified-version/ba-p/13527831"
+    },
+    "www.suretysystems.com": {
+        "url": "https://www.suretysystems.com/insights/your-guide-to-sap-data-migration-best-practices-and-tools-for-success/"
+    },
+    "docs.aws.amazon.com": {
+        "url": "https://docs.aws.amazon.com/sap/latest/sap-hana/migrating-hana-tools.html"
+    },
+    "www.syniti.com": {
+        "url": "https://www.syniti.com/solutions/sap/sap-advanced-data-migration-and-management/"
+    },
+    "www.sap-press.com": {
+        "url": "https://www.sap-press.com/data-migration-for-sap_5817/"
+    },
+    "www.ordina.com": {
+        "url": "https://www.ordina.com/insights/sap-migration"
+    },
+    "www.linkedin.com": {
+        "url": "https://www.linkedin.com/pulse/sap-s4hana-data-migration-tools-stefanie-demirtas"
+    },
+    "learn.microsoft.com": {
+        "url": "https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/sap/migrate"
+    },
+    "www.cbs-consulting.com": {
+        "url": "https://www.cbs-consulting.com/us/sap-data-migration-tools/"
+    },
+    "www.protera.com": {
+        "url": "https://www.protera.com/sap-migration"
+    },
+    "pathlock.com": {
+        "url": "https://pathlock.com/learn/s4-hana-migration/"
+    },
+    "www.informatica.com": {
+        "url": "https://www.informatica.com/blogs/sap-migration-to-cloud.html"
+    },
+    "www.snpgroup.com": {
+        "url": "https://www.snpgroup.com/en/platform/capabilities/migrate/"
+    },
+    "sapinsider.org": {
+        "url": "https://sapinsider.org/topic/sap-erp/sap-migration-strategy/"
+    },
+    "azure.microsoft.com": {
+        "url": "https://azure.microsoft.com/en-us/solutions/sap/migration"
+    },
+    "www2.deloitte.com": {
+        "url": "https://www2.deloitte.com/us/en/pages/technology/solutions/sap-migration-on-cloud.html"
+    },
+    "www.techtarget.com": {
+        "url": "https://www.techtarget.com/searchsap/SAP-S4HANA-migration-A-definitive-guide"
+    },
+    "www.ibsolution.com": {
+        "url": "https://www.ibsolution.com/en/data-and-analytics/data-migration-in-sap"
+    },
+    "whatfix.com": {
+        "url": "https://whatfix.com/blog/s4-hana-migration/"
+    },
+    "www.fissionconsulting.com": {
+        "url": "https://www.fissionconsulting.com/sap-data-migration-guide/"
+    },
+    "www.outsystems.com": {
+        "url": "https://www.outsystems.com/blog/posts/sap-s4hana-migration/"
+    },
+    "ecosio.com": {
+        "url": "https://ecosio.com/en/blog/migration-to-sap-s4hana-5-key-considerations/"
+    },
+    "www.pwc.com": {
+        "url": "https://www.pwc.com/us/en/technology/alliances/sap-implementation/rise-with-sap-migration-approach.html"
+    },
+    "www.avvale.com": {
+        "url": "https://www.avvale.com/newsroom/essential-steps-for-a-sap-s4hana-migration"
+    },
+    "www.all-for-one.pl": {
+        "url": "https://www.all-for-one.pl/en/whitepapers/migration-of-sap-to-a-new-environment/"
+    },
+    "www.panaya.com": {
+        "url": "https://www.panaya.com/blog/sap/sap-s4hana-migration-guide/"
+    },
+    "www.accely.com": {
+        "url": "https://www.accely.com/sap-hana-migration/"
+    }
+}
