@@ -4,12 +4,16 @@
         "nature": "list of projects"
     },
     "www.redhat.com": {
-        "url": "https://www.redhat.com/en/topics/linux/what-is-sap-hana-migration",
-        "nature": "list of projects"
+        "url": "https://www.redhat.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "RedHat:  Red Hat Enterprise Linux"
     },
     "www.sap.com": {
-        "url": "https://www.sap.com/products/technology-platform/hana/technical/database-migration.html",
-        "nature": "Invalid: DDOS protection screen"
+        "url": "https://www.sap.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "SAP:  SAP S4HANA"
     },
     "community.sap.com": {
         "url": "https://community.sap.com/t5/technology-blogs-by-members/sap-data-migration-process-simplified-version/ba-p/13527831",
@@ -24,8 +28,10 @@
         "nature": "list of projects"
     },
     "www.syniti.com": {
-        "url": "https://www.syniti.com/solutions/sap/sap-advanced-data-migration-and-management/",
-        "nature": "list of projects"
+        "url": "https://www.syniti.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Syniti:  Knowledge Platform"
     },
     "www.sap-press.com": {
         "url": "https://www.sap-press.com/data-migration-for-sap_5817/",
@@ -44,32 +50,42 @@
         "nature": "list of projects"
     },
     "www.cbs-consulting.com": {
-        "url": "https://www.cbs-consulting.com/us/sap-data-migration-tools/",
-        "nature": "list of projects"
+        "url": "https://www.cbs-consulting.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "CBSConsulting:  SAP Data Migration Tools"
     },
     "www.protera.com": {
-        "url": "https://www.protera.com/sap-migration",
-        "nature": "list of projects"
+        "url": "https://www.protera.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Protera:  SAP Migration"
     },
     "pathlock.com": {
         "url": "https://pathlock.com/learn/s4-hana-migration/",
         "nature": "list of projects"
     },
     "www.informatica.com": {
-        "url": "https://www.informatica.com/blogs/sap-migration-to-cloud.html",
-        "nature": "list of projects"
+        "url": "https://www.informatica.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Informatica:  Intelligent Data Management Cloud"
     },
     "www.snpgroup.com": {
-        "url": "https://www.snpgroup.com/en/platform/capabilities/migrate/",
-        "nature": "list of projects"
+        "url": "https://www.snpgroup.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "SNPGroup:  CrystalBridge Analysis"
     },
     "sapinsider.org": {
         "url": "https://sapinsider.org/topic/sap-erp/sap-migration-strategy/",
         "nature": "list of projects"
     },
     "azure.microsoft.com": {
-        "url": "https://azure.microsoft.com/en-us/solutions/sap/migration",
-        "nature": "list of projects"
+        "url": "https://azure.microsoft.com/",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Microsoft:  Azure AI Services"
     },
     "www2.deloitte.com": {
         "url": "https://www2.deloitte.com/us/en/pages/technology/solutions/sap-migration-on-cloud.html",
@@ -88,8 +104,10 @@
         "nature": "list of projects"
     },
     "www.fissionconsulting.com": {
-        "url": "https://www.fissionconsulting.com/sap-data-migration-guide/",
-        "nature": "list of projects"
+        "url": "https://www.fissionconsulting.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "FissionConsulting:  SAP Data Migration Guide"
     },
     "www.outsystems.com": {
         "url": "https://www.outsystems.com/blog/posts/sap-s4hana-migration/",
@@ -104,19 +122,35 @@
         "nature": "list of projects"
     },
     "www.avvale.com": {
-        "url": "https://www.avvale.com/newsroom/essential-steps-for-a-sap-s4hana-migration",
-        "nature": "list of projects"
+        "url": "https://www.avvale.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Avvale:  SAP S/4HANA"
     },
     "www.all-for-one.pl": {
-        "url": "https://www.all-for-one.pl/en/whitepapers/migration-of-sap-to-a-new-environment/",
-        "nature": "list of projects"
+        "url": "https://www.all-for-one.pl",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "AllforOnePoland:  Migration of SAP to a new environment"
     },
     "www.panaya.com": {
         "url": "https://www.panaya.com/blog/sap/sap-s4hana-migration-guide/",
         "nature": "single project"
     },
     "www.accely.com": {
-        "url": "https://www.accely.com/sap-hana-migration/",
-        "nature": "list of projects"
+        "url": "https://www.accely.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Accely:  SAP S/4 HANA"
+    },
+    "www.soprasteria.com": {
+        "url": "https://www.soprasteria.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Sopra Steria Group:  SAP Migration"
+    },
+    "www.float.com": {
+        "url": "https://www.float.com",
+        "cached_url": "not found",
+        "sourcekeyword": "List of projects: "
     }
 }

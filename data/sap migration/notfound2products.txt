@@ -1,0 +1,3 @@
+IBsolution:  AGIMENDO.invest -> IBsolution
+Deloitte:  SAP on Cloud -> Deloitte
+PwC:  S/4 Journey Guide -> PwC
