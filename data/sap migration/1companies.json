@@ -146,11 +146,13 @@
     "www.soprasteria.com": {
         "url": "https://www.soprasteria.com",
         "cached_url": "not found",
-        "sourcekeyword": "Sopra Steria Group:  SAP Migration"
+        "sourcekeyword": "Sopra Steria Group:  SAP Migration",
+        "nature": "list of projects"
     },
     "www.float.com": {
         "url": "https://www.float.com",
         "cached_url": "not found",
-        "sourcekeyword": "List of projects: "
+        "sourcekeyword": "List of projects: ",
+        "nature": "list of projects"
     }
 }
