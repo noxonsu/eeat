@@ -8,8 +8,10 @@
         "nature": "list of projects"
     },
     "gladkoetelo.ru": {
-        "url": "https://gladkoetelo.ru/kzn/",
-        "nature": "list of projects"
+        "url": "https://gladkoetelo.ru",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "\u0413\u043b\u0430\u0434\u043a\u043e\u0435\u0422\u0435\u043b\u043e:  MeDioStar PRO XXL"
     },
     "www.doc-laser.ru": {
         "url": "https://www.doc-laser.ru/kazan",
@@ -28,16 +30,20 @@
         "nature": "Invalid: This model's maximum context length is 16385 tokens. However, your messages resulted in 27642 tokens. Please reduce the length of the messages."
     },
     "derm-center.ru": {
-        "url": "https://derm-center.ru/cosmetology/lazernaya_epilyaciya/",
-        "nature": "list of projects"
+        "url": "https://derm-center.ru",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "\u0426\u0435\u043d\u0442\u0440\u0414\u0435\u0440\u043c\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u044f:  \u041b\u0430\u0437\u0435\u0440\u043d\u0430\u044f\u044d\u043f\u0438\u043b\u044f\u0446\u0438\u044f"
     },
     "www.kazan.bodysilk.info": {
         "url": "https://www.kazan.bodysilk.info/",
         "nature": "list of projects"
     },
     "prodoctorov.ru": {
-        "url": "https://prodoctorov.ru/kazan/uslugi/lazernaya-epilyaciya/",
-        "nature": "list of projects"
+        "url": "https://prodoctorov.ru",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "\u041f\u0440\u043e\u0414\u043e\u043a\u0442\u043e\u0440\u043e\u0432:  \u041b\u0430\u0437\u0435\u0440\u043d\u0430\u044f \u044d\u043f\u0438\u043b\u044f\u0446\u0438\u044f"
     },
     "candela-laser-kazan.ru": {
         "url": "https://candela-laser-kazan.ru/",
@@ -52,8 +58,10 @@
         "nature": "list of projects"
     },
     "www.lishnego.net": {
-        "url": "https://www.lishnego.net/kazan",
-        "nature": "list of projects"
+        "url": "https://www.lishnego.net",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "\u041b\u0438\u0448\u043d\u0435\u0433\u043e\u043d\u0435\u0442:  \u041b\u0430\u0437\u0435\u0440\u043d\u0430\u044f \u044d\u043f\u0438\u043b\u044f\u0446\u0438\u044f"
     },
     "lisselaser.ru": {
         "url": "https://lisselaser.ru/",
@@ -126,5 +134,50 @@
     "vivilaser.ru": {
         "url": "https://vivilaser.ru/kazan",
         "nature": "single project"
+    },
+    "laserlovenewyork.com": {
+        "url": "https://laserlovenewyork.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Laser Love:  Laser hair removal services"
+    },
+    "epicentrk.ua": {
+        "url": "https://epicentrk.ua",
+        "cached_url": "not found",
+        "sourcekeyword": "\u042d\u043f\u0438\u0446\u0435\u043d\u0442\u0440:  \u042d\u043f\u0438\u043b\u044f\u0446\u0438\u044f"
+    },
+    "www.medel.com": {
+        "url": "https://www.medel.com",
+        "cached_url": "not found",
+        "sourcekeyword": "\u041c\u0415\u0414\u0415\u041b:  \u041c\u043d\u043e\u0433\u043e\u043f\u0440\u043e\u0444\u0438\u043b\u044c\u043d\u0430\u044f \u043a\u043b\u0438\u043d\u0438\u043a\u0430"
+    },
+    "candelamedical.com": {
+        "url": "candelamedical.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Candela:  GentleLase PrU"
+    },
+    "platomedical.com": {
+        "url": "https://platomedical.com",
+        "cached_url": "not found",
+        "sourcekeyword": "PLATO \u041a\u041b\u0418\u041d\u0418\u041a:  \u0426\u0435\u043d\u0442\u0440 \u043a\u043e\u0440\u0440\u0435\u043a\u0446\u0438\u0438 \u0444\u0438\u0433\u0443\u0440\u044b"
+    },
+    "www.laserandbeauty.com": {
+        "url": "https://www.laserandbeauty.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Laser&Beauty:  \u041b\u0430\u0437\u0435\u0440\u043d\u0430\u044f \u044d\u043f\u0438\u043b\u044f\u0446\u0438\u044f"
+    },
+    "www.krasotaimedicina.ru": {
+        "url": "https://www.krasotaimedicina.ru",
+        "cached_url": "not found",
+        "sourcekeyword": "KrasotaiMedicina:  \u041b\u0430\u0437\u0435\u0440\u043d\u0430\u044f \u044d\u043f\u0438\u043b\u044f\u0446\u0438\u044f"
+    },
+    "missis-laser.ru": {
+        "url": "https://missis-laser.ru",
+        "cached_url": "not found",
+        "sourcekeyword": "\u041c\u0438\u0441\u0441\u0438\u0441\u041b\u0430\u0437\u0435\u0440:  \u042d\u043f\u0438\u043b\u044f\u0446\u0438\u044f"
+    },
+    "laser-lab.com": {
+        "url": "https://laser-lab.com",
+        "cached_url": "not found",
+        "sourcekeyword": "Laser Lab:  \u0426\u0435\u043d\u0442\u0440\u044b \u044d\u043f\u0438\u043b\u044f\u0446\u0438\u0438 \u0438 \u043a\u043e\u0440\u0440\u0435\u043a\u0446\u0438\u0438 \u0444\u0438\u0433\u0443\u0440\u044b"
     }
 }
