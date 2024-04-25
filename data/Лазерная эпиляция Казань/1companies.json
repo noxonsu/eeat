@@ -11,7 +11,8 @@
         "url": "https://gladkoetelo.ru",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "\u0413\u043b\u0430\u0434\u043a\u043e\u0435\u0422\u0435\u043b\u043e:  MeDioStar PRO XXL"
+        "sourcekeyword": "\u0413\u043b\u0430\u0434\u043a\u043e\u0435\u0422\u0435\u043b\u043e:  MeDioStar PRO XXL",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.doc-laser.ru": {
         "url": "https://www.doc-laser.ru/kazan",
@@ -33,7 +34,8 @@
         "url": "https://derm-center.ru",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "\u0426\u0435\u043d\u0442\u0440\u0414\u0435\u0440\u043c\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u044f:  \u041b\u0430\u0437\u0435\u0440\u043d\u0430\u044f\u044d\u043f\u0438\u043b\u044f\u0446\u0438\u044f"
+        "sourcekeyword": "\u0426\u0435\u043d\u0442\u0440\u0414\u0435\u0440\u043c\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u044f:  \u041b\u0430\u0437\u0435\u0440\u043d\u0430\u044f\u044d\u043f\u0438\u043b\u044f\u0446\u0438\u044f",
+        "priceAndPlansCrawled": "Not found"
     },
     "www.kazan.bodysilk.info": {
         "url": "https://www.kazan.bodysilk.info/",
@@ -43,7 +45,8 @@
         "url": "https://prodoctorov.ru",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "\u041f\u0440\u043e\u0414\u043e\u043a\u0442\u043e\u0440\u043e\u0432:  \u041b\u0430\u0437\u0435\u0440\u043d\u0430\u044f \u044d\u043f\u0438\u043b\u044f\u0446\u0438\u044f"
+        "sourcekeyword": "\u041f\u0440\u043e\u0414\u043e\u043a\u0442\u043e\u0440\u043e\u0432:  \u041b\u0430\u0437\u0435\u0440\u043d\u0430\u044f \u044d\u043f\u0438\u043b\u044f\u0446\u0438\u044f",
+        "priceAndPlansCrawled": "https://prodoctorov.ru/moskva/lpu/48656-stomatologiya-aleksandra-gazarova/price/"
     },
     "candela-laser-kazan.ru": {
         "url": "https://candela-laser-kazan.ru/",
@@ -61,7 +64,8 @@
         "url": "https://www.lishnego.net",
         "nature": "single project",
         "cached_url": "not found",
-        "sourcekeyword": "\u041b\u0438\u0448\u043d\u0435\u0433\u043e\u043d\u0435\u0442:  \u041b\u0430\u0437\u0435\u0440\u043d\u0430\u044f \u044d\u043f\u0438\u043b\u044f\u0446\u0438\u044f"
+        "sourcekeyword": "\u041b\u0438\u0448\u043d\u0435\u0433\u043e\u043d\u0435\u0442:  \u041b\u0430\u0437\u0435\u0440\u043d\u0430\u044f \u044d\u043f\u0438\u043b\u044f\u0446\u0438\u044f",
+        "priceAndPlansCrawled": "Not found"
     },
     "lisselaser.ru": {
         "url": "https://lisselaser.ru/",
@@ -133,7 +137,8 @@
     },
     "vivilaser.ru": {
         "url": "https://vivilaser.ru/kazan",
-        "nature": "single project"
+        "nature": "single project",
+        "priceAndPlansCrawled": "Not found"
     },
     "laserlovenewyork.com": {
         "url": "https://laserlovenewyork.com",
