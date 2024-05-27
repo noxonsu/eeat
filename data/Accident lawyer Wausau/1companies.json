@@ -1,80 +1,106 @@
 {
     "nicoletlaw.com": {
-        "url": "https://nicoletlaw.com/wausau-personal-injury-lawyer/"
+        "url": "https://nicoletlaw.com/wausau-personal-injury-lawyer/",
+        "nature": "list of projects"
     },
     "www.habush.com": {
-        "url": "https://www.habush.com/locations/wausau"
+        "url": "https://www.habush.com/locations/wausau",
+        "nature": "single project"
     },
     "bremer-law.com": {
-        "url": "https://bremer-law.com/"
+        "url": "https://bremer-law.com/",
+        "nature": "list of projects"
     },
     "maederlaw.com": {
-        "url": "https://maederlaw.com/"
+        "url": "https://maederlaw.com/",
+        "nature": "single project"
     },
     "www.hupy.com": {
-        "url": "https://www.hupy.com/offices/wausau-personal-injury-attorneys.cfm"
+        "url": "https://www.hupy.com/offices/wausau-personal-injury-attorneys.cfm",
+        "nature": "single project"
     },
     "www.tlustylaw.com": {
-        "url": "https://www.tlustylaw.com/"
+        "url": "https://www.tlustylaw.com/",
+        "nature": "list of projects"
     },
     "www.byegoff.com": {
-        "url": "https://www.byegoff.com/wausau-personal-injury-lawyers/"
+        "url": "https://www.byegoff.com/wausau-personal-injury-lawyers/",
+        "nature": "list of projects"
     },
     "crooks-law.com": {
-        "url": "https://crooks-law.com/personal-injury/"
+        "url": "https://crooks-law.com/personal-injury/",
+        "nature": "list of projects"
     },
     "lawyers.findlaw.com": {
-        "url": "https://lawyers.findlaw.com/lawyer/firm/personal-injury-plaintiff/wausau/wisconsin"
+        "url": "https://lawyers.findlaw.com/lawyer/firm/personal-injury-plaintiff/wausau/wisconsin",
+        "nature": "Invalid: DDOS protection screen"
     },
     "attorneys.superlawyers.com": {
-        "url": "https://attorneys.superlawyers.com/personal-injury-plaintiff/wisconsin/wausau/"
+        "url": "https://attorneys.superlawyers.com/personal-injury-plaintiff/wisconsin/wausau/",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.justia.com": {
-        "url": "https://www.justia.com/lawyers/personal-injury/wisconsin/wausau"
+        "url": "https://www.justia.com/lawyers/personal-injury/wisconsin/wausau",
+        "nature": "list of projects"
     },
     "www.wausaulawoffices.com": {
-        "url": "https://www.wausaulawoffices.com/practice-areas/personal-injury/"
+        "url": "https://www.wausaulawoffices.com/practice-areas/personal-injury/",
+        "nature": "list of projects"
     },
     "wausaulaw.com": {
-        "url": "https://wausaulaw.com/personal-injury/auto-accident-lawyer-in-wausau/"
+        "url": "https://wausaulaw.com/personal-injury/auto-accident-lawyer-in-wausau/",
+        "nature": "list of projects"
     },
     "www.lawinfo.com": {
-        "url": "https://www.lawinfo.com/lawfirm/wisconsin/wausau/jerome-a-maeder-law-office-sc/cad12996-3387-47a3-9958-ae98bd921d39.html"
+        "url": "https://www.lawinfo.com/lawfirm/wisconsin/wausau/jerome-a-maeder-law-office-sc/cad12996-3387-47a3-9958-ae98bd921d39.html",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.martindale.com": {
-        "url": "https://www.martindale.com/automobile-accidents-lawyers/wausau/wisconsin/"
+        "url": "https://www.martindale.com/automobile-accidents-lawyers/wausau/wisconsin/",
+        "nature": "Invalid: DDOS protection screen"
     },
     "m.yelp.com": {
-        "url": "https://m.yelp.com/search?find_desc=Car+Accident+Lawyer&find_loc=Wausau%2C+WI"
+        "url": "https://m.yelp.com/search?find_desc=Car+Accident+Lawyer&find_loc=Wausau%2C+WI",
+        "nature": "list of projects"
     },
     "www.avvo.com": {
-        "url": "https://www.avvo.com/car-accidents-lawyer/wi/wausau.html"
+        "url": "https://www.avvo.com/car-accidents-lawyer/wi/wausau.html",
+        "nature": "Invalid:DDOS protection screen"
     },
     "www.carwreckdoctor.com": {
-        "url": "https://www.carwreckdoctor.com/accident-lawyer/wisconsin/wausau"
+        "url": "https://www.carwreckdoctor.com/accident-lawyer/wisconsin/wausau",
+        "nature": "list of projects"
     },
     "www.yelp.com": {
-        "url": "https://www.yelp.com/search?cflt=personal_injury&find_loc=Wausau%2C+WI"
+        "url": "https://www.yelp.com/search?cflt=personal_injury&find_loc=Wausau%2C+WI",
+        "nature": "list of projects"
     },
     "www.rozeklaw.com": {
-        "url": "https://www.rozeklaw.com/wausau-wi-brain-injury-lawyer.html"
+        "url": "https://www.rozeklaw.com/wausau-wi-brain-injury-lawyer.html",
+        "nature": "list of projects"
     },
     "www.gillickwicht.com": {
-        "url": "https://www.gillickwicht.com/wausau-workers-compensation-attorneys.shtml"
+        "url": "https://www.gillickwicht.com/wausau-workers-compensation-attorneys.shtml",
+        "nature": "list of projects"
     },
     "www.hg.org": {
-        "url": "https://www.hg.org/lawyers/usa/wisconsin/wausau/car-accident"
+        "url": "https://www.hg.org/lawyers/usa/wisconsin/wausau/car-accident",
+        "nature": "Invalid: DDOS protection screen"
     },
     "www.dvlawoffice.com": {
-        "url": "https://www.dvlawoffice.com/personal-injury.html"
+        "url": "https://www.dvlawoffice.com/personal-injury.html",
+        "nature": "list of projects"
     },
     "pembertonpi.com": {
-        "url": "https://pembertonpi.com/"
+        "url": "https://pembertonpi.com/",
+        "nature": "list of projects"
     },
     "www.gruber-law.com": {
-        "url": "https://www.gruber-law.com/"
+        "url": "https://www.gruber-law.com/",
+        "nature": "single project"
     },
     "lawyers.law.cornell.edu": {
-        "url": "https://lawyers.law.cornell.edu/lawyers/personal-injury/wisconsin/wausau"
+        "url": "https://lawyers.law.cornell.edu/lawyers/personal-injury/wisconsin/wausau",
+        "nature": "list of projects"
     }
 }
