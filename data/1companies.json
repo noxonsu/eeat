@@ -56,5 +56,14 @@
         "cached_url": "not found",
         "sourcekeyword": "Internet Archive:  Audio",
         "nature": "Invalid:DDOS protection screen"
+    },
+    "www.healthline.com": {
+        "url": "https://www.healthline.com/nutrition/10-proven-magnesium-benefits#TOC_TITLE_HDR_2"
+    },
+    "www.medicalnewstoday.com": {
+        "url": "https://www.medicalnewstoday.com/articles/286839"
+    },
+    "www.webmd.com": {
+        "url": "https://www.webmd.com/diet/supplement-guide-magnesium"
     }
 }
