@@ -28,12 +28,16 @@
         "nature": "list of projects"
     },
     "ahrefs.com": {
-        "url": "https://ahrefs.com/blog/serp-analysis/",
-        "nature": "list of projects"
+        "url": "https://ahrefs.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "Ahrefs:  SEO"
     },
     "www.searchenginejournal.com": {
-        "url": "https://www.searchenginejournal.com/what-is-serp-must-know-definitions/",
-        "nature": "list of projects"
+        "url": "https://www.searchenginejournal.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "SearchEngineJournal:  Leveraging Generative AI Tools For SEO"
     },
     "blog.hubspot.com": {
         "url": "https://blog.hubspot.com/marketing/serps-meaning",
@@ -62,8 +66,10 @@
         "nature": "list of projects"
     },
     "www.medicalnewstoday.com": {
-        "url": "https://www.medicalnewstoday.com/articles/286839",
-        "nature": "list of projects"
+        "url": "https://www.medicalnewstoday.com",
+        "nature": "single project",
+        "cached_url": "not found",
+        "sourcekeyword": "MedicalNewsToday:  Health Conditions"
     },
     "www.webmd.com": {
         "url": "https://www.webmd.com/diet/supplement-guide-magnesium",
