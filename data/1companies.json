@@ -58,12 +58,15 @@
         "nature": "Invalid:DDOS protection screen"
     },
     "www.healthline.com": {
-        "url": "https://www.healthline.com/nutrition/10-proven-magnesium-benefits#TOC_TITLE_HDR_2"
+        "url": "https://www.healthline.com/nutrition/10-proven-magnesium-benefits#TOC_TITLE_HDR_2",
+        "nature": "list of projects"
     },
     "www.medicalnewstoday.com": {
-        "url": "https://www.medicalnewstoday.com/articles/286839"
+        "url": "https://www.medicalnewstoday.com/articles/286839",
+        "nature": "list of projects"
     },
     "www.webmd.com": {
-        "url": "https://www.webmd.com/diet/supplement-guide-magnesium"
+        "url": "https://www.webmd.com/diet/supplement-guide-magnesium",
+        "nature": "list of projects"
     }
 }
